@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5277">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05092516</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021P002953</org_study_id>
+    <nct_id>NCT05092516</nct_id>
+  </id_info>
+  <brief_title>Home-based Brain Stimulation Treatment for Post-acute Sequelae of COVID-19 (PASC)</brief_title>
+  <official_title>Home-based Transcranial Direct Current Stimulation (tDCS) for Treatment of Cognitive Post-acute Sequelae of COVID-19 (PASC)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main goal of this study is to improve dysexecutive symptoms (e.g., sustained attention,&#xD;
+      processing speed) in patients exhibiting post-acute sequelae of COVID-19 (PASC) through&#xD;
+      home-based transcranial direct current stimulation (tDCS), a noninvasive method that uses low&#xD;
+      intensity electric currents delivered to the brain through stimulation electrodes on the&#xD;
+      scalp.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2022</start_date>
+  <completion_date type="Anticipated">July 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in inhibitory control</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Performance during the incongruent trials of the Eriksen Flanker Task will be assessed at four time points before, during, and after the 4-week intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in processing speed</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Reaction time during the incongruent trials of the Eriksen Flanker Task will be assessed at four time points before, during, and after the 4-week intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in EEG P300 event-related potential</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>EEG P300 amplitudes time-locked to the incongruent trials of the Eriksen Flanker Task will be assessed at four time points before, during, and after the 4-week intervention.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Post-Acute Sequelae of COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Active tDCS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This group will receive daily active stimulation (2 mA) to the left dorsolateral prefrontal cortex for 4 weeks through a home-based tDCS device in remotely-supervised 30-min sessions.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham tDCS</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>This group will receive daily sham stimulation to the left dorsolateral prefrontal cortex for 4 weeks through a home-based tDCS device in remotely-supervised 30-min sessions.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Active tDCS</intervention_name>
+    <description>2 mA of anodal stimulation will be applied to the left prefrontal cortex over the F3 electrode based on the International 10-10 EEG system.</description>
+    <arm_group_label>Active tDCS</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Sham tDCS</intervention_name>
+    <description>Sham stimulation will be applied to the left prefrontal cortex over the F3 electrode.</description>
+    <arm_group_label>Sham tDCS</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ability to provide informed consent&#xD;
+&#xD;
+          -  A diagnosis of PASC as indicated by past COVID-19 infection, and persistent symptoms,&#xD;
+             including 'brain fog', confusion, short-term memory deficits, trouble concentrating,&#xD;
+             delirium, difficulties in multitasking.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of epilepsy&#xD;
+&#xD;
+          -  Metallic implants in the head and neck,&#xD;
+&#xD;
+          -  Brain stimulators&#xD;
+&#xD;
+          -  Pacemakers&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Active substance dependence (except for tobacco)&#xD;
+&#xD;
+          -  Premorbid major neurological illness&#xD;
+&#xD;
+          -  Severe mental illness (e.g., bipolar disorder, schizophrenia)&#xD;
+&#xD;
+          -  ADHD&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Hamdi Eryilmaz, Ph.D.</last_name>
+    <phone>6176437462</phone>
+    <email>hamdi.eryilmaz@mgh.harvard.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Blake Andreou, B.S.</last_name>
+    <phone>6176438199</phone>
+    <email>bandreou@mgh.harvard.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Charlestown</city>
+        <state>Massachusetts</state>
+        <zip>02129</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Blake Andreou, B.S.</last_name>
+      <phone>617-643-8199</phone>
+      <email>bandreou@mgh.harvard.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Melissa Pax, B.A.</last_name>
+      <phone>6177268753</phone>
+      <email>mpax@mgh.harvard.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 25, 2021</study_first_posted>
+  <last_update_submitted>October 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 25, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Hamdi Eryilmaz, PhD</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>Transcranial Direct Current Stimulation</keyword>
+  <keyword>EEG</keyword>
+  <keyword>Sustained attention</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

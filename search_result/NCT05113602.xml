@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3655">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05113602</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SIGMA</org_study_id>
+    <nct_id>NCT05113602</nct_id>
+  </id_info>
+  <brief_title>Validation of the EEG Signal Quality Measured by the URGOnight Device and Comparison With a Clinical Device</brief_title>
+  <acronym>SIGMA</acronym>
+  <official_title>Validation of the EEG Signal Quality Measured by the URGOnight Device and Comparison With a Clinical Device</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Urgotech</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>ESPCI Paris</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Urgotech</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The electroencephalogram or EEG is a painless and non-invasive exploratory examination&#xD;
+      routinely performed in clinical and experimental medicine and has various applications. It is&#xD;
+      therefore relevant to develop application-specific EEG measurement devices.&#xD;
+&#xD;
+      The clinical development of therapies based on brain control has led to the emergence of&#xD;
+      numerous EEG devices that aim to allow mobile, autonomous, and easy use for users.&#xD;
+&#xD;
+      Data from the literature have proven the ability of neurofeedback (a form of biofeedback in&#xD;
+      which subjects respond to a display of their own brainwaves in order to improve their health&#xD;
+      or performance) to improve brain function in healthy or pathological subjects.&#xD;
+&#xD;
+      These therapeutic applications are offered in hospital settings with conventional systems and&#xD;
+      in the presence of a therapist.&#xD;
+&#xD;
+      The EEG measurement device URGOnight was developed with the aim of offering autonomous&#xD;
+      neurofeedback exercises at home. URGOnight is a portable device. It uses passive electrodes&#xD;
+      (which do not send an electric current) and so-called dry electrodes, i.e. no gel or&#xD;
+      conductive paste is required.&#xD;
+&#xD;
+      Therefore, the SIGMA study aims to evaluate the quality of the EEG signal collected by&#xD;
+      URGOnight and compare it with an electroencephalography device commonly used in clinical and&#xD;
+      research settings.&#xD;
+&#xD;
+      We will also evaluate the quality of the brain wave measurement usually retained in&#xD;
+      comparative studies of EEG systems.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 26, 2021</start_date>
+  <completion_date type="Actual">June 30, 2021</completion_date>
+  <primary_completion_date type="Actual">January 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>effectiveness of the URGOnight device in detecting brain signals triggered by eye closure in the Alpha band (8-12 Hz) in comparison with the Enobio 20 device.</measure>
+    <time_frame>5 min recording</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To compare the measurement performed by URGOnight to the measurement performed by the Enobio 20 device of Visual evoked potentials SSVEP at 4, 8, 10, 13, 15 and 20 hertz</measure>
+    <time_frame>5 min recording</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare the measurement performed by URGOnight to the measurement performed by the Enobio 20 device of SMR rhythm</measure>
+    <time_frame>10 min recording</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare the measurement performed by URGOnight to the measurement performed by the Enobio 20 device of Individual Alpha frequencies</measure>
+    <time_frame>10 min recording</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Optimize protocols to identify and distinguish individual Alpha and SMR peaks</measure>
+    <time_frame>20 min recording</time_frame>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">35</enrollment>
+  <condition>Healthy Volonteers</condition>
+  <arm_group>
+    <arm_group_label>Simultaneous acquisition of EEG signals</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>URGOnight</intervention_name>
+    <description>EEG dry electrodes portable device</description>
+    <arm_group_label>Simultaneous acquisition of EEG signals</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Enobio</intervention_name>
+    <description>EEG wet electrodes portable device</description>
+    <arm_group_label>Simultaneous acquisition of EEG signals</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Over 18 years old&#xD;
+&#xD;
+          -  Head circumference between 52 and 62 centimeters&#xD;
+&#xD;
+          -  Affiliated or beneficiary of a social security system&#xD;
+&#xD;
+          -  Protected persons in the sense of article L.1121-9 of the Public Health Code.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  According to declarative :&#xD;
+&#xD;
+          -  Use of medication or drugs with a possible effect on cognitive performance, such as&#xD;
+             benzodiazepines, antidepressants and antipsychotics&#xD;
+&#xD;
+          -  Epilepsy&#xD;
+&#xD;
+          -  The experimenter cannot get a good signal between the scalp and the electrodes at the&#xD;
+             beginning of the experiment (for example because of the type of hair or for any other&#xD;
+             technical reason).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>ESPCI</name>
+      <address>
+        <city>Paris</city>
+        <zip>75005</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 28, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 9, 2021</study_first_posted>
+  <last_update_submitted>October 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

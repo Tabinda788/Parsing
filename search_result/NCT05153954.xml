@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="553">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05153954</url>
+  </required_header>
+  <id_info>
+    <org_study_id>REG-046-2021</org_study_id>
+    <nct_id>NCT05153954</nct_id>
+  </id_info>
+  <brief_title>Quantitative ICG Fluorescence Angiography in Colorectal Surgery</brief_title>
+  <acronym>QUANTICO</acronym>
+  <official_title>Quantitative ICG Fluorescence Angiography in Colorectal Surgery (QUANTICO): A Protocol for a Prospective, Standardized, Observational, Surgeon-blinded Multi-center Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Zealand University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Perfusion Tech Aps</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Zealand University Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Fluorescence angiography with indocyanine green (ICG-FA) has gained increased popularity in&#xD;
+      colorectal surgery to check perfusion to the newly-formed anastomotic area and decrease the&#xD;
+      rate of postoperative anastomotic leakage.&#xD;
+&#xD;
+      While qualitative ICG assessment has the advantage to be used instantly during the operative&#xD;
+      procedure, it does bear drawbacks (subjective assessment, dependent on factors like camera&#xD;
+      distance, ICG dose and white-light contamination).&#xD;
+&#xD;
+      The alternative is quantitative ICG assessment, which is performed by evaluating the&#xD;
+      time-intensity curve of the ICG-FA with an external analyzing software. The procedure is&#xD;
+      showing promising results, but the methodology is still reported very heterogeneously.&#xD;
+&#xD;
+      This study is a multi-center, prospective, standardized, surgeon-blinded observational trial.&#xD;
+      The key aspect of this study is the non-interventional design with blinding of both the&#xD;
+      qualitative and quantitative results from the ICG perfusion measurement, providing no chance&#xD;
+      of influencing the course of the operation. Assessment of perfusion will be performed&#xD;
+      postoperatively blinded to the outcome. Assessment of the pre-anastomotic area is&#xD;
+      intraoperatively performed by an image analysis software that then calculates a perfusion&#xD;
+      score based on an algorithm integrating relevant perfusion metrics. The primary outcome is&#xD;
+      the combined rate of early and late anastomotic complications within 90 days postoperatively.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 31, 2021</start_date>
+  <completion_date type="Anticipated">August 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Postoperative anastomotic complications</measure>
+    <time_frame>3 months</time_frame>
+    <description>combined rate of all anastomotic complications</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with complications according to Clavien-Dindo Classification</measure>
+    <time_frame>90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with anastomotic leakage rate, severity (grade A-C)</measure>
+    <time_frame>90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with postoperative bleeding</measure>
+    <time_frame>10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with postoperative paralytic ileus</measure>
+    <time_frame>90 days</time_frame>
+    <description>obstipation and intolerance of oral intake due to nonmechanical factors that disrupt the normal coordinated propulsive motor activity of the gastrointestinal tract following abdominal surgery</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with wound dehiscence</measure>
+    <time_frame>1 month</time_frame>
+    <description>surgical complication in which a wound ruptures along a surgical incision</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comprehensive complications index</measure>
+    <time_frame>90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of surgery</measure>
+    <time_frame>1 day</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reoperation rate</measure>
+    <time_frame>1 month</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital readmission</measure>
+    <time_frame>1 month</time_frame>
+    <description>Number of patients had have to be readmitted to the hospital due to postoperative complications</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospital stay</measure>
+    <time_frame>1 month</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>QT interval variability</measure>
+    <time_frame>2 days</time_frame>
+    <description>Continuous ECG-monitoring intraoperatively and postoperatively</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">115</enrollment>
+  <condition>Colorectal Cancer</condition>
+  <condition>Anastomotic Leak</condition>
+  <arm_group>
+    <arm_group_label>Colorectal cancer patients</arm_group_label>
+    <description>Patients who can be treated with either PME or TME and receive a primary anastomosis during surgery.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Quantitative Indocyanine Green Fluorescence Angiography</intervention_name>
+    <description>Quantitative analyse of ICG around the proximal/oral part of the anastomosis pre-formation of the primary anasomosis</description>
+    <arm_group_label>Colorectal cancer patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study will include 115 participants undergoing elective resection with PME or TME for&#xD;
+        rectal or rectosigmoid cancer through a minimally invasive approach.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18 years or older&#xD;
+&#xD;
+          -  Capable of giving informed consent&#xD;
+&#xD;
+          -  ASA Classification: status I-III&#xD;
+&#xD;
+          -  Planned for PME or TME with minimally invasive approach and primary anastomosis&#xD;
+&#xD;
+          -  Strong suspicion of or biopsy-verified sigmoid or rectal cancer Stage I-IV cancer&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Known allergy to ICG or iodine&#xD;
+&#xD;
+          -  Emergency procedure&#xD;
+&#xD;
+          -  Pregnancy or if the patient is currently nursing&#xD;
+&#xD;
+          -  Surgeons decide to do unblinded quantitative or qualitative ICG-FA&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ismail Gögenur, DMSc, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of Surgery, Zealand University Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Niclas Dohrn, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of Surgery, Herlev Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mads Falk Klein, PhD, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of Surgery, Herlev Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Carolin Oppermann, MD</last_name>
+    <phone>004952115957</phone>
+    <email>caopp@regionsjaelland.dk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Niclas Dohrn, MD</last_name>
+    <phone>004521289777</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Department of Surgery, Zealand University Hospital</name>
+      <address>
+        <city>Køge</city>
+        <state>Region Zealand</state>
+        <zip>4200</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carolin Oppermann, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Surgery, Herlev Hospital</name>
+      <address>
+        <city>Herlev</city>
+        <zip>2730</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Niclas Dohrn, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 10, 2021</study_first_posted>
+  <last_update_submitted>November 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Zealand University Hospital</investigator_affiliation>
+    <investigator_full_name>Carolin Oppermann</investigator_full_name>
+    <investigator_title>Medical Doctor, PhD student</investigator_title>
+  </responsible_party>
+  <keyword>indocyanine green</keyword>
+  <keyword>colon cancer</keyword>
+  <keyword>primary anastomosis</keyword>
+  <keyword>anastomotic perfusion</keyword>
+  <keyword>anastomotic leak</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anastomotic Leak</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

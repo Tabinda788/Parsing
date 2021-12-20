@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9890">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05032521</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GUINOT 2021-3</org_study_id>
+    <nct_id>NCT05032521</nct_id>
+  </id_info>
+  <brief_title>Treatment of Hyperlactatemia in Acute Circulatory Failure Based on Analysis of CO2: a Prospective Randomized Superiority Study (The LACTEL Study)</brief_title>
+  <acronym>LACTEL</acronym>
+  <official_title>Treatment of Hyperlactatemia in Acute Circulatory Failure Based on Analysis of CO2: a Prospective Randomized Superiority Study (The LACTEL Study)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire Dijon</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire Dijon</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The management of a patient with shock is based on improving tissue oxygenation through&#xD;
+      hemodynamic optimization. Lactate is a marker of tissue hypoperfusion commonly used in the&#xD;
+      ICU. In principle, hyperlactatemia can be caused by either increased tissue production&#xD;
+      (tissue hypoperfusion: type A), decreased lactate uptake (type B), or a combination of both&#xD;
+      mechanisms. It is important to correctly determine the cause(s) of hyperlactatemia, as this&#xD;
+      determines the treatment (expanders, inotrope, vasopressor, blood derivative transfusion),&#xD;
+      and the patient's morbidity and mortality. A classic example of this concept is volume&#xD;
+      expanders, which are frequently used to correct hyperlactatemia secondary to tissue&#xD;
+      hypoperfusion, but are associated with mortality if used excessively (fluid overload). In&#xD;
+      clinical practice, it is difficult to differentiate the exact causes of hyperlactatemia (type&#xD;
+      A and type B). From work carried out over the last 20 years in septic shock and then in other&#xD;
+      states of shock and in the operating theatre, it has been shown that the arteriovenous CO2&#xD;
+      gradient (pCO2gap) measured from arterial and venous blood gases is a marker of tissue&#xD;
+      hypoperfusion with better predictive ability than the usual markers (clinical examination,&#xD;
+      SVO2....). Furthermore, when we relate pCO2gap to the arteriovenous O2 difference (pCO2gap&#xD;
+      /C(a-v)O2), this ratio allows us to distinguish with greater accuracy between states of acute&#xD;
+      circulatory failure associated with anaerobiosis (tissue hypoperfusion, type A) and those&#xD;
+      related to the underlying disease.&#xD;
+&#xD;
+      Also, several studies have demonstrated a strong ability of the pCO2gap and the pCO2gap/CavO2&#xD;
+      ratio to predict the severity of shock, mortality of the shock patient, hyperlactatemia, and&#xD;
+      correction of hyperlactatemia with hemodynamic treatment. As a result, many authors have&#xD;
+      proposed algorithms for the management of shock patients based on the measurement of these&#xD;
+      CO2-derived indexes.&#xD;
+&#xD;
+      The hypothesis of this study is that the use of an algorithm based on CO2gap and the&#xD;
+      CO2gap/CavO2 ratio is superior in terms of correction of hyperlactatemia to usual practice&#xD;
+      based on clinical and macro-hemodynamics.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 2, 2021</start_date>
+  <completion_date type="Anticipated">November 2024</completion_date>
+  <primary_completion_date type="Anticipated">October 2024</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The primary endpoint is the number of patients with a lactate clearance of more than 10% (change of more than 10% between baseline and the level measured at 2 hours after management) at H2.</measure>
+    <time_frame>2 hours after inclusion</time_frame>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">180</enrollment>
+  <condition>Hyperlactatemia</condition>
+  <condition>Actue Circulatory Failure</condition>
+  <arm_group>
+    <arm_group_label>standard practice</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>algorithm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>collection of biological data</intervention_name>
+    <description>collection of biological data</description>
+    <arm_group_label>algorithm</arm_group_label>
+    <arm_group_label>standard practice</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>collection of demographic, ventilatory, cardiac echocardiography, arterial and venous gas data</intervention_name>
+    <description>These data are usually measured continuously (monitoring of the resuscitation patient) and recorded on recorded on the resuscitation software.</description>
+    <arm_group_label>algorithm</arm_group_label>
+    <arm_group_label>standard practice</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Standard treatment</intervention_name>
+    <description>usual management based on the use of drugs according to international recommendations</description>
+    <arm_group_label>standard practice</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>stratified treatment according to algorithm</intervention_name>
+    <description>management based on arteriovenous CO2 gradient Stratification of drug use</description>
+    <arm_group_label>algorithm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Oral, free and informed consent obtained from a trusted person (health care proxy) or&#xD;
+             a close relative or consent in an emergency situation&#xD;
+&#xD;
+          -  Adult patient managed in intensive care for whom the physician has decided on&#xD;
+             hemodynamic management because of signs of acute circulatory failure (systolic blood&#xD;
+             pressure &lt; 90 mmHg, mean arterial pressure &lt; 65 mmHg, or the need for infusion of&#xD;
+             vasopressors, skin mottling, diuresis &lt; 0.5 mL/kg/h for a duration ≥ 2 hours, skin&#xD;
+             recoloring time &gt; 3 sec&#xD;
+&#xD;
+          -  Arterial lactate level ≥ 3 mmol L-1&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Person not affiliated to national health insurance&#xD;
+&#xD;
+          -  Person subject to a measure of legal protection (curatorship, guardianship)&#xD;
+&#xD;
+          -  Person subject to limited judicial protection&#xD;
+&#xD;
+          -  Pregnancy or breastfeeding&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Pierre-Grégoire GUINOT</last_name>
+    <phone>03.80.28.13. 09</phone>
+    <phone_ext>+33</phone_ext>
+    <email>pierregregoire.guinot@chu-dijon.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Chu Dijon Bourgogne</name>
+      <address>
+        <city>Dijon</city>
+        <zip>21000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pierre-Grégoire GUINOT</last_name>
+      <phone>03.80.28.13. 09</phone>
+      <phone_ext>+33</phone_ext>
+      <email>pierregregoire.guinot@chu-dijon.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>August 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>August 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 2, 2021</study_first_posted>
+  <last_update_submitted>November 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hyperlactatemia</mesh_term>
+    <mesh_term>Shock</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

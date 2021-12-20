@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="704">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05151991</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-METCERORTO</org_study_id>
+    <nct_id>NCT05151991</nct_id>
+  </id_info>
+  <brief_title>A Clinical Trial on the Failure Rates of Metallic and Ceramic Orthodontic Brackets</brief_title>
+  <official_title>A 12-months Evaluation of the Failure Rates of Stainless Steel and Ceramic Brackets in Orthodontic Fixed Therapy: a Clinical Trial.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pavia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Pavia</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to assess if there are significant differences in the failure rate&#xD;
+      of stainless steel and ceramic brackets. For this study, patients will be enrolled and&#xD;
+      divided into two groups, according to the type of brackets (stainless steel or ceramic) used&#xD;
+      for orthodontic treatment. Failure rates will be recorded every month for 12 months and&#xD;
+      survival analysis will be performed, together with skeletal and space analysis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This clinical trial aims to investigate if there are differences in the failure rates of&#xD;
+      stainless steel and ceramic orthodontic brackets. Patients willing to start orthodontic fixed&#xD;
+      therapy and recruited for the study will be asked to sign the informed consent. Parents will&#xD;
+      sign the consent for underage patients. After that, patients will be divided into two groups:&#xD;
+&#xD;
+        -  Group MET: stainless steel brackets will be bonded on the vestibular surfaces of teeth.&#xD;
+&#xD;
+        -  Group CER: ceramic brackets will be bonded on the vestibular surfaces of teeth. The&#xD;
+           following sequence of archwires will be adopted for the first six months: 0.014-in Niti,&#xD;
+           .016-in NiTi, 0.017X0.025-in NiTi, 0.019X0.025-in SS. The failure rates of the brackets&#xD;
+           will be recorded each month for 12 months. Each failed bracket will be recorded once.&#xD;
+           For each patient, pre-treatment lateral cephalometric radiograph and study models will&#xD;
+           be used to measure ANB angle, Wits, Skeletal Class, dento-alveolar discrepancy and&#xD;
+           Little Index at the beginning of the treatment. Bond failures will be recorded together&#xD;
+           with the archwire engaged at the moment of the failure.&#xD;
+&#xD;
+      Sample size Sample size was calculated with the following assumptions: ability to detect a&#xD;
+      clinically relevant difference of 5.12% in the failure rates (primary outcome) of the two&#xD;
+      groups with an alfa = 0.05 and power = 85%. The assumptions were based on findings of a&#xD;
+      previous study with an expected value of 12.08% for the first group at the end of 12 months&#xD;
+      of therapy. Therefore, 1000 brackets (50 patients) per group were required for the study.&#xD;
+&#xD;
+      Statistical analysis Statistical analysis will be conducted with R software (R version 3.1.3,&#xD;
+      R Development Core Team, R Foundation for Statistical Computing, Wien, Austria). Fisher exact&#xD;
+      test will be performed to evaluate the differences between the failure rates of the two&#xD;
+      groups, between anterior and posterior sites and between upper and lower arches. Kaplan-Meier&#xD;
+      survival analysis of the bond failures will be performed among the 12 months of the study.&#xD;
+      Linear regressions will be calculated to assess the effects on bond failure of the skeletal&#xD;
+      and dental variables collected before the bonding procedure. Significance for all statistical&#xD;
+      tests will be predetermined at P&lt;0.05.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 10, 2021</start_date>
+  <completion_date type="Anticipated">January 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 17, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Failure rates of metallic and ceramic brackets.</measure>
+    <time_frame>Among the 12 months of the study.</time_frame>
+    <description>Each month, failed brackets will be recorded. Per each tooth, failure will be recorded once.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Failure rates of metallic and ceramic brackets per sites and sides.</measure>
+    <time_frame>Among the 12 months of the study.</time_frame>
+    <description>Failures will be divided in &quot;anterior&quot; for brackets failed on incisors and canines, and &quot;posterior&quot; for premolar brackets. Failure will be recorded per dental arch (&quot;upper&quot; and &quot;lower&quot;) and per archwire (.014-in NiTi, .016-in NiTi, .017X0.25-in NiTi, .019X.025-in SS). Per each tooth, failure will be recorded once.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ANB angle</measure>
+    <time_frame>Before the beginning of the orthodontic treatment.</time_frame>
+    <description>ANB angle will be calculated using the pre-treatment lateral cephalometric radiograph.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Wits Index</measure>
+    <time_frame>Before the beginning of the orthodontic treatment.</time_frame>
+    <description>Wits Index will be calculated using the pre-treatment lateral cephalometric radiograph.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skeletal Class</measure>
+    <time_frame>Before the beginning of the orthodontic treatment.</time_frame>
+    <description>Skeletal Class will be assessed using ANB angle and Wits Index will be calculated using the pre-treatment lateral cephalometric radiograph.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dento-alveolar discrepancy</measure>
+    <time_frame>Before the beginning of the orthodontic treatment.</time_frame>
+    <description>Dento-alveolar discrepancy will be calculated using the pre-treatment study models.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Little Index</measure>
+    <time_frame>Before the beginning of the orthodontic treatment.</time_frame>
+    <description>Little Index will be calculated using the pre-treatment study models.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Dental Malocclusion</condition>
+  <arm_group>
+    <arm_group_label>Groups MET</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients from this group will undergo orthodontic fixed treatment with stainless steel brackets.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group CER</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients from this group will undergo orthodontic fixed treatment with ceramic brackets.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Fixed orthodontic treatment with stainless steel brackets</intervention_name>
+    <description>Orthophosphoric acid 37% acid (Gerhò Etchant gel 37%, Gerhò spa, Terlano, Italy) will be applied for 30 s for the etching of the vestibular surfaces of teeth. The, after rinsing and drying, a thin layer of Transbond XT Light Cure Adhesive Primer (3M Unitek, Monrovia, CA, USA) will be applied and then cured for 10 s with a LED unit. At last, Transbond XT Light Cure Adhesive Paste (3M Unitek) will be applied on the base of stainless steel brackets (Queen Series Low Profile Brackets MBT 0.022&quot;, Aestetika, Terni, TR, Italy); brackets will be applied on the vestibular surfaces of teeth with a light pressure and the extra paste will be removed. Curing will be performed with the LED unit at 2 mm distant from the enamel-bracket interface for 40 s, 10 s per each surface (mesial, distal, gingival and occlusal). Then, the following sequence of archwires will be adopted for the first six months: .014-in Niti, .016-in NiTi, .017X.025-in NiTi, .019X.025-in SS (Aestetika, Terni, Italy).</description>
+    <arm_group_label>Groups MET</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Fixed orthodontic treatment with ceramic brackets</intervention_name>
+    <description>Orthophosphoric acid 37% (acid (Gerhò Etchant gel 37%, Gerhò spa, Terlano, Italy) will be applied for 30 s for the etching of the vestibular surfaces of teeth. The, after rinsing and drying, a thin layer of Transbond XT Light Cure Adhesive Primer (3M Unitek, Monrovia, CA, USA) will be applied and then cured for 10 s with a LED unit. At last, Transbond XT Light Cure Adhesive Paste (3M Unitek) will be applied on the base of ceramic brackets; brackets (Super Clear Series Brackets MBT 0.022&quot;, Aestetika, Terni, TR, Italy) will be applied on the vestibular surfaces of teeth with a light pressure and the extra paste is removed. Curing will be performed with the LED unit at 2 mm distant from the enamel-bracket interface for 40 s, 10 s per each surface (mesial, distal, gingival and occlusal). Then, the following sequence of archwires will be adopted for the first six months: .014-in Niti, .016-in NiTi; .017X.025-in NiTi, .019X.025-in SS (Aestetika, Terni, Italy).</description>
+    <arm_group_label>Group CER</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  patients willing to begin fixed multibracket therapy with metallic or ceramic&#xD;
+             brackets;&#xD;
+&#xD;
+          -  full permanent dentition;&#xD;
+&#xD;
+          -  enamel integrity, absence of traumatic or carious lesions, no pretreatment procedure&#xD;
+             performed with chemical agents;&#xD;
+&#xD;
+          -  no previous orthodontic treatment with fixed vestibular appliances.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  patients suffering from systemic diseases;&#xD;
+&#xD;
+          -  patients taking medications that could alter periodontal conditions (NSAIDS, steroids,&#xD;
+             etc.);&#xD;
+&#xD;
+          -  patients with low compliance;&#xD;
+&#xD;
+          -  patients unable to give informed consent;&#xD;
+&#xD;
+          -  presence of congenital enamel defects;&#xD;
+&#xD;
+          -  extractions for orthodontic reasons;&#xD;
+&#xD;
+          -  oral/orthognathic surgery.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andrea Scribante, DDS, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pavia</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Andrea Scribante, DDS, PhD</last_name>
+    <phone>+39 0382516223</phone>
+    <email>andrea.scribante@unipv.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Unit of Orthodontics and Pediatric Dentistry - Section of Dentistry - Department of Clinical, Surgical, Diagnostic and Pediatrics - University of Pavia</name>
+      <address>
+        <city>Pavia</city>
+        <state>Lombardy</state>
+        <zip>27100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Andrea Scribante, DDS, PhD</last_name>
+      <phone>+39 0382516223</phone>
+      <email>andrea.scribante@unipv.it</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Kirschneck C, Rohn C, Proff P, Reicheneder C. Influence of enamel sealing with a light-cured filled sealant before bracket bonding on the bond failure rate during fixed orthodontic therapy. J Orofac Orthop. 2019 May;80(3):136-143. doi: 10.1007/s00056-019-00174-w. Epub 2019 Apr 10.</citation>
+    <PMID>30972424</PMID>
+  </reference>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>November 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 9, 2021</study_first_posted>
+  <last_update_submitted>December 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pavia</investigator_affiliation>
+    <investigator_full_name>Andrea Scribante</investigator_full_name>
+    <investigator_title>Research Resident, Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>metallic brackets</keyword>
+  <keyword>ceramic brackets</keyword>
+  <keyword>bond failures</keyword>
+  <keyword>multibrackets therapy</keyword>
+  <keyword>orthodontic treatment</keyword>
+  <keyword>bonding</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Malocclusion</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Data will be available upon motivated request to Principal Investigator</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

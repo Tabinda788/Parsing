@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8458">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05051137</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SWEFOT-RWEM</org_study_id>
+    <nct_id>NCT05051137</nct_id>
+  </id_info>
+  <brief_title>Real-World Emulation of the SWEFOT Trial</brief_title>
+  <acronym>SWEFOT-RWEM</acronym>
+  <official_title>Comparison of Infliximab With Sulfasalazine/Hydroxychloroquine Initiated After Methotrexate by Rheumatoid Arthritis Patients Treated in Clinical Practice (Real-World Emulation of SWEFOT Trial)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Karolinska Institutet</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Harvard Medical School (HMS and HSDM)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Karolinska Institutet</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will compare rheumatoid arthritis (RA) patients who have been treated in clinical&#xD;
+      practice with either infliximab or a combination of sulfasalazine and hydroxychloroquine,&#xD;
+      after having an active disease despite treatment with methotrexate for at least one month. To&#xD;
+      establish which patients respond to treatment, DAS28-ESR measurements (disease activity score&#xD;
+      using 28 joints and erythrocyte sedimentation rate) taken at treatment start and nine months&#xD;
+      thereafter, and the EULAR (European League Against Rheumatism) definition of a &quot;good&#xD;
+      response&quot; will be employed.&#xD;
+&#xD;
+      The purpose of the study is to verify if the same conclusion could be reached using data from&#xD;
+      patients treated in real world clinical practice as in a previous randomized controlled trial&#xD;
+      comparing the two treatment strategies (SWEFOT -- ClinicalTrials.gov Identifier:&#xD;
+      NCT00764725).&#xD;
+&#xD;
+      Inclusion criteria similar to the ones used in the emulated trial will be applied.&#xD;
+&#xD;
+      In real clinical practice, patients who receive infliximab may have more severe RA and may&#xD;
+      also differ in other ways from patients receiving sulfasalazine and hydroxychloroquine. To be&#xD;
+      able to compare the proportions of responders under each treatment in this &quot;real-world&quot;&#xD;
+      setting, the data will be re-weighted, so that patient characteristics become balanced&#xD;
+      between treatment groups.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This observational study is designed to verify if the results of a previously conducted&#xD;
+      randomized controlled trial (SWEFOT -- ClinicalTrials.gov Identifier: NCT00764725) could be&#xD;
+      replicated with observational data, by emulating the trial protocol as close as possible.&#xD;
+&#xD;
+      Thus, early rheumatoid arthritis (RA) patients who initiated treatment with infliximab or a&#xD;
+      combination of sulfasalazine and hydroxychloroquine after at least 30 days of methotrexate&#xD;
+      will be identified in the Swedish Rheumatology Quality register (SRQ) linked to other Swedish&#xD;
+      national registers and will be compared. Similar inclusion/exclusion criteria to the ones&#xD;
+      used in SWEFOT will be applied. Also, in keeping with SWEFOT, the primary outcome is the&#xD;
+      proportion of patients with a &quot;good EULAR response&quot;, measured nine months after study&#xD;
+      treatment initiation and considering patients who discontinued treatment before this point&#xD;
+      &quot;non-responders&quot; (i.e. &quot;non-responder imputation&quot; - regardless of the reason for&#xD;
+      discontinuation). For the combination of sulfasalazine and hydroxychloroquine the start of&#xD;
+      the second drug in the combination will be considered the study treatment initiation.&#xD;
+&#xD;
+      Since treatment assignment is not random in observational data, inverse probability of&#xD;
+      treatment weighting will be applied to balance patient characteristics between treatment&#xD;
+      cohorts, making them comparable (i.e. exchangeable). For each observation (i.e. patient), the&#xD;
+      probability of receiving the treatment actually received, conditional on a prespecified list&#xD;
+      of potential confounders will be estimated by logistic regression modelling and will be used&#xD;
+      to calculate a weight. Potential confounders included in the model are chosen based on&#xD;
+      knowledge about factors influencing treatment allocation and observed differences in such&#xD;
+      characteristics between treatment groups. The list of confounders includes: sex, age, country&#xD;
+      of origin, year of treatment start, duration of RA at treatment start, rheumatoid factor,&#xD;
+      disease activity at treatment start measured via: DAS28-ESR (disease activity score using 28&#xD;
+      joints and erythrocyte sedimentation rate), CDAI (clinical disease activity index), number of&#xD;
+      swollen and tender joints, pain assessment (measured on a visual analogue scale) and HAQ-DI&#xD;
+      (health assessment questionnaire disability index), use of NSAIDs and of glucocorticoids,&#xD;
+      history of: cancer, diabetes, acute coronary syndrome, stroke, venous thromboembolism,&#xD;
+      peripheral vascular disease, obstructive respiratory disease, anaemia, psoriasis,&#xD;
+      neuropathies, pain, osteoporosis, depression or anxiety, joint surgery, retinopathy and&#xD;
+      hospitalized infections, the number of days spent in hospital within 5 years before treatment&#xD;
+      start, smoking status.&#xD;
+&#xD;
+      All data included in this study is extracted from Swedish national registers. In these&#xD;
+      registers, data is collected routinely, prospectively and independently from any study. Thus,&#xD;
+      data on baseline characteristics was collected before treatment initiation, while outcome&#xD;
+      data was recorded after treatment initiation.&#xD;
+&#xD;
+      The proportion of responders in each group and the ratio between proportions will be&#xD;
+      estimated using a weighted generalized linear model, specifying a binomial distribution for&#xD;
+      the dependent variable and a logarithmic identity function. Before analysis, missing data&#xD;
+      (covariates and outcome) will be imputed using fully conditional specification multiple&#xD;
+      imputation after non-responder imputation. All data-analysis (from weights estimation to&#xD;
+      responder-ratio estimation) will be conducted separately in each imputed data-set, the&#xD;
+      results being subsequently pooled using Rubin's rules.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 12, 2006</start_date>
+  <completion_date type="Actual">November 16, 2020</completion_date>
+  <primary_completion_date type="Actual">November 16, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Good EULAR Response</measure>
+    <time_frame>9 months after study treatment initiation</time_frame>
+    <description>The proportion of patients remaining on treatment and achieving a &quot;good EULAR response&quot; defined as a DAS28-ESR ≤ 3.2 at evaluation and a decrease &gt; 1.2 units compared to the value at treatment initiation.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Good or Moderate EULAR Response</measure>
+    <time_frame>9 months after study treatment initiation</time_frame>
+    <description>The proportion of patients remaining on treatment and achieving a &quot;good or moderate EULAR response&quot; defined as a DAS28-ESR ≤ 5.1 at evaluation and a decrease &gt; 0.6 units compared to the value at treatment initiation, or a DAS28-ESR &gt; 5.1 at evaluation and a decrease &gt; 1.2 units compared to treatment start.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">509</enrollment>
+  <condition>Rheumatoid Arthritis</condition>
+  <arm_group>
+    <arm_group_label>Infliximab initiators</arm_group_label>
+    <description>Rheumatoid arthritis patients initiating infliximab after treatment with methotrexate for a minimum of 30 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sulfasalazine + Hydroxychloroquine initiators</arm_group_label>
+    <description>Rheumatoid arthritis patients initiating sulfasalazine and hydroxychloroquine after treatment with methotrexate for a minimum of 30 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Infliximab</intervention_name>
+    <description>Initiation of infliximab in any dose and frequency of administration. Could be discontinued for safety reasons and replaced by etanercept.</description>
+    <arm_group_label>Infliximab initiators</arm_group_label>
+    <other_name>Flixabi, Inflectra, Remicade, Remsima, Zessly</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sulfasalazine + Hydroxychloroquine</intervention_name>
+    <description>Initiation of sulfasalazine and hydroxychloroquine not more than 180 days apart, in any dose and frequency of administration. Any one of the two drugs could be discontinued. while continuing the other, or both could be replaced by cyclosporine, for safety reasons.</description>
+    <arm_group_label>Sulfasalazine + Hydroxychloroquine initiators</arm_group_label>
+    <other_name>Salazopyrin (sulfasalazine), Plaquenil (hydroxychloroquine)</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult patients with rheumatoid arthritis as recorded in the Swedish Rheumatology Quality&#xD;
+        register (main data source), who initiated one of the two study treatments (infliximab or&#xD;
+        sulfasalazine + hydroxychloroquine). All eligible patients were included in the study&#xD;
+        (without any subsequent selection).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          -  Have started methotrexate less than 540 days after RA debut.&#xD;
+&#xD;
+          -  Have used methotrexate for more then 30 days but less than 540 days before study&#xD;
+             treatment start.&#xD;
+&#xD;
+          -  Have a baseline DAS28-ESR of more than 3.2 at study treatment start.&#xD;
+&#xD;
+          -  Were residents of Sweden within 5 years before study treatment start&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Have used other DMARDs (antirheumatic drugs) than methotrexate before treatment start&#xD;
+&#xD;
+          -  Have initiated study treatments later than May 2020&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Thomas Frisell, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Karolinska Institutet</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Karolinska Institutet, Department of Medicine Solna, Clinical Epidemiology Unit</name>
+      <address>
+        <city>Stockholm</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <reference>
+    <citation>van Vollenhoven RF, Ernestam S, Geborek P, Petersson IF, Cöster L, Waltbrand E, Zickert A, Theander J, Thörner A, Hellström H, Teleman A, Dackhammar C, Akre F, Forslind K, Ljung L, Oding R, Chatzidionysiou A, Wörnert M, Bratt J. Addition of infliximab compared with addition of sulfasalazine and hydroxychloroquine to methotrexate in patients with early rheumatoid arthritis (Swefot trial): 1-year results of a randomised trial. Lancet. 2009 Aug 8;374(9688):459-66. doi: 10.1016/S0140-6736(09)60944-2.</citation>
+    <PMID>19665644</PMID>
+  </reference>
+  <reference>
+    <citation>van Vollenhoven RF, Geborek P, Forslind K, Albertsson K, Ernestam S, Petersson IF, Chatzidionysiou K, Bratt J; Swefot study group. Conventional combination treatment versus biological treatment in methotrexate-refractory early rheumatoid arthritis: 2 year follow-up of the randomised, non-blinded, parallel-group Swefot trial. Lancet. 2012 May 5;379(9827):1712-20. doi: 10.1016/S0140-6736(12)60027-0. Epub 2012 Mar 29.</citation>
+    <PMID>22464340</PMID>
+  </reference>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 21, 2021</study_first_posted>
+  <last_update_submitted>September 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 28, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Karolinska Institutet</investigator_affiliation>
+    <investigator_full_name>Thomas Frisell</investigator_full_name>
+    <investigator_title>Principal Investigator, Coordinator at the Clinical Epidemiology Division</investigator_title>
+  </responsible_party>
+  <keyword>Rheumatic Diseases</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Arthritis</mesh_term>
+    <mesh_term>Arthritis, Rheumatoid</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hydroxychloroquine</mesh_term>
+    <mesh_term>Sulfasalazine</mesh_term>
+    <mesh_term>Infliximab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>There is not a plan to make IPD available</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

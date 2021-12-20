@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="6226">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05080179</url>
+  </required_header>
+  <id_info>
+    <org_study_id>844564</org_study_id>
+    <nct_id>NCT05080179</nct_id>
+  </id_info>
+  <brief_title>Impact of Nudges on Downloads of COVID-19 Exposure Notification Smartphone Apps: A Randomized Trial</brief_title>
+  <official_title>The Interactive Effect of Social Norm and Self (vs. Others) Benefit Nudges on Downloads of COVID-19 Exposure Notification Smartphone Apps: A Randomized Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Pennsylvania Department of Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Eligible participants who were active beneficiaries of a large insurer living in Pennsylvania&#xD;
+      were sent an email encouraging them to download the contact tracing app in Pennsylvania,&#xD;
+      COVID Alert PA.&#xD;
+&#xD;
+      Participants will be randomly assigned to one of four conditions in a 2 (Self-benefit vs.&#xD;
+      Other-Benefit) x 2 (Social Norms Present vs. Social Norms absent) design.&#xD;
+&#xD;
+      All participants received an email that said :&#xD;
+&#xD;
+      &quot;COVID Alert PA is the official Exposure Notification App from the Pennsylvania Department of&#xD;
+      Health. Join Penn Medicine in the fight against COVID-19 and download COVID Alert PA today!&quot;&#xD;
+&#xD;
+      ---Investigators manipulated the content here---&#xD;
+&#xD;
+      &quot;The app uses Bluetooth to sense when one person is in close contact with another person with&#xD;
+      the app. If someone tests positive for COVID-19, and they decide to upload the information to&#xD;
+      the health department, people who have the app and who have been in contact with them will be&#xD;
+      alerted.&#xD;
+&#xD;
+      If you are interested in downloading the app, please click COVID Alert PA. We appreciate you&#xD;
+      joining our efforts. Together we can beat COVID-19!&quot;&#xD;
+&#xD;
+      In the Other-Benefit condition, it said: &quot;It can help you reduce your risk of unknowingly&#xD;
+      spreading the virus to your friends, family, and larger community.&quot;&#xD;
+&#xD;
+      In the Self-Benefit condition, it said: &quot;It can help you determine where and when to get&#xD;
+      testing, and how to get care if you need it.&quot;&#xD;
+&#xD;
+      In the Social Norms Present condition, it said: &quot;Over 650,000 Pennsylvanians have already&#xD;
+      downloaded the app!&quot;&#xD;
+&#xD;
+      In the Social Norms Absent condition, it said the statement about social norms above.&#xD;
+&#xD;
+      Participants who do not open the initial email received a follow-up email.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 11, 2020</start_date>
+  <completion_date type="Actual">January 28, 2021</completion_date>
+  <primary_completion_date type="Actual">January 28, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <intervention_model_description>This is a 2 (Self-Benefit vs. Other-Benefit) x 2 (Social Norm vs. No Social Norm) design. There are thus four conditions total.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>Participants were unaware they were participating in a study, and were thus blinded to their treatment assignment.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Click on Link to Download COVID Alert PA App</measure>
+    <time_frame>Up to nine weeks</time_frame>
+    <description>The investigators measured choice to click on the link to download the COVID Alert PA app or not, conditional on opening the email</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">39937</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Self-Benefit/Social Norm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>As part of their email, they read, &quot;It can help you determine where and when to get testing, and how to get care if you need it.&quot; and &quot;Over 650,000 Pennsylvanians have already downloaded the app!&quot;</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Self-Benefit/No Social Norm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>As part of their email, they read, &quot;It can help you determine where and when to get testing, and how to get care if you need it.&quot; They did not read any information about the number of Pennsylvanians who downloaded the app.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Other Benefit/Social Norm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>As part of their email, they read, &quot;It can help you reduce your risk of unknowingly spreading the virus to your friends, family, and larger community.&quot; and &quot;Over 650,000 Pennsylvanians have already downloaded the app!&quot;</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Other Benefit/No Social Norm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>As part of their email, they read, &quot;It can help you reduce your risk of unknowingly spreading the virus to your friends, family, and larger community.&quot; They did not read any information about the number of Pennsylvanians who downloaded the app.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Self-Benefit/Social Norm</intervention_name>
+    <description>As part of their email, they will read, &quot;It can help you determine where and when to get testing, and how to get care if you need it.&quot; and &quot;Over 650,000 Pennsylvanians have already downloaded the app!&quot;</description>
+    <arm_group_label>Self-Benefit/Social Norm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Self-Benefit/No Social Norm</intervention_name>
+    <description>As part of their email, they will read, &quot;It can help you determine where and when to get testing, and how to get care if you need it.&quot; They will not read any information about the number of Pennsylvanians who downloaded the app.</description>
+    <arm_group_label>Self-Benefit/No Social Norm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Other Benefit/Social Norm</intervention_name>
+    <description>As part of their email, they will read, &quot;It can help you reduce your risk of unknowingly spreading the virus to your friends, family, and larger community.&quot; and &quot;Over 650,000 Pennsylvanians have already downloaded the app!&quot;</description>
+    <arm_group_label>Other Benefit/Social Norm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Other Benefit/No Social Norm</intervention_name>
+    <description>As part of their email, they will read, &quot;It can help you reduce your risk of unknowingly spreading the virus to your friends, family, and larger community.&quot; They will not read any information about the number of Pennsylvanians who downloaded the app.</description>
+    <arm_group_label>Other Benefit/No Social Norm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Eligible participants were active beneficiaries of a large insurer living in&#xD;
+             Pennsylvania.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants who did not subscribe to offers and promotions emails were excluded, as&#xD;
+             were Medigap beneficiaries.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Independence Blue Cross (IBX)</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19146</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 15, 2021</study_first_posted>
+  <last_update_submitted>November 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

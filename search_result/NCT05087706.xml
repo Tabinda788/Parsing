@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5647">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05087706</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021HNRT03</org_study_id>
+    <nct_id>NCT05087706</nct_id>
+  </id_info>
+  <brief_title>Exploratory Study of Molecular Profile-Associated Evidence Guided Precision Therapy for Salivary Gland Cancer（MAPS）</brief_title>
+  <acronym>MAPS</acronym>
+  <official_title>Exploratory Study of Molecular Profile-Associated Evidence Guided Precision Therapy for Salivary Gland Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanghai Ninth People's Hospital Affiliated to Shanghai Jiao Tong University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Shanghai Ninth People's Hospital Affiliated to Shanghai Jiao Tong University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To explore the feasibility, efficacy and safety of determining the treatment regimen based on&#xD;
+      genomic profiling in patients with locally advanced and advanced salivary gland cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective, open-label, non-randomized single-center study to evaluate the&#xD;
+      feasibility of using molecular profile-based evidence to guide personalized therapy for&#xD;
+      patients with incurable salivary gland carcinoma patients. Comprehensive Genomic Profiling is&#xD;
+      performed on tissue with assessment of tumor mutation burden (TMB) status, and additional&#xD;
+      PD-L1 immunohistochemistry testing. Study Committee or Molecular Tumor Board (MTB) will&#xD;
+      recommend matched therapy, if available, following analysis of patient genomic profiles. The&#xD;
+      final treatment administered will be based on the treating physician's choice with MTB&#xD;
+      advice, patient preference, comorbidity considerations, and available drug access. Access to&#xD;
+      medication followed real-world practice.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 30, 2021</start_date>
+  <completion_date type="Anticipated">September 19, 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 19, 2023</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>1 Year</target_duration>
+  <primary_outcome>
+    <measure>Molecular mutation profile of patients with salivary gland cancer</measure>
+    <time_frame>18 months</time_frame>
+    <description>To explore the complete picture of molecular mutations in locally advanced and advanced salivary gland tumors in China</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of patients who receive molecular guided therapy</measure>
+    <time_frame>18 months</time_frame>
+    <description>Proportion of patients who have actionable genomic alterations and receive matched therapy based on genomic profile(s)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS) in patients</measure>
+    <time_frame>2 years</time_frame>
+    <description>PFS of patients with locally advanced and advanced salivary gland cancer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate (ORR)</measure>
+    <time_frame>2 years</time_frame>
+    <description>ORR in patients with advanced salivary gland cancer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>2 years</time_frame>
+    <description>OS of patients with locally advanced and advanced salivary gland cancer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with actionable genomic alteration</measure>
+    <time_frame>2 years</time_frame>
+    <description>To calculate the proportion of patients with actionable genomic alteration(s)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment-related adverse events (AEs)</measure>
+    <time_frame>2 years</time_frame>
+    <description>The grade of AEs and the number of patients with AEs are assessed by the investigator based on CTCAE v5.0 from the date of enrollment to 90 days after last dose of study treatment</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">182</enrollment>
+  <condition>Salivary Gland Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>Locally advanced patients with molecular-guided therapy</arm_group_label>
+    <description>Locally advanced patient will be assigned to molecularly-guided therapy based on genomic profile.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Advanced patients with molecular-guided therapy</arm_group_label>
+    <description>Advanced patient will be assigned to molecularly-guided therapy based on genomic profile.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pyrotinib</intervention_name>
+    <description>Pyrotinib 400mg qd po</description>
+    <arm_group_label>Advanced patients with molecular-guided therapy</arm_group_label>
+    <arm_group_label>Locally advanced patients with molecular-guided therapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bicalutamide</intervention_name>
+    <description>Bicalutamide was administered orally at a daily dose of 50 mg</description>
+    <arm_group_label>Advanced patients with molecular-guided therapy</arm_group_label>
+    <arm_group_label>Locally advanced patients with molecular-guided therapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Leuprorelin</intervention_name>
+    <description>Leuprorelin acetate was administered subcutaneously at a dose of 3.75 mg every 4 weeks</description>
+    <arm_group_label>Advanced patients with molecular-guided therapy</arm_group_label>
+    <arm_group_label>Locally advanced patients with molecular-guided therapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients interviewed at Shanghai Ninth People's Hospital Affiliated to Shanghai Jiao Tong&#xD;
+        University&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria for patients with locally advanced gland cancer at high-risk of&#xD;
+        recurrence must meet all entry criteria for participation in this study:&#xD;
+&#xD;
+          -  Locally advanced salivary gland carcinoma patients with high risk of recurrence&#xD;
+             confirmed by histology, the main pathological subtypes include:&#xD;
+&#xD;
+               -  Mucoepidermoid carcinoma&#xD;
+&#xD;
+               -  Salivary duct carcinoma&#xD;
+&#xD;
+               -  Non-specific adenocarcinoma&#xD;
+&#xD;
+               -  Pleomorphic adenocarcinoma, etc.&#xD;
+&#xD;
+          -  Expected survival ≥ 6 months&#xD;
+&#xD;
+          -  Patients with prior standard surgery and post-operative radiotherapy (chemotherapy)&#xD;
+&#xD;
+          -  Adequate function of main organs&#xD;
+&#xD;
+          -  Sufficient tissue samples for gene mutation test&#xD;
+&#xD;
+          -  Signed informed consent&#xD;
+&#xD;
+        Inclusion Criteria for patients of advanced gland cancer must meet all entry criteria for&#xD;
+        participation in this study:&#xD;
+&#xD;
+          -  Histologically confirmed recurrent or metastatic salivary gland cancer, the main&#xD;
+             pathological subtypes include:&#xD;
+&#xD;
+               -  Mucoepidermoid carcinoma&#xD;
+&#xD;
+               -  Salivary duct carcinoma&#xD;
+&#xD;
+               -  Non-specific adenocarcinoma&#xD;
+&#xD;
+               -  Mastoid secretory carcinoma&#xD;
+&#xD;
+               -  Pleomorphic adenocarcinoma, etc.&#xD;
+&#xD;
+          -  a measurable lesion according to Response Evaluation Criteria in Solid Tumors, version&#xD;
+             1.1 (RECIST v1.1)&#xD;
+&#xD;
+          -  Expected survival ≥ 6 months&#xD;
+&#xD;
+          -  Adequate function of main organs&#xD;
+&#xD;
+          -  Sufficient tissue samples for gene mutation detection&#xD;
+&#xD;
+          -  Signed informed consent.&#xD;
+&#xD;
+        Exclusion Criteria for patients with locally advanced disease at high-risk of recurrence&#xD;
+        who meet any of the exclusion criteria at baseline will be excluded from the study:&#xD;
+&#xD;
+          -  Severe or uncontrolled medical conditions (i.e., uncontrolled diabetes, chronic kidney&#xD;
+             disease, chronic lung disease or active uncontrolled infection, psychiatric&#xD;
+             illness/social situations that would, in the opinion of the investigator, confound the&#xD;
+             analysis of response to study treatment)&#xD;
+&#xD;
+          -  Pregnancy or breastfeeding, or any patient with childbearing potential not using&#xD;
+             adequate pregnancy prevention&#xD;
+&#xD;
+        Exclusion Criteria for patients with advanced disease who meet any of the exclusion&#xD;
+        criteria at baseline will be excluded from the study:&#xD;
+&#xD;
+          -  Primary lesions amenable to local therapy&#xD;
+&#xD;
+          -  Severe or uncontrolled medical conditions (i.e., uncontrolled diabetes, chronic kidney&#xD;
+             disease, chronic lung disease or active uncontrolled infection, psychiatric&#xD;
+             illness/social situations that would, in the opinion of the investigator, confound the&#xD;
+             analysis of response to study treatment).&#xD;
+&#xD;
+          -  Pregnancy or breastfeeding, or any patient with childbearing potential not using&#xD;
+             adequate pregnancy prevention&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Guopei Zhu, M.D.</last_name>
+    <phone>15800386875</phone>
+    <email>antica@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Shanghai Ninth People's Hospital Affiliated to Shanghai Jiao Tong University</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200011</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Guopei Zhu, M.D.</last_name>
+      <email>antica@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 21, 2021</study_first_posted>
+  <last_update_submitted>October 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Salivary Gland Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bicalutamide</mesh_term>
+    <mesh_term>Leuprolide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

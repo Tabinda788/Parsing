@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5452">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05090241</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202005974</org_study_id>
+    <nct_id>NCT05090241</nct_id>
+  </id_info>
+  <brief_title>Frailty Prevention in Elders From Reunion Island</brief_title>
+  <acronym>5P-ECHELLE</acronym>
+  <official_title>Frailty Prevention in Elders From Reunion Island: Detection of Frailty, Age-related Issues and Risk of Falling Among Community Dwelling Elderly</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universite de La Reunion</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Centre National de la Recherche Scientifique, France</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Institut de Recherche pour le Developpement</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Centre Hospitalier Universitaire de la Réunion</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>General Social Security Fund</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Universite de La Reunion</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In Reunion Island, people encounter environmental and social conditions leading to premature&#xD;
+      ageing and subsequent frailty.&#xD;
+&#xD;
+      The study evaluates tools, supported by the latest scientific advances in &quot;machine learning&quot;&#xD;
+      to detect, identify and measure frailty in order to give health professionals the means to&#xD;
+      act early through preventive actions.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The 5P research program is a 6-years program that started in 2016.&#xD;
+&#xD;
+      Its objective is to set up tools, supported by the latest scientific advances in &quot;machine&#xD;
+      learning&quot; to detect, identify and measure frailty in order to give health professionals the&#xD;
+      means to act early through preventive actions.&#xD;
+&#xD;
+      The diversity and transversal nature of the research disciplines in this program make it&#xD;
+      original. This allows it, through common protocols, to explore the concept of frailty and the&#xD;
+      care pathway of the elderly through different prisms of complementary observations.&#xD;
+&#xD;
+      This program is deployed in three stages: proof of principle, proof of concept (called&#xD;
+      5P-PILOT) and &quot;the Scaling up&quot; (called 5P-ECHELLE). It combines an evaluation of the&#xD;
+      acceptability of technological detection tools, a measurement of the impact of prevention&#xD;
+      workshops on the loss of autonomy among independent frail elderly people and an evaluation of&#xD;
+      tools to help detect frailty.&#xD;
+&#xD;
+      The ageing of the population poses a real societal challenge. The loss of autonomy, which is&#xD;
+      the result of multiple individual or environmental factors for the ageing person, has a&#xD;
+      costly impact in terms of recourse to care and on the people around them. It is therefore&#xD;
+      urgent to act on the levers of frailty by acting as early as possible to prevent its&#xD;
+      irreversibility.&#xD;
+&#xD;
+      The &quot;5P ECHELLE&quot; project aims to develop a semi-automatic and non-medical method for&#xD;
+      detecting weak signals of frailty in older people, by combining standardized clinical&#xD;
+      indicators for assessing their state of robustness with large-scale intelligent detection&#xD;
+      devices that allow for longitudinal monitoring, while integrating the necessary participatory&#xD;
+      dimension of the subject.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 31, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in the number of falls</measure>
+    <time_frame>Change from baseline in the number of falls to 6 months.</time_frame>
+    <description>Collection of falls by diary with monthly telephone survey for 6 months. A fall is defined as an event in which an individual inadvertently falls to the ground or any other surface below the level of origin.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in balance performance</measure>
+    <time_frame>Change from baseline in balance performance to 6 months.</time_frame>
+    <description>The balance measurement was performed on a force platform. The senior citizen was positioned barefoot on the strength platform. The measurement was performed for 30 seconds with eyes open, then with eyes closed for 30 seconds. Postural control acquisition data, and more specifically the displacement of the center of pressure was measured in both the medio-lateral and antero-posterior dimensions. Small variations are better.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in gait performance</measure>
+    <time_frame>Change from baseline in balance and gait performance to 6 months.</time_frame>
+    <description>The gait test was carried out using sensors to analyze and retrieve data from the participant's walk (gait speed, step length, duration of the double support phase). Four X-sens® Motion Tracker Wireless sensors were positioned on the clothes with headbands as follows: one at forehead level on the median sagittal line, the second opposite the L4 vertebra and the last two on the dorsal surface of the right and left feet at mid-foot level. Then, the patient walked 10 meters in a straight line, made a half turn and walked 10 meters again. Higher gait speed is better.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frailty according to &quot;Fried et al&quot; criteria</measure>
+    <time_frame>Assessed at baseline</time_frame>
+    <description>The Fried criteria are a list of 5 criteria to define the elderly frailty. Weight loss: &quot;In the last year, have you lost more than 3 kilograms unintentionally?&quot; If yes, then frail for weight loss criterion.&#xD;
+Exhaustion: the following two statements are read. (a) I felt that everything I did was an effort; (b) I could not get going. The question is asked &quot;How often in the last week did you feel this way?&quot; 0 = rarely or none of the time (&lt; 1 day), 1 = some or a little of the time (1-2 days), 2 = a moderate amount of the time (3-4 days), or 3 = most of the time. Subjects answering &quot;2&quot; or &quot;3&quot; to either of these questions are categorized as frail by the exhaustion criterion.&#xD;
+Walk Time: Cutoff for time to walk 4 meters criterion for frailty, &gt;= 7 seconds Grip Strength: cutoff for grip strength (Kilogram) criterion for frailty &lt; 30 for men, &lt;17 for women. A person is frail if 3 out of 5 criteria are found, pre-frail if 1 or 2 are found, or robust if no criterion are found.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Short Physical Performance Battery (SPPB)</measure>
+    <time_frame>Assessed at baseline</time_frame>
+    <description>The Short Physical Performance Battery is the sum of the scores on three criteria: the balance test, the walking speed test and the chair lift test. This test is used to evaluate the physical performance of an individual. Total points 0 - 12. Higher scores mean a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Falls Risk for Older People in the Community (FROP-COM)</measure>
+    <time_frame>Assessed at baseline</time_frame>
+    <description>The FROP-COM consists of 13 risk factors being rated, most on a graded 0-3 scale. Higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Who's Integrated care for older people (ICOPE) screening tool</measure>
+    <time_frame>Assessed at baseline</time_frame>
+    <description>Who's &quot;ICOPE&quot; screening tool consists of 5 tests: Cognitive decline: Remember three words: flower, door, rice (for example) and recalls, Limited mobility: Chair rise test: Rise from chair five times without using arms. Did the person complete five chair rises within 14 seconds? Weight loss: Have you unintentionally lost more than 3 kg over the last three months? Visual impairment: Do you have any problems with your eyes: difficulties in seeing far, reading, eye diseases or currently under medical treatment (e.g. diabetes, high blood pressure)? Hearing lost: Hears whispers (whisper test). Depressive symptoms: Over the past two weeks, have you been bothered by&#xD;
+feeling down, depressed or hopeless?&#xD;
+little interest or pleasure in doing things? Score from 0 to 5, Higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The &quot;Codex&quot; score</measure>
+    <time_frame>Assessed at baseline</time_frame>
+    <description>The &quot;Codex&quot; test assesses the cognitive functions of elderly subjects in less than 3 minutes. It test involves memory, executive functions, attention, and visual-spatial praxis.&#xD;
+It includes:&#xD;
+a memory task: memorize 3 words, then recall them,&#xD;
+the drawing of a watch face: this is the simplified clock test,&#xD;
+and according to the results of these first 2 tasks: 5 questions of orientation in space.&#xD;
+If the 2 tasks (Clock and 3 words recall) are normal, the test is over: CODEX normal. If the 2 tasks are abnormal, the test is finished : CODEX abnormal!</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Height in meters</measure>
+    <time_frame>Assessed at baseline</time_frame>
+    <description>Height in meters using a height gauge. Weight and height will be combined to report Body Mass Index (BMI) in kg/m^2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Weight in kilograms</measure>
+    <time_frame>Assessed at baseline</time_frame>
+    <description>The weight in kilos using a scale. Weight and height will be combined to report Body Mass Index (BMI) in kg/m^2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Evaluation of precariousness and health inequalities in the examination centers&quot; (EPICES) score</measure>
+    <time_frame>Assessed at baseline</time_frame>
+    <description>EPICES score (Evaluation of precariousness and health inequalities in the examination centers) is an individual indicator of precariousness that takes into account the multidimensional nature of precariousness. multidimensional nature of precariousness. The main interest of the EPICES score is to apprehend populations which, while not covered by traditional administrative indicators of precariousness, present the same health risks. The answer to each question is The sum of the 11 answers gives the EPICES score. The score is The score is continuous and varies from 0 (no precariousness) to 100 (maximum precariousness). The threshold of 30 is considered the precariousness threshold according to &quot;EPICES&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Standardised Assessment of Personality - Abbreviated Scale (SAPAS) Moran</measure>
+    <time_frame>Assessed at baseline</time_frame>
+    <description>A simple 8-question personality disorder screening test. A total score of 3/8 or more indicates personality disorder is likely.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The frailty of groups with equal resources (FRAGIRE) grid.</measure>
+    <time_frame>Assessed at baseline</time_frame>
+    <description>The FRAGIRE grid is an assessment tool that aims to detect, among non-dependent retirees. It consists of 17 multiple-choice questions on physiological feelings, state of health, depression, pleasure, suicidal thoughts, social and cultural environment, taste, appetite, oral health, motor skills and 1 question for the evaluator on the person's state of health. Higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Medical Outcomes Study 36-item Short-Form (SF-36)</measure>
+    <time_frame>Assessed at baseline</time_frame>
+    <description>Quality of life assessed by Short-Form 36 questionnaire. Higher scores mean a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital Anxiety and Depression Scale (HADS)</measure>
+    <time_frame>Assessed at baseline</time_frame>
+    <description>The Hospital Anxiety and Depression Scale scale is an instrument for screening for anxiety and depressive disorders. It includes 14 items rated from 0 to 3. Seven questions relate to anxiety (total A) and seven others to the depressive dimension (total D), thus making it possible to obtain two scores (maximum score for each score = 21). Higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hearing Handicap Inventory for the Elderly Screening (HHIE-S)</measure>
+    <time_frame>Assessed at baseline</time_frame>
+    <description>The Hearing Handicap Inventory for the Elderly Screening is a self-assessment tool containing 10 questions aimed to assess the impact of hearing loss in the emotional and social-situational adjustments of elderly patients who are not institutionalized. Higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mini Mental State Examination (MMSE)</measure>
+    <time_frame>Assessed at baseline</time_frame>
+    <description>The Mini-Mental State Examination is a cognitive assessment instrument developed for rapid screening of cognitive deficits in 30 questions. Higher scores mean a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>World Health Organization (WHO) visual acuity measurement</measure>
+    <time_frame>Assessed at baseline</time_frame>
+    <description>Measurement of visual acuity using the Raskin E scale. Distance visual acuity measured at 3 meters and near visual acuity at 40 centimeters. Score expressed in 1/(arc min). Higher scores mean a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Mini Nutritional Assessment (MNA)</measure>
+    <time_frame>Assessed at baseline</time_frame>
+    <description>The MNA consists of two parts with 18 items and a score out of 30. The sum of the MNA score distinguishes between elderly patients with: 1) adequate nutritional status, MNA ≥ 24; 2) protein-calorie malnutrition, MNA &lt; 17; 3) at risk of malnutrition, MNA between 17 and 23.5. Higher scores mean a better outcome.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Geriatric Assessment</condition>
+  <condition>Frail Elderly Syndrome</condition>
+  <condition>Prevention</condition>
+  <condition>Fall Patients</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Instrumental measurement of balance and gait</intervention_name>
+    <description>The balance measurement was performed on a force platform. The walk test was carried out using sensors to analyze and retrieve data from the participant's walk (gait speed, step length, duration of the double support phase).</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients over 65 years of age consulting a general practice. Consecutive participant&#xD;
+        sampling.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Persons over 65 years of age&#xD;
+&#xD;
+          -  Retired persons&#xD;
+&#xD;
+          -  Person affiliated to or benefiting from a social security scheme.&#xD;
+&#xD;
+          -  Free and informed consent given&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Persons referred to in Articles L1121-5 to L1121-8 of the French Public Health Code&#xD;
+             (corresponding to all protected persons), pregnant women, parturients, nursing&#xD;
+             mothers, persons deprived of their liberty by judicial or administrative decision,&#xD;
+             persons subject to a legal protection measure&#xD;
+&#xD;
+          -  Difficulty in understanding the French language&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Jean-Marc EYCHENE, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Centre Hospitalier Universitaire de La Reunion</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Pierre-Paul VIDAL, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Laboratoire Borelli</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Frederic SANDRON</last_name>
+    <role>Study Director</role>
+    <affiliation>Institut de recherche pour le développement (IRD)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jean-Marc FRANCO, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Universite de La Reunion</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Florian LEGRAND, MD</last_name>
+    <phone>0692721402</phone>
+    <email>Florian.legrand@univ-reunion.fr</email>
+  </overall_contact>
+  <reference>
+    <citation>Legrand F, Eychene JM, Audiffren J, Klein A, Labourdette C, Nicolaï A, Sandron F, Vidal PP. The 5P program, personalized and participatory primary prevention pathway: Rational and design of a clinical trial in general practice. Contemp Clin Trials Commun. 2021 Jun 3;22:100786. doi: 10.1016/j.conctc.2021.100786. eCollection 2021 Jun. Review.</citation>
+    <PMID>34159279</PMID>
+  </reference>
+  <reference>
+    <citation>Legrand F, Eychene JM, Audiffren J, Klein A, Labourdette C, Nicolaï A, Sandron F, Vidal PP. Description of Participants in the &quot;Atout Age Mobility&quot; Prevention Workshops at the University Hospital Center of La Réunion: A Prospective Study. J Nutr Health Aging. 2021;25(5):628-636. doi: 10.1007/s12603-021-1604-8.</citation>
+    <PMID>33949630</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 22, 2021</study_first_posted>
+  <last_update_submitted>October 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universite de La Reunion</investigator_affiliation>
+    <investigator_full_name>Florian Legrand</investigator_full_name>
+    <investigator_title>Postdoctoral Researcher</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Frailty</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

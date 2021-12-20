@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7299">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05066230</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KS301P106</org_study_id>
+    <nct_id>NCT05066230</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Efficacy and Safety of Intravitreal KSI-301 in Participants With Moderately Severe to Severe Non-proliferative Diabetic Retinopathy (NPDR)</brief_title>
+  <acronym>GLOW</acronym>
+  <official_title>A Prospective, Randomized, Double-masked, Sham-controlled, Multicenter, Two-arm, Phase 3 Study to Evaluate the Efficacy and Safety of Intravitreal KSI-301 in Participants With Moderately Severe to Severe Non-proliferative Diabetic Retinopathy (NPDR)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Kodiak Sciences Inc</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Kodiak Sciences Inc</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This Phase 3 Study will evaluate the efficacy and safety of KSI-301 in participants with&#xD;
+      moderately severe to severe non-proliferative diabetic retinopathy (NPDR).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase 3, prospective, randomized, double-masked, sham-controlled, two-arm,&#xD;
+      multicenter study evaluating the efficacy and safety of repeated intravitreal dosing of&#xD;
+      KSI-301 5 mg in participants with moderately severe to severe non-proliferative diabetic&#xD;
+      retinopathy (NPDR).&#xD;
+&#xD;
+      The primary endpoint will be assessed at Week 48; additional secondary endpoints for efficacy&#xD;
+      will be assessed at Week 48, Week 96 and if applicable, over time.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 30, 2021</start_date>
+  <completion_date type="Anticipated">November 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">November 1, 2023</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants will be randomized 1:1 into one of two arms: KSI-301 or sham.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Outcomes Assessor)</masking>
+    <masking_description>To preserve masking, 2 investigators are required for this study. The masked investigator will be responsible for examinations and safety assessments. The unmasked investigator will perform the injections and post-treatment assessments.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of eyes improving ≥2 steps on the ETDRS Diabetic Retinopathy Severity Scale (DRSS)</measure>
+    <time_frame>Day 1 to Week 48</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of eyes developing a Sight-Threatening Complication(s) of DR (DME, PDR, ASNV), as a composite and individually</measure>
+    <time_frame>Day 1 to Week 48 and Week 96</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to development of a Sight-Threatening Complication(s) of DR, as a composite and individually</measure>
+    <time_frame>Day 1 to Week 96</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of eyes improving ≥2 or ≥3 steps on the DRSS over time</measure>
+    <time_frame>Day 1 to Week 48 and Week 96</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of eyes worsening ≥2 or ≥3 steps on the DRSS over time</measure>
+    <time_frame>Day 1 to Week 48 and Week 96</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and Tolerability of KSI-301 5 mg compared to sham treatment</measure>
+    <time_frame>Day 1 to Week 100</time_frame>
+    <description>Incidence of ocular and systemic adverse events</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">240</enrollment>
+  <condition>Non-proliferative Diabetic Retinopathy</condition>
+  <arm_group>
+    <arm_group_label>KSI-301 - Treatment Group A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intravitreal injection of KSI-301 (5 mg): three initiating doses, and then every 24 weeks through Week 92</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Group B</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Sham injection on the same schedule as Treatment Group A</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>KSI-301</intervention_name>
+    <description>Intravitreal injection</description>
+    <arm_group_label>KSI-301 - Treatment Group A</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Sham injection</intervention_name>
+    <description>The sham injection is a procedure that mimics an intravitreal injection. It involves pressing the blunt end of an empty syringe (without a needle) against the anesthetized eye. It is performed to maintain masking of the study.</description>
+    <arm_group_label>Treatment Group B</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Signed informed consent prior to participation in the study.&#xD;
+&#xD;
+          -  Type 1 or 2 diabetes mellitus&#xD;
+&#xD;
+          -  Moderately severe to severe NPDR in the Study Eye (DRSS levels 47 and 53 as determined&#xD;
+             by the reading center), in which pan-retinal photocoagulation (PRP) can be safely&#xD;
+             deferred for at least 6 months per the Investigator.&#xD;
+&#xD;
+          -  BCVA ETDRS letter score in the Study Eye of ≥69 letters (approximate Snellen&#xD;
+             equivalent of 20/40 or better)&#xD;
+&#xD;
+          -  HbA1c of ≤12%.&#xD;
+&#xD;
+          -  Other protocol-specified inclusion criteria may apply.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Presence of center-involved DME in the Study Eye&#xD;
+&#xD;
+          -  Prior PRP in the Study Eye.&#xD;
+&#xD;
+          -  Current anterior segment neovascularization (ASNV), vitreous hemorrhage, or tractional&#xD;
+             retinal detachment in the Study Eye.&#xD;
+&#xD;
+          -  Prior intravitreal anti-VEGF treatment in the Study Eye for DR or DME.&#xD;
+&#xD;
+          -  Prior intravitreal or periocular steroid in the Study Eye for DR or DME.&#xD;
+&#xD;
+          -  Prior use of an investigational intravitreal treatment for DR or DME in the Study Eye.&#xD;
+&#xD;
+          -  Any history or evidence of a concurrent ocular condition present in the Study Eye,&#xD;
+             that in the opinion of the Investigator could require either medical or surgical&#xD;
+             intervention or alter visual acuity during the study&#xD;
+&#xD;
+          -  Active or suspected ocular or periocular infection or inflammation.&#xD;
+&#xD;
+          -  Women who are pregnant or lactating or intending to become pregnant during the study.&#xD;
+&#xD;
+          -  History of a medical condition that, in the judgment of the Investigator, would&#xD;
+             preclude scheduled study visits, completion of the study, or a safe administration of&#xD;
+             investigational product.&#xD;
+&#xD;
+          -  Recent history (within the 6 months prior to screening) of myocardial infarction,&#xD;
+             stroke, transient ischemic attack, acute congestive heart failure or any acute&#xD;
+             coronary event.&#xD;
+&#xD;
+          -  Uncontrolled blood pressure defined as a systolic value ≥ 180 mmHg or diastolic value&#xD;
+             ≥ 100 mmHg while at rest.&#xD;
+&#xD;
+          -  Other protocol-specified exclusion criteria may apply.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Min Tsuboi, Pharm.D.</last_name>
+    <role>Study Director</role>
+    <affiliation>Kodiak Sciences Inc</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Daniel Janer, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Kodiak Sciences Inc</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kodiak Sciences Inc.</last_name>
+    <phone>(650) 281-0850</phone>
+    <email>ksi301clinical@kodiak.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Retinal Research Institute, LLC</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Northwest Arkansas Retina Associates</name>
+      <address>
+        <city>Springdale</city>
+        <state>Arkansas</state>
+        <zip>72762</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Retina Vitreous Associates</name>
+      <address>
+        <city>Beverly Hills</city>
+        <state>California</state>
+        <zip>90211</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Eye Medical Center of Fresno</name>
+      <address>
+        <city>Fresno</city>
+        <state>California</state>
+        <zip>93720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Retina Consultants of Orange County</name>
+      <address>
+        <city>Fullerton</city>
+        <state>California</state>
+        <zip>92835</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Northern California Retina Vitreous Associates</name>
+      <address>
+        <city>Mountain View</city>
+        <state>California</state>
+        <zip>94040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Retinal Consultants of San Diego</name>
+      <address>
+        <city>Oceanside</city>
+        <state>California</state>
+        <zip>92056</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Retina Consultants of Southern California</name>
+      <address>
+        <city>Redlands</city>
+        <state>California</state>
+        <zip>92374</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Retinal Consultants Medical Group Inc</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95819</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Orange County Retina Medical Group</name>
+      <address>
+        <city>Santa Ana</city>
+        <state>California</state>
+        <zip>92705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>California Retina Consultants - Santa Maria</name>
+      <address>
+        <city>Santa Maria</city>
+        <state>California</state>
+        <zip>93454</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Conneticut Eye Consultants</name>
+      <address>
+        <city>Danbury</city>
+        <state>Connecticut</state>
+        <zip>06810</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Retina Group of New England</name>
+      <address>
+        <city>Waterford</city>
+        <state>Connecticut</state>
+        <zip>06385</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Eye Clinic</name>
+      <address>
+        <city>Altamonte Springs</city>
+        <state>Florida</state>
+        <zip>32701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Macula Center/ Blue Ocean Clinical Research</name>
+      <address>
+        <city>Clearwater</city>
+        <state>Florida</state>
+        <zip>33761</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Eye Associates</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Florida</state>
+        <zip>32901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Med Eye Associates</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Retina Institute</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Southern Vitreoretinal Associates</name>
+      <address>
+        <city>Tallahassee</city>
+        <state>Florida</state>
+        <zip>32308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fort Lauderdale Eye Institute</name>
+      <address>
+        <city>Tamarac</city>
+        <state>Florida</state>
+        <zip>33321-2952</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Retina Associates of Florida</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Retina &amp; Macular Disease</name>
+      <address>
+        <city>Winter Haven</city>
+        <state>Florida</state>
+        <zip>33880</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Southeast Retina Center</name>
+      <address>
+        <city>Augusta</city>
+        <state>Georgia</state>
+        <zip>30909</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Marietta Eye Clinic - Kennestone Office</name>
+      <address>
+        <city>Marietta</city>
+        <state>Georgia</state>
+        <zip>30060-8934</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Retina Specialists of Idaho</name>
+      <address>
+        <city>Boise</city>
+        <state>Idaho</state>
+        <zip>83713</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Springfield Clinic LLP</name>
+      <address>
+        <city>Springfield</city>
+        <state>Illinois</state>
+        <zip>62703</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Talley Eye</name>
+      <address>
+        <city>Evansville</city>
+        <state>Indiana</state>
+        <zip>47710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Retina Associates PA</name>
+      <address>
+        <city>Lenexa</city>
+        <state>Kansas</state>
+        <zip>66215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vitreo Retinal Consultants and Surgeons</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67214</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Elman Retina Group, PA</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21237</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cumberland Valley Retina Consultants PC</name>
+      <address>
+        <city>Hagerstown</city>
+        <state>Maryland</state>
+        <zip>21740</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Foundation for Vision Research</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49525</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sierra Eye Associates</name>
+      <address>
+        <city>Reno</city>
+        <state>Nevada</state>
+        <zip>89502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Retina Center of New Jersey</name>
+      <address>
+        <city>Bloomfield</city>
+        <state>New Jersey</state>
+        <zip>07017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NJ Retina</name>
+      <address>
+        <city>Teaneck</city>
+        <state>New Jersey</state>
+        <zip>07605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Retina-Vitreous Surgeons of Central NY</name>
+      <address>
+        <city>Liverpool</city>
+        <state>New York</state>
+        <zip>13088</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Retina Associates of Western NY</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14620</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Graystone Eye</name>
+      <address>
+        <city>Hickory</city>
+        <state>North Carolina</state>
+        <zip>28603-2588</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Retina Associates of Cleveland</name>
+      <address>
+        <city>Beachwood</city>
+        <state>Ohio</state>
+        <zip>44122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cascade Medical Research Institute</name>
+      <address>
+        <city>Eugene</city>
+        <state>Oregon</state>
+        <zip>97401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MidAtlantic Retina</name>
+      <address>
+        <city>Bethlehem</city>
+        <state>Pennsylvania</state>
+        <zip>18017-9412</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Retina Research of Beaufort</name>
+      <address>
+        <city>Beaufort</city>
+        <state>South Carolina</state>
+        <zip>29902</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Palmetto Retina Center</name>
+      <address>
+        <city>Florence</city>
+        <state>South Carolina</state>
+        <zip>29501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Southeastern Retina Associates PC</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37909</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Charles Retina Institute</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38119-4823</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tennessee Retina PC</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Retina Research Institute of Texas</name>
+      <address>
+        <city>Abilene</city>
+        <state>Texas</state>
+        <zip>79606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Austin Retina Associates</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Retina Consultants of Texas (Houston)</name>
+      <address>
+        <city>Bellaire</city>
+        <state>Texas</state>
+        <zip>77401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Retina Associates</name>
+      <address>
+        <city>Plano</city>
+        <state>Texas</state>
+        <zip>75075</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Austin Retina Associates (Round Rock)</name>
+      <address>
+        <city>Round Rock</city>
+        <state>Texas</state>
+        <zip>78681</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Center Ophthalmology Associates</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78240</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Retina Consultants of Texas - (Woodlands)</name>
+      <address>
+        <city>The Woodlands</city>
+        <state>Texas</state>
+        <zip>77384</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Strategic Clinical Research Group, LLC</name>
+      <address>
+        <city>Willow Park</city>
+        <state>Texas</state>
+        <zip>76087</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vitreoretinal Associates</name>
+      <address>
+        <city>Bellevue</city>
+        <state>Washington</state>
+        <zip>98004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Spokane Eye</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Emanuelli Research &amp; Development Center LLC</name>
+      <address>
+        <city>Arecibo</city>
+        <zip>00612</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 4, 2021</study_first_posted>
+  <last_update_submitted>September 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Non-proliferative Diabetic Retinopathy</keyword>
+  <keyword>Diabetic Retinopathy</keyword>
+  <keyword>NPDR</keyword>
+  <keyword>KSI-301</keyword>
+  <keyword>VEGF</keyword>
+  <keyword>Anti-VEGF</keyword>
+  <keyword>Vascular Endothelial Growth Factor</keyword>
+  <keyword>Antibody Biopolymer Conjugate</keyword>
+  <keyword>Retinal Degeneration</keyword>
+  <keyword>Retinal Diseases</keyword>
+  <keyword>Eye Diseases</keyword>
+  <keyword>Retinopathy</keyword>
+  <keyword>Vision Disorders</keyword>
+  <keyword>Kodiak</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Retinal Diseases</mesh_term>
+    <mesh_term>Diabetic Retinopathy</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

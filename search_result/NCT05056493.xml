@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8047">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05056493</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00108191</org_study_id>
+    <nct_id>NCT05056493</nct_id>
+  </id_info>
+  <brief_title>Caremap: A Digital Personal Health Record for Complex Care Coordination</brief_title>
+  <official_title>Caremap: A Digital Personal Health Record for Complex Care Coordination</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Duke University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Boston Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will implement a new mobile application ('app') called Caremap to improve care&#xD;
+      coordination for patients with complex health needs. The goal is to pilot test the mobile app&#xD;
+      with patients/families and clinic doctors to gather input on how well the app works and how&#xD;
+      to make it better. Investigators plan to enroll up to 40 participants from Duke University&#xD;
+      for this study. The study is sponsored by Duke's Institute for Health Innovation.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 10, 2021</start_date>
+  <completion_date type="Anticipated">December 10, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 10, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Implementation feasibility as measured by feasibility intervention measure (FIM)</measure>
+    <time_frame>6 months</time_frame>
+    <description>The feasibility intervention measure is a 4 item survey using a 5-level Likert scale (1=completely disagree; 5=completely agree).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Technical feasibility as measured by proportion of Fast Healthcare Interoperability Resources (FHIR)-enabled data transfer request that were successfully executed</measure>
+    <time_frame>Weekly, up to 6 months</time_frame>
+    <description>Technical feasibility will be defined as proportion of requests for transfer of patient-level data between the electronic health record (EHR) and the app that were successfully completed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in perceptions of care integration as measured by Pediatric Integrated care survey (PICS)</measure>
+    <time_frame>Baseline, 6 months</time_frame>
+    <description>The PICS is a 20-item survey that gathers parents perspectives on the degree of care integration received by their child using a 6-level Likert scale (1=never; 6=always).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in parent report of their child's health-related quality of life (HR-QOL), as measured by the PROMIS (7+2) Parent Proxy Global Health Survey</measure>
+    <time_frame>Baseline, 3 months, 6 months</time_frame>
+    <description>For participants who are parents of children with complex health needs, the PROMIS (7+2) Pediatric Global Health Survey is a 9-item parent-reported survey that gathers parent perspectives on their child's overall HR-QOL. Four of the 9 survey items use a 5-level Likert scale with 1=poor and 5=excellent; three of the 9 survey items use a 5-level Likert scale with 1=never and 5=always; and three of the 9 survey items use a 5-level Likert scale with 1=never and 5=almost always.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in patient-reported health-related quality of life (HR-QOL), as measured by the PROMIS Global Health Survey</measure>
+    <time_frame>Baseline, 3 months, 6 months</time_frame>
+    <description>For participants who are adult patients with complex health needs, the PROMIS Global Health Survey is a 10-item patient-reported survey that gathers patient perspectives on their own overall HR-QOL. Six of the 9 survey items use a 5-level Likert scale with 1=poor and 5=excellent; one of the 9 survey items uses a 5-level Likert scale with 1=not at all and 5=completely; one of the 9 survey items uses a 5-level Likert scale with 1=never and 5=always; one of the 9 survey items uses a 5-level Likert scale with 1=none and 5=very severe; and one of the 9 survey items uses a 0-10 scale (0=no pain; 10=worst pain imaginable).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in adoption as measured by quantitative measurement of app engagement by patient or parent/caregiver</measure>
+    <time_frame>Weekly, up to 6 months</time_frame>
+    <description>App engagement will be defined by number of app log-ins by the parent/patient</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in adoption as measured by quantitative measurement of app engagement by provider</measure>
+    <time_frame>Monthly, up to 6 months</time_frame>
+    <description>App engagement will be defined by number of views of the clinician dashboard by the provider</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in adoption as measured by quantitative measurement of app prescription by provider</measure>
+    <time_frame>Monthly, up to 6 months</time_frame>
+    <description>App prescription is the process by which a clinical providers recommends the app to their patient(s) by sending the link for downloading the app, app user overview materials, and study-related materials (including e-informed consent) to the patient directly through the EHR online patient portal. This process is called a &quot;digital prescription&quot; of the app and will be tracked as a marker of app adoption by providers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adaptations made by families and providers during real-world use as measured by survey</measure>
+    <time_frame>Monthly, up to 6 months</time_frame>
+    <description>Adaptation survey is a 5-item item survey based on the published Framework for Reporting Adaptations and Modifications to Evidence-Based Interventions (FRAME) and is designed to gather patient/parent and providers perspectives on how they have adapted the use and implementation of Caremap in real-world settings.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mobile app usability as measured by the System Usability Scale (SUS)</measure>
+    <time_frame>6 months</time_frame>
+    <description>The System Usability Scale is a 10 item survey that gathers user-reported ratings (from parents/patients and providers) of the usability of the Caremap app</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in parent/caregiver self-management, as measured by the Parent-Patient Activation Measure (P-PAM)</measure>
+    <time_frame>Baseline, 6 months</time_frame>
+    <description>The Parent-Patient Activation Measure (P-PAM) is a 13-item parent-reported survey that uses a 4-level Likert scale (1=disagree strongly; 4=agree strongly).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in patient activation and ability to self manage chronic conditions, as measured by the Patient Activation Measure (PAM)</measure>
+    <time_frame>Baseline, 6 months</time_frame>
+    <description>The PAM is a 13-item survey that uses a 4-level Likert scale (1=disagree strongly; 4=agree strongly).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in caregiver or patient report of global health status as measured by a numeric rating scale of 1 (poor) to 10 (excellent)</measure>
+    <time_frame>Weekly for 6 months</time_frame>
+    <description>The numeric rating scale is 1 question</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in acute and outpatient healthcare utilization, as measured by summary of clinical encounters</measure>
+    <time_frame>Baseline, 6 months</time_frame>
+    <description>Acute encounters include hospital admissions and emergency department visits; and outpatient encounters include primary and specialty clinic visits</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">67</enrollment>
+  <condition>Children/Youth With Special Healthcare Needs</condition>
+  <condition>Adults With Multiple Chronic Conditions</condition>
+  <arm_group>
+    <arm_group_label>Clinical Providers</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Clinical provider site champions will be invited to participate in web-based quantitative surveys and a semi-structured interview</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Parent/Caregivers</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patient and parent/caregiver subjects from the participating clinic sites will be enrolled. These participants are all adults - parents or caregivers of children and youth with special health care needs (CYSHCN) and adult patients with multiple chronic conditions (MCC) who are already receiving care at Duke Health.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Caremap app</intervention_name>
+    <description>The Caremap app is intended for organizing and tracking patient-reported health insights over time and sharing those trends and patient-centered goals with their providers, not for urgent/emergent clinical communication. Information shared with providers through the app will be used for clinical care at the discretion of their provider. Use of the app to share information and health insights will not replace usual, existing channels for patient-provider communication (e.g., MyChart, phone calls, email, pager, etc.).</description>
+    <arm_group_label>Clinical Providers</arm_group_label>
+    <arm_group_label>Parent/Caregivers</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria for parents/caregivers of children/youth with special health care needs&#xD;
+        (CYSHCN):&#xD;
+&#xD;
+          -  Adult parent/legal guardian (age 18 or older) of a CYSHCN&#xD;
+&#xD;
+          -  Established care for their child/youth at Duke Pediatrics Primary Care or Duke&#xD;
+             Children's Cystic Fibrosis clinic (established = one or more completed visits in the&#xD;
+             past 12 months at the clinic)&#xD;
+&#xD;
+          -  High level of complex medical needs that could benefit from additional care&#xD;
+             coordination support (determined by clinical provider at the pilot site)&#xD;
+&#xD;
+          -  Primary provider enrolled in the study as a provider participant/clinical provider&#xD;
+             site champion&#xD;
+&#xD;
+          -  Active Duke MyChart (online EHR patient portal) account&#xD;
+&#xD;
+          -  Full proxy access activated/enabled for parent to the child/youth's medical record in&#xD;
+             Epic&#xD;
+&#xD;
+          -  Apple iOS device compatible with Caremap app requirements at time of consent&#xD;
+&#xD;
+        Inclusion criteria for adult patients with multiple chronic conditions (MCC):&#xD;
+&#xD;
+          -  Adult patient (age 18 or older) with MCC&#xD;
+&#xD;
+          -  Established care for the patient at Duke Geriatrics clinic or Duke Pulmonary&#xD;
+             Transplant clinic (established = one or more completed visits in the past 12 months at&#xD;
+             the clinic)&#xD;
+&#xD;
+          -  High level of complex medical needs that could benefit from additional care&#xD;
+             coordination support (determined by clinical provider at the participating clinic&#xD;
+             site)&#xD;
+&#xD;
+          -  Primary provider enrolled in the study as a provider participant/clinical provider&#xD;
+             site champion&#xD;
+&#xD;
+          -  Active Duke MyChart (online EHR patient portal) account&#xD;
+&#xD;
+          -  Apple iOS device compatible with Caremap app requirements at time of consent&#xD;
+&#xD;
+        Inclusion criteria for clinical provider site champions (to participate in interviews and&#xD;
+        quantitative provider-reported surveys):&#xD;
+&#xD;
+          -  Currently practicing at Duke Health&#xD;
+&#xD;
+          -  Primary site of work is participating clinic site&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Non-English speaking&#xD;
+&#xD;
+          -  Living in long-term, congregate settings - e.g., living in institutionalized settings&#xD;
+             such as long-term care facility, nursing/long-term rehab facilities&#xD;
+&#xD;
+          -  Lacks requisite technology to access and use mobile app (e.g.,&#xD;
+             device/tablet/smartphone, home internet, active Epic MyChart account)&#xD;
+&#xD;
+          -  Lack of decision-making capacity (clinician-determined; e.g., patients with advanced&#xD;
+             dementia)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Y Ming, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Duke Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sarah Gonzales</last_name>
+    <phone>919-668-1226</phone>
+    <email>sarah.e.gonzales@duke.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Duke University</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sarah Gonzales</last_name>
+      <phone>919-668-1226</phone>
+      <email>sarah.e.gonzales@duke.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 20, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 24, 2021</study_first_posted>
+  <last_update_submitted>September 20, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 20, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>complex care</keyword>
+  <keyword>mobile health</keyword>
+  <keyword>care coordination</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Chronic Conditions</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

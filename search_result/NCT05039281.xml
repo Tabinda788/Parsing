@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9370">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05039281</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-0041</org_study_id>
+    <secondary_id>NCI-2021-09119</secondary_id>
+    <secondary_id>2021-0041</secondary_id>
+    <nct_id>NCT05039281</nct_id>
+  </id_info>
+  <brief_title>Atezolizumab and Cabozantinib for the Treatment of Recurrent Glioblastoma</brief_title>
+  <official_title>Phase I/II Study to Evaluate the Safety and Clinical Efficacy of Atezolizumab (Anti-PD-L1) in Combination With Cabozantinib in Patients With Recurrent Glioblastoma (rGBM)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>M.D. Anderson Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>M.D. Anderson Cancer Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I/II trial tests the safety and side effects of atezolizumab in combination with&#xD;
+      cabozantinib and whether they work to shrink tumors in patients with glioblastoma that has&#xD;
+      come back (recurrent). Immunotherapy with monoclonal antibodies, such as atezolizumab, may&#xD;
+      help the body's immune system attack the cancer, and may interfere with the ability of tumor&#xD;
+      cells to grow and spread. Cabozantinib may stop the growth of tumor cells by blocking some of&#xD;
+      the enzymes needed for cell growth. Giving atezolizumab and cabozantinib may help control the&#xD;
+      disease in patients with recurrent glioblastoma.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:&#xD;
+&#xD;
+      I. To evaluate the safety of atezolizumab in combination with cabozantinib. (Phase I) II. To&#xD;
+      evaluate the progression-free survival at six months (PFS-6) of atezolizumab in combination&#xD;
+      with cabozantinib. (Phase II)&#xD;
+&#xD;
+      SECONDARY OBJECTIVE:&#xD;
+&#xD;
+      I. To evaluate the progression free survival (PFS), overall survival (OS), overall response&#xD;
+      rate (ORR) and duration of response of atezolizumab in combination with cabozantinib.&#xD;
+&#xD;
+      CORRELATIVE OBJECTIVES:&#xD;
+&#xD;
+      I. Profiling tumor immune cell populations (i.e., macrophage migration inhibitory factor&#xD;
+      [mIF] and immunohistochemistry [IHC] analyses of CD4, CD8, PD1, PD-L1, and PD-L2 expression).&#xD;
+&#xD;
+      II. Profiling of tumor, e.g., deoxyribonucleic acid (DNA), messenger (m) ribonucleic acid&#xD;
+      (RNA), microRNA and epigenetic profiling (DNA methylation), whole exome sequencing, RNA&#xD;
+      sequencing, and microRNA sequencing.&#xD;
+&#xD;
+      III. Peripheral blood collection for evaluation of circulating chemokines/cytokines.&#xD;
+&#xD;
+      IV. Stool collection for gut microbiome profiling.&#xD;
+&#xD;
+      OUTLINE:&#xD;
+&#xD;
+      Patients receive atezolizumab intravenously (IV) over 30-60 minutes on day 1 and cabozantinib&#xD;
+      orally (PO) once daily (QD) on days 1-28. Cycles repeat every 28 days in the absence of&#xD;
+      disease progression or unacceptable toxicity.&#xD;
+&#xD;
+      After completion of study treatment, patients are followed up at 30 days, and then every 3&#xD;
+      months thereafter.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 30, 2021</start_date>
+  <completion_date type="Anticipated">February 15, 2024</completion_date>
+  <primary_completion_date type="Anticipated">February 15, 2024</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>At 6 momths</time_frame>
+    <description>Will estimate the 6 months PFS distribution using the Kaplan-Meier method.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Objective response rate</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>Will be estimated with exact binomial 95% confidence intervals. Logistic regression will be used to explore the correlations between response rates and correlative markers.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>Will be estimated with exact binomial 95% confidence intervals. Adverse events will be tabulated by grade and by their relationship to the treatment.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">6</enrollment>
+  <condition>Recurrent Glioblastoma</condition>
+  <condition>Recurrent Gliosarcoma</condition>
+  <arm_group>
+    <arm_group_label>Treatment (atezolizumab, cabozantinib)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive atezolizumab IV over 30-60 minutes on day 1 and cabozantinib PO on days 1-28. Cycles repeat every 28 days in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Atezolizumab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (atezolizumab, cabozantinib)</arm_group_label>
+    <other_name>MPDL 3280A</other_name>
+    <other_name>MPDL 328OA</other_name>
+    <other_name>MPDL-3280A</other_name>
+    <other_name>MPDL3280A</other_name>
+    <other_name>MPDL328OA</other_name>
+    <other_name>RG7446</other_name>
+    <other_name>RO5541267</other_name>
+    <other_name>Tecentriq</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cabozantinib</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (atezolizumab, cabozantinib)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Signed informed consent form (ICF)&#xD;
+&#xD;
+          -  Ability and willingness to comply with the requirements of the study protocol&#xD;
+&#xD;
+          -  Age &gt;= 18 years&#xD;
+&#xD;
+          -  Have histologically confirmed World Health Organization grade IV glioma (glioblastoma&#xD;
+             or gliosarcoma). Archival tissue will be required for diagnosis confirmation. Receipt&#xD;
+             of archival tissue is not required for the start of treatment&#xD;
+&#xD;
+          -  Patients must have been previously treated with radiation and temozolomide&#xD;
+&#xD;
+          -  Patients must be at least 12 weeks out from completion of concurrent chemoradiation&#xD;
+&#xD;
+          -  Have a performance status of &gt;= 60 on the Karnofsky performance status (KPS)&#xD;
+&#xD;
+          -  Patients at either first or second recurrence will be considered eligible&#xD;
+&#xD;
+          -  A baseline brain magnetic resonance imaging (MRI) obtained no more than 14 days prior&#xD;
+             to study enrollment&#xD;
+&#xD;
+          -  Absolute neutrophil count (ANC) &gt;= 1,500 /mcL&#xD;
+&#xD;
+          -  Platelets &gt;= 100,000 /mcL&#xD;
+&#xD;
+          -  Hemoglobin &gt;= 9 g/dL or &gt;= 5.6 mmol/L&#xD;
+&#xD;
+          -  Serum creatinine =&lt; 1.5 X upper limit of normal (ULN) OR measured or calculated&#xD;
+             creatinine clearance (glomerular filtration rate [GFR] can also be used in place of&#xD;
+             creatinine or creatinine clearance [CrCl]) &gt;= 60 mL/min for subject with creatinine&#xD;
+             levels &gt; 1.5 X institutional ULN&#xD;
+&#xD;
+               -  Creatinine clearance should be calculated per institutional standard&#xD;
+&#xD;
+          -  Urine protein/creatinine ratio (UPCR) =&lt; 1 mg/mg (=&lt; 113.2 mg/mmol) OR 24 hour (h)&#xD;
+             urine protein =&lt; 1g&#xD;
+&#xD;
+          -  Serum total bilirubin =&lt; 1.5 X ULN OR direct bilirubin =&lt; ULN for subjects with total&#xD;
+             bilirubin levels &gt; 1.5 ULN&#xD;
+&#xD;
+          -  Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT]) and&#xD;
+             alanine aminotransferase (ALT) (serum glutamic pyruvic transaminase [SGPT]) =&lt; 2.5 X&#xD;
+             ULN&#xD;
+&#xD;
+          -  Serum albumin &gt;= 2.8 g/dl&#xD;
+&#xD;
+          -  International normalized ratio (INR) or prothrombin time (PT) activated partial&#xD;
+             thromboplastin time (aPTT) =&lt; 1.3 X ULN&#xD;
+&#xD;
+          -  All screening labs should be performed within 14 days (+3 working days) of treatment&#xD;
+             initiation&#xD;
+&#xD;
+          -  Female subject of childbearing potential should have a negative serum pregnancy test&#xD;
+             within 14 days (+/- 3 working days) of study enrollment&#xD;
+&#xD;
+          -  Female subjects of childbearing potential should be willing to use 2 methods of birth&#xD;
+             control or be surgically sterile, or abstain from heterosexual activity for the&#xD;
+             duration of the study and 5 months after the last dose of study treatment. Subjects of&#xD;
+             childbearing potential are those who have not been surgically sterilized or have not&#xD;
+             been free from menses for &gt; 1 year&#xD;
+&#xD;
+          -  Male subjects should agree to use an adequate method of contraception during the&#xD;
+             course of the study and 5 months after the last dose of study treatment&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Has received prior interstitial brachytherapy, implanted chemotherapy, or therapeutics&#xD;
+             delivered by local injection or convection enhanced delivery. Prior treatment with&#xD;
+             Gliadel wafers will be excluded. Active treatment with the Optune device will be&#xD;
+             excluded&#xD;
+&#xD;
+          -  Has received radiation therapy for bone metastasis within 2 weeks or any other&#xD;
+             radiation therapy within 4 weeks before first dose of study treatment, or systemic&#xD;
+             treatment with radionuclides within 6 weeks before first dose of study treatment&#xD;
+&#xD;
+          -  Has clinically relevant ongoing complications from prior radiation therapy&#xD;
+&#xD;
+          -  Is currently participating in any other recurrent therapeutic trial after completion&#xD;
+             of chemoradiation&#xD;
+&#xD;
+          -  Has cavitating pulmonary lesion(s) or known endotracheal or endobronchial disease&#xD;
+             manifestation&#xD;
+&#xD;
+          -  Any serious medical condition that interferes with adherence to study procedures&#xD;
+&#xD;
+          -  Malignancies other than the disease under study within 5 years prior to cycle 1, day&#xD;
+             1, with the exception of those with a negligible risk of metastasis or death and with&#xD;
+             expected curative outcome (such as adequately treated carcinoma in situ of the cervix,&#xD;
+             basal or squamous cell skin cancer, or ductal carcinoma in situ treated surgically&#xD;
+             with curative intent) or undergoing active surveillance per standard-of-care&#xD;
+             management (e.g., chronic lymphocytic leukemia Rai Stage 0)&#xD;
+&#xD;
+          -  Has known leptomeningeal disease, gliomatosis cerebri, extracranial disease, or&#xD;
+             multifocal disease. Subject has multifocal glioblastoma (GBM), defined as discrete&#xD;
+             sites of contrast enhancing disease without contiguous T2/fluid attenuated inversion&#xD;
+             recovery (FLAIR) abnormality that require distinct radiotherapy ports. Satellite&#xD;
+             lesions that are associated with a contiguous area of T2/FLAIR abnormality as the main&#xD;
+             lesion(s) and that are encompassed within the same radiotherapy port as the main&#xD;
+             lesion(s) are permitted&#xD;
+&#xD;
+          -  Has evidence of interstitial lung disease or active, non-infectious pneumonitis&#xD;
+&#xD;
+          -  Has an active infection requiring systemic therapy&#xD;
+&#xD;
+          -  Has a history or current evidence of any condition, therapy, or laboratory abnormality&#xD;
+             that might confound the results of the trial, interfere with the subject's&#xD;
+             participation for the full duration of the trial, or is not in the best interest of&#xD;
+             the subject to participate, in the opinion of the treating investigator&#xD;
+&#xD;
+          -  Has known psychiatric or substance abuse disorders that would interfere with&#xD;
+             cooperation with the requirements of the trial&#xD;
+&#xD;
+          -  Is pregnant or breastfeeding, or expecting to conceive or father children within the&#xD;
+             projected duration of the trial, starting with the screening visit&#xD;
+&#xD;
+          -  Contraindication for undergoing MRIs&#xD;
+&#xD;
+          -  Inability to comply with study and follow-up procedures&#xD;
+&#xD;
+          -  History or risk of autoimmune disease, including but not limited to systemic lupus&#xD;
+             erythematosus, rheumatoid arthritis, inflammatory bowel disease, vascular thrombosis&#xD;
+             associated with antiphospholipid syndrome, Wegener's granulomatosis, Sjogren's&#xD;
+             syndrome, Bell's palsy, Guillain-Barre syndrome, multiple sclerosis, autoimmune&#xD;
+             thyroid disease, vasculitis, or glomerulonephritis&#xD;
+&#xD;
+               -  Patients with a history of autoimmune hypothyroidism on a stable dose of thyroid&#xD;
+                  replacement hormone may be eligible&#xD;
+&#xD;
+               -  Patients with controlled type 1 diabetes mellitus on a stable insulin regimen may&#xD;
+                  be eligible&#xD;
+&#xD;
+               -  Patients with eczema, psoriasis, lichen simplex chronicus of vitiligo with&#xD;
+                  dermatologic manifestations only (e.g., patients with psoriatic arthritis would&#xD;
+                  be excluded) are permitted provided that they meet the following conditions:&#xD;
+&#xD;
+                    -  Patients with psoriasis must have a baseline ophthalmologic exam to rule out&#xD;
+                       ocular manifestations&#xD;
+&#xD;
+                    -  Rash must cover less than 10% of body surface area (BSA)&#xD;
+&#xD;
+                    -  Disease is well controlled at baseline and only requiring low potency&#xD;
+                       topical steroids (e.g., hydrocortisone 2.5%, hydrocortisone butyrate 0.1%,&#xD;
+                       fluocinolone 0.01%, desonide 0.05%, aclometasone dipropionate 0.05%)&#xD;
+&#xD;
+                    -  No acute exacerbations of underlying condition within the last 12 months&#xD;
+                       (not requiring psoralen plus ultraviolet A radiation [PUVA], methotrexate,&#xD;
+                       retinoids, biologic agents, oral calcineurin inhibitors; high potency or&#xD;
+                       oral steroids)&#xD;
+&#xD;
+          -  History of idiopathic pulmonary fibrosis, pneumonitis (including drug induced),&#xD;
+             organizing pneumonia (i.e., bronchiolitis obliterans, cryptogenic organizing&#xD;
+             pneumonia, etc.), or evidence of active pneumonitis on screening chest computed&#xD;
+             tomography (CT) scan&#xD;
+&#xD;
+               -  History of radiation pneumonitis in the radiation field (fibrosis) is permitted&#xD;
+&#xD;
+          -  Any other diseases, metabolic dysfunction, physical examination finding, or clinical&#xD;
+             laboratory finding giving reasonable suspicion of a disease or condition that&#xD;
+             contraindicates the use of an investigational drug or that may affect the&#xD;
+             interpretation of the results or render the patient at high risk from treatment&#xD;
+             complications&#xD;
+&#xD;
+          -  History of human immunodeficiency virus (HIV) infection or active hepatitis B (HBV)&#xD;
+             (chronic or acute) or hepatitis C infection&#xD;
+&#xD;
+               -  Patients with past or resolved hepatitis B infection (defined as having a&#xD;
+                  negative hepatitis B surface antigen [HBsAg] test and a positive anti-HBc&#xD;
+                  [antibody to hepatitis B core antigen] antibody test) are eligible. Patients will&#xD;
+                  be sampled for HBV DNA and will be referred to a virologist to monitor for HBV&#xD;
+                  re-activation&#xD;
+&#xD;
+               -  Patients positive for hepatitis C virus (HCV) antibody are eligible only if&#xD;
+                  polymerase chain reaction (PCR) is negative for HCV RNA&#xD;
+&#xD;
+          -  Active tuberculosis&#xD;
+&#xD;
+          -  Severe infections within 4 weeks prior to cycle 1, day 1, including but not limited to&#xD;
+             hospitalization for complications of infection, bacteremia, or severe pneumonia&#xD;
+&#xD;
+          -  Signs or symptoms of infection within 2 weeks prior to cycle 1, day 1&#xD;
+&#xD;
+          -  Received oral or IV antibiotics within 2 weeks prior to cycle 1, day 1&#xD;
+&#xD;
+               -  Patients receiving prophylactic antibiotics (e.g., for prevention of a urinary&#xD;
+                  tract infection or chronic obstructive pulmonary disease) are eligible&#xD;
+&#xD;
+          -  Anticipation of need for a major surgical procedure (e.g., laparoscopic nephrectomy,&#xD;
+             gastrointestinal [GI] surgery, removal or biopsy of brain metastasis) within 2 weeks&#xD;
+             before first dose of study treatment, or of need for a minor surgery within 10 days&#xD;
+             before first dose of study treatment. Subjects must have complete wound healing from&#xD;
+             major surgery or minor surgery before first dose of study treatment. Subjects with&#xD;
+             clinically relevant ongoing complications from prior surgery are not eligible&#xD;
+&#xD;
+          -  Administration of a live, attenuated vaccine within 4 weeks before cycle 1, day 1 or&#xD;
+             anticipation that such a live, attenuated vaccine will be required during the study&#xD;
+&#xD;
+          -  Influenza vaccination should be given during influenza season only (approximately&#xD;
+             October to March). Patients must not receive live, attenuated influenza vaccine (e.g.,&#xD;
+             FluMist) within 4 weeks prior to cycle 1, day 1 or at any time during the study and&#xD;
+             for 5 months after last dose of atezolizumab&#xD;
+&#xD;
+          -  Malignancies other than the disease under study within 5 years prior to cycle 1, day&#xD;
+             1, with the exception of those with a negligible risk of metastasis or death and with&#xD;
+             expected curative outcome (such as adequately treated carcinoma in situ of the cervix,&#xD;
+             basal or squamous cell skin cancer, localized prostate cancer treated surgically with&#xD;
+             curative intent, or ductal carcinoma in situ treated surgically with curative intent)&#xD;
+             or undergoing active surveillance per standard-of-care management (e.g., chronic&#xD;
+             lymphocytic leukemia Rai Stage 0, prostate cancer with Gleason score =&lt; 6, and&#xD;
+             prostate specific antigen [PSA] =&lt; 10 mg/mL, etc.)&#xD;
+&#xD;
+          -  Patients may not receive concomitant chemotherapy, hormonal therapy, immunotherapy, or&#xD;
+             radiotherapy while patients are on study&#xD;
+&#xD;
+          -  MEDICATION-RELATED EXCLUSION CRITERIA:&#xD;
+&#xD;
+          -  Prior treatment with anti-PD-1, or anti-PD-L1 therapeutic antibody or&#xD;
+             pathway-targeting agents&#xD;
+&#xD;
+          -  Receipt of any type of cytotoxic, biologic or other systemic anticancer therapy&#xD;
+             (including investigational) within 4 weeks before first dose of study treatment&#xD;
+&#xD;
+          -  Receipt of any type of small molecule kinase inhibitor (including investigational&#xD;
+             kinase inhibitor) within 2 weeks before first dose of study treatment&#xD;
+&#xD;
+          -  Prior treatment with anti-angiogenic (e.g. anti-vascular endothelial growth factor&#xD;
+             [VEGF]) therapeutic antibody or pathway targeting agents&#xD;
+&#xD;
+          -  Treatment with systemic immunostimulatory agents (including but not limited to&#xD;
+             interferon [IFN]- or interleukin [IL]-2) within 6 weeks or five half-lives of the drug&#xD;
+             (whichever is shorter) prior to cycle 1, day 1&#xD;
+&#xD;
+          -  Treatment with systemic immunosuppressive medications (including but not limited to&#xD;
+             prednisone, cyclophosphamide, azathioprine, methotrexate, thalidomide, and anti-tumor&#xD;
+             necrosis factor [anti-TNF] agents) within 2 weeks prior to cycle 1, day 1&#xD;
+&#xD;
+               -  Patients who have received acute, low-dose, systemic immunosuppressant&#xD;
+                  medications (e.g., a one-time dose of dexamethasone for nausea) may be enrolled&#xD;
+&#xD;
+               -  The use of inhaled corticosteroids and mineralocorticoids (e.g., fludrocortisone)&#xD;
+                  for patients with orthostatic hypotension or adrenocortical insufficiency is&#xD;
+                  allowed&#xD;
+&#xD;
+          -  History of severe allergic, anaphylactic, or other hypersensitivity reactions to&#xD;
+             chimeric or humanized antibodies, fusion proteins or components of cabozantinib&#xD;
+&#xD;
+          -  Patients with prior allogeneic bone marrow transplantation or prior solid organ&#xD;
+             transplantation&#xD;
+&#xD;
+          -  Evidence of recent hemorrhage on post-operative MRI of the brain, however patients&#xD;
+             with clinically asymptomatic presence of hemosiderin, resolving post-operative changes&#xD;
+             and punctate intratumoral hemorrhage are permitted&#xD;
+&#xD;
+          -  Known lesions invading or encasing any major blood vessels. Subjects with lesions&#xD;
+             invading the intrahepatic vasculature, including portal vein, hepatic vein, and&#xD;
+             hepatic artery, are eligible&#xD;
+&#xD;
+          -  Corrected QT interval calculated by the Fridericia formula (QTcF) &gt; 500 ms per&#xD;
+             electrocardiogram (ECG) within 14 days before first dose of study treatment&#xD;
+&#xD;
+               -  Note: if a single ECG shows a QTcF with an absolute value &gt; 500 ms, two&#xD;
+                  additional ECGs at intervals of approximately 3 min must be performed within 30&#xD;
+                  minutes after the initial ECG, and the average of these three consecutive results&#xD;
+                  for QTcF will be used to determine eligibility&#xD;
+&#xD;
+          -  Inability to swallow tablets&#xD;
+&#xD;
+          -  Inadequately controlled hypertension (defined as systolic blood pressure &gt; 140mmHg&#xD;
+             and/or diastolic blood pressure &gt; 90mmHg)&#xD;
+&#xD;
+          -  A history of or active nephrotic syndrome&#xD;
+&#xD;
+          -  Prior history of hypertensive crisis or hypertensive encephalopathy&#xD;
+&#xD;
+          -  New York Heart Assocation (NYHA) grade II or greater congestive heart failure&#xD;
+&#xD;
+          -  History of myocardial infarction or unstable angina within 6 months prior to study&#xD;
+             enrollment&#xD;
+&#xD;
+          -  History of stroke or transient ischemic attack (TIA) within 6 months prior to study&#xD;
+             enrollment&#xD;
+&#xD;
+          -  Significant vascular disease (e.g. aortic aneurysm requiring surgical repair or recent&#xD;
+             peripheral arterial thrombosis) within 6 months prior to study enrollment&#xD;
+&#xD;
+          -  History of clinically significant hematuria, hematemesis, or hemoptysis of &gt; 0.5&#xD;
+             teaspoon (2.5 ml) of red blood, or any other history of significant bleeding (e.g.&#xD;
+             pulmonary hemorrhage) within 12 weeks before first dose of study treatment&#xD;
+&#xD;
+          -  Evidence of bleeding diathesis or coagulopathy (in the absence of therapeutic&#xD;
+             anticoagulation)&#xD;
+&#xD;
+          -  Major surgical procedure, open biopsy, intracranial biopsy, ventriculoperitoneal shunt&#xD;
+             or significant traumatic injury within 28 days prior to study enrollment&#xD;
+&#xD;
+          -  Core biopsy (excluding intracranial biopsy) or other minor surgical procedure within&#xD;
+             107 days prior to study enrollment. Placement of a central vascular access device if&#xD;
+             performed within 2 days prior to cabozantinib administration&#xD;
+&#xD;
+          -  History of abdominal fistula, bowel obstruction, gastrointestinal perforation or&#xD;
+             intra-abdominal abscess within 6 months before first dose of study treatment&#xD;
+&#xD;
+               -  Note: complete healing of an intra-abdominal abscess must be confirmed before&#xD;
+                  first dose of study treatment&#xD;
+&#xD;
+          -  Evidence of tumor invading the GI tract, active peptic ulcer disease, inflammatory&#xD;
+             bowel disease (e.g., Crohn's disease), diverticulitis, cholecystitis, symptomatic&#xD;
+             cholangitis or appendicitis, acute pancreatitis, acute obstruction of the pancreatic&#xD;
+             duct or common bile duct, or gastric outlet obstruction&#xD;
+&#xD;
+          -  H&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Shiao-Pei S Weathers</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>M.D. Anderson Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>M D Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Shiao-Pei S. Weathers</last_name>
+      <phone>713-792-3908</phone>
+      <email>sweathers@mdanderson.org</email>
+    </contact>
+    <investigator>
+      <last_name>Shiao-Pei S. Weathers</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mdanderson.org</url>
+    <description>University of Texas MD Anderson Cancer Center Website</description>
+  </link>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 9, 2021</study_first_posted>
+  <last_update_submitted>November 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Gliosarcoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Atezolizumab</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5861">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05084924</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-1321</org_study_id>
+    <secondary_id>1K99MH126161-01A1</secondary_id>
+    <nct_id>NCT05084924</nct_id>
+  </id_info>
+  <brief_title>Investigating the Causal Role of Prefrontal Control in Decision-making in Patients With Anhedonia</brief_title>
+  <acronym>DEBRA</acronym>
+  <official_title>Causal Role of Delta-beta Coupling for Goal-directed Behavior in Anhedonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of North Carolina, Chapel Hill</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of North Carolina, Chapel Hill</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Investigating whether delta-beta cross-frequency transcranial alternating current stimulation&#xD;
+      can increase goal-directed behavior in participants with major depressive disorder and&#xD;
+      elevated symptoms of anhedonia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this clinical trial is to investigate the causal role that delta-beta coupling&#xD;
+      plays in goal-directed behavior in participants with major depressive disorder (MDD) and&#xD;
+      symptoms of anhedonia. The participants will perform a reward-based decision-making task.&#xD;
+      During the task, cross-frequency transcranial alternating current stimulation (tACS) will be&#xD;
+      delivered at delta-beta frequency, a control-frequency, or an active sham.&#xD;
+      Electroencephalography will be collected in intermittent resting-state periods. Structural&#xD;
+      and functional magnetic resonance imaging (MRI) will be collected during the resting-state&#xD;
+      and during performance of the task.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 2, 2021</start_date>
+  <completion_date type="Anticipated">September 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants are randomized into one of three arms of the study: delta-beta tACS, control tACS in theta-gamma, or active sham. Randomization is stratified by SHAPS level such that there are an equal number of participants that are high anhedonia (SHAPS &gt; 33) and low anhedonia (SHAPS &lt;=33).</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>This study is designed to be double-blind. Participants and the researchers are unaware of each participant's assignment until the completion of all data collection. This is accomplished using randomization codes. Furthermore, this study utilizes an active sham stimulation. This means that the active sham condition includes some stimulation, mimicking the skin sensations associated with tACS. In a previously concluded trial, participants in the delta-beta tACS, theta-gamma tACS, and active sham groups responded similarly to the blinding questionnaire, indicating that the active sham stimulation successfully blinded the participants.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of trials that the participant chooses to perform the hard task</measure>
+    <time_frame>3 hours</time_frame>
+    <description>Goal-directed behavior will be calculated as the percentage of trials in which the participant decides to perform the most difficult effort exertion task in the Expenditure of Effort for Reward Task. The average for the four blocks prior to stimulation serve as a baseline and the eight blocks during stimulation will be calculated and the difference from baseline will be investigated.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Coupling strength between low-frequency prefrontal signals and high-frequency posterior signals</measure>
+    <time_frame>3 hours</time_frame>
+    <description>Phase-amplitude coupling strength is calculated between the phase of low-frequency activity in prefrontal electrodes and amplitude of high-frequency in posterior cortex. These signals are extracted from eyes-open resting-state periods after stimulation is turned off following each task block. Instantaneous phase and amplitude will be calculated by averaging electrodes in the regions, band-filtering to the specified range, and performing the Hilbert transform. Next, a hybrid signal is created using the high-frequency amplitude and low-frequency phase. Coupling strength is the magnitude of the average of this signal over time. Finally, coupling strength is normalized using a z-transformation with respect to a null distribution generated by randomly time-shifting the high-frequency time-series.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">48</enrollment>
+  <condition>Major Depressive Disorder</condition>
+  <condition>Anhedonia</condition>
+  <arm_group>
+    <arm_group_label>Delta-beta tACS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The study is investigating the use of transcranial alternating current stimulation (tACS). The stimulation is delivered at 1 milliampere (mA) zero-to-peak amplitude at the target electrodes and 2 mA zero to-peak amplitude at the return electrode. For the experimental arm, the tACS will be delivered using the cross-frequency stimulation waveform delta-beta (3-20Hz).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Theta-gamma tACS</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>This arm serves as an active control where tACS will be delivered using the cross-frequency stimulation waveform theta-gamma (5-50Hz).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Active-sham tACS</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>For active sham stimulation, either delta-beta or theta-gamma stimulation is delivered for 10 seconds and then returns to baseline. This is intended to mimic the skin sensations (e.g., itching, burning, tingling) that are experienced at the onset of stimulation, assisting with blinding the participant's assignment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Cross-frequency transcranial alternating current stimulation via the NeuroConn Direct Current Stimulator Plus</intervention_name>
+    <description>Stimulation will be delivered via the NeuroConn Direct Current Stimulator Plus, an investigational electrical non-invasive brain stimulation device that is being used for foundational neuroscience and translational research.</description>
+    <arm_group_label>Active-sham tACS</arm_group_label>
+    <arm_group_label>Delta-beta tACS</arm_group_label>
+    <arm_group_label>Theta-gamma tACS</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Able to provide informed consent&#xD;
+&#xD;
+          -  Have normal to corrected vision&#xD;
+&#xD;
+          -  Willing to comply with all study procedures and be available for the duration of the&#xD;
+             study&#xD;
+&#xD;
+          -  Speak and understand English&#xD;
+&#xD;
+          -  Low suicide risk as determined by the Columbia Suicide Severity Rating Scale (C-SSRS),&#xD;
+             and by the Hamilton Depression Rating Scale (HAM-D; less than 3 for the suicidality&#xD;
+             item).&#xD;
+&#xD;
+          -  Negative pregnancy test for female participants&#xD;
+&#xD;
+          -  Patient Health Questionnaire (PHQ) with 9 items greater than or equal to 10 and a&#xD;
+             diagnosis of major depressive disorder on the Mini International Neuropsychiatric&#xD;
+             Interview (MINI)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Attention deficit (hyperactivity) disorder (currently under treatment)&#xD;
+&#xD;
+          -  Neurological disorders and conditions, including, but not limited to: History of&#xD;
+             epilepsy, seizures (except childhood febrile seizures), dementia, history of stroke,&#xD;
+             Parkinson's disease, multiple sclerosis, cerebral aneurysm, brain tumors&#xD;
+&#xD;
+          -  Medical or neurological illness or treatment for a medical disorder that could&#xD;
+             interfere with study participation (e.g., unstable cardiac disease, HIV/AIDS,&#xD;
+             malignancy, liver or renal impairment)&#xD;
+&#xD;
+          -  Prior brain surgery&#xD;
+&#xD;
+          -  Any brain devices/implants, including cochlear implants and aneurysm clips&#xD;
+&#xD;
+          -  History of current traumatic brain injury&#xD;
+&#xD;
+          -  (For females) Pregnant or breast feeding&#xD;
+&#xD;
+          -  Anything that, in the opinion of the investigator, would place the participant at&#xD;
+             increased risk or preclude the participant's full compliance with or completion of the&#xD;
+             study&#xD;
+&#xD;
+          -  Diagnostic and Statistical Manual of Mental Disorders version 5 diagnosis of present&#xD;
+             moderate or severe substance use disorder or alcohol use disorder, and past severe&#xD;
+             substance use disorder or alcohol use disorder, or psychotic disorder within the last&#xD;
+             12 months&#xD;
+&#xD;
+          -  Not taking medications for attention deficit (hyperactivity) disorder or&#xD;
+             benzodiazepines as these medications often produce specific EEG activity that may&#xD;
+             disrupt our interpretation of the findings&#xD;
+&#xD;
+          -  If major depressive disorder is experienced in episode, the participant must currently&#xD;
+             be within a depressive episode.&#xD;
+&#xD;
+          -  Contraindications for magnetic resonance imaging (MRI): ferrous metal inside the body,&#xD;
+             jewelry must be removable, pacemaker or cochlear implant.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Flavio Frohlich</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of North Carolina, Chapel Hill</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Justin Riddle, PhD</last_name>
+    <phone>(919) 966-2682</phone>
+    <email>justin_riddle@med.unc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Flavio Frohlich, PhD</last_name>
+    <phone>(919) 966-4584</phone>
+    <email>flavio_frohlich@med.unc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of North Carolina at Chapel Hill</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Flavio Frohlich, PhD</last_name>
+      <phone>919-966-4584</phone>
+      <email>flavio_frohlich@med.unc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Flavio Frohlich, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>October 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 20, 2021</study_first_posted>
+  <last_update_submitted>December 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>transcranial Alternating Current Stimulation</keyword>
+  <keyword>Goal-directed behavior</keyword>
+  <keyword>Cross-frequency coupling</keyword>
+  <keyword>Reward-based decision-making</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anhedonia</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Depressive Disorder, Major</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Deidentified individual data that supports the results will be shared beginning 9 to 36 months following publication provided the investigator who proposes to use the data has approval from an Institutional Review Board (IRB), Independent Ethics Committee (IEC), or Research Ethics Board (REB), as applicable, and executes a data use/sharing agreement with UNC.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>from 9 to 36 months following publication</ipd_time_frame>
+    <ipd_access_criteria>Deidentified individual data that supports the results will be shared provided the investigator who proposes to use the data has approval from an IRB, IEC, or REB and an executed data use/sharing agreement with UNC.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

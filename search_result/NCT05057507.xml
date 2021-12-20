@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7969">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05057507</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AC20151</org_study_id>
+    <nct_id>NCT05057507</nct_id>
+  </id_info>
+  <brief_title>Realistic Computational Electrophysiology Simulations for the Targetted Treatment of Atrial Fibrillation</brief_title>
+  <acronym>ReCETT-AF</acronym>
+  <official_title>Realistic Computational Electrophysiology Simulations for the Targetted Treatment of Atrial Fibrillation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Edinburgh</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>King's College London</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Edinburgh</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this research is to classify patients by the dominant mechanism of continuous&#xD;
+      atrial electrical activation during atrial fibrillation. This approach seeks to improve on&#xD;
+      existing classifications which are based solely on the duration of the arrhythmia (&lt;7 days,&#xD;
+      &gt;7 days and &gt;1 year). This is a cohort study. Patients undergoing clinically indicated&#xD;
+      electrophysiology study or AF ablation will have invasive assessment of cardiac&#xD;
+      electrophysiological profile at the time of their planned procedure, undergo 2-week&#xD;
+      ambulatory monitoring before and after the procedure, complete symptom questionnaires before&#xD;
+      and after their procedure and undergo atrial cardiac magnetic resonance imaging before their&#xD;
+      procedure.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Atrial fibrillation is a common condition causing an irregular heartbeat, breathlessness and&#xD;
+      tiredness. Atrial fibrillation occurs owing to abnormalities in the electrical circuits&#xD;
+      controlling the upper heart chambers. Atrial fibrillation can be treated with a keyhole&#xD;
+      procedure called ablation. During ablation small areas in the heart are burnt away to stop&#xD;
+      the abnormal circuits causing atrial fibrillation. Unfortunately, ablation only works for&#xD;
+      50-90% of people. We are not sure why, but possibly because the electrical circuits&#xD;
+      responsible are different in every heart. This research will examine how these electrical&#xD;
+      circuits can be identified and treated. A new system using computer modelling will be&#xD;
+      developed to identify the electrical circuits present. In the future we hope this approach&#xD;
+      could be used to design tailor-made treatments for each patient. A combination of computer&#xD;
+      studies and studies involving patients will be used to test this new approach in this study.&#xD;
+      For this study patients who are already planned to undergo an ablation procedure will be&#xD;
+      recruited providing data for three Work Packages. Consent will be sought to access routine&#xD;
+      investigations and data for research purposes (e.g. ECGs, blood tests, ambulatory monitoring,&#xD;
+      cardiac imaging, and outpatient clinical assessment); and collect extra data for research&#xD;
+      including additional cardiac imaging, a 2-week heart monitor pre- and post-ablation, and&#xD;
+      extra electrical measurements made during the ablation procedure.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 31, 2021</start_date>
+  <completion_date type="Anticipated">October 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2025</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of patients with each mechanism of atrial fibrillation defined by computational modelling</measure>
+    <time_frame>4 years</time_frame>
+    <description>The primary outcome is the creation of patient specific computational models for the investigation of atrial fibrillation mechanisms in patients. Mechanisms of atrial fibrillation will be defined based on computational modelling results and each patient will be assigned to the dominant mechanism of atrial fibrillation present.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Atrial properties - atrial structural and functional properties will be compared between patients in each mechanistic atrial fibrillation group (as defined in Outcome 1)</measure>
+    <time_frame>4 years</time_frame>
+    <description>The secondary outcome (1) is to determine which atrial properties are associated with each mechanism of atrial fibrillation in patients. Atrial structural and functional properties will be measured using atrial magnetic resonance imaging and invasive atrial electrophysiology; and quantified as follows: Atrial structure - volume (ml), sphericity (%); fibrosis burden (%); pericardial fat volume (ml); Atrial function - conduction velocity (m/s); refractoriness (ms); atrial electrical area (cm).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment effects - burden of atrial fibrillation in patients classified as 'successfully treated' compared to those classified as 'not successfully treated' using the modelling framework (as defined in Outcome 1)</measure>
+    <time_frame>4 years</time_frame>
+    <description>The secondary outcome (2) is to determine how atrial properties can be modified using currently-available therapies to improve treatment for atrial fibrillation. Computer simulations will be performed in which the critical atrial properties (as defined in Outcome 2) are modified and actual treatment response will be compared to predicted treatment response by (A) correlating actual atrial fibrillation burden (% time in atrial fibrillation) with predicted atrial fibrillation burden (% time in atrial fibrillation) and (B) calculating diagnostic accuracy metrics (sensitivity, specificity, C-statistic) for prediction of atrial fibrillation inducibility and recurrence following ablation.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">115</enrollment>
+  <condition>Atrial Fibrillation</condition>
+  <arm_group>
+    <arm_group_label>Atrial fibrillation patients undergoing radiofrequency catheter ablation</arm_group_label>
+    <description>Up to 115 patients undergoing radiofrequency catheter ablation will be enrolled.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Atrial cardiac magnetic resonance imaging</intervention_name>
+    <description>To include assessment of atrial size, shape, function, fibrosis and fat</description>
+    <arm_group_label>Atrial fibrillation patients undergoing radiofrequency catheter ablation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Atrial electro-anatomic mapping</intervention_name>
+    <description>To include assessment of atrial voltage and local activation time</description>
+    <arm_group_label>Atrial fibrillation patients undergoing radiofrequency catheter ablation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Atrial fibrillation symptom questionnaire</intervention_name>
+    <description>To include assessment of atrial fibrillation symptoms and quality of life</description>
+    <arm_group_label>Atrial fibrillation patients undergoing radiofrequency catheter ablation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Patch-based 2 week ambulatory monitor</intervention_name>
+    <description>To assess atrial fibrillation burden post-ablation</description>
+    <arm_group_label>Atrial fibrillation patients undergoing radiofrequency catheter ablation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Up to 115 patients undergoing electrophysiological assessment will be recruited with&#xD;
+        inclusion and exclusion criteria as indicated above.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Symptomatic paroxysmal atrial fibrillation or persistent atrial fibrillation diagnosed&#xD;
+             - within 24 months preceding the consent date.&#xD;
+&#xD;
+          -  Planned radiofrequency ablation for atrial fibrillation consisting of pulmonary vein&#xD;
+             isolation.&#xD;
+&#xD;
+          -  Able and willing to comply with study follow-up requirements&#xD;
+&#xD;
+          -  Able and willing to provide written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any clinical contra-indication to ablation&#xD;
+&#xD;
+          -  Any disease limiting life expectancy to &lt; 1year&#xD;
+&#xD;
+          -  Contra-indication to MRI including renal dysfunction (eGFR&lt;30ml/min)&#xD;
+&#xD;
+          -  Potential participant currently pregnant or breast feeding&#xD;
+&#xD;
+          -  Prior ablation, cardiac surgery or presence of any prosthetic valves&#xD;
+&#xD;
+          -  Myocardial infarction or percutaneous coronary intervention within 3 months preceding&#xD;
+             consent date&#xD;
+&#xD;
+          -  Hypertrophic cardiomyopathy or other inherited cardiac condition&#xD;
+&#xD;
+          -  Presence / likely implant of any pacemaker, cardiac resynchronization therapy device&#xD;
+             or implantable defibrillator within 1 year&#xD;
+&#xD;
+          -  Enrolment in an existing interventional atrial fibrillation study which alters&#xD;
+             treatment or follow-up.&#xD;
+&#xD;
+          -  Use of amiodarone for any indication within 6 months prior to the planned ablation&#xD;
+             procedure&#xD;
+&#xD;
+          -  Use of any anti-arrhythmic drug for an arrhythmia indication other than atrial&#xD;
+             fibrillation&#xD;
+&#xD;
+          -  Prior documented cavotricuspid isthmus dependent right atrial flutter and planned&#xD;
+             cavotricuspid isthmus ablation to be performed at the time of atrial fibrillation&#xD;
+             ablation&#xD;
+&#xD;
+          -  Unable to understand verbal or written explanations given in English or German as&#xD;
+             appropriate.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Mark D O'Neill, FRCP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Guy's and St Thomas' NHS Foundation Trust London</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Neil Grubb, FRCP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NHS Lothian, Edinburgh</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Andreas Rillig, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Heart and Vascular Center, Hamburg</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Steven E Williams, MRCP</last_name>
+    <phone>+44-(0)-131 242 6515</phone>
+    <email>steven.williams@ed.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jo-Anne Robertson</last_name>
+    <email>jo-anne.robertson@ed.ac.uk</email>
+  </overall_contact_backup>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 16, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 27, 2021</study_first_posted>
+  <last_update_submitted>October 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Atrial Fibrillation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

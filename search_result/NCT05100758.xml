@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4643">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05100758</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0307210724</org_study_id>
+    <nct_id>NCT05100758</nct_id>
+  </id_info>
+  <brief_title>Active Hexose Correlated Compound in Tuberculosis-HIV (Human Immunodeficiency Virus) Infection</brief_title>
+  <official_title>Effect of Active Hexose Correlated Compound to Clinical and Immunological Response in Tuberculosis-HIV (Human Immunodeficiency Virus) Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hasanuddin University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hasanuddin University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background&#xD;
+&#xD;
+      Active Hexose Correlated Compound is assumed to have a positive effect on immunity, including&#xD;
+      induce a phagocytic response, reduce tumor resistance, and cytokine response including&#xD;
+      interferon-gamma and interleukins. Tuberculosis patients with concurrent Human&#xD;
+      immunodeficiency Virus (HIV) might have benefit when receiving active hexose compound during&#xD;
+      tuberculosis treatment&#xD;
+&#xD;
+      Purposes&#xD;
+&#xD;
+        1. To assess the clinical changes of patients who receive active hexose compound as an&#xD;
+           adjuvant to tuberculosis therapy in patients with HIV&#xD;
+&#xD;
+        2. To assess the difference of pro-inflammatory cytokines between standard therapy and&#xD;
+           active hexose compound adjuvant&#xD;
+&#xD;
+      Methods A clinical trial involving patients with Tuberculosis-HIV infection&#xD;
+&#xD;
+      Hypothesis&#xD;
+&#xD;
+        1. Clinical improvement is significantly different where the group who receive active&#xD;
+           compound will have the better clinical outcome&#xD;
+&#xD;
+        2. Lower proinflammatory cytokines are observed in people who receive active compound&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Population :&#xD;
+&#xD;
+      Lung Tuberculosis patient with HIV Infection&#xD;
+&#xD;
+      Design :&#xD;
+&#xD;
+      Double-Blind Randomized Control Trial at the outpatient setting&#xD;
+&#xD;
+      Randomization Simple Randomization&#xD;
+&#xD;
+      Proposed Number of participants :&#xD;
+&#xD;
+      Using the difference between two independent means of duration to sputum conversion&#xD;
+&#xD;
+        1. Type 1 error 5%&#xD;
+&#xD;
+        2. Power of study 80%&#xD;
+&#xD;
+        3. Effect Size 0.5&#xD;
+&#xD;
+        4. Dropout rate 20% Total Participant 122&#xD;
+&#xD;
+      Proposed analysis&#xD;
+&#xD;
+        1. Time-to-event analysis using cox regression for the duration of sputum conversion and&#xD;
+           radiology resolution&#xD;
+&#xD;
+        2. Linear mixed model for continuous dependent variable&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 1, 2018</start_date>
+  <completion_date type="Actual">December 1, 2020</completion_date>
+  <primary_completion_date type="Actual">October 1, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>One group will be given Active Hexose Correlated Compound as adjuvant and the comparison group will only receive the tuberculosis treatment</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+    <masking_description>Investigator will be blinded from the allocation (not allowed to observe the allocation and intervention) and the outcome assessor will not be informed the code of allocation</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Sputum Conversion Duration</measure>
+    <time_frame>six month after the intervention started</time_frame>
+    <description>Sputum conversion duration defined as the duration to change positive result in sputum smear into negative results. The sputum smear level using Ziehl Neelsen ranging from Negative to 3+.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Chest X-Ray Extension</measure>
+    <time_frame>Changes of number of active tuberculosis feature from baseline to 6 months</time_frame>
+    <description>Distribution of active tuberculosis feature in Chest X-Ray including number of consolidation and cavitation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Interleukin 6 Level</measure>
+    <time_frame>Changes of Interleukin 6 Level from baseline to 6 months</time_frame>
+    <description>Value of Interleukin 6 in blood Sample</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Interleukin 10 Level</measure>
+    <time_frame>Changes of Interleukin 10 value from baseline to 6 months</time_frame>
+    <description>Value of Interleukin 10 in blood Sample</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cluster Differentiation 4 (CD4) cells value</measure>
+    <time_frame>Changes of Cluster Differentiation 4 (CD4) cells value from baseline to 6 months</time_frame>
+    <description>Cluster Differentiation 4 (CD4) cells value in blood sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cluster Differentiation 8 (CD8) cells value</measure>
+    <time_frame>Changes of Cluster Differentiation 8 (CD8) cells value from baseline to 6 months</time_frame>
+    <description>Cluster Differentiation 8 (CD8) cells value in blood sample</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">120</enrollment>
+  <condition>Tuberculosis</condition>
+  <condition>Human Immunodeficiency Virus</condition>
+  <arm_group>
+    <arm_group_label>Active Hexose Correlated Compound</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participants will be given Active Hexose Correlated Compound as a capsule 3 gram/ daily for 6 months</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participant will be given only the tuberculosis and antiretroviral treatment</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Active Hexoses Correlated Compound</intervention_name>
+    <description>Active Hexose Correlated Compound was isolated from basidiomycetes which comprise polysaccharides and amino acids.</description>
+    <arm_group_label>Active Hexose Correlated Compound</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Newly-diagnosed Lung Tuberculosis case who will receive a 6-month regiment&#xD;
+&#xD;
+          2. Not Pregnant&#xD;
+&#xD;
+          3. Diagnosed with HIV&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patient with liver dysfunction&#xD;
+&#xD;
+          2. Patient with drug-resistant&#xD;
+&#xD;
+          3. Severe Malnutrition&#xD;
+&#xD;
+          4. Refuse to be involved&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Djamaludin Ma'dolangan, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hasanuddin University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Labuang Baji General Hospital</name>
+      <address>
+        <city>Makasar</city>
+        <state>South Sulawesi</state>
+        <zip>90132</zip>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Indonesia</country>
+  </location_countries>
+  <reference>
+    <citation>Matar, C., Graham, E. 2017. Immune Modulatory Function. Clinician's Guide To AHCC, Evidence-Based Nutritional Immunotherapy, Edited by Anil D.K, Philip, C and Toshinori Ito. P.54-61.</citation>
+  </reference>
+  <reference>
+    <citation>Suknikhom W, Lertkhachonsuk R, Manchana T. The Effects of Active Hexose Correlated Compound (AHCC) on Levels of CD4+ and CD8+ in Patients with Epithelial Ovarian Cancer or Peritoneal Cancer Receiving Platinum Based Chemotherapy. Asian Pac J Cancer Prev. 2017 Mar 1;18(3):633-638.</citation>
+    <PMID>28440968</PMID>
+  </reference>
+  <reference>
+    <citation>Sun B, Wakame K, Sato E, Nishioka H, Aruoma OI, Fujii H. The effect of active hexose correlated compound in modulating cytosine arabinoside-induced hair loss, and 6-mercaptopurine- and methotrexate-induced liver injury in rodents. Cancer Epidemiol. 2009 Oct;33(3-4):293-9. doi: 10.1016/j.canep.2009.07.006. Epub 2009 Aug 20.</citation>
+    <PMID>19699163</PMID>
+  </reference>
+  <reference>
+    <citation>Terakawa N, Matsui Y, Satoi S, Yanagimoto H, Takahashi K, Yamamoto T, Yamao J, Takai S, Kwon AH, Kamiyama Y. Immunological effect of active hexose correlated compound (AHCC) in healthy volunteers: a double-blind, placebo-controlled trial. Nutr Cancer. 2008;60(5):643-51. doi: 10.1080/01635580801993280.</citation>
+    <PMID>18791928</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 29, 2021</study_first_posted>
+  <last_update_submitted>October 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hasanuddin University</investigator_affiliation>
+    <investigator_full_name>Bumi Herman</investigator_full_name>
+    <investigator_title>Assistant Lecturer</investigator_title>
+  </responsible_party>
+  <keyword>Active Hexose Correlated Compound</keyword>
+  <keyword>Tuberculosis-HIV</keyword>
+  <keyword>Cytokine</keyword>
+  <keyword>Sputum Conversion</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tuberculosis</mesh_term>
+    <mesh_term>Acquired Immunodeficiency Syndrome</mesh_term>
+    <mesh_term>HIV Infections</mesh_term>
+    <mesh_term>Immunologic Deficiency Syndromes</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>There is no plan to share individual participant data including de-identified data and protocol</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

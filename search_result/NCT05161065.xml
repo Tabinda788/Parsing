@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="6">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05161065</url>
+  </required_header>
+  <id_info>
+    <org_study_id>WatchQT</org_study_id>
+    <nct_id>NCT05161065</nct_id>
+  </id_info>
+  <brief_title>Comparison of QT Interval Readings Between Smartwatch Combined With Cardiologs Artificial Intelligence and 12-lead ECG</brief_title>
+  <official_title>Comparison of QT Interval Readings Between Smartwatch Combined With Cardiologs Artificial Intelligence and 12-lead ECG in Subjects Hospitalized for Antiarrhythmic Drug Initiation and Follow-up</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cardiologs Technologies</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cardiologs Technologies</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The WatchQT study will compare the performance of a smartwatch combined with Cardiologs ECG&#xD;
+      AI Analysis system in monitoring corrected QT (QTc) intervals with that measured on a&#xD;
+      manually read 12-lead ECG in subjects with Normal Sinus Rhythm (NSR) during antiarrhythmic&#xD;
+      drug (AAD) initiation and follow-up at the hospital.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The WatchQT Study is a prospective, non-significant risk, non-randomized, monocentric, open,&#xD;
+      comparative, concordance pilot study.&#xD;
+&#xD;
+      Under subject consent, subjects hospitalized for AAD initiation and monitoring will have&#xD;
+      smartwatch ECG recordings done simultaneously with 12-lead ECG measurements before and after&#xD;
+      drug administration twice a day, in accordance with the existing in-stay subject monitoring&#xD;
+      protocol.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2021</start_date>
+  <completion_date type="Anticipated">March 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Concordance between QTc intervals (in ms) measured by smartwatch combined with Cardiologs AI and that measured by manually read 12-lead ECG</measure>
+    <time_frame>Readings taken simultaneously right before and 2-3 hours after drug administration during hospitalization</time_frame>
+    <description>Concordance between QTc intervals measured by smartwatch combined with Cardiologs AI and that measured by manually read 12-lead ECG for each measurement done during NSR. The Bazett (QTcB in ms) and Fridericia (QTcF in ms) methods will be used to correct QT intervals</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Description of the sensitivity and specificity of the smartwatch combined with Cardiologs AI</measure>
+    <time_frame>Readings taken simultaneously right before and 2-3 hours after drug administration during hospitalization</time_frame>
+    <description>Description of the sensitivity and specificity of the smartwatch combined with Cardiologs AI in determining subjects at risk of AAD induced ventricular arrhythmia compared to that identified by manually read 12-lead ECG in subjects with a prolonged QTc &gt; 500 ms and/or subjects with a QTc prolongation of &gt; 15% after their initial AAD dose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Concordance between QTcB and QTcF intervals measured by the different methods</measure>
+    <time_frame>Readings taken simultaneously right before and 2-3 hours after drug administration during hospitalization</time_frame>
+    <description>Concordance between QTcB and QTcF intervals measured by the different methods (smartwatch combined with Cardiologs AI, smartwatch read manually, 12-lead read manually, lead 1 from 12-lead read manually and automated interpretation of the 12 lead ECG machine)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Description of the QTc interval measurements in NSR</measure>
+    <time_frame>Readings taken simultaneously right before and 2-3 hours after drug administration during hospitalization</time_frame>
+    <description>Description of the QTc interval measurements in NSR as a function of timepoints by the different methods</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quantitative analysis to determine the interobserver variability</measure>
+    <time_frame>Readings taken simultaneously right before and 2-3 hours after drug administration during hospitalization</time_frame>
+    <description>Quantitative analysis to determine the interobserver variability in QTc interval measurements by the smartwatch and 12-lead ECG manual readings</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Description of the QT interval defined as uncertain by the smartwatch combined with Cardiologs AI</measure>
+    <time_frame>Readings taken simultaneously rigth before and 2-3 hours after drug administration during hospitalization</time_frame>
+    <description>Description of the QT interval defined as uncertain by the smartwatch combined with Cardiologs AI</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Descriptive analysis of QT interval measurements in AF measured by smartwatch combined with Cardiologs AI and manually read 12-lead ECG</measure>
+    <time_frame>Readings taken simultaneously right before and 2-3 hours after drug administration during hospitalization</time_frame>
+    <description>.Descriptive analysis of QT interval measurements in AF measured by smartwatch combined with Cardiologs AI and manually read 12-lead ECG at each timepoint and overall.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Analysis of QT interval measured in subsets of subjects with and without wide QRS</measure>
+    <time_frame>Readings taken simultaneously right before and 2-3 hours after drug administration during hospitalization</time_frame>
+    <description>Patient with wide QRS is determined as a QRS&gt;120ms at D0 from automated interpretation of the 12-lead ECG machine. The analysis will be done in subset of 2 groups according to the QRS measured as wide or not machine</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Atrial Fibrillation</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Cardiologs</intervention_name>
+    <description>Apple Watch recordings interpreted by Cardiologs AI done simultaneously with each 12-lead ECG</description>
+    <other_name>Apple Watch</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        50 Subjects: Subjects who are being hospitalized for antiarrhythmic drug (AAD) initiation&#xD;
+        and monitoring per standard of care.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Subjects over 22, able and willing to participate in the study&#xD;
+&#xD;
+          2. Subjects who are admitted to the hospital in NSR or AF and are eligible for AAD (class&#xD;
+             Ia or class III) dose initiation or re-initiation.&#xD;
+&#xD;
+          3. Subjects having read the patient information letter and provided his/her consent to&#xD;
+             participate in writing, by dating and signing the informed consent prior to any&#xD;
+             trial-related procedure being conducted&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subjects with ventricular pacing&#xD;
+&#xD;
+          2. Pregnant or breast-feeding subjects&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>22 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jagmeet Singh, MD ScM DPhil</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Massachusetts General Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Audrey Plesse</last_name>
+    <phone>+33 6 79 43 20 68</phone>
+    <email>audrey@cardiologs.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jagmeet P Singh, MD ScM DPhil</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>November 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 16, 2021</study_first_posted>
+  <last_update_submitted>December 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Atrial Fibrillation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

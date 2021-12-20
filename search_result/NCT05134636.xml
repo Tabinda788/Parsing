@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2038">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05134636</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UPCC 16921</org_study_id>
+    <nct_id>NCT05134636</nct_id>
+  </id_info>
+  <brief_title>Text-based Intervention to Minimize the Time Burden of Routine Cancer Care</brief_title>
+  <acronym>TIME</acronym>
+  <official_title>Text-based Intervention to Minimize the Time Burden of Routine Cancer Care</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Abramson Cancer Center of the University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Abramson Cancer Center of the University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective is to test whether a text-based e-triage can safely minimize the time&#xD;
+      associated with routine cancer care by identifying patients who can proceed directly to their&#xD;
+      immunotherapy infusion without a preceding in-person office assessment.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2021</start_date>
+  <completion_date type="Anticipated">July 2022</completion_date>
+  <primary_completion_date type="Anticipated">July 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Healthcare time</measure>
+    <time_frame>3 months</time_frame>
+    <description>Time spent commuting to, waiting for, and receiving healthcare over a 3 month follow up period.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Total wait time</measure>
+    <time_frame>3 months</time_frame>
+    <description>Time spent waiting for healthcare over a 3 month follow up period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total number of hospitalization/emergency department encounters</measure>
+    <time_frame>3 months</time_frame>
+    <description>Total number of hospitalizations and emergency department encounters over a 3 month follow up.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient satisfaction</measure>
+    <time_frame>3 months</time_frame>
+    <description>The Patient Satisfaction Questionnaire Short Form (PSQ-18)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Provider satisfaction</measure>
+    <time_frame>3 months</time_frame>
+    <description>Net-Promoter Score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health related quality of life</measure>
+    <time_frame>3 months</time_frame>
+    <description>The Functional Assessment of Cancer Therapy-General (FACT-G)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">176</enrollment>
+  <condition>Solid Tumor</condition>
+  <condition>Care Delivery</condition>
+  <condition>Patient Empowerment</condition>
+  <condition>Telemedicine</condition>
+  <condition>Time Burden</condition>
+  <arm_group>
+    <arm_group_label>Treatment Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>For patients in the intervention arm, symptoms and laboratory results will be assessed using the text-based e-triage 96 hours prior to their intended infusion date. The e-triage will consist of a standardized questionnaire and algorithm to evaluate symptoms and laboratory values. Patients with acceptable labs and minimal or no symptoms can opt to proceed directly to their immunotherapy infusion without an in-person office assessment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Usual Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients in the usual care arm will receive standard of care symptom monitoring including an in-person office assessment prior to their scheduled immunotherapy infusion.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Text triage</intervention_name>
+    <description>The e-triage will consist of 16 questions, modified from the validated NCI Pro-CTCAETM, which will be sent to patients via WaytoHealth©'s two-way texting system 96 hours prior to their scheduled immunotherapy infusion. Questions will pertain to common or emergent immune related adverse events as defined by the NCCN guidelines and two senior disease experts. Patients will be prompted via text to measure the presence and severity of symptoms over the week prior. A final question will be included to capture any additional symptoms patients wish to disclose.</description>
+    <arm_group_label>Treatment Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Over 18 years of age Initiating singe agent PDL-1/PD-1 targeted immune checkpoint blockade&#xD;
+        for any solid malignancy at Penn's Abramson Cancer Center Access to a mobile phone with&#xD;
+        texting capabilities ECOG performance status less than or equal to 2&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Non-English speaking Unable to perform informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Kerry Coughlin, MSW</last_name>
+    <phone>2673684292</phone>
+    <email>kerry.coughlin@pennmedicine.upenn.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Erin Bange, MD</last_name>
+    <email>erin.bange@pennmedicine.upenn.edu</email>
+  </overall_contact_backup>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 26, 2021</study_first_posted>
+  <last_update_submitted>November 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

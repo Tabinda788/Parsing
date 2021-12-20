@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1592">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05140434</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021/0054</org_study_id>
+    <nct_id>NCT05140434</nct_id>
+  </id_info>
+  <brief_title>Evaluation of the Benefit of Exercise Testing for the Diagnosis of Obstruction in the Coronary Arteries of the Heart</brief_title>
+  <acronym>DP-Cor-1</acronym>
+  <official_title>Evaluation of the Predictive Power of Double-product Increase Measured During an Exercise Test for the Prediction of Coronary Stenosis as Diagnosed by Cardiac CT Scan or Coronary Angiography.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Sud Francilien</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Sud Francilien</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine whether exercise testing can detect an obstruction&#xD;
+      in a coronary artery, and, thereby, can avoid performing a coronary imaging in some cases.&#xD;
+&#xD;
+      Patients with a suspicion of coronary artery disease perform an exercise test on an exercise&#xD;
+      bike with increasing load. EKG, blood pressure, and other parameters are monitored. Patients&#xD;
+      benefit also of either a cardiac CT scan or a coronary angiography to establish whether they&#xD;
+      really have coronary obstruction.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Double product DP (product of systolic blood pressure and heart rate) is directly related to&#xD;
+      the myocardial oxygen consumption (MVO2). Since O2 extraction by the myocyte in maximal at&#xD;
+      rest, only an increase in coronary blood flow can increase MVO2 during exercise. Therefore,&#xD;
+      if a coronary stenosis limits the maximal coronary flow, it will limit MVO2 and DP at&#xD;
+      exercise.&#xD;
+&#xD;
+      Patients with both an exercise test and a coronary artery imaging (cardiac CT or coronary&#xD;
+      angiography) within 3 months, are included. DP increase (DP max/DP at rest) is measured&#xD;
+      during a maximal, symptom-limited exercise on a cycloergometer. DP at rest is measured either&#xD;
+      before the exercise test, at the end of the recovery period or during a visit to the&#xD;
+      cardiologist in the 2 months of the test, whichever is the smallest.&#xD;
+&#xD;
+      The predictive power to detect a significant coronary artery stenosis is assessed by&#xD;
+      computing a Receiving Operating Characteristic (ROC) curve, its area under the curve,&#xD;
+      sensitivity, specificity, and decision thresholds.&#xD;
+&#xD;
+      Number expected: 100-120 Subgroup of interest: women Time period of data collection: 1/1/2019&#xD;
+      to 12/31/2022&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Area Under the ROC curve</measure>
+    <time_frame>at 3 months</time_frame>
+    <description>AUC of the ROC curve defined by DP increase and significant coronary artery stenosis or not</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Younden threshold</measure>
+    <time_frame>at 3 months</time_frame>
+    <description>Maximalization of the difference between sensitivity and 1-specificity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ROC for women</measure>
+    <time_frame>at 3 months</time_frame>
+    <description>AUC for women</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Coronary Artery Disease</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Exercice test</intervention_name>
+    <description>exercise test on an exercise bike with increasing load</description>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Cardiac CT</intervention_name>
+    <description>cardiac CT scan</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Out-patients attending Centre Hospitalier Sud Francilien's cardiology department.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Starting 1/1/2019&#xD;
+&#xD;
+          -  8 year-old patients or older&#xD;
+&#xD;
+          -  Patients with both exercise testing and either Cardiac CT or coronary angiography&#xD;
+             within 3 months&#xD;
+&#xD;
+          -  Patients informed and not opposing to their participation to the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients unable to fully understand the information related to the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Olivier CHARANSONNEY, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Centre Hospitalier Sud Francilien</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Olivier CHARANSONNEY, MD</last_name>
+    <phone>0161697766</phone>
+    <email>olivier.charansonney@chsf.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Caroline TOURTE</last_name>
+    <phone>0161693730</phone>
+    <email>caroline.tourte@chsf.fr</email>
+  </overall_contact_backup>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 1, 2021</study_first_posted>
+  <last_update_submitted>November 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Exercise testing</keyword>
+  <keyword>coronary stenosis</keyword>
+  <keyword>double product</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Stenosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

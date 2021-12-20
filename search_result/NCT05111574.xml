@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3811">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05111574</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2021-11794</org_study_id>
+    <secondary_id>NCI-2021-11794</secondary_id>
+    <secondary_id>A091903</secondary_id>
+    <secondary_id>A091903</secondary_id>
+    <secondary_id>U10CA180821</secondary_id>
+    <nct_id>NCT05111574</nct_id>
+  </id_info>
+  <brief_title>Using Nivolumab Alone or With Cabozantinib to Prevent Mucosal Melanoma Return After Surgery</brief_title>
+  <official_title>A Randomized Phase II Trial of Adjuvant Nivolumab With or Without Cabozantinib in Patients With Resected Mucosal Melanoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial tests whether nivolumab in combination with cabozantinib works in&#xD;
+      patients with mucosal melanoma. Immunotherapy with monoclonal antibodies, such as nivolumab,&#xD;
+      may help the body's immune system attack the cancer, and may interfere with the ability of&#xD;
+      tumor cells to grow and spread. Cabozantinib may stop the growth of tumor cells by blocking&#xD;
+      some of the enzymes needed for cell growth. It works by blocking the action of an abnormal&#xD;
+      protein that signals tumor cells to multiply. This helps stop the spread of tumor cells.&#xD;
+      Giving nivolumab in combination with cabozantinib could prevent cancer from returning.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVE:&#xD;
+&#xD;
+      I. To compare the efficacy of adjuvant nivolumab (480 mg every [q]4 weeks) versus nivolumab&#xD;
+      plus cabozantinib (40 mg daily) in patients with mucosal melanoma.&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. To compare overall survival between the two adjuvant therapies. II. To evaluate the&#xD;
+      adverse effects in each arm. III. To assess the correlation between PD-L1 expression in tumor&#xD;
+      cells with survival (recurrence free survival [RFS] and overall survival [OS]).&#xD;
+&#xD;
+      IV. To evaluate the overall response rate (ORR), duration of response (DOR), progression free&#xD;
+      survival (PFS), and OS of nivolumab plus cabozantinib in patients who cannot undergo gross&#xD;
+      total resection of disease or have metastatic disease at baseline.&#xD;
+&#xD;
+      V. Results of the primary analysis will be examined for consistency, while taking into&#xD;
+      account the stratification factors and/or covariates of baseline quality of life (QOL) and&#xD;
+      fatigue.&#xD;
+&#xD;
+      OUTLINE: Resectable patients are randomized to Arm 1 or Arm 2. Unresectable patients are&#xD;
+      assigned to Arm 3.&#xD;
+&#xD;
+      ARM 1: Patients receive nivolumab intravenously (IV) over 30 minutes on day 1 and&#xD;
+      cabozantinib orally (PO) once daily (QD) of each cycle. Treatment repeats every 28 days for&#xD;
+      up to 13 cycles in the absence of disease progression or unacceptable toxicity.&#xD;
+&#xD;
+      ARM 2: Patients receive nivolumab IV over 30 minutes on day 1 and placebo PO QD of each&#xD;
+      cycle. Treatment repeats every 28 days for up to 13 cycles in the absence of disease&#xD;
+      progression or unacceptable toxicity.&#xD;
+&#xD;
+      ARM 3: Patients receive nivolumab IV over 30 minutes and cabozantinib PO QD of each cycle.&#xD;
+      Treatment repeats every 28 days for up to 26 cycle in the absence of disease progression or&#xD;
+      unacceptable toxicity.&#xD;
+&#xD;
+      After completion of study treatment, patients are followed up every 3 months until disease&#xD;
+      progression, and then every 6 months for up to 5 years from registration or until death.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 21, 2022</start_date>
+  <completion_date type="Anticipated">December 19, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 19, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Recurrence free survival (RFS)</measure>
+    <time_frame>Number of days from registration until either local or distant recurrence or death (due to any cause), assessed up to 5 years</time_frame>
+    <description>Will evaluate RFS of single agent adjuvant nivolumab plus placebo compared to the combination treatment of adjuvant nivolumab plus cabozantinib in patients with resected mucosal melanoma.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>Number of days from registration until death (due to any cause, assessed up to 5 years</time_frame>
+    <description>Will be evaluated utilizing the Kaplan-Meier (KM) method and, when appropriate, cox proportional hazards models. Median OS is calculated (along with 95% Confidence intervals) using the KM method. A Cox proportional hazards model is built to compare arms 1 and 2 with respect to OS.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>RFS</measure>
+    <time_frame>Number of days from registration until either local or distant recurrence or death (due to any cause), assessed up to 5 years</time_frame>
+    <description>Median RFS will be calculated (along with 95% Confidence intervals) using the KM method. A Cox proportional hazards model will also be built to compare arms 1 and 2 with respect to RFS, with and without stratifying for PD-L1 categorization. For non-resected cohort, If a patient in this group has surgery, their PFS data will be censored at the time of surgery.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression free survival (PFS)</measure>
+    <time_frame>Number of days from registration until either radiographic or clinical progression or death (due to any cause), assessed up to 5 years</time_frame>
+    <description>Will be evaluated in multiple settings utilizing the KM method and, when appropriate, cox proportional hazards models.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall response rate (Arm 3)</measure>
+    <time_frame>Up to 5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (Arm 3)</measure>
+    <time_frame>Time from the first evidence of response until progression, assesed up to 5 years</time_frame>
+    <description>A KM analysis is performed to calculate the median duration of response and 95% confidence intervals are constructed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>The maximum grade for each type of adverse event will be summarized using Common Terminology Criteria for Adverse Events version 5.0. The frequency and percentage of grade 3+ adverse events will be summarized.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">99</enrollment>
+  <condition>Anal Melanoma</condition>
+  <condition>Bladder Melanoma</condition>
+  <condition>Cervical Melanoma</condition>
+  <condition>Esophageal Melanoma</condition>
+  <condition>Gallbladder Melanoma</condition>
+  <condition>Mucosal Melanoma</condition>
+  <condition>Mucosal Melanoma of the Head and Neck</condition>
+  <condition>Mucosal Melanoma of the Urinary System</condition>
+  <condition>Oral Cavity Mucosal Melanoma</condition>
+  <condition>Penile Mucosal Melanoma</condition>
+  <condition>Rectal Melanoma</condition>
+  <condition>Recurrent Mucosal Melanoma</condition>
+  <condition>Sinonasal Mucosal Melanoma</condition>
+  <condition>Stage II Vulvar Cancer AJCC v8</condition>
+  <condition>Stage IIIC Vulvar Cancer AJCC v8</condition>
+  <condition>Stage IV Vulvar Cancer AJCC v8</condition>
+  <condition>Stage IVA Vulvar Cancer AJCC v8</condition>
+  <condition>Stage IVB Vulvar Cancer AJCC v8</condition>
+  <condition>Urethral Melanoma</condition>
+  <condition>Vaginal Melanoma</condition>
+  <condition>Vulvar Melanoma</condition>
+  <arm_group>
+    <arm_group_label>Arm 1 (nivolumab, cabozantinib)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive nivolumab IV over 30 minutes on day 1 and cabozantinib PO QD of each cycle. Treatment repeats every 28 days for up to 13 cycles in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2 (nivolumab, placebo)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients receive nivolumab IV over 30 minutes on day 1 and placebo PO QD of each cycle. Treatment repeats every 28 days for up to 13 cycles in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 3 (nivolumab, cabozantinib)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive nivolumab IV over 30 minutes and cabozantinib PO QD of each cycle. Treatment repeats every 28 days for up to 26 cycle in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cabozantinib</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Arm 1 (nivolumab, cabozantinib)</arm_group_label>
+    <arm_group_label>Arm 3 (nivolumab, cabozantinib)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Nivolumab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Arm 1 (nivolumab, cabozantinib)</arm_group_label>
+    <arm_group_label>Arm 2 (nivolumab, placebo)</arm_group_label>
+    <arm_group_label>Arm 3 (nivolumab, cabozantinib)</arm_group_label>
+    <other_name>BMS-936558</other_name>
+    <other_name>CMAB819</other_name>
+    <other_name>MDX-1106</other_name>
+    <other_name>NIVO</other_name>
+    <other_name>Nivolumab Biosimilar CMAB819</other_name>
+    <other_name>ONO-4538</other_name>
+    <other_name>Opdivo</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo Administration</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Arm 2 (nivolumab, placebo)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  STEP 0 INCLUSION CRITERIA&#xD;
+&#xD;
+          -  Histologically proven mucosal melanoma by local pathology&#xD;
+&#xD;
+          -  Central PD-L1 tumor tissue submission&#xD;
+&#xD;
+          -  STEP 1 INCLUSION CRITERIA&#xD;
+&#xD;
+          -  Receipt of the central PD-L1 testing results available&#xD;
+&#xD;
+          -  Disease status-Resected R0 or R1 disease patients. Patients eligible for randomization&#xD;
+             have resected R0 or R1 disease (with negative margins or positive microscopic margins)&#xD;
+             that must meet one of the following 4 criteria as defined below:&#xD;
+&#xD;
+               -  Regional lymph node (LN) involvement; OR&#xD;
+&#xD;
+               -  In-transit metastases/satellite primary disease; OR&#xD;
+&#xD;
+               -  Single localized, primary disease meeting one of the following site-specific&#xD;
+                  requirements:&#xD;
+&#xD;
+                    -  Head/neck - any primary lesion if sinonasal; pT4a or above for nasal or oral&#xD;
+                       cavity, given slightly improved OS&#xD;
+&#xD;
+                    -  Anorectal - any primary lesion&#xD;
+&#xD;
+                    -  Vaginal/cervical - any primary, as they have 5 year OS rates of 5-25&#xD;
+&#xD;
+                    -  Urinary tract - any primary urethral or bladder tumor&#xD;
+&#xD;
+                    -  Penile&#xD;
+&#xD;
+                    -  Vulvar- AJCC cutaneous stage IIB or higher&#xD;
+&#xD;
+                    -  Esophageal/gallbladder - any primary&#xD;
+&#xD;
+               -  Locoregionally recurrent following prior resection, meeting at least one of the&#xD;
+                  above criteria&#xD;
+&#xD;
+               -  In addition, patients must have undergone cross-sectional imaging of the brain,&#xD;
+                  chest, abdomen and pelvis with no evidence of distant metastatic disease&#xD;
+&#xD;
+          -  Disease status-Non-resected R2 or metastatic disease patients&#xD;
+&#xD;
+               -  Non-resected R2 or metastatic disease that is assessable and measurable&#xD;
+                  radiographically or by physical examination&#xD;
+&#xD;
+          -  Prior Treatment:&#xD;
+&#xD;
+               -  No prior systemic checkpoint inhibitor therapy of mucosal melanoma, including in&#xD;
+                  the adjuvant setting, is allowed. Prior adjuvant chemotherapy or interferon is&#xD;
+                  allowed.&#xD;
+&#xD;
+               -  No other active, concurrent malignancy that requires ongoing systemic treatment&#xD;
+                  or interferes with radiographic assessment of melanoma response as determined by&#xD;
+                  the investigator.&#xD;
+&#xD;
+               -  Any radiation must have completed 28 days prior to randomization and the patient&#xD;
+                  must have adequately recovered from its effects.&#xD;
+&#xD;
+               -  Surgery must have completed 28 days prior to randomization.&#xD;
+&#xD;
+          -  Not pregnant and not nursing, because this study has an agent that has known&#xD;
+             genotoxic, mutagenic and teratogenic effects. Therefore, for women of childbearing&#xD;
+             potential only, a negative pregnancy test done =&lt; 7 days prior to registration is&#xD;
+             required&#xD;
+&#xD;
+          -  Age &gt;= 18 years&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status 0-2&#xD;
+&#xD;
+          -  Absolute neutrophil count (ANC) &gt;= 1,500/mm^3&#xD;
+&#xD;
+          -  Platelet count &gt;= 100,000/mm^3&#xD;
+&#xD;
+          -  Creatinine =&lt; 1.5 x upper limit of normal (ULN) OR creatinine clearance (CrCl) &gt;=&#xD;
+             50mL/min/1.73 m^2 for patients with creatinine levels above institutional normal&#xD;
+&#xD;
+          -  Albumin &gt;= 2.8 g/dL&#xD;
+&#xD;
+          -  Lipase &lt; 2.0 x ULN and no radiologic or clinical evidence of pancreatitis&#xD;
+&#xD;
+          -  Urine protein/creatinine =&lt; 1&#xD;
+&#xD;
+          -  Total bilirubin =&lt; 1.5 x upper limit of normal (ULN)&#xD;
+&#xD;
+          -  Aspartate aminotransferase (AST)/alanine aminotransferase (ALT) =&lt; 2.5 x upper limit&#xD;
+             of normal (ULN)&#xD;
+&#xD;
+          -  No cardiovascular disease, including:&#xD;
+&#xD;
+               -  No history of acute coronary syndromes (including myocardial infarction and&#xD;
+                  unstable angina), coronary artery bypass graft (CABG) coronary angioplasty, or&#xD;
+                  stenting within 6 months prior to study entry.&#xD;
+&#xD;
+               -  No history of current class II or higher congestive heart failure as defined by&#xD;
+                  the New York Heart Association (NYHA) functional classification system.&#xD;
+&#xD;
+               -  No refractory hypertension defined as a blood pressure of systolic &gt; 140 mmHg&#xD;
+                  and/or diastolic &gt; 90 mmHg despite adequate attempts at anti-hypertensive&#xD;
+                  therapy.&#xD;
+&#xD;
+               -  No history of myocarditis.&#xD;
+&#xD;
+               -  No history of syncope of cardiovascular etiology, uncontrolled cardiac&#xD;
+                  arrhythmia, history of Mobitz II second degree or third degree heart block&#xD;
+                  without a permanent pacemaker in Association (NYHA) class II to IV heart failure,&#xD;
+                  or stroke/transient ischemic attack (TIA) within the past 3 months.&#xD;
+&#xD;
+               -  No corrected QT interval by Fridericia's formula (QTcF) &gt; 500 msec. Note: if&#xD;
+                  initial QTcF is found to be &gt; 500 ms, two additional EKGs separated by at least 3&#xD;
+                  minutes should be performed. If the average of these three consecutive results&#xD;
+                  for QTcF is =&lt; 500 ms, the subject meets eligibility in this regard.&#xD;
+&#xD;
+          -  No underlying hematologic issues, including:&#xD;
+&#xD;
+               -  Congenital bleeding diathesis&#xD;
+&#xD;
+               -  Gastrointestinal (GI) bleeding requiring intervention within the past 6 months,&#xD;
+                  unless directly related to mucosal melanoma&#xD;
+&#xD;
+               -  Active hemoptysis within 42 days prior to study enrollment.&#xD;
+&#xD;
+               -  Active tumor lesions with cavitations or tumor lesions which invade, encase, or&#xD;
+                  abut major blood vessels. The anatomic location and characteristics of primary&#xD;
+                  tumors or metastases as well as the medical history should be carefully reviewed&#xD;
+                  in the selection of subjects for treatment with cabozantinib/placebo.&#xD;
+&#xD;
+               -  Pulmonary emboli or deep vein thromboses (DVT) that require an active&#xD;
+                  anticoagulation regimen.&#xD;
+&#xD;
+               -  No known or suspected history of cytopenia (low white blood cell [WBC],&#xD;
+                  hemoglobin or platelet count) of greater than 3 months duration with an unknown&#xD;
+                  cause, myelodysplastic syndrome, or hematologic malignancies.&#xD;
+&#xD;
+          -  No clinical, laboratory or radiographic evidence of an active bacterial, fungal, or&#xD;
+             viral infection requiring treatment at the time of pre-registration (e.g., active&#xD;
+             symptoms of COVID-19 infection or a post-infectious symptomatic autoimmune syndrome,&#xD;
+             serious bacterial infections requiring antibiotics).&#xD;
+&#xD;
+          -  No known or suspected gastrointestinal disorder affecting absorption of oral&#xD;
+             medications.&#xD;
+&#xD;
+          -  Comorbid conditions:&#xD;
+&#xD;
+               -  No active autoimmune disease or any condition requiring systemic treatment with&#xD;
+                  either corticosteroids (&gt; 10 mg daily of prednisone equivalents) or other&#xD;
+                  immunosuppressive medications within 14 days of study drug administration.&#xD;
+                  Inhaled or topical steroids and adrenal replacement doses &gt; 10 mg daily&#xD;
+                  prednisone equivalents are permitted in the absence of active autoimmune disease.&#xD;
+&#xD;
+               -  No history of autoimmune motor neuropathy (e.g., Guillain-Barre syndrome,&#xD;
+                  myasthenia gravis) or non-infectious pneumonitis.&#xD;
+&#xD;
+               -  No history of severe allergic reactions to an unknown allergen or any components&#xD;
+                  of the study drugs or its excipients.&#xD;
+&#xD;
+               -  No history of gastrointestinal perforation or abdominal fistula.&#xD;
+&#xD;
+               -  No clinically suspected central nervous system (CNS) (leptomeningeal or&#xD;
+                  parenchymal) metastases. Patients with a history of CNS metastasis(s) will be&#xD;
+                  allowed as long as&#xD;
+&#xD;
+                    -  The metastatic site(s) were adequately treated as demonstrated by clinical&#xD;
+                       and radiographic improvement, AND&#xD;
+&#xD;
+                    -  The patient has recovered from the intervention (no residual adverse events&#xD;
+                       &gt; Common Terminology Criteria for Adverse Events [CTCAE] grade 1), AND&#xD;
+&#xD;
+                    -  The patient has remained without occurrence of new or worsening CNS symptoms&#xD;
+                       for a period of 28 days prior to enrollment.&#xD;
+&#xD;
+               -  No history of seizure or any condition that may increase the patient's seizure&#xD;
+                  risk (e.g., prior cortical stroke, significant brain trauma) within 2 years.&#xD;
+&#xD;
+               -  No clinically active or chronic liver disease resulting in moderate/severe&#xD;
+                  hepatic impairment (Child-Pugh class B or C), ascites, coagulopathy or bleeding&#xD;
+                  due to liver dysfunction.&#xD;
+&#xD;
+               -  No untreated spinal cord compression or evidence of spinal metastases with a risk&#xD;
+                  of impending fracture or spinal cord compression. Spinal metastases must have&#xD;
+                  completed planned radiation or surgical therapy prior to registration.&#xD;
+&#xD;
+          -  Concomitant medications:&#xD;
+&#xD;
+               -  Chronic concomitant treatment with strong inhibitors of CYP3A4 is not allowed on&#xD;
+                  this study. Patients on strong CYP3A4 inhibitors must discontinue the drug for 14&#xD;
+                  days prior to registration on the study.&#xD;
+&#xD;
+               -  Chronic concomitant treatment with strong CYP3A4 inducers is not allowed.&#xD;
+                  Patients must discontinue the drug 14 days prior to the start of study treatment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alexander N Shoushtari</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Alliance for Clinical Trials in Oncology</affiliation>
+  </overall_official>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 8, 2021</study_first_posted>
+  <last_update_submitted>December 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Melanoma</mesh_term>
+    <mesh_term>Vulvar Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nivolumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>NCI is committed to sharing data in accordance with NIH policy. For more details on how clinical trial data is shared, access the link to the NIH data sharing policy page</ipd_description>
+    <ipd_url>https://grants.nih.gov/policy/sharing.htm</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

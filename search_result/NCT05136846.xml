@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1868">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05136846</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OSU-20327</org_study_id>
+    <secondary_id>NCI-2021-07691</secondary_id>
+    <nct_id>NCT05136846</nct_id>
+  </id_info>
+  <brief_title>Papaverine in Combination With Chemoradiation for the Treatment of Stage II-III Non-small Cell Lung Cancer</brief_title>
+  <official_title>A Phase I Trial Targeting Mitochondrial Metabolism With Papaverine in Combination With Chemoradiation for Stage II-III Non-Small Cell Lung Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ohio State University Comprehensive Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ohio State University Comprehensive Cancer Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I trial finds out the best dose, possible benefits and/or side effects of&#xD;
+      papaverine when given together with chemoradiation intreating patients with stage II-III&#xD;
+      non-small cell lung cancer. Papaverine targets mitochondrial metabolism to decrease the&#xD;
+      cancer growth process. Giving papaverine with chemoradiation may work best to treat patients&#xD;
+      with non-small cell lung cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVE:&#xD;
+&#xD;
+      I. To determine the maximally tolerated dose of papaverine (PPV) in combination with&#xD;
+      chemoradiation (CRT) and immunotherapy in patients with unresectable locally advanced (LA)&#xD;
+      non-small cell lung cancer (NSCLC).&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. To estimate the rates of primary tumor control, local control, time to local-regional&#xD;
+      progression, disease-free survival (DFS), and overall survival (OS). II. To assess whether&#xD;
+      blood oxygen level determination (BOLD) functional magnetic resonance imaging (MRI) studies&#xD;
+      can predict which patients may respond best to PPV + CRT, and detect changes in oxygenation&#xD;
+      before and after PPV administration.&#xD;
+&#xD;
+      III. To assess whether blood-based and tissue-based biomarkers can predict which patients may&#xD;
+      respond best to PPV + CRT.&#xD;
+&#xD;
+      OUTLINE: This is a dose-escalation study of PPV.&#xD;
+&#xD;
+      Patients receive PPV intravenously (IV) or subcutaneously (SC) and undergo 5 fractions of&#xD;
+      radiation therapy (RT) per week. Patients also receive paclitaxel IV over 1 hour and&#xD;
+      carboplatin IV once weekly (QW) over 1-6 weeks in the absence of disease progression or&#xD;
+      unacceptable toxicity. Beginning 1 month of completing CRT, patients with PD-L1 positive&#xD;
+      disease receive durvalumab IV every 2 weeks (Q2W) for 12 months.&#xD;
+&#xD;
+      After completion of the study treatment, patients are followed for 2 years at 1, 3, 6, 9, 12,&#xD;
+      16, 20, and 24 months, then periodically for up to 5 years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximally tolerated dose (MTD) of papaverine (PPV) in combination with chemoradiation treatment (CRT)</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>Will employ the Bayesian optimal interval (BOIN) design to find the MTD. Treatment-related toxicity will be assessed based on Common Terminology Criteria for Adverse Events version 5.0 criteria.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Primary tumor control rate</measure>
+    <time_frame>At 12 and 24 months post-treatment</time_frame>
+    <description>Defined as the absence of primary tumor failure. Will be calculated and 95% exact binomial confidence interval will be provided.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Local control rate</measure>
+    <time_frame>At 12 and 24 months post-treatment</time_frame>
+    <description>Defined as the absence of local failure, which is a combination of primary tumor and involved lobe failure. Will be calculated and 95% exact binomial confidence interval will be provided.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to local-regional progression</measure>
+    <time_frame>From entry on the study until the time of documented local-regional recurrence or death, assessed at 12 and 24 months post-treatment</time_frame>
+    <description>Will be summarized using Kaplan-Meier method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease-free survival</measure>
+    <time_frame>From entry on the study until the time of any documented disease recurrence or death, assessed at 12 and 24 months post-treatment</time_frame>
+    <description>Will be summarized using Kaplan-Meier method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Distant-metastasis-free survival</measure>
+    <time_frame>At 12 and 24 months post-treatment</time_frame>
+    <description>Will be summarized using Kaplan-Meier method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>From study entry until the time of death from any cause, assessed at 12 and 24 months post-treatment</time_frame>
+    <description>Will be summarized using Kaplan-Meier method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in magnetic resonance imaging (MRI) blood oxygen level dependent (BOLD) response on MRI</measure>
+    <time_frame>Baseline up to 24 months</time_frame>
+    <description>Images pre and post PPV will be analyzed for stability of baseline and treatment signals. Percent BOLD change will be determined for maximal and overall signal changes. Comparisons between the distributions of pre and post PPV will be valuated using Earth Mover's Distance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood-based biomarkers related to predict patients response to PPV + CRT</measure>
+    <time_frame>Baseline up to 24 months</time_frame>
+    <description>Will acquire measurements of circulating serum microRNAs that can indicate tumor hypoxia or response to therapeutic intervention, and alterations in immune cell subsets that are suggestive of immune system activation or suppression with the experimental therapy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in tissue-based biomarkers related to predict patients response to PPV + CRT</measure>
+    <time_frame>Baseline up to 24 months</time_frame>
+    <description>When biopsy tissue is available, will acquire gene expression profiles by Affymetrix gene chip for indications of tumor hypoxia or response to therapeutic intervention, and correlating tumor mutations in genes involved in the anti-oxidant response pathway with outcomes.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">28</enrollment>
+  <condition>Locally Advanced Lung Non-Small Cell Carcinoma</condition>
+  <condition>Stage II Lung Cancer AJCC v8</condition>
+  <condition>Stage IIA Lung Cancer AJCC v8</condition>
+  <condition>Stage IIB Lung Cancer AJCC v8</condition>
+  <condition>Stage III Lung Cancer AJCC v8</condition>
+  <condition>Stage IIIA Lung Cancer AJCC v8</condition>
+  <condition>Stage IIIB Lung Cancer AJCC v8</condition>
+  <condition>Stage IIIC Lung Cancer AJCC v8</condition>
+  <condition>Unresectable Lung Non-Small Cell Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Treatment (papaverine, RT, paclitaxel, carboplatin)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive PPV IV or SC and undergo 5 fractions of RT per week. Patients also receive paclitaxel IV over 1 hour and carboplatin IV QW over 1-6 weeks in the absence of disease progression or unacceptable toxicity. Beginning 1 month of completing CRT, patients with PD-L1 positive disease receive durvalumab IV Q2W for 12 months.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carboplatin</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (papaverine, RT, paclitaxel, carboplatin)</arm_group_label>
+    <other_name>Blastocarb</other_name>
+    <other_name>Carboplat</other_name>
+    <other_name>Carboplatin Hexal</other_name>
+    <other_name>Carboplatino</other_name>
+    <other_name>Carboplatinum</other_name>
+    <other_name>Carbosin</other_name>
+    <other_name>Carbosol</other_name>
+    <other_name>Carbotec</other_name>
+    <other_name>CBDCA</other_name>
+    <other_name>Displata</other_name>
+    <other_name>Ercar</other_name>
+    <other_name>JM-8</other_name>
+    <other_name>Nealorin</other_name>
+    <other_name>Novoplatinum</other_name>
+    <other_name>Paraplatin</other_name>
+    <other_name>Paraplatin AQ</other_name>
+    <other_name>Paraplatine</other_name>
+    <other_name>Platinwas</other_name>
+    <other_name>Ribocarbo</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Durvalumab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (papaverine, RT, paclitaxel, carboplatin)</arm_group_label>
+    <other_name>Imfinzi</other_name>
+    <other_name>Immunoglobulin G1, Anti-(Human Protein B7-H1) (Human Monoclonal MEDI4736 Heavy Chain), Disulfide with Human Monoclonal MEDI4736 Kappa-chain, Dimer</other_name>
+    <other_name>MEDI-4736</other_name>
+    <other_name>MEDI4736</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Paclitaxel</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (papaverine, RT, paclitaxel, carboplatin)</arm_group_label>
+    <other_name>Anzatax</other_name>
+    <other_name>Asotax</other_name>
+    <other_name>Bristaxol</other_name>
+    <other_name>Praxel</other_name>
+    <other_name>Taxol</other_name>
+    <other_name>Taxol Konzentrat</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Papaverine</intervention_name>
+    <description>Given IV or SC</description>
+    <arm_group_label>Treatment (papaverine, RT, paclitaxel, carboplatin)</arm_group_label>
+    <other_name>Cerebid</other_name>
+    <other_name>Cerespan</other_name>
+    <other_name>Pavabid</other_name>
+    <other_name>Pavacap</other_name>
+    <other_name>Pavatym</other_name>
+    <other_name>Robaxapap</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Radiation Therapy</intervention_name>
+    <description>Undergo RT</description>
+    <arm_group_label>Treatment (papaverine, RT, paclitaxel, carboplatin)</arm_group_label>
+    <other_name>Cancer Radiotherapy</other_name>
+    <other_name>ENERGY_TYPE</other_name>
+    <other_name>Irradiate</other_name>
+    <other_name>Irradiated</other_name>
+    <other_name>Irradiation</other_name>
+    <other_name>Radiation</other_name>
+    <other_name>Radiation Therapy, NOS</other_name>
+    <other_name>Radiotherapeutics</other_name>
+    <other_name>Radiotherapy</other_name>
+    <other_name>RT</other_name>
+    <other_name>Therapy, Radiation</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All prior treatment-related toxicities must be Common Terminology Criteria for Adverse&#xD;
+             Events (CTCAE) (version 5.0) =&lt; grade 1 (except alopecia) at the time of enrollment&#xD;
+&#xD;
+          -  &gt;= 18 years old&#xD;
+&#xD;
+          -  Non-small cell lung cancer (NSCLC), histologically and/or cytologically proven&#xD;
+&#xD;
+          -  Clinical American Joint Committee on Cancer (AJCC) stage II-III NSCLC (T1-4N0-3M0)&#xD;
+&#xD;
+          -  Patients must be considered unresectable or medically-inoperable&#xD;
+&#xD;
+          -  Within 60 days of registration: patients must have fludeoxyglucose F-18 (FDG)-positron&#xD;
+             emission tomography (PET)-computed tomography (CT) scan (or CT chest/abdomen/pelvis&#xD;
+             with IV contrast), and magnetic resonance imaging (MRI) brain with IV contrast&#xD;
+             (preferred) or CT scan of the brain with contrast. Non-contrast MRI scans of the&#xD;
+             chest/abdomen/pelvis or brain are permitted for workup if patient has allergy to CT&#xD;
+             contrast or renal insufficiency&#xD;
+&#xD;
+          -  Within 30 days of registration: patients must have vital signs, history/physical&#xD;
+             examination, laboratory studies (CBCP with differential, chemistries including liver&#xD;
+             function tests, creatinine clearance (CrCl) assessment; pregnancy test if needed&#xD;
+             within 14 days of registration)&#xD;
+&#xD;
+          -  Absolute neutrophil count &gt;=1.5 x 10^9/L (within 30 days of study registration)&#xD;
+&#xD;
+          -  Hemoglobin &gt;= 9 g/dL (within 30 days of study registration)&#xD;
+&#xD;
+          -  Platelets &gt;= 100 x10^9/L (within 30 days of study registration)&#xD;
+&#xD;
+          -  Total bilirubin =&lt; 1.5 x upper limit of normal (ULN) (within 30 days of study&#xD;
+             registration)&#xD;
+&#xD;
+          -  Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) =&lt; 2.5 x ULN&#xD;
+             (within 30 days of study registration)&#xD;
+&#xD;
+          -  Creatinine &lt; 1.5 mg/dL or calculated creatinine clearance* &gt;= 50 mL/min or 24-hour&#xD;
+             urine creatinine clearance &gt;= 50 mL/min (within 30 days of study registration)&#xD;
+&#xD;
+               -  Calculated by the Cockcroft-Gault formula&#xD;
+&#xD;
+          -  If a pleural effusion is present and visible on both CT scan AND chest Xray, the&#xD;
+             investigator should exclude malignant disease by pleurocentesis to confirm&#xD;
+             cytologically-negative pleural fluid. If fluid is exudative or cytologically positive&#xD;
+             for tumor cells, patient is excluded&#xD;
+&#xD;
+               -  Patients with effusions that are minimal (i.e. not visible on chest x-ray) and&#xD;
+                  that are too small to safely tap are eligible&#xD;
+&#xD;
+          -  Life expectancy of &gt; 6 months in the opinion of investigator&#xD;
+&#xD;
+          -  Patient has an Eastern Cooperative Oncology Group (ECOG) performance status of 0-2&#xD;
+             within 30 days of registration&#xD;
+&#xD;
+          -  Patients must be a minimum of 3 weeks from thoracotomy (if performed) and well-healed&#xD;
+             before starting treatment&#xD;
+&#xD;
+          -  Ability to provide written informed consent obtained prior to participation in the&#xD;
+             study and any related procedures being performed&#xD;
+&#xD;
+          -  Women of child-bearing potential (WOCBP) must have a negative pregnancy test within 14&#xD;
+             days of registration. Urine human chorionic gonadotropin (HCG) is an acceptable&#xD;
+             pregnancy assessment&#xD;
+&#xD;
+          -  Nursing women may participate only if nursing is discontinued, due to the possibility&#xD;
+             of harm to nursing infants from the treatment regimen&#xD;
+&#xD;
+          -  Women/men of reproductive potential must be counselled on contraception/ abstinence&#xD;
+             while receiving the study treatment&#xD;
+&#xD;
+          -  Patient is suitable to receive standard chemotherapy with radiation during study&#xD;
+             treatment (i.e. carboplatin + paclitaxel)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Documented or pathologically-proven metastatic disease&#xD;
+&#xD;
+          -  Presence of nodules considered neoplastic in contralateral lobes (M1a)&#xD;
+&#xD;
+          -  Patients with history of pneumonectomy&#xD;
+&#xD;
+          -  Prior cytotoxic chemotherapy or molecularly-targeted agents (e.g. erlotinib,&#xD;
+             crizotinib), unless &gt; 2 years prior&#xD;
+&#xD;
+          -  Any concurrent malignancy other than non-melanoma skin cancer, non-invasive bladder&#xD;
+             cancer, or carcinoma in situ of the cervix. Patients with a previous malignancy&#xD;
+             without evidence of disease for &gt;= 3 years will be allowed to enter the trial&#xD;
+&#xD;
+          -  History of active connective tissue disease (scleroderma) or idiopathic pulmonary&#xD;
+             fibrosis&#xD;
+&#xD;
+          -  History of previous radiation therapy which would result in overlapping radiation&#xD;
+             fields&#xD;
+&#xD;
+          -  Uncontrolled neuropathy grade 2 or greater, regardless of cause&#xD;
+&#xD;
+          -  Subjects who are breast-feeding and plan to continue breast-feeding during therapy, or&#xD;
+             have a positive pregnancy test will be excluded from the study. Should a woman become&#xD;
+             pregnant or suspect she is pregnant while participating in this study, she should&#xD;
+             inform her treating physician immediately&#xD;
+&#xD;
+          -  If patient elects to have two research MRIs during dose-finding phase of trial,&#xD;
+             medical contraindication to MR imaging (e.g. pacemakers, metallic implants, aneurysm&#xD;
+             clips, known contrast allergy to gadolinium contrast, pregnancy, nursing mothers,&#xD;
+             weight greater than 350 pounds) or severe anxiety/claustrophobia related to MR imaging&#xD;
+             despite medications to relieve anxiety/claustrophobia&#xD;
+&#xD;
+          -  Hepatic insufficiency resulting in jaundice and/or coagulation defects, or not meeting&#xD;
+             laboratory values above (albumin, total bilirubin, AST/ALT)&#xD;
+&#xD;
+          -  Any serious and/or unstable pre-existing medical disorder (aside from malignancy&#xD;
+             exception above), psychiatric disorder, or other conditions that could interfere with&#xD;
+             subject's safety, obtaining informed consent or compliance to the study procedures, in&#xD;
+             the opinion of the treating physicians. This could include severe, active&#xD;
+             co-morbidities such as:&#xD;
+&#xD;
+               -  Unstable angina and/or congestive heart failure requiring hospitalization within&#xD;
+                  the last 6 months&#xD;
+&#xD;
+               -  Transmural myocardial infarction within the last 6 months&#xD;
+&#xD;
+               -  Acquired immune deficiency syndrome (AIDS) based upon the current Centers for&#xD;
+                  Disease Control and Prevention (CDC) definition; note, however, that human&#xD;
+                  immunodeficiency virus (HIV) testing is not required for entry into this&#xD;
+                  protocol. The need to exclude patients with AIDS from this protocol is necessary&#xD;
+                  because the treatments involved in this protocol may be significantly&#xD;
+                  immunosuppressive&#xD;
+&#xD;
+               -  Chronic obstructive pulmonary disease exacerbation or other respiratory illness&#xD;
+                  requiring hospitalization or precluding study therapy within 30 days of&#xD;
+                  registration&#xD;
+&#xD;
+               -  Hepatic insufficiency resulting in jaundice and/or coagulation defects&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jeremey Brownstein, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ohio State University Comprehensive Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>The Ohio State University Comprehensive Cancer Center</last_name>
+    <phone>800-293-5066</phone>
+    <email>OSUCCCClinicaltrials@osumc.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Ohio State University Comprehensive Cancer Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jeremy M. Brownstein, MD</last_name>
+      <email>Jeremy.Brownstein@osumc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jeremy Brownstein, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://cancer.osu.edu</url>
+    <description>The Jamesline</description>
+  </link>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>August 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 29, 2021</study_first_posted>
+  <last_update_submitted>November 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ohio State University Comprehensive Cancer Center</investigator_affiliation>
+    <investigator_full_name>Jeremy Brownstein</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Paclitaxel</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+    <mesh_term>Albumin-Bound Paclitaxel</mesh_term>
+    <mesh_term>Durvalumab</mesh_term>
+    <mesh_term>Papaverine</mesh_term>
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+    <mesh_term>Immunoglobulin G</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

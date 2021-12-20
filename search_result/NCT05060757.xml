@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7719">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05060757</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Biotax_001</org_study_id>
+    <nct_id>NCT05060757</nct_id>
+  </id_info>
+  <brief_title>Microbiome Test for the Detection of Colorectal Polyps</brief_title>
+  <official_title>Microbiome Test for the Detection of Colorectal Polyps</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Biotax Labs LTD</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Biotax Labs LTD</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main goal of this trial is to validate a new method for colorectal polyp screening based&#xD;
+      on stool microbiome signatures. 600 Individuals who are scheduled / planned to undergo a&#xD;
+      colonoscopy will be recruited for this study and a stool sample and an optional saliva sample&#xD;
+      will be collected.&#xD;
+&#xD;
+      Analyze process will be conducted on the microbiome of the samples given.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Colorectal cancer (CRC) is the second cause of cancer death in the US. The pathogenesis of&#xD;
+      CRC is complex, involving a progressive transition of the healthy colonic mucosa to&#xD;
+      pre-cancerous polyps, and eventually to CRC. One of the factors that are proposed to cause&#xD;
+      this 'adenoma-carcinoma sequence' is the dysbiosis of the gut microbiome.&#xD;
+&#xD;
+      The gut microbiota has been identified as a potential screening biomarker for CRC, since&#xD;
+      studies have reported specific bacterial taxa and/ or microbial signatures as important&#xD;
+      factors in the etiology of CRC.&#xD;
+&#xD;
+      Hypothesis:&#xD;
+&#xD;
+      comprehensive and cutting-edge metagenomic analysis of the fecal microbiome of individuals&#xD;
+      with colonic polyps vs. patients without polyps will identify microbial signatures associated&#xD;
+      with colonic polyps and will define these microbial signatures as biomarkers and risk factors&#xD;
+      for CRC.&#xD;
+&#xD;
+      method:&#xD;
+&#xD;
+        -  Collect data (anthropometric, demographic, dietary, lifestyle habits, medical and family&#xD;
+           history) and stool &amp; optional Saliva sample for microbiome analysis from a cohort of 600&#xD;
+           colonoscopies screened individuals.&#xD;
+&#xD;
+        -  Analyze this data with an aim to utilize advanced artificial intelligence and&#xD;
+           machine-learning techniques to classified microbiome signatures, which are correlated to&#xD;
+           colonoscopy (and to histological) results.&#xD;
+&#xD;
+        -  Blinded Validation - A sub-cohort of 300 individuals (who are part of the 600&#xD;
+           individuals) that were not used to classify the biomarkers signatures will be used to&#xD;
+           validate the diagnosis model.&#xD;
+&#xD;
+      Data analysis:&#xD;
+&#xD;
+      The stool and optional Saliva samples will be sent to metagenomic sequencing, thereby&#xD;
+      generating FASTQ libraries of the reads found in the stool &amp; saliva samples. These files will&#xD;
+      be analyzed by the BiotaX diagnostics platform.&#xD;
+&#xD;
+      No Human DNA analysis will take place at this clinical study. Only a microbial analysis will&#xD;
+      take place.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 27, 2021</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">July 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>diagnose existence of colon polyps</measure>
+    <time_frame>year</time_frame>
+    <description>To determine whether fecal metagenomics microbial signatures can significantly predict adenoma\ sessile serrated polyps (SSP) existence in patients and serve as diagnostic biomarkers.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>diagnose sub types of colon polyps</measure>
+    <time_frame>year</time_frame>
+    <description>To determine whether fecal metagenomics microbial signatures can significantly identify between the following subgroups: non-polyp group, Hyperplastic polyps, adenomas - &lt;5 mm, 6-10mm polyp group and &gt;10mm polyp group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Saliva microbiome vs stool microbiome</measure>
+    <time_frame>year</time_frame>
+    <description>To determine if Saliva microbiome sample can provide indication same as Stool microbiome sample.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Colon Polyp</condition>
+  <arm_group>
+    <arm_group_label>colonoscopy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be patients undergoing colonoscopy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>biotax</intervention_name>
+    <description>patients who are scheduled to undergo colonoscopy will be asked to participate and give a stool sample</description>
+    <arm_group_label>colonoscopy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Males or females.&#xD;
+&#xD;
+          2. Age: 45-70 years, inclusive.&#xD;
+&#xD;
+          3. Patients without any incapacitating systemic disease&#xD;
+&#xD;
+          4. Able to comprehend and provide informed consent.&#xD;
+&#xD;
+          5. Patients who are scheduled / planned to undergo a colonoscopy, preferably:&#xD;
+             participants who are undergoing a colonoscopy as a diagnostic surveillance.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subject has a history of colorectal cancer (CRC)&#xD;
+&#xD;
+          2. Subject has a diagnosis or medical history of any of the following conditions:&#xD;
+&#xD;
+               -  Familial adenomatous polyposis (also referred to as &quot;FAP&quot;, including attenuated&#xD;
+                  FAP and Gardner's syndrome)&#xD;
+&#xD;
+               -  Hereditary non-polyposis CRC syndrome (also referred to as &quot;HNPCC&quot; or &quot;Lynch&#xD;
+                  Syndrome&quot;)&#xD;
+&#xD;
+          3. Subject has a diagnosis or personal history of inflammatory bowel disease (IBD),&#xD;
+             including chronic ulcerative colitis or Crohn's disease.&#xD;
+&#xD;
+          4. Patients with incapacitating systemic disease&#xD;
+&#xD;
+          5. Any use of antibiotics within one months prior to colonoscopy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Zohar Levi, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assuta Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Erez Hasnis, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Rambam Health Care Campus</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Shay Hilel</last_name>
+    <phone>+972-54-4386721</phone>
+    <email>shay@biotax.co</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Naama Geva-Zatorsky, Ph.D</last_name>
+    <phone>+972-52-292-2300</phone>
+    <email>naamagz@biotax.co</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Rambam Medical Center</name>
+      <address>
+        <city>Haifa</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Erez Hasnis, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Assuta Medical Center</name>
+      <address>
+        <city>Tel Aviv</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zohar Levi, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <link>
+    <url>https://www.cancer.org/cancer/colon-rectal-cancer/about/key-statistics.html</url>
+    <description>colorectal cancer statistics</description>
+  </link>
+  <reference>
+    <citation>Dadkhah E, Sikaroodi M, Korman L, Hardi R, Baybick J, Hanzel D, Kuehn G, Kuehn T, Gillevet PM. Gut microbiome identifies risk for colorectal polyps. BMJ Open Gastroenterol. 2019 May 27;6(1):e000297. doi: 10.1136/bmjgast-2019-000297. eCollection 2019.</citation>
+    <PMID>31275588</PMID>
+  </reference>
+  <reference>
+    <citation>Garrett WS. The gut microbiota and colon cancer. Science. 2019 Jun 21;364(6446):1133-1135. doi: 10.1126/science.aaw2367.</citation>
+    <PMID>31221845</PMID>
+  </reference>
+  <reference>
+    <citation>Thomas AM, Manghi P, Asnicar F, Pasolli E, Armanini F, Zolfo M, Beghini F, Manara S, Karcher N, Pozzi C, Gandini S, Serrano D, Tarallo S, Francavilla A, Gallo G, Trompetto M, Ferrero G, Mizutani S, Shiroma H, Shiba S, Shibata T, Yachida S, Yamada T, Wirbel J, Schrotz-King P, Ulrich CM, Brenner H, Arumugam M, Bork P, Zeller G, Cordero F, Dias-Neto E, Setubal JC, Tett A, Pardini B, Rescigno M, Waldron L, Naccarati A, Segata N. Author Correction: Metagenomic analysis of colorectal cancer datasets identifies cross-cohort microbial diagnostic signatures and a link with choline degradation. Nat Med. 2019 Dec;25(12):1948. doi: 10.1038/s41591-019-0663-4.</citation>
+    <PMID>31664237</PMID>
+  </reference>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 29, 2021</study_first_posted>
+  <last_update_submitted>September 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Colonoscopy</keyword>
+  <keyword>microbiome</keyword>
+  <keyword>colon polyp</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Polyps</mesh_term>
+    <mesh_term>Colonic Polyps</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

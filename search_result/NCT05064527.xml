@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7430">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05064527</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H-18010607- 79689</org_study_id>
+    <nct_id>NCT05064527</nct_id>
+  </id_info>
+  <brief_title>A Wearable AI Feedback Tool for Pediatric OCD</brief_title>
+  <official_title>Wrist Angel: A Wearable AI Feedback Tool for OCD Treatment and Research</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mental Health Services in the Capital Region, Denmark</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Technical University of Denmark</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Copenhagen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Mental Health Services in the Capital Region, Denmark</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To test the feasibility of implementing digitally enhanced psychotherapy and research in a&#xD;
+      community child and adolescent mental health center including the acceptability of the&#xD;
+      digital technology to patients, parents and therapists.&#xD;
+&#xD;
+      To use passively collected physiological data and actively collected clinical and biochemical&#xD;
+      data from the patient and parents to detect and predict episodes of obsessive-compulsive&#xD;
+      disorder (OCD) -related episodes in children and accommodating behaviour in parents.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background: Psychiatric and specifically mechanistic research have stagnated mainly due to&#xD;
+      the time, labour and bias inherent in human-based technologies that dominate the field. To&#xD;
+      advance translational and precision psychiatry, researchers within psychiatry must forge&#xD;
+      long-term collaborations with researchers and developers within technology.&#xD;
+&#xD;
+      Objectives: To improve assessment and psychotherapy for youth obsessive-compulsive disorder&#xD;
+      (OCD) through developing an artificial intelligence tool to support patients, parents and&#xD;
+      therapists in cognitive behavioural therapy. To give an innovative push in the public sector&#xD;
+      hospitals and research through integration of wearable sensors and machine learning&#xD;
+      techniques.&#xD;
+&#xD;
+      Methods: 10 patients (8-17 years) and one of their parents from a child and adolescent mental&#xD;
+      health center will be recruited as in the larger TECTO project. To examine whether the&#xD;
+      algorithms can distinguish between patients and typically developing children, 10 typically&#xD;
+      developing sex and age matched children and one of their parents or guardians will also be&#xD;
+      recruited from the catchment area. Passively sensed physiological indicators of stress are&#xD;
+      used as input to privacy preserving signal processing and machine learning algorithms, which&#xD;
+      predict OCD-episodes, clinical severity and family accommodation. Oxytocin, as a biomarker&#xD;
+      for family accommodation, is measured through saliva samples. Signal processing will be used&#xD;
+      to extract acoustic and physiological features of importance for therapeutic response.&#xD;
+&#xD;
+      Expected results: Results from the proposed project will be used to develop AI tools that&#xD;
+      support clinicians, patients and parents, which will be implemented and evaluated in a&#xD;
+      public-sector hospital. Technology-enhanced therapy can be used in a stepped care model, in&#xD;
+      which subclinical symptoms are first monitored using passive sensors and then AI&#xD;
+      interventions are offered, supported by a healthcare professional, and when outpatient care&#xD;
+      is needed, the AI tool can support patient engagement. The results of this project will also&#xD;
+      advance research in computational science and psychiatry by testing biomarkers of clinical&#xD;
+      relevance.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 15, 2021</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Children's Yale-Brown Obsessive-Compulsive Scale (CY-BOCS) score</measure>
+    <time_frame>Week -1 and Week 8</time_frame>
+    <description>Semi-structured clinical interview that measures OCD symptom severity. 10 items, rated from 0 (no symptoms) to 4 (extreme severity), are summed to obtain a total score that can range from 0 to 40. An obsession severity score is obtained by summing the items 1-5. A compulsion severity score is obtained by summing items 6-10.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in KIDSCREEN-52</measure>
+    <time_frame>Week 0 and Week 8</time_frame>
+    <description>Self- and parent-ratings subjective health and well-being on 52 items on 10 subscales. Rasch scores are computed for each dimension (subscale) and are transformed into T-values with a mean of 50 and a standard deviation of 10. Higher scores indicate better quality of life and well-being.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Clinical Global Impression Severity and Clinical Global Impressions Improvement (CGI-I)</measure>
+    <time_frame>Week 0-8</time_frame>
+    <description>Change in severity of psychopathology. At baseline, the one-item CGI-S is rated on a 7-point scale, with the severity of illness scale using a range of responses from 1 (normal) through to 7 (severely ill). CGI-I scores range from 1 (large improvement) through to 7 (large increase in severity).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Children's Global Assessment Scale (CGAS)</measure>
+    <time_frame>Week -1 and Week 8</time_frame>
+    <description>Severity of functional impairment. One-item clinician rates from 0 (low functioning) to 100 (high functioning)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>OCD symptom remission</measure>
+    <time_frame>Week -1 and Week 8</time_frame>
+    <description>30% or more reduction in CY-BOCS score by Week 8. Dichotomous variable.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Subjective unit of distress</measure>
+    <time_frame>Week 0-8</time_frame>
+    <description>Patients rate their level of distress on an 11-point scale (0= no distress; 10 = unbearable distress) during exposure and response prevention sessions.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Symptom hierarchy</measure>
+    <time_frame>Week 0-8</time_frame>
+    <description>Patients rate their level of distress associated with current OCD symptoms on an 11-point scale (0= no distress; 10 = unbearable distress) on a weekly basis.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Positive and Negative Affect Questionnaire for children (PANAS-C)</measure>
+    <time_frame>Week 1-8</time_frame>
+    <description>Five positive and 5 negative emotions are self-rated on a 5-point scale from 1= &quot;very slightly or not at all&quot; to 5= &quot;extremely&quot;.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>International Positive and Negative Affect Questionnaire Short Form (I-PANAS-SF )</measure>
+    <time_frame>Week 1-8</time_frame>
+    <description>5 positive and 5 negative emotions are self-rated on a 5-point scale from 1= &quot;very slightly or not at all&quot; to 5= &quot;extremely&quot;.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Biochemical synchrony</measure>
+    <time_frame>Week 0-8</time_frame>
+    <description>Correlations between child and parent oxytocin level and response child and parent.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Salivary oxytocin level-child</measure>
+    <time_frame>Weeks 0 and 8</time_frame>
+    <description>Concentration of oxytocin in child saliva calculated using Matlab-7 according to relevant standard curves.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Salivary oxytocin level-parent</measure>
+    <time_frame>Weeks 0 and 8</time_frame>
+    <description>Concentration of oxytocin in parent saliva calculated using Matlab-7 according to relevant standard curves.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Salivary oxytocin response-child</measure>
+    <time_frame>Weeks 0 and 8</time_frame>
+    <description>Change in oxytocin in child saliva.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Salivary oxytocin response-parent</measure>
+    <time_frame>Weeks 0 and 8</time_frame>
+    <description>Change in oxytocin in parent saliva.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Family Accommodation Scale - Parent Report (FAS-PR)</measure>
+    <time_frame>Weeks 0, 4, and 8</time_frame>
+    <description>Self-rated degree of parental involvement in child OCD symptoms. 13-item measure with 4 subscales: Modifying routines, Participating in rituals, Parental distress caused by accommodating and Child consequences for not accommodating. Parents report the frequency of their accommodating behavior within the past week on 9 items and the severity of stress and consequences on 4 items on a five-point scale (0=never/no to 4= daily/extreme). Total and subscales scores are obtained by summing items.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Family Environment Scale - Parent Report (FES)</measure>
+    <time_frame>Weeks 0, 4, and 8</time_frame>
+    <description>Self-rated questionnaire in which parents report how they perceive their current family environment. 54 items from the following six subscales are used: 1. Cohesion, 2. Expressiveness, 3. Conflict, 4. Independence, 5. Organization, 6. Control. There are three FES forms (real, ideal, and expectations); only the FES real form will be used, which examines a family member's perception of the family as it is. The scale ranges from 10 to 40, with a score of 10 being representative of no family control and a score of 40 being representative of the greatest magnitude of family control. Therefore, a decrease in score represents a decrease in self-reported family control.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Parental Stress Scale (PSS)</measure>
+    <time_frame>Weeks 0, 4, and 8</time_frame>
+    <description>Self-rated degree of stress related to parenting identified child. 18 items rated on 5-point scales. Positively statements are reverse scored. Scores range between 18 and 90. Higher scores reflect greater stress.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Depression Anxiety Stress Scales (DASS)</measure>
+    <time_frame>Weeks 0-8</time_frame>
+    <description>42-item measure of negative emotional states in adults. Self-rated on a 4-point scale. Scores for Depression, Anxiety and Stress are calculated by summing the scores for the relevant items. Higher scores indicate more depression, anxiety and stress.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Biosensor experience</measure>
+    <time_frame>Week 7</time_frame>
+    <description>Children's and parents' level of physical (dis)comfort of wearing the wristband, degree of satisfaction with the design, concerns of stigmatization and data security as well as usability. There are 13 multiple choice questions answered on a 4-point scale (0 = disagree a lot - 3 = agree a lot ) and one open-ended question.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>User experience questionnaire- Mobile App</measure>
+    <time_frame>Week 7</time_frame>
+    <description>20 items rated on a 4-point scale (0=unsatisfied to 3= very satisfied). Parents will be asked to complete eight questions about the app's usefulness, ease of use, clarity and attractiveness in terms of being interesting and innovative, trust in the app and 12 specific questions about the consent form for the app.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Wristband compliance</measure>
+    <time_frame>Weeks 0 - 8</time_frame>
+    <description>Number of hours parents and children wear the wristband</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>App compliance</measure>
+    <time_frame>Week 0-8</time_frame>
+    <description>Ratio of app tasks received and completed tasks</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adverse events - app</measure>
+    <time_frame>Weeks 0-8</time_frame>
+    <description>Negative effects of the app defined as the count of events reported by the parent, child or case worker.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adverse events - wristband</measure>
+    <time_frame>Weeks 0-8</time_frame>
+    <description>Negative effects of the wristband defined as the count of events reported by the parent, child or case worker.</description>
+  </other_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Obsessive-Compulsive Disorder</condition>
+  <arm_group>
+    <arm_group_label>Patients</arm_group_label>
+    <description>OCD (ICD-10 F42) as the primary or secondary diagnosis, verified with a semi-structured psychopathological interview using Kiddie Schedule for Affective Disorders and Schizophrenia (K-SADS-PL).&#xD;
+CY-BOCS &gt; 7: mild (8-15), moderate (16-23), severe (24-31), extreme (32-40)&#xD;
+A psychiatrist determined that the child is eligible for care within psychiatry for their primary diagnosis.&#xD;
+Patient is age 8 through 17 years (both inclusive).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Controls</arm_group_label>
+    <description>Ages 8 through 17 years (both inclusive).&#xD;
+Sex and age (+/- 3months) matched to an included patient.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Caregivers of Patients</arm_group_label>
+    <description>Parent or guardian of patient with OCD</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Caregivers of Controls</arm_group_label>
+    <description>Parent or guardian of control participant</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>wearable biosensor</intervention_name>
+    <description>The E4 wristband will be worn by all groups for the duration of the study. It measures blood volume pulse, electrodermal activity, skin temperature, and movement. Patients will be asked to press the event tagging button when they feel stressed by OCD. Control will be asked to press the button when they feel anxious. Parents will be asked to press the button with they notice their child feels stressed by OCD or anxious.</description>
+    <arm_group_label>Caregivers of Controls</arm_group_label>
+    <arm_group_label>Caregivers of Patients</arm_group_label>
+    <arm_group_label>Controls</arm_group_label>
+    <arm_group_label>Patients</arm_group_label>
+    <other_name>E4 wristband</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>App</intervention_name>
+    <description>The will be used for ecological momentary assessment (EMA) to assess child and caregiver emotion/arousal state at random times during the day for labelling biosensor data. It also contains forms for recording OCD symptoms on a weekly basis and a guided exposure and response prevention form.</description>
+    <arm_group_label>Caregivers of Controls</arm_group_label>
+    <arm_group_label>Caregivers of Patients</arm_group_label>
+    <arm_group_label>Controls</arm_group_label>
+    <arm_group_label>Patients</arm_group_label>
+    <other_name>Carp App</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Treatment as usual (TAU)</intervention_name>
+    <description>Patients will receive treatment as usual at the child and adolescent mental health center. TAU can range from one session of psychoeducation to group psychotherapy, individual psychotherapy to medication.</description>
+    <arm_group_label>Patients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Exposure and response prevention (ERP)</intervention_name>
+    <description>One ERP session will be offered in Week 0 and Week 8.</description>
+    <arm_group_label>Patients</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Saliva samples will be collected from patients and healthy controls and one of their&#xD;
+      caregivers at baseline (Week 0) and Week 8 to measure oxytocin concentration.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients: seeking treatment at a child and adolescent mental health center. Controls:&#xD;
+        living in the catchment area of a the same child and adolescent mental health center.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  OCD (ICD-10 F42) as the primary or secondary diagnosis, verified with a&#xD;
+             semi-structured psychopathological interview using K-SADS-PL.&#xD;
+&#xD;
+          -  CY-BOCS &gt; 7: mild (8-15), moderate (16-23), severe (24-31), extreme (32-40)&#xD;
+&#xD;
+          -  A psychiatrist determined that the child is eligible for care within psychiatry for&#xD;
+             their primary diagnosis.&#xD;
+&#xD;
+          -  Patient is age 8 through 17 years (both inclusive).&#xD;
+&#xD;
+          -  Signed informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participation in other OCD trials.&#xD;
+&#xD;
+          -  Comorbid illness that contraindicates trial participation: pervasive developmental&#xD;
+             disorder not including Asperger's syndrome (ICD-10 F84.0-84.4 + F84.8-84.9)),&#xD;
+             schizophrenia/paranoid psychosis (ICD-10 F20-25 + F28-29), mania or bipolar disorder&#xD;
+             (ICD-10 F30 and F31), depressive psychotic disorders (F32.3 + F33.3), substance&#xD;
+             dependence syndrome (ICD-10 F1x.2).&#xD;
+&#xD;
+          -  Intelligence Quotient &lt;70.&#xD;
+&#xD;
+          -  Any condition (e.g. allergies, eczema, hypersensitivity due to Asperger's syndrome)&#xD;
+             that would prevent the child or parent from wearing a wristband biosensor.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>8 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nicole N Lønfeldt, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Capital Region of Denmark</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Line Katrine H Clemmensen, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Technical University of Denmark</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Anne K Pagsberg, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Capital Region of Denmark</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nicole N Lønfeldt, PhD</last_name>
+    <phone>+45 38641148</phone>
+    <email>nicole.nadine.loenfeldt@regionh.dk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Anne K Pagsberg, MD, PhD</last_name>
+    <phone>+45 38641180</phone>
+    <email>Anne.Katrine.Pagsberg@regionh.dk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Child and Adolescent Mental Health Center - Capital Region of Denmark</name>
+      <address>
+        <city>Copenhagen</city>
+        <zip>2400</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nicole N Lønfeldt, PhD</last_name>
+      <phone>+4538641148</phone>
+      <email>nicole.nadine.loenfeldt@regionh.dk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Cecilie Mora-Jensen, MD</last_name>
+      <phone>+4538641268</phone>
+      <email>Anna-rosa.cecilie.mora-jensen@regionh.dk</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>June 2021</verification_date>
+  <study_first_submitted>September 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 1, 2021</study_first_posted>
+  <last_update_submitted>September 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Signal processing</keyword>
+  <keyword>Oxytocin</keyword>
+  <keyword>Family Accommodation</keyword>
+  <keyword>Biosensor</keyword>
+  <keyword>Mobile app</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Compulsive Personality Disorder</mesh_term>
+    <mesh_term>Obsessive-Compulsive Disorder</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

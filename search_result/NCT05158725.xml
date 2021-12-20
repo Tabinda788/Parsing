@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="186">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05158725</url>
+  </required_header>
+  <id_info>
+    <org_study_id>G-EYE/Discovery</org_study_id>
+    <nct_id>NCT05158725</nct_id>
+  </id_info>
+  <brief_title>Comparison of Colonoscopy Adenoma Detection Yield</brief_title>
+  <official_title>Comparison of Colonoscopy Adenoma Detection Yield of Standard Colonoscopy, Discovery Aided Colonoscopy, and Discovery and G-EYE® Aided Colonoscopy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dr. Horst Schmidt Klinik GmbH</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Dr. Horst Schmidt Klinik GmbH</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A Prospective Randomized Comparison of colonoscopy Adenoma Detection Yield of (i) Standard&#xD;
+      Colonoscopy (SC), (ii) artificial intelligence (Discovery) aided colonoscopy, and (iii)&#xD;
+      artificial intelligence (Discovery) and permanently mounted balloon (G-EYE®) aided&#xD;
+      colonoscopy.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Multi-center, three-arm, randomized, controlled, open-label study.&#xD;
+&#xD;
+      Total of up to 1320 patients will be randomized, including up to 10% for subject drop-out,&#xD;
+      440 to each of the three following arms (groups):&#xD;
+&#xD;
+      Group 1 (1st arm): patients will receive standard colonoscopy (SC) Group 2 (2nd arm):&#xD;
+      patients will receive colonoscopy aided by the Discovery artificial intelligence software&#xD;
+      (DC) Group 3 (3rd arm): patients will receive colonoscopy aided by the Discovery artificial&#xD;
+      intelligence software and the G-EYE® balloon (GDC) The purpose of this study is to compare&#xD;
+      between the diagnostic yield of Standard Colonoscopy, Discovery aided colonoscopy, and&#xD;
+      Discovery &amp; G-EYE® aided colonoscopy.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 8, 2021</start_date>
+  <completion_date type="Anticipated">June 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Multi-center, three-arm, randomized, controlled, open-label study</intervention_model_description>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Adenoma detection yield</measure>
+    <time_frame>Upon histology results (up to 30 days)</time_frame>
+    <description>adenoma detection yield, represented by Adenoma Per Colonoscopy (APC), of Standard Colonoscopy, compared with APC of Discovery aided colonoscopy and further compared with APC of Discovery &amp; G-EYE® aided colonoscopy</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adenoma Detection Rate (Discovery + G-EYE vs. Standard Colonoscopy)</measure>
+    <time_frame>Upon histology results (up to 30 days)</time_frame>
+    <description>Adenoma Detection Rate of Discovery and G-EYE® aided colonoscopy compared to Adenoma Detection Rate of Standard Colonoscopy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adenoma Detection Rate (Discovery vs. Standard Colonosocopy)</measure>
+    <time_frame>Upon histology results (up to 30 days)</time_frame>
+    <description>Adenoma Detection Rate of Discovery aided colonoscopy compared to Adenoma Detection Rate of Standard Colonoscopy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adenoma Per Colonoscopy (Discovery vs. Discovery + G-EYE)</measure>
+    <time_frame>Upon histology results (up to 30 days)</time_frame>
+    <description>Adenoma Per Colonoscopy of Discovery aided colonoscopy compared to Adenoma Per Colonoscopy of Discovery and G-EYE® aided colonoscopy</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">1320</enrollment>
+  <condition>Adenoma Colon</condition>
+  <arm_group>
+    <arm_group_label>Standard Colonoscopy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects will undergo colonoscopy using a standard colonoscope</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Discovery aided colonoscopy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects will undergo colonoscopy using a a standard colonoscope and the Discovery aided colonoscopy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Discovery and G-EYE aided colonoscopy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will undergo colonoscopy using the G-EYE Endoscope and the Discovery aided colonoscopy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Standard Colonoscopy</intervention_name>
+    <description>In this arm, subjects will undergo colonoscopy using a standard colonoscope</description>
+    <arm_group_label>Standard Colonoscopy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Discovery aided colonoscopy</intervention_name>
+    <description>the Discovery is a customized detection support software, developed utilizing AI deep learning technology to support endoscopic lesion detection in the colon. In this arm, a standard colonoscope is used with the Discovery.</description>
+    <arm_group_label>Discovery aided colonoscopy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Discovery and G-EYE</intervention_name>
+    <description>The G-EYE® Endoscope is a standard colonoscope which is remanufactured by installing the G-EYE® balloon on the distal bending section of the colonoscope. in this arm, the G-EYE® Endoscope is used with the Discovery</description>
+    <arm_group_label>Discovery and G-EYE aided colonoscopy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Screening and surveillance population for Adenoma and CRC.&#xD;
+&#xD;
+          2. The patient must understand and sign a written informed consent for the procedure.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subjects with inflammatory bowel disease;&#xD;
+&#xD;
+          2. Subjects with a personal history of hereditary polyposis syndrome;&#xD;
+&#xD;
+          3. Subjects with suspected chronic stricture potentially precluding complete colonoscopy;&#xD;
+&#xD;
+          4. Subjects with diverticulitis or toxic megacolon;&#xD;
+&#xD;
+          5. Subjects with prior colonic surgery (exclusion appendectomy)&#xD;
+&#xD;
+          6. Subjects with a history of radiation therapy to abdomen or pelvis;&#xD;
+&#xD;
+          7. Pregnant or lactating female subjects;&#xD;
+&#xD;
+          8. Subjects who are currently enrolled in another clinical investigation.&#xD;
+&#xD;
+          9. Subjects with current oral or parenteral use of anticoagulants, not considered&#xD;
+             eligible by the investigator.&#xD;
+&#xD;
+         10. Subjects with recent (within the last 3 mounts) coronary ischemia or CVA (stroke)&#xD;
+&#xD;
+         11. Any patient condition deemed too risky for the study by the investigator&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ralf Kiesslich, Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Helios Dr. Horst Schmidt Kliniken Wiesbaden GmbH</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ralf Kiesslich, Prof.</last_name>
+    <phone>+49 611 43-9002</phone>
+    <email>Ralf.Kiesslich@helios-gesundheit.de</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Helios Dr. Horst Schmidt Kliniken Wiesbaden GmbH</name>
+      <address>
+        <city>Wiesbaden</city>
+        <zip>65199</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ralf Kiesslich, Prof.</last_name>
+      <phone>+49 611 43-9002</phone>
+      <email>Ralf.Kiesslich@helios-gesundheit.de</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>December 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 15, 2021</study_first_posted>
+  <last_update_submitted>December 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Adenoma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

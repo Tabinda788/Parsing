@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2739">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05125510</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CTO 2157</org_study_id>
+    <nct_id>NCT05125510</nct_id>
+  </id_info>
+  <brief_title>The Canadian COVID-19 Prospective Cohort Study</brief_title>
+  <acronym>CANCOV</acronym>
+  <official_title>The Canadian COVID-19 Prospective Cohort Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Health Network, Toronto</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Unity Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Hospital for Sick Children</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Toronto</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Canadian Institutes of Health Research (CIHR)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Canadian Frailty Network</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Health Network, Toronto</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The CANCOV study will be the first Canadian study to provide a comprehensive evaluation of&#xD;
+      early and 1-year outcomes of outpatient and hospitalized COVID-19 survivors and their family&#xD;
+      caregivers, their varied trajectories and associated clinical risk factors. The overall&#xD;
+      objectives are to determine short- (in hospital) and longer-term (1, 3, 6 and 12 months&#xD;
+      post-acute hospital discharge) outcomes COVID-19+ patients across the spectrum of symptom&#xD;
+      severity, including outpatients and inpatients from GIM and ICU wards and their caregivers,&#xD;
+      and the clinical, sociodemographic, multi-omic predictors of these outcomes. By leveraging&#xD;
+      expertise from investigators across disciplines and divisions, this study presents a suite of&#xD;
+      complementary projects that explore the genetic, transcriptomic, epigenomic and immunologic&#xD;
+      evaluation of COVID-19 infection across the illness and recovery trajectory during the acute&#xD;
+      illness and in the context of multidimensional long-term outcomes.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In December 2019, a novel coronavirus (COVID-19)-infected pneumonia was identified in Wuhan,&#xD;
+      China, and is a current global pandemic. Early studies are emerging, but it is still unclear&#xD;
+      what may determine better or worse outcomes for these patients and their caregivers, and the&#xD;
+      detailed nature of long-term consequences from this infection. Current data suggest that&#xD;
+      80-85% of patients infected with COVID-19 have mild symptoms and are not hospitalized. Of&#xD;
+      those who are hospitalized, 60-80% will be discharged from hospital after a few days, and&#xD;
+      20-40% may require treatment in an intensive care unit (ICU) and/or mechanical ventilation&#xD;
+      (approximately 4-6% of all COVID-19 positive patients). The determining factors of these&#xD;
+      varied clinical paths are urgently needed and unknown.&#xD;
+&#xD;
+      The CANCOV investigator group is conducting a national Canadian COVID-19 Prospective Cohort&#xD;
+      Study (CANCOV). This will be a multi-centre, one-year follow-up of 1000 COVID-19 patients who&#xD;
+      are hospitalized in acute care hospitals (those admitted to general internal medicine (GIM)&#xD;
+      wards, and/or ICUs) and their caregivers, and 1000 non-hospitalized patients (those who were&#xD;
+      tested positive and asked to isolate at home) in participating centres across Canada. In&#xD;
+      addition, a cohort of 500-1000 patients who do not have a COVID-19 positive test but who&#xD;
+      present with a clinical diagnosis of COVID-19 will be included for investigation and&#xD;
+      comparison. The overall objectives are to determine short- (in hospital, and 2-week outcome&#xD;
+      for non-hospitalized patients) and longer-term (1, 3, 6 and 12 months post-acute hospital&#xD;
+      discharge or post diagnosis for outpatients) outcomes in patients and their caregivers, and&#xD;
+      the clinical, sociodemographic, genetic/ transcriptomic/epigenomic/immunological predictors&#xD;
+      of these outcomes. Due to patients with 'long-COVID' syndrome, we have added an optional&#xD;
+      study extension for an additional 24 months.&#xD;
+&#xD;
+      By leveraging expertise from investigators across disciplines and divisions, this study&#xD;
+      presents a suite of complementary projects that explore the genetic, transcriptomic,&#xD;
+      epigenomic and immunological evaluation of COVID-19 infection across the illness and recovery&#xD;
+      trajectory in mild as well as acute illness and in the context of multidimensional long-term&#xD;
+      outcomes. The investigators will access electronic data through the GEMINI network, and&#xD;
+      explore Artificial Intelligence (AI) analyses and linkages through Institute of Clinical and&#xD;
+      Evaluative Sciences (ICES) data. This project will contribute new knowledge to outcomes in&#xD;
+      patients with COVID-19 infections and will inform large-scale public health planning,&#xD;
+      clinical care, and ongoing resource needs.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 17, 2020</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Functional Independence Measure (FIM) or acute FIM</measure>
+    <time_frame>1 year post diagnosis/admission</time_frame>
+    <description>FIM is a measure of self-care, sphincter control, mobility, locomotion, communication, social and cognitive skills that has been validated and standardized in spinal cord and stroke populations. The acuteFIM is a subscale of the FIM and adapted to patients in hospital.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Functional Independence Measure (FIM) or acute FIM</measure>
+    <time_frame>1,3 and 6 months post diagnosis/admission</time_frame>
+    <description>FIM is a measure of self-care, sphincter control, mobility, locomotion, communication, social and cognitive skills that has been validated and standardized in spinal cord and stroke populations. The acuteFIM is a subscale of the FIM and adapted to patients in hospital.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Six Minute Walking Test (6MWT) with oximetry</measure>
+    <time_frame>admission/diagnosis to 1,3,6 and 12 months.</time_frame>
+    <description>Subjects walk as far as they can in six minutes while receiving maximum encouragement. It is simple to execute, inexpensive, standardized and gives a tangible measure of functional exercise capacity. It has been validated in survivors of critical illness. The 6MWT will be conducted according to American Thoracic Society standards.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary Function Testing (spirometry)</measure>
+    <time_frame>admission/diagnosis to 1,3,6 and 12 months.</time_frame>
+    <description>Non-invasive measures of lung volume, capacity, rates of flow, and gas exchange through a mouthpiece connected to a spirometer and are used for screening and diagnosis of lung disorders. These tests will be conducted according to American Thoracic Society standards. For non-hospitalized and hospitalized non-ICU participants, spirometry will be conducted only if clinically indicated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Medical Research Council (MRC) Score for Muscle Strength</measure>
+    <time_frame>admission/diagnosis to 1,3,6 and 12 months.</time_frame>
+    <description>This score measures level of muscle strength in proximal and distal muscle groups on a scale from 0-5 where 0 indicates no muscle flexion, and 5 indicates full muscle function against gravity and against resistance. Muscle strength in the upper extremities (arm, forearm, wrist) and lower extremities (leg, knee, foot) will be tested.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Medical Outcomes Study Short Form -36 Questionnaire (SF-36)</measure>
+    <time_frame>admission/diagnosis to 1,3,6 and 12 months.</time_frame>
+    <description>The self-administered SF-36 evaluates eight health concepts: physical functioning, role functioning-physical, bodily pain, general health, vitality, social functioning, role functioning-emotional, and mental health. Previous studies have used this instrument in survivors of critical illness and it takes approximately 15 minutes to complete. Used for all patient + caregiver cohorts.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Health Questionnaire (PHQ-9)</measure>
+    <time_frame>admission/diagnosis to 1,3,6 and 12 months.</time_frame>
+    <description>The PHQ-9 is a validated, multipurpose instrument for screening, diagnosing, monitoring and measuring the severity of depression. It incorporates DSM-IV depression diagnostic criteria with other leading major depressive symptoms into a brief self-report tool. The PHQ-9 is brief and useful in clinical practice. The PHQ-9 is completed by the patient in minutes and is rapidly scored by the clinician. The PHQ-9 can also be administered repeatedly, which can reflect improvement or worsening of depression in response to treatment. Used for all patient + caregiver cohorts.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>General Anxiety Assessment Form (GAD-7)</measure>
+    <time_frame>admission/diagnosis to 1,3,6 and 12 months.</time_frame>
+    <description>The GAD-7 is a valid and efficient tool for screening for generalized anxiety disorder and assessing its severity in clinical practice and research. It is easy-to-use, self-administered patient questionnaire that can be completed in minutes. Used for all patient + caregiver cohorts.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PCL-5 Trauma Score</measure>
+    <time_frame>admission/diagnosis to 1,3,6 and 12 months.</time_frame>
+    <description>The PCL-5 is a validated, reliable, 20-item self-report measure that assesses the 20 DSM-5 symptoms of Post-Traumatic Stress Disorder (PTSD). It takes approximately 5-10 minutes to complete. Used for all patient + caregiver cohorts.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Connor-Davidson Resiliency Scale (CD-RISC)</measure>
+    <time_frame>admission/diagnosis to 1,3,6 and 12 months.</time_frame>
+    <description>ICU PATIENT + iCU CAREGIVER COHORT: The CD-RISC-10 is a validated, reliable 10-item measure that assesses resilience or how well one is equipped to bounce back after stressful events, tragedy, or trauma. The CD-RISC-10 scale is comprised of ten of the original 25 items from the CD-RISC25 scale. Total scores range from 0-40.&#xD;
+The CD-RISC-2 is a shorter version with 2 questions and captures the essence of the whole instrument and will be used in the non-hospitalized cohort, the hospitalized non-ICU cohort, and non-ICU caregiver cohort.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reintegration to Normal Living Index (RNLI)</measure>
+    <time_frame>admission/diagnosis to 1,3,6 and 12 months.</time_frame>
+    <description>This short self-administered assessment tool will determine the degree to which participants reintegrate into normal social activities such as recreation, mobility in the community and interaction in family or other relationships. This tool has been validated in community living adults with mobility limitations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>BORG Dypsnea scale</measure>
+    <time_frame>admission/diagnosis to 1,3,6 and 12 months.</time_frame>
+    <description>This short assessment tool assesses perceived exertion using a 10 point scale as assessed by the patient's experience.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Frailty Scale Score (CFS)</measure>
+    <time_frame>admission/diagnosis to 1,3,6 and 12 months.</time_frame>
+    <description>The CFS is a reliable and validated scale shown to be a strong predictor of institutionalization and mortality in older and also critically ill patients across differing age groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rapid Geriatric Assessment</measure>
+    <time_frame>admission/diagnosis to 1,3,6 and 12 months.</time_frame>
+    <description>The Rapid Geriatric Assessment (RGA) is a tool developed to quickly identify four geriatric syndromes including frailty, sarcopenia, anorexia of aging and cognitive dysfunction and takes less than 4 minutes to administer. The components of the RGA are the FRAIL for frailty, SARC-F for sarcopenia, SNAQ for anorexia of aging and the Rapid Cognitive Screen which is derived from the St. Louis University Mental Status Examination. All the screening tools have been validated in multiple continents and are available in up to 30 languages.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stigma Scale (SS)</measure>
+    <time_frame>admission/diagnosis to 1,3,6 and 12 months.</time_frame>
+    <description>There is no COVID-19 specific validated stigma scale. We are modifying a short stigma scale that has been validated to assess enacted and internalized stigma and psychological distress in patients with tuberculosis. We will be testing this modified scale out in a subgroup of patients prior to using it in our wider cohorts.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>admission/diagnosis to 1 year.</time_frame>
+    <description>The determinants of hospital mortality and 1-year outcome will inform risk stratification and outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pattern and Cost of Post-hospital discharge Healthcare Utilization (Resources and Costs)</measure>
+    <time_frame>admission/diagnosis to 1,3,6, and 12 months</time_frame>
+    <description>Health services use after enrollment including hospitalization, emergency department visits, outpatient contact with physicians including virtual visits and phone calls.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Medical Outcomes Study Social Support Scale (SS)</measure>
+    <time_frame>baseline to 1,3,6 and 12 months</time_frame>
+    <description>Assessment of social support using this scale will be used for the family caregiver cohort only.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Care-giving Impact Scale (CIS)</measure>
+    <time_frame>baseline to 1,3,6 and 12 months</time_frame>
+    <description>participation in valued activities will be assessed using this scale for the family caregiver cohort only.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Care-giving Assistance Scale (CAS)</measure>
+    <time_frame>baseline to 1,3,6 and 12 months</time_frame>
+    <description>level of care provided to the ICU survivor in terms of activities of daily living, instrumental activities and medical care will be evaluated in the family caregiver cohort only.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pearlin's Mastery Scale</measure>
+    <time_frame>baseline to 1,3,6 and 12 months</time_frame>
+    <description>This scale will be used to assess caregivers' sense of control over life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Personal Gain Scale</measure>
+    <time_frame>baseline to 1,3,6 and 12 months</time_frame>
+    <description>This scale will be used to assess caregivers' personal development as a result of providing care.</description>
+  </secondary_outcome>
+  <number_of_groups>5</number_of_groups>
+  <enrollment type="Anticipated">2500</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Hospitalized ICU Cohort</arm_group_label>
+    <description>COVID-19+ patients over age 16 who are critically ill and admitted to an ICU and/or required mechanical ventilation (MV) in participating hospitals will be invited to participate. Patients who were hospitalized prior to study start up will be invited to participate in CANCOV.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hospitalized non-ICU Cohort</arm_group_label>
+    <description>COVID-19+ patients over age 16 admitted to acute care hospitals, GIM/other wards of participating hospitals will be invited to participate. Patients who were hospitalized prior to this study start up (from January 25, 2020 to study start up) will be invited to participate in this study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non-Hospitalized Cohort</arm_group_label>
+    <description>Individuals who are community dwelling, over the age of 16, are COVID-19+ and never hospitalized for their COVID-19 infection are included. These individuals may be diagnosed by participating hospital emergency rooms / in-person assessment centres / virtual clinics. In addition, we will include individuals who were diagnosed from January 25, 2020 within 6 months of study start up.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Caregiver Cohort</arm_group_label>
+    <description>Up to 500 family caregivers of patients admitted to the GIM wards and ICUs of participating hospitals will be invited to participate.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Antibody Negative/Presumed COVID-19 comparator cohort</arm_group_label>
+    <description>Approximately 500 individuals who do not have a positive COVID-19 test (nasal swab, serological antibody assay, etc.) but who have experienced COVID-19 symptoms and have strong epidemiologic links suggesting probable COVID-19 infection (such as household or occupational contacts and close timing of their symptoms to an index case) will be invited to participate.</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      We are collecting, DNA, RNA, PBMCs, buffy coat, serum, plasma&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Canadian general population&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Patients&#xD;
+&#xD;
+          1. &gt; 16 years of age&#xD;
+&#xD;
+          2. COVID-19+ test&#xD;
+&#xD;
+        Antibody Negative/Presumed COVID-19 comparator cohort&#xD;
+&#xD;
+          1. &gt; 16 years of age&#xD;
+&#xD;
+          2. NO COVID-19+ test (either by nasal swab or antibody)&#xD;
+&#xD;
+          3. Experienced symptoms&#xD;
+&#xD;
+          4. Strong epidemiologic links suggesting probable COVID-19 infection (such as household&#xD;
+             or occupational contacts and close timing of their symptoms to an index case.&#xD;
+&#xD;
+        Caregiver:&#xD;
+&#xD;
+        1. Family caregivers of hospitalized COVID-19+ patients who are participating in the study.&#xD;
+        Family caregivers are defined as the family member or friend who is responsible for&#xD;
+        providing and/or coordinating all the COVID-19 survivors' post-hospital care without&#xD;
+        financial compensation. They will be included if they are able to read and speak English&#xD;
+        and are over the age of 18 years.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Anticipated death or withdrawal of life sustaining treatment within 48 hours.&#xD;
+&#xD;
+          2. Catastrophic neurological injury in the opinion of the attending physician (e.g. Grade&#xD;
+             V SAH or massive CVA).&#xD;
+&#xD;
+          3. Patient unlikely to comply with follow-up.&#xD;
+&#xD;
+          4. Physician refusal (only for hospitalized patients).&#xD;
+&#xD;
+          5. Patient or SDM (substitute decision maker) refuses consent.&#xD;
+&#xD;
+          6. No next of kin or SDM available (if patient unable to provide consent).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Judy Scher, MSc</last_name>
+    <phone>4163404841</phone>
+    <email>judy.scher@uhnresearch.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Alberta Health Services</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Tom Stelfox</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sophia Ahmed</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Healthcare</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Shoshana Parker</last_name>
+      <email>sparker@cheos.ubc.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Anita Palepu, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Health Sciences Centre and St. Boniface Hospital and Grace Hospital</name>
+      <address>
+        <city>Winnipeg</city>
+        <state>Manitoba</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chantale Pineau</last_name>
+      <email>cpineau@sbgh.mb.ca</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>William Osler Health System</name>
+      <address>
+        <city>Etobicoke</city>
+        <state>Ontario</state>
+        <zip>M9V 1R8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Deepanjali M Kaushik</last_name>
+      <email>Deepanjali.Kaushik@williamoslerhs.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Alexandra Binnie, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Karen Britto, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St Joseph's Health Centre</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laurel Kelly</last_name>
+      <email>kellyl@stjosham.on.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Abby Hurd</last_name>
+      <email>ahurd@stjosham.on.ca</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>The Ottawa Hospital</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rebecca Porteos</last_name>
+      <email>rporteous@ohri.ca</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Michael Garron Hospital (Toronto East General Hospital)</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M4C 3E7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hoda MoinSadat</last_name>
+      <email>Hoda.MoinSadat@tehn.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Ian Fraser, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Christopher Kandel, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Christopher Smith, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Unity Health (St Michaels Health Centre_</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5B 1W8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Marlene Santos</last_name>
+      <email>Marlene.Santos@unityhealth.to</email>
+    </contact>
+    <investigator>
+      <last_name>Claudia Dos Santos, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Darrel Tan, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jane Batt, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Stephen Hwang, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Amol Verma, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Fahad Razak, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 1X5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sumesh Shaw</last_name>
+      <email>Sumesh.Shah@sinaihealth.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Sangeeta Mehta, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Christine Soong, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Erin Bearss, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Health Network, Osteoporosis Department</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 2C4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>CANCOV@uhn.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Angela M Cheung, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Margaret Herridge, MD MSc</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>George Tomlinson, Ph.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital for Sick Children</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>McGill University Health Centre</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Suzanne Morin, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Montreal Jewish General</name>
+      <address>
+        <city>Montréal</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Vicky Tagalakis, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Sherbrooke</name>
+      <address>
+        <city>Sherbrooke</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Francois Lamontagne, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Éléonore Riesco</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Émilie Breton</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Warner Mampuya</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Alain Piche</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>April 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 18, 2021</study_first_posted>
+  <last_update_submitted>November 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

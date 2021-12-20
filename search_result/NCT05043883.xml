@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9016">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05043883</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CPVI-002</org_study_id>
+    <nct_id>NCT05043883</nct_id>
+  </id_info>
+  <brief_title>Automated Assessment of PVI Using a Novel EP Recording System</brief_title>
+  <acronym>PVISION</acronym>
+  <official_title>Automated Assessment of Pulmonary Vein Isolation (PVI) Using a Novel EP Recording System (CathVision Cube® System)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>CathVision ApS</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>AKRN Scientific Consulting, S.L.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>CathVision ApS</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A prospective, multi-center study with the CathVision Cube® system and the PVI Analyzer&#xD;
+      software in radiofrequency (RF) and cryo balloon procedures.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Subjects with paroxysmal or persistent atrial fibrillation (AF) who are indicated to undergo&#xD;
+      first pulmonary vein isolation (PVI) procedure and meet all eligibility criteria will be&#xD;
+      enrolled in the Study. Intracardiac signals will be passively recorded using the&#xD;
+      investigational CathVision Cube® System in parallel with the conventional (CE marked) EP&#xD;
+      recording system. The investigational device will not be used for direct clinical care&#xD;
+      decisions or therapy. The validation of the automated algorithm for PVI will be performed&#xD;
+      offline&#xD;
+&#xD;
+      The primary objective is to validate the PVI Analyzer software with a novel EP recording&#xD;
+      system (CathVision Cube® System) for assisting assessment of isolation status following PVI&#xD;
+      ablation.&#xD;
+&#xD;
+      The secondary objective is to determine the feasibility of &quot;real-time&quot; assessment of PVI&#xD;
+      analysis and rhythm dependent performance using the PVI Analyzer and CathVision Cube® System.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 15, 2021</start_date>
+  <completion_date type="Anticipated">November 29, 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 29, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The primary performance objective is to validate the PVI Analyzer software with a novel EP recording system (CathVision Cube® System) for assessment of isolation status following PVI ablation.</measure>
+    <time_frame>From EP procedure until study completion at discharge; an average of 24 hours.</time_frame>
+    <description>Sensitivity and specificity of PVI Analyzer classification of isolation status following PVI ablation using data from the investigational CathVision Cube System. Specificity is defined as the ratio of correct negative (non-isolated) predictions among data points from non-isolated veins. Sensitivity is defined as the ratio of correct positive (isolated) data points from isolated veins. Classification is performed using recorded data before and after the isolation of each available pulmonary vein independently.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The safety endpoint of the Study will evaluate the adverse events and/or device malfunctions reported with the use of the CathVision Cube® System.</measure>
+    <time_frame>From EP procedure until study completion at discharge; an average of 24 hours.</time_frame>
+    <description>Evaluation of adverse events and/or device malfunctions reported with the use of the CathVision Cube® System during the procedure until discharge.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Automated PVI Analyzer classification of PV isolation in SR by procedure</measure>
+    <time_frame>From EP procedure until study completion at discharge; an average of 24 hours.</time_frame>
+    <description>Sensitivity and specificity of PVI Analyzer classification of isolation status within the two subgroups of Cryo-balloon ablation and Radiofrequency ablation. Sensitivity and specificity are measured in the same way as for the primary endpoint, but calculated within the subgroups of veins ablated with Cryo-balloon or Radiofrequency, respectively. Classification also follows the definition in the primary endpoint.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Automated PVI Analyzer classification of PV isolation in NSR</measure>
+    <time_frame>From EP procedure until study completion at discharge; an average of 24 hours.</time_frame>
+    <description>Sensitivity and specificity of PVI Analyzer classification of isolation status within the subgroup of data recorded in non-sinus rhythm.&#xD;
+Non-sinus rhythm is defined as any rhythm not regarded as sinus rhythm, including atrial fibrillation, typical- and atypical atrial flutter. Sensitivity and specificity are measured in the same way as for primary endpoint. Classification follows the definition in the primary endpoint.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Feasibility of &quot;real-time&quot; assessment of PVI analysis</measure>
+    <time_frame>From EP procedure until study completion at discharge; an average of 24 hours.</time_frame>
+    <description>Accuracy of PVI Analyzer classification of isolation status at different timepoints before, during and after ablation.&#xD;
+The accuracy is defined as the agreement of re-classification of pairs of non-overlapping samples before, during and after ablation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PVI Analyzer classification accuracy at the time of expert-defined isolation</measure>
+    <time_frame>From EP procedure until study completion at discharge; an average of 24 hours.</time_frame>
+    <description>Sensitivity of PVI Analyzer analysis to identify expert-defined isolation during PVI ablation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of device performance with conventional system</measure>
+    <time_frame>From EP procedure until study completion at discharge; an average of 24 hours.</time_frame>
+    <description>Specificity and sensitivity of PVI Analyzer analysis to identify isolation using data from the conventional system.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>Paroxysmal Atrial Fibrillation</condition>
+  <condition>Persistent Atrial Fibrillation</condition>
+  <arm_group>
+    <arm_group_label>Single Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Index EP Procedure: Ablation of atrial fibrillation</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>CathVision Cube® system</intervention_name>
+    <description>Intracardiac signals will be passively recorded using the investigational CathVision Cube® System in parallel with the commercial (bearing CE mark) EP recording systems LabSystem Pro, Boston Scientific EP, or EP-Tracer, Schwarzer Cardiotek. The investigational device will not be used for direct clinical care decisions or therapy. The validation of the PVI Analyzer will be performed offline and retrospectively.</description>
+    <arm_group_label>Single Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Eligible subjects will meet all of the following inclusion criteria:&#xD;
+&#xD;
+          1. Subjects undergoing first-time pulmonary vein isolation indicated by investigator for&#xD;
+             the treatment of atrial fibrillation&#xD;
+&#xD;
+          2. Male or non-pregnant female aged ≥21 years.&#xD;
+&#xD;
+          3. Able and willing to provide written informed consent prior to any clinical&#xD;
+             investigation related procedure&#xD;
+&#xD;
+        Eligible subjects will not meet any of the following exclusion criteria:&#xD;
+&#xD;
+          1. Pregnant or nursing subjects.&#xD;
+&#xD;
+          2. Current participation in another investigational drug or device study that interferes&#xD;
+             with this Study.&#xD;
+&#xD;
+          3. Subjects who, in the opinion of the investigator, are not candidates for this Study.&#xD;
+&#xD;
+          4. Patients who have had a prior ablation procedure&#xD;
+&#xD;
+          5. Presence of other anatomic or comorbid conditions, or other medical, social, or&#xD;
+             psychological conditions that, in the investigator's opinion, could limit the&#xD;
+             subject's ability to participate in the clinical investigation or to comply with&#xD;
+             follow-up requirements, or impact the scientific soundness of the clinical&#xD;
+             investigation results.&#xD;
+&#xD;
+          6. Life expectancy less than 12 month&#xD;
+&#xD;
+          7. Subjects who, in the opinion of the investigator, are considered part of any&#xD;
+             vulnerable population.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mattias Duytschaever, Prof. MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>AZ Sint-Jan Hospital, Ruddershove 10 8000 Brugge, Belgium</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mads E Matthiesen, MSc</last_name>
+    <phone>+45 61305061</phone>
+    <email>mem@cathvision.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>AZ Sint-Jan Hospital</name>
+      <address>
+        <city>Brugge</city>
+        <zip>8000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mattias Duytschaever, Prof. MD PhD</last_name>
+      <email>mattias.duytschaever@azsintjan.be</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Ziekenhuis Brussel</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1090</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carlo de Asmundis, Prof. MD PhD</last_name>
+      <email>carlo.deasmundis@uzbrussel.be</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ghent University Hospital</name>
+      <address>
+        <city>Ghent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jan De Pooter, MD PhD</last_name>
+      <email>jan.depooter@uzgent.be</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique Pasteur Toulouse,</name>
+      <address>
+        <city>Toulouse</city>
+        <zip>31300</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Serge Boveda, MD PhD</last_name>
+      <email>sboveda@clinique-pasteur.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>France</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>August 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 14, 2021</study_first_posted>
+  <last_update_submitted>October 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>atrial fibrillation</keyword>
+  <keyword>pulmonary vein isolation</keyword>
+  <keyword>radiofrequency</keyword>
+  <keyword>cryo balloon</keyword>
+  <keyword>ablation</keyword>
+  <keyword>software</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Atrial Fibrillation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

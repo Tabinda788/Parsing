@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="114">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05159661</url>
+  </required_header>
+  <id_info>
+    <org_study_id>204084</org_study_id>
+    <nct_id>NCT05159661</nct_id>
+  </id_info>
+  <brief_title>Intelligent Digital Tools for Screening of Brain Connectivity and Dementia Risk Estimation in People Affected by Mild Cognitive Impairment</brief_title>
+  <acronym>AI-Mind</acronym>
+  <official_title>Intelligent Digital Tools for Screening of Brain Connectivity and Dementia Risk Estimation in People Affected by Mild Cognitive Impairment</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Oslo University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Aalto University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Accelopment AG</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Alzheimer Europe</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>BrainSymph AS</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Det Norske Veritas</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Helsinki University Central Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>IRCCS San Raffaele Roma</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Lurtis Rules S.L.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Neuroconnect Srl</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Oslo Metropolitan University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Radboud University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tallinna Ülikool</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Universidad Complutense de Madrid</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Catholic University of the Sacred Heart</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Oslo University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Every three seconds someone in the world develops dementia. There are over 50 million people&#xD;
+      worldwide living with dementia and by 2030 this figure is expected to reach 82 million.&#xD;
+      Besides time-consuming patient investigations with low discriminative power for dementia&#xD;
+      risk, current treatment options focus on late symptom management. By screening brain&#xD;
+      connectivity and dementia risk estimation in people affected by mild cognitive impairment,&#xD;
+      the European Union (EU) funded AI-Mind project will open the door to extending the&#xD;
+      'dementia-free' period by offering proper diagnosis and early intervention. AI-Mind will&#xD;
+      develop two artificial intelligence-based digital tools that will identify dysfunctional&#xD;
+      brain networks and assess dementia risk. Personalised patient reports will be generated,&#xD;
+      potentially opening new windows for intervention possibilities.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The aim of this study is to validate an AI based risk assessment tool for new clinical&#xD;
+      neurological data management in five clinical centres (Oslo OUS, Helsinki HUH, Madrid UCM,&#xD;
+      Rome IRCCS and Rome UCSC)). Today, around 50% of patients with mild cognitive impairment&#xD;
+      (MCI) are at risk to develop dementia, and that early risk signs include brain network&#xD;
+      disturbances as an expression of beginning synaptic dysfunction in the course of dementia&#xD;
+      development. This synaptic dysfunction can be registered by electrophysiological brain&#xD;
+      signals. The AI-Mind Connector will identify such disturbed brain network based on EEG&#xD;
+      technology. Brain networks patterns are identified among other mathematical possibilities by&#xD;
+      Graph theory. Classical machine learning and deep learning approaches of artificial&#xD;
+      intelligence will be used in automating these brain network identification processes in&#xD;
+      existing M/EEG data.&#xD;
+&#xD;
+      The secondly developed tool, the AI-Mind Predictor, will serve as an enriched Connector, a&#xD;
+      multimodal prediction method for risk estimation of dementia in MCI patients. In addition to&#xD;
+      Connector data, cognitive test results, genetic apolipoprotein E (APOE) allele and&#xD;
+      P-Tau-protein level information are integrated in the AI-Mind Predictor. The AI-Mind&#xD;
+      Predictor will discriminate between people at risk for further dementia development and&#xD;
+      non-at-risk. The anticipated high specific and sensitive AI-Mind Predictor results will be&#xD;
+      compared to state-of-the-art (SOA) approaches.&#xD;
+&#xD;
+      The cutting-edge AI-Mind model development and testing will be done by available anonymised&#xD;
+      and prospective pseudo-anonymised data collected at the 5 included clinical centres. Final&#xD;
+      adaptation, validation, and prototype development will be conducted by the hereby described&#xD;
+      collection of prospective data of a total 1000 MCI subjects, based on standardized clinical&#xD;
+      inclusion/exclusion criteria listed below. All patients will sign an informed consent before&#xD;
+      entering the study.&#xD;
+&#xD;
+      The patients will follow the AI-Mind protocol for a 2-year period in parallel with the SOA&#xD;
+      follow-up procedures at each hospital and country. The protocol includes repetitive M/EEG&#xD;
+      measurements, digitalised cognitive testing, and at the first visit a blood sample for APOE&#xD;
+      allele and p-Tau 181 analyses. At two of our clinical centres (HUH and UCM) clinical MEG is&#xD;
+      additionally offered for specific feature extraction for modelling by new EEG based AI-Mind&#xD;
+      Connector technology.&#xD;
+&#xD;
+      Importantly, AI-Mind's new data handling procedure will only use existing well-established,&#xD;
+      globally accessible and low-cost SOA technologies. With AI-Mind's new data processing&#xD;
+      approach the goal is to increase today's low predictive value (&lt;0.5) of SOA clinical dementia&#xD;
+      prediction, and proactively select, with higher accuracy than before, MCI patients at risk to&#xD;
+      be able to receive earlier clinical intervention. Thereby, AI-Mind wishes to contribute to&#xD;
+      delaying dementia development by detecting the risk already at the first visit when symptoms&#xD;
+      occur.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">December 2021</start_date>
+  <completion_date type="Anticipated">February 2026</completion_date>
+  <primary_completion_date type="Anticipated">January 2025</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>AI-Mind Connector with estimated specificity and sensitivity value &gt; 0.9</measure>
+    <time_frame>2026</time_frame>
+    <description>To validate the AI-Mind Connector as a biomarker for early brain network connectivity disturbance in at-risk patients.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>AI-Mind Predictor with estimated specificity and sensitivity value &gt; 0.9.</measure>
+    <time_frame>2026</time_frame>
+    <description>To validate the AI-Mind Predictor as a diagnostic support tool for dementia risk evaluation. AI-Mind Predictor with higher prediction value for early dementia risk than current clinical practice.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical utility of Digital Cognitive Test compared to classical Neuropsychological test</measure>
+    <time_frame>2026</time_frame>
+    <description>Report on the clinical utility of digital cognitive assessment tool for evaluation of cognitive function in people suspected of MCI and compare it to paper pencil classical neuropsychological test (NPT). The specific test (and domains) to be applied are Motor Screening Task (Attention and psychomotor speed), Delayed Matching to Sample (Memory), One Touch Stockings of Cambridge (Executive function), Paired Associates Learning (Memory), Pattern Recognition Memory (Memory), Reaction Time (Attention and psychomotor speed), Rapid Visual Information Processing (Attention and psychomotor speed), Spatial Working Memory (Executive function) and Match to Sample Visual Search (Attention and psychomotor speed). The score of the test domains of the digital cognitive test will be compared to equal domains measured through classical NPT.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>M/EEG connectivity measures</measure>
+    <time_frame>2026</time_frame>
+    <description>To validate the accuracy of different M/EEG (connectivity) data features for predicting the risk of dementia</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Cognitive Dysfunction</condition>
+  <condition>Dementia</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood sample for DNA isolation and plasma protein assessment will be collected from&#xD;
+      participants in the morning of the first visit, with participants non-fasting.&#xD;
+&#xD;
+      Genetic analysis of the ε4 allele of APOE. The determination of phosphorylated form of tau.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Approximately 1000 MCI participants will be screened and consecutively enrolled at AI-MINDs&#xD;
+        by the clinical criteria and assessments. All patients will be enrolled by SOA procedures&#xD;
+        being referred to neurological and memory clinics due to their mild cognitive impaired&#xD;
+        symptoms.&#xD;
+&#xD;
+        Subjects that fulfil the AI-Mind criteria for MCI based on the acknowledged criteria by the&#xD;
+        National Institute on Aging-Alzheimer's Association (NIA-AA), and meet the projects&#xD;
+        inclusion criteria listed below, will be offered to participate in the AI-Mind clinical&#xD;
+        study. The clinical identification of MCI is defined using specific assessment tools known&#xD;
+        to accurately identify cognitive status and progression of cognitive decline. The&#xD;
+        assessment tools include the use of Mini Mental State Examination (MMSE), Clinical Dementia&#xD;
+        Rating (CDR), Instrumental activities of daily living IADL and Petersen/Winblad criteria&#xD;
+        with 1.5 SD in 1 or more cognitive domains.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male and female aged between 60 and 75 years&#xD;
+&#xD;
+          -  MCI diagnosis with a MMSE &gt;= 25&#xD;
+&#xD;
+          -  or MCI diagnosis with MoCa &gt;= 17&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Confirmed dementia&#xD;
+&#xD;
+          -  History of cerebrovascular disease (i.e. stroke episodes)&#xD;
+&#xD;
+          -  Alcohol Use Disorder Identification Test (AUDIT) score positive&#xD;
+&#xD;
+          -  Severe medical disorders associated with cognitive impairment (organ insufficiencies,&#xD;
+             chronic infections, endocrinological disorders)&#xD;
+&#xD;
+          -  Severe head trauma with structural brain lesion and/or previous brain surgery;&#xD;
+&#xD;
+          -  Severe mental disorders; Schizophrenia, known Major depression or bipolar disorder&#xD;
+&#xD;
+          -  Neuroimaging evidence of other potential causes of cognitive decline (e.g. subdural&#xD;
+             haematoma, malignancy)&#xD;
+&#xD;
+          -  History of malignancy &lt; 5 years;&#xD;
+&#xD;
+          -  Recent use of psychotropic drugs including AChEI and Memantine (&lt; 3 months);&#xD;
+&#xD;
+          -  Participation in trials with experimental drugs.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ira Haraldsen, PhD, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Oslo University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ira Haraldsen, PhD, MD</last_name>
+    <phone>92011533</phone>
+    <phone_ext>0047</phone_ext>
+    <email>ira.haraldsen@icloud.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lina Plataniti, M.Sc.</last_name>
+    <phone>45008425</phone>
+    <phone_ext>0047</phone_ext>
+    <email>linpla@ous-hf.no</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Helsinki University Hospital</name>
+      <address>
+        <city>Helsinki</city>
+        <zip>00280</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paivi Olli</last_name>
+      <email>aimindsuomi@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Università Cattolica del Sacro Cuore Campus di Roma</name>
+      <address>
+        <city>Roma</city>
+        <zip>00168</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cristina Nardulli</last_name>
+      <email>info.aimindproject@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Scientific Institute for Research, Hospitalization and Healthcare</name>
+      <address>
+        <city>Roma</city>
+        <zip>00179</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Frederica Lino</last_name>
+      <email>info.aimindproject@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Oslo University Hospital</name>
+      <address>
+        <city>Oslo</city>
+        <zip>0450</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cathrine Faye</last_name>
+      <phone>95833193</phone>
+      <phone_ext>0047</phone_ext>
+      <email>cfaye@a-support.no</email>
+    </contact>
+    <contact_backup>
+      <last_name>Vebjørn Andersson, B.Sc</last_name>
+      <phone>41859640</phone>
+      <phone_ext>0047</phone_ext>
+      <email>vebjoran@uio.no</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Universidad Complutense de Madrid</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Soraya Alfonsín Romero</last_name>
+      <email>proyectoAIMind@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Finland</country>
+    <country>Italy</country>
+    <country>Norway</country>
+    <country>Spain</country>
+  </location_countries>
+  <link>
+    <url>https://www.ai-mind.eu/</url>
+    <description>Offcial project website for the AI-Mind project</description>
+  </link>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>October 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 16, 2021</study_first_posted>
+  <last_update_submitted>December 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Oslo University Hospital</investigator_affiliation>
+    <investigator_full_name>Ira Hebold Haraldsen</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>MCI</keyword>
+  <keyword>AI</keyword>
+  <keyword>EEG</keyword>
+  <keyword>Alzheimer</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Functional brain connectivity</keyword>
+  <keyword>Deep learning</keyword>
+  <keyword>Machine learning</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

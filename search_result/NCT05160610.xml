@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="41">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05160610</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ITEM</org_study_id>
+    <nct_id>NCT05160610</nct_id>
+  </id_info>
+  <brief_title>Improving Thrombolysis Implementation Based on Electronic Monitoring in Acute Ischemic Stroke (ITEM)</brief_title>
+  <official_title>Improving Thrombolysis Implementation Based on Electronic Monitoring in Acute Ischemic Stroke (ITEM): a Cluster Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Second Affiliated Hospital, School of Medicine, Zhejiang University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Second Affiliated Hospital, School of Medicine, Zhejiang University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A cluster randomized controlled trial will be conducted. Hospitals in Zhejiang Province,&#xD;
+      China, will be randomized into two arms (1:1): an intervention arm and a control arm.&#xD;
+&#xD;
+      Hospitals in the intervention arm will receive a multilevel intervention based on the AACTT&#xD;
+      theory, whereas hospitals in the control arm will receive no intervention and maintain&#xD;
+      routine care. All the hospitals will receive electronic monitoring. Hospitals with no stroke&#xD;
+      center or with &lt;20 cases received thrombolysis per year will be excluded from the study.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2022</start_date>
+  <completion_date type="Anticipated">June 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Thrombolysis rate within 4.5 hours</measure>
+    <time_frame>Up to 4.5 hours</time_frame>
+    <description>The proportion of acute ischemic stroke patients within 4.5 hours of onset</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Thrombolysis rate within 3 hours</measure>
+    <time_frame>Up to 3 hours</time_frame>
+    <description>The proportion of acute ischemic stroke patients within 3 hours of onset</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Excellent neurological outcomes</measure>
+    <time_frame>At 90 days</time_frame>
+    <description>Score of 0 to 1 on the modified Rankin Scale, on which scores range from 0 (no neurologic deficit) to 6 (death)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Favorable neurological outcomes</measure>
+    <time_frame>At 90 days</time_frame>
+    <description>Score of 0 to 1 on the modified Rankin Scale, on which scores range from 0 (no neurologic deficit) to 6 (death)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>modified Rankin Scale score</measure>
+    <time_frame>At 90 days</time_frame>
+    <description>The distribution of modified Rankin Scale score at 90 days, on which scores range from 0 (no neurologic deficit) to 6 (death)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause death rate</measure>
+    <time_frame>At 90 days</time_frame>
+    <description>All-cause death rate at 90 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hemorrhagic transformation</measure>
+    <time_frame>At 7 days</time_frame>
+    <description>the presence of hemorrhagic transformation is defined according to European Cooperative Acute Stroke Study (ECASS) II trial</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Symptomatic intracranial hemorrhage</measure>
+    <time_frame>At 7 days</time_frame>
+    <description>Intracranial hemorrhage at 24 hours associated with an increase of ≥4 points of NIHSS score from baseline, according to European Cooperative Acute Stroke Study (ECASS) II trial</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Door-to-image time</measure>
+    <time_frame>Up to 4.5 hours</time_frame>
+    <description>The time between hospital arrival and the initiation of image</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>the proportion of acute ischemic stroke patients with Door-to-Needle Time≤60min</measure>
+    <time_frame>Up to 4.5 hours</time_frame>
+    <description>Difference between intervention arm and control arm in the percentage of patients receiving thrombolysis within 60 minutes of stroke onset</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Door-to-needle time</measure>
+    <time_frame>Up to 4.5 hours</time_frame>
+    <description>The time between hospital arrival and the initiation of IVT</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Onset-to-needle time</measure>
+    <time_frame>Up to 24 hours</time_frame>
+    <description>The time between the symptom onset and the initiation of IVT</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">2720</enrollment>
+  <condition>Thrombolysis Rate</condition>
+  <arm_group>
+    <arm_group_label>Intervention group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>receiving multilevel intervention, electronic monitoring and stroke registry participation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>receiving routine care , electronic monitoring and stroke registry participation</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Multilevel intervention</intervention_name>
+    <description>Multilevel intervention based on AACTT theory</description>
+    <arm_group_label>Intervention group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients presented with clinical signs of acute ischemic stroke within 4.5 hours of&#xD;
+             stroke onset&#xD;
+&#xD;
+          2. Patient's age is &gt;18 years&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Contraindication for intravenous thrombolysis&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Zexin Chen</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ethics committee the second affiliated hospital, school of medicine, Zhejiang University, China</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Min Lou, PhD</last_name>
+    <phone>13958007213</phone>
+    <email>loumingxc@vip.sina.com</email>
+  </overall_contact>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 16, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 16, 2021</study_first_posted>
+  <last_update_submitted>December 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Acute ischemic stroke</keyword>
+  <keyword>Electronic monitoring</keyword>
+  <keyword>Intravenous thrombolysis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ischemic Stroke</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

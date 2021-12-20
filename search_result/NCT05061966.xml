@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7627">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05061966</url>
+  </required_header>
+  <id_info>
+    <org_study_id>849509</org_study_id>
+    <nct_id>NCT05061966</nct_id>
+  </id_info>
+  <brief_title>The Digital Wellbeing Project</brief_title>
+  <official_title>Piloting a Web App for Sexual and Gender Minority Youth Mental Health</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>HopeLab Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This goal of this randomized control trial is to test whether a web application that provides&#xD;
+      sexual and gender minority youth ages 13-19 (N=200) with tools for affirming their identities&#xD;
+      and coping with minority stress can affect key psychosocial outcomes, such as coping&#xD;
+      self-efficacy and symptoms of anxiety and depression.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">September 15, 2021</start_date>
+  <completion_date type="Anticipated">March 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Coping self-efficacy</measure>
+    <time_frame>Changes between baseline and 4-week follow-up</time_frame>
+    <description>The Stress Appraisals Measure for Adolescents includes three subscales answered on a 5-point scale. The Challenges subscale has scores ranging from 3 to 15, where higher scores indicate greater perceptions of stress as a surmountable challenge. The Threat subscale has scores ranging from 7 to 35, where higher scores indicate perceiving stress as more threatening. The Resources subscale has scores ranging from 3 to 15, with higher scores indicating greater perception of having the resources to cope with stress.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Identity Affirmation</measure>
+    <time_frame>Changes between baseline and 4-week follow-up</time_frame>
+    <description>The Lesbian, Gay and Bisexual Positive Identity Measure-Authenticity Subscale has a scoring range from 1 to 7, whereby greater values indicate greater feelings of authenticity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Internalization of minority stress</measure>
+    <time_frame>Changes between baseline and 4-week follow-up</time_frame>
+    <description>The Coping with Discrimination Scale- Internalization Subscale has a scoring range from 1 to 6; higher scores indicate greater internalization of minority stress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sense of belonging to the queer community</measure>
+    <time_frame>Changes between baseline and 4-week follow-up</time_frame>
+    <description>The Lesbian, Gay and Bisexual Positive Identity Measure-Community Subscale has a scoring range from 1 to 7, where higher scores indicate greater feelings of connection to the LGBTQ community.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety symptoms</measure>
+    <time_frame>Changes between baseline and 4-week follow-up</time_frame>
+    <description>The General Anxiety Disorder-7 scale has a range from 0 to 21, where higher scores indicate greater anxiety symptomatology.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Depression symptoms</measure>
+    <time_frame>Changes between baseline and 4-week follow-up</time_frame>
+    <description>The Patient Health Questionnaire-8 inventory has a range from 0 to 24, where higher scores indicate greater depression symptomatology.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive and Behavioral Coping Skills</measure>
+    <time_frame>Changes between baseline and 4-week follow-up</time_frame>
+    <description>The Brief COPE inventory is comprised of 11 subscales. Each subscale is scored from 2 to 8. Higher values indicate a greater number of specific coping strategies.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">300</enrollment>
+  <condition>Mental Health</condition>
+  <arm_group>
+    <arm_group_label>Online Resource website</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The comparator is a website that includes a list of freely available web-based resources for sexual and gender minority youth.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>immi</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The intervention is a novel and scalable web application designed to provide sexual and gender minority youth with tools for affirming their identity and coping with minority stress.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>immi</intervention_name>
+    <description>The intervention has four main content areas: 1) gender identity (the gender guide), 2) sexual orientation (the queerness guide), 3)stress and coping (the stress guide), and 4) internalized stigma (the internalized stigma guide).</description>
+    <arm_group_label>immi</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Control</intervention_name>
+    <description>The control will have access to resources on the website, but will not receive any engagement reminders, matching the conditions present in real world contexts in which web-based resource lists are available.</description>
+    <arm_group_label>Online Resource website</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Are between 13-19 years of age (inclusive)&#xD;
+&#xD;
+          2. Self-identify as a sexual or gender minority&#xD;
+&#xD;
+          3. Are English literate&#xD;
+&#xD;
+          4. Reside within the United States&#xD;
+&#xD;
+          5. Have access to a device that has internet access, a web browser, and SMS capabilities,&#xD;
+             such as a smartphone, computer, or tablet&#xD;
+&#xD;
+          6. Willingness to participate in study activities&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Not between 13-19 years of age (inclusive)&#xD;
+&#xD;
+          2. Does not self-identify as a sexual or gender minority&#xD;
+&#xD;
+          3. Is not English literate&#xD;
+&#xD;
+          4. Does not reside within the United States&#xD;
+&#xD;
+          5. Does not have access to a device that has internet access, a web browser, and SMS&#xD;
+             capabilities, such as a smartphone, computer, or tablet&#xD;
+&#xD;
+          6. Unwilling to participate in study activities&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>19 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jose A Bauermeister, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pennsylvania</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>September 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 30, 2021</study_first_posted>
+  <last_update_submitted>December 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Sexual and Gender Minorities</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Study variables will be available; however, the investigators will protect the rights and privacy of human subjects by redacting all identifiers from the dataset.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>The investigators will assure the timely release and sharing of data two years after the publication of the main trial findings from the final dataset.</ipd_time_frame>
+    <ipd_access_criteria>The de-identified data from this project will be available through individual requests directed to the Principal Investigator.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

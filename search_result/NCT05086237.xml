@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5760">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05086237</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00074978-RCT</org_study_id>
+    <nct_id>NCT05086237</nct_id>
+  </id_info>
+  <brief_title>Well-Child Visit Trial</brief_title>
+  <official_title>Text Message Follow-up for Patients Who Have Missed Well-Child Visits: Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Wake Forest University Health Sciences</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Wake Forest University Health Sciences</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This project will use Twilio as a platform for a text messaging campaign to implement timely&#xD;
+      follow up with parents/guardians of children ages 0 to 17 years who have missed Well Child&#xD;
+      Visits (WCVs). The first phase of this project was an open trial. This second phase of the&#xD;
+      study will be a randomized controlled trial (RCT) to randomly assign parents/guardians of&#xD;
+      children who missed a WCV to one of two intervention conditions or no intervention, and&#xD;
+      assess reasons for missed visits and experiences at last visit. Parents/guardians will&#xD;
+      receive text messages notifying them of missed visits and prompting them to reschedule, as&#xD;
+      well as inviting them to complete an online survey. Each reminder message will at minimum&#xD;
+      direct parents/guardians to reschedule by phone or by the patient portal. Outcomes of the&#xD;
+      follow-up campaign will be evaluated, including rescheduled visits within 6 weeks of missed&#xD;
+      visit and attendance at rescheduled visit. This aim will incorporate patient Electronic&#xD;
+      Health Record (EHR) data into mixed effects logistic regressions for the primary study&#xD;
+      outcomes.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Well-Child visits (WCV) are an opportunity to maximize the health and future well-being and&#xD;
+      development of children. Missed visits, however, can result in negative outcomes for patients&#xD;
+      and families and for the healthcare system. For patients, missed primary care visits can&#xD;
+      result in greater Emergency Department (ED) visits and hospitalizations, and in delays in&#xD;
+      diagnosing a variety of medical conditions, including identification of child abuse and&#xD;
+      neglect. For healthcare systems, missed visits result in decreased efficiency, lower quality&#xD;
+      measures, decreased provider productivity, and loss in revenue. Although smart phones are&#xD;
+      nearly ubiquitous, even among more economically disadvantaged populations, literature to date&#xD;
+      has reported only on using text messages for pre-visit reminders. There is a tremendous&#xD;
+      opportunity to study use of text messaging to engage families in follow-up for missed WCV.&#xD;
+      Even more so, testing the use of text messages with different content is missing, as well as&#xD;
+      using text messages to invite patients to share reasons for missing the last WCV.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2021</start_date>
+  <completion_date type="Anticipated">March 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The second phase of the study will be an randomized controlled trial to randomly assign parents/guardians of children who missed a WCV to one of two intervention conditions (specifics to be determined later) or no intervention, and assess reasons for missed visits and experiences at last visit. Each reminder message will at minimum direct parents/guardians to reschedule by phone or by the patient portal.</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of rescheduled well child visits</measure>
+    <time_frame>6 weeks after missed well child visit</time_frame>
+    <description>If parent/guardian rescheduled well child visit</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of completed (rescheduled) well child visits</measure>
+    <time_frame>6 weeks after missed well child visit</time_frame>
+    <description>If parent/guardian completed (rescheduled) well child visit</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of child patient emergency department visits</measure>
+    <time_frame>6 weeks after missed well child visit</time_frame>
+    <description>If child patient had an emergency department visit</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of child patient hospitalizations</measure>
+    <time_frame>6 weeks after missed well child visit</time_frame>
+    <description>If child patient required hospitalization</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">1500</enrollment>
+  <condition>Child Health</condition>
+  <condition>Text Messaging</condition>
+  <arm_group>
+    <arm_group_label>Basic reminder</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be sent a basic text message reminder of their missed well-child visit. The exact wording of the text message will be finalized once the open trial is complete.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Detailed reminder</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be sent a text message reminder of their missed well-child visit that mentions the importance of well-child visits and/or includes the provider/clinic name. The exact wording of the text message will be finalized once the open trial is complete.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment as usual</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>This group will receive treatment as usual, which involves no text messaging follow-up.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Text message reminders</intervention_name>
+    <description>Text messages will be sent to parents/guardians of children ages 0 to 17 years who missed their well child visits.</description>
+    <arm_group_label>Basic reminder</arm_group_label>
+    <arm_group_label>Detailed reminder</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Patients included in text messaging campaign (caregivers receive text messages):&#xD;
+&#xD;
+          -  Are 0-17 years&#xD;
+&#xD;
+          -  No-showed for a well-child visit scheduled at one of five locations:&#xD;
+             Pediatrics-Downtown Health Plaza, Family Medicine-Piedmont Plaza, Pediatrics-Winston&#xD;
+             East, Family Medicine-Peace Haven, or Pediatrics-Clemmons&#xD;
+&#xD;
+          -  Have a phone number on record for a primary caregiver&#xD;
+&#xD;
+          -  With primary language for contact that is English or Spanish&#xD;
+&#xD;
+        Caregivers must be 18 years or older&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Patients who:&#xD;
+&#xD;
+          -  Are 18+ years old&#xD;
+&#xD;
+          -  No-showed for a different type of visit, or no-showed for a WCV at a different&#xD;
+             practice location&#xD;
+&#xD;
+          -  Already rescheduled their appointment by the time the sample list was generated&#xD;
+&#xD;
+          -  Have primary language specified that is not English or Spanish.&#xD;
+&#xD;
+        Caregivers who are under 18 years old&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Katherine Poehling, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Wake Forest University Health Sciences</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Beata Debinski, PhD</last_name>
+    <phone>336-713-1592</phone>
+    <email>bdebinsk@wakehealth.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Andy Mayfield, MMFT</last_name>
+    <phone>336-716-6815</phone>
+    <email>amayfiel@wakehealth.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Wake Forest University Health Sciences</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Beata Debinski, PhD</last_name>
+      <phone>336-713-1592</phone>
+      <email>bdebinsk@wakehealth.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Andrew Mayfield, MMFT</last_name>
+      <phone>336-716-6815</phone>
+      <email>amayfiel@wakehealth.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Katherine Poehling, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 20, 2021</study_first_posted>
+  <last_update_submitted>October 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>child health</keyword>
+  <keyword>well child visits</keyword>
+  <keyword>text messaging</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

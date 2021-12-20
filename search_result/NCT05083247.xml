@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5990">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05083247</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ERA 001</org_study_id>
+    <nct_id>NCT05083247</nct_id>
+  </id_info>
+  <brief_title>Preoperative mFOLFIRINOX (or Gem-Nab-P) +/- Isotoxic High-dose SBRT for Borderline Resectable Pancreatic Adenocarcinoma</brief_title>
+  <acronym>STEREOPAC</acronym>
+  <official_title>Preoperative mFOLFIRINOX (or Gem-Nab-P) +/- Isotoxic High-dose Stereotactic Body Radiation Therapy (iHD-SBRT) for Borderline (or at Risk) Resectable Pancreatic Adenocarcinoma: a Randomised Comparative Multicentre Phase II Study (STEREOPAC)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Erasme University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Belgian Group of Digestive Oncology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University Hospital St Luc, Brussels</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Universitair Ziekenhuis Brussel</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University Hospital, Ghent</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Pôle Hospitalier Jolimont</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Academisch Ziekenhuis Groningen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Chirec</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Erasme University Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background:Surgical resection is the only potentially curative treatment for patients with&#xD;
+      pancreatic cancer with the aim of curative R0 resection and related improvement of survival.&#xD;
+      As a standard, surgery is usually followed by adjuvant therapy that improves survival but&#xD;
+      neoadjuvant therapy (NAT) is a rapidly emerging concept that needs to be explored and&#xD;
+      validated in terms of therapeutic options, in both resectable and borderline resectable&#xD;
+      pancreatic tumors. In this setting, preoperative FFX seems to be feasible and can be&#xD;
+      prolonged by radiation therapy (chemoRT or SBRT) with promising benefits for patients in&#xD;
+      terms of R0 resection, local control and prolonged survival. However, the exact and best&#xD;
+      therapeutic sequence is not yet known and the additional role of adding radiation therapy to&#xD;
+      chemotherapy requires validation in randomised trials. We recently reported the feasibility&#xD;
+      and preliminary efficacy data of the whole therapeutic sequence combining preoperative FFX x&#xD;
+      8 cycles (G-Nab-P in case of intolerance or no response ) prolonged by 5 days SBRT (35 Gy +&#xD;
+      SIB up to 50Gy at the tumour-vessel interfaces )[1, manuscript submitted]. We propose now to&#xD;
+      evaluate the impact and efficacy of adding isotoxic high-dose SBRT to preoperative&#xD;
+      neoadjuvant mFFX or Gem-NabP in patients with borderline or high-risk resectable pancreatic&#xD;
+      adenocarcinoma. We hypothesize that this full sequence strategy of pre-operative treatment is&#xD;
+      safe and feasible and will improve both the R0 resection rate and prognosis (DFS as primary&#xD;
+      end point) of pancreatic adenocarcinoma, especially by targeting the tumoural vascular&#xD;
+      encasement.&#xD;
+&#xD;
+      Objectives/endpoints: Evaluation of the safety and efficacy of pre-operative 8 cycles of&#xD;
+      modified FOLFIRINOX (or Gem-Nab-P) followed or not by SBRT in patients with borderline or at&#xD;
+      risk resectable pancreatic adenocarcinoma.&#xD;
+&#xD;
+      Primary objective:&#xD;
+&#xD;
+      • To compare DFS between arms&#xD;
+&#xD;
+      Secondary objectives:&#xD;
+&#xD;
+      To compare between the study arms:&#xD;
+&#xD;
+        -  Resection rate&#xD;
+&#xD;
+        -  R0 resection rate (&gt; 1 mm)&#xD;
+&#xD;
+        -  Overall survival (OS)&#xD;
+&#xD;
+        -  Locoregional failure free interval (LFFI)&#xD;
+&#xD;
+        -  Distant metastases free interval (DMFI)&#xD;
+&#xD;
+        -  Complete feasibility of the therapeutic sequence&#xD;
+&#xD;
+        -  Pathologic complete response rate (pCR)&#xD;
+&#xD;
+        -  Toxicity (early and late)&#xD;
+&#xD;
+        -  Postoperative complications rate&#xD;
+&#xD;
+        -  Quality of life (QoL) assessment&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      STUDY DESIGN Academic, prospective, randomised comparative, interventional study&#xD;
+&#xD;
+      Arm A: mFOLFIRINOX* x 8 cycles followed by surgery (+3-4w) Arm B: mFOLFIRINOX* x 6 cycles&#xD;
+      followed by iHD-SBRT then mFFX x2 followed by surgery (+3-4w)&#xD;
+&#xD;
+      Patients receive 8 cycles of modified FOLFIRINOX (consists of oxaliplatin, irinotecan,&#xD;
+      leucovorin and 5-FU). A full restaging (clinical, morphologic imaging, vascular involvement,&#xD;
+      biologics, CA 19.9) is performed. Non-progressive patients will be randomised after full&#xD;
+      restaging for receiving 5th and 6th cycles of chemo +/- stereotactic radiation. Adjuvant&#xD;
+      chemotherapy administration is indicated unless the patient's condition precludes it.&#xD;
+&#xD;
+        -  *: in case of CI or intolerance to FFX , gemcitabine-nab-paclitaxel regimen can be&#xD;
+           chosen or shifted to for 12 doses (6 then restaging then 3 to 6 followed by SBRT or&#xD;
+           immediate surgery)&#xD;
+&#xD;
+        -  In case of early intolerance or progression, chemotherapy shift is authorised&#xD;
+&#xD;
+      Treatment agents:&#xD;
+&#xD;
+        1. mFOLFIRINOX (oxaliplatin: 85 mg/m2, CPT-11: 165-180 mg/m2, folinic acid: 400mg/m2 and&#xD;
+           5FU 2000-2400 mg/m2/46 h) regimen for 6-8 cycles every 2 weeks; *Gemcitabine-Nab-P: gem:&#xD;
+           1000 mg/m2 weekly 3 w/4; nab-P: 125 mg/m2 3 w/4 for 3-4 cycles if unfit for mFFX).&#xD;
+&#xD;
+        2. Isotoxic high-dose SBRT: 5 x 7Gy with Simultaneous Integrated Boost (SIB) up to maximum&#xD;
+           55Gy (= 1 week; starting ideally 2 weeks and maximum within 4 weeks after the end of&#xD;
+           chemotherapy) after placement of EUS guided fiducials (Cook ECHO-TIP F 22G™ or&#xD;
+           polymarks™ charged 19G needle).&#xD;
+&#xD;
+        3. Surgery: intra-abdominal exploration with or without pancreatectomy (with minimum&#xD;
+           multiple biopsies if complete surgery not feasible) performed 6 to 8 weeks after SBRT&#xD;
+           completion. The final decision to perform a pancreatectomy or not is left to the final&#xD;
+           judgment of the specialist surgeon at the time of surgery. Surgery will be performed in&#xD;
+           expert centers as defined by the INAMI-RIZIV convention.&#xD;
+&#xD;
+        4. Adjuvant chemotherapy is indicated for at least 4 months unless the patient's condition&#xD;
+           precludes it (regimen left to investigator's choice) and should be started within 3&#xD;
+           months after surgery.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>comparative randomised phase II</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Disease free survival</measure>
+    <time_frame>From date of randomization until the date of first documented progression or date of death from any cause, whichever came first, assessed up to 100 weeks</time_frame>
+    <description>Defined as time from randomisation to the first documentation of event where events considered are 1) disease progression, per RECIST, prior to surgery, 2) discovery of hepatic or peritoneal carcinomatosis during surgical exploration, 3) recurrent disease following R0-R1 surgery, or 4) death due to any cause.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>R0 Resection rate</measure>
+    <time_frame>Time point: up to 12 months</time_frame>
+    <description>Defined as the proportion of eligible randomised patients in whom an achieved R0 resection was achieved during surgery after neoadjuvant treatment with FOLFIRINOX +/- SBRT. R0 resection indicates a microscopically margin-negative resection (&gt;1 mm) from the inked margins (pancreatic transection, vascular and posterior circumferential resection margins).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Resection rate</measure>
+    <time_frame>Time point: up to 12 months</time_frame>
+    <description>defined as the percentage of eligible randomised patients that underwent a curative-intent resection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>overall survival</measure>
+    <time_frame>Defined as the time interval between randomisation and death;median</time_frame>
+    <description>Defined as the time interval between randomisation and death. 95% confidence interval will be estimated based on standard method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>pathological response rate pCR</measure>
+    <time_frame>Time point: up to 12 months</time_frame>
+    <description>Defined as the proportion of patients in whom a pCR or a major (&lt;10% of residual tumour cells) was confirmed by histopathologic review of the surgical specimen.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">174</enrollment>
+  <condition>Pancreatic Neoplasm</condition>
+  <arm_group>
+    <arm_group_label>preoperative chemotherapy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>mFOLFIRINOX (oxaliplatin: 85 mg/m2, CPT-11: 165-180 mg/m2, folinic acid: 400mg/m2 and 5FU 2000-2400 mg/m2/46 h) regimen for 8 cycles every 2 weeks; or*Gemcitabine-Nab-P: gem: 1000 mg/m2 weekly 3 w/4; nab-P: 125 mg/m2 3 w/4 for 4 cycles in case of unfit for mFFX).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>preoperative chemotherapy + iso-toxic high dose stereotaxic body radiation therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>mFOLFIRINOX for 6 cycles or gem-nabpaclitaxel for 3 cycles +Isotoxic high-dose SBRT: 5 x 7Gy with Simultaneous Integrated Boost (SIB) up to maximum 55Gy (= 1 week; starting ideally 2 weeks and maximum within 4 weeks after the end of chemotherapy) after placement of EUS guided fiducials</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>mFOLFIRINOX or gemcitabine-nabpaclitaxel</intervention_name>
+    <description>mFOLFIRINOX or gemcitabine-nabpaclitaxel +isotoxic high-dose SBRT: 5 x 7Gy with Simultaneous Integrated Boost (SIB) up to maximum 55Gy</description>
+    <arm_group_label>preoperative chemotherapy</arm_group_label>
+    <arm_group_label>preoperative chemotherapy + iso-toxic high dose stereotaxic body radiation therapy</arm_group_label>
+    <other_name>Radiation therapy iso toxic high dose SBRT</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Cytologic or histologic proof of adenocarcinoma of the pancreatic head or uncinated&#xD;
+             process or body. Diagnosis should be verified by local pathologist&#xD;
+&#xD;
+          -  cTNM stage: T1-4N0-2M0&#xD;
+&#xD;
+          -  Confirmation of clinical and radiographic stage as borderline or at risk resectable*&#xD;
+             determined centrally by review of a diagnostic multisliced triphasic CT scan and/or&#xD;
+             MRI scan with contrast by a multidisciplinary board, composed by a dedicated&#xD;
+             oncological surgeon, radiologist and GI oncologist&#xD;
+&#xD;
+          -  Age &gt; 18 years old&#xD;
+&#xD;
+          -  No prior chemotherapy or radiation for pancreatic cancer unless the neoadjuvant&#xD;
+             regimen as described&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1&#xD;
+&#xD;
+          -  No grade ≥ 2 neuropathy&#xD;
+&#xD;
+          -  Laboratory parameters as follows:&#xD;
+&#xD;
+          -  Absolute neutrophil count (ANC) ≥ 1,500/mm^3&#xD;
+&#xD;
+          -  Platelet count ≥ 100,000/mm^3&#xD;
+&#xD;
+          -  Hemoglobin ≥ 9 g/dL&#xD;
+&#xD;
+          -  Creatinine ≤ 1.5 x upper limit of normal (ULN) or estimated GFR &gt; 45 mL/min&#xD;
+&#xD;
+          -  Bilirubin ≤ 1.5 x ULN, including after adequate biliary stenting with metal stent&#xD;
+             (ideally 4 cm length)&#xD;
+&#xD;
+          -  Aspartate aminotransferase (AST) / alanine aminotransferase (ALT) ≤ 2.5x ULN&#xD;
+&#xD;
+          -  CA 19.9 &lt; 2500 kU/l (baseline and absence of cholestasis)&#xD;
+&#xD;
+               -  High-risk features for resectable disease as defined by NCCN (version 2.2021) and&#xD;
+                  ASCO criteria, including: any vascular encasement, elevated CA 19.9, poor&#xD;
+                  (nutritional) condition, large tumor (&gt; 4cm) and/or involved loco-regional LN at&#xD;
+                  CT, MRI or PET.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Evidence of extrapancreatic disease on diagnostic imaging (CT, MRI or PET scan),&#xD;
+             histologically proven or at laparoscopy, including distal nodal involvement beyond the&#xD;
+             peripancreatic tissues (including non-regional lymph node involvement, ie: proven&#xD;
+             involvement of precaval lumbar lymphadenopathy(ies) and/or distant metastases&#xD;
+&#xD;
+          -  Locally advanced disease as defined by the NCCN criteria (version 2.2021) ie &gt; 180°&#xD;
+             arterial encasement (SMA and CA) unreconstructible venous encasement (SMV/PV) due to&#xD;
+             tumor involvement or occlusion of a long segment.&#xD;
+&#xD;
+          -  CA 19.9 &gt; 2500 kU/l (baseline and absence of cholestasis)&#xD;
+&#xD;
+          -  Contraindication of surgery (general)&#xD;
+&#xD;
+          -  Contraindications to receive FFX or gemcitabine-nab-Paclitaxel&#xD;
+&#xD;
+          -  History of radiotherapy of the upper abdomen&#xD;
+&#xD;
+          -  Prior treatment with oxaliplatin, irinotecan, fluoruouracil or capecitabin&#xD;
+&#xD;
+          -  Patient &lt; 18 years old&#xD;
+&#xD;
+          -  Major surgery within 4 weeks of study entry&#xD;
+&#xD;
+          -  Uncontrolled pre-existing disease including, but not limited to: active infection,&#xD;
+             symptomatic congestive heart failure, unstable angina, social / psychiatric disorder&#xD;
+             that would limit compliance to treatment and good understanding of the informed&#xD;
+             consent form&#xD;
+&#xD;
+          -  Other concurrent anticancer therapies&#xD;
+&#xD;
+          -  Existence of another active neoplasia other than basal cell carcinoma of the skin,&#xD;
+             cervical carcinoma in situ or non-metastatic prostate cancer. Patients who have a&#xD;
+             history of neoplasia must have been in remission for more than 5 years to be included&#xD;
+             in the protocol&#xD;
+&#xD;
+          -  Pregnant or breastfeeding women; for women of childbearing potential only, a negative&#xD;
+             pregnancy test done &lt; 7 days prior to registration is required. Using of reliable&#xD;
+             contraception for at least 1 month before treatment is mandatory&#xD;
+&#xD;
+          -  Chronic concomitant treatment with strong inhibitors of cytochrome p450, family 3,&#xD;
+             subfamily a, polypeptide 4 gene (CYP3A4) is not allowed on this study; patients on&#xD;
+             strong CYP3A4 inhibitors must discontinue the drug for 14 days prior to registration&#xD;
+             on the study&#xD;
+&#xD;
+        Additional exclusion criteria before randomisation:&#xD;
+&#xD;
+          -  Progressive disease (RECIST or PETCT, including non locoregional nodal involvement and&#xD;
+             increase of CA 19.9 by 20%) after receiving 4 cycles of FFX (or G/NP), including shift&#xD;
+             chemotherapy in case of early progression.&#xD;
+&#xD;
+          -  Presence of unmanageable toxicity during the first part of neoadjuvant chemotherapy&#xD;
+             (first 4 cycles or 6 doses of FFX or G/NP, respectively.&#xD;
+&#xD;
+          -  Pancreatic tumour &gt; 6.0 cm in greatest axial dimension at the time of randomization&#xD;
+&#xD;
+          -  Massive invasion of the stomach or intestines and/or direct intestinal invasion of the&#xD;
+             mucosae visible at ultrasoundendoscopy&#xD;
+&#xD;
+          -  Active gastric or duodenal ulcer disease at the time of randomization. Tolerated in&#xD;
+             case of antecedent without active ulcer (confirmation by endoscopy before SBRT)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jean-Luc Van Laethem, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Erasme Hospital, ULB</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jean-Luc Van Laethem, MD PhD</last_name>
+    <phone>003225553714</phone>
+    <email>jl.vanlaethem@erasme.ulb.ac.be</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Mia Persoons</last_name>
+    <phone>003225553016</phone>
+    <email>mia.persoons@erasme.ulb.ac.be</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hopital Erasme</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1070</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jean-Luc Van Laethem, MD PhD</last_name>
+      <phone>003225553714</phone>
+      <email>jl.vanlaethem@erasme.ulb.ac.be</email>
+    </contact>
+    <contact_backup>
+      <last_name>Mia Persoons</last_name>
+      <phone>003225553016</phone>
+      <email>mia.persoons@erasme.ulb.ac.be</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 19, 2021</study_first_posted>
+  <last_update_submitted>October 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>resectable borderline resectable pancreatic cancer</keyword>
+  <keyword>neoadjuvant therapy</keyword>
+  <keyword>stereotaxic body radiation therapy</keyword>
+  <keyword>chemotherapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Adenocarcinoma</mesh_term>
+    <mesh_term>Pancreatic Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Gemcitabine</mesh_term>
+    <mesh_term>Albumin-Bound Paclitaxel</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

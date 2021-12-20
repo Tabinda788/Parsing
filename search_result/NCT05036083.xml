@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9616">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05036083</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-1267</org_study_id>
+    <secondary_id>NCI-2021-08979</secondary_id>
+    <secondary_id>2020-1267</secondary_id>
+    <nct_id>NCT05036083</nct_id>
+  </id_info>
+  <brief_title>Contrast-Enhanced Mammography for Breast Cancer Staging in Patients Referred for a Second Opinion</brief_title>
+  <official_title>Added Value of Contrast Enhanced Mammography for Breast Cancer Staging in Patients Referred for a Second Opinion to a Tertiary Cancer Center</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>M.D. Anderson Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>M.D. Anderson Cancer Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This clinical trial investigates contrast-enhanced mammography (CEM) in detecting breast&#xD;
+      cancer. CEM is similar to standard mammography, but it includes an injection of an&#xD;
+      iodine-based contrast, which makes tissue and blood vessels more visible in scans. Diagnostic&#xD;
+      procedures, such as CEM, may increase the chance of finding breast cancers and decrease the&#xD;
+      risk of having unnecessary biopsies.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVE:&#xD;
+&#xD;
+      I. To compare the accuracy of CEM and low energy (LE) images (equivalent of full field&#xD;
+      digital mammogram [FFDM] as the standard of care) for the detection of additional cancer&#xD;
+      sites in the affected breast and in the contralateral breast.&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. To evaluate the sensitivity, specificity, positive and negative predictive value of CEM&#xD;
+      compared to LE CEM images (FFDM equivalent), digital breast tomosynthesis (DBT) and&#xD;
+      ultrasound for the detection of additional malignant lesions in the ipsilateral and&#xD;
+      contralateral breast.&#xD;
+&#xD;
+      II. To evaluate the difference of the index cancer size estimation among CEM, LE images, DBT,&#xD;
+      and ultrasound compared to pathology measurements as the ground truth.&#xD;
+&#xD;
+      III. To evaluate the incremental cancer detection rate provided by CEM, DBT, and ultrasound&#xD;
+      (US) compared to the outside facility (OSF) diagnosis.&#xD;
+&#xD;
+      EXPLORATORY OBJECTIVES:&#xD;
+&#xD;
+      I. To evaluate the rate of referral to breast magnetic resonance imaging (MRI) in the study&#xD;
+      cohort.&#xD;
+&#xD;
+      II. To evaluate the performance of MRI for breast cancer diagnosis and compare it with other&#xD;
+      imaging modalities of CEM, LE images, DBT, and US.&#xD;
+&#xD;
+      III. To evaluate the feasibility of CEM-guided biopsy of CEM-only detected lesions.&#xD;
+&#xD;
+      OUTLINE:&#xD;
+&#xD;
+      Patient receive iodinated contrast agent intravenously (IV) and undergo CEM. Patients who&#xD;
+      have not undergone DBT as part of their screening or diagnostic imaging within 3 month,&#xD;
+      undergo DBT. Patients medical records are reviewed.&#xD;
+&#xD;
+      After completion of study treatment, patients are followed up for 12 months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 19, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Accuracy of contrast enhanced mammography (CEM) for incremental cancer detection in the ipsilateral and contralateral breasts</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <description>Defined as the number of concordant cases between CEM/low energy (LE) and pathologic evaluation divided by the total sample size. Will be estimated along with 95% confidence intervals; and compared between the modalities using the McNemar test or the weighted generalized score statistic proposed by Kosinski, if deemed appropriate. To account for multiple lesions, outcome variables will be analyzed using generalized liner mix models or extended McNemar's test, and additional analyses may be further performed if deemed appropriate.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">83</enrollment>
+  <condition>Breast Carcinoma</condition>
+  <condition>Invasive Breast Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Diagnostic (CEM, DBT, medical record)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patient receive iodinated contrast agent IV and undergo CEM. Patients who have not undergone DBT as part of their screening or diagnostic imaging within 3 month, undergo DBT. Patients medical records are reviewed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Contrast-Enhanced Mammography</intervention_name>
+    <description>Undergo CEM</description>
+    <arm_group_label>Diagnostic (CEM, DBT, medical record)</arm_group_label>
+    <other_name>CEM</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Digital Tomosynthesis Mammography</intervention_name>
+    <description>Undergo DBT</description>
+    <arm_group_label>Diagnostic (CEM, DBT, medical record)</arm_group_label>
+    <other_name>DBT</other_name>
+    <other_name>Digital Breast Tomosynthesis</other_name>
+    <other_name>Digital Tomosynthesis of the Breast</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Electronic Health Record Review</intervention_name>
+    <description>Medical records reviewed</description>
+    <arm_group_label>Diagnostic (CEM, DBT, medical record)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Iodinated Contrast Agent</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Diagnostic (CEM, DBT, medical record)</arm_group_label>
+    <other_name>Iodinated Contrast Dye</other_name>
+    <other_name>Iodine-containing Contrast Media</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Female patients 18 years of age or older with known invasive or in-situ breast cancer&#xD;
+             (BC) diagnosed at an outside facility and presenting to MD Anderson for staging with&#xD;
+             imaging&#xD;
+&#xD;
+          -  Female patients 18 years of age or older referred from outside institutions with&#xD;
+             imaging findings categorized as highly suspicious (Breast Imaging Reporting and Data&#xD;
+             System [BI-RADS] 5 or 4C) on outside imaging or on rereview by MD Anderson's&#xD;
+             radiologists and referred for staging at MD Anderson Cancer Center (MDACC)&#xD;
+&#xD;
+          -  Willingness to participate in the study and ability to provide informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Breast surgery within 6 months&#xD;
+&#xD;
+          -  Known allergy to iodine-containing contrast agents&#xD;
+&#xD;
+          -  History of anaphylactic reaction to any substance that required hospitalization or IV&#xD;
+             placement&#xD;
+&#xD;
+          -  Renal insufficiency; hyperthyroidism&#xD;
+&#xD;
+          -  Detection of non-breast primary or metastatic cancer in the breast&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Olena Weaver</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>M.D. Anderson Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>M D Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Olena Weaver</last_name>
+      <phone>713-471-3613</phone>
+      <email>ooweaver@mdanderson.org</email>
+    </contact>
+    <investigator>
+      <last_name>Olena Weaver</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mdanderson.org</url>
+    <description>M D Anderson Cancer Center</description>
+  </link>
+  <verification_date>August 2021</verification_date>
+  <study_first_submitted>August 30, 2021</study_first_submitted>
+  <study_first_submitted_qc>August 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 5, 2021</study_first_posted>
+  <last_update_submitted>August 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>August 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1429">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05142553</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HIPRA-HH-2</org_study_id>
+    <nct_id>NCT05142553</nct_id>
+  </id_info>
+  <brief_title>Immunogenicity and Safety of a Booster Vaccination With a Recombinant Protein RBD Candidate Vaccine Against the Virus That Cause COVID-19, Know as Severe Acute Respiratoy Syndrome Coronavirus 2 (SARS-CoV-2) in Healthy Adults Volunteers Fully Vaccinated</brief_title>
+  <official_title>A Phase IIb, Double-blind, Randomised, Active-controlled, Multi-centre, Non-inferiority Trial Followed by a Phase III, Single-arm, Open-label Trial, to Assess Immunogenicity and Safety of a Booster Vaccination With a Recombinant Protein RBD Fusion Dimer Candidate (PHH-1V) Against the Virus That Cause COVID-19, Know as Severe Acute Respiratoy Syndrome Coronavirus 2 (SARS-CoV-2)SARS-CoV-2, in Adults Fully Vaccinated Against COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hipra Scientific, S.L.U</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Laboratorios Hipra, S.A.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hipra Scientific, S.L.U</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This Phase IIb clinical study aims to compare the immunogenicity and safety of a booster dose&#xD;
+      of recombinant protein RBD fusion dimer vaccine as a heterologous booster (to subjects who&#xD;
+      have received the second dose of the Pfizer-BioNTech (Comirnaty) COVID-19 vaccine at least&#xD;
+      182 days prior to the booster dose in this study) versus a homologous booster (subjects who&#xD;
+      received the second dose of the Comirnaty COVID-19 vaccine at least 182 days prior to the&#xD;
+      booster dose in this study) will receive a third dose of the Comirnaty vaccine).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study population includes 1075 healthy adults aged above 18 years old who have received&#xD;
+      two doses of the Comirnaty vaccine, and are at least 182 days and less than 365 days after&#xD;
+      their second dose will be randomly assigned to two treatment arms. In each arm, volunteers&#xD;
+      will be randomized in a ratio Test vaccine:Comirnaty of 2:1. Each participant will receive&#xD;
+      one booster immunisation and will be followed for 1 year to evaluate immunogenicity response&#xD;
+      and assess the safety of the test vaccine in comparison to Cominarty.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 16, 2021</start_date>
+  <completion_date type="Anticipated">November 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 7, 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>This is a Phase IIb, randomised, double-blind, active-controlled, multicentre, noninferiority clinical study followed by a Phase III, open-label study that aims to determine immunogenicity, reactogenicity, safety, and tolerability of a booster vaccination of test vaccine.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>Subjects and the clinical study team will remain blinded to treatment allocation. Clinical staff involved in study drug preparation and administration will be aware of which vaccine the subject is receiving.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes of the immunogenicity against Wuham</measure>
+    <time_frame>14 days</time_frame>
+    <description>Neutralisation titre measured as inhibitory concentration 50 (IC50) for each individual sample and geometric mean titre (GMT) for treatment group comparison at Baseline and Day 14.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and tolerability of PHH-1V</measure>
+    <time_frame>7 days</time_frame>
+    <description>Number, percentage, and characteristics of solicited local reactions through Day 7 after vaccination.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and tolerability of PHH-1V</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number, percentage, and characteristics of unsolicited local and systemic adverse events (AEs) through Day 28 after vaccination.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and tolerability of PHH-1V</measure>
+    <time_frame>364 days</time_frame>
+    <description>Number and percentage of serious adverse events (SAEs) through Day 364.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and tolerability of PHH-1V</measure>
+    <time_frame>364 days</time_frame>
+    <description>Number and percentage of adverse event of special interest (AESI) through Day 364.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and tolerability of PHH-1V</measure>
+    <time_frame>364 days</time_frame>
+    <description>Number and percentage of medically attended adverse events (MAAE) related to study vaccine through Day 364.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and tolerability of PHH-1V</measure>
+    <time_frame>Days 14, 28, 182, and 364</time_frame>
+    <description>Change from baseline in safety laboratory parameters at Days 14, 28, 182, and 364 after vaccination.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes of the immunogenicity against the Variants of Concern (VOC)</measure>
+    <time_frame>Day 14, 28, 182 and 364</time_frame>
+    <description>- Neutralisation titre against VOC measured as IC50 for each individual sample and GMT for treatment group comparison at Baseline and Days 14, 28, 182, and 364.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes of the immunogenicity against the Variants of Concern (VOC)</measure>
+    <time_frame>Day 14, 28, 182 and 364</time_frame>
+    <description>Geometric mean fold rise (GMFR) in neutralising antibodies titres for treatment group comparison at Baseline and Days 14, 28, 182, and 364.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes of the immunogenicity against the Variants of Concern (VOC)</measure>
+    <time_frame>Day 14, 28, 182 and 364</time_frame>
+    <description>Neutralisation titre against VOC measured as IC50 by PBNA and reported as reciprocal concentration for each individual sample and GMT for treatment group comparison at Baseline and Days 14, 28, 182, and 364.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in immunogenicity at Baseline and Days 14, 28, 182 &amp;364.</measure>
+    <time_frame>Days 14, 28, 182 and 364</time_frame>
+    <description>Neutralisation titre measured as inhibitory dilution 50 (ID50) for each individual sample, and GMT for treatment group comparison at Baseline and Days 14, 28, 182, and 364. This analysis will be performed in a subset of subjects.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity to the SARS-CoV-2 spike glycoprotein at Baseline and Days 14, 28, 182&amp;364</measure>
+    <time_frame>Days 14, 28, 182, and 364</time_frame>
+    <description>Percentage of subjects that, after a booster dose, have a ≥4-fold change in binding antibodies titre from Baseline and Days 14, 28, 182, and 364.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>T-cell mediated responses against the SARS-CoV-2 S glycoprotein at Baseline &amp; D14.</measure>
+    <time_frame>Day 14</time_frame>
+    <description>T-cell-mediated response to the SARS-CoV-2 S protein at Baseline and at Day 14. This analysis will be performed in a subset of subjects.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Th-1/Th-2 T-cell mediated responses against the SARS-CoV-2 S glycoprotein at Baseline &amp; D14. Th-1/Th2</measure>
+    <time_frame>Day 14</time_frame>
+    <description>CD4+/CD8+ T-cell response to the SARS-CoV-2 S protein at Baseline and at Day 14. This analysis will be performed in a subset of subjects.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Number of subjects with SARS-CoV-2 infections in subjects without evidence of infection before study's participation.</measure>
+    <time_frame>364 Days</time_frame>
+    <description>Number and percentage of subjects with SARS-CoV-2 infections according to COVID-19 infection criteria throughout the study duration.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of COVID-19 severe infections after receiving PHH-1V.</measure>
+    <time_frame>through Day 364.</time_frame>
+    <description>Number and percentage of COVID 19 severe infections through Day 364.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of COVID-19 severe infections after receiving PHH-1V.</measure>
+    <time_frame>through Day 364.</time_frame>
+    <description>Number and percentage of hospital admissions associated with COVID 19 through Day 364.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of COVID-19 severe infections after receiving PHH-1V.</measure>
+    <time_frame>through Day 364.</time_frame>
+    <description>Number and percentage of intensive care unit (ICU) admissions associated with COVID-19 through Day 364.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of COVID-19 severe infections after receiving PHH-1V.</measure>
+    <time_frame>through Day 364.</time_frame>
+    <description>Number and percentage of deaths associated with COVID-19 through Day 364.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1075</enrollment>
+  <condition>COVID-19</condition>
+  <condition>SARS-CoV-2 Acute Respiratory Disease</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 Vaccine HIPRA</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>40 ug/ml</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cominarty (Pfizer-BioNtech)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>30 micrograms/dose concentrate for dispersion for injection</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>COVID-19 Vaccine HIPRA</intervention_name>
+    <description>Subjects will receive one injection of COVID-19 Vaccine HIPRA</description>
+    <arm_group_label>COVID-19 Vaccine HIPRA</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Cominarty (Pfizer-BioNtech)</intervention_name>
+    <description>Subjects will receive one injection of Cominarty Vaccine</description>
+    <arm_group_label>Cominarty (Pfizer-BioNtech)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female, by birth, ≥ 18 years old at Screening.&#xD;
+&#xD;
+          -  Willing and able to comply with scheduled visits, laboratory tests, complete diaries,&#xD;
+             and other study procedures.&#xD;
+&#xD;
+          -  Body Mass Index (BMI) between 18 to 40 kg/m2.&#xD;
+&#xD;
+          -  Has received a complete COVID-19 vaccination programme (two administrations, prime and&#xD;
+             boosting) at least 182 days and with a maximum of 365 days before Screening with&#xD;
+             Comirnaty vaccine.&#xD;
+&#xD;
+          -  Has a negative COVID-19 polymerase chain reaction (PCR) test at Screening.&#xD;
+&#xD;
+          -  Willing to avoid all other vaccines within 4 weeks before and after vaccination in&#xD;
+             this study (Day 0). Seasonal influenza vaccination is allowed if it is received at&#xD;
+             least 14 days before or after vaccination.&#xD;
+&#xD;
+          -  Willing to refrain from blood donation during the study.&#xD;
+&#xD;
+          -  Women of childbearing potential must have a negative urine pregnancy test at Screening&#xD;
+             and prior to vaccination.&#xD;
+&#xD;
+          -  Women of childbearing potential must be willing to use highly effective contraceptive&#xD;
+             methods or have practiced sexual abstinence from the screening visit until 8 weeks&#xD;
+             after the vaccination.&#xD;
+&#xD;
+          -  Males who are not sterilised, must be willing to avoid impregnating female partners&#xD;
+             from Screening until 8 weeks after vaccination.&#xD;
+&#xD;
+          -  Willing and able to provide written informed consent prior the initiation of any study&#xD;
+             procedures.&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Pregnant or lactating or intending to become pregnant or plans to breastfeed during&#xD;
+             the study.&#xD;
+&#xD;
+          -  Positive pregnancy test at Screening or vaccination day.&#xD;
+&#xD;
+          -  Any medical disease (acute, subacute, intermittent, or chronic) or condition that in&#xD;
+             the opinion of the Investigator compromises the subject's safety, preclude vaccination&#xD;
+             or compromises interpretation of the results.&#xD;
+&#xD;
+          -  Ongoing serious psychiatric condition likely to affect participation in the study&#xD;
+             (e.g., ongoing severe depression, recent suicidal ideation, bipolar disorder,&#xD;
+             personality disorder, alcohol and drug dependency, severe eating disorder, psychosis,&#xD;
+             use of mood stabilisers or antipsychotic medication).&#xD;
+&#xD;
+          -  History of respiratory disease (e.g., chronic obstructive pulmonary disease [COPD])&#xD;
+             requiring daily medications currently or any treatment of respiratory disease&#xD;
+             exacerbations (e.g., asthma exacerbation) in the last 6 months.&#xD;
+&#xD;
+          -  History of significant cardiovascular disease (e.g., congestive heart failure,&#xD;
+             cardiomyopathy, ischemic heart disease) or history of myocarditis or pericarditis as&#xD;
+             an adult. Controlled hypertension will be permitted at the discretion of the&#xD;
+             Investigator.&#xD;
+&#xD;
+          -  History of neurological or neurodevelopmental conditions (e.g., epilepsy, stroke,&#xD;
+             seizures in the last 3 years, encephalopathy, focal neurologic deficits,&#xD;
+             Guillain-Barré syndrome, encephalomyelitis, or transverse myelitis).&#xD;
+&#xD;
+          -  Ongoing malignancy or recent diagnosis of malignancy in the last five years excluding&#xD;
+             basal cell and squamous cell carcinoma of the skin, which are allowed.&#xD;
+&#xD;
+          -  Any confirmed or suspected autoimmune, immunosuppressive or immunodeficiency&#xD;
+             disease/condition (iatrogenic or congenital), including human immunodeficiency virus&#xD;
+             (HIV) infection, asplenia, or recurrent severe infections.&#xD;
+&#xD;
+          -  Acute illness within 72 hours before vaccination day that, in the opinion of the&#xD;
+             Investigator may interfere the evaluation of safety parameters.&#xD;
+&#xD;
+          -  Received investigational drug within 90 days before Screening or plans to participate&#xD;
+             in another interventional clinical study (drug/biologic/device) within 12 months after&#xD;
+             vaccination.&#xD;
+&#xD;
+          -  History of hypersensitivity or severe allergic reactions, including anaphylaxis,&#xD;
+             generalised urticarial, angioedema and other significant reactions related to food,&#xD;
+             drugs, vaccines, or pharmaceutical agents, which are likely to be exacerbated by any&#xD;
+             component of the COVID-19 vaccine HIPRA (including the oil in water adjuvant&#xD;
+             equivalent to MF59C.1).&#xD;
+&#xD;
+          -  Use of any immunosuppressant, glucocorticoids, or other immune-modifying drugs within&#xD;
+             2 months before vaccination day; or anticipation of the need for immunosuppressive&#xD;
+             treatment within 182 days after vaccination.&#xD;
+&#xD;
+          -  Received immunoglobulin, blood-derived products, or other immunosuppressant drugs&#xD;
+             within 90 days before vaccination (Day 0).&#xD;
+&#xD;
+          -  Known disturbance of coagulation (iatrogenic or congenital) or blood dyscrasias.&#xD;
+&#xD;
+          -  Known bleeding disorder (e.g., factor deficiency, coagulopathy, or platelet disorder),&#xD;
+             (iatrogenic or congenital), blood dyscrasias, or prior history of significant bleeding&#xD;
+             or bruising following intramuscular (IM) injections or venepuncture.&#xD;
+&#xD;
+          -  Chronic liver disease.&#xD;
+&#xD;
+          -  Positive test for HIV types 1 or 2 infection, hepatitis B surface antigen (HBsAg), or&#xD;
+             hepatitis C virus antibodies (HCV Abs) at Screening.&#xD;
+&#xD;
+          -  Suspected or known current alcohol abuse or any other substances abuse (except&#xD;
+             tobacco).&#xD;
+&#xD;
+        History of COVID-19 infection.&#xD;
+&#xD;
+          -  Ever been included in a trial with an experimental vaccine against COVID-19.&#xD;
+&#xD;
+          -  Close contact with anyone known to have SARS-CoV-2 infection within 15 days before&#xD;
+             Screening.&#xD;
+&#xD;
+          -  Scheduled elective surgery during the study.&#xD;
+&#xD;
+          -  Life expectancy of less than 12 months.&#xD;
+&#xD;
+          -  Any condition and/or laboratory finding that, in the Investigators opinion, would&#xD;
+             interfere with the study or put the subject at risk.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Hospital Germans Trias I Pujol</name>
+      <address>
+        <city>Badalona</city>
+        <state>Barcelona</state>
+        <zip>08916</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>José Moltó, Dr.</last_name>
+      <phone>(+34) 934657602</phone>
+      <email>jmolto@fisida.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Principe de Asturias</name>
+      <address>
+        <city>Meco</city>
+        <state>Madrid</state>
+        <zip>28805</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Melchor Alvarez de Mons, Dr.</last_name>
+      <phone>(+34) 918 87 81 00</phone>
+      <email>mademons@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Cruces</name>
+      <address>
+        <city>Barakaldo</city>
+        <state>Vizcaya</state>
+        <zip>48903</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eunate Arana, Dra.</last_name>
+      <phone>(+34) 615709570</phone>
+      <email>eunate.aranaarri@osakdetza.eus</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Vall Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Susana Otero, Dra.</last_name>
+      <phone>(+34) 669545766</phone>
+      <email>sotero@vhebron.net</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinic de Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>17170</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alex Soriano, Dr</last_name>
+      <phone>(+34) 932275708</phone>
+      <email>asoriano@clinic.cat</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Dr. Josep Trueta</name>
+      <address>
+        <city>Girona</city>
+        <zip>17007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rafel Ramos, DR</last_name>
+      <phone>+34 972 94 02 00</phone>
+      <email>rramos.girona.ics@gencat.cat</email>
+    </contact>
+    <investigator>
+      <last_name>Rafel Ramos, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Gregorio Marañón</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patricia Muñoz, Dra.</last_name>
+      <phone>(+34) 609227884</phone>
+      <email>patricia.muñoz.garica@salud.madrid.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario La Paz</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>José Ramón Arribas, Dr.</last_name>
+      <phone>(+34) 918041950</phone>
+      <email>jose.arribas@saltud.madrid.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Regional Universitario de Málaga</name>
+      <address>
+        <city>Málaga</city>
+        <zip>29010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maria del Mar Vázquez, Dra.</last_name>
+      <phone>(+34) 647771939</phone>
+      <email>mmar.vazquez.sspa@juntadeandalucia.es</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínico de Valencia</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jorge Navarro, Dr.</last_name>
+      <phone>(+34) 619207085</phone>
+      <email>navarro_jorge@gva.es</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>November 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 2, 2021</study_first_posted>
+  <last_update_submitted>December 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Respiration Disorders</mesh_term>
+    <mesh_term>Respiratory Tract Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

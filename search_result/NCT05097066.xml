@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4927">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05097066</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NNAP002</org_study_id>
+    <nct_id>NCT05097066</nct_id>
+  </id_info>
+  <brief_title>Patterns and Outcomes of Neurosurgery in England Over a Five-year Period</brief_title>
+  <official_title>Patterns and Outcomes of Neurosurgery in England Over a Five-year Period: a National Retrospective Cohort Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Leeds</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The Royal College of Surgeons of England</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Leeds</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Neurosurgical practice has seen many important changes over several decades with advances in&#xD;
+      treatments and the types of patients treated. Neurosurgical procedures have evolved, and as&#xD;
+      outcomes have improved the number of patients being treated has increased.&#xD;
+&#xD;
+      There are no recent evaluations of national neurosurgical practice in the United Kingdom&#xD;
+      (UK), with the last prospective cohort studies being Safe Neurosurgery 1993 and Safe&#xD;
+      Neurosurgery 2000. More recent studies of neurosurgical services have been based on data from&#xD;
+      single institutions or surgeons and these may not give a representative picture of practice&#xD;
+      nationally.&#xD;
+&#xD;
+      Recent national quality improvement programmes for neurosurgery in England (such as the&#xD;
+      National Neurosurgical Audit Programme (NNAP) and Cranial Neurosurgery and Spinal Surgery&#xD;
+      Getting It Right First Time (GIRFT) Programmes) have focused on using national hospital&#xD;
+      administrative datasets. To be effective, quality improvement initiatives require robust&#xD;
+      outcome measures and quality (process) indicators. Currently, there is a lack of validated&#xD;
+      quality indicators for neurosurgery, with practice often being described using generic&#xD;
+      measures such as readmission and reoperation rates and length of stay. Many studies have been&#xD;
+      able to derive these common outcome measures, but it may also be possible to produce&#xD;
+      indicators specific to neurosurgery.&#xD;
+&#xD;
+      The aim of this observational study was firstly to describe the current pattern of&#xD;
+      neurosurgical admissions and procedures in England, and thereby given an overview of the&#xD;
+      epidemiology of neurosurgical patients. Secondly, it aims to investigate the range of outcome&#xD;
+      measures that might be produced from hospital administrative data and use these to assess the&#xD;
+      quality of care in neurosurgery.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 1, 2013</start_date>
+  <completion_date type="Actual">March 31, 2018</completion_date>
+  <primary_completion_date type="Actual">March 31, 2018</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Length of stay</measure>
+    <time_frame>From date of admission to date of discharge from hospital; assessed up to 60 months.</time_frame>
+    <description>Length of the hospital admission to neurosurgery</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Additional inpatient neurosurgical procedure rate</measure>
+    <time_frame>From date of admission to date of discharge from hospital; assessed up to 60 months.</time_frame>
+    <description>A further neurosurgical procedure in admissions where patients have had a primary (main) neurosurgical procedure.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of patients discharged home</measure>
+    <time_frame>Determined on date of discharge from hospital; assessed up to 60 months.</time_frame>
+    <description>Proportion of patients discharged to their normal address.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>In-patient mortality rate</measure>
+    <time_frame>From date of the neurosurgical procedure through date of death from any cause (in-patient deaths only); assessed up to 60 months.</time_frame>
+    <description>In-patient mortality after a neurosurgical procedure.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">371418</enrollment>
+  <condition>Surgery</condition>
+  <condition>Surgery--Complications</condition>
+  <condition>Neurological Morbidity</condition>
+  <condition>Neurological Diseases or Conditions</condition>
+  <condition>Neurological Disorder</condition>
+  <condition>Neurological Complication</condition>
+  <condition>Neurological Procedural Complication</condition>
+  <condition>Outcome, Fatal</condition>
+  <condition>Comorbidities and Coexisting Conditions</condition>
+  <condition>Morality</condition>
+  <arm_group>
+    <arm_group_label>Elective neurosurgery</arm_group_label>
+    <description>Any elective neurosurgical procedure.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non-elective neurosurgery</arm_group_label>
+    <description>Any non-elective neurosurgical procedure.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Neurosurgical procedure</intervention_name>
+    <description>Any neurosurgical procedure in the National Neurosurgical Audit Programme (NNAP) Coding Framework of neurosurgical procedures.</description>
+    <arm_group_label>Elective neurosurgery</arm_group_label>
+    <arm_group_label>Non-elective neurosurgery</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All admissions to neurosurgical units in the National Health Service (NHS) in England. This&#xD;
+        covers any patients in England who required neurosurgical care, except those admitted to&#xD;
+        Private Providers of neurosurgical care.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All admissions to neurosurgical units in the National Health Service (NHS) in England.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Records with poor quality data (e.g. no data for clinical diagnoses).&#xD;
+&#xD;
+          -  Patients under 18 years that were admitted to an adult neurosurgical unit.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ryan Mathew</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Leeds</affiliation>
+  </overall_official>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 27, 2021</study_first_posted>
+  <last_update_submitted>October 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Leeds</investigator_affiliation>
+    <investigator_full_name>Ryan Mathew</investigator_full_name>
+    <investigator_title>Associate Professor and Consultant Neurosurgeon</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nervous System Diseases</mesh_term>
+    <mesh_term>Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

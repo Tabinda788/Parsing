@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3070">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05121207</url>
+  </required_header>
+  <id_info>
+    <org_study_id>JH464519</org_study_id>
+    <nct_id>NCT05121207</nct_id>
+  </id_info>
+  <brief_title>SkIN hydrAtion Evaluation With TeRAhertz Scanning</brief_title>
+  <acronym>SINATRA</acronym>
+  <official_title>SkIN hydrAtion Evaluation With TeRAhertz Scanning</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospitals Coventry and Warwickshire NHS Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Warwick</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospitals Coventry and Warwickshire NHS Trust</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Medical imaging commonly involves the use of radiation, such as x-rays, that can give&#xD;
+      detailed images of internal structures of the body but can carry a small risk of tissue&#xD;
+      damage due to the radiation involved. As such, the number of x-rays and computed tomography&#xD;
+      (CT) scans that an individual can have has to be minimised. Methods have recently been&#xD;
+      developed that make use of electromagnetic radiation for imaging purposes at terahertz (THz)&#xD;
+      frequencies, the region of the spectrum between millimetre wavelengths and infrared.&#xD;
+      Terahertz spectroscopic imaging uses low power levels such that adverse effects on tissues&#xD;
+      are insignificant and is safe for in vivo imaging of humans [1]. The terahertz region is&#xD;
+      between the radio frequency region and the optical region generally associated with lasers.&#xD;
+      Both the IEEE RF safety standard and the ANSI Laser safety standard have limits into the&#xD;
+      terahertz region. The focus of this project is to investigate THz spectroscopic imaging as a&#xD;
+      new and powerful tool for analysing skin properties, termed &quot;THz skinometry&quot;. The novelty in&#xD;
+      this project lies in tailoring the instrumentation and algorithms of THz scanning to&#xD;
+      accurately measure properties of human skin (e.g. hydration levels and skin thickness) in&#xD;
+      vivo. The customised non-contact and pressure-controlled contact THz probes developed will be&#xD;
+      able to do spectroscopic measurements of skin in vivo at the molecular level. This will be&#xD;
+      the first demonstration of in vivo THz imaging of skin globally and will facilitate&#xD;
+      quantitative characterisation of skin in a way that has hitherto not been possible and could&#xD;
+      lead to a step change in THz technology usage (similar to that currently used in airport&#xD;
+      security scanners).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The SINATRA study is pilot study with a primary aim to explore the feasibility of the trial&#xD;
+      methodology. In addition, secondary objectives of the study will investigate if THz light is&#xD;
+      able to detect subtle differences in skin hydration and their clinical relevance. Due to the&#xD;
+      unprecedented sensitivity of THz light to skin hydration, the investigators will also&#xD;
+      investigate if different skin types have a preferential uptake of certain emollients. This&#xD;
+      would include dry skin conditions such as eczema, psoriasis and post-operative scars. This&#xD;
+      will give us information on how to optimise the types of emollients used in future&#xD;
+      development of new moisturisers and sunscreens. This is already under investigation in a&#xD;
+      cohort of volunteers with unaffected skin (unpublished pilot study data, University of&#xD;
+      Warwick). Additionally, as part of the SINATRA study, the investigators will investigate if&#xD;
+      THz imaging is able to detect subclinical (invisible) skin cancer (residual basal cell&#xD;
+      carcinoma (BCC)) and enhance the diagnosis of suspected skin cancer (malignant melanoma) in&#xD;
+      vivo. Skin cancer is known to produce a localised inflammatory reaction and microscopic&#xD;
+      swelling and so the changes in skin hydration may be able to be objectively measured by THz&#xD;
+      skinometry.&#xD;
+&#xD;
+      Terahertz (1012 Hz) pulsed imaging is a new technique with high resolution and has only&#xD;
+      emerged recently as a potential new clinical tool for medical imaging. It is a safe imaging&#xD;
+      modality as the light is non-ionising - it has a million times lower energy than an x-ray and&#xD;
+      thus doesn't have enough energy to cause ionisation. The power levels used in the THz systems&#xD;
+      in this study are also very low such that there are no lasting effects. In particular, our in&#xD;
+      vivo THz imaging systems have a peak power less than 40mW and average power intensity less&#xD;
+      than 4 µW/cm2. Studies by Hough et al [2] have shown that even using peak power 50,000 times&#xD;
+      higher and an average intensity 30 times higher does not cause any change in gene expression.&#xD;
+      Therefore, power levels used in our THz in vivo imaging systems are safe and have no known&#xD;
+      side effects or risks&#xD;
+&#xD;
+      The SINATRA study will collect preliminary pilot data from participants in a two-arm&#xD;
+      feasibility observational study.&#xD;
+&#xD;
+        1. One arm will consist of 100 patients with known or suspected skin cancer (skin cancer&#xD;
+           defined as: incompletely excised BCC with histologically proven radial margin&#xD;
+           involvement; biopsy proven BCC, or pigmented lesions suspicious of malignant melanoma).&#xD;
+           Images will be taken in the clinic prior to planned skin surgery and later compared to&#xD;
+           the formal histology results after the primary (melanoma) or residual (BCC) tumour has&#xD;
+           been removed.&#xD;
+&#xD;
+        2. The second arm will consist of 50 patients with benign dry skin conditions (eczema,&#xD;
+           psoriasis, skin grafts, scars etc.) and will compare the water content of their skin&#xD;
+           before and after application of a propriety emollients in common usage (e.g. E45®,&#xD;
+           Aveeno®, Doublebase®). This will add to the existing dataset that has been recorded from&#xD;
+           healthy non-patient volunteers (unpublished data, University of Warwick). This may help&#xD;
+           to guide patient-specific emollient selection in the future.&#xD;
+&#xD;
+      This will add to the knowledge base to define the appearance of skin cancers under THz&#xD;
+      skinometry. The spectroscopic findings will not influence the established management that&#xD;
+      will have been planned in conjunction with a Consultant Dermatologist or Plastic Surgeon and&#xD;
+      the patient.&#xD;
+&#xD;
+      Study arm 1: The study arm of 50 patients with benign dry skin conditions will undergo a scan&#xD;
+      with the THz skinometer and will compare the water content of skin before and after&#xD;
+      application of propriety emollients in common usage (e.g. E45®, Aveeno®, Doublebase®).&#xD;
+      Participants will have a THz scan of the dry skin area and a control area. Then they will&#xD;
+      apply their emollient and wait 10 minutes having another 2 scans of the control area and dry&#xD;
+      skin area. Finally there will be another 10 minute wait before having a final scan of the&#xD;
+      control area and dry skin area. There are 6 scans in total for this group.&#xD;
+&#xD;
+      Study arm 2: The arm with 100 patients with known or suspected skin cancer will have a scan&#xD;
+      with the THz skinometer in the clinic prior to their planned skin surgery. They will be&#xD;
+      scanned on the cancerous area and a control area for a total of 2 scans. Later the results of&#xD;
+      the THz scan will be compared to the formal histology results after the primary (melanoma) or&#xD;
+      residual (BCC) tumour has been removed.&#xD;
+&#xD;
+      In vivo THz images from a case study of patients with BCC in 2004 suggested that it should be&#xD;
+      possible to detect skin cancer hidden beneath the skin using THz imaging. Spectroscopic&#xD;
+      studies by Emma MacPherson and her colleagues in Cambridge in 2006 showed that the&#xD;
+      fundamental THz properties of freshly removed (excised) skin cancer tumours are statistically&#xD;
+      significantly different from healthy tissue and it is thought that the differences are&#xD;
+      primarily due to changes in water content of the tissue. The high sensitivity of THz light to&#xD;
+      water also means that the THz signal is strongly attenuated and has a very limited&#xD;
+      penetration depth in tissue - thus THz scanning would experience great difficulty in&#xD;
+      detecting deep tumours. The penetration depth depends on the signal-to-noise ratio of the THz&#xD;
+      imaging system, therefore efforts to improve the signal processing and/or the THz&#xD;
+      instrumentation have been made. Since then, EM has been investigating the underlying THz&#xD;
+      image contrast mechanisms as well as developing new algorithms and approaches to improve the&#xD;
+      accuracy of sample characterisation as well as accelerating THz image data acquisition. This&#xD;
+      more recent work is pushing the state-of-the-art in THz in vivo imaging, both in accuracy and&#xD;
+      speed. This, crucially, means the investigators are now better equipped to do THz imaging in&#xD;
+      vivo studies and the investigators have even been able to account for the pores of skin being&#xD;
+      blocked (occluded) by the imaging window for the duration of the THz measurement. This&#xD;
+      'occlusion' process means the skin cannot breathe normally and water accumulates in the outer&#xD;
+      most layer of skin, the stratum corneum (SC). EM has exploited this phenomenon to pioneer the&#xD;
+      use of THz imaging to determine rate of water diffusion within the SC during occlusion. EM&#xD;
+      has also been developing in vivo imaging instrumentation techniques and identifying the key&#xD;
+      variables and parameters such as contact pressure and occlusion duration. EM's latest results&#xD;
+      show that the refractive index of the skin increases both with increasing pressure and&#xD;
+      increasing occlusion time. These results will be used to develop the THz skinometer and&#xD;
+      accompanying characterization algorithms, within this study. EM's findings show how THz&#xD;
+      imaging can be used to measure the hydration profile and water diffusivity of skin and this&#xD;
+      is the basis of the theory that will be further developed in the SINATRA study to evaluate&#xD;
+      the penetration and durability of emollients and sunscreens in different skin types. The&#xD;
+      pilot data collected in the SINATRA trial will be valuable in developing a larger trial&#xD;
+      leading to a transformative improvement in prevention and treatment of skin cancer and better&#xD;
+      moisturisation strategies for other skin conditions.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 4, 2022</start_date>
+  <completion_date type="Anticipated">January 4, 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 4, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Skin cancer group and a dry skin condition group</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasability</measure>
+    <time_frame>12 months</time_frame>
+    <description>The primary objective will be to explore the feasibility of the intervention delivery by looking at the number of people screened, recruited and consented into the study.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Skin hydration</measure>
+    <time_frame>12 months</time_frame>
+    <description>The change in skin hydration for a dry skin patient measured before and after applying emollient. Water content will be quantified using the THz scanner.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Presence of skin cancer</measure>
+    <time_frame>12 months</time_frame>
+    <description>Change in skin hydration between cancer and non-cancerous skin measured using THz light.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Cancer</condition>
+  <condition>Skin Cancer</condition>
+  <condition>Dry Skin; Eczema</condition>
+  <condition>Medical Device Site Eczema</condition>
+  <arm_group>
+    <arm_group_label>Dry skin condition</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>2. The second arm will consist of 50 patients with benign dry skin conditions (eczema, psoriasis, skin grafts, scars etc.) and will compare the water content of their skin before and after application of a propriety emollients in common usage (e.g. E45®, Aveeno®, Doublebase®). This will add to the existing dataset that has been recorded from healthy non-patient volunteers (unpublished data, University of Warwick). This may help to guide patient-specific emollient selection in the future.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Skin cancer</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>1. One arm will consist of 100 patients with known or suspected skin cancer (skin cancer defined as: incompletely excised BCC with histologically proven radial margin involvement; biopsy proven BCC, or pigmented lesions suspicious of malignant melanoma). Images will be taken in the clinic prior to planned skin surgery and later compared to the formal histology results after the primary (melanoma) or residual (BCC) tumour has been removed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Terahertz scanning</intervention_name>
+    <description>Short scans using Terahertz device</description>
+    <arm_group_label>Dry skin condition</arm_group_label>
+    <arm_group_label>Skin cancer</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          -  Aged 18 years and over&#xD;
+&#xD;
+          -  Diagnosed with dry skin conditions (e.g. eczema, psoriasis, scars etc.)&#xD;
+&#xD;
+          -  Capacity to give informed consent&#xD;
+&#xD;
+          -  Confirmed or suspected skin cancer (incompletely excised BCC with histologically&#xD;
+             proven radial margin involvement, biopsy proven BCC or pigmented lesions suspicious of&#xD;
+             malignant melanoma) .&#xD;
+&#xD;
+          -  Diagnosed with an incompletely excised basal cell carcinoma skin cancer (either radial&#xD;
+             margin involvement on primary excision or following diagnostic punch biopsy).&#xD;
+&#xD;
+          -  Clinically suspicious pigmented skin lesion (suspected melanoma) with a plan for&#xD;
+             surgical biopsy&#xD;
+&#xD;
+          -  Capacity to give informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Study Arm 1 ( benign dry skin condition) • Previous allergy or sensitivity to&#xD;
+             propriety emollients in common usage (e.g. E45®, Aveeno®, Doublebase®etc.).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <gender_based>Yes</gender_based>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University Hospital Coventry and Warwickshire NHS Trust</name>
+      <address>
+        <city>Coventry</city>
+        <state>West Midlands</state>
+        <zip>CV22DX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 4, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2021</study_first_posted>
+  <last_update_submitted>November 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>medical device</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Skin Neoplasms</mesh_term>
+    <mesh_term>Eczema</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

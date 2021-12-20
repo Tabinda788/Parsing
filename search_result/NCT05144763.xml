@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1259">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05144763</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-02800</org_study_id>
+    <secondary_id>NIMR/HQ/R.8a/Vol.IX/3486</secondary_id>
+    <secondary_id>Project_6278</secondary_id>
+    <nct_id>NCT05144763</nct_id>
+  </id_info>
+  <brief_title>Dynamic CDSA to Manage Sick Children in Tanzania</brief_title>
+  <acronym>DYNAMIC-TZ</acronym>
+  <official_title>Dynamic Clinical Decision Support Algorithms to Manage Sick Children in Primary Health Care Settings in Tanzania</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Center for Primary Care and Public Health (Unisante), University of Lausanne, Switzerland</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Swiss Tropical &amp; Public Health Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ecole Polytechnique Fédérale de Lausanne</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ifakara Health Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute for Medical Research, Tanzania</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Geneva, Switzerland</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Center for Primary Care and Public Health (Unisante), University of Lausanne, Switzerland</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to reduce morbidity and mortality among children and mitigate antimicrobial&#xD;
+      resistance using a novel clinical decision support algorithm, enhanced with point-of-care&#xD;
+      technologies to help health workers in primary health care settings in Tanzania. Furthermore,&#xD;
+      the tool provides opportunities to improve supervision and mentorship of health workers and&#xD;
+      enhance disease surveillance and outbreak detection.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Children are a well-recognized vulnerable population that still suffers from a high rate of&#xD;
+      acute infectious diseases and preventable deaths. This is especially true in fragile health&#xD;
+      systems of Sub-Saharan Africa, where under-five mortality is 10 times higher than in&#xD;
+      high-income countries. The management of sick children at the primary care level in these&#xD;
+      environments remains of insufficient quality as front-line clinicians lack appropriate&#xD;
+      diagnostics, supervision to improve their skills, and decision support tools. Clinically&#xD;
+      validated point-of-care (POC) diagnostic tests are often not available, and practice&#xD;
+      guidelines are quickly outdated by new evidence and changing epidemiology. When an epidemic&#xD;
+      arises, these static, generic guidelines can even become deleterious if the event is not&#xD;
+      detected on time and integrated into the recommendations.&#xD;
+&#xD;
+      In the absence of reliable guidance, health care workers (HCWs) tend to over-prescribe&#xD;
+      antibiotics (Hopkins et al. 2017, Fink et al. 2019). Approximately 9 out of 10 children at&#xD;
+      the primary care level in Tanzania receive an antibiotic, while only 1 in 10 needs one&#xD;
+      (D'Acremont et al. 2014). Inappropriate antibiotic use disrupts the gut flora, favoring the&#xD;
+      proliferation of pathogens and weakening a child's immune response (Benoun et al. 2016). It&#xD;
+      is also a major driver of antibiotic resistance, which is estimated to be responsible for up&#xD;
+      to 10 million deaths per year by 2050 (Holmes et al. 2016, Fink et al. 2019). Equally&#xD;
+      important to antibiotic overuse, is its underuse. Missing a child in need of antibiotic&#xD;
+      treatment or providing a child with an inappropriate type or dosage of antibiotic puts them&#xD;
+      at risk of preventable morbidity and death. The same occurs with antimalarials that are not&#xD;
+      always prescribed to the children in need: those with a positive malaria test result.&#xD;
+&#xD;
+      Misdiagnoses have consequences that reach beyond the patient. They increase re-attendance&#xD;
+      rates, further congesting primary health facilities and accruing economic losses not only for&#xD;
+      families but for the entire health system. Systematic errors in patient-level data&#xD;
+      accumulate, and as they are aggregated to measure population-level indicators, they have the&#xD;
+      potential to bias the statistics used to prioritize health interventions and, importantly,&#xD;
+      identify epidemics.&#xD;
+&#xD;
+      The WHO has identified digital health interventions and predictive tools in primary care as&#xD;
+      key accelerators in achieving the 2030 Sustainable Development Goal 3 of ensuring good health&#xD;
+      and well-being for all. New simple and cheap technologies, such as mobile devices, coupled&#xD;
+      with the advances in computing and data science, could help mitigate several of the&#xD;
+      aforementioned challenges. The proposed digital intervention is a third-generation clinical&#xD;
+      decision support algorithm (CDSA) intended to help HCWs at the primary care level manage&#xD;
+      children with acute illnesses. The first two versions of the algorithm have undergone&#xD;
+      rigorous evaluations in controlled research conditions as summarized below:&#xD;
+&#xD;
+      The first-generation algorithm called ALMANACH was tested in Tanzania in 2010-2011, achieving&#xD;
+      improved clinical cure (from 92% to 97%) and a decrease in antibiotic prescription (from 84%&#xD;
+      to 15%) as compared to routine care (Shao et al. 2015A). ALMANACH also led to more consistent&#xD;
+      clinical assessments without taking more time than a conventional consultation and was&#xD;
+      perceived by clinicians as &quot;a powerful and useful&quot; tool (Shao et al. 2015B).&#xD;
+&#xD;
+      The second-generation algorithm called ePOCT was trialed in Tanzania in 2014-2016. In&#xD;
+      addition to symptoms and signs, it made use of several POC tests to help detect children with&#xD;
+      severe infections requiring hospital-based treatment (oximetry and hemoglobin level) and/or&#xD;
+      children with serious bacterial infection (CRP). The use of ePOCT resulted in higher clinical&#xD;
+      cure (98%) as compared to ALMANACH (96%) and routine care (95%). The algorithm also further&#xD;
+      reduced antibiotic prescription to 11%, as compared to 30% with the use of ALMANACH and 95%&#xD;
+      in routine care (Keitel et al. 2017).&#xD;
+&#xD;
+      Electronic algorithms can thus be successfully implemented to improve clinical guidance and&#xD;
+      provide feedback to clinicians, as well as allow near-real-time analyses of data for M&amp;E of&#xD;
+      health interventions, disease surveillance and outbreak detection. The goal of this study is&#xD;
+      to improve clinical diagnosis, decrease morbidity and mortality of children, and mitigate&#xD;
+      antimicrobial resistance using novel dynamic POC technologies that help front-line HCWs&#xD;
+      manage sick patients, enhanced by smart disease surveillance and outbreak detection&#xD;
+      mechanisms.&#xD;
+&#xD;
+      More specifically, this study seeks to:&#xD;
+&#xD;
+      Objective 1: Improve the integrated management of children with an acute illness through the&#xD;
+      provision of an electronic CDSA (ePOCT+) to clinicians working at primary care level;&#xD;
+&#xD;
+      Objective 2: Improve the accuracy of the clinical algorithm and adapt it to spatiotemporal&#xD;
+      variations in epidemiology and resources, based on the data generated through the ePOCT+&#xD;
+      tool, analyzed using machine learning and checked by clinical experts;&#xD;
+&#xD;
+      Objective 3: Enhance the district (and national) disease surveillance and outbreak detection&#xD;
+      capability using the clinical data generated by the ePOCT+ tool complemented by targeted&#xD;
+      microbiological investigations and machine learning pattern detection;&#xD;
+&#xD;
+      Objective 4: Enhance the district (and national) health management information system for&#xD;
+      monitoring and evaluation and conducting supportive supervision and mentorship in health&#xD;
+      facilities using the clinical data generated by the ePOCT+ tool enhanced by additional data&#xD;
+      analysis and visualization dashboards;&#xD;
+&#xD;
+      Objective 5: Create a framework for the development and implementation of dynamic CDSA and&#xD;
+      disease surveillance tools, for large-scale, sustainable, and clinically responsible use of&#xD;
+      machine learning and data science.&#xD;
+&#xD;
+      The primary intervention study will be conducted in two phases.&#xD;
+&#xD;
+      Phase 1: pragmatic, open-label cluster randomized controlled study in 40 health facilities.&#xD;
+      The intervention consists of ePOCT+ clinical decision support algorithm (CDSA) displayed on&#xD;
+      tablets (medAL-reader), point-of-care tests and devices that are not part of routine care&#xD;
+      (pulse oximeter, CRP rapid test, additional hemoglobin cuvettes), complementary training on&#xD;
+      the tool, regular monitoring and mentorship/supervision visits by the study team and/or the&#xD;
+      Council Health Management Team (CHMT). Mentorship and supervision will be enabled by a&#xD;
+      complementary dashboard (medAL-monitor), used to visualize and monitor study-related&#xD;
+      indicators. Due to the pragmatic nature of the study, the design is adaptive, in that changes&#xD;
+      in the implementation throughout Phase 1 may be made based on monitoring data and feedback&#xD;
+      from the health facilities. These implementation changes (excluding significant adaptations&#xD;
+      to algorithm content) will be thoroughly documented and accounted for in longitudinal&#xD;
+      analyses.&#xD;
+&#xD;
+      Phase 2: scale-up of the intervention to more health facilities and transformation into a&#xD;
+      dynamic algorithm The ePOCT+ tool will be extended to the health facilities serving as&#xD;
+      controls in Phase 1, as well as to additional neighboring facilities of our target area, to&#xD;
+      reach a total of up to 100 facilities. In Phase 2, an adaptive study design will be used to&#xD;
+      measure the same outcome indicators as in Phase 1. The medical content of the algorithm will&#xD;
+      not be fixed anymore, but rather modifiable. Each potential modification will first be&#xD;
+      evaluated by the Tanzanian clinical expert group for its clinical coherence, safety and&#xD;
+      potential benefit and then applied to the retrospective data. If these analyses confirm both&#xD;
+      a clinically relevant positive impact and estimate that there will be sufficient future cases&#xD;
+      during the study period to detect this improvement, the change in the algorithm will be&#xD;
+      tested in a randomized sub-study using the same study design as in Phase 1, except that&#xD;
+      randomization will take place at patient level rather than health facility level. If the&#xD;
+      positive impact is confirmed in the sub-study, the modification will be implemented in all&#xD;
+      relevant locations/patient sub-groups.&#xD;
+&#xD;
+      Additional cross-sectional mixed-methods operational research studies will take place&#xD;
+      throughout the intervention period to study the implementation context, facilitators and&#xD;
+      barriers to the scale-up of this intervention and its integration into the primary health&#xD;
+      system of Tanzania.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2021</start_date>
+  <completion_date type="Anticipated">March 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The study involves two arms: intervention and control. Health facilities will serve as clusters, with half of the facilities (20) receiving the intervention and the other half serving as controls (20). Health facilities will be randomized to their respective study arm. A parallel design (all health facilities start at the same time) will be used.&#xD;
+At the end of the cluster randomized controlled study, the control facilities will also receive the intervention, along with additional facilities for up to 100.</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>Masking is not possible</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of children cured at day 7 in the intervention group (ePOCT+) as compared to the control group (routine care)</measure>
+    <time_frame>at day 7 (range 6-14) after enrollment</time_frame>
+    <description>The child is defined as being cured at day 7 if the caregiver says that the child is cured or has improved since the initial consultation. Non-referred secondary hospitalizations (if caregiver says that child was hospitalized between day 0 and day 7 but the electronic clinical data does not indicate a referral for hospitalization) will however be considered as clinical failures even if the child is already cured at day 7.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of children prescribed an antibiotic at initial consultation in the intervention group (ePOCT+) as compared to the control group (routine care)</measure>
+    <time_frame>by the end of the initial consultation (day 0)</time_frame>
+    <description>Prescription of oral or parenteral antibiotic at initial consultation, as reported by the health care worker.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of children with one or more unscheduled re-attendance visits at any health facility by day 7</measure>
+    <time_frame>by day 7 (range 6-14) after enrollment</time_frame>
+    <description>Telephone or home visit follow-up 7 days (range 6-14 days) after enrollment of the subject. The day of enrollment of the subject is considered as day 0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of children with severe clinical outcome (death or non-referred secondary hospitalization) by day 7</measure>
+    <time_frame>by day 7 (range 6-14) after enrollment</time_frame>
+    <description>Death and non-referred secondary hospitalization will be assessed by telephone or home visit follow-up 7 days (range 6-14 days) after enrollment of the subject. The day of enrollment of the subject is considered as day 0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of children referred to hospital or inpatient ward at a health centre at initial consultation</measure>
+    <time_frame>by the end of the initial consultation (day 0)</time_frame>
+    <description>Documented by the health care worker at the end of the initial consultation in the eCRF (control arm) or in ePOCT+ (intervention arm) when the subject was enrolled (day 0)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of febrile children tested for malaria by RDT and/or microscopy at day 0</measure>
+    <time_frame>by the end of the initial consultation (day 0)</time_frame>
+    <description>A febrile child is a child with a history of fever (measured or suspected fever in the past 48 hours) or a high temperature.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of malaria positive children prescribed an antimalarial at day 0</measure>
+    <time_frame>by the end of the initial consultation (day 0)</time_frame>
+    <description>An antimalarial prescription is any oral, rectal, intramuscular or intravenous antimalarial prescribed by a HCW during the initial consultation or a re-attendance visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of malaria negative children prescribed an antimalarial at day 0</measure>
+    <time_frame>by the end of the initial consultation (day 0)</time_frame>
+    <description>An antimalarial prescription is any oral, rectal, intramuscular or intravenous antimalarial prescribed by a HCW during the initial consultation or a re-attendance visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of children untested for malaria prescribed an antimalarial at day 0</measure>
+    <time_frame>by the end of the initial consultation (day 0)</time_frame>
+    <description>An antimalarial prescription is any oral, rectal, intramuscular or intravenous antimalarial prescribed by a HCW during the initial consultation or a re-attendance visit.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change in percent of cases managed using ePOCT+ (uptake) over time</measure>
+    <time_frame>through study 1 completion, thus 6 to 9 months</time_frame>
+    <description>Change in the percent of cases fully managed using ePOCT+ meaning that the medications and referral steps completed and case closed by healthcare worker. This outcome will be assessed month to month in the intervention arm only. Dated changes in implementation will be presented for context of temporal changes in outcome.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in the percent of children with basic anthropometrics and clinical signs assessed over time</measure>
+    <time_frame>through study 1 completion, thus 6 to 9 months</time_frame>
+    <description>Change in the percent of children with anthropometric measurements (weight, height, MUAC) and clinical signs (respiratory rate) assessed and documented by the healthcare worker. This outcome will be assessed month to month in the intervention arm only. Dated changes in implementation will be presented for context of temporal changes in outcome.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in the percent of children with antibiotic prescribed over time</measure>
+    <time_frame>through study 1 completion, thus 6 to 9 months</time_frame>
+    <description>Change in the percent of children with an antibiotic prescribed during initial consultation. This outcome will be compared between intervention and control arms month to month. Dated changes in implementation will be presented for context of temporal changes in outcome.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40000</enrollment>
+  <condition>Child Health</condition>
+  <arm_group>
+    <arm_group_label>ePOCT+</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Health facilities allocated to the ePOCT+ intervention arm will receive an electronic clinical decision support algorithm (ePOCT+) on a tablet that will guide them through pediatric consultations. Point-of-care tests proposed by ePOCT+ that are not part of routine care will be provided as part of the study (pulse oximeter, CRP rapid test, additional hemoglobin cuvettes, and salbutamol inhalers and spacers). Training on the use of ePOCT+ and associated clinical skills will be provided before the implementation of the study, along with mentorship visits to assist with issues related to the implementation of ePOCT+.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Routine care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>In health facilities allocated to the control arm, pediatric consultations will be conducted in a routine manner; however, tests/test results, diagnoses, management and treatments will be recorded in an electronic case report form on a tablet. Equivalent clinical training will be provided before the start of the study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>ePOCT+</intervention_name>
+    <description>ePOCT+ is an electronic clinical decision support algorithm</description>
+    <arm_group_label>ePOCT+</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Presenting for an acute medical or surgical condition&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Presenting for scheduled consultation for a chronic disease (e.g. HIV, TB, NCD,&#xD;
+             malnutrition)&#xD;
+&#xD;
+          -  Presenting for routine preventive care (e.g. growth monitoring, vitamin&#xD;
+             supplementation, deworming, vaccination)&#xD;
+&#xD;
+          -  Caregiver unavailable, unable or unwilling to provide written informed consent (except&#xD;
+             for older children who can provide verbal assent with an adult witness during the&#xD;
+             consenting process)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>14 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Valerie D'Acremont, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Centre for Primary Care and Public Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Valerie D'Acremont, PhD</last_name>
+    <phone>+41 61 284 8679</phone>
+    <email>Valerie.DAcremont@unisante.ch</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Alexandra V Kulinkina, PhD</last_name>
+    <phone>+41 79 555 9046</phone>
+    <email>alexandra.kulinkina@swisstph.ch</email>
+  </overall_contact_backup>
+  <link>
+    <url>https://dynamic-study.com/</url>
+    <description>Dynamic study website</description>
+  </link>
+  <reference>
+    <citation>Hopkins H, Bruxvoort KJ, Cairns ME, Chandler CI, Leurent B, Ansah EK, Baiden F, Baltzell KA, Björkman A, Burchett HE, Clarke SE, DiLiberto DD, Elfving K, Goodman C, Hansen KS, Kachur SP, Lal S, Lalloo DG, Leslie T, Magnussen P, Jefferies LM, Mårtensson A, Mayan I, Mbonye AK, Msellem MI, Onwujekwe OE, Owusu-Agyei S, Reyburn H, Rowland MW, Shakely D, Vestergaard LS, Webster J, Wiseman VL, Yeung S, Schellenberg D, Staedke SG, Whitty CJ. Impact of introduction of rapid diagnostic tests for malaria on antibiotic prescribing: analysis of observational and randomised studies in public and private healthcare settings. BMJ. 2017 Mar 29;356:j1054. doi: 10.1136/bmj.j1054. Erratum in: BMJ. 2017 Jun 29;357:j3168.</citation>
+    <PMID>28356302</PMID>
+  </reference>
+  <reference>
+    <citation>Holmes AH, Moore LS, Sundsfjord A, Steinbakk M, Regmi S, Karkey A, Guerin PJ, Piddock LJ. Understanding the mechanisms and drivers of antimicrobial resistance. Lancet. 2016 Jan 9;387(10014):176-87. doi: 10.1016/S0140-6736(15)00473-0. Epub 2015 Nov 18. Review.</citation>
+    <PMID>26603922</PMID>
+  </reference>
+  <reference>
+    <citation>Fink G, D'Acremont V, Leslie HH, Cohen J. Antibiotic exposure among children younger than 5 years in low-income and middle-income countries: a cross-sectional study of nationally representative facility-based and household-based surveys. Lancet Infect Dis. 2020 Feb;20(2):179-187. doi: 10.1016/S1473-3099(19)30572-9. Epub 2019 Dec 13.</citation>
+    <PMID>31843383</PMID>
+  </reference>
+  <reference>
+    <citation>D'Acremont V, Kilowoko M, Kyungu E, Philipina S, Sangu W, Kahama-Maro J, Lengeler C, Cherpillod P, Kaiser L, Genton B. Beyond malaria--causes of fever in outpatient Tanzanian children. N Engl J Med. 2014 Feb 27;370(9):809-17. doi: 10.1056/NEJMoa1214482.</citation>
+    <PMID>24571753</PMID>
+  </reference>
+  <reference>
+    <citation>Benoun JM, Labuda JC, McSorley SJ. Collateral Damage: Detrimental Effect of Antibiotics on the Development of Protective Immune Memory. mBio. 2016 Dec 20;7(6). pii: e01520-16. doi: 10.1128/mBio.01520-16. Review.</citation>
+    <PMID>27999159</PMID>
+  </reference>
+  <reference>
+    <citation>Shao AF, Rambaud-Althaus C, Samaka J, Faustine AF, Perri-Moore S, Swai N, Kahama-Maro J, Mitchell M, Genton B, D'Acremont V. New Algorithm for Managing Childhood Illness Using Mobile Technology (ALMANACH): A Controlled Non-Inferiority Study on Clinical Outcome and Antibiotic Use in Tanzania. PLoS One. 2015 Jul 10;10(7):e0132316. doi: 10.1371/journal.pone.0132316. eCollection 2015.</citation>
+    <PMID>26161535</PMID>
+  </reference>
+  <reference>
+    <citation>Shao AF, Rambaud-Althaus C, Swai N, Kahama-Maro J, Genton B, D'Acremont V, Pfeiffer C. Can smartphones and tablets improve the management of childhood illness in Tanzania? A qualitative study from a primary health care worker's perspective. BMC Health Serv Res. 2015 Apr 2;15:135. doi: 10.1186/s12913-015-0805-4.</citation>
+    <PMID>25890078</PMID>
+  </reference>
+  <reference>
+    <citation>Keitel K, Kagoro F, Samaka J, Masimba J, Said Z, Temba H, Mlaganile T, Sangu W, Rambaud-Althaus C, Gervaix A, Genton B, D'Acremont V. A novel electronic algorithm using host biomarker point-of-care tests for the management of febrile illnesses in Tanzanian children (e-POCT): A randomized, controlled non-inferiority trial. PLoS Med. 2017 Oct 23;14(10):e1002411. doi: 10.1371/journal.pmed.1002411. eCollection 2017 Oct.</citation>
+    <PMID>29059253</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>May 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 3, 2021</study_first_posted>
+  <last_update_submitted>November 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Digital Health</keyword>
+  <keyword>Mobile Application</keyword>
+  <keyword>Clinical Decision Support Algorithm</keyword>
+  <keyword>Antibiotic Stewardship</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>September 10, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/63/NCT05144763/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>September 10, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/63/NCT05144763/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

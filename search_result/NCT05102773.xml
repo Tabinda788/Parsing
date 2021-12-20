@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4488">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05102773</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OSU-19125</org_study_id>
+    <secondary_id>NCI-2020-01625</secondary_id>
+    <nct_id>NCT05102773</nct_id>
+  </id_info>
+  <brief_title>The Effect of the Microbiome on Immune Checkpoint Inhibitor Response in Melanoma Patients</brief_title>
+  <official_title>A Pilot Study of the Effect of the Microbiome on Immune Checkpoint Inhibitor Response in Melanoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ohio State University Comprehensive Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ohio State University Comprehensive Cancer Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This pilot trial studies the effect of the microbiome on immune checkpoint inhibitors&#xD;
+      response in patients with melanoma by collecting stool and blood samples. Gut microbiome&#xD;
+      plays a critical role in response to immune checkpoint inhibitors. Studying the change in an&#xD;
+      individual's microbiome due to corticosteroid use may help researchers to determine whether&#xD;
+      an individual's microbiome can predict their response and toxicity to immune checkpoint&#xD;
+      inhibitors.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVE:&#xD;
+&#xD;
+      I. To determine if the microbiome alpha-diversity is predictive of response (Response&#xD;
+      Evaluation Criteria in Solid Tumors [RECIST] version [v] 1.1) at a 12-week computed&#xD;
+      tomography (CT) scan or toxicity.&#xD;
+&#xD;
+      SECONDARY OBJECTIVE:&#xD;
+&#xD;
+      I. To determine the recruitment and compliance rates for longitudinal biospecimen collection,&#xD;
+      including stool, in melanoma patients.&#xD;
+&#xD;
+      EXPLORATORY OBJECTIVE:&#xD;
+&#xD;
+      I. To determine if individual microbes or their changes in relative abundance are predictive&#xD;
+      of response or toxicity.&#xD;
+&#xD;
+      OUTLINE:&#xD;
+&#xD;
+      Patients complete a Food Frequency Questionnaire (FFQ) at baseline, undergo collection of&#xD;
+      stool samples at baseline, within 2 days of starting corticosteroid treatment (if&#xD;
+      applicable), when asked for a control sample, and at 12 weeks, and undergo collection of&#xD;
+      blood samples and computed tomography (CT) at baseline and 12 weeks.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 10, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Baseline microbiome alpha diversity in responders versus (vs) non-responders</measure>
+    <time_frame>At 12 weeks</time_frame>
+    <description>This analysis will follow a logistic regression structure. The dependent variable, response to treatment, will be evaluated using standardized criteria (Response Evaluation Criteria in Solid Tumors [RECIST] version [v] 1.1). Each patient will be classified as &quot;respond&quot;, &quot;stable&quot; or &quot;progression'' as a categorical variable and then binarized, with &quot;respond&quot; or &quot;stable&quot; in the category &quot;responders&quot;, and &quot;progression&quot; in the category &quot;non-responders&quot;. Independent variables will be alpha-diversity. Additional covariates will be included in the model to control for differences in age, sex, body mass index (BMI), Food Frequency Questionnaire (FFQ) dietary index, and medication history.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Baseline microbiome alpha diversity in patients prescribed corticosteroids vs those who were not prescribed corticosteroids</measure>
+    <time_frame>Within the 12-week treatment window</time_frame>
+    <description>This analysis will follow a logistic regression structure. The dependent variable, toxicity, will be evaluated by corticosteroid prescription. Dependent variables including alpha-diversity or individual microbes will be independent variables.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Recruitment rates for longitudinal biospecimen collection, including stool, in melanoma patients</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Recruitment rates will be defined as the fraction of screened adults who are eligible and agree to participate within the Cutaneous Oncology Clinic, with an estimated recruitment of 30%. Will track the monthly collection of data and documented reasons for missing any scheduled collection dates. The recruitment rate will be used in combination with the variance of the biospecimen data in power calculations to estimate the sample size needed for future trials.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Compliance rates for longitudinal biospecimen collection, including stool, in melanoma patients</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Compliance will be defined as 90% of baseline, endpoint and corticosteroid collection. Will track the monthly collection of data and documented reasons for missing any scheduled collection dates. The compliance rate will be used in combination with the variance of the biospecimen data in power calculations to estimate the sample size needed for future trials.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Microbes as significant predictors in logistic regressions where the outcomes are binary (clinical response or treatment toxicity requiring corticosteroids), with the inputs as relative abundances of individual microbes</measure>
+    <time_frame>At baseline, 12 weeks, or at corticosteroid prescription</time_frame>
+    <description>Individual microbe relative abundances will be compared between responders and non-responders with additional filtering to accommodate the sparseness of the microbiome data matrix. Specifically, microbes will be compared that are the most abundant, as well as being present in greater than 50% of the samples. An arcsine root transformation will be applied to the microbe relative abundances to approximate a Gaussian distribution, and then a generalized linear model applied where ''response'' is the response variable and individual microbes are the predictor variables.&#xD;
+P-values will be corrected by the Bonferroni method and then visualized by volcano plot. Microbes and covariates found to be most significant in the model will be combined into a single model to estimate the percent variance explainable by these predictors. Analyses will be performed in R using the stats package.</description>
+  </other_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">89</enrollment>
+  <condition>Clinical Stage IV Cutaneous Melanoma AJCC v8</condition>
+  <condition>Pathologic Stage IV Cutaneous Melanoma AJCC v8</condition>
+  <arm_group>
+    <arm_group_label>Ancillary-correlative (questionnaire, sample collection, CT)</arm_group_label>
+    <description>Patients complete a FFQ at baseline, undergo collection of stool samples at baseline, within 2 days of starting corticosteroid treatment (if applicable), when asked for a control sample, and at 12 weeks, and undergo collection of blood samples and CT at baseline and 12 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Biospecimen Collection</intervention_name>
+    <description>Undergo collection of blood and stool</description>
+    <arm_group_label>Ancillary-correlative (questionnaire, sample collection, CT)</arm_group_label>
+    <other_name>Biological Sample Collection</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Computed Tomography</intervention_name>
+    <description>Undergo CT</description>
+    <arm_group_label>Ancillary-correlative (questionnaire, sample collection, CT)</arm_group_label>
+    <other_name>CAT</other_name>
+    <other_name>CAT Scan</other_name>
+    <other_name>Computerized Axial Tomography</other_name>
+    <other_name>Computerized Tomography</other_name>
+    <other_name>CT</other_name>
+    <other_name>CT Scan</other_name>
+    <other_name>tomography</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Laboratory Biomarker Analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Ancillary-correlative (questionnaire, sample collection, CT)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaire Administration</intervention_name>
+    <description>Complete questionnaire</description>
+    <arm_group_label>Ancillary-correlative (questionnaire, sample collection, CT)</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood, stool&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with stage III, IV melanoma, scheduled to receive pembrolizumab or nivolumab at&#xD;
+        Ohio State University, Comprehensive Cancer Center.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Eligible patients include adults with stage III, IV melanoma, to be treated with&#xD;
+             pembrolizumab or nivolumab, regardless of other concurrent therapy or line of&#xD;
+             treatment&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients will be excluded if they are undergoing active systemic or oral&#xD;
+             corticosteroid use at start of immune checkpoint inhibitors (ICI) cycle 1, with the&#xD;
+             exception of adrenal replacement dosing.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Daniel Spakowicz, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ohio State University Comprehensive Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>The Ohio State University Comprehensive Cancer Center</last_name>
+    <phone>800-293-5066</phone>
+    <email>OSUCCCClinicaltrials@osumc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Nyelia Williams</last_name>
+    <email>Nyelia.Williams@osumc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Ohio State University Comprehensive Cancer Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel Spakowicz, PhD</last_name>
+      <phone>614-293-1797</phone>
+      <email>Daniel.Spakowicz@osumc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Daniel Spakowicz, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 20, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 2, 2021</study_first_posted>
+  <last_update_submitted>October 20, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 20, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ohio State University Comprehensive Cancer Center</investigator_affiliation>
+    <investigator_full_name>Daniel Spakowicz</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Melanoma</mesh_term>
+    <mesh_term>Skin Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

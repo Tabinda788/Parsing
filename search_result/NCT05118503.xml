@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3278">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05118503</url>
+  </required_header>
+  <id_info>
+    <org_study_id>833723</org_study_id>
+    <nct_id>NCT05118503</nct_id>
+  </id_info>
+  <brief_title>Personalized Patient and Caregiver Education After Stroke</brief_title>
+  <acronym>MyStroke</acronym>
+  <official_title>Personalized Patient and Caregiver Education After Stroke</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized pilot trial to evaluate the impact of a customizable stroke education&#xD;
+      app (vs standard of care discharge education) on patient satisfaction and education&#xD;
+      retention. The impact of the intervention will be assessed 7, 30, and 90 days post-discharge.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 24, 2021</start_date>
+  <completion_date type="Anticipated">March 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patient satisfaction survey</measure>
+    <time_frame>Day 90</time_frame>
+    <description>Likert-style survey assessing patient satisfaction and perception of the stroke education they received.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stroke Patient Education Retention (SPER) survey</measure>
+    <time_frame>Day 90</time_frame>
+    <description>Validated measure of stroke patient education as it pertains to their stroke etiology and risk factors with scores of 0-10</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Euro Quality of Life (EuroQOL) survey</measure>
+    <time_frame>Day 90</time_frame>
+    <description>validated quality of life metric, with scores of 0-100</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Stroke Impact Scale</measure>
+    <time_frame>Day 90</time_frame>
+    <description>Standardized quality of life metric post stroke</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Stroke, Acute</condition>
+  <condition>Stroke, Ischemic</condition>
+  <condition>Stroke</condition>
+  <arm_group>
+    <arm_group_label>Customized education app</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>A customized URL-based platform will present brief education videos addressing a patients stroke etiology, risk factors, stroke prevention medications, and post-stroke lifestyle issues. This URL will be made available to the patient and caregiver.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of care discharge education</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Standard discharge education is performed by the bedside nurse at the time of hospital discharge.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Customized education</intervention_name>
+    <description>Half of subjects will receive access to a customized app that will include brief educational videos that have been selected for each patient based on their medical history. These videos will address stroke etiology, underlying risk factors, and stroke prevention medications.</description>
+    <arm_group_label>Customized education app</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Standard of care discharge education</intervention_name>
+    <description>Half of subjects will be randomized to receive typical discharge education, per the institutional guidelines for standard of care education for stroke patients.</description>
+    <arm_group_label>Standard of care discharge education</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Admitted for ischemic stroke&#xD;
+&#xD;
+          -  At least 18 years old&#xD;
+&#xD;
+          -  Patient or caregiver has access to a smart phone, tablet or computer&#xD;
+&#xD;
+          -  Being discharged to either home or acute rehab&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient or caregivers unable or unwilling to access the customized app with a&#xD;
+             smartphone, tablet, or computer&#xD;
+&#xD;
+          -  Being discharged to a skilled nursing facility&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Christopher Favilla, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pennsylvania</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Christopher Favilla, M.D</last_name>
+    <phone>215-615-3727</phone>
+    <email>christopher.favilla@pennmedicine.upenn.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital of the University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nichole Gallatti</last_name>
+      <phone>215-349-8651</phone>
+      <email>nichole.gallatti@pennmedicine.upenn.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Christopher Favilla, M.D</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 12, 2021</study_first_posted>
+  <last_update_submitted>November 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pennsylvania</investigator_affiliation>
+    <investigator_full_name>Christopher Favilla</investigator_full_name>
+    <investigator_title>Assistant Professor of Neurology</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Ischemic Stroke</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

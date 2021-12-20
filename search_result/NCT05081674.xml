@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="6111">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05081674</url>
+  </required_header>
+  <id_info>
+    <org_study_id>4009-19</org_study_id>
+    <nct_id>NCT05081674</nct_id>
+  </id_info>
+  <brief_title>Brazilian Lung Immunotherapy Study</brief_title>
+  <acronym>BLISS</acronym>
+  <official_title>Evaluation of Costs and Outcomes of the Implementation of Treatment Protocol Based on Rational Utilization of Anti-PD1 Agents in Patients With Non-small-cell Lung Cancer in the Brazilian Public Health System</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital Israelita Albert Einstein</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ministry of Health, Brazil</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hospital Israelita Albert Einstein</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Immunotherapy with anti-PD-1/PD-L1 agents either as single agents or combined with&#xD;
+      chemotherapy is now considered the standard of care for patients with non-small-cell lung&#xD;
+      cancer. However, it has not been incorporated in the Brazilian Public Health System because&#xD;
+      of concerns about patient eligibility, safety and costs. It is known that simple biomarkers&#xD;
+      can be used to select patients for immunotherapy, such as EGRF, ALK and PD-L1 status in the&#xD;
+      tumors. We created a treatment protocol based on these 3 markers and treated 154 patients&#xD;
+      with non-small-cell-lung cancer in a Public Hospital in Brazil. The goal of this project is&#xD;
+      to identify the prevalence of these markers in the Brazilian population (to estimate patient&#xD;
+      eligibility), outcomes and costs of therapy.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients with metastatic non-small-cell lung cancer will undergo tumor testing for EGFR (by&#xD;
+      PCR), ALK and PD-L1 (by immunohistochemistry) and receive therapy based on these results.&#xD;
+&#xD;
+        -  Patients with ALK-translocated tumors will receive first-line therapy with Alectinib,&#xD;
+           second-line therapy with carboplatin and pemetrexed and third-line therapy with&#xD;
+           docetaxel&#xD;
+&#xD;
+        -  Patients with EGFR-mutated tumors will receive first-line therapy with Erlotinib,&#xD;
+           second-line therapy with carboplatin and pemetrexed and third-line therapy with&#xD;
+           docetaxel&#xD;
+&#xD;
+        -  Patients with ALK/EGFRwt tumors and PD-L1&gt;=50% will receive first-line pembrolizumab,&#xD;
+           second-line carboplatin-pemetrexed and third line docetaxel&#xD;
+&#xD;
+        -  Patients with ALK/EGFRwt tumors and PD-L1&lt;50% will receive first-line&#xD;
+           carboplatin-pemetrexed, second-line nivolumab and third line docetaxel.&#xD;
+&#xD;
+      Therapy costs will be estimated, including hospital admissions and reported for each&#xD;
+      treatment arm.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">January 1, 2020</start_date>
+  <completion_date type="Anticipated">December 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Patients are treated in one of 4 different arms based on biomarker testing. There is no randomization or cross-over</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Total cost of therapy</measure>
+    <time_frame>Up to 3 years after starting systemic therapy</time_frame>
+    <description>Sum of all direct costs involved in patient care, including admissions</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Median overall survival</measure>
+    <time_frame>Up to 3 years after starting systemic therapy</time_frame>
+    <description>Median survival from first systemic therapy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of ALK, EGFR, PD-L1&gt;=50%</measure>
+    <time_frame>Up to 3 years after starting systemic therapy</time_frame>
+    <description>Prevalence of the 3 biomarkers in an unselected NSCLC population in Brazil</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">154</enrollment>
+  <condition>Lung Neoplasm</condition>
+  <arm_group>
+    <arm_group_label>ALK-translocated</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>st line Alectinib&#xD;
+nd line Carboplatin pemetrexed&#xD;
+rd line Docetaxel</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>EGFR-mutant</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>st line Erlotinib&#xD;
+nd line Carboplatin pemetrexed&#xD;
+rd line Docetaxel</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PD-L1 &gt;= 50%</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>st line Pembrolizumab&#xD;
+nd line Carboplatin pemetrexed&#xD;
+rd line Docetaxel</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PD-L1&lt; 50%</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>st line Carboplatin pemetrexed&#xD;
+nd line nivolumab&#xD;
+rd line Docetaxel</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Alectinib</intervention_name>
+    <description>600mg 1OD</description>
+    <arm_group_label>ALK-translocated</arm_group_label>
+    <other_name>Alecensa</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pembrolizumab</intervention_name>
+    <description>200mg every 21 days</description>
+    <arm_group_label>PD-L1 &gt;= 50%</arm_group_label>
+    <other_name>Keytruda</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nivolumab</intervention_name>
+    <description>6mg/kg every 4 weeks</description>
+    <arm_group_label>PD-L1&lt; 50%</arm_group_label>
+    <other_name>Opdivo</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Erlotinib</intervention_name>
+    <description>150mg</description>
+    <arm_group_label>EGFR-mutant</arm_group_label>
+    <other_name>Tarceva</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Stage IIIc or IV Non-small cell lung cancer&#xD;
+&#xD;
+          -  Good performance status (ECOG 0-2)&#xD;
+&#xD;
+          -  Available tissue for tumor markers&#xD;
+&#xD;
+          -  Plan to undergo systemic therapy&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Inadequate cardiac, renal, liver of bone-marrow function&#xD;
+&#xD;
+          -  Plan to undergo definitive radiation or curative surgery&#xD;
+&#xD;
+          -  Consent withdraw&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Diogo Gomes, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Israelita Albert Einstein</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hospital Municipal Vila Santa Catarina</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>04378-500</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <link>
+    <url>https://hospitais.proadi-sus.org.br/</url>
+    <description>Web site of the Brazilian Ministry of Health</description>
+  </link>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 18, 2021</study_first_posted>
+  <last_update_submitted>October 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Non-small cell lung cancer</keyword>
+  <keyword>NSCLC</keyword>
+  <keyword>Lung adenocarcinoma</keyword>
+  <keyword>Squamous cell carcinoma of the lung</keyword>
+  <keyword>Immunotherapy</keyword>
+  <keyword>PD-1</keyword>
+  <keyword>Nivolumab</keyword>
+  <keyword>Pembrolizumab</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pembrolizumab</mesh_term>
+    <mesh_term>Nivolumab</mesh_term>
+    <mesh_term>Erlotinib Hydrochloride</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

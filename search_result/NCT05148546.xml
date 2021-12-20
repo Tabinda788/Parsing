@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="968">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05148546</url>
+  </required_header>
+  <id_info>
+    <org_study_id>M21NSC</org_study_id>
+    <secondary_id>CA209-6DJ</secondary_id>
+    <secondary_id>2021-002360-51</secondary_id>
+    <nct_id>NCT05148546</nct_id>
+  </id_info>
+  <brief_title>Neoadjuvant Study With Combination Immuno-oncology for Primary Clear Cell Renal Cell Cancer</brief_title>
+  <acronym>NESCIO</acronym>
+  <official_title>Prospective, Randomized, Neoadjuvant Phase II Study With Combination Immuno-oncology in Primary Clear Cell Renal Cancer at Risk for Recurrence or Distant Metastases (NESCIO-trial)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Netherlands Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bristol-Myers Squibb</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The Netherlands Cancer Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The NESCIO-trial is a multicenter, randomized, open-label, three-arm phase II trial&#xD;
+      investigating different combinations of neoadjuvant immunotherapy in patients with primary,&#xD;
+      resectable, intermediate to high-risk, stage III clear-cell renal cell carcinoma. In this&#xD;
+      trial patients will be randomized 1:1:1 to receive either 2 cycles of nivolumab 360mg every 3&#xD;
+      weeks (arm A), 2 cycles of ipilimumab 1 mg/kg + nivolumab 3 mg/kg every 3 weeks (arm B) or 2&#xD;
+      cycles of relatlimab 360mg + nivolumab 360mg every 3 weeks (arm C), prior to surgery at week&#xD;
+      7.&#xD;
+&#xD;
+      After 42 patients (14 per arm) have been recruited, an interim analysis will be performed to&#xD;
+      evaluate the observed efficacy and toxicity within each arm and either allow for early&#xD;
+      discontinuation of the treatment or continuing recruitment for the second stage. As the&#xD;
+      primary endpoint, the pathological response (decrease in tumor) will be evaluated. If at most&#xD;
+      one pathologic response in the primary tumor is observed, the treatment arm will be closed&#xD;
+      for insufficient activity on the primary tumor. If at least 2 pathologic responses are&#xD;
+      observed, 9 additional patients will be included to a total of 23 patients per cohort. A&#xD;
+      maximum of 69 patients will be recruited for this study.&#xD;
+&#xD;
+      Follow up will start at week 12 with a CT-scan according to the national/center's standard.&#xD;
+      Patients will be evaluated every 3 months by physical examination and lab testing for up to&#xD;
+      two years, thereafter according to institutional guidelines up to 5 years following surgery.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2021</start_date>
+  <completion_date type="Anticipated">April 2029</completion_date>
+  <primary_completion_date type="Anticipated">April 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Open-label three-arm randomized phase II trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pathologic response rate</measure>
+    <time_frame>At 6 weeks</time_frame>
+    <description>Pathologic response rate is defined as the proportion of patients demonstrating a complete pathologic or partial pathologic response, according to central revision (pathology of NKI)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Safety, measured by the frequency of immune-related adverse events leading to postponing of surgery for &gt;2 weeks</measure>
+    <time_frame>At 8 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate</measure>
+    <time_frame>At 6 weeks</time_frame>
+    <description>ORR is defined as the proportion of patients demonstrating a complete or partial response according to RECIST 1.1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Recurrence Free Survival (RFS)</measure>
+    <time_frame>Up to 5 years after start of treatment</time_frame>
+    <description>RFS is defined as the time from randomization to recurrence or death from any cause, whichever occurs first. Subjects last known to be alive, who have not experience recurrence, will be censored.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Event-free Survival (EFS)</measure>
+    <time_frame>Up to 5 years after start of treatment</time_frame>
+    <description>EFS is defined as the time from randomization to recurrence, distant metastasis, or death from any cause, whichever occurs first. Subjects who are event-free at the end of follow-up will be censored.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of distant metastases</measure>
+    <time_frame>Up to 5 years after start of treatment</time_frame>
+    <description>The proportion of patients starting treatment who experience distant metastases during follow-up.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of local recurrences</measure>
+    <time_frame>Up to 5 years after start of treatment</time_frame>
+    <description>The proportion of patients starting treatment who experience a local recurrence during follow-up.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Surgical morbidity following neoadjuvant immunotherapy</measure>
+    <time_frame>Up to 1 year after start of treatment</time_frame>
+    <description>Surgical complication rates according to Clavien-Dindo classification</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Description of associations of TMB, fs/INDELs, HERVE-E, RNA tumor/immune signatures, and surface marker expression with tumor immune infiltrates and response</measure>
+    <time_frame>Up to 5 years after start of treatment</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cell free methylated DNA profiles following neoadjuvant immunotherapy between baseline and surgery</measure>
+    <time_frame>At 6 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Collection of fresh tumor tissue for investigating TIL, scRNA and TCRseq</measure>
+    <time_frame>At 6 weeks</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">69</enrollment>
+  <condition>Renal Cell Carcinoma Stage III</condition>
+  <arm_group>
+    <arm_group_label>A: Neoadjuvant nivolumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Neoadjuvant 2 cycles of nivolumab 360mg every 3 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B: Neoadjuvant nivolumab + ipilimumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Neoadjuvant 2 cycles of nivolumab 3 mg/kg + ipilimumab 1 mg/kg every 3 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>C: Neoadjuvant nivolumab + relatlimab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Neoadjuvant 2 cycles of nivolumab 360mg + relatlimab 360mg every 3 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Neoadjuvant nivolumab</intervention_name>
+    <description>Patients will receive 2 cycles of nivolumab 360mg every 3 weeks followed by a nephrectomy.</description>
+    <arm_group_label>A: Neoadjuvant nivolumab</arm_group_label>
+    <other_name>Opdivo</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Neoadjuvant nivolumab + ipilimumab</intervention_name>
+    <description>Patients will receive 2 cycles of nivolumab 3mg/kg + ipilimumab 1mg/kg every 3 weeks followed by a nephrectomy.</description>
+    <arm_group_label>B: Neoadjuvant nivolumab + ipilimumab</arm_group_label>
+    <other_name>Opdivo + Yervoy</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Neoadjuvant nivolumab + relatlimab</intervention_name>
+    <description>Patients will receive 2 cycles of nivolumab 360mg + relatlimab 360mg every 3 weeks followed by a nephrectomy.</description>
+    <arm_group_label>C: Neoadjuvant nivolumab + relatlimab</arm_group_label>
+    <other_name>Opdivo</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults at least 18 years of age;&#xD;
+&#xD;
+          -  World Health Organization (WHO) Performance Status 0 or 1;&#xD;
+&#xD;
+          -  Histologically confirmed resectable stage III clear cell RCC (measurable according to&#xD;
+             RECIST 1.1), that can be biopsied, and no history of distant metastases;&#xD;
+&#xD;
+          -  TNM grading:&#xD;
+&#xD;
+               1. cT1b-cT2a grade 4 cN0 cM0&#xD;
+&#xD;
+               2. cT2b grade 3 cN0 cM0&#xD;
+&#xD;
+               3. cT3a grade 3-4 cN0 cM0&#xD;
+&#xD;
+               4. cT3b-cT4 any grade cN0 cM0&#xD;
+&#xD;
+               5. cT any cN1 (fully resectable) cM0&#xD;
+&#xD;
+          -  No other malignancies, except adequately treated and a cancer-related life-expectancy&#xD;
+             of more than 5 years;&#xD;
+&#xD;
+          -  Patient willing to undergo triple tumor biopsies and extra blood withdrawal during&#xD;
+             screening and in case of relapse;&#xD;
+&#xD;
+          -  No prior immunotherapy targeting CTLA-4, PD-1 or PD-L1, or LAG-3;&#xD;
+&#xD;
+          -  No immunosuppressive medications within 6 months prior study inclusion;&#xD;
+&#xD;
+          -  Screening laboratory values must meet the following criteria: WBC ≥ 2.0x109/L,&#xD;
+             Neutrophils ≥1.5x109/L, Platelets ≥100 x109/L, Hemoglobin ≥5.5 mmol/L, Creatinine&#xD;
+             ≤1.5x ULN, AST ≤ 1.5 x ULN, ALT ≤ 1.5 x ULN, Bilirubin ≤1.5 X ULN, normal CK and&#xD;
+             Troponin T, normal LDH;&#xD;
+&#xD;
+          -  Women of childbearing potential must use appropriate method(s) of contraception. They&#xD;
+             should use an adequate method to avoid pregnancy for 23 weeks (30 days plus the time&#xD;
+             required for nivolumab to undergo five half-lives) after the last dose of&#xD;
+             investigational drug;&#xD;
+&#xD;
+          -  Women of childbearing potential must have a negative serum or urine pregnancy test&#xD;
+             (minimum sensitivity 25 IU/L or equivalent units of HCG) within 24 hours prior to the&#xD;
+             start of study treatment;&#xD;
+&#xD;
+          -  Women who are not of childbearing potential (i.e., who are postmenopausal), or&#xD;
+             surgically sterile as well as azoospermic men do not require contraception;&#xD;
+&#xD;
+          -  Patient is capable of understanding and complying with the protocol requirements and&#xD;
+             has signed the Informed Consent document.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Distantly metastasized RCC;&#xD;
+&#xD;
+          -  Brain metastases (based on symptoms);&#xD;
+&#xD;
+          -  Non-clear cell RCC;&#xD;
+&#xD;
+          -  No measurable lesion according to RECIST 1.1;&#xD;
+&#xD;
+          -  Subjects with any active autoimmune disease or a documented history of autoimmune&#xD;
+             disease, or history of syndrome that required systemic steroids or immunosuppressive&#xD;
+             medications, except for subjects with vitiligo or resolved childhood asthma/atopy;&#xD;
+&#xD;
+          -  Prior CTLA-4 or PD-1/PD-L1 or LAG-3 targeting immunotherapy;&#xD;
+&#xD;
+          -  Radiotherapy prior or post-surgery;&#xD;
+&#xD;
+          -  Patients will be excluded if they test positive for hepatitis B virus surface antigen&#xD;
+             (HBV sAg) or hepatitis C virus ribonucleic acid (HCV antibody), indicating acute or&#xD;
+             chronic infection; if treated and being at least one year free from HCV patients are&#xD;
+             allowed to participate;&#xD;
+&#xD;
+          -  Patients will be excluded if they have known history of testing positive for human&#xD;
+             immunodeficiency virus (HIV) or known acquired immunodeficiency syndrome (AIDS);&#xD;
+&#xD;
+          -  Allergies and Adverse Drug Reactions (like mastocytosis);&#xD;
+&#xD;
+          -  History of severe hypersensitivity reaction to any monoclonal antibody;&#xD;
+&#xD;
+          -  Underlying medical conditions that, in the Investigator's opinion, will make the&#xD;
+             administration of study drug(s) hazardous or obscure the interpretation of toxicity or&#xD;
+             adverse events;&#xD;
+&#xD;
+          -  Pregnant or nursing;&#xD;
+&#xD;
+          -  Concurrent medical condition requiring the use of immunosuppressive medications, or&#xD;
+             immunosuppressive doses of systemic or absorbable topical corticosteroids;&#xD;
+&#xD;
+          -  Use of other investigational drugs before study drug administration 30 days and 5&#xD;
+             half-times before study inclusion.&#xD;
+&#xD;
+        Relatlimab-specific exclusion Criteria:&#xD;
+&#xD;
+          -  Participants with history of myocarditis, regardless of etiology;&#xD;
+&#xD;
+          -  Troponin T (TnT) &gt; 2 × institutional ULN. Participants with TnT levels between &gt; 1 to&#xD;
+             2 × ULN will be permitted if a repeat levels within 24 hours are ≤ 1 ULN. If TnT&#xD;
+             levels are between &gt;1 to 2 × ULN within 24 hours, the participant may undergo a&#xD;
+             cardiac consultation and be considered for treatment, following cardiologist&#xD;
+             recommendation. When repeat levels within 24 hours are not available, a repeat test&#xD;
+             should be conducted as soon as possible. If TnT repeat levels beyond 24 hours are &lt; 2&#xD;
+             × ULN, the participant may undergo a cardiac consultation and be considered for&#xD;
+             treatment, following cardiologist recommendation. Notification of the decision to&#xD;
+             enroll the participant following cardiologist recommendation has to be made to the BMS&#xD;
+             Medical Monitor or designee.&#xD;
+&#xD;
+          -  Left ventricular ejection fraction (LVEF) assessment with documented LVEF &lt; 50% by&#xD;
+             either transthoracic echocardiogram (TTE) or multigated acquisition (MUGA) scan (TTE&#xD;
+             preferred test) within 6 months prior to start of study treatment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John Haanen, Prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical oncologist/researcher</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Axel Bex, Prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Urologist/researcher</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>John Haanen, Prof</last_name>
+    <phone>+31205129111</phone>
+    <email>j.haanen@nki.nl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Femke Burgers, MD</last_name>
+    <phone>+31205129111</phone>
+    <email>f.burgers@nki.nl</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Netherlands Cancer Institute</name>
+      <address>
+        <city>Amsterdam</city>
+        <state>NH</state>
+        <zip>1066CX</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>John Haanen, Prof</last_name>
+      <phone>+31205129111</phone>
+      <email>j.haanen@nki.nl</email>
+    </contact>
+    <contact_backup>
+      <last_name>Femke Burgers, MD</last_name>
+      <phone>+31205129111</phone>
+      <email>f.burgers@nki.nl</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Free London NHS Foundation Trust</name>
+      <address>
+        <city>London</city>
+        <zip>NW3 2QG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Axel Bex, Prof</last_name>
+      <phone>+442077940500</phone>
+      <email>a.bex@nki.nl</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 8, 2021</study_first_posted>
+  <last_update_submitted>November 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Resectable renal cell carcinoma</keyword>
+  <keyword>Checkpoint inhibition</keyword>
+  <keyword>Immunotherapy</keyword>
+  <keyword>PD-1 inhibitor</keyword>
+  <keyword>CTLA-4 inhibitor</keyword>
+  <keyword>LAG-3 inhibitor</keyword>
+  <keyword>Nivolumab</keyword>
+  <keyword>Ipilimumab</keyword>
+  <keyword>Relatlimab</keyword>
+  <keyword>Neoadjuvant</keyword>
+  <keyword>NESCIO</keyword>
+  <keyword>M21NSC</keyword>
+  <keyword>Checkpoint blockade</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma, Renal Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nivolumab</mesh_term>
+    <mesh_term>Ipilimumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

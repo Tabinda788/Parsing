@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9216">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05041283</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ARCHES</org_study_id>
+    <nct_id>NCT05041283</nct_id>
+  </id_info>
+  <brief_title>Impact of Artificial Intelligence-based Patient Reinforcement on Quality of Colonoscopy</brief_title>
+  <acronym>ARCHES</acronym>
+  <official_title>Impact of Artificial Intelligence-based Patient Reinforcement on Quality of Colonoscopy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Ulm</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Ulm</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In order to improve bowel preparation for colonoscopy and consequently enhance detection rate&#xD;
+      of malignant and premalignant findings, a prospective, randomized and controlled three-arm&#xD;
+      study was developed. Patients who undergo ambulatory colonoscopy are randomly assigned into a&#xD;
+      control group with standard preparation, a phone call supported preparation group or a group&#xD;
+      supported by an artificial intelligence based chatbot. Primary endpoint is defined as quality&#xD;
+      of bowel preparation (Boston Bowel Preparation Score), secondary endpoints are patients&#xD;
+      satisfaction, comprehensiveness of bowel preparation, sedation dose, rate of coecal&#xD;
+      intubation and the rate of adenoma and polyp detection, anxiety referred to colonoscopy and&#xD;
+      patients satisfaction with preparation support.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Adequate bowel preparation is crucial for detection of adenoma and polyps of the colon, which&#xD;
+      can transform into malignant and premalignant lesions. In particular ambulatory performed&#xD;
+      colonoscopy is often insufficient due to inadequate preparation by patients at home. To focus&#xD;
+      this issue, a artificial intelligence based chatbot was developed to help patients who&#xD;
+      undergo bowel preparation by answering questions concerning bowel preparation. To compare the&#xD;
+      effect of this program, a three-arm randomized, controled multicentric clinical trial was&#xD;
+      developed. All patients who undergo ambulatory colonoscopy and meet the inclusion criteria&#xD;
+      (18 y.o., informed consent, WhatsApp access) were randomized in a standard preparation group&#xD;
+      (medical briefing and preparation brochure), a group receiving phone calls with instructions&#xD;
+      for bowel preparation and a third group with access to the chat bot answering questions&#xD;
+      concerning bowel preparation and examination conduct. As the primary end point, the quality&#xD;
+      of bowel preparation measured as Boston Bowel Preparation Scale was defined. As secondary&#xD;
+      endpoints patients satisfaction, comprehensiveness of bowel preparation, sedation dose, rate&#xD;
+      of coecal intubation, the rate of adenoma and polyp detection, anxiety referred to&#xD;
+      colonoscopy and patients satisfaction with preparation support were measured.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 21, 2021</start_date>
+  <completion_date type="Anticipated">February 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Quality of bowel preparation</measure>
+    <time_frame>During colonoscopy</time_frame>
+    <description>evaluated with the Boston Bowel Preparation Scale (0-9, 1=worst preparation, 9= best preparation)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Patients satisfaction with bowel preparation</measure>
+    <time_frame>Immediately after the intervention</time_frame>
+    <description>Via questionnaire; 8 items, ordinal scale with 4 grades (completely satisfied/mainly satisfied/mainly dissatisfied/completely dissatisfied)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comprehensiveness of bowel preparation</measure>
+    <time_frame>During colonoscopy</time_frame>
+    <description>Rate of successfully completed colonoscopy without premature termination due to remaining feces(from anus to terminal ileum)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sedation dose</measure>
+    <time_frame>During colonoscopy</time_frame>
+    <description>Total amount of administered sedation per examination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Coecal intubation</measure>
+    <time_frame>During colonoscopy</time_frame>
+    <description>Successful coecal intubation during colonoscopy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Polyp and adenoma detection rate</measure>
+    <time_frame>During colonoscopy</time_frame>
+    <description>Rate of detected polyps and adenomas</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patients satisfaction with preparation support</measure>
+    <time_frame>Within 3 days after the intervention</time_frame>
+    <description>Via questionnaire; 8 items, ordinal scale with 4 grades (completely satisfied/mainly satisfied/mainly dissatisfied/completely dissatisfied)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety referred to colonoscopy</measure>
+    <time_frame>Within 3 days before the intervention and 3 days after the intervention; 8 items with binary answer yes/no)</time_frame>
+    <description>German ABI-MS questionnaire (questionnaire on overcoming fear considering medical therapy;</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">258</enrollment>
+  <condition>Bowel Preparation</condition>
+  <arm_group>
+    <arm_group_label>Standard Preparation</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Control arm; patients receive a standard support for bowel preparation consisting of a explanatory dialogue with a gastroenterologist and a brochure with a structurated description of bowel preparation and colonoscopy conduct</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phone-call Supported Preparation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>In addition to standard preparation, patients receive a phone call every day starting at 3 days before colonoscopy in which a investigator explains key points of bowel preparation and patients can ask questions concerning bowel preparation and colonoscopy conduct.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Chatbot Supported Preparation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In addition to standard preparation, patients receive an access to a chatbot which can be contacted via Whats App starting at 3 days before colonoscopy. The chatbot is programed to answer questions concerning bowel preparation and colonoscopy conduct.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Chatbot</intervention_name>
+    <description>A artificial-intelligence based chatbot is provided 3 days before colonoscopy to answer questions concerning bowel preparation and colonoscopy conduct.</description>
+    <arm_group_label>Chatbot Supported Preparation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Phone call</intervention_name>
+    <description>A phone call is performed every day starting at 3 days before colonoscopy to support bowel preparation.</description>
+    <arm_group_label>Phone-call Supported Preparation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  informed consent&#xD;
+&#xD;
+          -  smartphone with access to WhatsApp&#xD;
+&#xD;
+          -  indication for ambulatory colonoscopy&#xD;
+&#xD;
+          -  ASA I or II&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  no informed consent given or possible&#xD;
+&#xD;
+          -  no access to a smartphone with WhatsApp&#xD;
+&#xD;
+          -  &lt;18 years old&#xD;
+&#xD;
+          -  Pregnancy/Lactation&#xD;
+&#xD;
+          -  Allergy to Moviprep©&#xD;
+&#xD;
+          -  ASA (American Society of Anesthesiologists) state &gt;II&#xD;
+&#xD;
+          -  extended abdominal surgery in past history&#xD;
+&#xD;
+          -  no indication for ambulatory colonoscopy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Thomas Seufferlein, Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital Ulm</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Benjamin Walter, MD</last_name>
+    <phone>+49731/5000</phone>
+    <email>benjamin.walter@uniklinik-ulm.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Niklas Sturm, MD</last_name>
+    <phone>+49731/5000</phone>
+    <email>niklas.sturm@uniklinik-ulm.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Specialist Practice Profes. Dikopoulos/Ludwig</name>
+      <address>
+        <city>Ulm</city>
+        <state>Baden-Würrtemberg</state>
+        <zip>89081</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nektarios Dikopoulos, Prof.</last_name>
+      <phone>+497348 9671747</phone>
+      <email>info@praxis-endoskopie.de</email>
+    </contact>
+    <contact_backup>
+      <last_name>Leopold Ludwig, Prof.</last_name>
+      <phone>+497348 9671747</phone>
+      <email>info@praxis-endoskopie.de</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>University of Ulm, Interdisciplinary Endoscopy</name>
+      <address>
+        <city>Ulm</city>
+        <state>Baden-Würrtemberg</state>
+        <zip>89081</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>benjamin Walter, MD</last_name>
+      <phone>+497315000</phone>
+      <email>benjamin.walter@uniklinik-ulm.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Specialist Practice</name>
+      <address>
+        <city>Berlin</city>
+        <zip>13581</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jens Aschenbeck, MD</last_name>
+      <phone>+4930 - 331 44 44</phone>
+      <email>info@aschenbeck-berlin.de</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 13, 2021</study_first_posted>
+  <last_update_submitted>September 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Ulm</investigator_affiliation>
+    <investigator_full_name>Thomas Seufferlein</investigator_full_name>
+    <investigator_title>Prof. Dr. med.</investigator_title>
+  </responsible_party>
+  <keyword>Bowel Preparation</keyword>
+  <keyword>Artificial Intelligence</keyword>
+  <keyword>Polyp Detection</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

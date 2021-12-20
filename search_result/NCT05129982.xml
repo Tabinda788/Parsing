@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2395">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05129982</url>
+  </required_header>
+  <id_info>
+    <org_study_id>WBVsensor</org_study_id>
+    <nct_id>NCT05129982</nct_id>
+  </id_info>
+  <brief_title>Reliability of Methods for Determining the Vibration Threshold</brief_title>
+  <acronym>IPMTRH</acronym>
+  <official_title>Reliability of Methods for Determining the Vibration Threshold That Triggers the Reflex</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istanbul Physical Medicine Rehabilitation Training and Research Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Istanbul Physical Medicine Rehabilitation Training and Research Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      It is known that whole-body vibration (TVV) has beneficial neuromuscular effects such as&#xD;
+      muscle strength increase. These beneficial effects are explained by the muscular reflex&#xD;
+      response induced by TVV. Reflex latency measurement is frequently used in clinical and&#xD;
+      neurophysiological research. The latency of the reflex response induced by TVV is defined as&#xD;
+      the period between the onset of the vibration stimulus and the onset point of the spike in&#xD;
+      the EMG signal. Various methods have been reported to determine the threshold stimulus&#xD;
+      intensity at which the vibration stimulus activates the reflex response. In their study,&#xD;
+      Ritzman et al. accepted the lower point of the vibration platform as the threshold at which&#xD;
+      vibrational stimuli activate the reflex. In some studies, the threshold vibration stimulus&#xD;
+      intensity that activates the reflex response was determined by measuring the vibration&#xD;
+      platform thrust force, and in some studies, the vibration platform acceleration was measured.&#xD;
+      However, there is no scientific information about the reliability of these methods used to&#xD;
+      determine the vibration stimulus threshold. The aim of this research is to test the&#xD;
+      reliability of the methods based on the measurement of vibration platform position, thrust&#xD;
+      force, and acceleration used to determine the vibration stimulus threshold.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an experimental study for method development; a self-controlled (single group) study.&#xD;
+      Ten healthy male or female subjects between the ages of 18-45 will be included in the study.&#xD;
+      After obtaining informed consent from the subjects, 30 Hz low amplitude (2 mm) vibration for&#xD;
+      30 seconds will be applied on the PowerPlate Pro5 device to meet TVV. After three minutes of&#xD;
+      rest, two sets of TVV will be applied for test purposes. For the test TVV, vibration will be&#xD;
+      applied at 25, 30, 35, 40, 45, 50 Hz frequencies, each lasting 30 seconds, with low&#xD;
+      amplitude.&#xD;
+&#xD;
+      Vibration stimuli detected by using the position sensor, accelerometer, and force sensor&#xD;
+      fixed on the TVV platform will be recorded the Data acquisition (PowerLab data acquisition&#xD;
+      system (ADInstruments, Oxford, United Kingdom). Soleus EMG responses will be recorded using&#xD;
+      the superficial electrodes (Kendall Covidien). The sample rate for recordings will be 40KHz.&#xD;
+&#xD;
+      Latency calculation with Cumulative Average Method: It will be done separately for all three&#xD;
+      sensors. An 80-500 Hz band-pass filter and full-wave rectification will be applied to EMG&#xD;
+      recordings. The peak of reflex responses (spike) will be marked with the help of LabChart7&#xD;
+      (ver 7.3.7, ADInstruments, Oxford, United Kingdom). According to this marked point, 75 ms&#xD;
+      back averaging process will be applied for each vibration frequency separately. With the back&#xD;
+      averaging process, separate sensor records and EMG records will be averaged. Then, the&#xD;
+      average of the five vibration frequencies will be calculated for the sensor recordings and&#xD;
+      EMG recordings. The point where the standard error is lowest in the sensor recordings will be&#xD;
+      determined as the &quot;effective stimulation point&quot;, and the point where the standard error is&#xD;
+      the lowest in the EMG recordings will be determined as the &quot;reflex response onset time&quot;. The&#xD;
+      difference between the effective stimulation points and the EMG starting point will be&#xD;
+      calculated as the &quot;latency of the reflex response&quot;.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 29, 2021</start_date>
+  <completion_date type="Anticipated">December 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>self-controlled study</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>With the cumulative average method, latency estimation will be made blindly.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Threshold vibration stimulus</measure>
+    <time_frame>A single point in time (1 day)</time_frame>
+    <description>Threshold vibration stimulus intensity that activates the reflex response</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Reflex, Abnormal</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The reflex response will be recorded during whole-body vibration.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>whole body vibration</intervention_name>
+    <description>whole body vibration is a modality of physical therapy</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Both gender&#xD;
+&#xD;
+          -  20-40 aged&#xD;
+&#xD;
+          -  Healthy volunteer&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  People with any health problems&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 22, 2021</study_first_posted>
+  <last_update_submitted>November 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>sensor</keyword>
+  <keyword>vibration</keyword>
+  <keyword>reflex</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Reflex, Abnormal</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>The data that support the findings of this study are available from the corresponding author upon reasonable request.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

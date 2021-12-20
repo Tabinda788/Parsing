@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1512">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05141474</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VHIO20001</org_study_id>
+    <nct_id>NCT05141474</nct_id>
+  </id_info>
+  <brief_title>Assessment of the Safety and Tolerability of ex Vivo Next-generation Neoantigen-selected Tumor-infiltrating Lymphocyte (TIL) Therapy in Advanced Epithelial Tumors and Immune Checkpoint Blockade (ICB) Resistant Solid Tumors</brief_title>
+  <acronym>NEXTGENTIL-ACT</acronym>
+  <official_title>A Phase I Study to Assess the Safety and Tolerability of ex Vivo Next-generation Neoantigen-selected Tumor-infiltrating Lymphocyte (TIL) Therapy in Advanced Epithelial Tumors and Immune Checkpoint Blockade (ICB) Resistant Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vall d'Hebron Institute of Oncology</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Banc de Sang i Teixits</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Vall d'Hebron Institute of Oncology</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      The presence of T-lymphocytes in resected tumor samples derived from long-term survival&#xD;
+      patients and the fact that reinvigoration of their functionality through the administration&#xD;
+      of specific immune-therapies can lead to remarkable antitumor responses supports that&#xD;
+      lymphocytes play a critical role in cancer immunity.&#xD;
+&#xD;
+      Adoptive cell therapy using tumor-infiltrating lymphocytes product (TIL-ACT) is a&#xD;
+      well-established combination therapy currently under study in several world reference&#xD;
+      centers, using an autologous cell product without genetic modifications. This cell product&#xD;
+      consists of tumor-infiltrating lymphocytes (TIL), which are collected from the patient and&#xD;
+      expanded in the lab under specific conditions to enhance its antitumoral efficacy before&#xD;
+      reinfusion in the same patient. However, this cell product alone does not achieve adequate&#xD;
+      efficacy, and a combination of both previous non-myeloablative lymphodepleting (NMA-LD)&#xD;
+      chemotherapy and subsequent cytokine therapy (specifically IL-2) is needed to support the&#xD;
+      expansion of the infused cells.&#xD;
+&#xD;
+      The investigators hypothesize that TILs enriched for neoantigen recognition are superior to&#xD;
+      unselected TILs at mediating tumor regression in patients with epithelial tumors and even&#xD;
+      other solid tumors where immune checkpoint blockade (ICB) is approved and used as part of&#xD;
+      standard therapy. The investigators propose to manufacture a T-cell product composed of TILs&#xD;
+      that are selected based on their ability to recognize patient-specific neoantigens and to use&#xD;
+      these to treat patients with metastatic, refractory, epithelial cancers, as well as&#xD;
+      ICB-resistant solid tumors. Furthermore, it also proposed to study the tumor and T cells at&#xD;
+      baseline and after treatment to investigate whether specific phenotypic and functional traits&#xD;
+      may be associated with clinical outcome.&#xD;
+&#xD;
+      Primary objective:&#xD;
+&#xD;
+      To evaluate the safety and the tolerability of ex vivo next generation neoantigen-selected&#xD;
+      Tumor-infiltrating Lymphocyte (TIL) in patients with metastatic or unresectable epithelial&#xD;
+      tumors and immune checkpoint blockade (ICB) resistant solid tumors.&#xD;
+&#xD;
+      Secondary objectives:&#xD;
+&#xD;
+        -  To determine the success in producing active specific TILs from our target patients.&#xD;
+&#xD;
+        -  To evaluate the initial clinical activity of the NEXTGEN-TIL products in our target&#xD;
+           patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Methods:&#xD;
+&#xD;
+      This study is a first-in-human, open-label, non-controlled, single-centre, phase I trial to&#xD;
+      assess the safety and tolerability of NEXTGEN-TIL-ACT. Given the exploratory nature of the&#xD;
+      study, there is no formal hypothesis testing and no formal sample size calculation was&#xD;
+      carried out.&#xD;
+&#xD;
+      A sample size of 10 patients has been selected to provide information about the frequency of&#xD;
+      treatment-limiting toxicity (TLT).&#xD;
+&#xD;
+      Study treatment:&#xD;
+&#xD;
+      The main study therapy is the Tumor-infiltrating Lymphocyte (NEXTGEN-TIL) product, which is&#xD;
+      preceded by a preparative non-myeloablative lymphodepleting (NMA-DL) regimen and followed by&#xD;
+      IL-2 infusion.&#xD;
+&#xD;
+      NEXTGEN-TIL product is a cellular investigational product comprising a live cell suspension&#xD;
+      of autologous tumor-infiltrating lymphocytes derived from the patient's own tumor.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 28, 2021</start_date>
+  <completion_date type="Anticipated">January 1, 2027</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2027</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>First-in-human, open-label, non-controlled, single-centre, phase I trial. Sequential recruitment: The first six patients will be included for safety assessment. If no more than one treatment-limiting toxicity (TLT) is observed, four additional patients will be included for the final safety population analysis (a total of 10 patients).</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of Adverse Events (AE)</measure>
+    <time_frame>From baseline through 6 months from the last dose of IL-2 or until the first dose of the next anticancer therapy, whichever occurs first</time_frame>
+    <description>Nature and frequency of AE, graded according to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) v5.0.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of Serious Adverse Events (SAE)</measure>
+    <time_frame>From baseline through 6 months from the last dose of IL-2 or until the first dose of the next anticancer therapy, whichever occurs first</time_frame>
+    <description>Nature and frequency of SAE, graded according to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) v5.0.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment-limiting Toxicity (TLT)</measure>
+    <time_frame>From the first dose of study treatment (Day -5) to 30 days after</time_frame>
+    <description>Toxicities related to treatment administration that, if recurrent at high enough frequency (≥2 patients treated), should trigger review by the Independent Data Safety Monitoring Board (IDSMB), which could lead to recommendations for treatment modifications for subsequent patients.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of alterations in clinical laboratory test results</measure>
+    <time_frame>From baseline through study completion, an average of 2 years</time_frame>
+    <description>Nature and frequency of abnormalities found in clinical laboratory test results</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of alterations in electrocardiogram assessment</measure>
+    <time_frame>From baseline through study completion, an average of 2 years</time_frame>
+    <description>Nature and frequency of abnormalities found in electrocardiogram</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of alterations in vital signs measurements</measure>
+    <time_frame>From baseline through study completion, an average of 2 years</time_frame>
+    <description>Nature and frequency of abnormalities found in vital signs.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of physical examination findings</measure>
+    <time_frame>From baseline through study completion, an average of 2 years</time_frame>
+    <description>Nature and frequency of abnormalities found in the physical examination.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assessment of performance status</measure>
+    <time_frame>From baseline through study completion, an average of 2 years</time_frame>
+    <description>Patient performance status assessed as per Eastern Cooperative Oncology Group (ECOG) score, where grade 0 is for fully active and capable patient and grade 5 is death.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Neoantigen-selected TIL analysis</measure>
+    <time_frame>At baseline</time_frame>
+    <description>Rate of successful neoantigen-selected TIL (NEXTGEN-TIL) generation from biopsied patients and frequency of neoantigen-specific TILs in all TILs produced from biopsied patients included in this trial.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response Rate (ORR)</measure>
+    <time_frame>From baseline through disease progression, assessed up to 36 months after last dose of IL-2</time_frame>
+    <description>ORR per RECIST v1.1 as assessed by investigator, defined as proportion of patients who have a partial or complete response to therapy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DOR)</measure>
+    <time_frame>From baseline through disease progression, assessed up to 36 months after last dose of IL-2</time_frame>
+    <description>DOR per RECIST v1.1 as assessed by investigator, defined as the time elapsed between the initial response to therapy and subsequent disease progression or relapse.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival (PFS)</measure>
+    <time_frame>From baseline through disease progression, assessed up to 36 months after last dose of IL-2</time_frame>
+    <description>PFS per RECIST v1.1 as assessed by investigator, defined as the time from the date of treatment administration to the date of first documentation of disease progression or death due to any cause, whichever occurs first. For a patient who has not progressed and is last known to be alive, PFS will be censored at the last response assessment that is stable disease (SD) or better.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Epithelial Tumors, Malignant</condition>
+  <condition>Malignant Solid Tumor</condition>
+  <arm_group>
+    <arm_group_label>NEXTGEN-TIL</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive a therapy based on Tumor-infiltrating Lymphocyte (NEXTGEN-TIL product) preceded by a preparative non-myeloablative lymphodepleting (NMA-DL) regimen and followed by IL-2 infusion. Patients will be followed-up for 2 years, assessed at weeks 2, 3, 4, 6, 9, 12, 18, 24, 30, 36 (9 months), and then at 1 year, 1,5 and 2 years.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>NEXTGEN-TIL</intervention_name>
+    <description>NEXTGEN-TIL product is a cellular investigational product comprising a live cell suspension of autologous tumor-infiltrating lymphocytes derived from the patient's own tumor.&#xD;
+Each dose contains at least 5 x 10^8 total viable lymphocytes, and a maximum of 1.11x10^11. It will be administered IV on Day 0 (24h after the last dose of Fludarabine).</description>
+    <arm_group_label>NEXTGEN-TIL</arm_group_label>
+    <other_name>Tumor-infiltrating Lymphocyte Adoptive Cell Therapy</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Non-myeloablative Lymphodepletion (NMA-LD) Regimen</intervention_name>
+    <description>Patients will receive a NMA-LD chemotherapy based on Cyclophosphamide 60 mg/kg IV (once daily on Days -5 and -4) and Fludarabine 25 mg/m2 IV (once daily on Days -5 to -1).</description>
+    <arm_group_label>NEXTGEN-TIL</arm_group_label>
+    <other_name>Cyclophosphamide</other_name>
+    <other_name>Fludarabine</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Interleukin-2</intervention_name>
+    <description>Patients will receive sequential doses of 720,000 IU/kg IV IL-2 every 8-24 hours depending on patient tolerance. It will be administered on Days 0 to 2, starting between 3 and 24 hours after the completion of NEXTGEN-TIL infusion.&#xD;
+IL-2 doses may be skipped in case of toxicity. If 2 sequential doses or more than 2 non-sequential doses of IL-2 are skipped due to patient intolerance or the discretion of the investigator, IL-2 administration must be stopped.</description>
+    <arm_group_label>NEXTGEN-TIL</arm_group_label>
+    <other_name>IL-2</other_name>
+    <other_name>Aldesleukin</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria in the pretreatment phase:&#xD;
+&#xD;
+          1. Patients must have histologically or cytologically proven metastatic or unresectable&#xD;
+             solid tumors. The disease must have progressed to at least one standard therapy&#xD;
+             (including at least one prior line with ICB for the group of patients with tumors&#xD;
+             where ICB is approved), or the patient is unable/unwilling to receive standard therapy&#xD;
+             or no standard therapy exists for a particular disease.&#xD;
+&#xD;
+          2. Patients must have at least one adequate lesion (primary tumor or metastasis) for&#xD;
+             resection or biopsy for TIL generation with minimal morbidity (preferentially using&#xD;
+             imaging-guided minimally invasive procedures).&#xD;
+&#xD;
+             Note: If this lesion was previously irradiated, the lesion must have demonstrated&#xD;
+             progression prior to resection/biopsy.&#xD;
+&#xD;
+          3. Patient must be at least 18 years old at the tissue procurement visit.&#xD;
+&#xD;
+          4. Patient must understand and voluntarily sign an informed consent document before any&#xD;
+             study-related assessments/procedures being conducted.&#xD;
+&#xD;
+          5. Patient must be able and willing to comply to the study visit schedule and protocol&#xD;
+             requirements.&#xD;
+&#xD;
+          6. Patients must have a clinical performance of Eastern Cooperative Oncology Group 0 or&#xD;
+             1.&#xD;
+&#xD;
+          7. Patients are considered medically fit enough by investigator to undergo all study&#xD;
+             procedures and interventions.&#xD;
+&#xD;
+          8. Patients with documented left ventricular ejection fraction (LVEF) of ≥45%.&#xD;
+&#xD;
+          9. Patients with documented forced expiratory volume at one second (FEV1), forced vital&#xD;
+             capacity (FVC) and diffusing capacity of lung for carbon monoxide (DLCO) ≥50% tested&#xD;
+             by a pulmonary function test.&#xD;
+&#xD;
+         10. Patients must be seronegative for HIV antibody (patients who are HIV seropositive may&#xD;
+             be less responsive and more susceptible to toxicities related to this experimental&#xD;
+             treatment since they may have a decreased immune competence).&#xD;
+&#xD;
+         11. Patients must be seronegative for active hepatitis B (defined as having a negative&#xD;
+             hepatitis B surface antigen [HBsAg] test), and seronegative for hepatitis C (HCV)&#xD;
+             antibody. Patients with a history of hepatitis B virus (HBV) infection and having a&#xD;
+             negative HBsAg test and a positive antibody to hepatitis B surface antigen (HBsAg) are&#xD;
+             eligible. Patients with the hepatitis C antibody test positive are eligible only if&#xD;
+             tested for the presence of antigen by RT-PCR and be HCV RNA negative.&#xD;
+&#xD;
+         12. Life expectancy ≥6 months.&#xD;
+&#xD;
+         13. Patients who are of childbearing potential (postmenarcheal who has not reached a&#xD;
+             postmenopausal state and has not undergone surgical sterilization) or have partners of&#xD;
+             childbearing potential must agree to use a highly effective method of contraception&#xD;
+             during the study and for at least 6 months after the last dose of IL-2.&#xD;
+&#xD;
+        Inclusion Criteria in the treatment phase:&#xD;
+&#xD;
+          1. The disease must have progressed to the last standard therapy, including at least one&#xD;
+             prior line with ICB for the group of patients with tumors where ICB is approved, and&#xD;
+             no subsequent approved therapy is available, or the patients are unable/unwilling to&#xD;
+             receive standard therapy, or no standard therapy exists for a particular disease.&#xD;
+&#xD;
+          2. Patients must have a remaining measurable disease as defined by RECIST v. 1.1 criteria&#xD;
+             following tumor resection/biopsy for NEXTGEN-TIL manufacturing.&#xD;
+&#xD;
+             Note: Lesions previously irradiated should not be selected as target lesions unless&#xD;
+             there has been demonstrated progression in those lesions.&#xD;
+&#xD;
+          3. Patients must understand and voluntarily sign an informed consent document before any&#xD;
+             study-related assessments/procedures being conducted.&#xD;
+&#xD;
+          4. Patients must be able and willing to comply with the study visit schedule and protocol&#xD;
+             requirements.&#xD;
+&#xD;
+          5. Patients must have a clinical performance of Eastern Cooperative Oncology Group (ECOG)&#xD;
+             0 or 1.&#xD;
+&#xD;
+          6. Patients are considered medically fit enough to undergo all study procedures and&#xD;
+             interventions and adequate hematological, renal and hepatic functions defined by:&#xD;
+&#xD;
+               1. Haemoglobin ≥9.0 g/dL.&#xD;
+&#xD;
+               2. An absolute neutrophil count ≥1000/mm3 without the support of filgrastim.&#xD;
+&#xD;
+               3. Platelets ≥ 100 x10⁹ /mm3.&#xD;
+&#xD;
+               4. PT and aPTT ≤1.5 x upper limit of normal (ULN, unless receiving therapeutic&#xD;
+                  anticoagulation). Subjects receiving therapeutic anticoagulation (such as&#xD;
+                  low-molecularweight heparin or warfarin) should be on a stable dose.&#xD;
+&#xD;
+               5. AST or ALT ≤3 x ULN. Patients with liver metastases must have AST and ALT ≤5.0 x&#xD;
+                  ULN.&#xD;
+&#xD;
+               6. Total bilirubin &lt;2 mg/dL. Patients with Gilbert's Syndrome must have a total&#xD;
+                  bilirubin ≤3.0 mg/dL.&#xD;
+&#xD;
+               7. Serum creatinine &lt;1.5 mg/dL or measured creatinine clearance ≥50 ml/min&#xD;
+                  calculated using the Cockcroft-Gault glomerular filtration rate estimation: (140&#xD;
+                  - age) × (weight in kg) × (0.85 if female)/72 × (serum creatinine in mg/dL).&#xD;
+&#xD;
+          7. Patients must be seronegative for HIV antibody.&#xD;
+&#xD;
+          8. Patients must be seronegative for active hepatitis B (defined as having a negative&#xD;
+             hepatitis B surface antigen [HBsAg] test), and seronegative for hepatitis C antibody.&#xD;
+             Patients with a history of hepatitis B virus (HBV) infection and having a negative&#xD;
+             HBsAg test and a positive antibody to hepatitis B surface antigen (HBsAg) are&#xD;
+             eligible. Patients with the hepatitis C antibody test positive are eligible only if&#xD;
+             tested for the presence of antigen by RT-PCR and be HCV RNA negative.&#xD;
+&#xD;
+          9. Life expectancy ≥3 months.&#xD;
+&#xD;
+         10. Patients who are of childbearing potential (postmenarcheal who has not reached a&#xD;
+             postmenopausal state and has not undergone surgical sterilization) or have partners of&#xD;
+             childbearing potential must agree to use a highly effective method of contraception&#xD;
+             during the study and for at least 6 months after the last dose of IL-2.&#xD;
+&#xD;
+         11. Female participants: a female participant is eligible to participate if she is not&#xD;
+             pregnant, not breastfeeding, and at least one of the following conditions applies:&#xD;
+&#xD;
+               1. Women of non-childbearing potential (WONCBP).&#xD;
+&#xD;
+               2. Women of childbearing potential (WOCBP), who:&#xD;
+&#xD;
+             i. Agree to remain abstinent (refrain from heterosexual intercourse) or use&#xD;
+             contraceptive methods that result in a failure rate of &lt;1% per year from screening&#xD;
+             until 6 months after the infusion of the NEXTGEN-TIL product. Examples of&#xD;
+             contraceptive methods with a failure rate of &lt;1% per year include bilateral tubal&#xD;
+             occlusion, male sterilization, and copper intrauterine devices.&#xD;
+&#xD;
+             ii. Have a negative pregnancy test (blood) within one week before the first study&#xD;
+             treatment administration (applicable to premenopausal women and women ≤2 years after&#xD;
+             the start of menopause (menopause is defined as amenorrhea for &lt;2 years).&#xD;
+&#xD;
+         12. Male Participants: during the treatment period and for at least 2 months after the&#xD;
+             last dose of study treatment, agreement to:&#xD;
+&#xD;
+               1. Remain abstinent (refrain from heterosexual intercourse) or use contraceptive&#xD;
+                  measures such as a condom or a contraceptive method that result in a failure rate&#xD;
+                  of &lt;1% per year, with partners who are WOCBP.&#xD;
+&#xD;
+               2. Refrain from donating sperm during the study.&#xD;
+&#xD;
+               3. Inform if his partner gets pregnant during this time.&#xD;
+&#xD;
+         13. Any toxicity related to prior systemic therapy must have recovered to grade 1 or less&#xD;
+             according to NCI-CTCAE v5.0 at least 4 weeks before treatment enrollment, except for&#xD;
+             alopecia, vitiligo, or endocrinopathy managed with replacement therapy, and Grade ≤2&#xD;
+             peripheral neuropathy.&#xD;
+&#xD;
+             Note: Other Grade 2 AEs that are deemed clinically insignificant by treating physician&#xD;
+             and in consultation with Medical Monitor are permitted.&#xD;
+&#xD;
+         14. Patients may have undergone minor surgical procedures within the past 3 weeks, as long&#xD;
+             as all toxicities have recovered to grade 1 or less.&#xD;
+&#xD;
+        Exclusion Criteria (any phase):&#xD;
+&#xD;
+          1. Patients with symptomatic and/or untreated brain metastases. Note: Patients with&#xD;
+             definitively-treated brain metastases will be considered for enrollment after&#xD;
+             discussion with Medical Monitor; if, prior to the start of NMA-LD the patient is&#xD;
+             clinically stable for ≥3 months, there are no new brain lesions via magnetic resonance&#xD;
+             imaging (MRI) post-treatment, and the patient does not require corticosteroid&#xD;
+             treatment &gt;10 mg prednisone or equivalent per day.&#xD;
+&#xD;
+          2. Patients with leptomeningeal carcinomatosis.&#xD;
+&#xD;
+          3. Patients with an active concurrent or history within the past 3 years of invasive&#xD;
+             malignancy, except for non-melanoma skin cancer, cervical and bladder carcinoma in&#xD;
+             situ, good prognosis ductal carcinoma in situ of the breast, or prostate carcinoma&#xD;
+             that is in remission under androgen deprivation therapy for &gt; 2 years. Other&#xD;
+             exceptions may apply and require discussion between the Investigator and the Medical&#xD;
+             Monitor.&#xD;
+&#xD;
+          4. Patients with an active systemic infection requiring anti-infective treatment within&#xD;
+             14 days before preparative lymphodepleting therapy.&#xD;
+&#xD;
+          5. Patients with active hepatitis B or hepatitis C.&#xD;
+&#xD;
+          6. Patients with active autoimmune disease requiring immunosuppressive treatments.&#xD;
+&#xD;
+          7. Patients with a history of organ or bone marrow transplantation.&#xD;
+&#xD;
+          8. Patients with any form of primary immunodeficiency (such as Severe Combined&#xD;
+             Immunodeficiency Disease and AIDS).&#xD;
+&#xD;
+          9. Patients requiring regular treatment with steroids at a dose higher than prednisone 10&#xD;
+             mg/day (or equivalent).&#xD;
+&#xD;
+             Note: use of inhaled, topical steroids and use of systemic physiologic corticosteroid&#xD;
+             replacement therapy are permitted.&#xD;
+&#xD;
+         10. Patients with current or history within the last 6 months, as determined by the&#xD;
+             Investigator, of clinically significant, progressive, and/or uncontrolled renal,&#xD;
+             hepatic, hematological, endocrine, pulmonary, cardiac, gastroenterological or&#xD;
+             neurological disease.&#xD;
+&#xD;
+         11. Patients with a history of coronary revascularization or ischemic symptoms.&#xD;
+&#xD;
+         12. History of idiopathic pulmonary fibrosis or evidence of active pneumonitis (any&#xD;
+             origin)&#xD;
+&#xD;
+         13. Patients with allergies to any of the compounds included in any of the treatment&#xD;
+             products.&#xD;
+&#xD;
+         14. Patients with contraindications for cyclophosphamide, fludarabine and IL-2 at per&#xD;
+             protocol doses.&#xD;
+&#xD;
+         15. Patients who have received any approved anti-cancer cytotoxic, anti-angiogenic and ICB&#xD;
+             therapy including radiotherapy within 4 weeks before preparative lymphodepleting&#xD;
+             therapy. Exception: palliative radiotherapy for bone metastasis &gt;2 weeks before&#xD;
+             preparative lymphodepleting therapy, denosumab, bisphosphonates, androgen deprivation&#xD;
+             therapy for prostate cancer and hormonal therapy for breast cancer.&#xD;
+&#xD;
+         16. Patients who have received any non-cytotoxic drug and molecular targeted therapy&#xD;
+             within 4 weeks before preparative lymphodepleting therapy (or within five half-lives&#xD;
+             of the investigational product, whichever is shorter).&#xD;
+&#xD;
+         17. Patients who have received any investigational agent within 4 weeks before preparative&#xD;
+             lymphodepleting therapy (or within five half-lives of the investigational product,&#xD;
+             whichever is shorter).&#xD;
+&#xD;
+         18. Patients who have received a live, attenuated vaccination within the 4 weeks before&#xD;
+             lymphodepleting therapy.&#xD;
+&#xD;
+         19. Patients who have undergone major surgery in the previous 3 weeks before&#xD;
+             lymphodepleting therapy.&#xD;
+&#xD;
+         20. Patients who have previously received any investigational cell or gene therapies.&#xD;
+&#xD;
+         21. Women of childbearing potential who are pregnant or breastfeeding.&#xD;
+&#xD;
+         22. Presence of any psychological, familial, sociological or geographical condition&#xD;
+             potentially hampering compliance with the study protocol and follow-up schedule; those&#xD;
+             conditions should be discussed with the patient before registration in the trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Elena Garralda</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Vall d'Hebron Institute of Oncology</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Elena Garralda</last_name>
+    <phone>0034 93 489 30 00</phone>
+    <email>egarralda@vhio.net</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Susana Muñoz</last_name>
+    <email>smunoz@vhio.net</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Vall d'Hebron Institute of Oncology</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elena Garralda, MD</last_name>
+      <phone>0034 93 489 30 00</phone>
+      <email>egarralda@vhio.net</email>
+    </contact>
+    <investigator>
+      <last_name>Elena Garralda, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Vladimir Galvão de Aguiar, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 28, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 2, 2021</study_first_posted>
+  <last_update_submitted>November 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Immune checkpoint blockade resistant tumors</keyword>
+  <keyword>Tumor-infiltrating Lymphocyte</keyword>
+  <keyword>Adoptive Cell Therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Neoplasms, Glandular and Epithelial</mesh_term>
+    <mesh_term>Carcinoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Aldesleukin</mesh_term>
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Fludarabine</mesh_term>
+    <mesh_term>Interleukin-2</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

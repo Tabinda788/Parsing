@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8271">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05053568</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NL73416.041.20</org_study_id>
+    <secondary_id>404460098327</secondary_id>
+    <secondary_id>LSHM191o3-Ho7o</secondary_id>
+    <nct_id>NCT05053568</nct_id>
+  </id_info>
+  <brief_title>Image Supported Lead Placement in CRT</brief_title>
+  <acronym>ADVISE</acronym>
+  <official_title>Advanced Image Supported Lead Placement in Cardiac Resynchronization Therapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UMC Utrecht</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>CART-Tech B.V.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>ZonMw: The Netherlands Organisation for Health Research and Development</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Health Holland</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>UMC Utrecht</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Cardiac resynchronization therapy (CRT) is an established pacemaker therapy for patients with&#xD;
+      symptomatic chronic heart failure, but is hampered by a non-response rate of 30-40%.&#xD;
+      Optimising left ventricular (LV) lead placement is the cornerstone of improving treatment.&#xD;
+      The optimal location for the lead is remote from scar but within segments demonstrating late&#xD;
+      electromechanical activation. The present study aims to investigate the efficacy and clinical&#xD;
+      effect of the use of real-time guided lead placement using cardiac MRI and fluoroscopy in a&#xD;
+      blinded, multicenter, randomized controlled trial.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 8, 2021</start_date>
+  <completion_date type="Anticipated">February 2025</completion_date>
+  <primary_completion_date type="Anticipated">April 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Differences in % of patients with succesfull LV lead location</measure>
+    <time_frame>Direct post-CRT</time_frame>
+    <description>Lead location, defined as being within, adjacent, or remote from the pre-defined target.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in reverse remodelling and volumetric response</measure>
+    <time_frame>6 months</time_frame>
+    <description>Measured as the relative decrease in LV end-systolic volume, indexed to body surface area (LVESVi). Response defined as LVESVi-reduction ≥ 15%.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in EQ-5D-5L</measure>
+    <time_frame>6, 12 and 24 months</time_frame>
+    <description>A quality of life questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Kansas City Cardiomyopathy Questionnaire</measure>
+    <time_frame>6, 12 and 24 months</time_frame>
+    <description>A quality of life questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in CRT response score</measure>
+    <time_frame>12 months</time_frame>
+    <description>A hierarchical clinical endpoints, combining relative LVESVi-decrease, change in New York Heart Association class, and death at 12 month follow-up.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health Technology Assessment</measure>
+    <time_frame>24 months</time_frame>
+    <description>The value of image-guided lead placement will be investigated in terms of healthcare expenditure revolving heart failure care. This assesment will be based on a previously conducted preliminary economic analysis.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Difference in total implantation procedure time.</measure>
+    <time_frame>Direct post-CRT</time_frame>
+    <description>Compared between both groups. Measured in minutes.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Difference in total fluoroscopy time during procedure.</measure>
+    <time_frame>Direct post-CRT</time_frame>
+    <description>Compared between both groups. Measured in minutes.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Difference in total contrast dose used during procedure.</measure>
+    <time_frame>Direct post-CRT</time_frame>
+    <description>Compared between both groups. Measured in dose area product.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Difference in change in QRS duration</measure>
+    <time_frame>Direct post-CRT and 6 months</time_frame>
+    <description>Compared between groups and according to LV lead location. Measured in ms.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Difference in change in QRSarea</measure>
+    <time_frame>Direct post-CRT and 6 months</time_frame>
+    <description>Compared between groups and according to LV lead location. Measured in μVs.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Difference in Q-LV sense</measure>
+    <time_frame>Direct post-CRT</time_frame>
+    <description>Compared between groups and according to LV lead location. Measured in ms.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Difference in pacing threshold</measure>
+    <time_frame>Direct post-CRT</time_frame>
+    <description>Compared between groups and according to LV lead location. Measured in mV.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Difference in % of patients with disappearance of apical rocking</measure>
+    <time_frame>Direct post-CRT and 6 months</time_frame>
+    <description>Compared between groups and according to LV lead location. Option to assess other indices of mechanical recoordination.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">130</enrollment>
+  <condition>Heart Failure</condition>
+  <arm_group>
+    <arm_group_label>Intervention group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Live visualised, fluoroscopy-fused, image-guided, left ventricular lead placement on the basis of avoiding scar and targeting late mechanically activated segments.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Empirical standard-of-care left ventricular lead placement, in line with current CRT implantation guidelines with electrical guiding on the basis of Q-LV sense.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>CARTBox</intervention_name>
+    <description>CARTBox performs analysis of cardiac MRI scans. The result is a treatment file that displays optimal targets for left ventricular lead implantation in CRT. This file will be used as an overlay with live fluoroscopy during the implantation procedure in the intervention group.</description>
+    <arm_group_label>Intervention group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Heart failure with LV ejection fraction ≤ 35%;&#xD;
+&#xD;
+          -  New York Heart Association class II, III, or IV (ambulatory);&#xD;
+&#xD;
+          -  Optimal medical treatment that is tolerable;&#xD;
+&#xD;
+          -  Left bundle branch block (LBBB) and QRS ≥ 130 ms, OR non-LBBB and QRS ≥ 150 ms.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnancy or lactation;&#xD;
+&#xD;
+          -  Subjects with impaired renal function (severe renal insufficiency, GFR &lt; 30&#xD;
+             ml/min/1.73m2);&#xD;
+&#xD;
+          -  Atrial fibrillation or atrial fibrillation during MRI&#xD;
+&#xD;
+          -  Documented allergic reaction to gadolinium;&#xD;
+&#xD;
+          -  Impossibility to undergo an MRI scan;&#xD;
+&#xD;
+          -  Participation in another clinical study that prohibits any procedures other than&#xD;
+             standard.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mathias Meine, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UMC Utrecht</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mathias Meine, MD, PhD</last_name>
+    <phone>+31887574099</phone>
+    <email>m.meine@utrecht.nl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Philippe Wouters, MD</last_name>
+    <phone>+31887574375</phone>
+    <email>p.wouters@umcutrecht.nl</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Amsterdam UMC</name>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Vokko van Halm, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UMC Groningen</name>
+      <address>
+        <city>Groningen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alexander Maass, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Maastricht UMC+</name>
+      <address>
+        <city>Maastricht</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Kevin Vernooy, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Antonius Nieuwegein</name>
+      <address>
+        <city>Nieuwegein</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vincent van Dijk, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UMC Utrecht</name>
+      <address>
+        <city>Utrecht</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mathias Meine, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Isala Zwolle</name>
+      <address>
+        <city>Zwolle</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Peter Paul Delnoy, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>August 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 22, 2021</study_first_posted>
+  <last_update_submitted>September 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>UMC Utrecht</investigator_affiliation>
+    <investigator_full_name>M. Meine</investigator_full_name>
+    <investigator_title>Principal Investigator (MD, PhD)</investigator_title>
+  </responsible_party>
+  <keyword>Cardiac Resynchronization Therapy</keyword>
+  <keyword>Image-guided therapy</keyword>
+  <keyword>Lead placement</keyword>
+  <keyword>MRI</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Failure</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Within legal and ethical limits, deidentified individual clinical trial participant-level data (IPD), generated by our research, can be made available. Upon publication, data will be made available upon reasonable request and in agreement with a collaboration agreement. A data sharing and management plan is provided.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

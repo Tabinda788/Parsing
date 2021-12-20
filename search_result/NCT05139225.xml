@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1685">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05139225</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-122</org_study_id>
+    <nct_id>NCT05139225</nct_id>
+  </id_info>
+  <brief_title>A Study of TTI-621 and TTI-622 in Combination With Daratumumab Hyaluronidase-fihj in People With Multiple Myeloma</brief_title>
+  <official_title>A Phase Ib Study Of The Combination Of CD47 Blockade With SIRP-Alpha FC Fusion Proteins (TTI-621 Or TTI-622) And Daratumumab Hyaluronidase-fihj For Patients With Relapsed or Refractory Multiple Myeloma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memorial Sloan Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Trillium Therapeutics Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Memorial Sloan Kettering Cancer Center</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will test the safety of TTI-621 or TTI-622 in combination with daratumumab&#xD;
+      hyaluronidase-fihj in people with relapsed/refractory multiple myeloma. The researchers look&#xD;
+      for the highest dose of TTI-621 and TTI-622 that causes few or mild side effects in&#xD;
+      participants when given in combination with daratumumab hyaluronidase-fihj. Once the&#xD;
+      researchers find the highest safe dose of each study drug, they will further test the&#xD;
+      combinations (TTI-621 + daratumumab hyaluronidase-fihj and TTI-622 + daratumumab&#xD;
+      hyaluronidase-fihj) in new participants to find out if the combinations are effective in&#xD;
+      treating relapsed/refractory multiple myeloma. Researchers think that combining TTI-621 or&#xD;
+      TTI-622 with daratumumab hyaluronidase-fihj, a standard treatment for multiple myeloma, may&#xD;
+      be an effective treatment approach.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 28, 2021</start_date>
+  <completion_date type="Anticipated">October 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>A standard 3+3 dose escalation design will be implemented, starting from dose 1 for cohort A and B.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of dose-limiting toxicities</measure>
+    <time_frame>28-day observation period following C1D1 of therapy</time_frame>
+    <description>Dose limiting toxicities are defined as any of the following treatment emergent adverse events that occur during the 28-day DLT observation period, inclusive of pre-dose testing on C2D1. Adverse events for which a relationship to study treatment cannot be ruled out should be considered possibly related to treatment. Toxicity grading will be adjudicated according to NCI CTCAE version 5.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall response of TTI-621</measure>
+    <time_frame>2 years</time_frame>
+    <description>measurable disease parameters and International Myeloma Working Group (IMWG) response criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall response of TTI-622</measure>
+    <time_frame>2 years</time_frame>
+    <description>measurable disease parameters and International Myeloma Working Group (IMWG) response criteria</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Multiple Myeloma</condition>
+  <arm_group>
+    <arm_group_label>TTI-621 + Daratumumab Hyaluronidase-fihj</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>TTI-622 + Daratumumab Hyaluronidase-fihj</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>TTI-621</intervention_name>
+    <description>Level 1- 1.0 mg/kg The appropriate dose of TTI-621 will be administered IV over 60 minutes, however, can be extended up to 4 hours to mitigate Infusion-related reactions.&#xD;
+Level 2- 1.4 mg/kg&#xD;
+Level 3- 2.0 mg/kg&#xD;
+TTI-621 as per dose level administered on days 2, 8, 15, and 22</description>
+    <arm_group_label>TTI-621 + Daratumumab Hyaluronidase-fihj</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>TTI-622</intervention_name>
+    <description>Level 1- 8mg/kg The appropriate dose of TTI-622 will be administered IV over 60 minutes&#xD;
+Level 2- 12mg/kg&#xD;
+Level 3- 18mg/kg&#xD;
+TTI-622 as per dose level administered on days 2, 8, 15, and 22.</description>
+    <arm_group_label>TTI-622 + Daratumumab Hyaluronidase-fihj</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Daratumumab Hyaluronidase-fihj</intervention_name>
+    <description>Daratumumab hyaluronidase-fihj SC 1800 mg days 1, 8, 15, and 22.</description>
+    <arm_group_label>TTI-621 + Daratumumab Hyaluronidase-fihj</arm_group_label>
+    <arm_group_label>TTI-622 + Daratumumab Hyaluronidase-fihj</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with relapsed or refractory multiple myeloma, as defined by the international&#xD;
+             myeloma working group (IMWG) updated criteria (Appendix A) who have measurable disease&#xD;
+             defined by one or more of the following:&#xD;
+&#xD;
+               1. Serum myeloma (M)-protein greater than or equal to 0.5 g/dL (5 g/L).&#xD;
+&#xD;
+               2. Urine M-protein greater or equal to 200 mg/24 h.&#xD;
+&#xD;
+               3. Involved light chain (either kappa or lambda) is &gt;10 mg/dL with an abnormal&#xD;
+                  kappa: lambda ratio.&#xD;
+&#xD;
+               4. A biopsy proven plasmacytoma(s) that is new or definitely increased. Increase is&#xD;
+                  defined as a 50% and at least 1 cm increase as measured serially by the sum of&#xD;
+                  the products of the cross-diameters of the measurable lesion.&#xD;
+&#xD;
+          -  Patients must have received at least 3 prior lines of therapy and have been previously&#xD;
+             exposed to a proteasome inhibitor, an IMiD and be considered refractory to an&#xD;
+             FDAapproved anti-CD38 mAb used either in combination or as a single agent. Refractory&#xD;
+             is defined as progression on or within 60 days of receiving a treatment program&#xD;
+             containing an anti-CD38 monoclonal antibody.&#xD;
+&#xD;
+          -  Female or male patients age ≥18 years.&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) 0-2. PS-3 is&#xD;
+             permitted if PS is due solely to bone pain.&#xD;
+&#xD;
+          -  Adequate hematological function including:&#xD;
+&#xD;
+               1. Absolute neutrophil count (ANC) &gt;1,000/mm^3 (unless myelosuppression is secondary&#xD;
+                  to bone marrow plasmacytosis expressed by &gt;50% of cellularity).&#xD;
+&#xD;
+               2. Platelet count &gt;75,000/mm^3 for the dose finding portion, and &gt; 50,000/ mm^3 for&#xD;
+                  the expansion part.(transfusion is not permitted within 7 days of enrollment)&#xD;
+&#xD;
+               3. Hemoglobin ≥8.0 g/dL (transfusion support is not permitted within 7 days of&#xD;
+                  enrollment).&#xD;
+&#xD;
+          -  Adequate Renal Function defined by:&#xD;
+&#xD;
+             a. Estimated creatinine clearance &gt;30 mL/min as calculated using the CKD-EPI equation.&#xD;
+             (If an estimated creatinine clearance CrCl is believed to be inaccurate for a patient,&#xD;
+             24-hour urine collection with actual assessment of CrCl is allowed)&#xD;
+&#xD;
+          -  Adequate Liver Function, including:&#xD;
+&#xD;
+               1. Aspartate and alanine aminotransferase (AST and ALT) &lt; 2.5 x upper limit of&#xD;
+                  normal (ULN); &lt;5.0 x ULN if there is liver involvement by the tumor.&#xD;
+&#xD;
+               2. Alkaline phosphatase &lt;2.5 x ULN (&lt;5 x ULN in case of bone metastasis).&#xD;
+&#xD;
+               3. Total bilirubin &lt; 2.0 mg/dL, except in patients with Gilbert Syndrome who must&#xD;
+                  have a total bilirubin less than 3.0 mg/dL.&#xD;
+&#xD;
+          -  Seronegative for Hepatitis B surface (HBs) or Hepatitis B core (HBc) antigens.&#xD;
+             Patients with positive antigens must be tested for hepatitis B virus (HBV) by reverse&#xD;
+             transcription polymerase chain reaction (RT-PCR). Patients who are HBV RNA negative&#xD;
+             are eligible.&#xD;
+&#xD;
+          -  Seronegative for hepatitis C antibody. If hepatitis C antibody test is positive,&#xD;
+             patients must be tested for the presence of antigen by RT-PCR. Patients who are&#xD;
+             hepatitis C virus (HCV) RNA negative with adequate liver function as described above&#xD;
+             are eligible.&#xD;
+&#xD;
+          -  Resolved acute effects of any prior therapy to baseline severity or CTCAE Grade ≤ 1,&#xD;
+             with the exception of peripheral neuropathy attributable to bortezomib.&#xD;
+&#xD;
+          -  Serum pregnancy test (for females of childbearing potential) negative at screening.&#xD;
+             Female patients of non-childbearing potential must meet at least 1 of the following&#xD;
+             criteria:&#xD;
+&#xD;
+               1. Achieved postmenopausal status, defined as follows: cessation of regular menses&#xD;
+                  for at least 12 consecutive months with no alternative pathological or&#xD;
+                  physiological cause; status may be confirmed with a serum follicle stimulating&#xD;
+                  hormone (FSH) level confirming the postmenopausal state.&#xD;
+&#xD;
+               2. Have undergone a documented hysterectomy and/or bilateral oophorectomy. Have&#xD;
+                  medically confirmed ovarian failure. All other female patients (including female&#xD;
+                  patients with tubal ligations) are considered to be of childbearing potential.&#xD;
+&#xD;
+          -  Signed and dated Informed Consent by study participant and/ or Legally Authorized&#xD;
+             Representative (LAR).&#xD;
+&#xD;
+          -  Willing and able to comply with scheduled visits, treatment plan, laboratory tests,&#xD;
+             and other procedures.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with other malignancies in addition to multiple myeloma are not eligible if&#xD;
+             the other malignancy has required treatment within the past 3 years or is not in&#xD;
+             complete remission with the exceptions of successfully treated non-metastatic basal&#xD;
+             cell carcinoma, squamous cell skin carcinoma, or in-situ carcinoma.&#xD;
+&#xD;
+          -  History of active autoimmune disorders (including but not limited to: Crohn's disease,&#xD;
+             rheumatoid arthritis, scleroderma, systemic lupus erythematosus, Grave's disease) and&#xD;
+             other conditions that require systemic therapy, which may compromise or impair the&#xD;
+             immune system.&#xD;
+&#xD;
+          -  Any form of primary immunodeficiency (such as Severe Combined Immunodeficiency&#xD;
+             Disease).&#xD;
+&#xD;
+          -  Patients with active uncontrolled bacterial, fungal or viral infection, including&#xD;
+             known human immunodeficiency virus (HIV) infection or acquired immunodeficiency&#xD;
+             syndrome (AIDS) related illness.&#xD;
+&#xD;
+          -  Major surgery within 4 weeks prior to study entry.&#xD;
+&#xD;
+          -  Radiation therapy within 2 weeks prior to study entry (bone lesions requiring&#xD;
+             radiation may be treated with limited [i.e., ≤ 25% of bone marrow in field] radiation&#xD;
+             therapy during this period).&#xD;
+&#xD;
+          -  Patients with a history of stem cell transplant (autologous or allogeneic) within 100&#xD;
+             days prior to study enrollment.&#xD;
+&#xD;
+          -  Donor Lymphocyte Infusion (DLI) within 30 days prior to study entry.&#xD;
+&#xD;
+          -  Time between the last doses of previous systemic anti-cancer therapy is less than 5&#xD;
+             times the elimination half-life of previous therapy or less than 30 days after last&#xD;
+             dose of elotuzumab or other Signaling lymphocytic activation molecule F7 (SLAMF7)&#xD;
+             receptor (also known as anti-CD319) therapy. Recent anti-CD38 therapy is not&#xD;
+             exclusionary.&#xD;
+&#xD;
+          -  Patient known to be refractory to platelet or red blood cell transfusions.&#xD;
+&#xD;
+          -  Any of the following in the previous 6 months: myocardial infarction, severe/unstable&#xD;
+             angina, coronary/peripheral artery bypass graft, symptomatic congestive heart failure&#xD;
+             (CHF, New York Heart Association Class III or IV), cerebrovascular accident, transient&#xD;
+             ischemic attack or symptomatic pulmonary embolism. Patients with a history of cardiac&#xD;
+             events, and a left ventricular ejection fraction (LVEF) of ≤ 45% at screening will be&#xD;
+             excluded.&#xD;
+&#xD;
+          -  Fertile male patients and female patients of childbearing potential who are unwilling&#xD;
+             or unable to use a highly effective method of contraception as outlined in this&#xD;
+             protocol for the duration of the study and for at least 28 days after the last dose of&#xD;
+             investigational product.&#xD;
+&#xD;
+          -  Other acute or chronic medical or psychiatric condition, including recent (within the&#xD;
+             past year) or active suicidal ideation or behavior or laboratory abnormality that may&#xD;
+             increase the risk associated with study participation or investigational product&#xD;
+             administration or may interfere with the interpretation of study results and, in the&#xD;
+             judgment of the investigator, would make the patient inappropriate for entry into this&#xD;
+             study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alexander Lesokhin, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Memorial Sloan Kettering Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alexander Lesokhin, MD</last_name>
+    <phone>646-608-3717</phone>
+    <email>lesokhia@mskcc.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Caryln Rose Tan, MD</last_name>
+    <phone>646-608-3778</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>Basking Ridge</city>
+        <state>New Jersey</state>
+        <zip>07920</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexander Lesokhin, MD</last_name>
+      <phone>646-608-3717</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Neha Korde</last_name>
+      <phone>212-639-7664</phone>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Monmouth</name>
+      <address>
+        <city>Middletown</city>
+        <state>New Jersey</state>
+        <zip>07748</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexander Lesokhin, MD</last_name>
+      <phone>646-608-3717</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Bergen</name>
+      <address>
+        <city>Montvale</city>
+        <state>New Jersey</state>
+        <zip>07645</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexander Lesokhin, MD</last_name>
+      <phone>646-608-3717</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Commack</name>
+      <address>
+        <city>Commack</city>
+        <state>New York</state>
+        <zip>11725</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexander Lesokhin, MD</last_name>
+      <phone>646-608-3717</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Westchester</name>
+      <address>
+        <city>Harrison</city>
+        <state>New York</state>
+        <zip>10604</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexander Lesokhin, MD</last_name>
+      <phone>646-608-3717</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexander Lesokhin, MD</last_name>
+      <phone>646-608-3717</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Neha Korde, MD</last_name>
+      <phone>212-639-7664</phone>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Nassau</name>
+      <address>
+        <city>Uniondale</city>
+        <state>New York</state>
+        <zip>11553</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexander Lesokhin, MD</last_name>
+      <phone>646-608-3717</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mskcc.org/mskcc/html/44.cfm</url>
+    <description>Memorial Sloan Kettering Cancer Center</description>
+  </link>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>October 28, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 1, 2021</study_first_posted>
+  <last_update_submitted>December 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>TTI-621</keyword>
+  <keyword>TTI-622</keyword>
+  <keyword>Daratumumab Hyaluronidase-fihj</keyword>
+  <keyword>21-122</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Myeloma</mesh_term>
+    <mesh_term>Neoplasms, Plasma Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Daratumumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Memorial Sloan Kettering Cancer Center supports the international committee of medical journal editors (ICMJE) and the ethical obligation of responsible sharing of data from clinical trials. The protocol summary, a statistical summary, and informed consent form will be made available on clinicaltrials.gov when required as a condition of Federal awards, other agreements supporting the research and/or as otherwise required. Requests for deidentified individual participant data can be made beginning 12 months after publication and for up to 36 months post publication. Deidentified individual participant data reported in the manuscript will be shared under the terms of a Data Use Agreement and may only be used for approved proposals. Requests may be made to: crdatashare@mskcc.org.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

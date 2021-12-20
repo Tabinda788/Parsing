@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8086">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05055986</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Open-source Software</org_study_id>
+    <nct_id>NCT05055986</nct_id>
+  </id_info>
+  <brief_title>Accuracy of Open-source Software in Semi-automatic 3-Dimensional Reconstruction of the Mandible</brief_title>
+  <official_title>Accuracy of Open-source Software in Semi-automatic 3-Dimensional Reconstruction of the Mandible: A Validity and Reliability Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cairo University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cairo University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Concomitant to the evolution of CBCT devices, several post-processing software packages were&#xD;
+      developed for producing 3D-printed models of anatomical structures. In the last few years,&#xD;
+      several open-source software used as an alternative to commercial software for 3D&#xD;
+      reconstruction of anatomical structures such as the mandible. However, no sufficient evidence&#xD;
+      validating the accuracy of this open-source software.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      3D rendering of craniomaxillofacial structures is based on the segmentation process.&#xD;
+      Semi-automatic segmentation has been pointed out as the technique of choice since it combines&#xD;
+      the high efficiency and repeatability of the automatic methods with the experience of an&#xD;
+      operator. Although the creation of 3D models is very important, it is still not a common&#xD;
+      procedure, since commercial software often requires higher electronic computer power and is&#xD;
+      licensed by its manufacturer, increasing the financial costs. In the last few years, several&#xD;
+      open-source software can be obtained for free such as ITK-Snap and 3D Slicer, which could&#xD;
+      provide more economical options for clinicians or researchers in patient management. However,&#xD;
+      no sufficient evidence validating the accuracy of this open-source software in detecting the&#xD;
+      volumetric and morphological characteristics of craniomaxillofacial structures.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2021</start_date>
+  <completion_date type="Anticipated">January 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Validity and reliability of CBCT open-source software (ITK-Snap and 3D Slicer) semiautomatic segmentation in Volumetric measurement of mandibular bone.</measure>
+    <time_frame>1 year</time_frame>
+    <description>The volume calculation function tool of the dedicated CBCT open-source software (ITK-Snap and 3D Slicer) will be used to measure the mandibular bone volume.</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Segmentation; Bone</condition>
+  <arm_group>
+    <arm_group_label>CBCT Dicom files of patients</arm_group_label>
+    <description>CBCT Dicom files of patients will be used for measurements of mandibular bone volume by open-source software.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Semiautomatic segmentation of open-source software</intervention_name>
+    <description>Semiautomatic segmentation of open-source software is accurate as of the manual segmentation of commercial software.</description>
+    <arm_group_label>CBCT Dicom files of patients</arm_group_label>
+    <other_name>ITK-Snap software</other_name>
+    <other_name>3D Slicer software</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients who come to the Oral and Maxillofacial Department, Faculty of Dentistry, Cairo&#xD;
+        University for CBCT imaging for orthodontic treatment. Patients will be with intact&#xD;
+        mandible and free of any injury or disease that can affect the volume of the mandible.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Good quality CBCT scans.&#xD;
+&#xD;
+          -  Field of view (FOV) including the whole mandibular bone.&#xD;
+&#xD;
+          -  Absence of artifacts, dental implants, craniofacial deformities, and temporomandibular&#xD;
+             disorders.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Low-quality CBCT scans.&#xD;
+&#xD;
+          -  FOV not including the whole mandibular bone.&#xD;
+&#xD;
+          -  Presence of artifacts, dental implants, craniofacial deformities, and&#xD;
+             temporomandibular disorders.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Maha S Mohamed, Master</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Cairo University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Maha S Mohamed, Master</last_name>
+    <phone>01285478360</phone>
+    <email>maha_sayed@dentistry.cu.edu.eg</email>
+  </overall_contact>
+  <reference>
+    <citation>Gomes AF, Brasil DM, Silva AIV, Freitas DQ, Haiter-Neto F, Groppo FC. Accuracy of ITK-SNAP software for 3D analysis of a non-regular topography structure. Oral Radiol. 2020 Apr;36(2):183-189. doi: 10.1007/s11282-019-00397-y. Epub 2019 Jul 2.</citation>
+    <PMID>31267257</PMID>
+  </reference>
+  <reference>
+    <citation>Matsiushevich K, Belvedere C, Leardini A, Durante S. Quantitative comparison of freeware software for bone mesh from DICOM files. J Biomech. 2019 Feb 14;84:247-251. doi: 10.1016/j.jbiomech.2018.12.031. Epub 2018 Dec 21.</citation>
+    <PMID>30591203</PMID>
+  </reference>
+  <reference>
+    <citation>Lo Giudice A, Ronsivalle V, Grippaudo C, Lucchese A, Muraglie S, Lagravère MO, Isola G. One Step before 3D Printing-Evaluation of Imaging Software Accuracy for 3-Dimensional Analysis of the Mandible: A Comparative Study Using a Surface-to-Surface Matching Technique. Materials (Basel). 2020 Jun 21;13(12). pii: E2798. doi: 10.3390/ma13122798.</citation>
+    <PMID>32575875</PMID>
+  </reference>
+  <reference>
+    <citation>Vallaeys K, Kacem A, Legoux H, Le Tenier M, Hamitouche C, Arbab-Chirani R. 3D dento-maxillary osteolytic lesion and active contour segmentation pilot study in CBCT: semi-automatic vs manual methods. Dentomaxillofac Radiol. 2015;44(8):20150079. doi: 10.1259/dmfr.20150079. Epub 2015 May 21.</citation>
+    <PMID>25996572</PMID>
+  </reference>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 24, 2021</study_first_posted>
+  <last_update_submitted>September 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 28, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Cairo University</investigator_affiliation>
+    <investigator_full_name>Maha Sayed Mohamed Shazly</investigator_full_name>
+    <investigator_title>Teaching Assistant</investigator_title>
+  </responsible_party>
+  <keyword>Open source software</keyword>
+  <keyword>Segmentation</keyword>
+  <keyword>Mandible</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

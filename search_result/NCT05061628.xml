@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7652">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05061628</url>
+  </required_header>
+  <id_info>
+    <org_study_id>JS006-001-I</org_study_id>
+    <nct_id>NCT05061628</nct_id>
+  </id_info>
+  <brief_title>The Recombinant Humanized Anti-TIGIT Monoclonal Antibody (JS006) Monotherapy and in Combination With Toripalimab in Patients With Advanced Tumor</brief_title>
+  <official_title>A Phase I Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Initial Efficacy of Recombinant Humanized Anti-TIGIT Monoclonal Antibody (JS006) Monotherapy and in Combination With Toripalimab in Patients With Advanced Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanghai Junshi Bioscience Co., Ltd.</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Shanghai Junshi Bioscience Co., Ltd.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open-label, dose-escalation and dose-expansion phase I clinical study to evaluate&#xD;
+      the safety and tolerability of JS006 as Monotherapy and in combination with toripalimab in&#xD;
+      patients with advanced tumors who have failed standard therapies or who have no standard&#xD;
+      therapy. It is planned to enroll 69-176 patients into the study.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 21, 2021</start_date>
+  <completion_date type="Anticipated">September 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">August 14, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To evaluate the safety and tolerability of JS006 as Monotherapy and in combination with toripalimab in patients with advanced tumors</measure>
+    <time_frame>2 years</time_frame>
+    <description>Incidence and severity of dose limiting toxicity (DLT), adverse events (AEs), serious adverse events (SAEs), and immune-related adverse events (irAEs); abnormal changes with clinical significance in the laboratory and other tests</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Determing the maximum tolerated dose and the recommended phase II dose for JS006 as Monotherapy and in combination with toripalimab in patients with advanced tumors</measure>
+    <time_frame>2 years</time_frame>
+    <description>Maximum tolerated dose: Dose Limitted Toxictiy events occurred at a rate less than 1/3 of the maximum tolerated dose.&#xD;
+Phase II recommended dose: safety, pharmacokinetics, and preliminary efficacy data of dose escalation will be integrated. When the Maximum tolerated dose(MTD) is determined, the Maximum tolerated dose(MTD) is usually used as the Phase II recommended dose(RP2D), or the dose lower than the Maximum tolerated dose(MTD) is selected as the Phase II recommended dose(RP2D) based on the comprehensive data.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic (PK) profile: JS006</measure>
+    <time_frame>2 years</time_frame>
+    <description>JS006 concentrations in individual subjects at different time points after dosing of JS006.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine the immunogenicity of JS006 as monotherapy and in combination with toripalimab in patients with advanced tumors</measure>
+    <time_frame>2 years</time_frame>
+    <description>Immunogenicity: incidence of anti-drug antibodies (ADAs) and/or neutralizing antibodies (Nabs) of JS006 and toripalimab.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Within 1 hour before the first administration to 90 ±7 days after the last administration.</measure>
+    <time_frame>2 years</time_frame>
+    <description>Peripheral blood immune cell subset and receptor occupancy of TIGIT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate (ORR)</measure>
+    <time_frame>2 years</time_frame>
+    <description>The percentage of cases with remission (PR + CR) after treatment was assessable.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DOR)</measure>
+    <time_frame>2 years</time_frame>
+    <description>The time from the first assessment of CR or PR to the first assessment of PD or death due to any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate (DCR)</measure>
+    <time_frame>2 years</time_frame>
+    <description>The percentage of cases with remission (PR + CR) and stable lesions (SD) after treatment was assessable.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to response (TTR)</measure>
+    <time_frame>2 years</time_frame>
+    <description>time from the start of treatment to progression of diease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>2 years</time_frame>
+    <description>PFS is defined as time from the start of treatment to progression of disease or death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>2 years</time_frame>
+    <description>Overall survival is defined as time from the start of treatment until death due to any reason.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>PD-L1 expression</measure>
+    <time_frame>2 years</time_frame>
+    <description>The relationship between efficacy and potential biomarkers in tumor tissue: CD155 expression in tumor tissue.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Tumor mutation burden (TMB)</measure>
+    <time_frame>2 years</time_frame>
+    <description>The relationship between efficacy and potential biomarkers in tumor tissue: whole exome sequencing (WES) for tumor mutation burden (TMB) in tumor tissue.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Tumor microsatellite instability (MSI)</measure>
+    <time_frame>2 years</time_frame>
+    <description>The relationship between efficacy and potential biomarkers in tumor tissue: whole exome sequencing (WES) for tumor microsatellite instability (MSI) in tumor tissue.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Immune cell surface receptors</measure>
+    <time_frame>2 years</time_frame>
+    <description>Immune cell surface receptors testing in peripheral blood</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">176</enrollment>
+  <condition>Advanced Tumors</condition>
+  <arm_group>
+    <arm_group_label>JS006 as Monotherapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>JS006 as Monotherapy dose-escalation：5 proposed dose levels（18mg, 60mg, 180mg, 600mg, 1800mg).&#xD;
+JS006 as Monotherapy dose-extension：1 or 2 proposed dose levels, to be determined.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>JS006 in combination with Toripalimab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>JS006 in combination with Toripalimab dose-escalation：2 or 3 proposed dose levels, to be determined.&#xD;
+JS006 in combination with Toripalimab dose-extension：1 or 2 proposed dose levels, to be determined.&#xD;
+JS006 in combination with Toripalimab indications expansion: 2 to 4 specific tumor types are selected for indication expansion after the combination dose-expansion is completed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>JS006 as Monotherapy</intervention_name>
+    <description>JS006 as Monotherapy dose-escalation: JS006, 18/ 60/ 180/ 600/ 1800mg, IV infusion, every 3 weeks (q3w).&#xD;
+JS006 as Monotherapy dose-extension: JS006, 1 or 2 specific dose, IV infusion, every 3 weeks (q3w).</description>
+    <arm_group_label>JS006 as Monotherapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>JS006 in combination with Toripalimab</intervention_name>
+    <description>JS006 in combination with Toripalimab dose-escalation: JS006, 2 or 3 specific dose, IV infusion, every 3 weeks (q3w), combined with Toripalimab, 240mg, IV infusion, every 3 weeks (q3w).&#xD;
+JS006 in combination with Toripalimab dose-extension: JS006, 1 or 2 specific dose, IV infusion, every 3 weeks (q3w), combined with Toripalimab, 240mg, IV infusion, every 3 weeks (q3w).&#xD;
+JS006 in combination with Toripalimab indications expansion: JS006, RP2D, IV infusion, every 3 weeks(q3w), combined with Toripalimab, 240mg, IV infusion, every 3 weeks (q3w).</description>
+    <arm_group_label>JS006 in combination with Toripalimab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          1. Understanding and signature of the informed consent form voluntarily;&#xD;
+&#xD;
+          2. Age 18 - 75 years (inclusive), male or female;&#xD;
+&#xD;
+          3. Pathologically confirmed advanced malignancy who have failed standard treatment or&#xD;
+             with no standard treatment available;&#xD;
+&#xD;
+          4. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1;&#xD;
+&#xD;
+          5. Expected survival ≥ 12 weeks;&#xD;
+&#xD;
+          6. Having at least one measurable lesion that meets RECIST v1.1 criteria or Lugano 2014&#xD;
+             criteria;&#xD;
+&#xD;
+          7. The function of vital organs meets the following requirements (no blood transfusion or&#xD;
+             blood products and no hematopoietic stimulating factors and other drugs to correct&#xD;
+             blood cell counts within 14 days before the examination):&#xD;
+&#xD;
+             7-1.Absolute neutrophil count (ANC) ≥1.5 × 109/L; 7-2. Platelet count (PLT) ≥ 90 ×&#xD;
+             109/L; 7-3.Hemoglobin (Hb) ≥ 90 g/L; 7-4.Total bilirubin (TBIL) ≤ 1.5 × ULN, or for&#xD;
+             patients with liver metastases or Gilbert syndrome, TBIL ≤ 3 × ULN; 7-5.Alanine&#xD;
+             aminotransferase (ALT) and aspartate aminotransferase (AST) ≤ 3 × ULN, or for patients&#xD;
+             with liver metastases, ALT and AST ≤ 5 × ULN; 7-6.Serum creatinine (Cr) ≤ 1.5 × ULN,&#xD;
+             or calculated creatinine clearance (Cockcroft-Gault formula) ≥ 50 mL/min; 7-7.For&#xD;
+             patients not receiving anticoagulant therapy, international normalized ratio (INR),&#xD;
+             prothrombin time (PT) and activated partial thromboplastin time (aPTT) ≤1.5 × ULN; For&#xD;
+             patients receiving anticoagulation therapy (such as low molecular weight heparin or&#xD;
+             warfarin) require a stable dose of anticoagulant drugs for at least 4 weeks without&#xD;
+             dose adjustment; 7-8.QTc interval calculated according to Fridericia's criteria ≤ 450&#xD;
+             ms for males and ≤ 470 ms for females;&#xD;
+&#xD;
+          8. Female patients of childbearing potential and male patients whose partners are women&#xD;
+             of childbearing potential are willing to use effective contraceptive measures during&#xD;
+             the study treatment and for 6 months after the last dose; Female patients of&#xD;
+             childbearing potential must have a negative serum HCG test within 7 days before study&#xD;
+             enrollment and must be non-lactating. The childbearing potential is defined as a woman&#xD;
+             who has not undergone surgical sterilization, hysterectomy and/or bilateral&#xD;
+             oophorectomy or who is not postmenopausal (amenorrhea ≤ 12 months).&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+        Patients who met any of the following criteria will be excluded from the study:&#xD;
+&#xD;
+          1. Known allergic to toripalimab or ingredients of JS006;&#xD;
+&#xD;
+          2. Have received anti-TIGIT or related targets CD155, CD112 or CD113 antibody treatment&#xD;
+             in the past;&#xD;
+&#xD;
+          3. Participation in other clinical studies within 4 weeks before the first dose, except&#xD;
+             for an observational (non-interventional) clinical study or follow-up period of an&#xD;
+             interventional study;&#xD;
+&#xD;
+          4. Major surgery (as judged by the investigator) within 4 weeks before the first dose or&#xD;
+             in the recovery period of surgery;&#xD;
+&#xD;
+          5. Received systemic anti-tumor therapy within 4 weeks before the first dose, such as&#xD;
+             chemotherapy (or within 6 weeks for the last chemotherapy with nitrosourea or&#xD;
+             mitomycin), radiotherapy, targeted therapy, immunotherapy or biological therapy.&#xD;
+             Received traditional Chinese medicine or Chinese patent medicine with anti-tumor&#xD;
+             indications within 2 weeks before the first dose of JS006. Hormone therapy, such as&#xD;
+             insulin for diabetes, hormone replacement therapy, etc., is acceptable for&#xD;
+             non-tumor-related diseases. Local palliative treatment (such as local surgery or&#xD;
+             radiotherapy) for isolated lesions can be accepted without affecting the efficacy&#xD;
+             evaluation;&#xD;
+&#xD;
+          6. Patients who discontinued prior immunotherapy due to immune-related adverse reactions;&#xD;
+&#xD;
+          7. Received immunosuppressive medications within 4 weeks before the first dose, except&#xD;
+             corticosteroid nasal spray, inhalers, or systemic prednisone ≤ 10 mg/day or&#xD;
+             equivalent;&#xD;
+&#xD;
+          8. Received allogeneic bone marrow transplantation or solid organ transplantation in the&#xD;
+             past;&#xD;
+&#xD;
+          9. Patients who received live attenuated vaccination within 30 days before the first&#xD;
+             dose;&#xD;
+&#xD;
+         10. Patients with two or more malignancies within 5 years before the first dose, except&#xD;
+             for early malignancy (carcinoma in situ or stage I tumors) that have been cured, such&#xD;
+             as adequately treated carcinoma in situ of the cervix, basal or squamous cell skin&#xD;
+             cancer;&#xD;
+&#xD;
+         11. Presence of central nervous system (CNS) metastases that are symptomatic, untreated,&#xD;
+             or require continued treatment (including corticosteroids and antiepileptic drugs).&#xD;
+             Patients who previously received treatment but were clinically stable for at least 4&#xD;
+             weeks before enrollment can be enrolled, excluding patients with evidence of new or&#xD;
+             expanded metastasis and discontinued steroid therapy;&#xD;
+&#xD;
+         12. The toxicity has not resolved after prior anti-tumor therapy, which means do not&#xD;
+             recover to baseline, NCI-CTCAE 5.0 Grade 0 to 1 (except alopecia, pigmentation) or the&#xD;
+             level specified in the inclusion/exclusion criteria. Irreversible toxicity (such as&#xD;
+             hearing loss) that is reasonably not expected to be aggravated by the study drug can&#xD;
+             be enrolled after consultation with the medical monitor;&#xD;
+&#xD;
+         13. Patients with autoimmune disorder within the previous 2 years, including but not&#xD;
+             limited to systemic lupus erythematosus or multiple sclerosis;&#xD;
+&#xD;
+         14. History of immediate allergic reactions, eczema or asthma uncontrolled by topical&#xD;
+             corticosteroids;&#xD;
+&#xD;
+         15. History of primary immunodeficiency;&#xD;
+&#xD;
+         16. Comorbidities that cannot be controlled by concomitant treatment, including but not&#xD;
+             limited to: ongoing or active infection, unexplained fever &gt; 38.5°C (subjects with&#xD;
+             neoplastic fever are judged by the investigator to be included), symptomatic&#xD;
+             congestive heart failure ≥ Grade 2 according to New York Heart Association (NYHA)&#xD;
+             functional classification, LVEF (left ventricular ejection fraction) &lt; 50%,&#xD;
+             hypertension poorly controlled by drugs, unstable angina, arrhythmia, active peptic&#xD;
+             ulcer disease or gastritis;&#xD;
+&#xD;
+         17. History of active tuberculosis, drug-induced interstitial lung disease, or ≥ Grade 2&#xD;
+             pulmonitis;&#xD;
+&#xD;
+         18. History of active inflammatory bowel disease (such as Crohn's disease or ulcerative&#xD;
+             colitis);&#xD;
+&#xD;
+         19. Patients with human immunodeficiency virus (HIV) positive;&#xD;
+&#xD;
+         20. Active hepatitis B or C. Active hepatitis B is defined as hepatitis B core antibody&#xD;
+             (HBcAb) or hepatitis B surface antigen (HBsAg) positive, and HBV DNA level above the&#xD;
+             upper limit of normal at the study site; Active hepatitis C is defined as positive&#xD;
+             hepatitis C antibody and HCV RNA level above the upper limit of normal at the study&#xD;
+             site;&#xD;
+&#xD;
+         21. Patients with endocrine defects that have been controlled by hormone replacement&#xD;
+             therapy can be enrolled, such as type I diabetes, hypothyroidism, etc. The following&#xD;
+             patients should be evaluated for target organ involvement and the need for systemic&#xD;
+             therapy at the discretion of the investigator, such as patients with concurrent&#xD;
+             rheumatoid arthritis and other joint diseases, Sjogren's syndrome, celiac disease and&#xD;
+             psoriasis that have been controlled after topical medication, as well as patients with&#xD;
+             positive serological tests e.g. antinuclear antibodies (ANA), anti-thyroid antibodies,&#xD;
+             etc.;&#xD;
+&#xD;
+         22. Other conditions are considered not suitable for the study by the investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Bifeng Liu</last_name>
+    <phone>18967116090</phone>
+    <email>bifeng_liu@junshipharma.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Sun Yat-Sen University Cancer Center</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510060</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ruihua Xu, PHD,MD</last_name>
+      <phone>+86 20 87343333</phone>
+      <email>xurh@sysucc.org.cn</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>August 2021</verification_date>
+  <study_first_submitted>August 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 29, 2021</study_first_posted>
+  <last_update_submitted>September 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

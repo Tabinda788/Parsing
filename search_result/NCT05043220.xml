@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9067">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05043220</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CO-SI-ONKO</org_study_id>
+    <nct_id>NCT05043220</nct_id>
+  </id_info>
+  <brief_title>Covid-19 Predictors: Safety of Gynecological Oncology Patients Undergoing Chemotherapy</brief_title>
+  <acronym>CO-SI-ONKO</acronym>
+  <official_title>COVID-19-Prädiktoren: Klinische Studie Zur Sicherheit Von gynäkologisch Onkologischen Patientinnen Unter Chemotherapie - CO-SI-ONKO-Studie</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Technische Universität München</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Technische Universität München</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      We designed a monocenter prospective cohort study using PROM via app and remote monitoring&#xD;
+      via pho-toplethysmography (PPG). The application of these technologies enables an early&#xD;
+      detection of infections and therefore initiation of medical interventions. The study is&#xD;
+      conducted as feasibility analysis; primary endpoints are adherence (according to wearing&#xD;
+      time) and technical robustness.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 29, 2021</start_date>
+  <completion_date type="Anticipated">August 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Compliance</measure>
+    <time_frame>3 months</time_frame>
+    <description>Compliance is defined as wearing time of the in-ear-sensor.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>robustness of the ppg-signal</measure>
+    <time_frame>3 months</time_frame>
+    <description>number and duration of the ppg-signal transmitted</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>number of correct- and false-positive alerts</measure>
+    <time_frame>3 months</time_frame>
+    <description>definition via comparison of alerts with clinical data</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>number of contacts and hospitalization rates</measure>
+    <time_frame>3 months</time_frame>
+    <description>definition via comparison of alerts and resulting contacts and hospitalization rates with clinical data</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>infections</measure>
+    <time_frame>3 months</time_frame>
+    <description>detection of infesctions via suspected ppg-signal transmitted or PRO-data. This results in blood test zu verify acute infections.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>therapy modifications</measure>
+    <time_frame>3 months</time_frame>
+    <description>dose-reductions (%), postponing of therapy cycles (time in days between actual and plannend date), therapy discontinuation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>effect on quality of life</measure>
+    <time_frame>3 months</time_frame>
+    <description>change in minimum 9 points in the EORTC QLQ-C30-questionnaire is evaluated as significant change. In questions 1-28: 28-112 points can be achieved: higher scores are associated with a worse outcome. In questions 29-30:2-14 points can be achieved: higher scores are associated with a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>OS; PFS</measure>
+    <time_frame>3 months</time_frame>
+    <description>time between study inclusion and death; time between study inclusion and proven increasing tumor mass (number of days)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>health-related costs</measure>
+    <time_frame>3 months</time_frame>
+    <description>cost-effectiveness analysis</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Telemedicine</condition>
+  <arm_group>
+    <arm_group_label>Telemedicine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Telemonitoring via PPG (photoplethysmography) and PROM (patient reported outcome monitoring) via app</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>PPG and PROM</intervention_name>
+    <description>description will follow</description>
+    <arm_group_label>Telemedicine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  gynecological cancer&#xD;
+&#xD;
+          -  indication for chemotherapy&#xD;
+&#xD;
+          -  patients who are legally competent and able to understand and follow instructions of&#xD;
+             the study staff&#xD;
+&#xD;
+          -  present informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  no use if internet or applications&#xD;
+&#xD;
+          -  persons who are in a dependency or employment relationship with the study center&#xD;
+&#xD;
+          -  positive proof of COVID-19&#xD;
+&#xD;
+          -  affection of the external auditory canal&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Heike Jansen, Dr. med</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Technische Universität München</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Marion Kiechle, Prof. Dr. med.</last_name>
+    <role>Study Director</role>
+    <affiliation>Technische Universität München</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Heike Jansen, Dr. med.</last_name>
+    <phone>+49-89-4140-2420</phone>
+    <email>heike.jansen@tum.de</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Klinikum rechts der Isar, Frauenklinik, Technische Universität München</name>
+      <address>
+        <city>Munich</city>
+        <zip>81675</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Heike Jansen, Dr. med.</last_name>
+      <phone>+49-89-4140-2420</phone>
+      <email>heike.jansen@tum.de</email>
+    </contact>
+    <contact_backup>
+      <last_name>Marion Kiechle, Prof. Dr. med.</last_name>
+      <phone>+49-89-4140-2420</phone>
+      <email>marion.kiechle@tum.de</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Anna Eichhorn, Dr. med.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 14, 2021</study_first_posted>
+  <last_update_submitted>September 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 7, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Technische Universität München</investigator_affiliation>
+    <investigator_full_name>Heike Jansen</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2832">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05124301</url>
+  </required_header>
+  <id_info>
+    <org_study_id>13138</org_study_id>
+    <nct_id>NCT05124301</nct_id>
+  </id_info>
+  <brief_title>Neural Basis of Sensory and Motor Learning: Functional Connections</brief_title>
+  <official_title>Neural Basis of Sensory and Motor Learning: Functional Connections</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Indiana University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Indiana University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to understand how the sensory and motor areas of the brain work&#xD;
+      together to keep a person's hand movements accurate (sensorimotor learning). The&#xD;
+      investigators hope this information may be useful one day to improve rehabilitation&#xD;
+      techniques in patients with brain lesions.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Human perception of hand position is multisensory. The brain can estimate it visually, from&#xD;
+      an image on the retina, and proprioceptively, from receptors in the joints and muscles. The&#xD;
+      sensory inputs determining these percepts are subject to changes in environmental factors&#xD;
+      (e.g., lighting) and internal factors (e.g., movement history). Multisensory integration of&#xD;
+      visual and proprioceptive estimates gives us flexibility to cope with such changes. For&#xD;
+      example, washing dishes with the hands immersed in water creates a spatial misalignment&#xD;
+      between vision and proprioception, as water refracts light. The brain resolves this conflict&#xD;
+      by realigning visual and/or proprioceptive estimates of hand position, and also by adjusting&#xD;
+      motor commands (visuomotor adaptation). The neural basis of these adaptive processes is&#xD;
+      poorly understood. The purpose of this study is to find out if multisensory and visuomotor&#xD;
+      learning are accompanied by changes in resting state connectivity between sensory regions of&#xD;
+      the brain and other areas.&#xD;
+&#xD;
+      The first session is a familiarization session for functional magnetic resonance imaging&#xD;
+      (fMRI) and the behavioral task, and is expected to last 30-40 minutes. Subjects will first&#xD;
+      fill out screening forms to confirm the answers given during the initial screening, and the&#xD;
+      Edinburgh handedness inventory to quantify their handedness. If subjects are still eligible,&#xD;
+      subjects will lie in a mock scanner and perform the functional task: Subjects will have their&#xD;
+      left index finger taped to a wooden stick, and an experimenter from the team will manipulate&#xD;
+      the finger with the stick outside of the scanner. Subjects will respond to the different&#xD;
+      movements by pressing buttons with their right hand. Subjects will also be introduced to the&#xD;
+      behavioral task, which is performed at an apparatus in the room next to the scanner: Subjects&#xD;
+      sit in front of a touchscreen and point to targets seen in a mirror.&#xD;
+&#xD;
+      If subjects are interested in moving on to the main session at this point, the main session&#xD;
+      will be scheduled and group assignment will be determined. There will be 3 groups:&#xD;
+&#xD;
+        1. Visuo-proprioceptive realignment (perceptual learning)&#xD;
+&#xD;
+        2. Visuomotor adaptation (motor learning)&#xD;
+&#xD;
+        3. Control (no learning)&#xD;
+&#xD;
+      The main session will take about 2 hours. Subjects will first fill out the MR safety&#xD;
+      screening form. Subjects will then perform some practice trials of the behavioral task to&#xD;
+      remind the subject of the task. This will be followed by the first resting state scan (12&#xD;
+      min), a 20-30 minute baseline block of the behavioral task (no learning), a second resting&#xD;
+      state scan (12 min), the 20-30 minute learning block of the behavioral task (perceptual&#xD;
+      learning, motor learning, or no learning, depending on group assignment), and a third resting&#xD;
+      state scan (12 min). Finally, the subject will do the functional task in the scanner (same as&#xD;
+      familiarization session, 12 min. total) and an anatomical scan (~6 minutes). The session will&#xD;
+      conclude with some questions about the subject's subjective experience of the procedures.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2021</start_date>
+  <completion_date type="Anticipated">December 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Resting state functional connectivity</measure>
+    <time_frame>1 day</time_frame>
+    <description>Brain activity measured during a 12 minute functional magnetic resonance imaging (fMRI) scan while the subject is at rest.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Reaching task performance</measure>
+    <time_frame>1 day</time_frame>
+    <description>Measured by where the subject points on a touchscreen when reaching to the targets.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Basic Science</condition>
+  <arm_group>
+    <arm_group_label>Perceptual learning</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Reaching task in which visual information about target finger position is offset to induce a change in perception of the finger.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Motor learning</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Reaching task in which visual information about reaching errors is offset to induce a movement change.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Reaching task with accurate visual information.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Perceptual learning</intervention_name>
+    <description>Reaching task with visual feedback offset from target finger position.</description>
+    <arm_group_label>Perceptual learning</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Motor learning</intervention_name>
+    <description>Reaching task with visual feedback offset from reaching finger position.</description>
+    <arm_group_label>Motor learning</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Control</intervention_name>
+    <description>Reaching task with unmanipulated feedback.</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ages of 18-45 years old&#xD;
+&#xD;
+          -  Right-handed.&#xD;
+&#xD;
+          -  Fully vaccinated (2+ weeks past their final vaccine dose) or have a negative Covid&#xD;
+             test within 4 days of testing.&#xD;
+&#xD;
+          -  Free of Covid symptoms in week preceding testing.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  metallic, mechanical, or magnetic implants;&#xD;
+&#xD;
+          -  are claustrophobic, or are unable to remain still for long periods of time;&#xD;
+&#xD;
+          -  use an intra-uterine device (IUD) whos MR compatibility has not been established.&#xD;
+&#xD;
+          -  Women who are pregnant or think they might be pregnant will also be excluded, as&#xD;
+             effects of fMRI on the unborn are not known.&#xD;
+&#xD;
+          -  People who have a BMI over 30 will be excluded as it may be uncomfortable or&#xD;
+             impossible to lay in the MRI scanner and reach the button box.&#xD;
+&#xD;
+          -  Potential subjects will be excluded if they have any neurological disorders, or&#xD;
+             orthopedic or pain conditions in the upper limbs.&#xD;
+&#xD;
+          -  Investigators will also exclude subjects who do not have normal vision, or&#xD;
+             corrected-to-normal vision with contacts, or the imaging center does not have a pair&#xD;
+             of MRI compatible glasses that fits their prescription.&#xD;
+&#xD;
+          -  investigators will invite subjects to reschedule if they have any of the common Covid&#xD;
+             symptoms within the last week and if they haven't been fully vaccinated or obtained a&#xD;
+             negative Covid test within the past 4 days. If they don't believe they can meet these&#xD;
+             criteria on another date, they will be excluded.&#xD;
+&#xD;
+          -  After giving their consent, participants may be excluded during the study if they are&#xD;
+             unable to perform the tasks or follow instructions.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hannah Block</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Indiana University Bloomington</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Hannah Block, PhD</last_name>
+    <phone>8128555390</phone>
+    <email>hjblock@indiana.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Indiana University Bloomington</name>
+      <address>
+        <city>Bloomington</city>
+        <state>Indiana</state>
+        <zip>47405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>812-855-4079</phone>
+      <email>blocklab@indiana.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 4, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2021</study_first_posted>
+  <last_update_submitted>November 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Indiana University</investigator_affiliation>
+    <investigator_full_name>Hannah Justine Block</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All IPD that underlie results published in peer-reviewed journals will be shared except individual brain scans.</ipd_description>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>The data will become available when group results are published in peer-reviewed journals</ipd_time_frame>
+    <ipd_access_criteria>Data will be available on www.osf.io for anyone who wishes to download it. The relevant osf registry will be cited in the peer-reviewed publication so that interested readers can find it.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="94">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05159921</url>
+  </required_header>
+  <id_info>
+    <org_study_id>REC: 2021-11</org_study_id>
+    <nct_id>NCT05159921</nct_id>
+  </id_info>
+  <brief_title>Can the SurgInfoBot Improve the Consent Process for Endoscopy? A Randomised Controlled Trial</brief_title>
+  <official_title>Can an Automated Conversational Agent (the SurgInfoBot) Improve the Consent Process for Patients Undergoing Endoscopy? A Randomised Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tallaght University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Royal College of Surgeons, Ireland</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Tallaght University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Human-computer interactions or 'Chatbots' have been utilized in a variety of healthcare&#xD;
+      settings, including the promotion of positive healthcare behaviors, the deliverance of&#xD;
+      psychological therapy, and the performance of diagnostic tasks. Standard methods of&#xD;
+      consenting patients for procedures may not always result in patients being fully informed; a&#xD;
+      2004 study of patients undergoing screening sigmoidoscopy demonstrated that 39% of surveyed&#xD;
+      patients could describe no other indication than doctor recommendation for the procedure&#xD;
+      after undergoing standard consent.&#xD;
+&#xD;
+      his study seeks to investigate the usability of a novel chatbot designed to provide&#xD;
+      peri-procedural information in two endoscopic procedures - diagnostic&#xD;
+      oesophagogastroduodenoscopy (OGD) and diagnostic colonoscopy. A novel Chatbot - 'SurgInfoBot'&#xD;
+      has been developed in order to provide real-time, patient-driven peri-procedural information.&#xD;
+      This study primarily seeks to assess the effect of SurgInfoBot use on patient satisfaction&#xD;
+      with the consent process in endoscopy. It will also assess the usability of the chatbot&#xD;
+      according to the system usability scale and test performance according to the as-yet&#xD;
+      unvalidated Chatbot Usability Questionnaire (CUX). User engagement will be analyzed&#xD;
+      objectively using stored metrics. Comparison will be made between perceptions of the&#xD;
+      SurgInfoBot as an information source and other established patient information sources. The&#xD;
+      potential impact of the SurgInfoBot on peri-procedural anxiety will also be explored.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Introduction&#xD;
+&#xD;
+      Human-computer interactions or 'Chatbots' have been utilized in a variety of healthcare&#xD;
+      settings, including the promotion of positive healthcare behaviors, the deliverance of&#xD;
+      psychological therapy, and the performance of diagnostic tasks. The growth of the internet&#xD;
+      has enabled greater access to information regarding healthcare interventions, the truth and&#xD;
+      value of which cannot always be verified. The use of Chatbots - online programs which attempt&#xD;
+      to replicate person to person interactions - in providing healthcare information has been&#xD;
+      successfully employed by prior studies. Recent studies have investigated the role of chatbots&#xD;
+      in providing information in the post-operative period, across orthopaedic surgery, vascular&#xD;
+      surgery and urology. The value of such human-computer interactions in providing&#xD;
+      pre-procedural information is less well explored.&#xD;
+&#xD;
+      Standard methods of consenting patients for procedures may not always result in patients&#xD;
+      being fully informed; a 2004 study of patients undergoing screening sigmoidoscopy&#xD;
+      demonstrated that 39% of surveyed patients could describe no other indication than doctor&#xD;
+      recommendation for the procedure after undergoing standard consent. Only 19% of patients&#xD;
+      mentioned bleeding and perforation as possible complications. This study seeks to investigate&#xD;
+      the usability of a novel chatbot designed to provide peri-procedural information in two&#xD;
+      endoscopic procedures - diagnostic oesophagogastroduodenoscopy (OGD) and diagnostic&#xD;
+      colonoscopy.&#xD;
+&#xD;
+      A novel Chatbot - 'SurgInfoBot' has been developed in order to provide real-time,&#xD;
+      patient-driven peri-procedural information. This study primarily seeks to assess the effect&#xD;
+      of SurgInfoBot use on patient satisfaction with the consent process in endoscopy. It will&#xD;
+      also assess the usability of the chatbot according to the system usability scale and test&#xD;
+      performance according to the as-yet unvalidated Chatbot Usability Questionnaire (CUX). User&#xD;
+      engagement will be analyzed objectively using stored metrics. Comparison will be made between&#xD;
+      perceptions of the SurgInfoBot as an information source and other established patient&#xD;
+      information sources. The potential impact of the SurgInfoBot on peri-procedural anxiety will&#xD;
+      also be explored.&#xD;
+&#xD;
+      Methods&#xD;
+&#xD;
+      Trial design&#xD;
+&#xD;
+      This randomised controlled trial will be reported according to the CONsolidated Standards of&#xD;
+      Reporting Trials (CONSORT) 2010 guidelines. A single blinded parallel study with 1:1&#xD;
+      randomisation will be performed. This study will be conducted at Tallaght University Hospital&#xD;
+      (Dublin, Ireland).&#xD;
+&#xD;
+      Participants&#xD;
+&#xD;
+      All patients undergoing diagnostic or screening colonoscopy or Oesophagogastroduodenoscopy&#xD;
+      (OGD) will be eligible for inclusion, provided they are aged 18 or over and have capacity to&#xD;
+      consent to participate in this trial. Patients undergoing sigmoidoscopy procedures will not&#xD;
+      be included, as the SurgInfoBot does not contain specific information regarding&#xD;
+      sigmoidoscopy. Patients undergoing planned procedures beyond those required for diagnostics&#xD;
+      (such as biopsy, campylobacter-like organism testing or polyp retrieval) will not be eligible&#xD;
+      for inclusion; this includes patients undergoing endoscopic stenting, endoscopic mucosal&#xD;
+      resection (EMR), planned endoscopic laser ablation, or other interventional procedures.&#xD;
+      Patients undergoing emergency or inpatient endoscopy will not be eligible for inclusion. This&#xD;
+      trial did not exclude patients who did not speak English as their first language, though&#xD;
+      patients requiring an interpreter will not be eligible for inclusion.&#xD;
+&#xD;
+      Patients were recruited from an academic teaching hospital in West Dublin. Eligible patients&#xD;
+      will be attending outpatient appointments with a single colorectal and general surgeon (DO&#xD;
+      K). All endoscopy procedures will be performed in the same recruiting institution.&#xD;
+&#xD;
+      Interventions&#xD;
+&#xD;
+      Participants will be randomised to receive either standard consent, or standard consent with&#xD;
+      SurgInfoBot access. The standard consent procedure is as follows: The rationale, risks,&#xD;
+      benefits, and alternatives for the intended procedure (diagnostic or screening OGD or&#xD;
+      colonoscopy) are discussed in the outpatient clinic by a consultant general surgeon (DOK) or&#xD;
+      members of the surgical team. Patients are given the opportunity to ask questions. All&#xD;
+      patients receive a written information leaflet, which includes contact details for the&#xD;
+      endoscopy department should patients wish to ask further questions. Those undergoing&#xD;
+      colonoscopy receive further instructions along with prescribed colonoscopy 'prep' medication&#xD;
+      by post. On the day of the procedure, patients are required to sign a standardised consent&#xD;
+      form.&#xD;
+&#xD;
+      Patients in the SurgInfoBot arm will be consented as above, but will also granted access to&#xD;
+      the SurgInfoBot, which they will be invited to use between their outpatient appointment and&#xD;
+      their endoscopy procedure date. Participants will be provided with an access link and Unique&#xD;
+      Study Identifier in order to pseudonymise participant data. Participants can access the&#xD;
+      SurgInfoBot as many times as they wish, and could ask any questions they see fit.&#xD;
+&#xD;
+      The 'SurgInfoBot' is a fully automated conversational agent, built as a web page that can be&#xD;
+      accessed via computer or smartphone. The SurgInfoBot was developed within the department of&#xD;
+      Surgical Affairs, Royal College of Surgeons in Ireland, using the Microsoft Chatbot Framework&#xD;
+      (Microsoft Corporation, 2019) and hosted by the Azure cloud system (Microsoft corporation,&#xD;
+      2019). It is a command-based chatbot which relies on a database of questions and replies to&#xD;
+      answer user queries. A question bank with associated answers was developed initially by two&#xD;
+      general surgery residents (BM, CT) using national freely-available online resources where&#xD;
+      available, and high quality peer-reviewed articles where no national resources addressed the&#xD;
+      topic of concern. Content was verified for accuracy by a consultant colorectal/ general&#xD;
+      surgeon (DO K). An iterative process of content generation, usability testing, modification&#xD;
+      and re-testing was undertaken with healthy volunteers, in order to populate the SurgInfoBot's&#xD;
+      knowledge database and ensure adequate usability prior to patient use.&#xD;
+&#xD;
+      Randomisation&#xD;
+&#xD;
+      Randomisation will be performed using an online randomisation system&#xD;
+      (https://www.sealedenvelope.com/simple-randomiser/v1/lists) . After undergoing standard&#xD;
+      endoscopy consenting procedures as above, patients will be asked to consent to take part in&#xD;
+      this research study. Recruited patients will then be allocated the next available unique&#xD;
+      study identifier, randomly allocating patients to receive standard further consent&#xD;
+      information (printed information leaflet) or access to the SurgInfoBot (printed information&#xD;
+      leaflet and access instructions for the SurgInfoBot online interface). Both groups of&#xD;
+      patients will also receive a link (via e-mail) to the survey of baseline demographics which&#xD;
+      will completed before access to the SurgInfoBot is granted. Patients in the SurgInfoBot&#xD;
+      access arm will also receive an e-mail with their access details.&#xD;
+&#xD;
+      Baseline data&#xD;
+&#xD;
+      Baseline demographic information will be recorded. This includes participant gender, age,&#xD;
+      first language (English or other), level of educational attainment and electronic health&#xD;
+      literacy as measured using the eHEALS (eHealth Literacy Scale) score.&#xD;
+&#xD;
+      Primary Outcome Measure and Determination of Sample Size:&#xD;
+&#xD;
+      Patient satisfaction with the pre-procedural information received will be recorded using a&#xD;
+      6-point Likert scale from '- - -' to '+ + +' using the following statement: &quot;Overall, I am&#xD;
+      satisfied with the information I received before this procedure. This study was powered to&#xD;
+      detect a 0.5 point increase in satisfaction, based on a mean and standard deviation derived&#xD;
+      from a previous study utilising this scale by Huber et al. 201213, with a power of 80% and&#xD;
+      alpha of 0.05. Thirty-one participants were therefore required for recruitment in each group.&#xD;
+      Based on an anticipated drop-out rate of 20%, we aimed to recruit 70 patients in total (35 in&#xD;
+      each group).&#xD;
+&#xD;
+      Secondary Outcome Measures:&#xD;
+&#xD;
+      Knowledge:&#xD;
+&#xD;
+      Knowledge was assessed using a 5 item questionnaire using both open and multiple choice&#xD;
+      questions; participants were asked to identify the procedure they were having performed name&#xD;
+      the indication for having this procedure performed, identify the nature of sedation given,&#xD;
+      identify the risks of the procedure, and identify the alternatives of having the procedure&#xD;
+      performed. Items and responses were reviewed by a general surgery resident (CT) and&#xD;
+      colorectal/ general surgeon (DOK) for content validity. Knowledge questionnaires were&#xD;
+      administered immediately after standard consent was provided, and on the day of the&#xD;
+      procedure. Perceived knowledge was also assessed using a six-point Likert scale, based on&#xD;
+      participant responses to the statement: &quot;I feel well informed about the planned procedure&quot;&#xD;
+      from '- - -' to '+ + +'&#xD;
+&#xD;
+      Anxiety Peri-procedural anxiety was recorded on the day of the procedure using the&#xD;
+      State-Trait Anxiety Inventory for adults14&#xD;
+&#xD;
+      SurgInfoBot usability&#xD;
+&#xD;
+      SurgInfoBot usability was recorded using the validated ChatBot Usability Questionnaire&#xD;
+      developed by Holmes et al. (2019)15, a usability scale specifically designed for evaluating&#xD;
+      chatbots in healthcare.&#xD;
+&#xD;
+      Statistical Analysis&#xD;
+&#xD;
+      Categorical data will be presented as both absolute and relative frequencies, continuous data&#xD;
+      by mean and standard deviation. Comparisons between groups will be made using the Chi-Square&#xD;
+      test and t-tests. An effect size will be calculated for the primary outcome measure (Overall&#xD;
+      Satisfaction scores) - 95% confidence intervals will also be reported. Multivariate logistic&#xD;
+      regression will be used to identify predictors of complete satisfaction (defined as an&#xD;
+      overall satisfaction score of +++). All tests will be two-tailed, with p&lt;0.05 considered&#xD;
+      statistically significant. All analyses will be performed with SPSS software (IBM, USA).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 29, 2021</start_date>
+  <completion_date type="Anticipated">July 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A single blinded parallel study with 1:1 randomisation.</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Single (Care Provider)</masking>
+    <masking_description>Single-blinded. Participants will be aware of which arm they are randomised too (standard consent vs standard consent with automated conversational agent access), while those performing the endoscopy procedure (care providers) will not.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patient Satisfaction</measure>
+    <time_frame>Immediate (day of procedure)</time_frame>
+    <description>6-point Likert scale from '---' to '+++' - 'Overall, I am satisfied with the information I received before this procedure'</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Knowledge</measure>
+    <time_frame>Immediate (Post- standard consent) and at 6 weeks, (pre-endoscopy procedure)</time_frame>
+    <description>a 5 item questionnaire using both open and multiple choice questions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Knowledge (subjective)</measure>
+    <time_frame>Immediate (After provision of standard consent) and at 6 weeks (pre-endoscopy procedure)</time_frame>
+    <description>Perceived knowledge will also be assessed using a six-point Likert scale, based on participant responses to the statement: &quot;I feel well informed about the planned procedure&quot; from '- - -' to '+ + +'</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peri-procedural anxiety</measure>
+    <time_frame>Immediate (Day of procedure)</time_frame>
+    <description>Peri-procedural anxiety will be recorded on the day of the procedure using the State-Trait Anxiety Inventory for adults</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SurgInfoBot Usability</measure>
+    <time_frame>6 weeks (Pre-procedure)</time_frame>
+    <description>SurgInfoBot usability will be recorded using the validated ChatBot Usability Questionnaire developed by Holmes et al. (2019), a usability scale specifically designed for evaluating chatbots in healthcare.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Gastro-Intestinal Disorder</condition>
+  <arm_group>
+    <arm_group_label>Standard Consent</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Standard consent procedure: The rationale, risks, benefits, and alternatives for the intended procedure (diagnostic or screening OGD or colonoscopy) will be discussed in the outpatient clinic by a consultant general surgeon (DOK) or members of the surgical team. Patients will be given the opportunity to ask questions. All patients will receive a written information leaflet, which includes contact details for the endoscopy department should patients wish to ask further questions (supplemental data). Those undergoing colonoscopy will receive further instructions along with prescribed colonoscopy 'prep' medication by post. On the day of the procedure, patients are required to sign a standardised consent form.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard consent + access to an automated conversational agent (SurgInfoBot)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in the SurgInfoBot arm will be consented as above, but will also be granted access to the SurgInfoBot, which they will be invited to use between their outpatient appointment and their endoscopy procedure date. Participants will be provided with an access link and Unique Study Identifier in order to pseudonymise participant data. Participants will be able to access the SurgInfoBot as many times as they wish, and can ask any questions they see fit.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Access to an automated conversational agent (SurgInfoBot)</intervention_name>
+    <description>See above under arm/group descriptions.</description>
+    <arm_group_label>Standard consent + access to an automated conversational agent (SurgInfoBot)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All patients undergoing elective diagnostic or screening colonoscopy or&#xD;
+             Oesophagogastroduodenoscopy (OGD) are eligible for inclusion, provided they are aged&#xD;
+             18 or over and have capacity to consent to participate in this trial.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients undergoing sigmoidoscopy procedures will not be included, as the SurgInfoBot&#xD;
+             does not contain specific information regarding sigmoidoscopy. Patients undergoing&#xD;
+             planned procedures beyond those required for diagnostics (such as biopsy,&#xD;
+             campylobacter-like organism testing or polyp retrieval) are not eligible for&#xD;
+             inclusion; this includes patients undergoing endoscopic stenting, endoscopic mucosal&#xD;
+             resection (EMR), planned endoscopic laser ablation, or other interventional&#xD;
+             procedures. Patients undergoing emergency or inpatient endoscopy are not eligible for&#xD;
+             inclusion. This trial does not exclude patients who dio not speak English as their&#xD;
+             first language, though patients requiring an interpreter are not eligible for&#xD;
+             inclusion.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dara O Kavanagh, MCh FRCSI</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Tallaght University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dara O Kavanagh, Mch FRCSI</last_name>
+    <phone>0035314142000</phone>
+    <phone_ext>2211</phone_ext>
+    <email>dara.kavanagh@tuh.ie</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Tallaght University Hospital</name>
+      <address>
+        <city>Dublin</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dara O Kavanagh, MCh FRCSI</last_name>
+      <phone>0035314142000</phone>
+      <phone_ext>2211</phone_ext>
+      <email>dara.kavanagh@tuh.ie</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Ireland</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>November 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 16, 2021</study_first_posted>
+  <last_update_submitted>December 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Tallaght University Hospital</investigator_affiliation>
+    <investigator_full_name>Dara Kavanagh</investigator_full_name>
+    <investigator_title>Conultant General and Colorectal Surgeon</investigator_title>
+  </responsible_party>
+  <keyword>Consent</keyword>
+  <keyword>Chatbot</keyword>
+  <keyword>Endoscopy</keyword>
+  <keyword>Automated conversational agent</keyword>
+  <keyword>Patient education</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Intestinal Diseases</mesh_term>
+    <mesh_term>Gastrointestinal Diseases</mesh_term>
+    <mesh_term>Digestive System Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

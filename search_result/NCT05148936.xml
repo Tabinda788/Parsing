@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="938">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05148936</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HS-2020-0186</org_study_id>
+    <secondary_id>3U54CA132384-10S1</secondary_id>
+    <nct_id>NCT05148936</nct_id>
+  </id_info>
+  <brief_title>Communities Fighting COVID-19!</brief_title>
+  <official_title>Communities Fighting COVID!</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>San Diego State University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>San Diego State University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To create and evaluate effective COVID-19 testing uptake strategies that focus on underserved&#xD;
+      individuals who are exposed but have not accessed testing, and underserved individuals who&#xD;
+      are not routinely tested because they are unaware of their exposure or risk status in order&#xD;
+      to increase testing among these populations and reduce Covid-19 related disparities.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Communities Fighting COVID is a partnership between San Diego State's School of Public Health&#xD;
+      and numerous communities in San Diego focused on providing community-based testing to&#xD;
+      specific language-speaking communities and vulnerable populations. This partnership is funded&#xD;
+      by the National Institutes of Health (NIH) Rapid Acceleration of Diagnostics-Undeserved&#xD;
+      Populations (Radx-UP), with the aim of ensuring all Americans have access to timely COVID-19&#xD;
+      testing and diagnosis. Many communities, particularly immigrant and people of color&#xD;
+      communities, have a harder time accessing existing COVID-19 resources due to transportation,&#xD;
+      language barriers, or other barriers.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 25, 2020</start_date>
+  <completion_date type="Anticipated">June 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Cluster Randomized Trial</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Test uptake</measure>
+    <time_frame>Through study completion, expected to be 20 months</time_frame>
+    <description>Testing volume by study arm as cumulative count per hours testing site operated</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Test access</measure>
+    <time_frame>Through study completion, expected to be 20 months</time_frame>
+    <description>Proportion of individuals by study arm who note that this strategy has facilitated ability to test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Test Impact (COVID-19 diagnoses)</measure>
+    <time_frame>Through study completion, expected to be 20 months</time_frame>
+    <description>Proportion of COVID-19 diagnoses of those tested by study arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Test Impact (number needed to screen)</measure>
+    <time_frame>Through study completion, expected to be 20 months</time_frame>
+    <description>Number needed to screen (number tested in order to detect one new infection).</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">42000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>At home testing (Aim 1)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>High-risk friends and family of contacts exposed to COVID-19 will be provided with COVID-19 testing provided at home by a healthcare worker.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mobile testing (Aim 1)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>High-risk friends and family of contacts exposed to COVID-19 will be referred to study operated mobile testing sites in the community for COVID-19 testing.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mobile testing approach 1 (Aim 2)</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Mobile testing utilizing active outreach</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mobile testing approach 2 (Aim 2)</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Mobile testing utilizing baseline outreach approaches</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>COVID-19 Testing Home-based (Aim 1)</intervention_name>
+    <description>Implementation of Antigen and PCR testing at participant homes</description>
+    <arm_group_label>At home testing (Aim 1)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>COVID-19 Testing Mobile (Aim 1)</intervention_name>
+    <description>Implementation of Antigen and PCR testing at mobile test sites</description>
+    <arm_group_label>Mobile testing (Aim 1)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>COVID-19 Testing Mobile Approach 1 (Aim 2)</intervention_name>
+    <description>Implementation of Antigen and PCR testing at mobile test sites - active outreach</description>
+    <arm_group_label>Mobile testing approach 1 (Aim 2)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>COVID-19 Testing Mobile Approach 2 (Aim 2)</intervention_name>
+    <description>Implementation of Antigen and PCR testing at mobile test sites - baseline outreach</description>
+    <arm_group_label>Mobile testing approach 2 (Aim 2)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  African American, Arabic speaking, Filipino, and Latino/a populations&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Younger than 6, not in focus populations&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>6 Years</minimum_age>
+    <maximum_age>120 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Susan M Kiene, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>San Diego State University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Tasi Rodriguez, MPH</last_name>
+    <phone>619.594.1707</phone>
+    <email>trodriguez@sdsu.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Contact Households</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92182</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tasi Rodriguez</last_name>
+      <phone>619-594-1707</phone>
+    </contact>
+    <investigator>
+      <last_name>Eyal Oren, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Hala Madanat, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>March 31, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 8, 2021</study_first_posted>
+  <last_update_submitted>December 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>San Diego State University</investigator_affiliation>
+    <investigator_full_name>Susan M Kiene</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Plan to share with Rad-X UP Coordinating Center</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Shared on a periodic basis. RPPR shared with NIH on a 6-month basis</ipd_time_frame>
+    <ipd_access_criteria>Anonymized data access</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

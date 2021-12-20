@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8088">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05055960</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0839</org_study_id>
+    <nct_id>NCT05055960</nct_id>
+  </id_info>
+  <brief_title>Validation of 3D Simulations in Embolic Stroke</brief_title>
+  <official_title>Validation of 3D Stroke Models to Differentiate Stroke Subtypes and Predict Source in Acute Ischaemic Stroke</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Leicester</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Open University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Leicester</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Stroke is a common condition which results in significant disability for patients. There are&#xD;
+      different causes of stroke, but around one quarter are as a result of clots or other material&#xD;
+      from the heart lodging in blood vessels in the brain, stopping the blood supply to that area.&#xD;
+      Atrial fibrillation is a common cause of blood clots which go to the brain and can be easily&#xD;
+      treated with blood thinning medications, which significantly reduce the risk of further&#xD;
+      strokes. However, at the moment, atrial fibrillation is difficult to identify, and heart&#xD;
+      monitoring can be needed for up to one year. This significantly delays starting blood&#xD;
+      thinning medications and leaves patients at risk of stroke during this time. Therefore,&#xD;
+      better ways of picking up strokes caused by atrial fibrillation are needed. One such method&#xD;
+      may be to use brain scans which are routinely taken at the time a patient presents with an&#xD;
+      acute stroke. By using mathematical models to work out the source of stroke, we may be able&#xD;
+      to determine which strokes are caused by atrial fibrillation at the time the patient presents&#xD;
+      with their stroke. This would reduce the number of investigations patients under-go, saving&#xD;
+      money for the NHS, and reducing the number of tests patients have. Therefore, the aim of this&#xD;
+      project is to create an anonymised database of brain scans from patients who have presented&#xD;
+      to hospital with a stroke to develop and test these recently developed models to see if they&#xD;
+      can accurately identify which strokes are caused by atrial fibrillation, and which ones are&#xD;
+      not. This project has the potential to improve patient outcomes by reducing treatment delays&#xD;
+      and improving the accuracy of the diagnosis of the stroke source.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Stroke affects more than 100 000 people each year in the UK, and up to 50% of patients are&#xD;
+      left with significant disability [1, 2]. 85% of strokes result from occluded blood vessels in&#xD;
+      the brain (acute ischaemic stroke [AIS]), interrupting the blood supply and resulting in&#xD;
+      tissue infarction and functional impairment [1]. Stroke is responsible for significant&#xD;
+      morbidity and mortality, with considerable social and economic implications, particularly for&#xD;
+      working age individuals [1, 2]. The cause of AIS can be broadly classified as embolic and&#xD;
+      non-embolic stroke [3]. Approximately one quarter of AIS is cardioembolic, due to embolism&#xD;
+      from the left atrium (atrial fibrillation - AF), valves (valvular heart disease or prosthetic&#xD;
+      valves), recent myocardial infarction, patent foramen ovale, infective endocarditis, or&#xD;
+      aortic arch atheroma [3-5]. This figure is higher amongst older adults due to rising&#xD;
+      prevalence of AF with age [6]. Importantly, cardioembolic strokes are more severe, resulting&#xD;
+      in greater disability than other stroke sub-types [4]. Due to improving standards in vascular&#xD;
+      risk factor management, the proportion of strokes resulting from cardioembolism is rising,&#xD;
+      having tripled in incidence over the last few decades [4]. Correct identification and&#xD;
+      management of an embolic source can reduce recurrence by up to 70% [4]. AF remains the&#xD;
+      leading cause of cardioembolic stroke [4, 5]. However, correctly identifying and treating AF&#xD;
+      is thought to occur in only 50% of eligible patients [3]. This may be due to clinician&#xD;
+      reluctance to anticoagulate patients, particularly in the frail older population at high risk&#xD;
+      of falls [3]. Up to 25% of stroke is embolic of undetermined source (ESUS), which may be due&#xD;
+      to paroxysmal AF requiring prolonged cardiac monitoring to successfully identify and treat&#xD;
+      patients [3, 7]. AF is asymptomatic in up to 40% of patients, and the first presentation may&#xD;
+      be with a significant infarction [8]. Anticoagulation is the cornerstone of reducing stroke&#xD;
+      risk in AF, but with up to a two-fold increase in bleeding risk this treatment is reserved&#xD;
+      only for proven cases [9, 10]. Anticoagulation in ESUS remains an ongoing debate, and is&#xD;
+      currently limited to high risk groups (e.g. multiple infarcts in different territories) [11,&#xD;
+      12]. Thus, identifying and treating AF is a key priority to reduce future stroke risk, but&#xD;
+      minimise complications where anticoagulation is not indicated.&#xD;
+&#xD;
+      Given the differing aetiologies, investigation, and management of embolic and non-embolic&#xD;
+      stroke, early differentiation facilitates clinical decision making, and allows focussed&#xD;
+      investigation and management for patients. Radiological features of stroke can support this&#xD;
+      process as the location, size, and pattern of the infarction, can indicate the likely&#xD;
+      aetiology and stroke sub-type. However, at present there are no criteria by which this is&#xD;
+      assessed, relying on a qualitative and thus subjective, opinion of the treating clinician or&#xD;
+      radiologist. Inaccurate diagnosis has been reported in up to one third of lacunar strokes&#xD;
+      relying on clinical and CT findings alone [13]. The majority of false positive findings were&#xD;
+      due to cardioembolic or large artery stroke, potentially resulting in missed opportunity to&#xD;
+      identify and treat AF [13]. Diffusion weighted imaging can improve the diagnosis of lacunar&#xD;
+      infarction but its use is limited by cost and availability [13-15]. In a recent study of 133&#xD;
+      patients with ESUS, 22.6% were found to have AF after three months of cardiac monitoring, and&#xD;
+      an 8-point risk score could predict this with reasonable accuracy (area under the curve=0.70)&#xD;
+      [16]. However this accuracy falls considerably where the aetiology of stroke remains&#xD;
+      undetermined [16]. The true proportion of AF that goes undetected remains unknown, and&#xD;
+      earlier detection through predictive modelling could potentially reduce investigation and&#xD;
+      treatment delays.&#xD;
+&#xD;
+      Therefore, improving the processes by which embolic stroke, particularly AF, may help guide&#xD;
+      clinical decision making. This would allow better tailoring of investigations to patients,&#xD;
+      removing unnecessary tests that could have potential economic benefits to the NHS, and&#xD;
+      reducing investigation burden to patients. The development of stroke models that can&#xD;
+      integrate clinical information from patients, and scan findings, may be able to provide&#xD;
+      improved diagnostic accuracy for stroke-sub type classification and facilitate timely, and&#xD;
+      more targeted investigation and treatment. In particular, models capable of differentiating&#xD;
+      between different types of embolism may be particularly valuable and prompt extended&#xD;
+      monitoring for patients who are most likely to have an AF source.&#xD;
+&#xD;
+      This study proposes a Monte Carlo method developed by JH and EC to simulate strokes [17-20].&#xD;
+      This method has recently been adapted using an in silico cerebral vasculature [21] and tested&#xD;
+      against stroke images from the Anatomical Tracings of Lesions After Stroke (ATLAS) database&#xD;
+      (unpublished work). The advantage of using a computationally generated vasculature over&#xD;
+      imaging is that there is no lower bound on vessel size and we are able to include vessels in&#xD;
+      our model down to the capillary bed. Within the simulations, we can estimate lesion volume as&#xD;
+      well as incorporate the differing metabolic demands of grey and white matter. Recently, we&#xD;
+      have been able to reproduce stroke images in the anterior, middle, and posterior (ACA, MCA,&#xD;
+      PCA respectively) circulations using images from the ATLAS dataset. However, the majority of&#xD;
+      lesions in ATLAS were chronic in nature and this does not provide information on how this&#xD;
+      model would perform at the &quot;front door&quot; where treatment decisions could be made in a more&#xD;
+      timely fashion.&#xD;
+&#xD;
+      Therefore, this project seeks to develop an acute stroke scan database to validate these&#xD;
+      recently developed simulations against and to determine the accuracy at predicting the source&#xD;
+      of embolic stroke in the acute setting. Given the growing application of AI techniques to&#xD;
+      clinical medicine, we will compare the ability of this recently developed stroke simulation&#xD;
+      model to AI techniques to predict the source of embolic stroke. We will compare the ability&#xD;
+      of the models to clinical or radiological opinion. Finally, we will test the combined ability&#xD;
+      of the two techniques to determine the source of embolic stroke. Specifically, we will&#xD;
+      evaluate the following sources: lacunar, cardioembolic, large vessel atherosclerotic emboli,&#xD;
+      and watershed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 15, 2021</start_date>
+  <completion_date type="Anticipated">October 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>A database of anonymous magnetic resonance imaging scans from patients presenting with acute ischaemic stroke for the development and validation of stroke simulation models.</measure>
+    <time_frame>1 year</time_frame>
+    <description>anonymised database</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The sensitivity and specificity of 3D and artificial intelligence models for determining the embolic source of the stroke against the current clinical reference standards</measure>
+    <time_frame>3 years</time_frame>
+    <description>diagnostic test accuracy of developed models</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Stroke</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Stroke simulation and machine learning</intervention_name>
+    <description>Using simulation and machine learning approaches to classify the source of embolic stroke.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult patients presenting with acute ischaemic stroke to an acute hospital service.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients presenting with acute ischemic stroke to the emergency department, transient&#xD;
+             ischaemic attack clinic, or hyperacute stroke unit&#xD;
+&#xD;
+          -  Adults aged over 18 years&#xD;
+&#xD;
+          -  Patients receiving a magnetic resonance imaging (MRI) scan&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Insufficient clinical demographic and outcome data (&lt;75% of all variables)&#xD;
+&#xD;
+          -  No acute stroke diagnosis or identifiable lesion on MRI&#xD;
+&#xD;
+          -  Patients with a computed tomography scan only&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Lucy Beishon, PhD</last_name>
+    <phone>0116 252</phone>
+    <phone_ext>3134</phone_ext>
+    <email>lb330@le.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Emma Chung</last_name>
+    <email>emlc1@le.ac.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Leicester</name>
+      <address>
+        <city>Leicester</city>
+        <state>Leicestershire</state>
+        <zip>LE2 7LX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Lucy Beishon</last_name>
+      <phone>0116 252</phone>
+      <phone_ext>3134</phone_ext>
+      <email>lb330@le.ac.uk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 24, 2021</study_first_posted>
+  <last_update_submitted>November 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

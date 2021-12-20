@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2731">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05125614</url>
+  </required_header>
+  <id_info>
+    <org_study_id>apzzap2</org_study_id>
+    <nct_id>NCT05125614</nct_id>
+  </id_info>
+  <brief_title>Gastric Cancer Survival Without Chemotherapy</brief_title>
+  <official_title>Development of a Staging System and Survival Prediction Model for Advanced Gastric Cancer Patients Without Adjuvant Treatment After Curative Gastrectomy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Saint Vincent's Hospital, Korea</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Saint Vincent's Hospital, Korea</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is observational study to analyze the actual overall survival of the patients who&#xD;
+      did not receive adjuvant chemotherapy after curative gastrectomy for gastric cancer.&#xD;
+&#xD;
+      The investigators developed prediction model for the overall survival of these patients and&#xD;
+      validated.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Adjuvant chemotherapy (AC) after curative gastrectomy is the standard treatment for patients&#xD;
+      with locally advanced gastric adenocarcinoma in East Asia; however, for various reasons, some&#xD;
+      patients do not receive this treatment. The aim of this study was to develop a system that&#xD;
+      reflects the survival rate of patients without AC. A survival prediction model was developed&#xD;
+      based on the modified staging system and risk factors for overall survival (OS), which were&#xD;
+      examined using the Cox proportional hazards regression model. The model was validated for the&#xD;
+      power of prediction and discrimination, compared with the American Joint Committee on Cancer&#xD;
+      (AJCC) Cancer Staging Manual 8th edition; it was externally validated using an independent&#xD;
+      dataset. the newly developed survival prediction model improves the accuracy of OS prediction&#xD;
+      for stage II and III gastric cancer patients without AC after curative gastrectomy.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 1, 2020</start_date>
+  <completion_date type="Actual">July 1, 2021</completion_date>
+  <primary_completion_date type="Actual">June 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>June-01-2021</time_frame>
+    <description>Overall survival of the patients</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">342</enrollment>
+  <condition>Gastric Cancer</condition>
+  <arm_group>
+    <arm_group_label>Developement set</arm_group_label>
+    <description>Gastric cancer patients who did not receive adjuvant chemotherapy after curative gastrectomy from 2009 to 2016 at Seoul St.Mary's Hospital</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Validation set</arm_group_label>
+    <description>Gastric cancer patients who did not receive adjuvant chemotherapy after curative gastrectomy from 2009 to 2016 at St.Vincent''s Hospital</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>No adjuvant chemotherapy</intervention_name>
+    <description>There is no intervention differences between 2 groups. We analyzed the data of the patients who did not receive adjuvant chemotherapy.</description>
+    <arm_group_label>Developement set</arm_group_label>
+    <arm_group_label>Validation set</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Informed consent was not required because of the retrospective nature of the study. For the&#xD;
+        development set, the database of the Gastric cancer center at Seoul St. Mary's hospital was&#xD;
+        reviewed between January 2009 and December 2016. The inclusion criteria were:&#xD;
+        histologically confirmed primary gastric adenocarcinoma, curative R0 resection with D2&#xD;
+        lymph node dissection, and pathologic stage II or III. Exclusion criteria were: neoadjuvant&#xD;
+        or AC treatment, follow-up loss or death within 30 days of surgery, completion of total&#xD;
+        gastrectomy, and other malignancy within 5 years before gastrectomy. Finally, 185 patients&#xD;
+        with locally advanced GC, all of whom underwent curative gastrectomy without chemotherapy,&#xD;
+        were included in the development set. The validation set consisted of patients who&#xD;
+        satisfied the above inclusion and exclusion criteria from St. Vincent's hospital in the&#xD;
+        same period. Finally, 157 patients were included in the validation set&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  histologically confirmed primary gastric adenocarcinoma&#xD;
+&#xD;
+          -  curative R0 resection with D2 lymph node dissection&#xD;
+&#xD;
+          -  pathologic stage II or III gastric cancer&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who received neoadjuvant or AC treatment&#xD;
+&#xD;
+          -  follow-up loss or death within 30 days of surgery&#xD;
+&#xD;
+          -  completion of total gastrectomy&#xD;
+&#xD;
+          -  other malignancy within 5 years before gastrectomy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Ki Bum Park, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>St. Vincent's Hospital-Manhattan</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Saint Vincent Hospital</name>
+      <address>
+        <city>Suwon</city>
+        <state>Gyeonggi-do</state>
+        <zip>16247</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 18, 2021</study_first_posted>
+  <last_update_submitted>November 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Saint Vincent's Hospital, Korea</investigator_affiliation>
+    <investigator_full_name>Ki Bum Park</investigator_full_name>
+    <investigator_title>Clinical Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>Gastric cancer</keyword>
+  <keyword>Adjuvant chemotherapy</keyword>
+  <keyword>Overall survival</keyword>
+  <keyword>Nomogram</keyword>
+  <keyword>Prediction</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stomach Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The data that support the findings of this study are available from the corresponding author upon reasonable request.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>January 2022, 3 years</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

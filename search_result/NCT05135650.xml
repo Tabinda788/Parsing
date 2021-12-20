@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1960">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05135650</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RG1121602</org_study_id>
+    <secondary_id>NCI-2021-05949</secondary_id>
+    <secondary_id>10691</secondary_id>
+    <nct_id>NCT05135650</nct_id>
+  </id_info>
+  <brief_title>Pharmacokinetics of Sotrovimab as Pre-exposure Prophylaxis for COVID-19 in Hematopoietic Stem Cell Transplant Recipients, COVIDMAB Study</brief_title>
+  <official_title>Pharmacokinetics of a SARS-CoV-2 Monoclonal Antibody in Hematopoietic Stem Cell Transplant Recipients (COVIDMAB)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fred Hutchinson Cancer Research Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Marrow Donor Program</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Vir Biotechnology, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fred Hutchinson Cancer Research Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I trial studies the process by which sotrovimab is absorbed, distributed,&#xD;
+      metabolized, and eliminated by the body (pharmacokinetics) in hematopoietic stem cell&#xD;
+      transplant recipients. Sotrovimab is a monoclonal antibody that may target and bind to a&#xD;
+      specific protein on SARS-CoV-2 and block its viral attachment and entry into human cells.&#xD;
+      This may slow the progression of the disease and accelerate recovery, and may potentially&#xD;
+      provide temporary protection against infection with SARS-CoV-2 in hematopoietic stem cell&#xD;
+      transplant recipients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OUTLINE:&#xD;
+&#xD;
+      Patients receive sotrovimab intravenously (IV) over 30 minutes within 1-7 days prior to the&#xD;
+      start of pre-transplant conditioning.&#xD;
+&#xD;
+      After completion of study treatment, patients are followed up for 24 weeks.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2022</start_date>
+  <completion_date type="Anticipated">January 15, 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 15, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Half-life of sotrovimab (VIR-7831) post-transplant</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+    <description>Will use descriptive statistics. Levels of VIR-7831 can be measured using an idiotypic antibody assay that is not affected by COVID-19 infection or vaccination.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neutralizing antibody titers</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+    <description>Will be calculated by a one-phase exponential decay model. Will compare fold-changes in antibody titers by normalizing to pre-transplant levels for each subject.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Half-life of VIR-7831 in matched versus mis-matched donors</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+    <description>Comparisons will be tested using a t-test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Half-life of VIR-7831 in autologous vs allogeneic HCT</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+    <description>Comparisons will be tested using a t-test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Half-life of VIR-7831 in patients with diarrhea vs no diarrhea</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+    <description>Comparisons will be tested using a t-test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Half-life of VIR-7831 in patients with and without graft versus host disease</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+    <description>Comparisons will be tested using a t-test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of breakthrough SARS-CoV-2 acquisition</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+    <description>Will monitor for breakthrough SARS-CoV-2 infection by polymerase chain reaction of fluid collected by nasal swabs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antibody levels from serum/plasma</measure>
+    <time_frame>At 12, 16, 20 and 24 weeks</time_frame>
+    <description>Will compare antibody levels from serum/plasma collected by venipuncture versus self-collected using a TASSO device and fluid from nasal swabs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-drug antibody levels from serum/plasma</measure>
+    <time_frame>At 12, 16, 20 and 24 weeks (and week 40 if positive at week 24)</time_frame>
+    <description>Will monitor for anti-drug antibody levels from serum/plasma collected by venipuncture versus self-collected using a TASSO device</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>Up to 40 weeks</time_frame>
+    <description>Will monitor safety with routine labs as part of standard post-transplant care.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>COVID-19 Infection</condition>
+  <condition>Hematopoietic and Lymphoid Cell Neoplasm</condition>
+  <condition>Malignant Solid Neoplasm</condition>
+  <arm_group>
+    <arm_group_label>Prevention (Sotrovimab)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive sotrovimab IV over 30 minutes within 1-7 days prior to the start of pre-transplant conditioning.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaire Administration</intervention_name>
+    <description>Ancillary studies</description>
+    <arm_group_label>Prevention (Sotrovimab)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Sotrovimab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Prevention (Sotrovimab)</arm_group_label>
+    <other_name>Anti-SARS-CoV-2 Spike Protein Monoclonal Antibody VIR-7831</other_name>
+    <other_name>GSK 4182136</other_name>
+    <other_name>GSK-4182136</other_name>
+    <other_name>GSK4182136</other_name>
+    <other_name>VIR 7831</other_name>
+    <other_name>VIR-7831</other_name>
+    <other_name>VIR7831</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients must be capable of understanding and providing a written informed consent,&#xD;
+             or, if too ill to give consent, have a legal guardian or power of attorney able to&#xD;
+             provide written informed consent on their behalf&#xD;
+&#xD;
+          -  Patients must be at least 18 years of age, of any gender, race, or ethnicity&#xD;
+&#xD;
+          -  Patients must be in morphologic remission from their underlying disease prior to&#xD;
+             transplant (measurable residual disease permitted)&#xD;
+&#xD;
+          -  Patients must be undergoing HCT (any donor or stem cell source, including autologous&#xD;
+             or cord blood transplant)&#xD;
+&#xD;
+          -  History of prior transplants are permitted&#xD;
+&#xD;
+          -  History of COVID-19, history of vaccination for SARS-CoV-2, positive polymerase chain&#xD;
+             reaction (PCR) of a respiratory specimen for SARS-CoV-2, or seropositivity for&#xD;
+             SARS-CoV-2 are permitted&#xD;
+&#xD;
+          -  History of SARS-CoV-2 infection or vaccination of the donor are permitted.&#xD;
+&#xD;
+          -  Post-enrollment vaccination is anticipated and permitted&#xD;
+&#xD;
+          -  Administration of IVIG before or during the study is permitted&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Relapse of underlying malignancy&#xD;
+&#xD;
+          -  Signs or symptoms of uncontrolled, active infection&#xD;
+&#xD;
+          -  Pregnant or breastfeeding (this population is generally not cleared for transplant)&#xD;
+&#xD;
+          -  Previous known allergies to any component of the mAb&#xD;
+&#xD;
+          -  Previous anaphylaxis or severe hypersensitivity reaction, including angioedema, to a&#xD;
+             mAb&#xD;
+&#xD;
+          -  Participants of other clinical studies that preclude the use of other investigational&#xD;
+             compounds&#xD;
+&#xD;
+          -  Participants who, in the judgment of the investigator, will be unlikely or unable to&#xD;
+             comply with the requirements of the protocol or unlikely to survive to the end of&#xD;
+             study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alpana Waghmare</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fred Hutch/University of Washington Cancer Consortium</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alpana Waghmare</last_name>
+    <phone>206.667.7329</phone>
+    <email>awaghmar@fredhutch.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Fred Hutch/University of Washington Cancer Consortium</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Alpana Waghmare</last_name>
+      <phone>206-667-7329</phone>
+      <email>awaghmar@fredhutch.org</email>
+    </contact>
+    <investigator>
+      <last_name>Alpana Waghmare</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 26, 2021</study_first_posted>
+  <last_update_submitted>November 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Myeloma Proteins</mesh_term>
+    <mesh_term>Paraproteins</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

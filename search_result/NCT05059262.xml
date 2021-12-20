@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7834">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05059262</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DCC-3014-03-001</org_study_id>
+    <nct_id>NCT05059262</nct_id>
+  </id_info>
+  <brief_title>Study of Vimseltinib for Tenosynovial Giant Cell Tumor</brief_title>
+  <acronym>MOTION</acronym>
+  <official_title>A Phase 3, Randomized, Placebo-controlled, Double-blind Study of Vimseltinib to Assess the Efficacy and Safety in Patients With Tenosynovial Giant Cell Tumor (MOTION)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Deciphera Pharmaceuticals LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Deciphera Pharmaceuticals LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multicenter Phase 3 clinical study, which aims to evaluate the effectiveness of an&#xD;
+      investigational drug called vimseltinib for the treatment of tenosynovial giant cell tumor&#xD;
+      (TGCT) in cases where surgical removal of the tumor is not an option.&#xD;
+&#xD;
+      The study consists of two parts. In Part 1, eligible study participants will be assigned to&#xD;
+      receive either vimseltinib or matching placebo for 24 weeks. A number of assessments will be&#xD;
+      carried out during the course of the study, including physical examinations, blood tests,&#xD;
+      imaging studies, electrocardiograms, and questionnaires. MRI scans will be used to evaluate&#xD;
+      the response of the tumors to the treatment. Participants assigned to placebo in Part 1 will&#xD;
+      have the option to receive vimseltinib for Part 2. Part 2 is a long-term treatment phase in&#xD;
+      which all participants receive open-label vimseltinib.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 14, 2021</start_date>
+  <completion_date type="Anticipated">July 2026</completion_date>
+  <primary_completion_date type="Anticipated">March 2024</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Objective Response Rate (ORR= complete response [CR]+partial response [PR]) per RECIST Version 1,1</measure>
+    <time_frame>Baseline to Week 25 (Cycle 7, Day 1)</time_frame>
+    <description>Assessed by central read using Response Evaluation Criteria In Solid Tumors (RECIST) Version 1.1</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ORR per Tumor Volume Score (TVS)</measure>
+    <time_frame>Baseline to Week 25 (Cycle 7, Day 1)</time_frame>
+    <description>Assessed by central read using Tumor Volume Score (TVS). TVS is a semi-quantitative MRI scoring system that describes tumor mass and is based on 10% increments of the estimated volume of the maximally distended synovial cavity or tendon sheath involved. A tumor that is equal in volume to that of a maximally distended synovial cavity or tendon sheath was scored 10; a score of 0 indicated no evidence of tumor.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Range of motion (ROM)</measure>
+    <time_frame>Baseline to Week 25 (Cycle 7, Day 1)</time_frame>
+    <description>Mean change from baseline in active ROM of the affected joint, relative to a reference standard at Week 25</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical function</measure>
+    <time_frame>Baseline to Week 25 (Cycle 7, Day 1)</time_frame>
+    <description>Mean change from baseline in the Patient-reported Outcomes Measurement Information System (PROMIS) physical function score at Week 25</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Worst stiffness</measure>
+    <time_frame>Baseline to Week 25 (Cycle 7, Day 1)</time_frame>
+    <description>Mean change from baseline in the Worst Stiffness Numeric Rating Scale (NRS) score at Week 25</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life (QoL)</measure>
+    <time_frame>Baseline to Week 25 (Cycle 7, Day 1)</time_frame>
+    <description>Mean change from baseline in EuroQoL Visual Analogue Scale (EQ-VAS) at Week 25</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Worst pain</measure>
+    <time_frame>Baseline to Week 25 (Cycle 7, Day 1)</time_frame>
+    <description>Proportion of responders, with a response defined as at least a 30% improvement in the mean Brief Pain Inventory (BPI) Worst Pain NRS score without a 30% or greater increase in narcotic analgesic use at Week 25</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Tenosynovial Giant Cell Tumor</condition>
+  <condition>Pigmented Villonodular Synovitis</condition>
+  <condition>Giant Cell Tumor of Tendon Sheath</condition>
+  <condition>Tenosynovial Giant Cell Tumor, Diffuse</condition>
+  <condition>Tenosynovial Giant Cell Tumor, Localized</condition>
+  <arm_group>
+    <arm_group_label>Part 1/Part 2 - vimseltinib/vimseltinib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive blinded treatment of 30 mg twice a week (biw) vimseltinib for 24 weeks in Part 1 and continue on 30 mg biw vimseltinib in Part 2</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1/Part 2 - placebo/vimseltinib</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants receive blinded treatment of 30 mg twice a week (biw) matching placebo for 24 weeks in Part 1 and have option to receive 30 mg biw vimseltinib in Part 2</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>vimseltinib</intervention_name>
+    <description>CSF1R inhibitor</description>
+    <arm_group_label>Part 1/Part 2 - placebo/vimseltinib</arm_group_label>
+    <arm_group_label>Part 1/Part 2 - vimseltinib/vimseltinib</arm_group_label>
+    <other_name>DCC-3014</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>Part 1/Part 2 - placebo/vimseltinib</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients ≥18 years of age&#xD;
+&#xD;
+          2. TGCT for which surgical resection is not an option (tumor biopsy to confirm diagnosis&#xD;
+             required if no histology/pathology available at screening)&#xD;
+&#xD;
+          3. Symptomatic disease as defined as at least moderate pain per BPI Worst Pain or at&#xD;
+             least moderate stiffness per Worst Stiffness NRS item (defined as a score of 4 or&#xD;
+             more, with 10 describing the worst condition) within the screening period, prior to&#xD;
+             the first dose, and documented in the medical record&#xD;
+&#xD;
+          4. Participants should complete 14 consecutive days of questionnaires during the&#xD;
+             screening period and must meet minimum requirements as outlined in study protocol&#xD;
+&#xD;
+          5. Must have stable analgesic regimen, as judged by the investigator, for at least 2&#xD;
+             weeks prior to first dose of study drug&#xD;
+&#xD;
+          6. Must have at least 1 measurable lesion according to RECIST Version 1.1, with a minimum&#xD;
+             tumor size of 2cm&#xD;
+&#xD;
+          7. Adequate organ and bone marrow function&#xD;
+&#xD;
+          8. If a female of childbearing potential, must have a negative pregnancy test prior to&#xD;
+             enrollment and agree to follow the contraception requirements&#xD;
+&#xD;
+          9. Must provide signed consent to participate in the study and is willing to comply with&#xD;
+             study-specific procedures&#xD;
+&#xD;
+         10. Willing and able to complete the patient-reported outcome (PRO) assessments on an&#xD;
+             electronic device&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Previous use of systemic therapy targeting colony stimulating factor 1 (CSF1) or CSFR1&#xD;
+             receptor (CSF1R); previous therapy with imatinib and nilotinib is allowed&#xD;
+&#xD;
+          2. Received therapy for TGCT, including investigational therapy within 14 days prior to&#xD;
+             the administration of study drug or within 28 days for therapies with a half-life&#xD;
+             longer than 3 days or an unknown half-life prior to the administration of study drug&#xD;
+&#xD;
+          3. Known metastatic TGCT or other active cancer that requires concurrent treatment&#xD;
+             (exceptions will be considered on a case-by-case basis)&#xD;
+&#xD;
+          4. QT interval corrected by Fridericia's formula (QTcF) &gt;450 ms in males or &gt;470 ms in&#xD;
+             females or history of long QT syndrome&#xD;
+&#xD;
+          5. Concurrent treatment with any study-prohibited medications&#xD;
+&#xD;
+          6. Major surgery within 14 days of the first dose of study drug&#xD;
+&#xD;
+          7. Any clinically significant comorbidities&#xD;
+&#xD;
+          8. Active liver or biliary disease including evidence of fatty liver, nonalcoholic&#xD;
+             steatohepatitis (NASH), or cirrhosis&#xD;
+&#xD;
+          9. Malabsorption syndrome or other illness that could affect oral absorption&#xD;
+&#xD;
+         10. Known active human immunodeficiency virus (HIV), active or chronic hepatitis B, active&#xD;
+             or chronic hepatitis C, or known active mycobacterium tuberculosis infection&#xD;
+&#xD;
+         11. If female, the participant is pregnant or lactating&#xD;
+&#xD;
+         12. Known allergy or hypersensitivity to any component of the study drug&#xD;
+&#xD;
+         13. Contraindication to MRI&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Clinical Team</last_name>
+    <phone>785-830-2100</phone>
+    <email>clinicaltrials@deciphera.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>City of Hope</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Mark Agulnik</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Breelyn Wilky</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Dana Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Andrew Wagner</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic Rochester</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Scott Okuno</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas MD Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vinod Ravi</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Chris O'Brien Lifehouse</name>
+      <address>
+        <city>Camperdown</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Vivek Bhadri</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>McGill University</name>
+      <address>
+        <city>Montréal</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thierry Alcindor</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Margaret Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Albiruni Razak</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ilkyu Han</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Klinika Nowotworów Tkanek Miękkich, Kości i Czerniaków Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie - Państwowy Instytut Badawczy</name>
+      <address>
+        <city>Warsaw</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Piotr Rutkowski</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de la Santa Creu i Sant Pau</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Antonio Lopez Pousa</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Vall d'Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Cesar Serrano</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitäts-Kinderspital beider Basel (UKBB)</name>
+      <address>
+        <city>Basel</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Andreas Krieg</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer &amp; Haematology Centre, The Churchill Hospital - Oxford University Hospitals NHS Foundation Trust</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sarah Pratap</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>Korea, Republic of</country>
+    <country>Poland</country>
+    <country>Spain</country>
+    <country>Switzerland</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 28, 2021</study_first_posted>
+  <last_update_submitted>October 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Giant Cell Tumors</mesh_term>
+    <mesh_term>Giant Cell Tumor of Tendon Sheath</mesh_term>
+    <mesh_term>Synovitis, Pigmented Villonodular</mesh_term>
+    <mesh_term>Synovitis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

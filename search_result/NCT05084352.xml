@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5905">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05084352</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HP-00087051</org_study_id>
+    <nct_id>NCT05084352</nct_id>
+  </id_info>
+  <brief_title>Real Time Vital Sign Assessment to Predict Neurological Decline After Traumatic Brain Injury</brief_title>
+  <acronym>RAPID-TBI</acronym>
+  <official_title>Real Time Vital Sign Assessment to Predict Neurological Decline After Traumatic Brain Injury (RAPID-TBI)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Maryland, Baltimore</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Maryland, Baltimore</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will look to validate predictive algorithms developed in a previous study where we&#xD;
+      collected relevant data from trauma registry and after using advanced signal-processing and&#xD;
+      machine-learning, determined prediction scores regarding neuroworsening and other outcomes&#xD;
+      following traumatic brain injury.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 29, 2021</start_date>
+  <completion_date type="Anticipated">October 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Neurological Decline</measure>
+    <time_frame>First 48 hours of injury</time_frame>
+    <description>Neurological decline is defined as a worsening in neurological status determined by a 2 point decline GCS, pupillary change, radiographic worsening defined by Rotterdam score, need for neurological or neurosurgical intervention (eg. treatment of seizure, raised ICP, hematoma evacuation)</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">1200</enrollment>
+  <condition>Traumatic Brain Injury</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult TBI patients&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Arrival to the hospital within 6 hours of injury&#xD;
+&#xD;
+          -  Age &gt;= 18 years old&#xD;
+&#xD;
+          -  Patients with traumatic brain injury(TBI). TBI is defined as any alteration or loss of&#xD;
+             consciousness with or without positive head C.T findings.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Deemed to have a non-survivable TBI&#xD;
+&#xD;
+          -  Brain dead on arrival&#xD;
+&#xD;
+          -  Active substance abuse for opiates and cocaine as noted by admission toxicology&#xD;
+             screen.&#xD;
+&#xD;
+          -  Any thoracic or abdominal injury resulting in open surgical intervention&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Prisoners&#xD;
+&#xD;
+          -  Active military&#xD;
+&#xD;
+          -  Non - English speaking (due to necessity for consent in aims 2 and 3)&#xD;
+&#xD;
+          -  Age &gt; 89 years&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>79 Years</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Neeraj Badjatia, MD MSc</last_name>
+    <phone>14103284515</phone>
+    <email>nbadjatia@umm.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Maryland Medical Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Neeraj Badjatia</last_name>
+      <phone>410-328-4515</phone>
+      <email>nbadjatia@umm.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 19, 2021</study_first_posted>
+  <last_update_submitted>October 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Maryland, Baltimore</investigator_affiliation>
+    <investigator_full_name>Neeraj Badjatia</investigator_full_name>
+    <investigator_title>Professor, Department of Neurology</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Brain Injuries</mesh_term>
+    <mesh_term>Brain Injuries, Traumatic</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4498">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05102643</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CTC2107</org_study_id>
+    <nct_id>NCT05102643</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate Safety &amp; Immunogenicity of SARS-CoV-2 DNA Vaccine Delivered Intramuscularly Followed by Electroporation for COVID-19</brief_title>
+  <official_title>A Phase 1, Randomized, Double-blinded, Placebo-controlled, Dose-escalation Study to Evaluate the Safety and Immunogenicity of SARS-CoV-2 DNA Vaccine Delivered Intramuscularly Followed by Electroporation for COVID-19 in Healthy Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The University of Hong Kong</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Immuno Cure 3 Limited</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The University of Hong Kong</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To investigate the safety and immunogenicity profile of of a novel and investigational&#xD;
+      SARS-CoV-2 DNA vaccine, which is delivered intramuscularly followed by electroporation to&#xD;
+      enhance vaccine penetration, as a potential prophylactic vaccine for current pandemic disease&#xD;
+      COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a first-in-human, randomized, double-blinded, placebo-controlled study which&#xD;
+      comprises two cohorts. Each subject will receive 2 vaccinations 3 weeks apart at one of the 2&#xD;
+      dose levels or matching placebo. Each subject will only participate in one cohort. The&#xD;
+      approximate duration for each subject's participation in the study (from screening to Day&#xD;
+      50(±3) visit) is 2.5 months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2021</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Subjects will be enrolled into 2 cohorts and each subject will receive 2 vaccinations at one of the 2 dose levels or matching placebo. Each subject will only participate in one cohort. A Safety Review Committee (SRC) will be set up to review safety data and make decision on dose escalation.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Reactogenicity</measure>
+    <time_frame>Days 1 to 15 and Days 22 to 36</time_frame>
+    <description>Occurrence of solicited local events (pain, tenderness, redness, warmth, itch, swelling, induration) and solicited systemic events (fever, headache, malaise, myalgia, joint pain, nausea, vomiting, diarrhea, abdominal pain, chills and sweating) for a 14-day period after each vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adverse Events</measure>
+    <time_frame>Days 1 to 50(±3)</time_frame>
+    <description>Occurrence of unsolicited AEs, Serious Adverse Events (SAEs) and Adverse Events of Special Interest (AESIs)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Binding Antibodies in Serum against SARS-CoV-2 RBD Measured by ELISA</measure>
+    <time_frame>Day 1(pre-dose), 8(+1), 15(+1), 22(pre-dose), 29(+1), 36(+1) and 50(±3) visits</time_frame>
+    <description>Measurement of binding antibody responses by ELISA in serum samples</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing Antibodies in Serum against Live SARS-CoV-2 Measured by Neutralization Assay</measure>
+    <time_frame>Day 1(pre-dose), 8(+1), 15(+1), 22(pre-dose), 29(+1), 36(+1) and 50(±3) visits</time_frame>
+    <description>Measurement of neutralizing antibody levels by microneutralization (MN) assay in serum samples</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Test Product</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SARS-CoV-2 DNA Vaccine at 1mg and 2mg, 2 doses 3 weeks apart, intramuscular injection followed by electroporation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Reference Product</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matching placebo, 2 doses 3 weeks apart, intramuscular injection followed by electroporation</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 DNA Vaccine</intervention_name>
+    <description>A novel vaccine developed for prophylaxis of COVID-19 based on HKU's PD-1-based DNA vaccine platform. It encodes a recombinant antigen comprising a soluble human PD-1 domain (i.e. programmed cell death protein, a member of the Cluster of Differentiation 28 (CD28) family) and the receptor binding domain (RBD) of SARS-CoV-2 (i.e. the key viral entry element).</description>
+    <arm_group_label>Test Product</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Matching placebo</intervention_name>
+    <description>Solution for intramuscular injection</description>
+    <arm_group_label>Reference Product</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Informed Consent: The subject (or the subject's legally acceptable representative, if&#xD;
+             applicable) must be capable of giving written informed consent and, prior to the&#xD;
+             commencement of any study-specific procedure, must sign an ICF indicating the consent&#xD;
+             on the subject's voluntary participation in the study and compliance with the&#xD;
+             requirements and restrictions listed on the ICF.&#xD;
+&#xD;
+          2. Gender and Age: Male or female, at the age of ≥ 18 and ≤ 55 on the day of signing the&#xD;
+             ICF.&#xD;
+&#xD;
+          3. Body Weight and BMI: Body weight ≥ 50 kg and BMI ≥ 18.5 kg/m2 and &lt; 25 kg/m2 at&#xD;
+             screening and baseline.&#xD;
+&#xD;
+          4. Medical Conditions or Diagnoses: Existence of all of the following medical conditions&#xD;
+             or diagnoses:&#xD;
+&#xD;
+               1. Generally in good health with no clinically significant abnormality, as&#xD;
+                  determined by medical history, physical examination, 12-lead ECG and clinical&#xD;
+                  laboratory tests at screening and baseline;&#xD;
+&#xD;
+               2. Normal vital signs at screening and baseline, as defined by:&#xD;
+&#xD;
+                    -  Body (tympanic) temperature ≤ 37.5oC;&#xD;
+&#xD;
+                    -  Resting pulse rate ≥ 50 and ≤ 100 bpm; and&#xD;
+&#xD;
+                    -  DBP ≥ 50 and ≤ 90 mmHg and SBP ≥ 90 and ≤ 140 mmHg.&#xD;
+&#xD;
+          5. Contraception: Willingness and agreement to undertake measures to avoid pregnancy of&#xD;
+             the subject or the subject's sexual partner(s) as detailed below:&#xD;
+&#xD;
+               1. A female subject who is a woman of childbearing potential (WOCBP) must be willing&#xD;
+                  and agree to remain abstinent or practise at least one effective contraceptive&#xD;
+                  method from at least 30 days prior to the first vaccination until 60 days after&#xD;
+                  the second vaccination;&#xD;
+&#xD;
+               2. A male subject (i) who is sexually active with a WOCBP (except who is permanently&#xD;
+                  sterile by bilateral orchiectomy or vasectomy) must be willing and agree to&#xD;
+                  remain abstinent or practise at least one effective contraceptive method from the&#xD;
+                  first vaccination until 60 days after the second vaccination; and (ii) must be&#xD;
+                  willing and agree to refrain from sperm donation during the aforesaid period.&#xD;
+&#xD;
+          6. Breastfeeding: A female subject must be willing and agree to avoid engagement in&#xD;
+             breastfeeding at any time from the first vaccination until 60 days after the second&#xD;
+             vaccination.&#xD;
+&#xD;
+          7. Blood Donation: Willingness and agreement to avoid blood donation from screening to&#xD;
+             the end of the period of participation in this study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Medical History: History of any of the following diseases or conditions:&#xD;
+&#xD;
+               1. COVID-19;&#xD;
+&#xD;
+               2. SARS;&#xD;
+&#xD;
+               3. Any significant respiratory diseases (e.g. COPD, asthma);&#xD;
+&#xD;
+               4. Any significant cardiovascular disease (e.g. angina, cardiac arrhythmias);&#xD;
+&#xD;
+               5. Blood dyscrasias or any significant disorder of coagulation;&#xD;
+&#xD;
+               6. Any chronic liver disease (e.g. autoimmune hepatitis and cirrhosis);&#xD;
+&#xD;
+               7. Any chronic infection (e.g. hepatitis B, hepatitis C and HIV);&#xD;
+&#xD;
+               8. Any malignant neoplastic disease;&#xD;
+&#xD;
+               9. Encephalopathy, neuropathy or unstable central nervous system (CNS) pathology;&#xD;
+&#xD;
+              10. Any psychiatric disorder, psychotic disorder, major affective disorder or&#xD;
+                  suicidal ideation;&#xD;
+&#xD;
+              11. Any immunodeficiency or autoimmune disease;&#xD;
+&#xD;
+              12. Any severe allergic reaction (e.g. anaphylaxis) to any vaccine or substance,&#xD;
+                  which requires hospitalization or emergency medical care;&#xD;
+&#xD;
+              13. History of alcohol or illicit drug abuse, or used any illicit drug within 6&#xD;
+                  months prior to screening.&#xD;
+&#xD;
+          2. Medical Conditions or Diagnoses: Existence of any of the following medical conditions&#xD;
+             or diagnoses:&#xD;
+&#xD;
+               1. Positive serum pregnancy test at screening or positive urine pregnancy test at&#xD;
+                  baseline (for WOCBP);&#xD;
+&#xD;
+               2. IgE level &gt; 1,000 IU/ml at screening;&#xD;
+&#xD;
+               3. Positive SARS-CoV-2 test result in serum or deep throat saliva (DTS) within 4&#xD;
+                  days prior to baseline;&#xD;
+&#xD;
+               4. T3, T4 or TSH &lt; LLN or &gt; ULN at screening;&#xD;
+&#xD;
+               5. Positive HIV test result at screening;&#xD;
+&#xD;
+               6. Positive HBsAg test result at screening;&#xD;
+&#xD;
+               7. Positive HCV antibody test result at screening;&#xD;
+&#xD;
+               8. Positive urine drug screen test result or positive blood alcohol test result at&#xD;
+                  screening or baseline;&#xD;
+&#xD;
+               9. Any clinically significant findings (e.g. active or acute cardiac/pulmonary&#xD;
+                  diseases) from chest X-ray examination performed at or within 4 months prior to&#xD;
+                  screening.&#xD;
+&#xD;
+          3. Prior/Concomitant Interventions: Use of or undergoing any of the following prior or&#xD;
+             concomitant medications, therapies or interventions:&#xD;
+&#xD;
+               1. Any COVID-19 or coronavirus vaccine at any time prior to the first vaccination,&#xD;
+                  or planned use of any such vaccine throughout the study;&#xD;
+&#xD;
+               2. Any vaccine other than COVID-19 or coronavirus vaccines within 28 days prior to&#xD;
+                  the first vaccination, or planned use of any such vaccine up to 28 days after the&#xD;
+                  second vaccination;&#xD;
+&#xD;
+               3. Any immune-modifying medication/therapy (e.g. immunomodulator and&#xD;
+                  immunosuppressant) within 6 months prior to the first vaccination, or planned use&#xD;
+                  of any such medication/therapy throughout the study;&#xD;
+&#xD;
+               4. Any blood product (including blood transfusion) or immunoglobulin within 3 months&#xD;
+                  prior to the first vaccination, or planned use of any such therapy throughout the&#xD;
+                  study;&#xD;
+&#xD;
+               5. Any anticoagulation medication within 28 days prior to the first vaccination, or&#xD;
+                  planned use of any such medication up to 28 days after the second vaccination;&#xD;
+&#xD;
+               6. Any psychotropic medication within 28 days prior to the first vaccination, or&#xD;
+                  planned use of any such medication up to 28 days after the second vaccination;&#xD;
+&#xD;
+               7. Regular use of any topical corticosteroids at or near the intended administration&#xD;
+                  site (upper arm);&#xD;
+&#xD;
+               8. Any influenza antiviral medication within 48 hours prior to the first&#xD;
+                  vaccination, or planned use of any such medication up to 14 days after the second&#xD;
+                  vaccination;&#xD;
+&#xD;
+               9. Any prescription or over-the-counter medication or supplement product (e.g.&#xD;
+                  vitamin, dietary supplement, herbal preparation) within 7 days prior to the first&#xD;
+                  vaccination, unless with the investigator's approval for managing a chronic&#xD;
+                  condition;&#xD;
+&#xD;
+              10. Donated ≥ 450 ml of blood within 28 days prior to the first vaccination.&#xD;
+&#xD;
+          4. Prior/Concurrent Clinical Study: Prior or concurrent participation in any other&#xD;
+             clinical study, including:&#xD;
+&#xD;
+               1. Prior or current participation in another COVID-19 vaccine study;&#xD;
+&#xD;
+               2. Prior participation in any interventional clinical study and use of any&#xD;
+                  investigational intervention within 90 days prior to the first vaccination;&#xD;
+&#xD;
+               3. Concurrent participation or plan for participation in another interventional&#xD;
+                  clinical study during participation in this study.&#xD;
+&#xD;
+          5. Other Significant Medical Conditions: Any clinically significant concomitant disease&#xD;
+             or condition that, in the reasonable opinion of the investigator, may interfere with&#xD;
+             the subject's participation in this study or pose an unacceptable safety risk for the&#xD;
+             subject's participation in this study.&#xD;
+&#xD;
+          6. Special Conditions: Existence of any of the following special conditions:&#xD;
+&#xD;
+               1. Close contact with anyone known to have COVID-19 within 30 days prior to the&#xD;
+                  first vaccination;&#xD;
+&#xD;
+               2. Travelled outside Hong Kong within 14 days prior to the first vaccination;&#xD;
+&#xD;
+               3. Planned to travel outside Hong Kong at any time during the period from screening&#xD;
+                  to Day 50(±3) visit.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ivan Fan-ngai Hung</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The University of Hong Kong</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Volunteer Resource Centre</last_name>
+    <phone>85296812309</phone>
+    <email>ctcvrc@hku.hk</email>
+  </overall_contact>
+  <link>
+    <url>https://www.fda.gov/media/73679/download</url>
+    <description>Accessed on 07 January 2021</description>
+  </link>
+  <link>
+    <url>https://www.gmp-compliance.org/files/guidemgr/E9-R1_Step4_Guideline_2019_1203.pdf</url>
+    <description>Accessed on 28 July 2021</description>
+  </link>
+  <link>
+    <url>https://covid19.who.int/table</url>
+    <description>Accessed on 28 July 2021</description>
+  </link>
+  <reference>
+    <citation>SARS-CoV-2 DNA Vaccine - Investigator's Brochure (Version 1.0, Dated 24-Sep-2021).</citation>
+  </reference>
+  <reference>
+    <citation>Alter G, Yu J, Liu J, Chandrashekar A, Borducchi EN, Tostanoski LH, McMahan K, Jacob-Dolan C, Martinez DR, Chang A, Anioke T, Lifton M, Nkolola J, Stephenson KE, Atyeo C, Shin S, Fields P, Kaplan I, Robins H, Amanat F, Krammer F, Baric RS, Le Gars M, Sadoff J, de Groot AM, Heerwegh D, Struyf F, Douoguih M, van Hoof J, Schuitemaker H, Barouch DH. Immunogenicity of Ad26.COV2.S vaccine against SARS-CoV-2 variants in humans. Nature. 2021 Aug;596(7871):268-272. doi: 10.1038/s41586-021-03681-2. Epub 2021 Jun 9.</citation>
+    <PMID>34107529</PMID>
+  </reference>
+  <reference>
+    <citation>Gallagher, K., Leick, M. B., Larson, R. C., Berger, T. R., Katsis, K., Yam, J. Y., Brini, G., Grauwet, K., MGH COVID-19 Collection &amp; Processing Team, &amp; Maus, M. V. (2021) 'SARS -CoV-2 T-cell immunity to variants of concern following vaccination', bioRxiv 2021.05.03.442455, Advance online publication. doi:10.1101/2021.05.03.442455.</citation>
+  </reference>
+  <reference>
+    <citation>Liu C, Lu Z, Xie Y, Guo Q, Geng F, Sun B, Wu H, Yu B, Wu J, Zhang H, Yu X, Kong W. Soluble PD-1-based vaccine targeting MUC1 VNTR and survivin improves anti-tumor effect. Immunol Lett. 2018 Aug;200:33-42. doi: 10.1016/j.imlet.2018.06.004. Epub 2018 Jun 9.</citation>
+    <PMID>29894719</PMID>
+  </reference>
+  <reference>
+    <citation>Martin JE, Sullivan NJ, Enama ME, Gordon IJ, Roederer M, Koup RA, Bailer RT, Chakrabarti BK, Bailey MA, Gomez PL, Andrews CA, Moodie Z, Gu L, Stein JA, Nabel GJ, Graham BS. A DNA vaccine for Ebola virus is safe and immunogenic in a phase I clinical trial. Clin Vaccine Immunol. 2006 Nov;13(11):1267-77. Epub 2006 Sep 20.</citation>
+    <PMID>16988008</PMID>
+  </reference>
+  <reference>
+    <citation>Modjarrad K, Roberts CC, Mills KT, Castellano AR, Paolino K, Muthumani K, Reuschel EL, Robb ML, Racine T, Oh MD, Lamarre C, Zaidi FI, Boyer J, Kudchodkar SB, Jeong M, Darden JM, Park YK, Scott PT, Remigio C, Parikh AP, Wise MC, Patel A, Duperret EK, Kim KY, Choi H, White S, Bagarazzi M, May JM, Kane D, Lee H, Kobinger G, Michael NL, Weiner DB, Thomas SJ, Maslow JN. Safety and immunogenicity of an anti-Middle East respiratory syndrome coronavirus DNA vaccine: a phase 1, open-label, single-arm, dose-escalation trial. Lancet Infect Dis. 2019 Sep;19(9):1013-1022. doi: 10.1016/S1473-3099(19)30266-X. Epub 2019 Jul 24.</citation>
+    <PMID>31351922</PMID>
+  </reference>
+  <reference>
+    <citation>Poland GA, Ovsyannikova IG, Kennedy RB. SARS-CoV-2 immunity: review and applications to phase 3 vaccine candidates. Lancet. 2020 Nov 14;396(10262):1595-1606. doi: 10.1016/S0140-6736(20)32137-1. Epub 2020 Oct 13. Review.</citation>
+    <PMID>33065034</PMID>
+  </reference>
+  <reference>
+    <citation>Sällberg M, Frelin L, Ahlén G, Sällberg-Chen M. Electroporation for therapeutic DNA vaccination in patients. Med Microbiol Immunol. 2015 Feb;204(1):131-5. doi: 10.1007/s00430-014-0384-8. Epub 2014 Dec 23. Review.</citation>
+    <PMID>25535102</PMID>
+  </reference>
+  <reference>
+    <citation>Tan Z, Chiu MS, Yan CW, Wong YC, Huang H, Man K, Chen Z. Antimesothelioma Immunotherapy by CTLA-4 Blockade Depends on Active PD1-Based TWIST1 Vaccination. Mol Ther Oncolytics. 2020 Feb 8;16:302-317. doi: 10.1016/j.omto.2020.01.009. eCollection 2020 Mar 27.</citation>
+    <PMID>32195318</PMID>
+  </reference>
+  <reference>
+    <citation>Tan Z, Zhou J, Cheung AK, Yu Z, Cheung KW, Liang J, Wang H, Lee BK, Man K, Liu L, Yuen KY, Chen Z. Vaccine-elicited CD8+ T cells cure mesothelioma by overcoming tumor-induced immunosuppressive environment. Cancer Res. 2014 Nov 1;74(21):6010-21. doi: 10.1158/0008-5472.CAN-14-0473. Epub 2014 Aug 14.</citation>
+    <PMID>25125656</PMID>
+  </reference>
+  <reference>
+    <citation>Tebas P, Roberts CC, Muthumani K, Reuschel EL, Kudchodkar SB, Zaidi FI, White S, Khan AS, Racine T, Choi H, Boyer J, Park YK, Trottier S, Remigio C, Krieger D, Spruill SE, Bagarazzi M, Kobinger GP, Weiner DB, Maslow JN. Safety and Immunogenicity of an Anti-Zika Virus DNA Vaccine - Preliminary Report. N Engl J Med. 2017 Oct 4. doi: 10.1056/NEJMoa1708120. [Epub ahead of print]</citation>
+    <PMID>28976850</PMID>
+  </reference>
+  <reference>
+    <citation>Tebas P, Yang S, Boyer JD, Reuschel EL, Patel A, Christensen-Quick A, Andrade VM, Morrow MP, Kraynyak K, Agnes J, Purwar M, Sylvester A, Pawlicki J, Gillespie E, Maricic I, Zaidi FI, Kim KY, Dia Y, Frase D, Pezzoli P, Schultheis K, Smith TRF, Ramos SJ, McMullan T, Buttigieg K, Carroll MW, Ervin J, Diehl MC, Blackwood E, Mammen MP, Lee J, Dallas MJ, Brown AS, Shea JE, Kim JJ, Weiner DB, Broderick KE, Humeau LM. Safety and immunogenicity of INO-4800 DNA vaccine against SARS-CoV-2: A preliminary report of an open-label, Phase 1 clinical trial. EClinicalMedicine. 2021 Jan;31:100689. doi: 10.1016/j.eclinm.2020.100689. Epub 2020 Dec 24.</citation>
+    <PMID>33392485</PMID>
+  </reference>
+  <reference>
+    <citation>Wang P, Zheng M, Lau SY, Chen P, Mok BW, Liu S, Liu H, Huang X, Cremin CJ, Song W, Chen Y, Wong YC, Huang H, To KK, Chen Z, Xia N, Yuen KY, Chen H. Generation of DelNS1 Influenza Viruses: a Strategy for Optimizing Live Attenuated Influenza Vaccines. mBio. 2019 Sep 17;10(5). pii: e02180-19. doi: 10.1128/mBio.02180-19.</citation>
+    <PMID>31530680</PMID>
+  </reference>
+  <reference>
+    <citation>Wong YC, Liu W, Yim LY, Li X, Wang H, Yue M, Niu M, Cheng L, Ling L, Du Y, Chen SMY, Cheung KW, Wang H, Tang X, Tang J, Zhang H, Song Y, Chakrabarti LA, Chen Z. Sustained viremia suppression by SHIVSF162P3CN-recalled effector-memory CD8+ T cells after PD1-based vaccination. PLoS Pathog. 2021 Jun 14;17(6):e1009647. doi: 10.1371/journal.ppat.1009647. eCollection 2021 Jun.</citation>
+    <PMID>34125864</PMID>
+  </reference>
+  <reference>
+    <citation>Vasan S, Hurley A, Schlesinger SJ, Hannaman D, Gardiner DF, Dugin DP, Boente-Carrera M, Vittorino R, Caskey M, Andersen J, Huang Y, Cox JH, Tarragona-Fiol T, Gill DK, Cheeseman H, Clark L, Dally L, Smith C, Schmidt C, Park HH, Kopycinski JT, Gilmour J, Fast P, Bernard R, Ho DD. In vivo electroporation enhances the immunogenicity of an HIV-1 DNA vaccine candidate in healthy volunteers. PLoS One. 2011;6(5):e19252. doi: 10.1371/journal.pone.0019252. Epub 2011 May 16.</citation>
+    <PMID>21603651</PMID>
+  </reference>
+  <reference>
+    <citation>Vivarelli S, Falzone L, Torino F, Scandurra G, Russo G, Bordonaro R, Pappalardo F, Spandidos DA, Raciti G, Libra M. Immune-checkpoint inhibitors from cancer to COVID-19: A promising avenue for the treatment of patients with COVID-19 (Review). Int J Oncol. 2021 Feb;58(2):145-157. doi: 10.3892/ijo.2020.5159. Epub 2020 Dec 14. Review.</citation>
+    <PMID>33491759</PMID>
+  </reference>
+  <reference>
+    <citation>Yu Z, Tan Z, Lee BK, Tang J, Wu X, Cheung KW, Lo NT, Man K, Liu L, Chen Z. Antigen spreading-induced CD8+T cells confer protection against the lethal challenge of wild-type malignant mesothelioma by eliminating myeloid-derived suppressor cells. Oncotarget. 2015 Oct 20;6(32):32426-38. doi: 10.18632/oncotarget.5856.</citation>
+    <PMID>26431275</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou J, Cheung AK, Tan Z, Wang H, Yu W, Du Y, Kang Y, Lu X, Liu L, Yuen KY, Chen Z. PD1-based DNA vaccine amplifies HIV-1 GAG-specific CD8+ T cells in mice. J Clin Invest. 2013 Jun;123(6):2629-42. doi: 10.1172/JCI64704. Epub 2013 May 1.</citation>
+    <PMID>23635778</PMID>
+  </reference>
+  <reference>
+    <citation>Development and Licensure of Vaccines to Prevent COVID-19 Guidance for Industry. U.S. Department of Health and Human Services Food and Drug Administration Center for Biologics Evaluation and Research, June 2020</citation>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 1, 2021</study_first_posted>
+  <last_update_submitted>October 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>The results of this study will be publicly disseminated by ways of publication(s) in peer-reviewed scientific journal(s), presentation(s) in scientific conference(s), posting on public clinical trial registry(ies) and/or otherwise instead of individual participant data (IPD) sharing.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4181">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05106764</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TAK-675-4011</org_study_id>
+    <nct_id>NCT05106764</nct_id>
+  </id_info>
+  <brief_title>Early Diagnosis of Fabry Disease</brief_title>
+  <official_title>Early Diagnosis of Fabry Disease (FD): Using Real-World Data for the Development of Advanced Natural Language Processing Methods. Retrospective Observational Database Analysis (Part A) and Prospective Diagnostic Study (Part B)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Takeda</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Takeda</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main aim of this observational study is early diagnosis of FD using real-world data for&#xD;
+      the development of advanced natural language processing methods.&#xD;
+&#xD;
+      This study consists of two parts:&#xD;
+&#xD;
+      Part A: To develop the predictive algorithm and measure how many participants the algorithm&#xD;
+      proposes as potential FD participants according to medical expert opinion.&#xD;
+&#xD;
+      Part B: To measure the proportion of participants with confirmed FD in relation to the total&#xD;
+      number of enrolled participants.&#xD;
+&#xD;
+      This study is about collecting data from hospital Electronic Health Record database to&#xD;
+      describe the ranking of participants with FD using multilevel likelihood ratios. No&#xD;
+      investigational medicinal product or device tested in this study.&#xD;
+&#xD;
+      Clinical data will be collected from a period up to 12 months and clinic visits will be&#xD;
+      required as part of participation in this study.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2021</start_date>
+  <completion_date type="Anticipated">November 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Part A: Percentage of Participants With Positive Predictive Value (PPV) at Different Cut-off Values (top 10, 20, 50, 100 and 200)</measure>
+    <time_frame>Up to End of the study (approximately 12 months)</time_frame>
+    <description>PPV is a clinically relevant statistical measure that indicates how likely participants that screen positive are to be affected by the condition assessed. Thus, the PPV can be considered as the percentage of participants which are identified as FD candidates by the ranking algorithm who are indeed FD participants. As FD predictive algorithm, we will use (multilevel) likelihood ratios (LRs) as this method permits a good use of clinical test results to establish diagnoses for the individual participant. LR is calculated, defined as the probability of a patient who has FD to present with this feature divided by the probability of a participant who not has FD to present with the feature: Likelihood ratio= features the participant/Fabry divided by features the participant/not Fabry. Positive predictive value of the algorithm at several cutoffs (top 10, top 20, top 50, top 100, top 200) will be reported.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part B: Percentage of Participants With Fabry Disease Confirmed by Genetic Testing</measure>
+    <time_frame>Up to End of the study (approximately 12 months)</time_frame>
+    <description>Percentage of participants with FD confirmed by genetic testing in relation to the total number of enrolled participants will be reported.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants that Enrolled in Part B of the Study and Consented to Genetic Testing for FD</measure>
+    <time_frame>Up to End of the study (approximately 12 months)</time_frame>
+    <description>Percentage of participants enrolled in part B of the study and consented to genetic testing for FD in relation to the proposed FD participants will be reported.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Fabry Disease</condition>
+  <arm_group>
+    <arm_group_label>Part A: Retrospective Database Analysis Cohort</arm_group_label>
+    <description>Participant's data will be collected retrospectively using epidemiological methods.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B: Prospective Diagnostic Study Cohort</arm_group_label>
+    <description>Participants with a high likelihood of having FD as identified by the algorithm will have a single blood drawing for laboratory and/or genetic testing to confirm diagnosis of FD.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants with Fabry disease will be enrolled in this study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+        For Part A and B:&#xD;
+&#xD;
+          -  In-patients of the participating hospital in the last 10 years.&#xD;
+&#xD;
+          -  Participant at any age.&#xD;
+&#xD;
+        For Part B additionally:&#xD;
+&#xD;
+        In addition for identified participants with a high likelihood of having FD- identified by&#xD;
+        the algorithm and confirmed by medical expert review as belonging to the top 50 FD&#xD;
+        candidates:&#xD;
+&#xD;
+          -  Participant and/or legal representative signed written informed consent form for study&#xD;
+             participation (including prospective data collection and genetic testing).&#xD;
+&#xD;
+          -  In the opinion of the investigator, the participant is capable of understanding and&#xD;
+             complying with protocol requirements.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Study Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Takeda</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Takeda Contact</last_name>
+    <phone>+1-877-825-3327</phone>
+    <email>medinfoUS@takeda.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Erlangen Kinder- und Jugendklinik</name>
+      <address>
+        <city>Erlangen</city>
+        <zip>91054</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <email>regina.trollmann@uk-erlangen.de</email>
+    </contact>
+    <investigator>
+      <last_name>Dr. Regina Trollmann, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Erlangen Neurologische Klinik</name>
+      <address>
+        <city>Erlangen</city>
+        <zip>91054</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+4991318533001</phone>
+      <email>matthias.tuerk@uk-erlangen.de</email>
+    </contact>
+    <investigator>
+      <last_name>Dr. Matthias Türk, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsmedizin Mainz Villa Metabolica Zentrum für Kinder- und Jugendmedizin</name>
+      <address>
+        <city>Mainz</city>
+        <zip>55131</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+49 (0) 6131-175754</phone>
+      <email>julia.hennermann@unimedizin-mainz.de</email>
+    </contact>
+    <investigator>
+      <last_name>Dr. Julia B. Hennermann, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 4, 2021</study_first_posted>
+  <last_update_submitted>October 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fabry Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Takeda provides access to the de-identified individual participant data (IPD) for eligible studies to aid qualified researchers in addressing legitimate scientific objectives (Takeda's data sharing commitment is available on https://clinicaltrials.takeda.com/takedas-commitment?commitment=5). These IPDs will be provided in a secure research environment following approval of a data sharing request, and under the terms of a data sharing agreement.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_access_criteria>IPD from eligible studies will be shared with qualified researchers according to the criteria and process described on https://vivli.org/ourmember/takeda/ For approved requests, the researchers will be provided access to anonymized data (to respect patient privacy in line with applicable laws and regulations) and with information necessary to address the research objectives under the terms of a data sharing agreement.</ipd_access_criteria>
+    <ipd_url>https://vivli.org/ourmember/takeda/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

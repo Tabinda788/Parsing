@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4073">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05108168</url>
+  </required_header>
+  <id_info>
+    <org_study_id>4-2020-1278</org_study_id>
+    <nct_id>NCT05108168</nct_id>
+  </id_info>
+  <brief_title>Analysis of Clinical featuRes and Echocardiographic Characteristics for Diagnosis of Infiltrative cardiomyopaThy (ACREDIT): Retrospective Multi-center Observational Study</brief_title>
+  <official_title>Analysis of Clinical featuRes and Echocardiographic Characteristics for Diagnosis of Infiltrative cardiomyopaThy (ACREDIT): Retrospective Multi-center Observational Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Yonsei University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Yonsei University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study sought to develop an algorithm by collecting echocardiographic image information&#xD;
+      and related clinical information capable of quantitatively evaluating changes of the&#xD;
+      myocardium through machine learning. Moreover, the researchers investigate the usefulness of&#xD;
+      an algorithm for early diagnosis and differential diagnosis of infiltrative cardiomyopathy.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      1. Study Design: Multicenter Retrospective Observational Study&#xD;
+&#xD;
+        2. Study method: If the above selection criteria are met, the index visit echocardiographic&#xD;
+           images which were performed immediately before or closest to the time of hospitalization&#xD;
+           for final diagnosis, echocardiographic images of the pre-visit and post-visit from the&#xD;
+           final diagnosis, and clinical information will be obtained. Chest X-ray,&#xD;
+           electrocardiogram, and echocardiography images are extracted in raw DICOM format and&#xD;
+           then analyzed in the core lab (Severance hospital). The characteristics of patients with&#xD;
+           infiltrative cardiomyopathy are identified through the collection of relevant clinical&#xD;
+           information, and a method for non-invasive early diagnosis and differential diagnosis of&#xD;
+           infiltrative cardiomyopathy is developed.&#xD;
+&#xD;
+        3. Quantative analysis of echocardiographic images using Radiomics&#xD;
+&#xD;
+             -  Radiomics is a method of extracting a large number of quantitative image features&#xD;
+                (300-500 features such as shape, entropy, volume, etc.) from non-invasive medical&#xD;
+                images (CT, MRI, etc.) and statistically analyzing the features. Its value has been&#xD;
+                demonstrated through the studies for prediction of breast cancer recurrence and&#xD;
+                lesion classification.&#xD;
+&#xD;
+             -  Using the open source platform PyRadiomics19, we extract the radiomic&#xD;
+                characteristics for brightness (Energy, Entropy, Mean, Median, etc.) and texture&#xD;
+                (Gray Level Co-occurrence Matrix Contrast, Difference Variance, Maximal Correlation&#xD;
+                Coefficient, etc.) from the set region of interest.&#xD;
+&#xD;
+             -  The differences between infiltrative cardiomyopathy and normal control are&#xD;
+                identified using clinical information and radiomics features extracted from&#xD;
+                echocardiography at the time of the diagnosis visit. The algorithms to distinguish&#xD;
+                the disease will be developed using machine learning methods such as support vector&#xD;
+                machine classifier.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 4, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 16, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Sensitivity</measure>
+    <time_frame>until June 30, 2022</time_frame>
+    <description>Sensitivity (True Positive Rate) refers to the proportion of those who have the infiltrative cardiomyopathy that received a positive result on the diagnostic algorythm by machine learning.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Specificity</measure>
+    <time_frame>until June 30, 2022</time_frame>
+    <description>Specificity refers to the proportion of those who do not have the infiltrative cardiomyopathy that received a negative result on the test.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area under the curve of the receiver operation characteristics</measure>
+    <time_frame>until June 30, 2022</time_frame>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Infiltrative Cardiomyopathy</condition>
+  <arm_group>
+    <arm_group_label>infiltrative cardiomyopathy</arm_group_label>
+    <description>infiltrative cardiomyopathy</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        It is important to obtain as large image data as possible to develop an algorithm capable&#xD;
+        of diagnosing various infiltrative myocardial diseases.&#xD;
+&#xD;
+        Infiltrative cardiomyopathy is a rare disease, and it was reported that the prevalence of&#xD;
+        cardiac amyloidosis in Korea was 1.91 per 100,000 in 2015.2 In the case of other diseases,&#xD;
+        there has been no report of the prevalence in Korea, but reports from an overseas report&#xD;
+        that cardiac sarcoidosis is 2.2 per 100,000, 8 and Fabry disease is 0.9 to 2.5 per 100,000.&#xD;
+        9,10 Securing enough data that can be learned to improve machine learning accuracy is not&#xD;
+        easy because of the scarcity of invasive cardiomyopathy. Furthermore, it is difficult to&#xD;
+        confirm the disease. Therefore, it is necessary to review and obtain clinical information&#xD;
+        and echocardiographic image data of as many confirmed patients as possible. This study is a&#xD;
+        retrospective observational study, and the expected number of target subjects is about 500.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion/exclusion criteria&#xD;
+&#xD;
+          1. Selection criteria for screening (1) 18 years old or older (2) Patients with&#xD;
+             infiltrative cardiomyopathy (the diagnostic name for each of the following diseases)&#xD;
+             or systemic disease (such as amyloidosis, multiple myeloma, sarcoidosis) (3) Search&#xD;
+             Period: January 1, 2010-December 31, 2020&#xD;
+&#xD;
+          2. Criteria for enrolling patients&#xD;
+&#xD;
+               -  Patients who are satisfied with at least one of each definition are selected.&#xD;
+&#xD;
+                    -  Cardiac amyloidosis1,5,11,12 I. 'Definite': Positive myocardial biopsy&#xD;
+                       (Congo-Red positive) II. 'Probable': One of the following imaging findings&#xD;
+                       along with a positive biopsy of tissues other than myocardium A. Positive&#xD;
+                       DPD / PYP scan Grade 2-3 cardiac uptake B. Echocardiography Symmetrical&#xD;
+                       increase in LV and RV wall thickness Dilated LA and RA Granular appearance&#xD;
+                       of myocardium Pericardial effusion Decreased or normal RQS complex voltage&#xD;
+                       despite increased LV wall thickness C. Cardiac magnetic resonance imaging&#xD;
+                       Diffuse subendocardial late Gd-enhancement Elevated native T1 and ECV value&#xD;
+                       III. 'Possible': Two or more of the above imaging findings are satisfied&#xD;
+                       without biopsy findings, and it is suitable for the diagnosis according to&#xD;
+                       all clinical findings&#xD;
+&#xD;
+                       ② Cardiac sarcoidosis13,14,15,16 I. 'Definite': If all of the following are&#xD;
+                       satisfied A. Noncaseating, multinucleated giant cell granuloma surrounded by&#xD;
+                       bands of dense collagen fibers in endomyocardial biopsy B. Compatible&#xD;
+                       clinical presentation C. Exclusion of other causes of granulomatous&#xD;
+                       inflammation II. 'Probable': Two or more of the following findings along&#xD;
+                       with a positive biopsy of tissues other than myocardium A. Electrocardiogram&#xD;
+                       High-grade atrioventricular block (including complete atrioventricular&#xD;
+                       block) or fatal ventricular arrhythmia (e.g., sustained ventricular&#xD;
+                       tachycardia and ventricular fibrillation) B. Echocardiography Variable focal&#xD;
+                       LV wall thinning (frequently at the basal septum, lateral wall) Focal wall&#xD;
+                       motion abnormalities do not match coronary artery territory C. Cardiac&#xD;
+                       magnetic resonance imaging Patch, basal and lateral LV wall late&#xD;
+                       Gd-enhancement D. Positron Emission Tomography - Computed Tomography Focal&#xD;
+                       increased FDG-uptake IV. 'Possible': Two or more of the above imaging&#xD;
+                       findings are satisfied without biopsy findings, and it is suitable for the&#xD;
+                       diagnosis according to all clinical findings&#xD;
+&#xD;
+                         -  Hemochromatosis 17 I. 'Definite': Positive myocardial biopsy Iron&#xD;
+                            deposits within the myocyte II. 'Probable': Non-myocardial tissue&#xD;
+                            biopsy positive or iron overload clinical evidence (such as hereditary&#xD;
+                            hemochromatosis, transfusion-dependent anemia) and the following&#xD;
+                            imaging findings A. Echocardiography Dilated LV with global systolic&#xD;
+                            dysfunction B. Cardiac magnetic resonance imaging Low T2* value of&#xD;
+                            myocardium&#xD;
+&#xD;
+             Etc&#xD;
+&#xD;
+             ① Fabry disease18,19 I. 'Definite': Positive myocardial biopsy Enlarged myocytes with&#xD;
+             clusters of concentric glycolipid (myelinoid bodies) within lysosomes II. 'Probable':&#xD;
+             A-galactosidase A screening test and X-linked genetic test positive, along with the&#xD;
+             following echocardiographic findings A. Echocardiography Symmetrical increase in LV&#xD;
+             and RV wall thickness&#xD;
+&#xD;
+             ② Danon disease20 I. 'Definite': Positive for genetic testing or biopsy of myocardial&#xD;
+             tissue, along with the following echocardiographic findings Symmetrical increase in LV&#xD;
+             and/or RV wall thickness Decreased LV systolic function&#xD;
+&#xD;
+             ③ Cardiac oxalosis1 I. 'Definite': Positive myocardial biopsy II. 'Probable': The&#xD;
+             following echocardiographic findings along with a history of massive transfusion or&#xD;
+             positive biopsy of tissues other than myocardium Symmetrical increase in LV and RV&#xD;
+             wall thickness Patchy, echodense speckled reflection&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hyuk-jae Chang</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Yonsei University Health System, Severance Hospital, Division of Cardiology</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Hyuk-jae Chang</last_name>
+    <phone>+82 2-2228-8460</phone>
+    <email>hjchang@yuhs.ac</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Yonsei University Health System, Severance Hospital, Division of Cardiology</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hyuk-jae Chang</last_name>
+      <phone>+82 2-2228-8460</phone>
+      <email>hjchang@yuhs.ac</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <reference>
+    <citation>Seward JB, Casaclang-Verzosa G. Infiltrative cardiovascular diseases: cardiomyopathies that look alike. J Am Coll Cardiol. 2010 Apr 27;55(17):1769-79. doi: 10.1016/j.jacc.2009.12.040. Review.</citation>
+    <PMID>20413025</PMID>
+  </reference>
+  <reference>
+    <citation>van Griethuysen JJM, Fedorov A, Parmar C, Hosny A, Aucoin N, Narayan V, Beets-Tan RGH, Fillion-Robin JC, Pieper S, Aerts HJWL. Computational Radiomics System to Decode the Radiographic Phenotype. Cancer Res. 2017 Nov 1;77(21):e104-e107. doi: 10.1158/0008-5472.CAN-17-0339.</citation>
+    <PMID>29092951</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 4, 2021</study_first_posted>
+  <last_update_submitted>October 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cardiomyopathies</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

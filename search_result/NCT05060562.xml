@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7734">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05060562</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1407212101</org_study_id>
+    <nct_id>NCT05060562</nct_id>
+  </id_info>
+  <brief_title>Post Coronavirus Disease (COVID-19) Syndrome Indonesian Population</brief_title>
+  <official_title>Predictors of the Occurrence of Post Coronavirus Disease Syndrome Among COVID-19 Patients in Indonesia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hasanuddin University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Chulalongkorn University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hasanuddin University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background and Objective Persistent symptoms after COVID 19 episodes (or referred to as Long&#xD;
+      COVID) can appear at a certain period and affect the quality of life of the patients, as well&#xD;
+      as introduce other comorbidities. It is important to address the associated factors of&#xD;
+      persistent symptoms after the COVID 19 episode. By identifying these factors, a screening&#xD;
+      method could be deployed to detect individuals that are prone to persistent COVID 19&#xD;
+      symptoms.&#xD;
+&#xD;
+      Method:&#xD;
+&#xD;
+      This cohort study recruit COVID 19 patients at all stages in Indonesia (including people who&#xD;
+      underwent home isolation). Patient-based clinical information is collected from the patient&#xD;
+      including the demographic information, general health status, COVID 19 vaccination, and COVID&#xD;
+      19 treatment. The outcome is the occurrence of persistent COVID 19-related symptoms after&#xD;
+      being declared as cured. A logistic regression model and Cox Regression are applied to the&#xD;
+      model to find the associated factors. Machine learning and Deep Learning model will be&#xD;
+      constructed and deployed into a web-based application for a further screening program.&#xD;
+&#xD;
+      Hypothesis:&#xD;
+&#xD;
+        1. There is an association between duration of COVID episode, repeated COVID episode, and&#xD;
+           the presence of persistent COVID 19 Symptoms&#xD;
+&#xD;
+        2. Vaccinated individual who was infected with Severe Acute Respiratory Syndrome (SARS)&#xD;
+           Coronavirus 2 (COV2) will have less persistent COVID 19 symptoms&#xD;
+&#xD;
+        3. Individuals with comorbidities are prone to persistent COVID 19 Symptoms&#xD;
+&#xD;
+        4. Appropriate medications (including early administration of antiviral therapy) lead to a&#xD;
+           lower probability of persistent COVID 19 Symptoms&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Target Population:&#xD;
+&#xD;
+      As explained in the study population section&#xD;
+&#xD;
+      Recruitment&#xD;
+&#xD;
+        1. Snowball technique from the COVID 19 survivor groups&#xD;
+&#xD;
+        2. Online questionnaire is provided to obtain the data&#xD;
+&#xD;
+      Data Source:&#xD;
+&#xD;
+        1. Medical Resume&#xD;
+&#xD;
+        2. Laboratory Information possessed by individuals&#xD;
+&#xD;
+        3. Telemedicine observation possessed by individuals&#xD;
+&#xD;
+      Predictors:&#xD;
+&#xD;
+        1. Demographic factors (age at diagnosis and current age at data collection, sex at birth,&#xD;
+           occupation, education, province of domicile, and possession of health insurance during&#xD;
+           COVID 19 infection)&#xD;
+&#xD;
+        2. General health status (Body Mass Index, presence of chronic disease and comorbidities,&#xD;
+           smoking, alcohol drinking, moderate physical activity)&#xD;
+&#xD;
+        3. History of COVID 19 vaccination (date, type of vaccine, booster dose, side effect, and&#xD;
+           medication following the vaccination)&#xD;
+&#xD;
+        4. COVID 19 episode (date of diagnosis, method of diagnosis confirmation, history of&#xD;
+           suspected SARS COV2 reinfection, Cycle-Threshold (CT) value, the symptoms and duration&#xD;
+           of the symptoms, medication, oxygen supplementation, hospitalization, or receiving&#xD;
+           plasma convalescent therapy)&#xD;
+&#xD;
+      List of persistent COVID 19 symptoms in this study (and not limited to)&#xD;
+&#xD;
+        1. Neurological and Psychiatric symptoms&#xD;
+&#xD;
+             -  Anxiety&#xD;
+&#xD;
+             -  Depression&#xD;
+&#xD;
+             -  Sleep disturbances&#xD;
+&#xD;
+             -  PTSD&#xD;
+&#xD;
+             -  Cognitive impairment&#xD;
+&#xD;
+        2. Ear Nose Throat symptoms&#xD;
+&#xD;
+             -  Persistent anosmia&#xD;
+&#xD;
+             -  Persistent ageusia&#xD;
+&#xD;
+             -  Tinnitus and other hearing disorders&#xD;
+&#xD;
+        3. Respiratory Symptoms&#xD;
+&#xD;
+             -  Chronic cough&#xD;
+&#xD;
+             -  Shortness of breath&#xD;
+&#xD;
+        4. Cardiovascular symptoms&#xD;
+&#xD;
+             -  Peripheral artery disease&#xD;
+&#xD;
+             -  New onset of arrhythmia&#xD;
+&#xD;
+             -  Carditis (either pericarditis or myocarditis)&#xD;
+&#xD;
+        5. Hematological symptoms&#xD;
+&#xD;
+           • Thromboembolic event&#xD;
+&#xD;
+        6. Renal Disorder&#xD;
+&#xD;
+           • Reduced filtration function&#xD;
+&#xD;
+        7. Musculoskeletal disorder&#xD;
+&#xD;
+             -  Chronic fatigue&#xD;
+&#xD;
+             -  Joint pain&#xD;
+&#xD;
+             -  Muscular pain&#xD;
+&#xD;
+        8. Dermatology disorder&#xD;
+&#xD;
+             -  Rash&#xD;
+&#xD;
+             -  Hair loss&#xD;
+&#xD;
+        9. Gastrointestinal disorder&#xD;
+&#xD;
+             -  Chronic Diarrhea&#xD;
+&#xD;
+             -  Irritable Bowel Syndrome&#xD;
+&#xD;
+      Study Size&#xD;
+&#xD;
+        1. The one-sample proportion formula&#xD;
+&#xD;
+        2. Type I error value as 5%.&#xD;
+&#xD;
+        3. The prevalence of COVID 19 in Indonesia is 1%&#xD;
+&#xD;
+        4. Absolute value of margin of error set as 0.5%&#xD;
+&#xD;
+        5. the total sample needed is 1152 participants.&#xD;
+&#xD;
+      Proposed Statistical Analysis&#xD;
+&#xD;
+        1. Data cleaning was conducted&#xD;
+&#xD;
+        2. No imputation to missing data&#xD;
+&#xD;
+        3. Descriptive statistics and normality tests&#xD;
+&#xD;
+        4. Logistic regression to analyze the associated factors of each outcome followed by&#xD;
+           estimating the adjusted odds ratio.&#xD;
+&#xD;
+        5. The time-to-event analysis for post COVID symptoms was conducted in a certain subgroup&#xD;
+           of the variables using the cox regression model.&#xD;
+&#xD;
+        6. Neural Network model and deployment into a web-based application&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 1, 2021</start_date>
+  <completion_date type="Anticipated">February 15, 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Presence of post COVID 19 Symptoms two weeks</measure>
+    <time_frame>within two weeks after declared cured</time_frame>
+    <description>Any COVID-related symptoms persist after declared cured. Defined as a binary response, yes or no</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Presence of post COVID 19 Symptoms four weeks</measure>
+    <time_frame>within four weeks after declared cured</time_frame>
+    <description>Any COVID-related symptoms persist after declared cured. Defined as a binary response, yes or no</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Presence of post COVID 19 Symptoms eight weeks</measure>
+    <time_frame>within eight weeks after declared cured</time_frame>
+    <description>Any COVID-related symptoms persist after declared cured. Defined as a binary response, yes or no</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Presence of post COVID 19 Symptoms twelve weeks</measure>
+    <time_frame>within twelve weeks after declared cured</time_frame>
+    <description>Any COVID-related symptoms persist after declared cured. Defined as a binary response, yes or no</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Presence of post COVID 19 Symptoms six months</measure>
+    <time_frame>within six months after declared cured</time_frame>
+    <description>Any COVID-related symptoms persist after declared cured. Defined as a binary response, yes or no</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Presence of post COVID 19 Symptoms among vaccinated individual diagnosed with COVID 19</measure>
+    <time_frame>within six months after declared cured</time_frame>
+    <description>Any COVID-related symptoms persist after declared cured among vaccinated individual. Defined as a binary response, yes or no</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">1152</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Post COVID 19 symptoms Positive</arm_group_label>
+    <description>The presence of persistent COVID-related symptoms after being cured.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Post COVID 19 symptoms Negative</arm_group_label>
+    <description>No persistent COVID-related symptoms after cured</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>COVID 19 positive</intervention_name>
+    <description>Diagnosed as COVID 19 patient using Real-Time Polymerase Chain Reaction (RT-PCR) with the nasopharyngeal swab, or Rapid Antigen test of nasopharyngeal swab with suggestive symptoms.</description>
+    <arm_group_label>Post COVID 19 symptoms Negative</arm_group_label>
+    <arm_group_label>Post COVID 19 symptoms Positive</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>COVID 19 negative</intervention_name>
+    <description>Suspected COVID 19 patients who were tested negative using either Real-Time Polymerase Chain Reaction (RT-PCR) with the nasopharyngeal swab, or Rapid Antigen test of nasopharyngeal swab.</description>
+    <arm_group_label>Post COVID 19 symptoms Negative</arm_group_label>
+    <arm_group_label>Post COVID 19 symptoms Positive</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Any stage of Coronavirus Disease 2019 patients during the pandemic in Indonesia that are&#xD;
+        able to provide their clinical information and daily observation with the details as&#xD;
+        follows&#xD;
+&#xD;
+          1. Asymptomatic or mild cases who underwent home isolation with telemedicine&#xD;
+&#xD;
+          2. Patient admitted to the field hospital for close monitoring (including asymptomatic or&#xD;
+             mild cases with comorbidities)&#xD;
+&#xD;
+          3. Patient admitted to the general hospital that requires oxygen supplementation, plasma&#xD;
+             convalescent therapy, or intensive care.&#xD;
+&#xD;
+        Source of data including :&#xD;
+&#xD;
+          1. Daily observation record&#xD;
+&#xD;
+          2. Laboratory information&#xD;
+&#xD;
+          3. Medical Resume given to the patient&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria&#xD;
+&#xD;
+          1. Age above 18 years old&#xD;
+&#xD;
+          2. Diagnosed as Coronavirus Disease 2019 by RT- PCR, or Rapid Antigen&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          1. Unable to retrieve information regarding the persistent symptoms&#xD;
+&#xD;
+          2. Died within six months after declared as cured&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bumi Herman, M.D Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Chulalongkorn University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Sathirakorn Pongpanich, Ph.D</last_name>
+    <role>Study Director</role>
+    <affiliation>Chulalongkorn University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Pramon Viwattanakulvanid, Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Chulalongkorn University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Bumi Herman, M.D.Ph.D</last_name>
+    <phone>0638275008</phone>
+    <email>bumiherman@med.unhas.ac.id</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Pramon Viwattanakulvanid, Ph.D</last_name>
+    <email>pramon.v@chula.ac.th</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hasanuddin University Medical Research Center / HUMRC</name>
+      <address>
+        <city>Makasar</city>
+        <state>South Sulawesi</state>
+        <zip>90245</zip>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bumi Herman, M.D, Ph.D</last_name>
+      <email>bumiherman@med.unhas.ac.id</email>
+    </contact>
+    <investigator>
+      <last_name>Bumi Herman, M.D Ph.D</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Firman Hasan, M.D</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Karina Patricia, M.D</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Muthiah Abustani, M.D</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Allen Aditya, M.D</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Indonesia</country>
+  </location_countries>
+  <link>
+    <url>https://tinyurl.com/studipostcovid</url>
+    <description>Questionnaire in Indonesian language</description>
+  </link>
+  <reference>
+    <citation>Carfì A, Bernabei R, Landi F; Gemelli Against COVID-19 Post-Acute Care Study Group. Persistent Symptoms in Patients After Acute COVID-19. JAMA. 2020 Aug 11;324(6):603-605. doi: 10.1001/jama.2020.12603.</citation>
+    <PMID>32644129</PMID>
+  </reference>
+  <reference>
+    <citation>Huang C, Huang L, Wang Y, Li X, Ren L, Gu X, Kang L, Guo L, Liu M, Zhou X, Luo J, Huang Z, Tu S, Zhao Y, Chen L, Xu D, Li Y, Li C, Peng L, Li Y, Xie W, Cui D, Shang L, Fan G, Xu J, Wang G, Wang Y, Zhong J, Wang C, Wang J, Zhang D, Cao B. 6-month consequences of COVID-19 in patients discharged from hospital: a cohort study. Lancet. 2021 Jan 16;397(10270):220-232. doi: 10.1016/S0140-6736(20)32656-8. Epub 2021 Jan 8.</citation>
+    <PMID>33428867</PMID>
+  </reference>
+  <reference>
+    <citation>Ahmed H, Patel K, Greenwood DC, Halpin S, Lewthwaite P, Salawu A, Eyre L, Breen A, O'Connor R, Jones A, Sivan M. Long-term clinical outcomes in survivors of severe acute respiratory syndrome and Middle East respiratory syndrome coronavirus outbreaks after hospitalisation or ICU admission: A systematic review and meta-analysis. J Rehabil Med. 2020 May 31;52(5):jrm00063. doi: 10.2340/16501977-2694.</citation>
+    <PMID>32449782</PMID>
+  </reference>
+  <reference>
+    <citation>Hui DS, Joynt GM, Wong KT, Gomersall CD, Li TS, Antonio G, Ko FW, Chan MC, Chan DP, Tong MW, Rainer TH, Ahuja AT, Cockram CS, Sung JJ. Impact of severe acute respiratory syndrome (SARS) on pulmonary function, functional capacity and quality of life in a cohort of survivors. Thorax. 2005 May;60(5):401-9.</citation>
+    <PMID>15860716</PMID>
+  </reference>
+  <reference>
+    <citation>Lam MH, Wing YK, Yu MW, Leung CM, Ma RC, Kong AP, So WY, Fong SY, Lam SP. Mental morbidities and chronic fatigue in severe acute respiratory syndrome survivors: long-term follow-up. Arch Intern Med. 2009 Dec 14;169(22):2142-7. doi: 10.1001/archinternmed.2009.384.</citation>
+    <PMID>20008700</PMID>
+  </reference>
+  <reference>
+    <citation>Lee SH, Shin HS, Park HY, Kim JL, Lee JJ, Lee H, Won SD, Han W. Depression as a Mediator of Chronic Fatigue and Post-Traumatic Stress Symptoms in Middle East Respiratory Syndrome Survivors. Psychiatry Investig. 2019 Jan;16(1):59-64. doi: 10.30773/pi.2018.10.22.3. Epub 2019 Jan 7.</citation>
+    <PMID>30605995</PMID>
+  </reference>
+  <reference>
+    <citation>Moldofsky H, Patcai J. Chronic widespread musculoskeletal pain, fatigue, depression and disordered sleep in chronic post-SARS syndrome; a case-controlled study. BMC Neurol. 2011 Mar 24;11:37. doi: 10.1186/1471-2377-11-37.</citation>
+    <PMID>21435231</PMID>
+  </reference>
+  <reference>
+    <citation>Greenhalgh T, Knight M, A'Court C, Buxton M, Husain L. Management of post-acute covid-19 in primary care. BMJ. 2020 Aug 11;370:m3026. doi: 10.1136/bmj.m3026.</citation>
+    <PMID>32784198</PMID>
+  </reference>
+  <reference>
+    <citation>Shah W, Hillman T, Playford ED, Hishmeh L. Managing the long term effects of covid-19: summary of NICE, SIGN, and RCGP rapid guideline. BMJ. 2021 Jan 22;372:n136. doi: 10.1136/bmj.n136.</citation>
+    <PMID>33483331</PMID>
+  </reference>
+  <reference>
+    <citation>Moreno-Pérez O, Merino E, Leon-Ramirez JM, Andres M, Ramos JM, Arenas-Jiménez J, Asensio S, Sanchez R, Ruiz-Torregrosa P, Galan I, Scholz A, Amo A, González-delaAleja P, Boix V, Gil J; COVID19-ALC research group. Post-acute COVID-19 syndrome. Incidence and risk factors: A Mediterranean cohort study. J Infect. 2021 Mar;82(3):378-383. doi: 10.1016/j.jinf.2021.01.004. Epub 2021 Jan 12.</citation>
+    <PMID>33450302</PMID>
+  </reference>
+  <reference>
+    <citation>Jacobs LG, Gourna Paleoudis E, Lesky-Di Bari D, Nyirenda T, Friedman T, Gupta A, Rasouli L, Zetkulic M, Balani B, Ogedegbe C, Bawa H, Berrol L, Qureshi N, Aschner JL. Persistence of symptoms and quality of life at 35 days after hospitalization for COVID-19 infection. PLoS One. 2020 Dec 11;15(12):e0243882. doi: 10.1371/journal.pone.0243882. eCollection 2020.</citation>
+    <PMID>33306721</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 20, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 29, 2021</study_first_posted>
+  <last_update_submitted>November 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hasanuddin University</investigator_affiliation>
+    <investigator_full_name>Bumi Herman</investigator_full_name>
+    <investigator_title>Assistant Lecturer</investigator_title>
+  </responsible_party>
+  <keyword>COVID 19</keyword>
+  <keyword>Post COVID 19 symptoms</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>de-identified data will be shared accordingly</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

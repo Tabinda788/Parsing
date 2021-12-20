@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9742">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05034445</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CROC2004</org_study_id>
+    <nct_id>NCT05034445</nct_id>
+  </id_info>
+  <brief_title>Whether Sputum Can Serve as an Alternative Source for Liquid Biopsy in Patients With Lung Cancer</brief_title>
+  <official_title>A Prospective Study of Advanced NSCLC Patients Genomic Landscape Through Sputum NGS Detection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Guangzhou Institute of Respiratory Disease</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Guangzhou Institute of Respiratory Disease</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study intends to use Onconscreen plus 520 Panel (Burning Rock, China) to conduct NGS&#xD;
+      testing in sputum, tissues and blood samples of patients with advanced NSCLC. In order to&#xD;
+      explore the use of sputum as a diagnosis method for NSCLC patients, we will collect relevant&#xD;
+      clinical information and follow-up treatment information. The primary endpoint will reveal&#xD;
+      the effectiveness, accuracy, and feasibility in sputum, as compared to tissues and blood&#xD;
+      samples. This study aims to study the feasibility and advantages/disadvantages of using&#xD;
+      sputum as an noval body fluid biopsy option.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      With the advancements in the development of targeted therapy, the detection of actionable&#xD;
+      genes has become routine practice in diagnosing lung cancer, especially in non-small cell&#xD;
+      lung cancer (NSCLC). Due to its non-invasiveness and great accessibility, plasma-based&#xD;
+      mutation profiling, with a sensitivity of approximately 70% relative to tissue samples, is&#xD;
+      widely used in clinical settings. Profiling using other body fluids such as pleural effusion,&#xD;
+      ascites, cerebrospinal fluid have been actively explored. Circulating cell-free DNA has also&#xD;
+      been shown to be present in other bodily fluids such as sputum and urine, which have&#xD;
+      potential to serve as liquid biopsy media for comprehensive mutation profiling. In this&#xD;
+      study, we investigated the potential of sputum obtained from NSCLC patients for mutation&#xD;
+      profiling using matched tissue, plasma and sputum from more than 30 advanced-stage NSCLC&#xD;
+      patients.&#xD;
+&#xD;
+      Baseline tissues, plasma and sputum samples from more than 30 newly diagnosed advanced NSCLC&#xD;
+      patients with 520 Panel sequencing (tissue 1000X, sputum 1000X, plasma cfDNA 10000X), in&#xD;
+      different methods will be compared.&#xD;
+&#xD;
+      Primary endpoints:&#xD;
+&#xD;
+      1、Compare different sample types with concordence rate, sensitivity, and specificity.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 30, 2020</start_date>
+  <completion_date type="Actual">April 28, 2021</completion_date>
+  <primary_completion_date type="Actual">April 20, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>2 Years</target_duration>
+  <primary_outcome>
+    <measure>Compare different sample types with concordence rate, sensitivity, and specificity.</measure>
+    <time_frame>up to 2 years</time_frame>
+    <description>Concordance rate was defined as the fraction of the total number of true positive and true negative patients relative to the cohort or indicated subgroup;&#xD;
+Sensitivity rate means true positive rate, true positive patients were defined as those who carried at least one genomic alteration that were detected in both matched samples.&#xD;
+Specificity rate means ture negative rate, patients were as defined true negative if no alteration was detected from either matched sample.</description>
+  </primary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Actual">71</enrollment>
+  <condition>NSCLC</condition>
+  <arm_group>
+    <arm_group_label>Sputum group</arm_group_label>
+    <description>Sputum samples from more than 30 newly diagnosed advanced NSCLC patients with 520 Panel sequencing (sputum 1000X)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Tissue group</arm_group_label>
+    <description>Clinical data review to obtain corresponding tissue samples from more than 30 newly diagnosed advanced NSCLC patients with 520 Panel sequencing (tissue 1000X)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Plasma group</arm_group_label>
+    <description>Clinical data review to obtain corresponding plasma samples from more than 30 newly diagnosed advanced NSCLC patients with 520 Panel sequencing (plasma 10000X)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Next generation sequencing</intervention_name>
+    <description>Extract DNA from sputum sample, minimum DNA amount should be over 50ng.</description>
+    <arm_group_label>Sputum group</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Tumor DNA obtained from patients' tissue biopsy, plasma or sputum.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Planning to enroll more than 30 newly diagnosed advanced NSCLC patients, age over 18 years&#xD;
+        old following the eligibility criteria.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients with stage IIIB-IV NSCLC in AJCC TNM stage (8th edition) confirmed with&#xD;
+             histology or cytology;&#xD;
+&#xD;
+          2. Newly diagnosed;&#xD;
+&#xD;
+          3. There are sufficient samples that meet the requirements for examination;&#xD;
+&#xD;
+          4. Eligible for the next anti-tumor systemic treatment;&#xD;
+&#xD;
+          5. Willing to sign the consent inform, age ≥18 years;&#xD;
+&#xD;
+          6. Patients willing to cooperate with the planned follow-up schedule;&#xD;
+&#xD;
+          7. Permit to collect clinical data needed by the institute.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Diagnosed with other malignant tumors at the same time (except for fully treated&#xD;
+             cervical carcinoma in situ, basal or squamous cell skin cancer);&#xD;
+&#xD;
+          2. The patient has other serious diseases that may affect follow-up and short-term&#xD;
+             survival;&#xD;
+&#xD;
+          3. Any other medical conditions and social/psychological problems that investigator&#xD;
+             evaluated is not suitable to enroll in this study;&#xD;
+&#xD;
+          4. Absents of contrast-enhanced magnetic resonance imaging (MRI) or contrast-enhanced&#xD;
+             computer tomography (CT) during clinical follow-up.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Chengzhi Zhou, Dr. PhD.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The First Affiliated Hospital of Guangzhou Medical University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Zhou Chengzhi</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510120</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>August 2021</verification_date>
+  <study_first_submitted>July 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>August 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 5, 2021</study_first_posted>
+  <last_update_submitted>August 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>August 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Guangzhou Institute of Respiratory Disease</investigator_affiliation>
+    <investigator_full_name>Zhou Chengzhi</investigator_full_name>
+    <investigator_title>Director</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

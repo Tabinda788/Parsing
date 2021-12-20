@@ -1,0 +1,1917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5996">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05083169</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CR109049</org_study_id>
+    <secondary_id>2020-004742-11</secondary_id>
+    <secondary_id>64007957MMY3001</secondary_id>
+    <nct_id>NCT05083169</nct_id>
+  </id_info>
+  <brief_title>A Study of Teclistamab in Combination With Daratumumab Subcutaneously (SC) (Tec-Dara) Versus Daratumumab SC, Pomalidomide, and Dexamethasone (DPd) or Daratumumab SC, Bortezomib, and Dexamethasone (DVd) in Participants With Relapsed or Refractory Multiple Myeloma</brief_title>
+  <acronym>MajesTEC-3</acronym>
+  <official_title>A Phase 3 Randomized Study Comparing Teclistamab in Combination With Daratumumab SC (Tec-Dara) Versus Daratumumab SC, Pomalidomide, and Dexamethasone (DPd) or Daratumumab SC, Bortezomib, and Dexamethasone (DVd) in Participants With Relapsed or Refractory Multiple Myeloma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Janssen Research &amp; Development, LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Janssen Research &amp; Development, LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare the efficacy of teclistamab-daratumumab (Tec-Dara)&#xD;
+      with daratumumab subcutaneously (SC) in combination with pomalidomide and dexamethasone (DPd)&#xD;
+      or daratumumab SC in combination with bortezomib and dexamethasone (DVd).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Teclistamab is a novel B-cell maturation antigen (BCMA) bispecific antibody that is being&#xD;
+      evaluated to treat participants with multiple myeloma, an incurable malignant plasma cell&#xD;
+      disorder. The primary hypothesis of this study is that Tec-Dara will significantly improve&#xD;
+      progression free survival (PFS) compared with investigator's choice of DPd/DVd in&#xD;
+      participants with relapsed refractory multiple myeloma. Approximately 560 participants will&#xD;
+      be randomly assigned in a 1:1 ratio to receive either Tec-Dara (Arm A) or investigator's&#xD;
+      choice of DPd/DVd (Arm B). The study will be conducted in 3 phases: Screening Phase,&#xD;
+      Treatment Phase, and Follow-up Phase. Participants will be treated until disease progression,&#xD;
+      unacceptable toxicity , or other reasons to discontinue the study. Disease evaluation will&#xD;
+      occur every cycle. Safety will be assessed throughout the study. Efficacy will be assessed&#xD;
+      using IMWG criteria. The overall duration of the study will be up to 5 years and 2 months&#xD;
+      after the last participant is randomized.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 19, 2021</start_date>
+  <completion_date type="Anticipated">December 23, 2026</completion_date>
+  <primary_completion_date type="Anticipated">July 7, 2024</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>Up to 5 years and 2 months</time_frame>
+    <description>PFS is defined as the time from the date of randomization to the date of first documented disease progression, as defined in the International Myeloma Working Group (IMWG) criteria, or death due to any cause, whichever occurs first.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response (Partial Response [PR] or Better)</measure>
+    <time_frame>Up to 5 years and 2 months</time_frame>
+    <description>Overall response (PR or better) is defined as participants who have a PR or better per IMWG criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Very Good Partial Response (VGPR) or Better</measure>
+    <time_frame>Up to 5 years and 2 months</time_frame>
+    <description>VGPR or better is defined as participants who achieve a VGPR or better response per IMWG criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complete Response (CR) or Better</measure>
+    <time_frame>Up to 5 years and 2 months</time_frame>
+    <description>CR or better is defined as participants who achieve a CR or better response per IMWG criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Minimal Residual Disease (MRD)-negativity</measure>
+    <time_frame>Up to 5 years and 2 months</time_frame>
+    <description>MRD-negativity is defined as participants who achieve MRD negativity at a threshold of 10^-5 at any timepoint after the date of randomization and before disease progression or start of subsequent antimyeloma therapy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival on Next-line Therapy (PFS2)</measure>
+    <time_frame>Up to 5 years and 2 months</time_frame>
+    <description>PFS2 is defined as the time interval between the date of randomization and date of event, which is defined as progressive disease as assessed by investigator on the first subsequent line of antimyeloma therapy, or death from any cause, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Up to 5 years and 2 months</time_frame>
+    <description>OS is measured from the date of randomization to the date of the participant's death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Next Treatment (TTNT)</measure>
+    <time_frame>Up to 5 years and 2 months</time_frame>
+    <description>TTNT is defined as the interval time from randomization to the start of subsequent antimyeloma treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Adverse Events (AEs) by Severity</measure>
+    <time_frame>Up to 5 years and 2 months</time_frame>
+    <description>Number of participants with AEs by Severity will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Concentration of Teclistamab</measure>
+    <time_frame>Up to 5 years and 2 months</time_frame>
+    <description>Serum samples will be analyzed to determine concentrations of teclistamab using a validated, specific, and sensitive method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Anti-drug Antibodies (ADAs) to Teclistamab and Daratumumab</measure>
+    <time_frame>Up to 5 years and 2 months</time_frame>
+    <description>Number of participants with ADAs to teclistamab and daratumumab will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Worsening of Symptoms</measure>
+    <time_frame>Up to 5 years and 2 months</time_frame>
+    <description>Time to worsening is measured as the interval from the date of randomization to the start date of meaningful change.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Symptoms, Functioning, and Overall Health-related Quality of Life (HRQoL) as Assessed by European Organization for Research and Treatment of Cancer Quality-of-life Questionnaire Core 30 (EORTC-QLQ-C30)</measure>
+    <time_frame>Baseline up to 5 years and 2 months</time_frame>
+    <description>The EORTC-QLQ-C30 Version 3 includes 30 items in 5 functional scales (physical, role, emotional, cognitive, and social), 1 global health status scale, 3 symptom scales (pain, fatigue, and nausea/vomiting), and 6 single symptom items (dyspnea, insomnia, appetite loss, constipation, diarrhea, and financial difficulties). The responses are reported using a verbal and numeric rating scales. The item and scale scores are transformed to a 0 to 100 scale. A high scale score represents a higher response level. Thus, a high score for a functional scale represents a high/healthy level of functioning and a high score for the global health status represents high HRQoL, but a high score for a symptom scale/item represents a high level of symptomatology/problems.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Symptoms, Functioning, and Overall HRQoL as Assessed by Multiple Myeloma Symptom and Impact Questionnaire (MySIm-Q) Scale Score</measure>
+    <time_frame>Baseline up to 5 years and 2 months</time_frame>
+    <description>The MySIm-Q is a disease-specific PRO assessment complementary to the EORTC-QLQ-C30. It includes 17 items resulting in a symptom subscale and an impact subscale. The recall period is the &quot;past 7 days&quot;, and responses are reported on a 5-point verbal rating scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Symptoms, Functioning, and Overall HRQoL as Assessed by Patient-reported Outcomes Measurement Information System Short Form v2.0 - Physical Function 8c (PROMIS PF 8c)</measure>
+    <time_frame>Baseline up to 5 years and 2 months</time_frame>
+    <description>The PROMIS-SD is used to assess self-reported perceptions of sleep quality, sleep depth and restoration associated with sleep. The 8-item short form will be used in this study, in which responses are scored 1 to 5 for each item. Higher overall score indicates more sleep disturbance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Symptoms, Functioning, and Overall HRQoL as Assessed by Patient-reported Outcomes Version of the Common Terminology Criteria for Adverse Events (PRO-CTCAE )</measure>
+    <time_frame>Baseline up to 6 months</time_frame>
+    <description>The National Cancer Institute's (NCI's) PRO-CTCAE is an item library of common adverse events experienced by people with cancer that are appropriate for self-reporting of treatment tolerability. Each symptom selected for inclusion can be rated by up to 3 attributes characterizing the presence/frequency, severity, and/or interference of the AEs. It ranges from 0 to 4 with higher scores indicating higher frequency or greater severity/impact.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Symptoms, Functioning, and Overall HRQoL as Assessed by EuroQol Five Dimension Questionnaire 5-Level (EQ-5D-5L)</measure>
+    <time_frame>Baseline up to 5 years and 2 months</time_frame>
+    <description>The EQ-5D-5L is a generic measure of health status. The EQ-5D-5L is a 5-item questionnaire that assesses 5 domains including mobility, self-care, usual activities, pain/discomfort, and anxiety/depression plus a visual analog scale rating &quot;health today&quot; with anchors ranging from 0 (worst imaginable health state) to 100 (best imaginable health state).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Symptoms, Functioning, and Overall HRQoL as Assessed by Patient Global Impression - Severity (PGI-S)</measure>
+    <time_frame>Baseline up to 5 years and 2 months</time_frame>
+    <description>The PGIS contains 2 questions on how the participant would currently rate severity of symptoms and impacts with a 7-day recall period. The response options are presented as a 5-point verbal rating scale from 1=&quot;none&quot; to 5=&quot;very severe.&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PFS in Participants with High-risk Molecular Features</measure>
+    <time_frame>Up to 5 years and 2 months</time_frame>
+    <description>PFS in participants with high-risk molecular features will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Depth of Response in Participants in High-risk Molecular Features</measure>
+    <time_frame>Up to 5 years and 2 months</time_frame>
+    <description>Depth of response in participants in high-risk molecular features will be reported.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">560</enrollment>
+  <condition>Multiple Myeloma</condition>
+  <arm_group>
+    <arm_group_label>Arm A: Teclistamab-daratumumab (Tec-Dara)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive teclistamab and daratumumab by subcutaneous (SC) injection. Step-up doses of teclistamab will be given prior to the first full dose.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B:Daratumumab, Pomalidomide, Dexamethasone (DPd) or Daratumumab, Bortezomib, Dexamethasone (DVd)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In DPd treatment (28-day cycle), participants will receive daratumumab SC 1800mg weekly on Cycles 1 and 2, every 2 weeks on Cycles 3 to 6, every 4 weeks on Cycle 7 and beyond; oral pomalidomide 4 mg on Days 1 to 21 of every 28-day cycle, dexamethasone 40 mg (less than or equal to [&lt;=] 75 years) or 20 mg (greater than [&gt;] 75 years) orally or intravenously (IV) weekly on every cycle. In DVd treatment (21-day cycle from Cycles 1 to 8 and 28-day cycle from Cycle 9 and beyond), daratumumab SC injection 1800 mg weekly on Cycles 1 to 3 and on Day 1 (Cycle 4 and beyond); bortezomib 1.3 milligrams per meter square (mg/m^2) on Days 1, 4, 8 and 11 (Cycles 1 to 8), and dexamethasone 20 mg on Days 1, 2, 4, 5, 8, 9, 11 and 12 (Cycles 1 to 8).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Daratumumab</intervention_name>
+    <description>Daratumumab will be administered SC injection.</description>
+    <arm_group_label>Arm A: Teclistamab-daratumumab (Tec-Dara)</arm_group_label>
+    <arm_group_label>Arm B:Daratumumab, Pomalidomide, Dexamethasone (DPd) or Daratumumab, Bortezomib, Dexamethasone (DVd)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pomalidomide</intervention_name>
+    <description>Pomalidomide will be administered orally.</description>
+    <arm_group_label>Arm B:Daratumumab, Pomalidomide, Dexamethasone (DPd) or Daratumumab, Bortezomib, Dexamethasone (DVd)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexamethasone</intervention_name>
+    <description>Dexamethasone will be administered orally or IV.</description>
+    <arm_group_label>Arm B:Daratumumab, Pomalidomide, Dexamethasone (DPd) or Daratumumab, Bortezomib, Dexamethasone (DVd)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bortezomib</intervention_name>
+    <description>Bortezomib will be administered SC injection.</description>
+    <arm_group_label>Arm B:Daratumumab, Pomalidomide, Dexamethasone (DPd) or Daratumumab, Bortezomib, Dexamethasone (DVd)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Teclistamab</intervention_name>
+    <description>Teclistamab will be administered SC injection.</description>
+    <arm_group_label>Arm A: Teclistamab-daratumumab (Tec-Dara)</arm_group_label>
+    <other_name>JNJ-64007957</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Documented multiple myeloma as defined by the criteria: a. multiple myeloma diagnosis&#xD;
+             according to the International Myeloma Working Group (IMWG) diagnostic criteria, b.&#xD;
+             measurable disease at screening as defined by any of the following: 1) serum M-protein&#xD;
+             level greater than or equal to (&gt;=) 0.5 gram per deciliter (g/dL); or 2) urine&#xD;
+             M-protein level &gt;=200 milligrams (mg)/24 hours; or 3) serum immunoglobulin free light&#xD;
+             chain &gt;=10 mg/dL and abnormal serum immunoglobulin kappa lambda free light chain ratio&#xD;
+&#xD;
+          -  Received 1 to 3 prior line(s) of antimyeloma therapy including a proteasome inhibitor&#xD;
+             (PI) and lenalidomide; a. participants who have received only 1 line of prior line of&#xD;
+             antimyeloma therapy must be lenalidomide refractory. Progression on or within 60 days&#xD;
+             of the last dose of lenalidomide given as maintenance will meet this criterion&#xD;
+&#xD;
+          -  Documented evidence of progressive disease based on investigator's determination of&#xD;
+             response by IMWG criteria on or after their last regimen&#xD;
+&#xD;
+          -  Have an eastern cooperative oncology group (ECOG) performance status score of 0, 1, or&#xD;
+             2 at screening and immediately prior to the start of administration of study treatment&#xD;
+&#xD;
+          -  Have clinical laboratory values within the specified range&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Contraindications or life-threatening allergies, hypersensitivity, or intolerance to&#xD;
+             any study drug or its excipients. Additional exclusion criteria pertaining to specific&#xD;
+             study drugs include:&#xD;
+&#xD;
+               1. A participant is not eligible to receive daratumumab subcutaneous (SC) in&#xD;
+                  combination with pomalidomide and dexamethasone (DPd) as control therapy if any&#xD;
+                  of the following are present: 1) Contraindications or life-threatening allergies,&#xD;
+                  hypersensitivity, or intolerance to pomalidomide, 2) Disease that is considered&#xD;
+                  refractory to pomalidomide per IMWG,&#xD;
+&#xD;
+               2. A participant is not eligible to receive daratumumab SC in combination with&#xD;
+                  bortezomib and dexamethasone (DVd) as control therapy if any of the following are&#xD;
+                  present: 1) Contraindications or life-threatening allergies, hypersensitivity, or&#xD;
+                  intolerance to bortezomib, 2) Grade 1 peripheral neuropathy with pain or Grade &gt;=&#xD;
+                  2 peripheral neuropathy as defined by National Cancer Institute Common&#xD;
+                  Terminology Criteria for Adverse Events (NCI-CTCAE) Version 5.0, 3) Disease that&#xD;
+                  is considered refractory to bortezomib per IMWG, 4) Received a strong cytochromes&#xD;
+                  P450 (CYP3A4) inducer within 5 half-lives prior to randomization&#xD;
+&#xD;
+          -  Received any prior B cell maturation antigen (BCMA)-directed therapy&#xD;
+&#xD;
+          -  Has disease that is considered refractory to an anti-cluster of differentiation 38&#xD;
+             (CD38) monoclonal antibody per IMWG&#xD;
+&#xD;
+          -  Received a cumulative dose of corticosteroids equivalent to &gt;=140 mg of prednisone&#xD;
+             within 14 days before randomization&#xD;
+&#xD;
+          -  Received a live, attenuated vaccine within 4 weeks before randomization&#xD;
+&#xD;
+          -  Plasma cell leukemia at the time of screening, Waldenström's macroglobulinemia, POEMS&#xD;
+             syndrome (polyneuropathy, organomegaly, endocrinopathy, M-protein, and skin changes),&#xD;
+             or primary amyloid light chain amyloidosis&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Janssen Research &amp; Development, LLC Clinical Trial</last_name>
+    <role>Study Director</role>
+    <affiliation>Janssen Research &amp; Development, LLC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Study Contact</last_name>
+    <phone>844-434-4210</phone>
+    <email>JNJ.CT@sylogent.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>City of Hope</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University Medical Center</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305-5623</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yale University</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Grady Memorial Hospital</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Health Systems</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic Cancer Center</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hackensack University Medical Center</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh Medical Center</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425-8900</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Baptist Cancer Center</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38120</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt - Ingram Cancer Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Southwestern Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Huntsman Cancer Institute</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Seattle Cancer Care Alliance</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Wisconsin Carbone Cancer Center</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical College Of Wisconsin</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Aleman</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>C1118AAT</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Italiano de Buenos Aires</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>C1199ABB</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Privado - Centro Medico de Cordoba</name>
+      <address>
+        <city>Cordoba</city>
+        <zip>X5016KEH</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ZNA Stuivenberg</name>
+      <address>
+        <city>Antwerpen</city>
+        <zip>2060</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AZ St.-Jan Brugge-Oostende AV</name>
+      <address>
+        <city>Brugge</city>
+        <zip>8000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Gent</name>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital de Jolimont</name>
+      <address>
+        <city>Haine-saint-paul, LA Louviere</city>
+        <zip>7100</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Az Groeninge</name>
+      <address>
+        <city>Kortrijk</city>
+        <zip>8500</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Leuven</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Algemeen Ziekenhuis Delta</name>
+      <address>
+        <city>Roeselare</city>
+        <zip>8800</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DF Star</name>
+      <address>
+        <city>Brasilia</city>
+        <zip>70390-140</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Liga Norte Riograndense Contra O Cancer</name>
+      <address>
+        <city>Natal</city>
+        <zip>59062-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NTC Santa Casa Porto Alegre</name>
+      <address>
+        <city>Porto Alegre</city>
+        <zip>90050-170</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto COI de Pesquisa, Educacao e Gestao</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <zip>22793-080</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Sao Rafael</name>
+      <address>
+        <city>Salvador</city>
+        <zip>41253-190</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Paulistano</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>01321-001</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Beneficencia Portuguesa</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>01323-010</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Sao Germano</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>01455-010</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tom Baker Cancer Centre</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N 4N2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cross Cancer Institute</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T6G 1Z2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BC Cancer Agency - Vancouver BC</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V5Z 4E6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Qwii Health Sciences</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3H 2Y9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Margaret Cancer Centre University Health Network</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 1X6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>McGill University Health Centre</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H4A 3J1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Québec</name>
+      <address>
+        <city>Quebec</city>
+        <zip>G1R 2J6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Peking University People's Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <zip>100044</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>West China Hospital, Sichuan University</name>
+      <address>
+        <city>Chengdu</city>
+        <zip>610041</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>First affiliated Hospital of Zhejiang University</name>
+      <address>
+        <city>Hangzhou</city>
+        <zip>310003</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Shanghai Changzheng Hospital</name>
+      <address>
+        <city>Shanghai</city>
+        <zip>200003</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wuhan Union Hospital</name>
+      <address>
+        <city>Wuhan</city>
+        <zip>430022</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Second Affiliated Hospital of Xi'an Jiaotong University</name>
+      <address>
+        <city>Xi'an</city>
+        <zip>710004</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Aalborg University Hospital</name>
+      <address>
+        <city>Aalborg</city>
+        <zip>DK-9000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Aarhus University Hospital</name>
+      <address>
+        <city>Aarhus N</city>
+        <zip>DK-8200</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rigshospitalet</name>
+      <address>
+        <city>Copenhagen</city>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Odense Universitets Hospital</name>
+      <address>
+        <city>Odense</city>
+        <zip>5000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vejle Hospital</name>
+      <address>
+        <city>Vejle</city>
+        <zip>DK-7100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Henri Mondor</name>
+      <address>
+        <city>Creteil</city>
+        <zip>94000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU de Lille - Hôpital Claude Huriez</name>
+      <address>
+        <city>LILLE Cedex</city>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Limoges, Hopital Dupuytren</name>
+      <address>
+        <city>Limoges</city>
+        <zip>87042</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>C.H.U. Hotel Dieu - France</name>
+      <address>
+        <city>Nantes</city>
+        <zip>44093</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre hospitalier Lyon-Sud</name>
+      <address>
+        <city>Pierre Benite cedex</city>
+        <zip>69495</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU De Poitiers</name>
+      <address>
+        <city>Poitiers</city>
+        <zip>86021</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Institut de Cancérologie Strasbourg Europe (ICANS)</name>
+      <address>
+        <city>Strasbourg</city>
+        <zip>67200</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Pôle IUC Oncopole CHU</name>
+      <address>
+        <city>Toulouse cedex 9</city>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU Hôpital Bretonneau</name>
+      <address>
+        <city>Tours</city>
+        <zip>37044</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Carl-Gustav-Carus Dresden</name>
+      <address>
+        <city>Dresden</city>
+        <zip>01307</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Heinrich-Heine -Universitaet Duesseldorf</name>
+      <address>
+        <city>Duesseldorf</city>
+        <zip>40225</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinikum Freiburg</name>
+      <address>
+        <city>Freiburg</city>
+        <zip>79106</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Hamburg Eppendorf</name>
+      <address>
+        <city>Hamburg</city>
+        <zip>20246</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Barbara-Klinik Hamm GmbH</name>
+      <address>
+        <city>Hamm</city>
+        <zip>59075</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Heidelberg</name>
+      <address>
+        <city>Heidelberg</city>
+        <zip>69120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Schleswig-Holstein Campus Kiel</name>
+      <address>
+        <city>Kiel</city>
+        <zip>24105</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Tuebingen der Eberhard-Karls-Universitaet, Abteilung fuer Innere Medizin II,</name>
+      <address>
+        <city>Tübingen</city>
+        <zip>72076</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Alexandra General Hospital of Athens</name>
+      <address>
+        <city>Athens Attica</city>
+        <zip>115 28</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Athens - Evaggelismos Hospital (Evangelismos Hospital)</name>
+      <address>
+        <city>Athens</city>
+        <zip>106 76</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Anticancer Hospital of Thessaloniki 'Theageneio'</name>
+      <address>
+        <city>Thessaloniki</city>
+        <zip>546 39</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>G.Papanikolaou</name>
+      <address>
+        <city>Thessaloniki</city>
+        <zip>57010</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>U.O. Ematologia con Trapianto- AOU Policlinico di Bari</name>
+      <address>
+        <city>Bari</city>
+        <zip>70124</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ASST Papa Giovanni XXIII - Bergamo</name>
+      <address>
+        <city>Bergamo</city>
+        <zip>24127</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico Sant'Orsola Malpighi</name>
+      <address>
+        <city>Bologna</city>
+        <zip>40138</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Universitaria Careggi</name>
+      <address>
+        <city>Firenze</city>
+        <zip>50134</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Università di Roma 'La Sapienza' - Ospedale Umberto 1°</name>
+      <address>
+        <city>Roma</city>
+        <zip>00161</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>A.O.U. Citta della Salute e della Scienza di Torino - Presidio Molinette</name>
+      <address>
+        <city>Turin</city>
+        <zip>10126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kyungpook National University Hospital</name>
+      <address>
+        <city>Daegu</city>
+        <zip>41944</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chonnam National University Hwasun Hospital</name>
+      <address>
+        <city>Hwasun Gun</city>
+        <zip>58128</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gachon University Gil Medical Center</name>
+      <address>
+        <city>Incheon</city>
+        <zip>21565</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Severance Hospital, Yonsei University Health System</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03722</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Samsung Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06351</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Catholic University of Korea, Seoul St. Mary's Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06591</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>VU Medisch Centrum</name>
+      <address>
+        <city>Amsterdam</city>
+        <zip>1081 HV</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Medisch Centrum Groningen</name>
+      <address>
+        <city>Groningen</city>
+        <zip>9713 GZ</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sint Antonius Ziekenhuis - Afd.Interne - INT</name>
+      <address>
+        <city>Nieuwegein</city>
+        <zip>3435 CM</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Radboudumc</name>
+      <address>
+        <city>Nijmegen</city>
+        <zip>6525GA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Isala Kliniek</name>
+      <address>
+        <city>Zwolle</city>
+        <zip>8025 AB</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>S.P. Botkin Moscow City Clinical Hospital</name>
+      <address>
+        <city>Moscow</city>
+        <zip>125284</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saint-Petersburg State Pavlov University</name>
+      <address>
+        <city>Saint-Petersburg</city>
+        <zip>197022</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Samara State Medical Univeristy</name>
+      <address>
+        <city>Samara</city>
+        <zip>443079</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Samara Region Clinical Hospital</name>
+      <address>
+        <city>Samara</city>
+        <zip>443095</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Institute of Hematology and Transfusiology</name>
+      <address>
+        <city>St-Petersburg</city>
+        <zip>191024</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St.-Petersburg City Clinical Hospital nr 31</name>
+      <address>
+        <city>St. Petersburg</city>
+        <zip>197110</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Federal Center of Heart, Blood and Endocrinology</name>
+      <address>
+        <city>St.-Petersburg</city>
+        <zip>197341</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Inst. Cat. Doncologia-H Duran I Reynals</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08908</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Univ. Vall D Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>8035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. de Cabuenes</name>
+      <address>
+        <city>Gijón</city>
+        <zip>33394</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Univ. de Gran Canaria Dr. Negrin</name>
+      <address>
+        <city>Las Palmas de Gran Canaria</city>
+        <zip>35010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Gral. Univ. Gregorio Marañon</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Univ. Ramon Y Cajal</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Univ. 12 de Octubre</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Univ. Son Espases</name>
+      <address>
+        <city>Palma</city>
+        <zip>7120</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Univ. de Navarra</name>
+      <address>
+        <city>Pamplona</city>
+        <zip>31008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Quiron Madrid Pozuelo</name>
+      <address>
+        <city>Pozuelo de Alarcon</city>
+        <zip>28223</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Clinico Univ. de Salamanca</name>
+      <address>
+        <city>Salamanca</city>
+        <zip>37007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Univ. Marques de Valdecilla</name>
+      <address>
+        <city>Santander</city>
+        <zip>39008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Clinico Univ. de Santiago</name>
+      <address>
+        <city>Santiago de Compostela</city>
+        <zip>15706</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Virgen Del Rocio</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41013</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Univ. I Politecni La Fe</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46026</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Falu Lasarett</name>
+      <address>
+        <city>Falun</city>
+        <zip>791 82</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sahlgrenska University Hospital</name>
+      <address>
+        <city>Göteborg</city>
+        <zip>413 45</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Helsingborgs lasarett</name>
+      <address>
+        <city>Helsingborg</city>
+        <zip>25187</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Skanes universitetssjukhus</name>
+      <address>
+        <city>Lund</city>
+        <zip>221 85</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitetssjukhuset Örebro</name>
+      <address>
+        <city>Orebro</city>
+        <zip>703 62</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Karolinska Universitetssjukhuset, Huddinge</name>
+      <address>
+        <city>Stockholm</city>
+        <zip>141 86</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sunderby Sjukhus</name>
+      <address>
+        <city>Sunderbyn</city>
+        <zip>954 42</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Norrlands Universitetssjukhus</name>
+      <address>
+        <city>Umea</city>
+        <zip>901 85</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Akademiska Sjukhuset</name>
+      <address>
+        <city>Uppsala</city>
+        <zip>751 85</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>China Medical University Hospital</name>
+      <address>
+        <city>Taichung</city>
+        <zip>40447</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Cheng Kung University Hospital</name>
+      <address>
+        <city>Tainan</city>
+        <zip>704</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chang Gung Memorial Hospital</name>
+      <address>
+        <city>Taoyuan</city>
+        <zip>333</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Institute, Dept. of chemotherapy of hemoblastosis</name>
+      <address>
+        <city>Kiev</city>
+        <zip>03022</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>State Institution 'National Scientific Center for Radiation Medicine of NAMS of Ukraine'</name>
+      <address>
+        <city>Kiev</city>
+        <zip>03115</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Center 'Ok Clinic' of LLC 'International Institute of Clinical Studies'</name>
+      <address>
+        <city>Kyiv</city>
+        <zip>02091</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Institute of Blood Pathology and Transfusion Medicine of AMS of Ukraine</name>
+      <address>
+        <city>Lviv</city>
+        <zip>79044</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mykolaiv Regional Clinical Hospital</name>
+      <address>
+        <city>Mykolaiv</city>
+        <zip>54000</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Municipal Enterprise 'Poltava Reg. Clinical Hospital N.A. Sklifosovsky of The Poltava Reg. Council'</name>
+      <address>
+        <city>Poltava</city>
+        <zip>36011</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Blackpool Teaching Hospitals NHS Foundation Trust</name>
+      <address>
+        <city>Blackpool</city>
+        <zip>FY3 8NR</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ninewells Hospital &amp; Medical School</name>
+      <address>
+        <city>Dundee</city>
+        <zip>DD1 9SY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St James University Hospital</name>
+      <address>
+        <city>Leeds</city>
+        <zip>LS9 7TF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University College Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>NW1 2BU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kings College Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>SE5 9RS</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Oxford University Hospitals NHS Foundation Trust</name>
+      <address>
+        <city>Oxford</city>
+        <zip>OX3 7LE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals Plymouth NHS Trust</name>
+      <address>
+        <city>Plymouth</city>
+        <zip>PL6 8DH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Marsden Hospital</name>
+      <address>
+        <city>Sutton</city>
+        <zip>SM2 5PT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Belgium</country>
+    <country>Brazil</country>
+    <country>Canada</country>
+    <country>China</country>
+    <country>Denmark</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Greece</country>
+    <country>Italy</country>
+    <country>Korea, Republic of</country>
+    <country>Netherlands</country>
+    <country>Russian Federation</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>Taiwan</country>
+    <country>Ukraine</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://pam.sylogent.com/cr/CR109049</url>
+    <description>To learn how to participate in this trial please click here.</description>
+  </link>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>October 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 19, 2021</study_first_posted>
+  <last_update_submitted>December 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Myeloma</mesh_term>
+    <mesh_term>Neoplasms, Plasma Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexamethasone</mesh_term>
+    <mesh_term>Bortezomib</mesh_term>
+    <mesh_term>Daratumumab</mesh_term>
+    <mesh_term>Pomalidomide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The data sharing policy of the Janssen Pharmaceutical Companies of Johnson and Johnson is available at www.janssen.com/clinical- trials/transparency. As noted on this site, requests for access to the study data can be submitted through Yale Open Data Access (YODA) project site at yoda.yale.edu</ipd_description>
+    <ipd_url>https://www.janssen.com/clinical-trials/transparency</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3944">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05109845</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PIC128-21_FJD</org_study_id>
+    <nct_id>NCT05109845</nct_id>
+  </id_info>
+  <brief_title>Virtual Reality and Speech Analysis for the Assessment of Impulsivity and Decision-making</brief_title>
+  <official_title>Virtual Reality and Speech Analysis for the Assessment of Impulsivity, Decision-making and Jumping to Conclusions: Comparison With Neuropsychological Tasks and Self-administered Questionnaires</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Instituto de Investigación Sanitaria de la Fundación Jiménez Díaz</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Instituto de Investigación Sanitaria de la Fundación Jiménez Díaz</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Introduction: Impulsivity is present in a range of mental disorders and has been associated&#xD;
+      with suicide. Traditional measures of impulsivity have certain limitations, such as the time&#xD;
+      required for administration or the lack of ecological validity. Virtual Reality (VR) may&#xD;
+      overcome these issues. This study aims to validate the VR assessment tool &quot;Spheres &amp; Shield&#xD;
+      Maze Task&quot; and speech analysis by comparing them with traditional measures. The hypothesis is&#xD;
+      that these innovative tools will be reliable and acceptable by patients, potentially&#xD;
+      improving the simultaneous assessment of impulsivity, decision-making, and jumping to&#xD;
+      conclusions. Methods and analysis: The sample consisted of adults divided into three groups:&#xD;
+      psychiatric outpatients with a history of suicidal thoughts and/or behaviors, psychiatric&#xD;
+      outpatients without such a history, and healthy volunteers. The sample size required was&#xD;
+      estimated at 300 participants (100 per group). Participants will complete the Barratt&#xD;
+      Impulsiveness Scale 11; the Urgency, Premeditation, Perseverance, Sensation Seeking, Positive&#xD;
+      Urgency, Impulsive Behavior Scale; Iowa Gambling Task; Continuous Performance Test; Stop&#xD;
+      signal Task, and Go/no-go task, three questions of emotional affect, the Spheres &amp; Shield&#xD;
+      Maze Task and two satisfaction surveys. During these tasks, participant speech will be&#xD;
+      recorded. External and internal consistency of the VR environment will be calculated. The&#xD;
+      association between VR-assessed impulsivity and history of suicidal thoughts and/or behavior,&#xD;
+      and the association between speech and impulsivity and decision-manking will also be&#xD;
+      explored. Ethics and dissemination: This study will result in a series of manuscripts that&#xD;
+      will be submitted to peer-reviewed journals for publication. It is hoped that this VR&#xD;
+      assessment tool combined with speech analysis can be used regularly in research and/or&#xD;
+      clinical settings in the near future.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      INTRODUCTION Impulsivity is defined as the tendency to act without prior reflection. It&#xD;
+      implies poor self-control of behavior, leading to quick reactions without regard for&#xD;
+      consequences. Impulsivity is strongly associated with suicidal behavior and may define a&#xD;
+      particular suicidal phenotype in which action predominates over ideation.&#xD;
+&#xD;
+      The dimensional model of impulsivity considers three factors: decision-making, action, and&#xD;
+      personality traits. The first two factors are the behavioral domains of impulsivity, assessed&#xD;
+      with neuropsychological tests, while impulsivity as a personality trait is assessed with&#xD;
+      personality questionnaires.&#xD;
+&#xD;
+      Among these factors, the one that has been most strongly related to suicidal behavior is&#xD;
+      decision-making. Decision-making is a complex cognitive function in which learning, previous&#xD;
+      experience, and sensitivity to feedback interact. It can be intuitive or reflexive, involving&#xD;
+      different brain structures: intuitive processes are mediated by the amygdala, ventral&#xD;
+      striatum, and orbitofrontal cortex, while reflexive processes are mediated by the&#xD;
+      dorsolateral prefrontal cortex, anterior cingulate, and posterior parietal lobe. People with&#xD;
+      suicidal behavior have difficulty making decisions in risky situations, and their learning to&#xD;
+      make these decisions does not benefit from feedback. They tend to decide more emotionally&#xD;
+      than rationally. Studies have found that more than half of all suicide attempts are&#xD;
+      impulsive. Furthermore, increased impulsivity and aggression have been associated with death&#xD;
+      by suicide.&#xD;
+&#xD;
+      Self-administered questionnaires are the most common approach to assess impulsivity. Despite&#xD;
+      its usefulness, self-report has significant limitations: the cultural influence of the&#xD;
+      questionnaires hinders their generalizability. Furthermore, impulsive people may find it&#xD;
+      challenging to describe their personality traits and may thus report unreliably. Computerized&#xD;
+      neuropsychological tests overcome some of these limitations, as the cultural background does&#xD;
+      not influence them, and they do not rely on the capacity for introspection and&#xD;
+      self-awareness, but they are not without limitations, mainly the time it takes to administer&#xD;
+      and score the tasks. In addition, the situations and stimuli presented to the persons&#xD;
+      assessed are not very ecological, i.e., they do not usually have a translation to real life,&#xD;
+      which may compromise their validity. Virtual reality (VR) may overcome these limitations.&#xD;
+      There is empirical evidence showing that the neural mechanisms that people experience when&#xD;
+      immersed in a VR environment are similar to those of real-life. Serious VR games have become&#xD;
+      an innovative, engaging, and customizable way to provide healthcare. VR has been applied in&#xD;
+      mental health interventions and the field of neuropsychological assessment with good results.&#xD;
+&#xD;
+      Speech has been increasingly studied for mental health assessment and particularly as a&#xD;
+      biomarker for mental health. Speech samples can be collected easily and consistently from&#xD;
+      patients and can help to solve the problem of limited or intermittent assessments due to cost&#xD;
+      and time to see a clinician while providing ecologically relevant information that is&#xD;
+      generally not available to clinicians. Combined with machine learning techniques, speech&#xD;
+      features (textual features and/or acoustic features) are used for automatic assessment of&#xD;
+      patients and diagnosis of psychiatric disorders.&#xD;
+&#xD;
+      This study presents the VR assessment tool &quot;Spheres &amp; Shield Maze Task&quot;, a virtual maze that&#xD;
+      participants must go through while overcoming several obstacles, and which can decrease&#xD;
+      administration time and provides an immersive experience that can approximate real-life&#xD;
+      conditions, thus increasing ecological validity. The VR tool has been previously evaluated in&#xD;
+      a non-clinical setting. This work aims to validate the Spheres &amp; Shield Maze Task by&#xD;
+      comparing it with traditional measures of impulsivity, decision-making, and personality&#xD;
+      traits in psychiatric patients with or without a history of suicidal thoughts and behaviors&#xD;
+      and in healthy controls. The secondary objective is to validate the implementation of speech&#xD;
+      analysis in clinical settings and examine how speech correlates to impulsivity,&#xD;
+      decision-making, impulsive personality traits, and jumping to conclusions.&#xD;
+&#xD;
+      The hypothesis is that both the VR assessment tool and speech analysis will be reliable and&#xD;
+      acceptable by patients, potentially improving the simultaneous assessment of impulsivity and&#xD;
+      decision making.&#xD;
+&#xD;
+      METHODS &amp; ANALYSIS This is a cross-sectional study that will be carried out in the Department&#xD;
+      of Psychiatry of the University Hospital Fundación Jiménez Díaz. Data will be collected over&#xD;
+      an estimated period of one year.&#xD;
+&#xD;
+      The estimated sample size is 300 participants, 100 per branch. Psychiatric patients will be&#xD;
+      recruited by their attending psychiatrist during regular visits. Healthy volunteers will be&#xD;
+      recruited following the snowball methodology generated from mental health center workers,&#xD;
+      trainees, and medicine and psychology students.&#xD;
+&#xD;
+      After signing the informed consent, participants will be scheduled for the assessment&#xD;
+      session, which will last approximately one hour. They will then be taken to another room and&#xD;
+      administered the VR task that is recorded by the dual microphones in the Vive Pro Eye VR&#xD;
+      headset. Trained psychologists will administer the questionnaires and assist the participant&#xD;
+      during the VR task.&#xD;
+&#xD;
+      The following assessments will be carried out: 1) collection of socio-demographic and&#xD;
+      clinical data, 2) self-reported assessment of impulsive personality traits, 3) computerized&#xD;
+      neuropsychological tests, 4) VR-based impulsivity assessment, 5) assessment of jumping to&#xD;
+      conclusions, 6) recording of spontaneous speech during both the assessment session and VR&#xD;
+      task, and 7) satisfaction surveys.&#xD;
+&#xD;
+      An ad hoc questionnaire will be developed to record sociodemographic variables of interest,&#xD;
+      including gender, age, marital status, employment status and educational level. History of&#xD;
+      suicidal behaviour will also be assessed using the Columbia Suicide Severity Rating Scale.&#xD;
+&#xD;
+      Additional questionnaires will be the patients' health questionnaire-9 (PHQ-9), the PANSS&#xD;
+      scale -only in case of psychosis-, and the General Anxiety Disorder-7 (GAD-7) questionnaire.&#xD;
+      Participants will also be inquired about substance use -including alcohol, tobacco, cannabis,&#xD;
+      cocaine, hallucinogens, and other drugs.&#xD;
+&#xD;
+      Impulsive personality traits will be measured through the Barratt Impulsivity Scale (BIS-11),&#xD;
+      and the Urgency, Premeditation, Perseverance, Sensation Seeking, Positive Urgency, Impulsive&#xD;
+      Behavior Scale (UPPS).&#xD;
+&#xD;
+      Computerized neuropsychological tests will be the Iowa Gambling Task (IGT), the Continous&#xD;
+      Performance Test (CPT), the Stop signal Task, and the Go/no-go Task.&#xD;
+&#xD;
+      For speech analysis, the Emotional Affective Questions Good News Question and the Sadness&#xD;
+      Characteristic Question will be used. Additionally, the patient is asked to respond for two&#xD;
+      minutes and the interviewing psychologist will refrain from speaking during this period and&#xD;
+      timestamp the recording. This question is designed to elicit an emotional response related to&#xD;
+      positive and negative emotions.&#xD;
+&#xD;
+      The VR environment, called Spheres &amp; Shield Maze Task, has been developed by the Laboratory&#xD;
+      of Immersive Neurotechnologies (LabLENI) of the Universitat Politècnica de València. To&#xD;
+      implement the virtual environment, a VIVE pro eye VR headset, a VNET INTEL I7 computer and a&#xD;
+      Shimmer GSR (galvanic skin response) kit will be used. The game consists of a maze that the&#xD;
+      user must solve by moving through space. The movement is done by combining a touchpad with&#xD;
+      front-facing orientation.&#xD;
+&#xD;
+      Different hazards will present throughout the maze, with time penalty, energy loss, and&#xD;
+      certain consequences, such as narrow walkways from which the player can fall, lightning&#xD;
+      clouds that strike in intervals, flying insects, or locked rooms. The user can also make use&#xD;
+      of a shield that allows moving through lightning and insects without time penalty at the cost&#xD;
+      of being unable to gather green orbs. Hazards may also be avoided completely by choosing&#xD;
+      another path through the labyrinth, however completion of the maze requires traversal of a&#xD;
+      minimum number of hazards.&#xD;
+&#xD;
+      The screen displays an indicator of the energy which increases by gathering green orbs and&#xD;
+      decreases with movement. If the energy decreases, the movement is slowed down. These&#xD;
+      consequences may influence the user's decision-making. Energy can be recharged by consuming&#xD;
+      green spheres to be found along the route.&#xD;
+&#xD;
+      The maze will be scored as the time taken to find the exit. Additionally, data will be&#xD;
+      collected on behavioral and psychophysiological measures during the execution of the task,&#xD;
+      including distance travelled, number of stops, trajectory, decision making at bifurcations,&#xD;
+      total energy obtained, number of spheres collected, use of the Shield, and use of the break&#xD;
+      room.&#xD;
+&#xD;
+      At the end of the session, participants will complete a quantitative and a qualitative&#xD;
+      satisfaction survey, which have been used previously.&#xD;
+&#xD;
+      Statistical analyses will be carried out using SPSS 24.0, R, Matlab and Python statistical&#xD;
+      software. External consistency of the VR task will be assessed using traditional&#xD;
+      neuropsychological measures as Gold Standard, and internal consistency will be assessed using&#xD;
+      Cronbach's alpha and intraclass correlation coefficient. To explore the differences between&#xD;
+      groups (suicidal patients, non-suicidal patients, and healthy controls), the mean scores&#xD;
+      obtained in the variables collected will be compared using ANOVA test or its non-parametric&#xD;
+      equivalent if the distribution is not normal. Audio recordings will be analyzed in OpenSMILE,&#xD;
+      an open-source offline software for audio analysis. Machine learning techniques will then be&#xD;
+      used for feature selection and examining the relation between a participant's speech,&#xD;
+      impulsivity, suicidality, and mental health questionnaires. Additionally, analysis of&#xD;
+      recorded speech or utterance before and during the VR task will be used to predict&#xD;
+      satisfaction of the participant. Descriptive statistics from the quantitative satisfaction&#xD;
+      survey and content analysis for the qualitative satisfaction survey will also be provided.&#xD;
+      All tests will be two-tailed with statistical significance stablished at p&lt;0.005 and 95%&#xD;
+      confidence intervals.&#xD;
+&#xD;
+      DISCUSSION It is expected that the VR-based assessment to be comparable to the traditional&#xD;
+      self-report and neuropsychological assessment and to be better accepted by the participants.&#xD;
+      This study will also contribute to increasing knowledge about the association between&#xD;
+      impulsivity and suicidal behavior and the use of speech analysis in a clinical setting.&#xD;
+&#xD;
+      This study will result in a series of manuscripts that will be submitted to peer-reviewed&#xD;
+      journals for publication. Both significant and non-significant results will be reported. The&#xD;
+      findings will also be presented in the form of oral communications and symposia at national&#xD;
+      and international psychiatric conferences.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Decision-making Score in the Iowa Gambling Task</measure>
+    <time_frame>30 minutes</time_frame>
+    <description>Decision-making measured with the Iowa Gambling Task (Net scores for the gambling task are calculated by subtracting the number of disadvantageous choices (decks A' and B') from the number of advantageous choices (decks C' and D').</description>
+  </primary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Suicidal Ideation</condition>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <description>Healthy volunteers</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Suicidal patients</arm_group_label>
+    <description>Patients with a history of suicidal thoughts or behaviors</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non-suicidal patients</arm_group_label>
+    <description>Patients without a history of suicidal thoughts or behaviors</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Spheres &amp; Shield Maze Task</intervention_name>
+    <description>A VR environment that consists of a maze that the user must solve by moving through space. The movement is done by combining a touchpad with front-facing orientation.&#xD;
+Different hazards will present throughout the maze, with time penalty, energy loss, and certain consequences, such as narrow walkways from which the player can fall (Figure 1) lightning clouds that strike in intervals, flying insects (Figure 2), or locked rooms (Figure 3). The user can also make use of a shield that allows moving through lightning and insects without penalty at the cost of being unable to gather green orbs (Figure 2). When used, the shield requires a recharge time, so it is a limited resource that the player must optimize. Hazards may also be avoided completely by choosing another path through the labyrinth, however completion of the maze requires traversal of a minimum number of hazards.</description>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_label>Non-suicidal patients</arm_group_label>
+    <arm_group_label>Suicidal patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Community-dwelling adults. Our sample is divided into three groups:&#xD;
+&#xD;
+          1. Psychiatric outpatients with a history of suicide thoughts and/or behaviors.&#xD;
+&#xD;
+          2. Psychiatric outpatients without a history of suicide thoughts and/or behaviors.&#xD;
+&#xD;
+          3. Community-dwelling healthy volunteers, serving as controls.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Being able to understand and sign the informed consent form.&#xD;
+&#xD;
+          -  Being fluent in Spanish (to be able to understand the information sheet, the consent&#xD;
+             form, and the questionnaires and tasks)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Inability to understand and sign the informed consent form for any reason.&#xD;
+&#xD;
+          -  History of intellectual disability&#xD;
+&#xD;
+          -  History of dizziness or other balance pathology, hearing impairment, or visual&#xD;
+             impairment that precludes carrying out the VR assessment.&#xD;
+&#xD;
+          -  Severe upper limb disability that precludes operating the VR game controls.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Maria L Barrigon, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Instituto de Investigación Fundación Jiménez Díaz</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alejandro Porras-Segovia, PhD</last_name>
+    <phone>619042361</phone>
+    <email>alexposeg@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital Universitario Fundación Jiménez Díaz</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <reference>
+    <citation>Hüpen P, Habel U, Schneider F, Kable JW, Wagels L. Impulsivity Moderates Skin Conductance Activity During Decision Making in a Modified Version of the Balloon Analog Risk Task. Front Neurosci. 2019 Apr 15;13:345. doi: 10.3389/fnins.2019.00345. eCollection 2019.</citation>
+    <PMID>31037055</PMID>
+  </reference>
+  <reference>
+    <citation>Bechara A. The role of emotion in decision-making: evidence from neurological patients with orbitofrontal damage. Brain Cogn. 2004 Jun;55(1):30-40. Review.</citation>
+    <PMID>15134841</PMID>
+  </reference>
+  <reference>
+    <citation>Bechara A, Damasio H, Tranel D, Damasio AR. The Iowa Gambling Task and the somatic marker hypothesis: some questions and answers. Trends Cogn Sci. 2005 Apr;9(4):159-62; discussion 162-4. Review.</citation>
+    <PMID>15808493</PMID>
+  </reference>
+  <reference>
+    <citation>Chamberlain SR, Sahakian BJ. The neuropsychiatry of impulsivity. Curr Opin Psychiatry. 2007 May;20(3):255-61. Review.</citation>
+    <PMID>17415079</PMID>
+  </reference>
+  <reference>
+    <citation>Dai HJ, Su CH, Lee YQ, Zhang YC, Wang CK, Kuo CJ, Wu CS. Deep Learning-Based Natural Language Processing for Screening Psychiatric Patients. Front Psychiatry. 2021 Jan 15;11:533949. doi: 10.3389/fpsyt.2020.533949. eCollection 2020.</citation>
+    <PMID>33584354</PMID>
+  </reference>
+  <reference>
+    <citation>de-Juan-Ripoll C, Soler-Domínguez JL, Chicchi Giglioli IA, Contero M, Alcañiz M. The Spheres &amp; Shield Maze Task: A Virtual Reality Serious Game for the Assessment of Risk Taking in Decision Making. Cyberpsychol Behav Soc Netw. 2020 Nov;23(11):773-781. doi: 10.1089/cyber.2019.0761. Epub 2020 Aug 24.</citation>
+    <PMID>32845725</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 5, 2021</study_first_posted>
+  <last_update_submitted>November 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Suicidal Ideation</mesh_term>
+    <mesh_term>Impulsive Behavior</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

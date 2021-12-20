@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4630">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05100927</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-129</org_study_id>
+    <nct_id>NCT05100927</nct_id>
+  </id_info>
+  <brief_title>3D Free-Breathing Multi-echo Acquisition for Whole-body Water/Fat Separation</brief_title>
+  <official_title>3D Free-Breathing Multi-echo Acquisition for Whole-body Water/Fat Separation Utilizing DIXON Method</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Melanie Traughber</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Milton S. Hershey Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to help researchers develop MRI imaging techniques that can&#xD;
+      provide better information for using MRI to treat cancer. MRI is a non-invasive technique&#xD;
+      that uses magnetic fields and radio waves to create images of the inside of the body.&#xD;
+&#xD;
+      The investigators of this study are developing an MRI imaging technique that will help with&#xD;
+      treatment planning for cancer patients. Specifically, the method investigating will help to&#xD;
+      calculate how the dose the patient needs to treat his/her/their cancer is distributed. This&#xD;
+      information is required for prescribing the dose to the patient for their cancer treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Combined magnetic resonance and linear accelerator systems (MR-Linac systems) are a powerful&#xD;
+      new cancer treatment modality. MR-Linac systems promise improved patient outcomes and&#xD;
+      decreased side effects compared to conventional radiation therapy (RT) systems. These systems&#xD;
+      yield exquisite soft tissue imaging, offer imaging during RT delivery, and provide a platform&#xD;
+      for adaptive RT. However, unlike traditional RT planning with computed tomography (CT)&#xD;
+      measured in Hounsfield units, the MR signal does not correlate with electron density.&#xD;
+      Electron density information is required to calculate radiation dose maps for RT planning for&#xD;
+      adaptive RT.&#xD;
+&#xD;
+      The MRIdian MR-Linac is a low-field system (0.35 Tesla), which is beneficial for applications&#xD;
+      in RT because it has less effect on the radiation beam than higher field systems. However,&#xD;
+      low-field MR systems have imaging challenges compared to high-field MR systems. The resonant&#xD;
+      frequencies between water and fat at 0.35 Tesla are close and traditional methods of&#xD;
+      separating these tissues (i.e., DIXON-based methods) are more difficult. Furthermore,&#xD;
+      spectral-selection of fat is not possible, which means traditional fat saturation methods&#xD;
+      cannot be used at 0.35T. Currently, neither a fat-saturation sequence nor a multi-echo&#xD;
+      sequence for fat/water separation is available on the MRIdian MR-Linac system. We propose to&#xD;
+      implement and test a fat/water separation technique optimized for 0.35T. This sequence will&#xD;
+      enable sCT generation for MR-only simulation (i.e., RT planning without CT) and adaptive RT.&#xD;
+&#xD;
+      The original DIXON technique for water/fat separation depends on two signal acquisitions -&#xD;
+      when the fat and water spins are in-phase and opposed-phase. New DIXON methods are more&#xD;
+      flexible and enable fat/water separation at echo times that are not directly in- and&#xD;
+      opposed-phase. At 0.35T, the fat and water spins are slow enough that the first echo (i.e.,&#xD;
+      shortest echo) is a near-in-phase echo. Additional echoes will support a 3-point DIXON&#xD;
+      reconstruction and B0 mapping for inhomogeneity correction.&#xD;
+&#xD;
+      The long-term goal of this study is to realize the benefits of MR-guided adaptive RT to&#xD;
+      decrease toxicity and improve patient outcomes. The specific objective of this study is to&#xD;
+      develop an MR sequence on the low-field MR-Linac for fat/water separation. For the purposes&#xD;
+      of Radiation Oncology, multi-echo gradient-echo is a fast method to acquire a 3D stack with a&#xD;
+      large FOV. The images can be reconstructed using a DIXON-based method to produce multiple&#xD;
+      image types. The resulting images can be used for sCT, which could greatly assist with&#xD;
+      auto-contouring methods and adaptive planning on MR-Linac systems. These images are also&#xD;
+      diagnostically used for functional imaging, specifically Dynamic contrast-enhanced imaging&#xD;
+      (DCE-MRI), which has shown promise at low field, as well as a non-contrast method magnetic&#xD;
+      resonance angiography (MRA).&#xD;
+&#xD;
+      Producing these images requires chemical shift imaging. At low fields, chemical shift imaging&#xD;
+      is difficult as the spectra of fat and water are very close (52 Hz @ 0.35T as compared to 224&#xD;
+      Hz @ 1.5T). Traditional DIXON methods use out-of-phase and in-phase echo times (TEs) to&#xD;
+      separate fat and water. At 0.35T, these TEs are 9.86ms and 19.7ms, respectively. However,&#xD;
+      long TEs degrade the signal-to-noise ratio (SNR) and lead to long imaging times, particularly&#xD;
+      for 3D stacks. In addition, B0 inhomogeneity increases and SNR degrades with longer TEs.&#xD;
+&#xD;
+      The hypothesis is that at 0.35T, the fat and water spins are slow enough that the first echo&#xD;
+      (i.e., shortest echo, approximately 1ms) is a near-in-phase echo. Additional echoes will&#xD;
+      support a 3-point DIXON reconstruction and B0 mapping for inhomogeneity correction. I predict&#xD;
+      that once this multi-echo gradient echo sequence is implemented on the MRIdian system, it can&#xD;
+      be used to acquire images that will successfully produce water-only, fat-only, in-phase and&#xD;
+      opposed-phase images.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2022</start_date>
+  <completion_date type="Anticipated">January 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>MR acquisition and reconstruction</measure>
+    <time_frame>90 minutes</time_frame>
+    <description>MR methods will be tested in phantoms and then volunteers. Each volunteer will provide images for up to 5 anatomies. When any anatomy has 3 consecutive imaging sessions that meet qualitative metrics for image quality (absence of artifacts), image contrast (proper weighting MR image) and tissue classification (fat/water separation), approval by the Radiation Oncologist will be sought. The project will be complete when all 5 anatomies have obtained approval.</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Healthy Volunteer</condition>
+  <arm_group>
+    <arm_group_label>An MR pulse sequence developing on the MRIdian system</arm_group_label>
+    <description>This a pilot study to assess and optimize an MR pulse sequence that we are developing on the MRIdian system. It is a single-center trial recruiting only normal volunteers. Volunteers may be grouped by anatomic region of assessment.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Healthy volunteers from the local community&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  1. Any male or non pregnant female age ≥18 but ≤ 100 who is capable of giving informed&#xD;
+             consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  1. A subject will be excluded if he/she/they has/have a contraindication to MR&#xD;
+             scanning based on screening. Examples of contraindications include:&#xD;
+&#xD;
+               1. Aneurysm clip&#xD;
+&#xD;
+               2. Implanted neural stimulator&#xD;
+&#xD;
+               3. Implanted cardiac pacemaker or auto-defibrillator&#xD;
+&#xD;
+               4. Cochlear implant&#xD;
+&#xD;
+               5. Ocular foreign body (e.g., metal shavings)&#xD;
+&#xD;
+               6. Any implanted device (pumps, infusion devices, etc)&#xD;
+&#xD;
+               7. Shrapnel injuries 2. Subjects will be excluded if it is deemed that he/she/they&#xD;
+                  has/have a condition which would preclude use for technical development (e.g.&#xD;
+                  morbid obesity, claustrophobia, etc.) or present unnecessary risks (e.g.&#xD;
+                  pregnancy, surgery of uncertain type, implant etc.).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Melanie Traughber, DSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Penn State Cancer Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Xin Liu, MD, Ph.D</last_name>
+    <phone>7175313073</phone>
+    <email>xliu2@pennstatehealth.psu.edu</email>
+  </overall_contact>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 20, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 29, 2021</study_first_posted>
+  <last_update_submitted>October 20, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 20, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Milton S. Hershey Medical Center</investigator_affiliation>
+    <investigator_full_name>Melanie Traughber</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>MRIdian MR-Linac</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Aspiration</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

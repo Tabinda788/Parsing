@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3880">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05110677</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MSOT_PAD_3D</org_study_id>
+    <nct_id>NCT05110677</nct_id>
+  </id_info>
+  <brief_title>Pilot Study of Topographic Imaging of the Calf Muscle in Patients With PAD Using 3D Reconstruction of MSOT Images</brief_title>
+  <official_title>Pilot Study of Topographic Imaging of the Gastrocnemius Muscle in Patients With PAD Using Non-invasive Multispectral Optoacoustic Tomography (MSOT) as a 3D Reconstruction Based on Longitudinal 2D Measurements</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital Erlangen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Department of Pediatrics and Adolescent Medicine, University Hospital Erlangen, Erlangen, Germany</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Division of Computer Assisted Medical Interventions, German Cancer Research Center, Heidelberg, Germany</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital Erlangen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this explorative pilot study is to present muscle perfusion of the lower extremity&#xD;
+      in patients with PAD using the Multispectral Optoacoustic Tomography (MSOT) method to build a&#xD;
+      3D reconstruction of the calf muscle. This study aims to show the feasibility of 3D&#xD;
+      reconstruction of this non-invasive method. Advantages in diagnostics for patients with PAD&#xD;
+      and three-dimensional tomography representation of the perfusion situation based on muscle&#xD;
+      oxygenation will be evaluated.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Functional imaging diagnostics is becoming increasingly important due to the steadily growing&#xD;
+      knowledge of physiological processes in many diseases. Also in peripheral arterial occlusive&#xD;
+      disease (PAD), new insights into the pathomechanism of the disease are continuously being&#xD;
+      gained. This also increases the need for new non-invasive imaging methods that are able to&#xD;
+      visualize the functional level of the disease progression and thus make it possible to&#xD;
+      diagnose it at an early stage.&#xD;
+&#xD;
+      Recent studies indicate that it may be feasible to use multispectral optoacoustic tomography&#xD;
+      (MSOT) to visualize hemodynamics as well as the fibrotic muscle remodeling process in PAD.&#xD;
+      For a better understanding of the distribution pattern , the exploration of a 3D technique is&#xD;
+      a next necessary step in imaging. This may show a possible existing heterogeneity of these&#xD;
+      molecules.&#xD;
+&#xD;
+      Holzwarth et al. were already able to gain knowledge about the 3D reconstruction from 2D&#xD;
+      photoacoustic image slices using an optical pattern and the method's feasibility using&#xD;
+      phantoms as well as in-vivo measurements of the forearm in healthy volunteers.&#xD;
+&#xD;
+      The aim of this exploratory pilot project is to bring these previous findings together and to&#xD;
+      image muscle perfusion of the lower extremity in three dimensions using the MSOT method and&#xD;
+      to verify its feasibility. The advantage of 3D imaging is, beyond the anatomical topography&#xD;
+      of the muscle, to map a three-dimensional representation of the perfusion situation based on&#xD;
+      muscle oxygenation.&#xD;
+&#xD;
+      For this purpose, six patients of different symptomatic PAD stages and a healthy control of&#xD;
+      two volunteers will be included and examined by means of longitudinal MSOT scans in the area&#xD;
+      of the gastrocnemius muscle. To evaluate the current stage of the disease or to exclude&#xD;
+      relevant PAD in the healthy control population, non-invasive examination measures commonly&#xD;
+      used in routine diagnostics of PAD will be applied. In addition to the relevant risk&#xD;
+      factors/adjacent diseases and the current medication intake, these include the recording of&#xD;
+      the ankle-brachial index (ABI), color-coded duplex sonographic vascular imaging (CCDS) and a&#xD;
+      treadmill examination.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2021</start_date>
+  <completion_date type="Anticipated">March 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>MSOT topogram showing MSOT parameters from 660 up to 1100 nm of the gastrocnemius muscle</measure>
+    <time_frame>single time point (1 day)</time_frame>
+    <description>MSOT topogram using 3D reconstruction based on longitudinal 2D scans trough an optical pattern showing MSOT parameters from 660 up to 1100 nm of the gastrocnemius muscle</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Acquisition of the quantitative hemoglobin signal (oxygenated/deoxygenated)</measure>
+    <time_frame>single time point (1 day)</time_frame>
+    <description>This Outcome is measured non-invasively by MSOT, the single wavelengths are spectrally unmixed</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acquisition of the quantitative fibrosis signals (collagen/lipid)</measure>
+    <time_frame>single time point (1 day)</time_frame>
+    <description>This Outcome is measured non-invasively by MSOT, the single wavelengths are spectrally unmixed</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>3D reconstruction of the longitudinal measurements using two different pattern designs</measure>
+    <time_frame>single time point (1 day)</time_frame>
+    <description>This Outcome is measured non-invasively by MSOT. A foil imprinted with an &quot;N&quot; is applied and fixed over the calf muscle. Three longitudinal 2D measurements are made or repeated until a promising result is obtained. The same procedure is repeated with a foil imprinted with a trident.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acquisition of static 2D MSOT measurements before and after gait exposure</measure>
+    <time_frame>single time point (1 day)</time_frame>
+    <description>This Outcome is measured non-invasively by MSOT. An initial measurement is taken at rest. Subsequently, the patient will complete a defined walking distance of 150 meters under medical supervision. Afterwards, the medial head of the gastrocnemius muscle is measured again.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Validation of the accuracy of the MSOT 3D reconstruction using an overlay from MRA</measure>
+    <time_frame>single time point (1 day)</time_frame>
+    <description>This Outcome is only realized in participants who received an magnetic resonance angiography regardless of study participation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acquisition of the flow profile of the common femoral artery and popliteal artery using CCDS</measure>
+    <time_frame>single time point (1 day)</time_frame>
+    <description>This Outcome is measured non-invasively by standardized vascular sonography</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acquisition of the Ankle-Brachial-Index</measure>
+    <time_frame>single time point (1 day)</time_frame>
+    <description>This Outcome is measured non-invasively by standardized clinical assessment according to the according to the recommendation from the S3 guideline for PAD of the German Association for Angiology (&quot;Deutsche Gesellschaft für Angiologie&quot;) dated November 30, 2015</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acquisition of the current walking distance standardized by treadmill examination</measure>
+    <time_frame>single time point (1 day)</time_frame>
+    <description>This Outcome is measured by a standardized treadmill examination (excluding PAD patients in chronic critical stage III or IV according to Fontaine) ideally with 3km/h and 12% incline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acquisition of the PAD stage according to Fontaine and Rutherford</measure>
+    <time_frame>single time point (1 day)</time_frame>
+    <description>This Outcome is acquired by actual recommendation from national and international guidelines</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Recording of relevant patient data from the patient's file</measure>
+    <time_frame>single time point (1 day)</time_frame>
+    <description>Preexisting disorders, previous performed operations on vessels, current medication, radiological TransAtlantic InterSociety Consensus classification</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">8</enrollment>
+  <condition>Peripheral Vascular Diseases</condition>
+  <condition>Peripheral Arterial Disease</condition>
+  <arm_group>
+    <arm_group_label>Study group</arm_group_label>
+    <description>Multispectral Optoacoustic Tomography (MSOT) and B-Mode Ultrasound of the Musculus gastrocnemius of the affected leg in PAD patients or one leg in healthy volunteers (total 1 site)&#xD;
+Physical assessment: Color-Coded Duplex Sonography/treadmill examination to determine actual walking distance/Ankle-Brachial-Index/defined walking distance of 150 meters under medical supervision</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Multispectral Optoacoustic Tomography (MSOT)</intervention_name>
+    <description>non-invasive transcutaneous imaging of subcellular muscle components</description>
+    <arm_group_label>Study group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with PAD IIa/IIb/III/IV according to Fontaine who come in for a routine&#xD;
+        presentation of the the vascular surgery consultation hours.&#xD;
+&#xD;
+        Healthy volunteers with&#xD;
+&#xD;
+          -  no PAD previously known&#xD;
+&#xD;
+          -  no diabetes mellitus previously known&#xD;
+&#xD;
+          -  no chronic renal insufficiency previously known&#xD;
+&#xD;
+          -  no symptoms in the sense of a Claudicatio intermittens&#xD;
+&#xD;
+          -  ABI with normal value who are recruited by clinic notices.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with manifest PAD stages II-IV according to Fontaine or healthy volunteers&#xD;
+&#xD;
+          -  Adult (&gt;18 years) persons who are able to give their consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with PAD stage I according to Fontaine&#xD;
+&#xD;
+          -  Healthy volunteers with pre-existing diabetes mellitus, chronic renal failure, or&#xD;
+             abnormal ABI&#xD;
+&#xD;
+          -  Underage persons&#xD;
+&#xD;
+          -  Missing consent form&#xD;
+&#xD;
+          -  Exclusion due to safety concerns of the study physician (patient with a physical,&#xD;
+             mental or psychiatric illness which, in the opinion of the study physician, would&#xD;
+             compromise the safety of the patient or the quality of the data and thus make the&#xD;
+             patient an unsuitable candidate for the study)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Ulrich Rother, PD Dr. med.</last_name>
+    <phone>+4991318542028</phone>
+    <email>ulrich.rother@uk-erlangen.de</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Erlangen, Vascular Surgery</name>
+      <address>
+        <city>Erlangen</city>
+        <zip>91054</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ulrich Rother, PD Dr. med.</last_name>
+      <phone>+4991318542028</phone>
+      <email>ulrich.rother@uk-erlangen.de</email>
+    </contact>
+    <contact_backup>
+      <last_name>Werner Lang, Prof. Dr. med.</last_name>
+      <phone>+4991318532968</phone>
+      <email>werner.lang@uk-erlangen.de</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Josefine S. Günther</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <reference>
+    <citation>Signorelli SS, Vanella L, Abraham NG, Scuto S, Marino E, Rocic P. Pathophysiology of chronic peripheral ischemia: new perspectives. Ther Adv Chronic Dis. 2020 Feb 5;11:2040622319894466. doi: 10.1177/2040622319894466. eCollection 2020. Review.</citation>
+    <PMID>32076496</PMID>
+  </reference>
+  <reference>
+    <citation>Karlas A, Kallmayer M, Fasoula NA, Liapis E, Bariotakis M, Krönke M, Anastasopoulou M, Reber J, Eckstein HH, Ntziachristos V. Multispectral optoacoustic tomography of muscle perfusion and oxygenation under arterial and venous occlusion: A human pilot study. J Biophotonics. 2020 Jun;13(6):e201960169. doi: 10.1002/jbio.201960169. Epub 2020 Mar 25.</citation>
+    <PMID>32134550</PMID>
+  </reference>
+  <reference>
+    <citation>Holzwarth N, Schellenberg M, Gröhl J, Dreher K, Nölke JH, Seitel A, Tizabi MD, Müller-Stich BP, Maier-Hein L. Tattoo tomography: Freehand 3D photoacoustic image reconstruction with an optical pattern. Int J Comput Assist Radiol Surg. 2021 Jul;16(7):1101-1110. doi: 10.1007/s11548-021-02399-w. Epub 2021 May 16.</citation>
+    <PMID>33993409</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 8, 2021</study_first_posted>
+  <last_update_submitted>November 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University Hospital Erlangen</investigator_affiliation>
+    <investigator_full_name>Ulrich Rother</investigator_full_name>
+    <investigator_title>PD Dr. med.</investigator_title>
+  </responsible_party>
+  <keyword>Peripheral Vascular Disease</keyword>
+  <keyword>Peripheral Arterial Disease</keyword>
+  <keyword>Multispectral Optoacoustic Tomography</keyword>
+  <keyword>MSOT</keyword>
+  <keyword>PAD</keyword>
+  <keyword>Claudicatio intermittens</keyword>
+  <keyword>Critical Limb Ischemia</keyword>
+  <keyword>CLI</keyword>
+  <keyword>Diagnostic imaging</keyword>
+  <keyword>Color-Coded Duplex Sonography</keyword>
+  <keyword>CCDS</keyword>
+  <keyword>Non-invasive diagnostic procedure</keyword>
+  <keyword>non-invasive diagnostic</keyword>
+  <keyword>noninvasive diagnostic</keyword>
+  <keyword>3D imaging</keyword>
+  <keyword>three-dimensional imaging</keyword>
+  <keyword>three-dimensional diagnostic</keyword>
+  <keyword>3D diagnostic</keyword>
+  <keyword>tattoo tomography</keyword>
+  <keyword>optical pattern</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Peripheral Arterial Disease</mesh_term>
+    <mesh_term>Peripheral Vascular Diseases</mesh_term>
+    <mesh_term>Vascular Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>November 2, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/77/NCT05110677/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

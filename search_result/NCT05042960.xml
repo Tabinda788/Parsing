@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9087">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05042960</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-00472</org_study_id>
+    <nct_id>NCT05042960</nct_id>
+  </id_info>
+  <brief_title>Computer Screen Properties Study</brief_title>
+  <official_title>Investigating the Effects of Screen Brightness and Warm Tone Modulation on Dry Eye Symptoms</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NYU Langone Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>NYU Langone Health</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to identify how various popular methods of changing computer&#xD;
+      screen settings affect dry eye symptoms (eye pain, grittiness, tearing, burning, etc.).&#xD;
+      Specifically, this study will examine if there are differences in effects of blue light&#xD;
+      blocking (F.lux app or night shift) versus reducing screen brightness on the symptoms of dry&#xD;
+      eye.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      After the initial survey, participants will be randomized by a randomization tool internal to&#xD;
+      Redcap to be in one of three arms of intervention: no intervention, screen brightness&#xD;
+      reduction to 50%, and tone modulator application. Instructions will be e-mailed to&#xD;
+      participants to explain the steps they must take depending on which treatment arm they are&#xD;
+      randomized to. Adherence will be monitored and assessed at the time of post-intervention&#xD;
+      survey. If participants have issues with the software of complying, they will be able to&#xD;
+      contact the research team at any point.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 15, 2021</start_date>
+  <completion_date type="Anticipated">September 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The frequency of dry eye symptoms</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Participants will complete a pre-intervention survey to measure the frequency of dry eye symptoms.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The frequency of dry eye symptoms</measure>
+    <time_frame>Day 30</time_frame>
+    <description>Participants will complete a post-intervention survey to measure the frequency of dry eye symptoms.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The severity of dry eye symptoms</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Participants will complete a pre-intervention survey to measure the severity of dry eye symptoms.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The severity of dry eye symptoms</measure>
+    <time_frame>Day 30</time_frame>
+    <description>Participants will complete a post-intervention survey to measure the severity of dry eye symptoms.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Dry Eye Syndromes</condition>
+  <arm_group>
+    <arm_group_label>50% brightness group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be using a computer screen reducing screen brightness 50%.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Light App group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this group will use a modulating computer screen tone with flux or night shift app.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants in this group will be a control with no change in screen features</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Brightness</intervention_name>
+    <description>Changing the colors or brightness on the device (computer screen) for one month</description>
+    <arm_group_label>50% brightness group</arm_group_label>
+    <arm_group_label>Light App group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult person (18+) with intact vision who uses computers&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Children (&lt;18 years)&#xD;
+&#xD;
+          -  Adult person without intact vision&#xD;
+&#xD;
+          -  Adult who does not use computer screens&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Leela Raju, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NYU Langone Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sachi Patil</last_name>
+    <phone>631-793-2594</phone>
+    <email>Sachi.patil@nyulangone.org</email>
+  </overall_contact>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 13, 2021</study_first_posted>
+  <last_update_submitted>September 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dry Eye Syndromes</mesh_term>
+    <mesh_term>Keratoconjunctivitis Sicca</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data that underlie the results reported in this article, after deidentification (text, tables, figures, and appendices).</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Immediately following publication. No end date.</ipd_time_frame>
+    <ipd_access_criteria>Requests should be directed to sachi.patil@nyulangone.org To gain access, data requestors will need to sign a data access agreement. Researchers who provide a methodologically sound proposal.Upon reasonable request</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

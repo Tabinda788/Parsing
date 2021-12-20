@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1300">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05144230</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UP717295</org_study_id>
+    <nct_id>NCT05144230</nct_id>
+  </id_info>
+  <brief_title>Healthy Data: Improving Health Information Quality Using Intelligent Systems</brief_title>
+  <official_title>Collection of Electronic Health Records (EHR) for Validation of Artificial Intelligence Based Tool for Data Quality Assessment</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Portsmouth</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Portsmouth Hospitals NHS Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Portsmouth</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Electronic Health Record Systems (EHR) play an integral role in healthcare practice, enabling&#xD;
+      health organisations to collect, access and manage data more consistently. There is also a&#xD;
+      great deal of interest in using EHR data to improve decision-making and accelerate medical&#xD;
+      interventions. However, like all information systems, they are prone to data quality problems&#xD;
+      such as incomplete records, values outside normal ranges and implausible relationships. These&#xD;
+      problems are expected to become more prevalent as more organisations adopt electronic health&#xD;
+      record systems, aggregate, share and explore health data. The investigators believe current&#xD;
+      efforts to improve health data quality can be made more effective if backed by appropriate&#xD;
+      technology in the form of a readily accessible intelligent tools. Building on this, the&#xD;
+      investigators developed an Artificial Intelligence (AI) tool for automating data quality&#xD;
+      assessment of health data. In this study, the investigators evaluate the AI tool using a&#xD;
+      real-world dataset.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The main aim of this study is to assess the reliability and utility of an AI tool in&#xD;
+      identifying data quality dimensions of interest for secondary use of health data, including&#xD;
+      completeness, conformance and plausibility. In assessing this tool, this study will&#xD;
+      retrospectively analyse data captured during routine clinical care and identify records&#xD;
+      containing listed data quality dimensions. This study will also assess the consistency of the&#xD;
+      AI tool in generating and executing data quality checks.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2022</start_date>
+  <completion_date type="Anticipated">April 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Data quality dimensions prevalence</measure>
+    <time_frame>12 months, between 01/01/2020 and 31/12/2020</time_frame>
+    <description>The number of patient records identified by the AI tool with completeness, conformance and plausibility violations</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Consistency of AI tool</measure>
+    <time_frame>2 months, through study completion</time_frame>
+    <description>Consistency of AI tool in generating measures for detecting data quality dimensions</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Validity of AI tool detection</measure>
+    <time_frame>2 months, through study completion</time_frame>
+    <description>Validity of data quality dimensions identified by the AI tool</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">60000</enrollment>
+  <condition>Data Quality of Electronic Health Records</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patient records captured by Portsmouth Hospitals University National Health Service Trust&#xD;
+        (PHU) between 01/01/2020 and 31/12/2020&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  No specific exclusion criteria&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  No specific exclusion criteria&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Obinwa Ozonze, MSc</last_name>
+    <phone>07391566946</phone>
+    <email>obinwa.ozonze@port.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Adrian Hopgood, PhD</last_name>
+    <phone>02392842946</phone>
+    <email>adrian.hopgood@port.ac.uk</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Kahn MG, Callahan TJ, Barnard J, Bauck AE, Brown J, Davidson BN, Estiri H, Goerg C, Holve E, Johnson SG, Liaw ST, Hamilton-Lopez M, Meeker D, Ong TC, Ryan P, Shang N, Weiskopf NG, Weng C, Zozus MN, Schilling L. A Harmonized Data Quality Assessment Terminology and Framework for the Secondary Use of Electronic Health Record Data. EGEMS (Wash DC). 2016 Sep 11;4(1):1244. eCollection 2016.</citation>
+    <PMID>27713905</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 3, 2021</study_first_posted>
+  <last_update_submitted>November 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Portsmouth</investigator_affiliation>
+    <investigator_full_name>Obinwa Ozonze</investigator_full_name>
+    <investigator_title>MSc</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

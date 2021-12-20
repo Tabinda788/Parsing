@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3226">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05119179</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HSC-MS-21-0297</org_study_id>
+    <nct_id>NCT05119179</nct_id>
+  </id_info>
+  <brief_title>Pharmacogenetics of the Response to GLP-1 in Mexican-Americans With Prediabetes</brief_title>
+  <official_title>Pharmacogenetics of the Response to GLP-1 in Mexican-Americans With Prediabetes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The University of Texas Health Science Center, Houston</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Vanderbilt University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The University of Texas Health Science Center, Houston</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This project uses both transcriptomic- and genomic-level data to identify mechanisms of&#xD;
+      individual responses to glucagon-like peptide-1 (GLP-1) in Mexican-Americans with&#xD;
+      prediabetes. The GLP-1 hormone is essential for glucose reduction, weight loss,&#xD;
+      cardiovascular risk reduction, and renal protection. Newly discovered mechanisms will&#xD;
+      illuminate causal links between disease genotype and phenotype, which may ultimately guide&#xD;
+      personalized therapeutic approaches for type 2 diabetes, prediabetes, obesity, cardiovascular&#xD;
+      disease, renal disease, and other related diseases.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This clinical trial will uncover new mechanisms of inter-individual responses to endogenous&#xD;
+      and exogenous glucagon-like peptide-1 (GLP-1) in Hispanics/Latinos (H/Ls) with prediabetes.&#xD;
+      The results move the management of prediabetes, type 2 diabetes mellitus (T2DM), and relevant&#xD;
+      metabolic diseases to a more individualized approach in an understudied and at-risk&#xD;
+      population. Few options exist for prediabetes treatment, and the current pharmaceutical&#xD;
+      management of T2DM does not predict drug treatment failures, nor differences in individual&#xD;
+      treatment responses and adverse effects. A precise, genetics-based approach will provide&#xD;
+      superior therapeutic management for patients. GLP-1-based therapies reduce blood glucose,&#xD;
+      promote weight loss, decrease cardiovascular events, and improve renal function. Prior&#xD;
+      genetic studies, most done in Caucasians, identified associations between genetic variants&#xD;
+      and decreased GLP-1-induced insulin secretion, in an effort to guide individualized&#xD;
+      treatment. However, these associations do not provide a clear mechanistic relationship&#xD;
+      between genotype and phenotype. Transcriptomic analyses will uncover many of these&#xD;
+      mechanisms. Here, we propose to 1) test the association of single nucleotide polymorphisms&#xD;
+      (SNPs) that regulate expression (eQTLs) of 11 candidate genes in a range of relevant&#xD;
+      metabolic tissues with differential GLP-1 response, 2) perform RNA sequencing before and&#xD;
+      after treatment to identify eQTLs in blood that predict response to GLP-1 therapy and develop&#xD;
+      risk-based prediction models in H/Ls, and 3) determine the effects of genetic regulation of&#xD;
+      candidate genes and newly discovered eQTLs phenome-wide in a large existing biobank, BioVU.&#xD;
+      For aims 1 and 2, responses will be measured in 300 study subjects with prediabetes recruited&#xD;
+      from an established Mexican-American cohort via the oral minimal model method, before and&#xD;
+      after GLP-1 therapy, quantifying GLP-1 hormone efficacy and GLP-1-induced pancreatic beta&#xD;
+      cell insulin release and peripheral insulin sensitivity. Procedures include serial&#xD;
+      measurements of plasma glucose, insulin, C-peptide, and GLP-1, and peripheral blood&#xD;
+      collection for RNA sequencing. Our central hypotheses are: (1) metabolic tissue-based eQTLs&#xD;
+      of GLP-1-associated genes will be associated with physiological response to endogenous and&#xD;
+      exogenous GLP-1,(2) identification of eQTLs associated with GLP-1 treatment-induced changes&#xD;
+      in whole blood will identify new gene targets, and (3) this data will lead to the creation of&#xD;
+      eQTL-based prediction models for related diseases. The study is innovative because it uses a&#xD;
+      novel combination of eQTL analysis and oral minimal model to assess GLP-1 response, examines&#xD;
+      a population highly underrepresented in pharmacogenomic studies, and utilizes novel&#xD;
+      statistical methods and applications to study gene expression. The significance of this newly&#xD;
+      acquired mechanistic information will ultimately guide precision therapeutic regimens for&#xD;
+      diabetes prevention and treatment, weight loss, cardiovascular risk reduction, and related&#xD;
+      metabolic complications in an understudied population.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">November 15, 2021</start_date>
+  <completion_date type="Anticipated">July 2026</completion_date>
+  <primary_completion_date type="Anticipated">November 2025</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Single center, before and after clinical trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean change in beta cell responsivity</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>A rate which measures the ability of beta cells to secrete insulin</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Insulin Sensitivity</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Measurement of the efficacy of insulin action at peripheral tissues</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Disposition Index</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Product of beta cell responsivity and insulin sensitivity (see above)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>GLP-1-Induced Potentiation</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Measurement of GLP-1 (glucagon-like peptide 1) hormonal efficacy in relationship to postprandial insulin secretion</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mean change in GLP-1 Area Under the Curve (AUC)</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Comparison of GLP-1 AUC measurements before and after drug intervention</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Gene expression changes for minor variants of eQTLs for TCF7L2</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>eQTLs (expresion quantitative trait loci) are genes which affect the mRNA expression of another target gene.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Gene expression changes for minor variants of eQTLs for KCNQ1</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>eQTLs (expresion quantitative trait loci) are genes which affect the mRNA expression of another target gene.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Gene expression changes for minor variants of eQTLs for WFS1</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>eQTLs (expresion quantitative trait loci) are genes which affect the mRNA expression of another target gene.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Gene expression changes for minor variants of eQTLs for THADA</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>eQTLs (expresion quantitative trait loci) are genes which affect the mRNA expression of another target gene.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Gene expression changes for minor variants of eQTLs for CNR1</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>eQTLs (expresion quantitative trait loci) are genes which affect the mRNA expression of another target gene.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Gene expression changes for minor variants of eQTLs for CTRB1</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>eQTLs (expresion quantitative trait loci) are genes which affect the mRNA expression of another target gene.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Gene expression changes for minor variants of eQTLs for CTRB2</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>eQTLs (expresion quantitative trait loci) are genes which affect the mRNA expression of another target gene.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Gene expression changes for minor variants of eQTLs for GLP1R</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>eQTLs (expresion quantitative trait loci) are genes which affect the mRNA expression of another target gene.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Gene expression changes for minor variants of eQTLs for CHST3</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>eQTLs (expresion quantitative trait loci) are genes which affect the mRNA expression of another target gene.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Gene expression changes for minor variants of eQTLs for MTNR1B</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>eQTLs (expresion quantitative trait loci) are genes which affect the mRNA expression of another target gene.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Gene expression changes for minor variants of eQTLs for SORCS1</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>eQTLs (expresion quantitative trait loci) are genes which affect the mRNA expression of another target gene.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Previously unidentified cis-eQTLs associated with change in gene expression due to GLP-1 challenge</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Study has statistical power to detect previously unidentified eQTLs</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in glucose Area Under the Curve (AUC)</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Comparison of glucose AUC measurements before and after drug intervention</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in C-peptide Area Under the Curve (AUC)</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Comparison of C-peptide AUC measurements before and after drug intervention</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in hemoglobin A1C</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Change in hemoglobin A1C (measured once on each study day) before and after intervention</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in insulin Area Under the Curve (AUC)</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Comparison of insulin AUC measurements before and after drug intervention</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Creation of eQTL-based disease prediction models</measure>
+    <time_frame>5 years</time_frame>
+    <description>Create and apply eQTL-based prediction models to investigate the clinical consequences of variable GLP-1- induced gene expression changes (identified as above) in large electronic health records (EHRs), and use these models to predict disease risk phenome-wide.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Polygenic prediction model for GLP-1 therapy-associated outcomes</measure>
+    <time_frame>5 years</time_frame>
+    <description>Creation of Polygenic prediction model using above data</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>PreDiabetes</condition>
+  <arm_group>
+    <arm_group_label>Semaglutide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Semaglutide 0.25 mg subcutaneously weekly for 4 weeks, followed by semaglutide 0.5 mg subcutaneously weekly for 8 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Semaglutide</intervention_name>
+    <description>Glucagon-like Peptide 1 Receptor Agonist</description>
+    <arm_group_label>Semaglutide</arm_group_label>
+    <other_name>Ozempic</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          1. Men and women, ages 18 years and older&#xD;
+&#xD;
+          2. Diagnosis of Prediabetes - defined as either impaired fasting glucose (fasting glucose&#xD;
+             of 100-125 mg/dL), impaired glucose tolerance (2-hour postprandial blood glucose of&#xD;
+             140-199 mg/dL after 75-gram oral glucose challenge), and/or a hemoglobin A1C ranging&#xD;
+             from 5.7% to 6.4%&#xD;
+&#xD;
+          3. High risk for progression to diabetes: defined as having at least one of the two&#xD;
+             following additional factors: Obesity (BMI ≥ 30 kg/m2) and/or metabolically unhealthy&#xD;
+             status. &quot;Metabolically unhealthy status&quot; is defined as at least two of the following:&#xD;
+             elevated blood pressure (SBP ≥ 130 mmHg and/or DBP ≥ 85 mmHg), elevated triglycerides&#xD;
+             ≥ 150 mg/dL, low HDL cholesterol (males &lt; 40 mg/dL; females &lt; 50 mg/dL), and elevated&#xD;
+             fasting glucose ≥ 100 mg/dL (Wu S et al., 2017).&#xD;
+&#xD;
+          4. Women of childbearing age must agree to use an acceptable method of pregnancy&#xD;
+             prevention (barrier methods, abstinence, hormonal contraception, intrauterine&#xD;
+             contraception, or surgical sterilization) for the duration of the study.&#xD;
+&#xD;
+          5. Patients must have the following laboratory values: Hematocrit ≥ 34 vol%, estimated&#xD;
+             glomerular filtration rate ≥ 60 mL/min per 1.73 m2, AST (SGOT) &lt; 2.5 times ULN, ALT&#xD;
+             (SGPT) &lt; 2.5 times ULN, alkaline phosphatase &lt; 2.5 times ULN&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. History of Type 1 or Type 2 diabetes mellitus&#xD;
+&#xD;
+          2. Pregnant or breastfeeding women&#xD;
+&#xD;
+          3. Medications: metformin, DPP-4 inhibitors, GLP-1 receptor agonists, SGLT-2 inhibitors,&#xD;
+             thiazolidinediones, insulin, sulfonylureas, meglitinides, alpha-glucosidase&#xD;
+             inhibitors, and/or corticosteroids over the last 3 months.&#xD;
+&#xD;
+          4. Active malignancy&#xD;
+&#xD;
+          5. History of clinically significant cardiac, hepatic, pancreatic or renal disease.&#xD;
+&#xD;
+          6. History of any serious hypersensitivity reaction to the study medication (or any other&#xD;
+             incretin mimetic)&#xD;
+&#xD;
+          7. Prisoners or subjects who are involuntarily incarcerated&#xD;
+&#xD;
+          8. Prior history of pancreatitis, medullary thyroid cancer, or multiple endocrine&#xD;
+             neoplasia type 2 (MEN 2)&#xD;
+&#xD;
+          9. Family history of medullary thyroid cancer (a rare form of thyroid cancer) or MEN2.&#xD;
+             However, as many individuals may not be aware of the specific type of thyroid cancer,&#xD;
+             will also exclude any family history of thyroid cancer or MEN2.&#xD;
+&#xD;
+         10. Hospitalization for COVID-19 in last 3 months&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Absalon D Gutierrez, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The University of Texas Health Science Center, Houston</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Norma Perez-Olazaran</last_name>
+    <phone>(956) 755-0695</phone>
+    <email>Norma.P.PerezOlazaran@uth.tmc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rocio Uribe</last_name>
+    <phone>(956) 882-5165</phone>
+    <email>Rocio.D.Uribe@uth.tmc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>UTHealth Clinical Research Unit (CRU) at UT Brownsville</name>
+      <address>
+        <city>Brownsville</city>
+        <state>Texas</state>
+        <zip>78520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Norma Perez-Olazaran</last_name>
+      <phone>956-755-0695</phone>
+      <email>Norma.P.PerezOlazaran@uth.tmc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Rocio Uribe</last_name>
+      <phone>(956) 882-5165</phone>
+      <email>Rocio.D.Uribe@uth.tmc.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>August 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 15, 2021</study_first_posted>
+  <last_update_submitted>November 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The University of Texas Health Science Center, Houston</investigator_affiliation>
+    <investigator_full_name>Absalon D Gutierrez</investigator_full_name>
+    <investigator_title>Associate Professor of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>prediabetes</keyword>
+  <keyword>Mexican-American</keyword>
+  <keyword>GLP-1</keyword>
+  <keyword>pharmacogenetics</keyword>
+  <keyword>expression quantitative trait loci</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prediabetic State</mesh_term>
+    <mesh_term>Glucose Intolerance</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

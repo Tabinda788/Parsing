@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7386">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05065099</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00014094</org_study_id>
+    <nct_id>NCT05065099</nct_id>
+  </id_info>
+  <brief_title>Online Treatment Recovery Assistance for Concussion in Kids</brief_title>
+  <acronym>OnTRACK</acronym>
+  <official_title>OnTRACK: Mobile Application for Pediatric Post-Concussion Patient Management - Phase 2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Children's National Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Creare, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Children's National Research Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators propose to develop a software platform, OnTRACK (Online Treatment Recovery&#xD;
+      Assistance for Concussion in Kids), for children and adolescents recovering from concussion&#xD;
+      or mild traumatic brain injury (mTBI). The platform includes a mobile application (app) for&#xD;
+      the patients and their care team (parents, teachers, coaches, etc.), a database server, and a&#xD;
+      decision support dashboard for healthcare providers. The OnTRACK app prompts the patient to&#xD;
+      report post-concussion symptoms across recovery in two distinct but equally important ways: a&#xD;
+      weekly cross-recovery graded symptom ratings to track overall recovery progress, and&#xD;
+      short-term daily dynamic exertional symptom responses to guide tolerable daily activity.&#xD;
+      Teachers and parents and other authorized members of the patient care team also report&#xD;
+      patient progress when prompted. Beyond symptom reporting, the app provides access to&#xD;
+      education in the form of short multimedia clips that cover various topics related to&#xD;
+      concussion recovery based on the PACE (Progressive Activities of Controlled Exertion) model.&#xD;
+      Using several large existing datasets on recovery trajectories, the serial symptom reports&#xD;
+      indicate (a) level of symptom severity, change over time, and whether recovery is following a&#xD;
+      typical or atypical pattern. The healthcare provider is regularly updated regarding recovery&#xD;
+      progress and, if an atypical pattern is reported, he/she receives an alert to assess further&#xD;
+      and consider referral for additional treatment. To guide daily recovery, OnTRACK uses&#xD;
+      empirically-derived algorithms to determine when the level of symptom exacerbation reaches a&#xD;
+      certain threshold, delivering an alert to the healthcare provider who can give feedback to&#xD;
+      the child to manage daily activities and reduce disruptive symptoms. The primary goal of the&#xD;
+      OnTRACK system is to afford the healthcare provider, patient, and family greater confidence&#xD;
+      with data-driven decisions upon which to follow evidence-based treatment guidelines and to&#xD;
+      improve communication between family and provider.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators will study the usability of a smartphone app (Online Treatment Recovery&#xD;
+      Assistant for Concussion in Kids, OnTRACK), its effect on provider management confidence, and&#xD;
+      communication plus a preliminary analysis of the benefits on patient recovery outcomes. The&#xD;
+      study will recruit 126 children, parent, school staff triads (n=378) along with their&#xD;
+      healthcare provider (HCP) including 22 primary care from the CN Pediatric Health Network and&#xD;
+      8 specialists from the CN Safe Concussion Outcome, Recovery &amp; Education (SCORE) clinics and&#xD;
+      Neurology clinics. The participants will track and monitor the child's symptoms and respond&#xD;
+      to HCP guidance over the course of recovery (up to 12 weeks), employing evidence-based&#xD;
+      algorithms related to recovery progress. The investigators hypothesize that the HCP will&#xD;
+      experience: (1) positive satisfaction in using the app, (2) increased confidence in their&#xD;
+      management guidance, and (3) increased communication with patients, families and school staff&#xD;
+      when using the OnTRACK app as compared to a control group who receives standard treatment&#xD;
+      without the OnTRACK app. The investigators further hypothesize that in using the OnTRACK app&#xD;
+      as compared with control group, patients, parents and school personnel will report: (1)&#xD;
+      positive satisfaction in using the app, (2) increased confidence in their symptom management,&#xD;
+      and (3) increased communication with the HCP. Additionally, the investigators hypothesize&#xD;
+      that the OnTRACK educational videos will be rated as useful and improve the understanding of&#xD;
+      the patient, parent and school regarding concussion and its management. Finally, the&#xD;
+      investigators hypothesize that patients will develop a better understanding of the dynamics&#xD;
+      of their exertional symptoms as related to school and home activities by tracking their&#xD;
+      occurrence and learning productive strategies to manage them.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">November 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>We will employ a quasi-experimental mixed design occurring in two sequential phases, assigning the first half of the sample to the control (standard care) group, and the second half to the OnTRACK intervention group. The between-subjects variable will be assignment to intervention or control condition and the within-subjects variable being time (beginning of recovery, end of recovery) to address the specific aims of the study.</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The usability of the OnTRACK symptom monitoring system</measure>
+    <time_frame>Participants will complete the survey when they are no longer symptomatic and are deemed clinically recovered, or at 12 weeks after enrollment if they are not recovered. Questionnaires will take five minutes to complete.</time_frame>
+    <description>Patients, Parents, HCPs, and School Personnel in the intervention group will complete an OnTRACK App/Portal User Satisfaction Survey</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The OnTRACK symptom monitoring system's effect on the HCP confidence in clinical decision-making, patient/ parent/ school confidence in carrying out management guidance</measure>
+    <time_frame>Participants will complete the survey when they are no longer symptomatic and are deemed clinically recovered, or at 12 weeks after enrollment if they are not recovered. Questionnaires will take five minutes to complete.</time_frame>
+    <description>Parents, HCPs, and School Personnel will each complete the Concussion Management Self-Efficacy Scale. Scores range from 0-120 on the Parent scale, 0-190 on the HCP scale, and 0-170 on the Teacher scale. Patients will complete the Progressive Activities of Cognitive Exertion scale- Self (score range: 0-170), with higher scores representing higher levels of confidence/self-efficacy for each of the four scales.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Communication with Patients, Parents, HCPs and School Staff</measure>
+    <time_frame>Participants will complete the survey when they are no longer symptomatic and are deemed clinically recovered, or at 12 weeks after enrollment if they are not recovered. Questionnaires will take five minutes to complete.</time_frame>
+    <description>A measure of satisfaction with the communication process between the family and HCP as well as between the HCP and school will be administered. Patient families, HCPs, and School Staff will complete the Communication Effectiveness Scale. Score ranges for the Patients/Parents scale is 0-90, HCP is 0-70, and School Staff is 0-80.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Examine patient symptom recovery outcomes (self-reported)</measure>
+    <time_frame>Participants will complete the survey when they are no longer symptomatic and are deemed clinically recovered, or at 12 weeks after enrollment if they are not recovered. The questionnaire will take five minutes to complete.</time_frame>
+    <description>Symptom Recovery Status: Self-reported via Post-Concussion Symptom Inventory (PCSI) PCSI-Self score range: 0-126 (Adolescent), 0-34 (Child)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Examine patient symptom recovery outcomes (parent reported)</measure>
+    <time_frame>Participants will complete the survey when they are no longer symptomatic and are deemed clinically recovered, or at 12 weeks after enrollment if they are not recovered. The questionnaire will take five minutes to complete.</time_frame>
+    <description>Symptom Recovery Status: Parent-reported via Post-Concussion Symptom Inventory (PCSI) PCSI-Parent score range: 0-120</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Examine patient symptom recovery outcomes relating to school (self-reported)</measure>
+    <time_frame>Participants will complete the survey when they are no longer symptomatic and are deemed recovered, or at 12 weeks after enrollment if they are not recovered. The questionnaire will take five minutes to complete.</time_frame>
+    <description>Symptom Recovery Status: Self-reported via Concussion Learning Assessment and School Survey (CLASS-3) The CLASS-3 collects information regarding the patient's academic performance, across several areas: General Concern (0-3), Total Problems (0-14, total sum = 0-42), Total Stresses (0-6, total sum = 0-18), New/Worsening Trouble (total sum = 0-16), and Total Supports Needed/Received (0-unlimited), with higher scores reflecting greater academic difficulty/more support required.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Examine patient symptom recovery outcomes relating to school (school-reported)</measure>
+    <time_frame>Participants will complete the survey when they are no longer symptomatic and are deemed clinically recovered, or at 12 weeks after enrollment if they are not recovered. The questionnaire will take five minutes to complete.</time_frame>
+    <description>Symptom Recovery Status: School-reported via Concussion Learning Assessment and School Survey (CLASS-3) The CLASS-3 collects information regarding the patient's academic performance, across several areas: General Concern (0-3), Total Problems (0-14, total sum = 0-42), Total Stresses (0-6, total sum = 0-18), New/Worsening Trouble (total sum = 0-16), and Total Supports Needed/Received (0-unlimited), with higher scores reflecting greater academic difficulty/more support required.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in knowledge associated with the educational videos</measure>
+    <time_frame>Participants will complete the survey when they are no longer symptomatic and are deemed clinically recovered, or at 12 weeks after enrollment if they are not recovered. The questionnaire will take five minutes to complete.</time_frame>
+    <description>Patients, Parents, HCPs, and School Personnel will complete an Educational video user survey</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">408</enrollment>
+  <condition>Concussion</condition>
+  <condition>MTBI - Mild Traumatic Brain Injury</condition>
+  <arm_group>
+    <arm_group_label>OnTRACK Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In the intervention condition, HCPs will be trained in the usage of the OnTRACK system.&#xD;
+They will be oriented to the educational videos, the symptom tracking, and the interpretation of the data that is provided by the patients and families, and the associated management strategies based on that data. Additionally, patients and parents will be trained to use the OnTRACK smartphone app on their phone from diagnosis to recovery (or 12 weeks if not recovered), including daily exertional monitoring symptom ratings and use of the educational videos. School personnel will be introduced to the OnTRACK app and the data summary features in the school dashboard and the associated supports that can be provided to the student based on that data.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment as Usual</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>In the control condition, the HCP provides &quot;usual/standard care&quot; to the patients and parents as is the practice within the specific clinic. The OnTRACK app and the educational modules are not provided.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Online Treatment Recovery Assistance for Concussion in Kids (OnTRACK)</intervention_name>
+    <description>Patients and families will be provided the smartphone app on their personal mobile phone (Android, iPhone) or provided with a phone if they do not own one. The patients will view educational videos on concussion management, input their daily exertional status and weekly symptom status upon receiving pre-programmed notification prompts on their phone. Healthcare Providers will monitor symptom recovery via an HCP dashboard and make management recommendations using evidence-based algorithms regarding symptom recovery status. School personnel will monitor progress via a dashboard and provide targeted supports, they may also view educational videos on concussion management. Opportunities for communication between the HCP, parent/patient and school will be provided by the app.</description>
+    <arm_group_label>OnTRACK Intervention</arm_group_label>
+    <other_name>OnTRACK</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Healthcare providers (HCP) (n =28):&#xD;
+&#xD;
+          -  Primary care practitioners and their clinical assistants (e.g., nurse, PA) (n = 22)&#xD;
+&#xD;
+          -  Practitioners from the SCORE Concussion and Neurology clinics at Children's National&#xD;
+             (n = 6)&#xD;
+&#xD;
+        Patient/ Parent (n = 134 pairs):&#xD;
+&#xD;
+          -  Children aged 8-17 years old&#xD;
+&#xD;
+          -  Children who sustained a concussion within 7 days prior to visiting their primary care&#xD;
+             practice, and within 30 days of visiting the specialty clinics&#xD;
+&#xD;
+          -  Children and parents must be fluent English speakers&#xD;
+&#xD;
+          -  Children and parents must be agreeable to the study conditions, and able to provide&#xD;
+             informed assent/ parent consent&#xD;
+&#xD;
+        School Staff member (n = 134):&#xD;
+&#xD;
+          -  Members of faculty at the school the patient attends&#xD;
+&#xD;
+          -  Pre-selected by child/parent&#xD;
+&#xD;
+          -  Fluent in English language&#xD;
+&#xD;
+          -  Agreeable to study conditions, and able to sign consent forms&#xD;
+&#xD;
+               -  Children/parents who's school will not participate will still be eligible to&#xD;
+                  participate&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Children with significant developmental, cognitive, language, psychiatric, other&#xD;
+             neurological disease, or significant motor or visual impairments, specifically if they&#xD;
+             do not allow adequate comprehension of the study goals and materials&#xD;
+&#xD;
+               -  Patients with pre-injury histories of developmental disorders (e.g., ADHD, LD),&#xD;
+                  mild-moderate anxiety or mood disorders, and other medical diseases that are&#xD;
+                  under control (e.g., asthma, diabetes, headaches, seizures) are all eligible to&#xD;
+                  participate in the study&#xD;
+&#xD;
+          -  Children who have suffered a severe prior brain injury or have had a prior concussion&#xD;
+             within the past 3 months&#xD;
+&#xD;
+          -  Caregivers who have significant cognitive limitations&#xD;
+&#xD;
+          -  Individuals with English-language comprehension limitations&#xD;
+&#xD;
+          -  School staff who are unable to meet with the student on a regular basis to review the&#xD;
+             app information and/or complete the questionnaires during the workday&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>8 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gerard Gioia, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Children's National Research Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dean R Allen, MA</last_name>
+    <phone>(301)765-5458</phone>
+    <email>drallen@childrensnational.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Safe Concussion Outcome Recovery &amp; Education (SCORE) Clinic at Children's National Hospital</name>
+      <address>
+        <city>Rockville</city>
+        <state>Maryland</state>
+        <zip>20850</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dean R Allen, ma</last_name>
+      <phone>301-765-5458</phone>
+      <email>drallen@childrensnational.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>July 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 1, 2021</study_first_posted>
+  <last_update_submitted>November 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Children's National Research Institute</investigator_affiliation>
+    <investigator_full_name>Gerard A. Gioia</investigator_full_name>
+    <investigator_title>Chief of Neuropsychology</investigator_title>
+  </responsible_party>
+  <keyword>Concussion</keyword>
+  <keyword>mTBI</keyword>
+  <keyword>Mild Traumatic Brain Injury</keyword>
+  <keyword>Mobile Application</keyword>
+  <keyword>Symptom Monitoring</keyword>
+  <keyword>Pediatric</keyword>
+  <keyword>Children</keyword>
+  <keyword>Healthcare Provider Support</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Brain Injuries</mesh_term>
+    <mesh_term>Brain Injuries, Traumatic</mesh_term>
+    <mesh_term>Brain Concussion</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

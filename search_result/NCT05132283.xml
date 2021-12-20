@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2218">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05132283</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-372</org_study_id>
+    <nct_id>NCT05132283</nct_id>
+  </id_info>
+  <brief_title>Urologic Lymphadenectomy in AMIGO</brief_title>
+  <official_title>Image-guided Lymphadenectomy Within Urologic Regions of Interest in AMIGO</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dana-Farber Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Dana-Farber Cancer Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This research study involves the use of two navigation systems, the 3D Slicer-based&#xD;
+      navigation system, and the Siemens Monaco systems, to simplify the complexity of image-guided&#xD;
+      lymphadenectomy procedures (surgery to remove one or more lymph nodes) in patients with&#xD;
+      urological cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This research study involves the use of two navigation systems, the 3D Slicer-based&#xD;
+      navigation system, and the Siemens Monaco systems, which will simplify the complexity of&#xD;
+      image-guided lymphadenectomy procedures (surgery to remove one or more lymph nodes).&#xD;
+&#xD;
+      The U.S. Food and Drug Administration (FDA) has not approved the navigation systems (3D&#xD;
+      Slicer and Monaco) as a treatment for any disease.&#xD;
+&#xD;
+      In this research study, our hypothesis is that the use of the navigation systems (3D Slicer&#xD;
+      and the Siemens Monaco system) may simplify the complexity of laparoscopic lymphadenectomy&#xD;
+      (The procedure in which a small incision is made in the lower abdomen to reach the lymph&#xD;
+      nodes) in regions of urologic interest, by resulting in better visualization and more&#xD;
+      accurate localization of the diseased lymph node and allowing for improved surgical and&#xD;
+      patient outcomes, fewer complications, and better clinician performance.&#xD;
+&#xD;
+      The long-term goal of our program is to demonstrate that the navigation system (3D Slicer and&#xD;
+      the Siemens Monaco system) increase the efficiency and reduce the morbidity or the likelihood&#xD;
+      of any medical problems associated with the resection or removal of radiologically defined&#xD;
+      lesions, within urologic regions of interest, associated with any type of urologic cancer.&#xD;
+      The first clinical application of the system will be in resecting radiologically positive&#xD;
+      lymph nodes displayed by CT or FDG PET (an imaging test used to identify lymphomas and other&#xD;
+      cancers) in the Advanced Multimodality Image-Guided Operating (AMIGO) Suite at Brigham and&#xD;
+      Women's Hospital (BWH).&#xD;
+&#xD;
+      The navigation system has been used with similar protocols, specifically 5 parathyroid&#xD;
+      surgeries, 13 tracked endoscopic ultrasound (minimally invasive procedure to assess digestive&#xD;
+      and lung diseases) and over 30 tracked colonoscopy experiments (exam used to detect changes&#xD;
+      or abnormalities in the large intestine (colon) and rectum) on human subjects at BWH with no&#xD;
+      difficulties or reportable incidents.&#xD;
+&#xD;
+      It will take you up to 4 weeks to complete this study. During that time you will have two&#xD;
+      study visits and one standard of care follow-up visit.&#xD;
+&#xD;
+      The research study procedures include: screening for eligibility and study treatment&#xD;
+      including evaluations and standard of care follow-up visits.&#xD;
+&#xD;
+      It is expected that about 20 people will take part in this research study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2022</start_date>
+  <completion_date type="Anticipated">December 26, 2022</completion_date>
+  <primary_completion_date type="Anticipated">August 25, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of Patients Completing Intended Procedure (Feasibility)</measure>
+    <time_frame>One month, up to 45 days after registration</time_frame>
+    <description>The Slicer-Monaco prototype navigation platform will be used to resect enlarged and/or fluorodeoxyglucose avid lymph nodes. The successful navigational use of this platform will be considered as completed. The proportion of patients completing this intended procedure will be reported.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Patients with Laparoscopic Videos Recorded</measure>
+    <time_frame>One month, up to 45 days from registration</time_frame>
+    <description>During the first phase of the project on 10 patients, we will store real-time laparoscopic videos using the KARL STORZ 3D Video system that can be analyzed offline. During the second phase of 10 patients, we will provide an optional video overlay option in the navigation system. The navigation system will be similar to that used on the first 10 patients. The only difference will be that the virtual endoscopy view will be overlaid on the laparoscopy video in the 3D Slicer navigation system.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Path length Kinematic Metric</measure>
+    <time_frame>One month, up to 45 days after registration</time_frame>
+    <description>The kinematic metric of path length will be computed using recorded data from the navigation system. Mean path length scores for all patients will be reported for each kinematic measure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Velocity Kinematic Metric</measure>
+    <time_frame>One month, up to 45 days after registration</time_frame>
+    <description>The kinematic metric of velocity will be computed using recorded data from the navigation system. Mean velocity scores for all patients will be reported for each kinematic measure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acceleration Kinematic Metric</measure>
+    <time_frame>One month, up to 45 days after registration</time_frame>
+    <description>The kinematic metric of acceleration will be computed using recorded data from the navigation system. Mean acceleration scores for all patients will be reported for each kinematic measure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Jerk Kinematic Metric</measure>
+    <time_frame>One month, up to 45 days after registration</time_frame>
+    <description>The kinematic metric of jerk will be computed using recorded data from the navigation system. Mean jerk scores for all patients will be reported for each kinematic measure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mental/Physical/Temporal Demand on Physician</measure>
+    <time_frame>One month, up to 45 days after registration</time_frame>
+    <description>The mental, physical and temporal demand on physicians will be assessed using the NASA Task Load Index (NASA-TLX), a multidimensional assessment tool that rates perceived workload in order to assess the performance of a task. The NASA task load index has a scoring range of 1 to 10 for mental demand, physical demand, temporal demand, effort, and frustration with 1 representing a very low value and 10 representing a very high value. A mean score out of 10 will be given for each operation and a mean score for all 20 operations will be given (out of 10). Assessment will be filled out by investigators.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean absolute difference in distance from Instruments to Organs</measure>
+    <time_frame>One month, up to 45 days after registration</time_frame>
+    <description>The accuracy of localization of the organs will be quantified by pointing to specific structures and evaluating the distance of the registered instrument from the structures in the image space.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Further, the pathology of the lymph node resected using the navigation system will be compared to the other lymph nodes resected in urologic regions of interest.</measure>
+    <time_frame>One month, up to 45 days after registration</time_frame>
+    <description>To ensure quality control of the procedure, the lymph node removed with the navigation system will be compared to the other lymph nodes resected in urologic regions of interest without the use of the navigation system.&#xD;
+The unit of measure will be the accuracy of targeting the PET-avid lymph node as confirmed by pathology, i.e., binary decision variable for two categories (using the navigation system or not). Using the navigation system: malignant or not, versus not using with the navigation system: malignant or not. The measurement tool will be the pathological analysis.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Urologic Cancer</condition>
+  <condition>Lymph Node Metastasis</condition>
+  <arm_group>
+    <arm_group_label>Urologic Lymphadenectomy in AMIGO</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will undergo Lymphadenectomy per standard of care with the navigation systems (3D Slicer and Monaco) used to locate the abnormal lymph node(s).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>3D Slicer</intervention_name>
+    <description>Navigational device used during surgery to locate abnormal lymph nodes.</description>
+    <arm_group_label>Urologic Lymphadenectomy in AMIGO</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Monaco</intervention_name>
+    <description>Navigational device used during surgery to locate abnormal lymph nodes.</description>
+    <arm_group_label>Urologic Lymphadenectomy in AMIGO</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Signed written informed consent before any trial-related procedure is undertaken that&#xD;
+             is not part of the standard patient management&#xD;
+&#xD;
+          -  Subjects aged ≥ 18 years. Selected patients must have a confirmed or suspected&#xD;
+             diagnosis of disease in urologic regions of interest, with scheduled confirmatory&#xD;
+             surgical biopsy.&#xD;
+&#xD;
+          -  Subjects must have had a CT, PET or MR examination of acceptable quality at Brigham&#xD;
+             and Women's Hospital within the prior month.&#xD;
+&#xD;
+          -  Subjects must also be scheduled to undergo lymphadenectomy for a urologic cancer&#xD;
+             within the following urologic regions of interest: Bladder, Prostate, Testicular,&#xD;
+             Kidney, Urethral, and Penile.&#xD;
+&#xD;
+          -  Subjects must also be scheduled to undergo a laparoscopic lymphadenectomy within the&#xD;
+             AMIGO OR&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Severely impaired renal function with an EGFR &lt; 30 mL/min/body surface area&#xD;
+&#xD;
+          -  Evidence of any significant, uncontrolled comorbid condition that could affect&#xD;
+             compliance with the protocol or interpretation of the results, which is to be judged&#xD;
+             at the discretion of the PI&#xD;
+&#xD;
+          -  History of hypersensitivity or other contraindication to contrast media&#xD;
+&#xD;
+          -  Contraindication to general anesthesia&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Matthew Mossanen, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brigham and Women's Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Matthew Mossanen, MD</last_name>
+    <phone>(617) 732-6384</phone>
+    <email>mmossanen@bwh.harvard.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Matthew Mossanen, MD</last_name>
+      <phone>617-732-6384</phone>
+      <email>mmossanen@bwh.harvard.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Matthew Mossanen, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 24, 2021</study_first_posted>
+  <last_update_submitted>November 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Dana-Farber Cancer Institute</investigator_affiliation>
+    <investigator_full_name>Matthew Mossanen</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Urologic Cancer</keyword>
+  <keyword>Lymph Node Metastasis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Lymphatic Metastasis</mesh_term>
+    <mesh_term>Urologic Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The Dana-Farber / Harvard Cancer Center encourages and supports the responsible and ethical sharing of data from clinical trials. De-identified participant data from the final research dataset used in the published manuscript may only be shared under the terms of a Data Use Agreement. Requests may be directed to: [contact information for Sponsor Investigator or designee]. The protocol and statistical analysis plan will be made available on Clinicaltrials.gov only as required by federal regulation or as a condition of awards and agreements supporting the research.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Data can be shared no earlier than 1 year following the date of publication</ipd_time_frame>
+    <ipd_access_criteria>Contact the Partners Innovations team at http://www.partners.org/innovation</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

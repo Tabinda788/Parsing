@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2504">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05128565</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ORAD 7.2.1</org_study_id>
+    <nct_id>NCT05128565</nct_id>
+  </id_info>
+  <brief_title>Textural Analysis of Mandibular Trabecular Bone Based on Grey Level Co-occurrence Matrix Features in Correlation With Age and Gender of an Egyptian Population Sample: A Cross-sectional Study Using Cone Beam CT</brief_title>
+  <official_title>Textural Analysis of Mandibular Trabecular Bone Based on Grey Level Co-occurrence Matrix Features in Correlation With Age and Gender of an Egyptian Population Sample: A Cross-sectional Study Using Cone Beam CT</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cairo University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cairo University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to investigate if GLCM texture features are correlated with&#xD;
+      age-gender trabecular bone variations in different regions of interest on mandibular CBCT&#xD;
+      scans. This correlation will help in guiding the future selection of textural features and&#xD;
+      anatomical regions suitable for developing a potential screening method for age and sex&#xD;
+      related skeletal disorders.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Scientific background&#xD;
+&#xD;
+      Bone health of the elderly is a major health concern which has gained a lot of attention&#xD;
+      lately since elderly populations are growing worldwide(Vijayakumar and Büsselberg, 2016). It&#xD;
+      is expected for Egypt in particular to have 130 million inhabitant by 2050, out of which 30%&#xD;
+      will be above 50 years of age(Chen et al., 2013; Gheita and Hammam, 2018). Aging is commonly&#xD;
+      accompanied by musculoskeletal disorders such as osteoporosis and osteoarthritis as a result&#xD;
+      of disturbances occurring in bone remodeling (Gheno et al., 2012). These disorders greatly&#xD;
+      increase the risk of bone fractures, such as hip and vertebral fractures, and thus&#xD;
+      compromising the quality of life of these patients(Gheno et al., 2012). The prevalence of&#xD;
+      these musculoskeletal disorders is also affected by gender, studies claim that females are&#xD;
+      more prone to osteoporosis and osteoarthritis than males(on Osteoporosis and Prevention,&#xD;
+      2001; Gheno et al., 2012).&#xD;
+&#xD;
+      Bone mineral density measured by dual x-ray absorptiometry (DXA) has been considered as the&#xD;
+      gold standard for assessing bone health for a long time(Link and Heilmeier, 2016). However,&#xD;
+      the national institute of health on its osteoporosis consensus conference pointed out that&#xD;
+      bone strength depends not only on its density but also on quality(on Osteoporosis and&#xD;
+      Prevention, 2001). Therefore, complementary diagnostic methods for assessing bone quality are&#xD;
+      needed to improve the prediction of individual fracture risk(Link and Heilmeier, 2016).&#xD;
+&#xD;
+      Various attempts has been made by researchers since then to develop a satisfactory method to&#xD;
+      assess bone quality, trabecular bone score (TBS) is one of the most successful trials. TBS is&#xD;
+      a texture parameter related to bone microarchitecture that uses conventional DXA images of&#xD;
+      the lumbar spine to extract the gray-level texture features providing skeletal information&#xD;
+      that is not captured from the standard BMD measurement. It has been used successfully as an&#xD;
+      adjunctive to DXA, and further research attempts are made to investigate its use&#xD;
+      independently to predict fracture risk.(Martineau, Silva and Leslie, 2017; Shevroja et al.,&#xD;
+      2017) The success of TBS has led the research community to examine the potential use of&#xD;
+      texture parameters to assess bone microarchitecture in different imaging modalities(Shevroja&#xD;
+      et al., 2017). Texture is one of the main visual pattern recognition techniques used by&#xD;
+      humans to identify objects or regions of interest in an image. It is an innate property of&#xD;
+      each object, containing important information about the structural arrangement of its surface&#xD;
+      and its relation with surroundings (Haralick, Shanmugam and Dinstein, 1973). Textural&#xD;
+      analysis is a type of quantitative image assessment based on relationships between pixel&#xD;
+      intensities. It is gaining a wide range of attention nowadays in the field of biomedical&#xD;
+      imaging since it can be beneficial in tissue characterization with various diagnostic&#xD;
+      applications(Gebejes and Huertas, 2013; Summers, 2017).&#xD;
+&#xD;
+      There are various methods for textural analysis, Grey level co-occurrence matrix (GLCM) is&#xD;
+      one of the popular and most commonly used for extraction of texture features(Gebejes and&#xD;
+      Huertas, 2013). It is a second order statistical method of characterizing the texture of an&#xD;
+      image by considering the frequency of occurring of pixel grey value pairs and their spatial&#xD;
+      relationship(Haralick, Shanmugam and Dinstein, 1973; Gebejes and Huertas, 2013).&#xD;
+&#xD;
+      Cone beam computed tomography (CBCT) is nowadays used routinely for multiple diagnostic&#xD;
+      procedures and is known to use significantly lower radiation dose than CT with higher spatial&#xD;
+      resolution and at lower cost, therefore could be a suitable candidate as a screening tool for&#xD;
+      bone quality(Scarfe, Farman and Sukovic, 2006; Scarfe and Farman, 2008). We hereby&#xD;
+      hypothesize that using grey level co-occurrence matrix derived texture features to assess&#xD;
+      bone quality can be applicable to CBCT scans, instead of the debatable use of grey levels to&#xD;
+      measure bone density which in many studies proved to be inadequate in comparison to the&#xD;
+      calibrated Hounsfield units of multi-detector CT(Pauwels et al., 2013; De Rosa et al., 2020;&#xD;
+      Gonçalves et al., 2020).&#xD;
+&#xD;
+      Therefore the aim of this study is to investigate if GLCM texture features are correlated&#xD;
+      with age-gender trabecular bone variations in different regions of interest on mandibular&#xD;
+      CBCT scans. This correlation will help in guiding the future selection of textural features&#xD;
+      and anatomical regions suitable for developing a potential screening method for age and sex&#xD;
+      related skeletal disorders.&#xD;
+&#xD;
+      PECO Question:&#xD;
+&#xD;
+      P: Mandibular trabecular bone of adult Egyptians E: Females (18-40 OR above 40) C: Males&#xD;
+      (18-40 OR above 40) O: Grey level co-occurrence matrix textural features&#xD;
+&#xD;
+      Research question:&#xD;
+&#xD;
+      What is the correlation between the age and sex of Egyptian population and GLCM derived&#xD;
+      texture features of mandibular trabecular bone?&#xD;
+&#xD;
+      Statement of the problem:&#xD;
+&#xD;
+      Bone health of elderly is a major public health concern. Although diagnosisof disorders&#xD;
+      affecting bone health requires assessing bone quality as well as density, there is still a&#xD;
+      shortage in diagnostic techniques that could examine bone quality successfully at&#xD;
+      considerably low radiation dose and low cost.&#xD;
+&#xD;
+      Specific objectives:&#xD;
+&#xD;
+      To detect the presence of a correlation between age-sex of an individual and the texture&#xD;
+      features of mandibular trabecular bone derived from grey level co-occurrence matrix in a&#xD;
+      sample of adult Egyptian population.&#xD;
+&#xD;
+      Hypothesis:&#xD;
+&#xD;
+      Null: There is no difference in trabecular textural features between different age groups or&#xD;
+      between the two sexes Alternative: There is a difference in trabecular textural features&#xD;
+      between different age groups or between the two sexes&#xD;
+&#xD;
+      Methodology Variables&#xD;
+&#xD;
+      Independent Variables:&#xD;
+&#xD;
+        1. Age ( 18-40 OR above 40)&#xD;
+&#xD;
+        2. Sex (Males OR Females)&#xD;
+&#xD;
+      Dependent Variables:&#xD;
+&#xD;
+      Eleven Texture features derived from Haralick's work (Haralick, Shanmugam and Dinstein, 1973)&#xD;
+      Feature Description Contrast Represents the amount of local variation of gray shades Inverse&#xD;
+      difference moment Homogeneity of the distribution of gray shades on the image Angular Second&#xD;
+      moment Measurement of image uniformity Correlation Linear measure dependence of gray shades&#xD;
+      between neighboring pixels Sum of squares Measurement of the dispersion(related to average)&#xD;
+      of gray shade distribution Entropy Degree of disorder between pixels in the image Sum of&#xD;
+      average Mean of the distribution of the sum of gray shades Sum of variance Dispersion around&#xD;
+      the mean of the sum distribution of gray shades Sum of entropy Disorganization of the sum&#xD;
+      distribution of gray shades Difference of variance Dispersion of the gray shade difference&#xD;
+      Difference of entropy Disorganization of the gray shade difference&#xD;
+&#xD;
+      Data sources\Measurements&#xD;
+&#xD;
+      CBCT image acquisition:&#xD;
+&#xD;
+      Mandibular CBCT scans will be retrieved retrospectively from the database registry of oral&#xD;
+      and maxillofacial radiology department, faculty of dentistry, Cairo University. The included&#xD;
+      CBCT images shall be obtained using Planmeca ProMax® 3D Mid CBCT machine, at resolution of&#xD;
+      0.4 voxel, 20*10 cm FOV (single mandibular arch), operating at 8 mA and 90 Kvp.&#xD;
+&#xD;
+      All CBCT images will be obtained in DICOM format (Digital Imaging Communication in Medicine)&#xD;
+      and viewed by Romexis software for analysis by a senior oral radiologist. Images with&#xD;
+      artifacts and poor visual quality, such as beam hardening artifacts, partial volume effect,&#xD;
+      aliasing artifacts, ring artifacts, low sharpness images resulting from patient movements&#xD;
+      during scanning, will be excluded.&#xD;
+&#xD;
+      Eligible CBCT scans will be divided into 4 groups according to age and sex of the patient&#xD;
+      (Males younger than 40, Males older than 40, Females younger than 40, Females older than 40).&#xD;
+      Groups will be assigned a letter A, B, C, or D in a random order, so that only the assistant&#xD;
+      supervisor will be aware of the demographic data of each group but will be concealed from the&#xD;
+      principal investigator who will perform the textural analysis.&#xD;
+&#xD;
+      Corrected sagittal cuts of the three regions of interest (anterior, premolar, molar) will be&#xD;
+      prepared from the eligible scans, then images will be saved in a BMP format.&#xD;
+&#xD;
+      Segmentation and texture analysis:&#xD;
+&#xD;
+      The BMP images of the corrected sagittal cuts of the cases will be imported to MaZda software&#xD;
+      (Technical University of Lodz, Institute of Electronics, Poland). A round region of interest&#xD;
+      will be manually cropped apical to the tooth, so that its size will be big enough to include&#xD;
+      the maximum trabecular bone present with no or little non-trabecular tissue.&#xD;
+&#xD;
+      GLCM textural features will be calculated by the software. All parameters will be calculated&#xD;
+      for two distances between pixels (d1 = 1, d2 = 2) and four sweeping directions (horizontal,&#xD;
+      diagonal, vertical and anti-diagonal) corresponding to (φ = 0°,45°,90°, 135°,&#xD;
+      respectively).The mean of the values at different positions will be taken as a single reading&#xD;
+      representing the texture feature value for the area of interest.&#xD;
+&#xD;
+      Handling of quantitative variables:&#xD;
+&#xD;
+      Eleven texture features will be calculated for 3 regions of interest on each eligible CBCT&#xD;
+      scan. Texture values will be handled as mean and standard deviation, and comparison between&#xD;
+      different age\gender groups will be done for selection of significant features. Correlation&#xD;
+      analysis will be done to test the correlation between age and gender and selected texture&#xD;
+      features.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2021</start_date>
+  <completion_date type="Anticipated">August 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Grey level co-occurrence matrix texture features</measure>
+    <time_frame>Through study completion, an average of 18 months</time_frame>
+    <description>Grey level co-occurrence matrix textural features (Entropy- Contrast-Angular second moment-Correlation-Sum of squares-Inverse difference moment-Sum of averages-Sum of variance-Sum of entropy-Difference of variance-Difference of entropy)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Correlation</measure>
+    <time_frame>Through study completion, an average of 18 months</time_frame>
+    <description>Correlation between gender/age and GLCM texture features</description>
+  </secondary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">22</enrollment>
+  <condition>Visual Pattern Recognition</condition>
+  <arm_group>
+    <arm_group_label>Females under 40</arm_group_label>
+    <description>females from 18 years old to 40 years old</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Males under 40</arm_group_label>
+    <description>males from 18 years old to 40 years old</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Females above 40</arm_group_label>
+    <description>females older than 40 years old</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Males above 40</arm_group_label>
+    <description>males older than 40 years old</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Eligible mandibular CBCT scans of adult Egyptian population performed for any diagnostic&#xD;
+        reason other than this study will be retrieved from the database of oral and maxillofacial&#xD;
+        radiology department, faculty of dentistry, Cairo University.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Mandibular CBCT scans of an acceptable quality (devoid of imaging artifacts).&#xD;
+&#xD;
+          2. Egyptian male or female patients older than 18 years old.&#xD;
+&#xD;
+          3. Trabecular bone is free of pathology.&#xD;
+&#xD;
+          4. Teeth are present at the region of interest&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Low quality CBCT scans.&#xD;
+&#xD;
+          2. CBCT scans not including region of interest.&#xD;
+&#xD;
+          3. CBCT scans for patients less than 18 years old.&#xD;
+&#xD;
+          4. Trabecular bone is affected by osteolytic or osteoblastic bone pathologies.&#xD;
+&#xD;
+          5. The region of interest is apical to a missing tooth or a restored tooth.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 22, 2021</study_first_posted>
+  <last_update_submitted>November 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Cairo University</investigator_affiliation>
+    <investigator_full_name>Hoda abdelkader</investigator_full_name>
+    <investigator_title>Professor of oral and maxillofacial radiology</investigator_title>
+  </responsible_party>
+  <keyword>texture analysis</keyword>
+  <keyword>texture features</keyword>
+  <keyword>cancellous bone</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7189">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05067660</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TASTEPRO</org_study_id>
+    <nct_id>NCT05067660</nct_id>
+  </id_info>
+  <brief_title>Targeted Radiotherapy for Recurrent Prostate Cancer</brief_title>
+  <acronym>TASTEPRO</acronym>
+  <official_title>TArgeted STEreotactic Radiotherapy for Oligorecurrent PROstate Cancer (TASTEPRO) - a Randomized Controlled Pilot Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tampere University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Tampere University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Tampere University Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The TASTEPRO pilot trial evaluates the feasibility of PSMA PET-CT (Computer tomography)&#xD;
+      targeted stereotactic radiation therapy (SABR) in management of lymph node positive prostate&#xD;
+      cancer recurrence after radical prostatectomy.&#xD;
+&#xD;
+      Targeted SABR is compared to current standard; template-based salvage radiation therapy. The&#xD;
+      investigators expect SABR to be of equal or better oncological outcome compared to the&#xD;
+      standard therapy with less radiation-induced side-effects. Results of the pilot trial will be&#xD;
+      used when designing larger trials on oncological efficacy and safety of PSMA PET-CT targeted&#xD;
+      SABR.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Introduction&#xD;
+&#xD;
+      Prostate cancer is the second most common cancer diagnosed in men and the second leading&#xD;
+      cause of cancer death after lung cancer. Out of an estimated 1.1 million cancers diagnosed&#xD;
+      worldwide in 2012, prostate cancer accounted for approximately 15% of all cancer cases. The&#xD;
+      incidence of prostate cancer around the globe varies widely, being the highest in North&#xD;
+      America and northwestern Europe.&#xD;
+&#xD;
+      The International Society of Urological Pathology (2014) divides prostate cancer into three&#xD;
+      risk groups, consisting of low-risk, intermediate-risk and high-risk prostate cancers.&#xD;
+      Determining factors include the PSA-level, Gleason Score, and the extent of the primary tumor&#xD;
+      according to the TNM classification. The treatment modality of choice for prostate cancer&#xD;
+      depends on the risk-group. Low-risk prostate cancers are primarily managed conservatively,&#xD;
+      and the aim is to reduce over-treatment. This so-called deferred treatment includes the&#xD;
+      concepts of active surveillance and watchful waiting. Active surveillance is suitable for&#xD;
+      patients diagnosed with a localized and well-differentiated prostate cancer with a low risk&#xD;
+      of progression. Patients remain under close surveillance and the treatment intent is&#xD;
+      curative, as active treatment is initiated if changes in biopsy results or a T-stage&#xD;
+      progression occur. Watchful waiting is a palliative approach for patients with an estimated&#xD;
+      life expectancy below 10 years. These patients are treated symptomatically in order to&#xD;
+      maintain the best possible quality of life. Intermediate-risk prostate cancers are commonly&#xD;
+      treated operatively or with radiotherapy. Patients with high-risk prostate cancer show an&#xD;
+      increased risk of metastatic progression and death from the disease. Consensus regarding&#xD;
+      optimal treatment of high-risk prostate cancer does not thus far exist. Treatment options for&#xD;
+      localized disease include operative radical prostatectomy with subsequent pelvic lymph node&#xD;
+      dissection. A further therapy option for high-risk localized prostate cancer is the&#xD;
+      external-beam radiation therapy in combination with long-term androgen deprivation treatment.&#xD;
+&#xD;
+      Developing PSA recurrence is common after primarily curative radical prostatectomy or&#xD;
+      radiotherapy, occurring in 27%-53% of all patients. A rising PSA-level after curative-intent&#xD;
+      therapy may precede metastatic progression. The threshold for a clinically relevant PSA&#xD;
+      relapse depends on the primary treatment. A PSA rise of &gt; 0.4 ng/ml after radical&#xD;
+      prostatectomy is considered as the best threshold prediction for further metastases, although&#xD;
+      further studies suggest a cut point for a PSA-relapse at &gt; 0.2 ng/ml. After primary&#xD;
+      radiotherapy, a PSA rise of ≥ 2 ng/mL higher than the nadir (absolute lowest PSA level)&#xD;
+      achieved through the therapy is considered a PSA relapse. A rapid PSA-doubling time of under&#xD;
+      three months or a PSA recurrence within the first three years indicates a high risk of&#xD;
+      metastasis. On the contrary, a PSA-relapse more than three years after surgery or a PSA&#xD;
+      doubling time of over 12 months correlates with a low risk of metastases. Therefore, it is&#xD;
+      evident that the speed of PSA relapse after treatment correlates with the aggressiveness of&#xD;
+      the disease.&#xD;
+&#xD;
+      Recent studies have suggested that the enzyme Thymidine kinase 1 (TK1) could be used as a&#xD;
+      tumor marker for prostate cancer. TK1 is an enzyme involved in the DNA synthesis and its&#xD;
+      expression correlates with active cellular proliferation. A study by Murtola et al (2020)&#xD;
+      found that serum TK1 levels were significantly elevated in metastatic prostate cancer&#xD;
+      compared to non-metastatic cases. High serum TK1 levels were also identified as a predictor&#xD;
+      of prostate cancer specific and overall mortality. Further research is required to determine&#xD;
+      whether TK1 could be included in the prostate cancer risk stratification and influence the&#xD;
+      planning of optimal treatment and surveillance. Circulating tumor DNA (ctDNA) is a further&#xD;
+      marker which has demonstrated potential in detecting disease recurrence. ctDNA originates&#xD;
+      from degenerate tumor cells and can be detected in plasma. ctDNA can be used to estimate&#xD;
+      disease burden and has prognostic value in metastatic prostate cancer. A study by Lau et al&#xD;
+      (2020) found that patients with positive tumor ctDNA experienced rapid disease recurrence and&#xD;
+      progression compared to patients without detectable ctDNA, suggesting that ctDNA could&#xD;
+      potentially predict patients at highest risk for relapse.&#xD;
+&#xD;
+      In the case of a clinically relevant PSA relapse, the presence of metastases and the&#xD;
+      progression of the disease are commonly assessed with an abdominopelvic computer tomography&#xD;
+      (CT) as well as a skeletal scintigraphy. Advanced prostate cancer metastasizes primarily in&#xD;
+      the local pelvic lymph nodes and axial skeleton. Studies suggest, however, that only 11-14%&#xD;
+      of patients with a PSA-relapse show a positive CT-scan. Furthermore, the probability of a&#xD;
+      positive bone scan after radical prostatectomy is below 5% if the PSA-level is under 7 ng/ml.&#xD;
+      This indicates that conventional imaging techniques are not sensitive enough to detect&#xD;
+      metastases at early stages and low PSA levels.&#xD;
+&#xD;
+      Promising detection rates of metastases at low PSA-levels have been shown by the&#xD;
+      prostate-specific membrane antigen (PSMA) PET-CT imaging. PSMA is a glycoprotein&#xD;
+      overexpressed on the cell surface of prostate cancer cells which can be bound by radiolabeled&#xD;
+      small molecules, enabling whole-body tumor specific imaging with PET-CT. PSMA PET-CT is thus&#xD;
+      a state-of-the-art imaging method capable of detecting lesions of prostate cancer more&#xD;
+      accurately than any other clinically available imaging method. A number of recent studies&#xD;
+      show that PSMA PET-CT is particularly effective in detecting cases of recurrent cancer.&#xD;
+      Further research is required, however, to determine whether the increased sensitivity of the&#xD;
+      PSMA PET-CT in localizing metastases could improve the clinical outcome. It is currently&#xD;
+      unclear to which extent PSMA PET imaging results should influence the choice of treatment&#xD;
+      modality.&#xD;
+&#xD;
+      Disease recurrence after primary curative-intent treatment is commonly managed with salvage&#xD;
+      radiation therapy. To achieve the best results from salvage radiotherapy, research suggests&#xD;
+      that the PSA-level should be below 0.5 ng/ml, or preferably even lower at the start of&#xD;
+      treatment. Early salvage radiotherapy before a PSA-relapse &gt; 0.5 ng/ml leads to an&#xD;
+      undetectable PSA-level in more than 60% of men. Furthermore, the treatment delays the need&#xD;
+      for androgen deprivation therapy by 12-14 months. Salvage therapy is usually directed to the&#xD;
+      prostate bed as well as the iliac and obturator lymph nodes. Due to the poor sensitivity of&#xD;
+      conventional imaging techniques, salvage radiation therapy is commonly delivered with a&#xD;
+      uniform dose without histological proof of the local recurrence. The optimal salvage&#xD;
+      radiotherapy dose has not been clearly defined. The USA Guideline Panel regards 64-65 Gy as&#xD;
+      the minimum dose, whereas the European Association of Urology recommends at least 66 Gy for&#xD;
+      salvage radiotherapy. A dose escalation beyond 72-76 Gy significantly increases the risk of&#xD;
+      severe side effects, even with newer treatment techniques. Despite the possibility of a cure&#xD;
+      for patients with prostate cancer relapse, notable side-effects of the treatment include&#xD;
+      increased irritative symptoms of the lower urinary tract and rectum. Additionally, for men&#xD;
+      primarily managed with prostatectomy, the risk of urinary incontinence rises.&#xD;
+&#xD;
+      Stereotactic ablative radiotherapy (SABR) is a highly focused radiation treatment that&#xD;
+      concentrates an intense dose of radiation on the recurrent tumorous lesion while limiting the&#xD;
+      dose to healthy surrounding tissues. A recent study by Phillips et al (2020) concluded that&#xD;
+      SABR improves progression-free survival, induces a systemic immune response and delays the&#xD;
+      initiation of androgen deprivation therapy. Thus, it is a promising treatment approach for&#xD;
+      men with recurrent hormone-sensitive oligometastatic prostate cancer. PSMA PET-CT may prove&#xD;
+      to be a promising standard imaging technique, allowing targeted treatment of recurring&#xD;
+      lesions with SABR.&#xD;
+&#xD;
+      Objective&#xD;
+&#xD;
+      The TASTEPRO pilot trial evaluates the feasibility of PSMA PET-CT targeted SABR radiation&#xD;
+      therapy in management of lymph node positive disease recurrence after radical prostatectomy.&#xD;
+      The investigators expect targeted SABR to be of equal or better oncological outcome compared&#xD;
+      to the template-based conventional salvage therapy. Furthermore, the trial seeks to evaluate&#xD;
+      whether the targeted SABR radiation would reduce treatment toxicity and adverse side effects,&#xD;
+      leading to improved quality of life. Results of the pilot trial will be used when designing&#xD;
+      larger trials on oncological efficacy and safety of PSMA PET-CT targeted SABR.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2022</start_date>
+  <completion_date type="Anticipated">January 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized controlled pilot trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>Eligible study participants are randomized at the time of recruitment by an algorithm in a 1:1 ratio to receive either stereotactic ablative radiotherapy (SABR) or current standard-of-care template-based salvage radiotherapy.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Undetectable serum PSA after salvage radiotherapy</measure>
+    <time_frame>Within six months after radiotherapy</time_frame>
+    <description>Proportion of men in whom serum PSA becomes undetectable after salvage radiotherapy</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time from salvage radiation therapy until PSA-increase</measure>
+    <time_frame>Measured before radiation therapy, 3,6,12 and 24 months after radiation therapy</time_frame>
+    <description>Time from completion of salvage radiation therapy to a new PSA-increase compared to the post-treatment nadir as judged by two consecutively rising PSA values determined at least one month apart</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Initiation of androgen deprivation therapy or bicalutamide</measure>
+    <time_frame>Within 24 months after radiation therapy</time_frame>
+    <description>Time from salvage radiation therapy to initiation of androgen deprivation therapy or bicalutamide according to clinician's discretion</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Urinary and sexual symptoms after salvage radiation therapy</measure>
+    <time_frame>Measured before radiation therapy, 3,6,12 and 24 months after radiation therapy</time_frame>
+    <description>Change in urinary and sexual function compared to baseline as measured with Expanded Prostate Cancer Index Composite (EPIC-26) survey</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-reported post-treatment quality of life</measure>
+    <time_frame>Measured before radiation therapy, 3,6,12 and 24 months after radiation therapy</time_frame>
+    <description>Change in quality of life after radiation therapy compared to baseline as evaluated by WHO quality of life assessment (WHOQOL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum thymidine kinase 1 (TK1)</measure>
+    <time_frame>Measured at baseline and 3 months after salvage radiation therapy</time_frame>
+    <description>Change in serum TK1 between baseline and 3 months after salvage radiation therapy, measured with immunohistochemistry</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Amount of plasma ctDNA prior to radiation therapy as predictor of disease burden (number and size of detected lesions) discovered in the PSMA PET-CT</measure>
+    <time_frame>Before initiation of radiation therapy</time_frame>
+    <description>DNA-sequencing from the prostatectomy tissue samples will be carried out in subgroup of 10 trial participants exhibiting the greatest extent of potentially metastatic lesions in PSMA PET-CT. Based on tumor sequencing of the tissue sample, tumor-specific mutations will be identified. Occurrence of these mutations in plasma ctDNA at baseline is quantified. The quantification of the ctDNA will be carried out using sensitive assay identifying primary tumor mutations in the plasma. Amount of ctDNA with tumor-specific mutations is compared with the size and number of PSMA PET-CT positive lesions in the prostate bed and lymph nodes to estimate performance of ctDNA as clinical marker in post-prostatectomy recurrence.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Inter-reader agreement of PSMA PET-CT interpretation</measure>
+    <time_frame>Before initiation of radiation therapy</time_frame>
+    <description>Three nuclear medicine physicians will independently evaluate all PSMA PET-CT scans for suspicious metastatic lesions of prostate cancer. Consequently, the homogeneity of interpretation will be assessed using Cohen's kappa coefficient to determine inter-reader reliability.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Prostate Cancer Recurrence After Radical Prostatectomy</condition>
+  <arm_group>
+    <arm_group_label>Cohort A - Standard-of-care template-based salvage radiotherapy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Study participants in cohort A undergo template-based salvage radiotherapy according to current standard-of-care protocol. Dose fractionations include dose of 70/2 Gy in the prostatic bed, 50/2 Gy in the pelvic lymph node area and 45/1,8 Gy in the para-aortic lymph node. To the PSMA PET-CT positive lymph nodes, a boost dose will be considered depending on the anatomic site and will be delivered with a simultaneous integrated boost technique (SIB). The typical boost dose to PSMA PET-CT positive lymph nodes is 57,5/2,3 Gy, respecting normal tissue constraints. The dose to PSMA PET-CT positive areas in the prostatic bed is 74-78/2 Gy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort B - PSMA PET CT-targeted stereotactic ablative radiotherapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Study participants in cohort B undergo stereotactic ablative radiotherapy, targeted only to PSMA PET-CT-positive areas judged to be suspicious of prostate cancer metastasis by nuclear medicine physician. Dose fractionations in the experimental arm vary from 24/8 Gy to 30/10 Gy in PSMA PET-CT positive lymph nodes in pelvic or para-aortic areas. PSMA PET-CT positive areas in the prostatic bed receive a dose of 35/7 Gy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Stereotactic ablative radiotherapy</intervention_name>
+    <description>Stereotactic ablative radiotherapy (SABR) is a highly focused radiation treatment that concentrates an intense dose of radiation on the recurrent tumorous lesion while limiting the dose to healthy surrounding tissues.</description>
+    <arm_group_label>Cohort B - PSMA PET CT-targeted stereotactic ablative radiotherapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Current standard template-based salvage therapy</intervention_name>
+    <description>In the group receiving salvage radiotherapy according to current standard of care, radiation will be directed to the prostatic bed and pelvic lymph nodes according to the radiation oncologist's discretion.</description>
+    <arm_group_label>Cohort A - Standard-of-care template-based salvage radiotherapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  PSA-relapse, defined as PSA at 0.02 - 1.5 ng/ml after radical prostatectomy&#xD;
+&#xD;
+          -  A PSA doubling time of &gt; 6 months&#xD;
+&#xD;
+          -  PSMA PET-CT positivity with a maximum of three lymph node lesions (para-aortic, iliac&#xD;
+             or obturator nodes) with or without prostate bed involvement&#xD;
+&#xD;
+          -  Salvage radiotherapy planned without androgen deprivation treatment&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Chronic inflammatory bowel disease&#xD;
+&#xD;
+          -  Bone metastases due to prostate cancer&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <gender_based>Yes</gender_based>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Teemu J Murtola, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Professor of Urology, Tampere University, Chief Physician, Tampere University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Teemu J Murtola, MD, PhD</last_name>
+    <phone>+358 3 31165015</phone>
+    <email>teemu.murtola@tuni.fi</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Petri Reinikainen, MD</last_name>
+    <phone>+358 3 311 63260</phone>
+    <email>petri.reinikainen@tuni.fi</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Tampere University Hospital</name>
+      <address>
+        <city>Tampere</city>
+        <zip>33520</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Teemu Murtola, MD, PhD</last_name>
+      <phone>+358 3 311 65015</phone>
+      <email>teemu.murtola@tuni.fi</email>
+    </contact>
+    <contact_backup>
+      <last_name>Petri Reinikainen, MD</last_name>
+      <phone>+358 3 311 65260</phone>
+      <email>petri.reinikainen@tuni.fi</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Petri Reinikainen, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sebastian Boele, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Heikki Tuominen, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Atte Haarala, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Antti Tikkakoski, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Matti Annala, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Finland</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>May 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 5, 2021</study_first_posted>
+  <last_update_submitted>September 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>PSMA PET-CT, stereotactic radiotherapy, salvage therapy, ctDNA, Thymidine kinase 1</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+    <mesh_term>Recurrence</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>No IPD can be shared in compliance with EU data regulations. Meta-data and results will be shared openly.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

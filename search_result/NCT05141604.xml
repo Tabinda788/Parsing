@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1502">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05141604</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021P003330</org_study_id>
+    <secondary_id>R01EY031777</secondary_id>
+    <nct_id>NCT05141604</nct_id>
+  </id_info>
+  <brief_title>Feasibility Test of Virtual Reality Obstacle Detection for Low Vision Walking</brief_title>
+  <official_title>Monocular Visual Confusion for Field Expansion</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts Eye and Ear Infirmary</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Eye Institute (NEI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Massachusetts Eye and Ear Infirmary</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators are developing a new test of pedestrian hazard detection in virtual reality&#xD;
+      (VR) head-mounted display (HMD) headset, which shows virtual oncoming pedestrians in 3D while&#xD;
+      subjects are walking in real-world environment, for evaluation of visual field expansion to&#xD;
+      improve mobility in people with visual field loss.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2022</start_date>
+  <completion_date type="Anticipated">July 2024</completion_date>
+  <primary_completion_date type="Anticipated">July 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pedestrian detection rate</measure>
+    <time_frame>Through study completion, an average of four months</time_frame>
+    <description>Proportion of simulated pedestrians detected (in HMD walking)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Head movement range</measure>
+    <time_frame>Through study completion, an average of four months</time_frame>
+    <description>During the pedestrian detection task, lateral and vertical head movement range to check the head scanning range</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Walking speed</measure>
+    <time_frame>Through study completion, an average of four months</time_frame>
+    <description>During the task, the physical walking speed of the subject</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Hemianopsia</condition>
+  <condition>Homonymous Hemianopia</condition>
+  <condition>Tunnel Vision</condition>
+  <condition>Visual Field Defect, Peripheral</condition>
+  <condition>Visual Field Constriction Bilateral</condition>
+  <condition>Visual Field Defect Homonymous Bilateral</condition>
+  <arm_group>
+    <arm_group_label>Field expansion view</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Various configurations of field expansion views will be additionally displayed on HMD</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Field expansion view</intervention_name>
+    <description>Overlaid small window on HMD to show the part of the scene in the blind field into portions of the participants' remaining, seeing, field of vision</description>
+    <arm_group_label>Field expansion view</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        • Inclusion/Exclusion Criteria Inclusion criteria - Common&#xD;
+&#xD;
+          -  At least 14 years of age (no upper age limit)&#xD;
+&#xD;
+          -  In sufficiently good health to be able to complete sessions lasting 2-3 hours&#xD;
+&#xD;
+          -  Able to understand English&#xD;
+&#xD;
+          -  Able to give voluntary, informed consent&#xD;
+&#xD;
+          -  Able to independently move short distances&#xD;
+&#xD;
+          -  Binocular vision parameters within normal limits (Stereopsis ≤ 100 arc sec on any&#xD;
+             stereo test)&#xD;
+&#xD;
+        Inclusion criteria - subjects with visual field loss&#xD;
+&#xD;
+          -  Visual field loss, either peripheral field loss (&lt;30 degrees diameter) or hemianopic&#xD;
+             field loss (blind in half of visual field)&#xD;
+&#xD;
+          -  Better than 20/100 visual acuity in the worse eye&#xD;
+&#xD;
+        Inclusion criteria - subjects with normal vision&#xD;
+&#xD;
+          -  No restrictions of the peripheral visual field: (&gt; 60 degrees diameter)&#xD;
+&#xD;
+          -  Better than 20/40 visual acuity in the worse eye&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>14 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jaehyun Jung, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assistant Scientist</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sandhya Shekar</last_name>
+    <phone>6179122522</phone>
+    <email>sandhya_shekar@meei.harvard.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jaehyun Jung, PhD</last_name>
+    <phone>6179122525</phone>
+    <email>jaehyun_jung@meei.harvard.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Schepens Eye Research Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>November 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 2, 2021</study_first_posted>
+  <last_update_submitted>December 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts Eye and Ear Infirmary</investigator_affiliation>
+    <investigator_full_name>Jaehyun Jung</investigator_full_name>
+    <investigator_title>Assistant Scientist</investigator_title>
+  </responsible_party>
+  <keyword>walking</keyword>
+  <keyword>collision</keyword>
+  <keyword>field expansion</keyword>
+  <keyword>visual field loss</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hemianopsia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

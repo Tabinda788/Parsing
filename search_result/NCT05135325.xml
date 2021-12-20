@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1985">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05135325</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-0476</org_study_id>
+    <nct_id>NCT05135325</nct_id>
+  </id_info>
+  <brief_title>Encouraging Blood Donation in Patients With a Blood Type in Short Supply</brief_title>
+  <official_title>Encouraging Blood Donation in Patients With a Blood Type in Short Supply</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Geisinger Clinic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Geisinger Clinic</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      As of November 2021, partly due to the COVID-19 pandemic, there has been a months-long&#xD;
+      national shortage of several types of blood in the U.S. (O-Pos, O-Neg, A-Neg, B-Neg, and&#xD;
+      AB-Neg), which has extended to a local blood shortage within the Geisinger community. The&#xD;
+      broad aim of this collaborative healthcare operations quality improvement project is to&#xD;
+      determine whether a message indicating that a patient's own blood type is in short supply&#xD;
+      increases the likelihood that they will donate, compared to a message that mentions a blood&#xD;
+      shortage without referencing the patient's blood type, or no message at all. Scientists in&#xD;
+      Geisinger's Behavioral Insights Team (BIT), part of Geisinger's Steele Institute for Health&#xD;
+      Innovation, will collaborate with Miller Keystone, where Geisinger refers patients who wish&#xD;
+      to donate blood and from whom Geisinger receives blood for clinical purposes. Patients with&#xD;
+      one of the needed blood types will be randomized to receive 1) a message about a blood&#xD;
+      shortage that does not specify the blood types in short supply or their own blood type&#xD;
+      (no-blood-type message), 2) the same message modified slightly to specify the recipient's&#xD;
+      blood type, and to mention that their blood type is in short supply (blood-type message), or&#xD;
+      3) no message (shortage control group). A second no-contact control group of patients without&#xD;
+      any of the needed blood types will also be observed (no-shortage control group). Both the&#xD;
+      blood-type and no-blood-type messages are informed by behavioral science, emphasizing supply&#xD;
+      needs in local hospitals and providing community-relevant examples of why someone might need&#xD;
+      blood (e.g., farming or industrial accidents). The BIT will compare how many patients in each&#xD;
+      group choose to donate blood. They hypothesize that: 1) patients who receive either message&#xD;
+      will be more likely to donate than patients who receive no message; and 2) patients who&#xD;
+      receive the blood-type message will be more likely to donate than those who receive the&#xD;
+      no-blood-type message. With respect to the latter hypothesis, informing the recipient that&#xD;
+      they have one of the needed blood types may increase their perception that they are in a&#xD;
+      semi-unique position to help someone in need as compared to a more general message that may&#xD;
+      suffer from a diffusion of responsibility effect.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">November 15, 2021</start_date>
+  <completion_date type="Anticipated">February 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Double (Participant, Care Provider)</masking>
+    <masking_description>The patients in the study will not know that other messages are being sent to other patients, although they will see the text of their own message. Providers will be blind to patient conditions.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants Who Attended a Donation Appointment</measure>
+    <time_frame>Within 6 weeks of the final message send date</time_frame>
+    <description>Attended a donation appointment within 6 weeks of their message send date, regardless of whether they donated. This outcome includes patients who were unable to donate for any reason (e.g. low iron) or patients who showed up to the appointment but decided to leave before donating.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Who Successfully Donated Blood</measure>
+    <time_frame>Within 6 weeks of the final message send date</time_frame>
+    <description>Attended a donation appointment within 6 weeks of their message send date and successfully donated, excluding patients who were turned away from or left their appointment without donating.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Who Scheduled a Blood Donation Appointment</measure>
+    <time_frame>Within 2 weeks of the final message send date</time_frame>
+    <description>Scheduled an appointment within 2 weeks of their message send date.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">80000</enrollment>
+  <condition>Health Behavior</condition>
+  <arm_group>
+    <arm_group_label>No-blood-type message</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This group will receive a message that does not mention the patient's blood type, or that the patient's blood type is in short supply.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Blood-type message</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This group will receive a message that mentions the patient's blood type and that states their blood type is in short supply.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Shortage control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>This group will not receive a message.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No-shortage control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>This group will not receive a message.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Patient portal message</intervention_name>
+    <description>Portal message encourages patients to donate blood</description>
+    <arm_group_label>Blood-type message</arm_group_label>
+    <arm_group_label>No-blood-type message</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Social responsibility</intervention_name>
+    <description>Message specifies that there is a shortage of the patient's blood type</description>
+    <arm_group_label>Blood-type message</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Documented blood type in short supply (for message groups and shortage control group)&#xD;
+&#xD;
+          -  Documented blood type not in short supply (for no-shortage control group)&#xD;
+&#xD;
+          -  Age 18+&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Hemoglobin test result &lt; 12.5 within the 3 months prior to list creation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Amir Goren, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Geisinger Clinic</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Geisinger</name>
+      <address>
+        <city>Danville</city>
+        <state>Pennsylvania</state>
+        <zip>17822</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 26, 2021</study_first_posted>
+  <last_update_submitted>November 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Blood donations</keyword>
+  <keyword>Nudge</keyword>
+  <keyword>Behavior change</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data with no personally identifiable information will be made available to other researchers on the Open Science Framework for transparency.</ipd_description>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>The data will become available after publication of study results in a scientific journal and will be available as long as the Open Science Framework hosts the data.</ipd_time_frame>
+    <ipd_access_criteria>The data on the Open Science Framework will be open to anyone requesting that information.</ipd_access_criteria>
+    <ipd_url>http://osf.io</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

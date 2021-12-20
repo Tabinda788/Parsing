@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7820">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05059444</url>
+  </required_header>
+  <id_info>
+    <org_study_id>02-MX-003</org_study_id>
+    <nct_id>NCT05059444</nct_id>
+  </id_info>
+  <brief_title>ORACLE: Observation of ResiduAl Cancer With Liquid Biopsy Evaluation</brief_title>
+  <acronym>ORACLE</acronym>
+  <official_title>ORACLE: Observation of ResiduAl Cancer With Liquid Biopsy Evaluation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Guardant Health, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Guardant Health, Inc.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of ORACLE is to demonstrate the ability of a novel ctDNA assay developed by&#xD;
+      Guardant Health to detect recurrence in individuals treated for early-stage solid tumors. It&#xD;
+      is necessary that ctDNA test results are linked to clinical outcomes in order to demonstrate&#xD;
+      clinical validity for recurrence detection and explore its value in a healthcare environment&#xD;
+      subject to cost containment.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 7, 2021</start_date>
+  <completion_date type="Anticipated">October 2027</completion_date>
+  <primary_completion_date type="Anticipated">October 2027</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Distant Recurrence Free Interval (D-RFi)</measure>
+    <time_frame>6 years</time_frame>
+    <description>The primary endpoint, distant recurrence-free interval (D-RFi), will be evaluated for each of the primary study cohorts. D-RFi is defined as the time from the end of primary treatment until the time of diagnosis of a distant recurrence of the Index Cancer. Subjects without a distant recurrence will be censored at the time of last follow-up of their Index Cancer.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Sensitivity</measure>
+    <time_frame>6 years</time_frame>
+    <description>Sensitivity defined as the proportion of participants who develop distant recurrence who have ctDNA detected at or before the time of clinical detection of recurrence.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive Predictive Value</measure>
+    <time_frame>6 years</time_frame>
+    <description>Positive predictive value (PPV) defined as the proportion of participants who have ctDNA detected at the landmark or any surveillance timepoint who recur (either distally or locally).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lead Time</measure>
+    <time_frame>6 years</time_frame>
+    <description>Lead time defined as the interval between ctDNA detection and clinical detection of recurrence.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Recurrence-free interval (RFi)</measure>
+    <time_frame>6 years</time_frame>
+    <description>Recurrence-free interval (RFi) defined as the time from the end of primary treatment until the appearance/occurrence of any recurrence (distant, regional, and/or local) of the Index Cancer. Subjects without recurrence will be censored at the time of last follow-up of their Index Cancer.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Negative predictive value (NPV)</measure>
+    <time_frame>6 years</time_frame>
+    <description>Negative predictive value (NPV) defined as the proportion of participants who have ctDNA not detected who have no evidence of recurrence.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Association with resolution of indeterminate findings</measure>
+    <time_frame>6 years</time_frame>
+    <description>The proportion of individuals whose indeterminate finding is ultimately confirmed to be disease recurrence who have ctDNA detected at the initial time the indeterminate finding is identified and&#xD;
+The proportion of ctDNA not detected participants whose indeterminate findings is ultimately confirmed to be benign.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Sensitivity for local recurrence</measure>
+    <time_frame>6 years</time_frame>
+    <description>Sensitivity for local recurrence defined as the proportion of participants who have localized recurrence (e.g., in the absence of distant metastasis) who have ctDNA detected at or before the time of clinical detection of a localized recurrence; using landmark and serial timepoints.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Index Cancer-Specific Survival (ICSS)</measure>
+    <time_frame>6 years</time_frame>
+    <description>Index Cancer-Specific Survival (ICSS) defined as the time from the date of diagnosis until the date of death from the subject's Index Cancer. Subjects who are still alive at the end of the study observation period will be censored at the time of last known vital status.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>6 years</time_frame>
+    <description>Overall Survival (OS) defined as the time from the date of diagnosis until the date of death from any cause. Subjects who are still alive at the end of the study observation period will be censored at the time of last known vital status.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Rate of ctDNA clearance with adjuvant chemotherapy</measure>
+    <time_frame>6 years</time_frame>
+    <description>Rate of ctDNA clearance with adjuvant chemotherapy defined as the proportion of patients who have ctDNA detected at the pre-enrollment timepoint whose ctDNA becomes undetectable at the Landmark timepoint.</description>
+  </other_outcome>
+  <number_of_groups>11</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Bladder Carcinoma</condition>
+  <condition>Ureter Carcinoma</condition>
+  <condition>Renal Pelvis Carcinoma</condition>
+  <condition>Non-small Cell Lung Cancer</condition>
+  <condition>Invasive Breast Carcinoma</condition>
+  <condition>Cutaneous Melanoma</condition>
+  <condition>Esophageal Carcinoma</condition>
+  <condition>Gastroesophageal Junction Carcinoma</condition>
+  <condition>Gastric Adenocarcinoma</condition>
+  <condition>Pancreatic Adenocarcinoma</condition>
+  <condition>Squamous Cell Carcinoma of the Head and Neck</condition>
+  <condition>Epithelial Ovarian Carcinoma</condition>
+  <condition>Fallopian Tube Carcinoma</condition>
+  <condition>Endometrial Carcinoma</condition>
+  <condition>Renal Cell Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1: Muscle invasive carcinoma of the bladder, ureter, or renal pelvis (stage II-III)</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2: Non-small cell lung cancer (stage II-III)</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3: Invasive breast carcinoma with all of the following:</arm_group_label>
+    <description>Clinical stage T1-4/N0-3/M0 at presentation AND&#xD;
+Completed preoperative systemic chemotherapy-containing regimen AND&#xD;
+Underwent definitive surgical resection of the primary tumor AND&#xD;
+Has pathological evidence of residual invasive carcinoma in the breast and/or axillary lymph nodes AND&#xD;
+Hormone receptor and HER2 status are known</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 4: Stage IIb-III cutaneous melanoma or limited (resectable) stage IV melanoma</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 5: Esophageal or gastroesophageal junction carcinoma (stage II-III)</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 6: Gastric adenocarcinoma (stage II-III)</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 7: Surgically resected pancreatic adenocarcinoma</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 8: Invasive squamous cell carcinoma of the head and neck</arm_group_label>
+    <description>Includes stage I-III oral cavity, oropharynx, hypopharynx, larynx, nasopharynx, nasal cavity, paranasal sinus, and salivary gland cancers.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 9: High-risk epithelial ovarian or Fallopian tube carcinoma</arm_group_label>
+    <description>Defined as stage IC-III or stage I that has high grade (grade 3-4) or clear cell histology).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 10: High-risk endometrial carcinoma</arm_group_label>
+    <description>Defined as having any of the following: serous or clear cell adenocarcinoma histology (any stage), grade 3 or 4 deeply invasive (T1b or greater) endometrioid carcinoma, stage III disease (any histology).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 11: High-risk renal cell carcinoma</arm_group_label>
+    <description>Defined as high grade (grade 3-4) stage II, stage III or limited (resectable) stage IV treated with curative intent.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Guardant Reveal</intervention_name>
+    <description>Guardant Reveal is a minimal residual disease (MRD) panel for use in recurrence detection of early-stage solid tumors.</description>
+    <arm_group_label>Cohort 10: High-risk endometrial carcinoma</arm_group_label>
+    <arm_group_label>Cohort 11: High-risk renal cell carcinoma</arm_group_label>
+    <arm_group_label>Cohort 1: Muscle invasive carcinoma of the bladder, ureter, or renal pelvis (stage II-III)</arm_group_label>
+    <arm_group_label>Cohort 2: Non-small cell lung cancer (stage II-III)</arm_group_label>
+    <arm_group_label>Cohort 3: Invasive breast carcinoma with all of the following:</arm_group_label>
+    <arm_group_label>Cohort 4: Stage IIb-III cutaneous melanoma or limited (resectable) stage IV melanoma</arm_group_label>
+    <arm_group_label>Cohort 5: Esophageal or gastroesophageal junction carcinoma (stage II-III)</arm_group_label>
+    <arm_group_label>Cohort 6: Gastric adenocarcinoma (stage II-III)</arm_group_label>
+    <arm_group_label>Cohort 7: Surgically resected pancreatic adenocarcinoma</arm_group_label>
+    <arm_group_label>Cohort 8: Invasive squamous cell carcinoma of the head and neck</arm_group_label>
+    <arm_group_label>Cohort 9: High-risk epithelial ovarian or Fallopian tube carcinoma</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The primary study population will include participants with invasive bladder, ureteral, or&#xD;
+        renal pelvis carcinoma, NSCLC, or breast cancer with residual invasive disease following&#xD;
+        neoadjuvant chemotherapy as per inclusion/exclusion criteria defined. Exploratory cohorts&#xD;
+        include participants with cutaneous melanoma, esophageal carcinoma, gastroesophageal&#xD;
+        junction carcinoma, gastric adenocarcinoma, pancreatic adenocarcinoma, squamous cell&#xD;
+        carcinoma of the head and neck, epithelial ovarian/Fallopian tube carcinoma, endometrial&#xD;
+        cancer, and renal cell carcinoma (RCC), as per inclusion/exclusion criteria. Approximately&#xD;
+        1,000 total patients will be enrolled into the study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age &gt; 18 years old AND&#xD;
+&#xD;
+          -  Were treated with curative intent AND&#xD;
+&#xD;
+          -  Are planning to undergo regular follow-up and monitoring for cancer recurrence per&#xD;
+             standard of care at the enrolling site AND&#xD;
+&#xD;
+          -  Provided written informed consent to participate in the study AND&#xD;
+&#xD;
+          -  Are willing to have de-identified clinical data shared with investigators at regular&#xD;
+             intervals as outlined in the study protocol and informed consent AND&#xD;
+&#xD;
+          -  Are willing to provide blood samples at enrollment and at subsequent clinical visits&#xD;
+             coinciding with standard of care follow-up, for up to 5 years as outlined in the study&#xD;
+             protocol and informed consent AND&#xD;
+&#xD;
+          -  Have at least one blood sample collected 4-12 weeks after completion of primary&#xD;
+             treatment of the Index Cancer&#xD;
+&#xD;
+          -  Have a histologically confirmed Index Cancer that qualifies for inclusion, defined as:&#xD;
+&#xD;
+        Primary Study Cohorts&#xD;
+&#xD;
+          -  Cohort 1: Muscle invasive carcinoma of the bladder, ureter, or renal pelvis (stage&#xD;
+             II-III),&#xD;
+&#xD;
+          -  Cohort 2: Non-small cell lung cancer (stage II-III),&#xD;
+&#xD;
+          -  Cohort 3: Invasive breast carcinoma with all of the following:&#xD;
+&#xD;
+        Clinical stage T1-4/N0-3/M0 at presentation AND Completed preoperative systemic&#xD;
+        chemotherapy-containing regimen AND Underwent definitive surgical resection of the primary&#xD;
+        tumor AND Has pathological evidence of residual invasive carcinoma in the breast and/or&#xD;
+        axillary lymph nodes AND Hormone receptor and HER2 status are known&#xD;
+&#xD;
+        Exploratory Cohorts&#xD;
+&#xD;
+          -  Cohort 4: Stage IIb-III cutaneous melanoma or limited (resectable) stage IV melanoma&#xD;
+             treated with curative intent,&#xD;
+&#xD;
+          -  Cohort 5: Esophageal or gastroesophageal junction carcinoma (stage II-III),&#xD;
+&#xD;
+          -  Cohort 6: Gastric adenocarcinoma (stage II-III),&#xD;
+&#xD;
+          -  Cohort 7: Surgically resected pancreatic adenocarcinoma,&#xD;
+&#xD;
+          -  Cohort 8: Invasive squamous cell carcinoma of the head and neck (includes stage I-III&#xD;
+             oral cavity, oropharynx, hypopharynx, larynx, nasopharynx, nasal cavity, paranasal&#xD;
+             sinus, and salivary gland cancers),&#xD;
+&#xD;
+          -  Cohort 9: High-risk epithelial ovarian or Fallopian tube carcinoma (defined as stage&#xD;
+             IC-III or stage I that has high grade (grade 3-4) or clear cell histology),&#xD;
+&#xD;
+          -  Cohort 10: High-risk endometrial carcinoma (defined as having any of the following:&#xD;
+             serous or clear cell adenocarcinoma histology (any stage), grade 3 or 4 deeply&#xD;
+             invasive (T1b or greater) endometrioid carcinoma, stage III disease (any histology)),&#xD;
+&#xD;
+          -  Cohort 11: High-risk renal cell carcinoma (defined as high grade (grade 3-4) stage II,&#xD;
+             stage III or limited (resectable) stage IV treated with curative intent)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of allogeneic organ or tissue transplant&#xD;
+&#xD;
+          -  Index cancer has neuroendocrine histology&#xD;
+&#xD;
+          -  History of another primary cancer, with the exception of the following (if adequately&#xD;
+             treated and the patient is without evidence of disease at the time of enrollment): in&#xD;
+             situ cancers, non-melanoma skin carcinoma, localized low-risk prostate cancer (Gleason&#xD;
+             score &lt; 6) with PSA in the normal range, and stage I papillary thyroid carcinoma.&#xD;
+&#xD;
+          -  Known distant metastasis at time of enrollment (with the exception of participants&#xD;
+             with limited/resectable stage IV cutaneous melanoma or RCC)&#xD;
+&#xD;
+          -  Is participating in a clinical trial or another observational study that is evaluating&#xD;
+             the performance of another genomic test in the post-treatment surveillance setting at&#xD;
+             predicting/detecting recurrence&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Study Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Guardant Health, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Clinical Trial Operations</last_name>
+    <phone>8556988887</phone>
+    <email>mrdoraclestudy@guardanthealth.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Redwood City</name>
+      <address>
+        <city>Redwood City</city>
+        <state>California</state>
+        <zip>94063</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trial Operations</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 16, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 28, 2021</study_first_posted>
+  <last_update_submitted>September 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 28, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Adenocarcinoma</mesh_term>
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Squamous Cell Carcinoma of Head and Neck</mesh_term>
+    <mesh_term>Endometrial Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Ovarian Epithelial</mesh_term>
+    <mesh_term>Esophageal Neoplasms</mesh_term>
+    <mesh_term>Urinary Bladder Neoplasms</mesh_term>
+    <mesh_term>Neoplasm, Residual</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

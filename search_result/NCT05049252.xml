@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8603">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05049252</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CIN2-E4</org_study_id>
+    <nct_id>NCT05049252</nct_id>
+  </id_info>
+  <brief_title>Biomarkers Predictive for Cervical Intraepithelial Neoplasia Grade 2 (CIN2) Evolvement</brief_title>
+  <official_title>Performance of HPV E4 and p16INK4a Biomarkers in Predicting Risk of Regression Among Women Diagnosed With Cervical Intraepithelial Neoplasia Grade 2 (CIN2): a Historical Cohort Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Aarhus</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Southern Denmark</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>DDL Diagnostic Laboratory</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Cambridge</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Maryland, College Park</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Virginia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Aarhus</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Introduction Cervical intraepithelial neoplasia CIN1 (low grade), CIN2 (moderate grade), CIN3&#xD;
+      (severe grade) defines cervical precancer lesions derived from the squamous epithelial cell&#xD;
+      line. CIN2, represents a heterogenic phenotype expression of both CIN1-like and CIN3-like&#xD;
+      evolving lesions with different risk of progression. The CIN2 diagnosis has low&#xD;
+      reproducibility, and current diagnostic tools do not allow for risk-stratification of CIN2.&#xD;
+&#xD;
+      Risk-profiling is important, to enable targeted management of women with CIN2 at first&#xD;
+      incidence (surgery or active surveillance) and to avoid risk of over- or undertreatment.&#xD;
+&#xD;
+      Preliminary studies show, that the novel tissue biomarker HPV E4 has potential to&#xD;
+      discriminate CIN1-like (HPV E4 positive) from CIN3-like (HPV E4 negative) evolving CIN2&#xD;
+      lesions, suggesting that the biomarker could be vauable for risk-stratification of CIN2.&#xD;
+&#xD;
+      Aim To examine the potential of the HPV E4 biomarker in predicting risk of CIN2 evolvement.&#xD;
+&#xD;
+      Materials and Methods Design: Historical cohort study. Study population: N=500 women, 23-40&#xD;
+      years of age with a record of incidental CIN2 diagnosis between [2000-2010] in the Danish&#xD;
+      Pathology Data Bank at Aarhus University Hospital, Region of Central Denmark. All women are&#xD;
+      defined as managed by active surveillance (i.e. no surgical treatment within 4 months after&#xD;
+      first CIN2 diagnosis).&#xD;
+&#xD;
+      Exposure: HPV E4 positive vs HPV E4 negative intraepithelial reaction. Outcome: Regression&#xD;
+      (normal, CIN1) vs non-regression (CIN2, CIN3, cervical cancer).&#xD;
+&#xD;
+      Statistical model: Linear regression model (RR (95%CI)).&#xD;
+&#xD;
+      Perspectives: HPV E4 may act as significant predictor for CIN2 evolvement, and reliable&#xD;
+      marker for risk-assessment of CIN2. This will be valuable in the clinical management of women&#xD;
+      with CIN2, enabling to discriminate women, who would most likely regress and could be manged&#xD;
+      by active surveillance vs women in risk of progression or persistence, who could benefit of&#xD;
+      immediate surgical treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Introduction Persistent infection with high-risk human papillomavirus (hrHPV) is a causative&#xD;
+      source of cervical cancer [1]. Cervical intraepitehelial neoplasia CIN1 (low), CIN2&#xD;
+      (moderate), CIN3 (severe) defines cervical precancer lesions evolved from the squamous&#xD;
+      epithelium cell line [3]. CIN1 and CIN2 lesions are associated with lower progression rates&#xD;
+      for cervical cancer than CIN3 [4]. CIN2 poses a major challenge clinically, due to the&#xD;
+      heterogenic expression of both CIN1-like and CIN3-like evolving lesions, which current&#xD;
+      diagnostic tools do not enable to stratify in risk of progression [5]. Risk-stratification of&#xD;
+      CIN2 is highly important for clinical management of CIN2 and to avoid risk of over- or&#xD;
+      undertreatment. Historically, CIN2 has been the threshold for surgical mangement (cone&#xD;
+      excisional biopsy). However, since regressions rates of CIN2 lesions are high, and cone&#xD;
+      excisional biopy is associated with reproductive harm, such as preterm birth, many countries&#xD;
+      such as Denmark has adopted a more conservative approach in the management of young women&#xD;
+      with CIN2 (i.e. active surveillance: colposcopy, cervical punch biopsies for every 4-6 monhts&#xD;
+      up to two years follow-up without any surgical procedure) [6,7]. In the Central Region of&#xD;
+      Denmark, active surveillance has been recommended for young women since 1995.&#xD;
+&#xD;
+      The p16 protein plays an important role as inhibitor in cellular regulation and&#xD;
+      differentiation. p16 is a common surrogat marker for hrHPV E6/E7 oncogenic activity and&#xD;
+      cellular transformation associated with cancer evolvement. The intrapeithelial expression&#xD;
+      level of p16 is positively associated with grade of CIN lesion, and may be detected by the&#xD;
+      p16INK4a immuno-histo-chemical biomarker [7, 8]. Although, the p16INK4a biomarker has added&#xD;
+      value to diagnostics and grading of cervical precancer lesions, the biomarker is not robust&#xD;
+      for risk-stratification of CIN2 [9].&#xD;
+&#xD;
+      Recent studies show, that the novel biomarker HPV E4 may potentially distinguish CIN2 in&#xD;
+      CIN1-like vs CIN3-like resembling lesions. Suggesting that HPV E4 could be a potential&#xD;
+      biomarker for risk-stratification of CIN2 [10-12].&#xD;
+&#xD;
+      However, knowledge is lacking on HPV E4 as predictor for CIN2 evolvement.&#xD;
+&#xD;
+      Aim To explore whether the HPV E4 biomarker can predict risk of CIN2 evolvement.&#xD;
+&#xD;
+      Materials and methods Study design: Historical cohort study. Study population: N=500 women&#xD;
+      23-40 years of age, with a record of CIN2 in the Danish Patological Data Bank [2000-2010], at&#xD;
+      the Department of Pathology, Aarhus University Hospital. All women are defined as managed by&#xD;
+      active surveillance (i.e. colposcopy and cervical punch biopsies for every 4-6 months up to&#xD;
+      two years follow-up).&#xD;
+&#xD;
+      Selection: Eligible women with a record of incidental CIN2 diagnosis will be identified in&#xD;
+      the Danish Pathology Databank among all women with a record of CIN2 diagnosis during&#xD;
+      2000-2010.&#xD;
+&#xD;
+      Laboratory analysis: Formalin-fixed paraffin-embedded (FFPE) tissue samples will be compiled&#xD;
+      from the archives, at the Department of Pathology, Aarhus University Hospital.&#xD;
+&#xD;
+      FFPE blocks will be sectioned for morphology analysis (hematoxylin &amp; eosin (H&amp;E) and for&#xD;
+      immuno-histo-chemistry analysis (IHC). We will apply the sandwich technique for the p16INK4a&#xD;
+      and HPV E4 IHC analysis, using the CINtec® Histology Kit (Roche) and the SILgrade E4 assay&#xD;
+      (LBP). Subsequently, the stained slides will be evaluated by an expert panel within&#xD;
+      gynecological pathology (2 from Denmark, 1 from UK and 1 from the US respectively).&#xD;
+&#xD;
+      Exposure will be defined as expressing a HPV E4 positive (CIN1-like) vs HPV E4 negative&#xD;
+      (CIN3-like) intraepithelial reaction.&#xD;
+&#xD;
+      Statistical analysis: Linear regression model, effect measure; relative risk (RR) (95% CI).&#xD;
+&#xD;
+      Power calculations: At a sample size of N=500 women, a statistical power of 89% is expected,&#xD;
+      at the significance level 0.05 (alpha). Among women who progress or persist during&#xD;
+      surveillance, a prevalence of 50% CIN2 HPV E4 positive lesions and 70% p16INK4a positive CIN2&#xD;
+      lesions is expected.&#xD;
+&#xD;
+      Settings and collaborators The project will be carried out at the Department of Gynecology&#xD;
+      and Obstetrics at Gødstrup Hospital in close collaboration with the Department of Pathology,&#xD;
+      Aarhus University Hospital including DDL Diagnostic Laboratory; University of Virginia;&#xD;
+      University of Cambridge and University of Maryland School of Medicine.&#xD;
+&#xD;
+      Main research group in Denmark&#xD;
+&#xD;
+        1. Associate professor, MD, Anne Hammer Lauridsen, Department of Gynecology and Obstetrics,&#xD;
+           Gødstrup Hospital, Central Region of Denmark &amp; Department of Clinical medicine, Aarhus&#xD;
+           University&#xD;
+&#xD;
+        2. Professor, MD, Lone Kjeld Pedersen, Department of Gynecology and Obstetrics, Odense&#xD;
+           University Hospital &amp; OPEN, University of Southern Denmark.&#xD;
+&#xD;
+        3. Professor, MD, Torben Steiniche, Professor, Department of Pathology, Aarhus University&#xD;
+           Hospital &amp; Department of Clinical medicine, Aarhus University.&#xD;
+&#xD;
+        4. Ph.d-student, Msch Health Science, Rikke Damgaard, Department of Gynecology and&#xD;
+           Obstetrics, Gødstrup Hospital, Central Region of Denmark &amp; Department of Clinical&#xD;
+           medicine, Aarhus University.&#xD;
+&#xD;
+      Ethical statement The study is appoved by the Regional Committee on Health Research Ethics,&#xD;
+      Central Region of Denmark and registered at the Legal Department, Faculty of Health, Aarhus&#xD;
+      University as required by Danish law.&#xD;
+&#xD;
+      Perspectives Biomarkers reliable for risk-stratification of CIN2 lesions is important for&#xD;
+      clinical counseling of women, this will enable a more specific and personalized follow-up&#xD;
+      strategy to avoid risk of over- or undertreatment. As other countries are moving toward a&#xD;
+      more conservative approach (active surveillance) with respect to management of young women&#xD;
+      with CIN2 our results may be valauble in an international perspective as well.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">June 1, 2020</start_date>
+  <completion_date type="Anticipated">July 11, 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 11, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Regression: Community diagnosis for normal cells or CIN1 (atypical or dysplasia grade 1) based on pathologists microscopy of tissue of cells (visual examination of cell formation, growth and differentation entailing the epithelial layer).</measure>
+    <time_frame>Time frame is defined from date of index community CIN2 diagnosis to record of last and worst cervical histological diagnosis registred in the Danish Pathology Databank (i.e. 4 months - two years after index CIN2).</time_frame>
+    <description>Regression is identified through the records of community diagnosis of cervical lesion in the Danish Pathology Databank defined by SNOMED codes for normal cervical epithelial cells or CIN1 (atypical or dysplastic cells entailing up to 1/3 of the epithelial layer).</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Cervical Intraepithelial Neoplasia Grade 2 (CIN2)</condition>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Slides from formalin fixed paraffine embedded cervical biopsies.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        N=500 women 23-40 years of age with a record of CIN2 in the Danish Pathology Data Bank, at&#xD;
+        the Department of Pathology, Aarhus University Hospital, managed by active surveillance.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Women&#xD;
+&#xD;
+          -  23-40 years of age&#xD;
+&#xD;
+          -  First record of CIN2 verified diagnosis (M74B09, T83110)&#xD;
+&#xD;
+          -  Managed by active surveillance (i.e. no surgical treatment within 4 months after index&#xD;
+             CIN2 diagnosis)&#xD;
+&#xD;
+          -  Record of CIN2 diagnosis during 2000-2010 and at least one record of cervix&#xD;
+             histological sample during follow-up.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior record of CIN2+ (i.e. CIN2, CIN3, cervical cancer), hysterectomy or cervical&#xD;
+             excisional cone biopsy.&#xD;
+&#xD;
+          -  No record of cervical histological sample (cervical punch biopsy of cervical&#xD;
+             excisional biopsy) within two years after index CIN2 diagnosis.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Gynecological disease.</gender_description>
+    <minimum_age>23 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Department of Gynecology and Obstetrics, Herning Regional Hospital</name>
+      <address>
+        <city>Herning</city>
+        <state>Region Of Central Jutland</state>
+        <zip>7400</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <reference>
+    <citation>Pańczyszyn A, Boniewska-Bernacka E, Głąb G. Telomeres and Telomerase During Human Papillomavirus-Induced Carcinogenesis. Mol Diagn Ther. 2018 Aug;22(4):421-430. doi: 10.1007/s40291-018-0336-x. Review.</citation>
+    <PMID>29777397</PMID>
+  </reference>
+  <reference>
+    <citation>Gravitt PE, Winer RL. Natural History of HPV Infection across the Lifespan: Role of Viral Latency. Viruses. 2017 Sep 21;9(10). pii: E267. doi: 10.3390/v9100267. Review.</citation>
+    <PMID>28934151</PMID>
+  </reference>
+  <reference>
+    <citation>Chaturvedi AK, Kleinerman RA, Hildesheim A, Gilbert ES, Storm H, Lynch CF, Hall P, Langmark F, Pukkala E, Kaijser M, Andersson M, Fossa SD, Joensuu H, Travis LB, Engels EA. Second cancers after squamous cell carcinoma and adenocarcinoma of the cervix. J Clin Oncol. 2009 Feb 20;27(6):967-73. doi: 10.1200/JCO.2008.18.4549. Epub 2008 Dec 29.</citation>
+    <PMID>19114696</PMID>
+  </reference>
+  <reference>
+    <citation>Lee MH, Finlayson SJ, Gukova K, Hanley G, Miller D, Sadownik LA. Outcomes of Conservative Management of High Grade Squamous Intraepithelial Lesions in Young Women. J Low Genit Tract Dis. 2018 Jul;22(3):212-218. doi: 10.1097/LGT.0000000000000399.</citation>
+    <PMID>29762428</PMID>
+  </reference>
+  <reference>
+    <citation>van Baars R, Griffin H, Wu Z, Soneji YJ, van de Sandt M, Arora R, van der Marel J, Ter Harmsel B, Jach R, Okon K, Huras H, Jenkins D, Quint W, Doorbar J. Investigating Diagnostic Problems of CIN1 and CIN2 Associated With High-risk HPV by Combining the Novel Molecular Biomarker PanHPVE4 With P16INK4a. Am J Surg Pathol. 2015 Nov;39(11):1518-1528. doi: 10.1097/PAS.0000000000000498.</citation>
+    <PMID>26379150</PMID>
+  </reference>
+  <reference>
+    <citation>Bruinsma FJ, Quinn MA. The risk of preterm birth following treatment for precancerous changes in the cervix: a systematic review and meta-analysis. BJOG. 2011 Aug;118(9):1031-41. doi: 10.1111/j.1471-0528.2011.02944.x. Epub 2011 Mar 30. Review.</citation>
+    <PMID>21449928</PMID>
+  </reference>
+  <reference>
+    <citation>Darragh TM, Colgan TJ, Thomas Cox J, Heller DS, Henry MR, Luff RD, McCalmont T, Nayar R, Palefsky JM, Stoler MH, Wilkinson EJ, Zaino RJ, Wilbur DC; Members of the LAST Project Work Groups. The Lower Anogenital Squamous Terminology Standardization project for HPV-associated lesions: background and consensus recommendations from the College of American Pathologists and the American Society for Colposcopy and Cervical Pathology. Int J Gynecol Pathol. 2013 Jan;32(1):76-115. doi: 10.1097/PGP.0b013e31826916c7. Erratum in: Int J Gynecol Pathol. 2013 Jul;32(4):432. Int J Gynecol Pathol. 2013 Mar;32(2):241.</citation>
+    <PMID>23202792</PMID>
+  </reference>
+  <reference>
+    <citation>Xing Y, Wang C, Wu J. Expression of geminin, p16, and Ki67 in cervical intraepithelial neoplasm and normal tissues. Medicine (Baltimore). 2017 Jun;96(26):e7302. doi: 10.1097/MD.0000000000007302.</citation>
+    <PMID>28658133</PMID>
+  </reference>
+  <reference>
+    <citation>Cuschieri KS, Cubie HA, Whitley MW, Gilkison G, Arends MJ, Graham C, McGoogan E. Persistent high risk HPV infection associated with development of cervical neoplasia in a prospective population study. J Clin Pathol. 2005 Sep;58(9):946-50.</citation>
+    <PMID>16126875</PMID>
+  </reference>
+  <reference>
+    <citation>Griffin H, Soneji Y, Van Baars R, Arora R, Jenkins D, van de Sandt M, Wu Z, Quint W, Jach R, Okon K, Huras H, Singer A, Doorbar J. Stratification of HPV-induced cervical pathology using the virally encoded molecular marker E4 in combination with p16 or MCM. Mod Pathol. 2015 Jul;28(7):977-93. doi: 10.1038/modpathol.2015.52. Epub 2015 May 8.</citation>
+    <PMID>25953390</PMID>
+  </reference>
+  <reference>
+    <citation>Griffin H, Wu Z, Marnane R, Dewar V, Molijn A, Quint W, Van Hoof C, Struyf F, Colau B, Jenkins D, Doorbar J. E4 antibodies facilitate detection and type-assignment of active HPV infection in cervical disease. PLoS One. 2012;7(12):e49974. doi: 10.1371/journal.pone.0049974. Epub 2012 Dec 3.</citation>
+    <PMID>23226504</PMID>
+  </reference>
+  <verification_date>May 2021</verification_date>
+  <study_first_submitted>August 31, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 20, 2021</study_first_posted>
+  <last_update_submitted>September 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>CIN2, p16INK4a, HPV E4, molecular biomarker, risk stratification</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Carcinoma in Situ</mesh_term>
+    <mesh_term>Cervical Intraepithelial Neoplasia</mesh_term>
+    <mesh_term>Uterine Cervical Dysplasia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

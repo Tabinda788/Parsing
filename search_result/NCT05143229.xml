@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1377">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05143229</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IIT-2021-ASSET</org_study_id>
+    <nct_id>NCT05143229</nct_id>
+  </id_info>
+  <brief_title>Alpelisib And Sacituzumab Govitecan For Treatment Of Breast Cancer</brief_title>
+  <acronym>ASSET</acronym>
+  <official_title>Phase I Trial Of Alpelisib Plus Sacituzumab Govitecan In Patients With Metastatic Or Locally Recurrent HER2-Negative Breast Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Kansas Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Gilead Sciences</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Kansas Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study evaluates the safety and efficacy of sacituzumab govitecan plus alpelisib for&#xD;
+      treatment of metastatic or locally recurrent HER2-negative breast cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2022</start_date>
+  <completion_date type="Anticipated">June 2024</completion_date>
+  <primary_completion_date type="Anticipated">July 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Standard 3+3 dose escalation</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Recommended phase II dose (RP2D) of alpelisib + sacituzumab govitecan</measure>
+    <time_frame>21 days</time_frame>
+    <description>Standard 3+3 dose escalation design (three dose levels of alpelisib plus sacituzumab govitecan) with dose-limiting toxicities (DLT) assessed during the first treatment cycle. If two or more of the six patients experienced a dose-limiting toxicity, dosing escalation would cease and maximum tolerated dose (MTD) would be reached. RP2D was the next lower dose at which &lt;1/6 subjects experienced a DLT.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of alpelisib when administered with sacituzumab govitecan</measure>
+    <time_frame>In cycle 1, from prior to sacituzumab govitecan dosing through 48 hours after sacituzumab govitecan dosing</time_frame>
+    <description>Alpelisib area under the curve (AUC): blood sampling pre-dose and 0.5, 1, 2, 3, 4, 6, 24, and 48 hours post-sacituzumab govitecan dose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of sacituzumab govitecan when administered with alpelisib</measure>
+    <time_frame>In cycle 1, from prior to sacituzumab govitecan dosing through 48 hours after sacituzumab govitecan dosing</time_frame>
+    <description>Sacituzumab govitecan, free SN-38, and total SN-38 area under the curve (AUC): blood sampling pre-dose and 0.5, 1, 2, 3, 4, 6, 24, and 48 hours post-sacituzumab govitecan dose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall response rate (ORR) in patients with measurable disease</measure>
+    <time_frame>From start of study treatment until removal from study treatment; estimated 24 months maximum.</time_frame>
+    <description>ORR includes complete response (CR) plus partial response (PR). As evaluated per RECIST version 1.1.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">18</enrollment>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Dose level 1: alpelisib 250 mg plus sacituzumab govitecan 8 mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Alpelisib: 250 mg by mouth daily Sacituzumab govitecan: 8 mg/kg intravenous on days 1 and 8 of each 21 (+/-2) day cycle</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dose level 2: alpelisib 250 mg plus sacituzumab govitecan 10 mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Alpelisib: 250 mg by mouth daily Sacituzumab govitecan: 10 mg/kg intravenous on days 1 and 8 of each 21 (+/-2) day cycle</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dose level 3: alpelisib 300 mg plus sacituzumab govitecan 10 mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Alpelisib: 300 mg by mouth daily Sacituzumab govitecan: 10 mg/kg intravenous on days 1 and 8 of each 21 (+/-2) day cycle</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Alpelisib</intervention_name>
+    <description>PI3K inhibitor</description>
+    <arm_group_label>Dose level 1: alpelisib 250 mg plus sacituzumab govitecan 8 mg/kg</arm_group_label>
+    <arm_group_label>Dose level 2: alpelisib 250 mg plus sacituzumab govitecan 10 mg/kg</arm_group_label>
+    <arm_group_label>Dose level 3: alpelisib 300 mg plus sacituzumab govitecan 10 mg/kg</arm_group_label>
+    <other_name>Piqray</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sacituzumab govitecan</intervention_name>
+    <description>Trop-2-directed antibody and topoisomerase inhibitor drug conjugate</description>
+    <arm_group_label>Dose level 1: alpelisib 250 mg plus sacituzumab govitecan 8 mg/kg</arm_group_label>
+    <arm_group_label>Dose level 2: alpelisib 250 mg plus sacituzumab govitecan 10 mg/kg</arm_group_label>
+    <arm_group_label>Dose level 3: alpelisib 300 mg plus sacituzumab govitecan 10 mg/kg</arm_group_label>
+    <other_name>Trodelvy</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          1. Ability of participant OR Legally Authorized Representative (LAR) to understand this&#xD;
+             study, and participant or LAR willingness to sign a written informed consent&#xD;
+&#xD;
+          2. Males and females age ≥ 18 years&#xD;
+&#xD;
+          3. ECOG Performance Status 0 - 2 (See Appendix A)&#xD;
+&#xD;
+          4. Histologically proven HER2-negative breast cancer (per current ASCO-CAP guidelines);&#xD;
+             HER2-negative breast cancer includes hormone receptor-positive (estrogen receptor&#xD;
+             and/or progesterone receptor-positive) breast cancer and TNBC.&#xD;
+&#xD;
+          5. HER2-negative breast cancer that at the time of study entry is either stage III&#xD;
+             (locally advanced) disease not amenable to curative therapy, or stage IV disease.&#xD;
+             Histological confirmation of recurrent/metastatic disease is encouraged but not&#xD;
+             required if clinical evidence of stage IV disease is available.&#xD;
+&#xD;
+          6. Have measurable or evaluable disease.&#xD;
+&#xD;
+          7. Ability to swallow and retain oral medicines.&#xD;
+&#xD;
+          8. No limitations to number of prior chemotherapies or endocrine therapies for metastatic&#xD;
+             disease.&#xD;
+&#xD;
+          9. All patients should have received at least one line of chemotherapy and at least one&#xD;
+             line of hormonal therapy (where appropriate) in either the advanced or neo/adjuvant&#xD;
+             setting. Patients who are candidates for anti-PD-1 and/or anti-PD-L1 therapy should&#xD;
+             have received at least one line of anti-PD-1 and/or anti-PD-L1 therapy in either the&#xD;
+             advanced or neo/adjuvant setting.&#xD;
+&#xD;
+         10. Prior palliative radiation therapy to bony metastases is allowed. A minimum of 14 days&#xD;
+             between the end of radiation treatment and start of study treatment is required.&#xD;
+&#xD;
+         11. Participants with previously treated brain metastases must be free of central nervous&#xD;
+             system symptoms and be &gt;21 days from treatment of brain metastases. CNS brain&#xD;
+             metastasis should be clinically stable at the time of screening, and participant is&#xD;
+             not receiving steroids and/or enzyme inducing anti-epileptic medications for brain&#xD;
+             metastases.&#xD;
+&#xD;
+         12. Participants must be &gt;2 weeks or 5 half-lives (whichever is longer) from prior&#xD;
+             systemic chemotherapy for breast cancer AND should have recovered to Grade 1 or better&#xD;
+             (except alopecia and neuropathy) from related side effects of any prior antineoplastic&#xD;
+             therapy prior to study entry.&#xD;
+&#xD;
+         13. Women of childbearing potential must have a negative serum pregnancy test 24 hours&#xD;
+             prior to initiating treatment.&#xD;
+&#xD;
+         14. Women of child-bearing potential and men with partners of child-bearing potential must&#xD;
+             agree to practice sexual abstinence or to use approved forms of contraception for the&#xD;
+             duration of study participation and for 6 months following completion of therapy.&#xD;
+&#xD;
+         15. Fasting plasma glucose ≤140 mg/dL or ≤7.8 mmol/L&#xD;
+&#xD;
+         16. HbA1c ≤6.4%&#xD;
+&#xD;
+         17. Absolute neutrophil count ≥ 1500/uL NOTE: Patients with established diagnosis of&#xD;
+             benign neutropenia are eligible to participate with ANC between 1000-1500 if in the&#xD;
+             opinion of treating physician the trial treatment does not pose excessive risk of&#xD;
+             infection to the patient.&#xD;
+&#xD;
+         18. Platelets ≥ 100,000/uL (no transfusion allowed within 2 weeks)&#xD;
+&#xD;
+         19. Hemoglobin &gt; 9 g/dL (which may be reached by transfusion)&#xD;
+&#xD;
+         20. Total bilirubin within normal range or ≤ 1.5x institutional upper limit of normal&#xD;
+             (IULN) if liver metastases are present, or total bilirubin ≤ 3.0x IULN with direct&#xD;
+             bilirubin within normal range in patients with well-documented Gilbert's Syndrome,&#xD;
+             which is defined as presence of unconjugated hyperbilirubinemia with normal results&#xD;
+             from CBC (including normal reticulocyte count and blood smear), normal liver function&#xD;
+             test results and absence of other contributing disease processes at the time of&#xD;
+             diagnosis.&#xD;
+&#xD;
+         21. AST(SGOT)/ALT(SPGT) ≤ 2.5x IULN or ≤ 5x IULN if liver metastases are present&#xD;
+&#xD;
+         22. Serum creatinine ≤ 1.5x IULN&#xD;
+&#xD;
+         23. Creatinine clearance ≥ 35 mL/min using Cockcroft-Gault formula&#xD;
+&#xD;
+         24. Potassium within institutional normal limits&#xD;
+&#xD;
+         25. Magnesium within institutional normal limits&#xD;
+&#xD;
+         26. Calcium (corrected for serum albumin) within institutional normal limits or ≤grade 1&#xD;
+             according to NCI-CTCAE version 4.03 if judged clinically not significant by the&#xD;
+             investigator&#xD;
+&#xD;
+         27. Serum amylase ≤ 2x IULN&#xD;
+&#xD;
+         28. Serum lipase within institutional normal limits&#xD;
+&#xD;
+         29. Albumin ≥ 2.5 g/dL&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          1. Simultaneously enrolled in any therapeutic clinical trial&#xD;
+&#xD;
+          2. Current or anticipating use of other anti-neoplastic or investigational agents while&#xD;
+             participating in this study&#xD;
+&#xD;
+          3. Diagnosed with a psychiatric illness or is in a social situation that would limit&#xD;
+             compliance with study requirements&#xD;
+&#xD;
+          4. Is pregnant or breastfeeding&#xD;
+&#xD;
+          5. Has a known allergic reaction to any excipient contained in the study drug formulation&#xD;
+             Active Grade 3 (per the NCI CTCAE, Version 5.0) or higher viral, bacterial, or fungal&#xD;
+             infection within 2 weeks prior to the first dose of study treatment.&#xD;
+&#xD;
+          6. Patient has previously been treated with sacituzumab govitecan or alpelisib.&#xD;
+&#xD;
+          7. Patient has a concurrent malignancy or malignancy within 3 years of study enrollment&#xD;
+             (with the exception of adequately treated basal or squamous cell carcinoma,&#xD;
+             non-melanomatous skin cancer, or curatively resected cervical cancer).&#xD;
+&#xD;
+          8. Diabetes mellitus type I, or uncontrolled type II based on fasting plasma glucose and&#xD;
+             HbA1c meeting either of the following:&#xD;
+&#xD;
+               -  Fasting plasma glucose &gt;140 mg/dL or &gt;7.8 mmol/L&#xD;
+&#xD;
+               -  HbA1c ≥6.5% Note: For patients with fasting plasma glucose ≥ 100 mg/dL and/or&#xD;
+                  HbA1c ≥5.7% (i.e. threshold for pre-diabetes) at baseline, lifestyle changes&#xD;
+                  according to American Diabetes Association guidelines were recommended&#xD;
+&#xD;
+          9. Patient has impairment of gastrointestinal (GI) function or GI disease that may&#xD;
+             significantly alter the absorption of the study drugs (e.g. ulcerative diseases,&#xD;
+             uncontrolled nausea, vomiting, diarrhea, malabsorption syndrome or small bowel&#xD;
+             resection).&#xD;
+&#xD;
+         10. Patient is classified into Child-Pugh class B or C.&#xD;
+&#xD;
+         11. Patient has a known history of HIV infection (testing not mandatory).&#xD;
+&#xD;
+         12. Patient has active Hepatitis B Virus (HBV) or Hepatitis C Virus (HCV). In patients&#xD;
+             with a history of HBV or HCV, patients with a detectable viral load will be excluded.&#xD;
+&#xD;
+         13. Patient has symptomatic/untreated CNS disease.&#xD;
+&#xD;
+         14. Patient has active cardiac disease or a history of cardiac dysfunction including any&#xD;
+             of the following:&#xD;
+&#xD;
+               -  Uncontrolled hypertension defined by a systolic blood pressure (SBP) ≥ 160 mmHg&#xD;
+                  and/or diastolic blood pressure (DBP) ≥ 100 mm Hg, with or without&#xD;
+                  anti-hypertensive medication. Initiation or adjustment of antihypertensive&#xD;
+                  medication(s) is allowed prior to screening.&#xD;
+&#xD;
+               -  Unstable angina pectoris within 6 months prior to study entry&#xD;
+&#xD;
+               -  Symptomatic pericarditis&#xD;
+&#xD;
+               -  Documented myocardial infarction within 6 months prior to study entry&#xD;
+&#xD;
+               -  Coronary artery bypass graft within 6 months prior to study entry&#xD;
+&#xD;
+               -  History of documented congestive heart failure (New York Heart Association&#xD;
+                  functional classification III-IV)&#xD;
+&#xD;
+               -  Documented cardiomyopathy&#xD;
+&#xD;
+               -  Patient has a left ventricular ejection fraction (LVEF) &lt; 50% as determined by&#xD;
+                  multiple gated acquisition (MUGA) scan or echocardiogram (ECHO)&#xD;
+&#xD;
+               -  Patient has any of the following cardiac conduction abnormalities:&#xD;
+&#xD;
+                    -  Ventricular arrhythmias, except for benign premature ventricular&#xD;
+                       contractions&#xD;
+&#xD;
+                    -  Supraventricular and nodal arrhythmias requiring a pacemaker or not&#xD;
+                       controlled with medicine&#xD;
+&#xD;
+                    -  Conduction abnormality requiring a pacemaker&#xD;
+&#xD;
+                    -  Other cardiac arrhythmia not controlled with medication&#xD;
+&#xD;
+         15. Patient has a QTcF &gt; 470 msec if female and &gt;450 msec if male on the screening ECG&#xD;
+             (using the QTcF formula).&#xD;
+&#xD;
+         16. Patient is currently receiving treatment with a medication that has a known risk to&#xD;
+             prolong the QT interval or induce Torsades de Pointes and the treatment cannot be&#xD;
+             discontinued or switched to a different medication prior to start of study drug.&#xD;
+&#xD;
+         17. Patient has had major surgery within 14 days prior to starting study drug or has not&#xD;
+             recovered from major side effects.&#xD;
+&#xD;
+         18. Participant has received palliative radiation therapy ≤ 2 weeks prior to starting&#xD;
+             study drug, or has not recovered to grade 1 or better from related side effects of&#xD;
+             such therapy (with the exception of alopecia).&#xD;
+&#xD;
+         19. Patient is currently receiving or has received high-dose systemic corticosteroids&#xD;
+             (≥20mg of prednisone or its equivalent) ≤ 2 weeks prior to starting study drug or has&#xD;
+             not fully recovered from side effects of such treatment.&#xD;
+&#xD;
+             Note: The following uses of corticosteroids are permitted: single doses, topical&#xD;
+             applications (e.g., for rash), inhaled sprays (e.g., for obstructive airways&#xD;
+             diseases), eye drops or local injections (e.g., intra-articular).&#xD;
+&#xD;
+         20. Patient is currently receiving treatment with drugs known to be moderate or strong&#xD;
+             inhibitors or inducers of isoenzyme CYP3A. The patient must have discontinued strong&#xD;
+             inducers for at least one week before the start of treatment.&#xD;
+&#xD;
+         21. Patient is currently receiving treatment with inhibitor(s) of BCRP (see Appendix B,&#xD;
+             table with heading Prohibited BRCP inhibitors). The patient must have discontinued&#xD;
+             BCRP inhibitors for at least one week before the start of treatment.&#xD;
+&#xD;
+         22. Patient is currently receiving warfarin or other coumarin-derived anti-coagulant for&#xD;
+             treatment, prophylaxis or otherwise.&#xD;
+&#xD;
+         23. Patient has received previous treatment with a PI3K inhibitor or AKT inhibitor&#xD;
+&#xD;
+         24. Patient has a history of acute (within one year of study entry) pancreatitis or past&#xD;
+             medical history of chronic pancreatitis.&#xD;
+&#xD;
+         25. Patient has pneumonitis or interstitial lung disease.&#xD;
+&#xD;
+         26. Patient has unresolved osteonecrosis of the jaw.&#xD;
+&#xD;
+         27. Patient has inflammatory breast cancer.&#xD;
+&#xD;
+         28. Patient has a history of severe cutaneous reactions, such as Steven-Johnson Syndrome&#xD;
+             (SJS), erythema multiforme (EM), toxic epidermal necrolysis (TEM), or drug reaction&#xD;
+             with eosinophilia and systemic syndrome (DRESS).&#xD;
+&#xD;
+         29. Patient has any other concurrent severe and/or uncontrolled medical condition that&#xD;
+             would, in the investigator's judgment, contraindicate patient participation in the&#xD;
+             clinical study (including, but not limited to: severe immune disease, certain&#xD;
+             degenerative diseases, certain other acute or chronic concurrent illnesses).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Priyanka Sharma, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Kansas Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>KUCC Navigation</last_name>
+    <phone>913-588-3671</phone>
+    <email>kucc_navigation@kumc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Priyanka Sharma, MD</last_name>
+    <phone>913-588-6079</phone>
+    <email>psharma2@kumc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>The University of Kansas Clinical Research Center</name>
+      <address>
+        <city>Fairway</city>
+        <state>Kansas</state>
+        <zip>66205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Kansas Cancer Center - Overland Park</name>
+      <address>
+        <city>Overland Park</city>
+        <state>Kansas</state>
+        <zip>66210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Kansas Cancer Center - Indian Creek</name>
+      <address>
+        <city>Overland Park</city>
+        <state>Kansas</state>
+        <zip>66211</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Kansas Cancer Center</name>
+      <address>
+        <city>Westwood</city>
+        <state>Kansas</state>
+        <zip>66205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Kansas Cancer Center - North Kansas City Hospital</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64116</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Kansas Cancer Center - North</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64154</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Kansas Cancer Center - Lee's Summit</name>
+      <address>
+        <city>Lee's Summit</city>
+        <state>Missouri</state>
+        <zip>64064</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>November 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 3, 2021</study_first_posted>
+  <last_update_submitted>December 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Kansas Medical Center</investigator_affiliation>
+    <investigator_full_name>Priyanka Sharma</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>HER2-negative</keyword>
+  <keyword>Metastatic/locally advanced</keyword>
+  <keyword>Sacituzumab govitecan</keyword>
+  <keyword>Alpelisib</keyword>
+  <keyword>RP2D</keyword>
+  <keyword>Trop-2 antibody-drug conjugate</keyword>
+  <keyword>PI3K inhibitor</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="6133">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05081388</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R14256-COV-2149</org_study_id>
+    <secondary_id>2021-004760-10</secondary_id>
+    <nct_id>NCT05081388</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Study to Evaluate Safety, Tolerability, and Efficacy of REGN14256+Imdevimab for the Treatment of COVID-19 Adult and Adolescent Patients Without Risk Factors for Progression to Severe Disease</brief_title>
+  <official_title>A Phase 1/2/3 Adaptive Study to Evaluate the Safety, Tolerability, and Efficacy of REGN14256+Imdevimab for the Treatment of COVID-19 Patients Without Risk Factors for Progression to Severe Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Regeneron Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Regeneron Pharmaceuticals</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Primary Objectives Phase 1 (Safety and Tolerability)&#xD;
+&#xD;
+      • Evaluate the safety and tolerability of REGN14256+imdevimab and REGN14256 monotherapy, as&#xD;
+      measured by treatment-emergent adverse events (TEAEs), injection-site reactions (ISRs), and&#xD;
+      hypersensitivity reactions&#xD;
+&#xD;
+      Phase 1/2 (Virologic Efficacy) • Evaluate the virologic efficacy of REGN14256+imdevimab and&#xD;
+      REGN14256 monotherapy compared to placebo, as measured by time-weighted average (TWA) change&#xD;
+      from baseline in viral load through day 7&#xD;
+&#xD;
+      Phase 1/2/3 (Clinical Efficacy)&#xD;
+&#xD;
+      • Evaluate the clinical efficacy of REGN14256+imdevimab compared to placebo, as measured by&#xD;
+      COVID-19 symptoms resolution&#xD;
+&#xD;
+      Secondary Objectives Phase 1 (Safety and Tolerability) • Evaluate the safety and tolerability&#xD;
+      of REGN14256+imdevimab and REGN14256 monotherapy, as measured by treatment-emergent serious&#xD;
+      adverse events (SAEs)&#xD;
+&#xD;
+      Phase 2 and Phase 3 (Safety and Tolerability)&#xD;
+&#xD;
+      • Evaluate the safety and tolerability of REGN14256+imdevimab and REGN14256 monotherapy, as&#xD;
+      measured by TEAEs, ISRs, hypersensitivity reactions, and SAEs&#xD;
+&#xD;
+      Phase 1, Phase 2, and Phase 3 (Virologic Efficacy, Drug Concentration, and Immunogenicity)&#xD;
+&#xD;
+        -  Evaluate additional indicators of virologic efficacy of REGN14256+imdevimab and&#xD;
+           REGN14256 monotherapy&#xD;
+&#xD;
+        -  Characterize the concentration-time profile of REGN14256 administered in combination&#xD;
+           with imdevimab or alone as a monotherapy&#xD;
+&#xD;
+        -  Assess the immunogenicity of REGN14256 administered in combination with imdevimab or&#xD;
+           alone as a monotherapy&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 8, 2021</start_date>
+  <completion_date type="Anticipated">November 10, 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 10, 2022</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>Yes</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Phase1/Phase2/Phase3</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Treatment emergent adverse events (TEAEs)</measure>
+    <time_frame>Through Day 29</time_frame>
+    <description>Phase 1</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Severity of TEAEs</measure>
+    <time_frame>Through Day 29</time_frame>
+    <description>Phase 1</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of patients with injection-site reactions (ISRs)</measure>
+    <time_frame>Through Day 169</time_frame>
+    <description>Phase 1</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Severity of ISRs</measure>
+    <time_frame>Through Day 169</time_frame>
+    <description>Phase 1</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of patients with hypersensitivity reactions</measure>
+    <time_frame>Through Day 169</time_frame>
+    <description>Phase 1</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Severity of hypersensitivity reactions over time</measure>
+    <time_frame>Through Day 169</time_frame>
+    <description>Phase 1</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time-weighted average (TWA) daily change from baseline in viral load (log10 copies/mL)</measure>
+    <time_frame>Day 1 to day 7</time_frame>
+    <description>Phase 1/2 Measured by SARS-CoV-2 quantitative reverse transcription polymerase chain reaction (RT-qPCR) in nasopharyngeal (NP) swab samples</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to COVID-19 symptoms resolution</measure>
+    <time_frame>Through Day 169</time_frame>
+    <description>Phase 1/2/3</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with treatment-emergent serious adverse events (SAEs)</measure>
+    <time_frame>Through Day 169</time_frame>
+    <description>Phase 1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TEAEs</measure>
+    <time_frame>Through Day 29</time_frame>
+    <description>Phase 2 and Phase 3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Severity of TEAEs</measure>
+    <time_frame>Through Day 29</time_frame>
+    <description>Phase 2 and Phase 3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with ISRs</measure>
+    <time_frame>Through Day 169</time_frame>
+    <description>Phase 2 and Phase 3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Severity of ISRs</measure>
+    <time_frame>Through Day 169</time_frame>
+    <description>Phase 2 and Phase 3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with hypersensitivity reactions</measure>
+    <time_frame>Through Day 169</time_frame>
+    <description>Phase 2 and Phase 3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Severity of hypersensitivity reactions over time</measure>
+    <time_frame>Through Day 169</time_frame>
+    <description>Phase 2 and Phase 3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with treatment-emergent SAEs</measure>
+    <time_frame>Through Day 169</time_frame>
+    <description>Phase 2 and Phase 3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time-weighted average change from baseline in viral load</measure>
+    <time_frame>Through Day 169</time_frame>
+    <description>Phase 1, Phase 2, and Phase 3 Measured by RT-qPCR in NP samples</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in viral load</measure>
+    <time_frame>Through Day 7</time_frame>
+    <description>Phase 1, Phase 2, and Phase 3 As measured by RT-qPCR in NP samples</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with viral loads below the limit of detection</measure>
+    <time_frame>Through Day 169</time_frame>
+    <description>Phase 1, Phase 2, and Phase 3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Concentrations of REGN14256 in serum over time</measure>
+    <time_frame>Through Day 169</time_frame>
+    <description>Phase 1, Phase 2, and Phase 3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Concentrations of imdevimab in serum over time</measure>
+    <time_frame>Through Day 169</time_frame>
+    <description>Phase 1, Phase 2, and Phase 3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence and titer of anti-drug antibodies (ADA) to REGN14256 over time</measure>
+    <time_frame>Through Day 169</time_frame>
+    <description>Phase 1, Phase 2, and Phase 3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence and titer of ADA to imdevimab over time</measure>
+    <time_frame>Through Day 169</time_frame>
+    <description>Phase 1, Phase 2, and Phase 3</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">1359</enrollment>
+  <condition>SARS-CoV-2</condition>
+  <arm_group>
+    <arm_group_label>REGN14256 + imdevimab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Phase 1, Phase 2: Randomized 1:1:1:1:1 Phase 3: (≥18 Years): Randomized 1:1:1 Phase 3: (Open label) (≥12 and &lt;18 Years)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>REGN14256</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Phase 1, Phase 2: Randomized 1:1:1:1:1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Imdevimab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Phase 1, Phase 2: Randomized 1:1:1:1:1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>casirivimab + imdevimab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Phase 1, Phase 2: Randomized 1:1:1:1:1 Phase 3: (≥18 Years): Randomized 1:1:1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Phase 1, Phase 2: Randomized 1:1:1:1:1 Phase 3: (≥18 Years): Randomized 1:1:1</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>REGN14256</intervention_name>
+    <description>Sub-cutaneous (SC) single dose</description>
+    <arm_group_label>REGN14256</arm_group_label>
+    <arm_group_label>REGN14256 + imdevimab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>imdevimab</intervention_name>
+    <description>SC single dose</description>
+    <arm_group_label>Imdevimab</arm_group_label>
+    <arm_group_label>REGN14256 + imdevimab</arm_group_label>
+    <arm_group_label>casirivimab + imdevimab</arm_group_label>
+    <other_name>REGN10987</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>casirivimab + imdevimab</intervention_name>
+    <description>SC single dose</description>
+    <arm_group_label>casirivimab + imdevimab</arm_group_label>
+    <other_name>REGN10933 + REGN10987</other_name>
+    <other_name>REGN-COV2</other_name>
+    <other_name>REGEN-COV™</other_name>
+    <other_name>Ronpreve™</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>SC single dose</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Phase 1 will enroll adult patients (≥18 years of age), Phase 2 will enroll adult patients&#xD;
+        Phase 3 will enroll adult patients and an additional adolescent cohort of patients (≥12 and&#xD;
+        &lt;18 years of age)&#xD;
+&#xD;
+        Key Inclusion Criteria:&#xD;
+&#xD;
+          1. For the adolescent cohort in Phase 3 only: Weighs ≥40 kg at randomization&#xD;
+&#xD;
+          2. Has SARS-CoV-2-positive antigen or molecular diagnostic test (by validated SARSCoV- 2&#xD;
+             antigen, RT-PCR, or other molecular diagnostic assay, using an appropriate sample such&#xD;
+             as nasopharyngeal [NP], nasal, oropharyngeal [OP], or saliva) ≤72 hours prior to&#xD;
+             randomization. A historical record of a positive result is acceptable as long as the&#xD;
+             sample was collected ≤72 hours prior to randomization&#xD;
+&#xD;
+          3. Has symptoms consistent with COVID-19 (as determined by the investigator) with onset&#xD;
+             ≤7 days before randomization, and doesn't have a medical condition or other factors&#xD;
+             associated with high risk for progression to severe COVID-19 as outlined in the&#xD;
+             exclusion criteria&#xD;
+&#xD;
+          4. Maintains O2 saturation ≥93% on room air&#xD;
+&#xD;
+        Key Exclusion Criteria:&#xD;
+&#xD;
+          1. Has a medical condition or other factors associated with high risk for progression to&#xD;
+             severe COVID-19:&#xD;
+&#xD;
+               1. Cancer&#xD;
+&#xD;
+               2. Cardiovascular disease (such as heart failure, coronary artery disease,&#xD;
+                  cardiomyopathies, congenital heart disease or hypertension)&#xD;
+&#xD;
+               3. Chronic lung disease including chronic obstructive pulmonary disease, asthma&#xD;
+                  (moderate to severe), interstitial lung disease, cystic fibrosis, and pulmonary&#xD;
+                  hypertension&#xD;
+&#xD;
+               4. Chronic kidney disease at any stage&#xD;
+&#xD;
+               5. Chronic liver disease (such as alcohol-related, nonalcoholic fatty liver disease,&#xD;
+                  cirrhosis)&#xD;
+&#xD;
+               6. Dementia or other chronic neurological condition&#xD;
+&#xD;
+               7. Diabetes mellitus (type 1 or type 2)&#xD;
+&#xD;
+               8. Immunodeficiency disease or taking immunosuppressive treatment&#xD;
+&#xD;
+               9. Medical-related technological dependence [for example, tracheostomy, gastrostomy,&#xD;
+                  or positive pressure ventilation (not related to COVID-19)]&#xD;
+&#xD;
+              10. Neurodevelopmental disorder (for example, cerebral palsy) or other condition that&#xD;
+                  confers medical complexity (for example, genetic or metabolic syndromes and&#xD;
+                  severe congenital anomalies)&#xD;
+&#xD;
+              11. Overweight (defined as BMI &gt;25 kg/m2) or obesity (defined as BMI ≥30 kg/m2)&#xD;
+&#xD;
+              12. Poorly controlled HIV infection or AIDS m. Pregnancy&#xD;
+&#xD;
+             n. Sickle cell disease or thalassemia o. Stroke or cerebrovascular disease&#xD;
+&#xD;
+          2. Prior, current (at randomization) or planned use (within time period given per CDC&#xD;
+             guidance [90 days]) of any authorized or approved vaccine for COVID-19&#xD;
+&#xD;
+          3. Was admitted to a hospital for COVID-19 prior to randomization, or is hospitalized&#xD;
+             (inpatient) for any reason at randomization&#xD;
+&#xD;
+          4. Has a known prior SARS-CoV-2 infection or positive SARS-CoV-2 serologic test&#xD;
+&#xD;
+          5. Has a positive SARS-CoV-2 antigen or molecular diagnostic test from a sample collected&#xD;
+             &gt;72 hours prior to randomization&#xD;
+&#xD;
+          6. Has participated, or is participating, in a clinical research study evaluating&#xD;
+             COVID-19 convalescent plasma, mAbs against SARS-CoV-2, or intravenous immunoglobulin&#xD;
+             (IVIG) within 3 months or within 5 half-lives of the investigational product&#xD;
+             (whichever is longer) prior to the screening visit&#xD;
+&#xD;
+          7. Prior, current, or any of the following treatments: COVID-19 convalescent plasma, mAbs&#xD;
+             against SARS-CoV-2, IVIG (any indication), systemic corticosteroids (any indication),&#xD;
+             or COVID-19 treatments (authorized, approved, or investigational)&#xD;
+&#xD;
+          8. Has known active infection with influenza or other non-SARS-CoV-2 respiratory&#xD;
+             pathogen, confirmed by a diagnostic test&#xD;
+&#xD;
+          9. Has been discharged, or is planned to be discharged, to a quarantine center&#xD;
+&#xD;
+         10. Has participated, is participating, or plans to participate in a clinical research&#xD;
+             study evaluating any authorized, approved, or investigational vaccine for COVID-19&#xD;
+&#xD;
+         11. For Phase 1only: Women of childbearing potential (WOCBP) who are unwilling to practice&#xD;
+             highly effective contraception prior to the initial dose/start of the first treatment&#xD;
+             and for at least 6 months after study drug administration as described in the protocol&#xD;
+&#xD;
+        Note: Other protocol-defined inclusion/ exclusion criteria apply&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trial Management</last_name>
+    <role>Study Director</role>
+    <affiliation>Regeneron Pharmaceuticals</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Clinical Trials Administrator</last_name>
+    <phone>844-734-6643</phone>
+    <email>clinicaltrials@regeneron.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Regeneron Research Site</name>
+      <address>
+        <city>La Mesa</city>
+        <state>California</state>
+        <zip>91941</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PNS Clinical Research, LLC</name>
+      <address>
+        <city>Mission Viejo</city>
+        <state>California</state>
+        <zip>92691</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>714-545-5550</phone>
+    </contact>
+    <investigator>
+      <last_name>Alejandro Alva, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>AGA Clinical Trials</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>305-819-1551</phone>
+      <phone_ext>0</phone_ext>
+    </contact>
+    <investigator>
+      <last_name>Dario D. Altamarino, D.O.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Charisma Research and Medical Center</name>
+      <address>
+        <city>Miami Lakes</city>
+        <state>Florida</state>
+        <zip>33014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>786-580-3845</phone>
+    </contact>
+    <investigator>
+      <last_name>Marimer Rensoli Velazquez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Global Medical Trials</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33174</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>786-360-2869</phone>
+    </contact>
+    <investigator>
+      <last_name>Rogelio Iglesias, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Triple O Research Institute, P.A.</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>561-855-7871</phone>
+    </contact>
+    <investigator>
+      <last_name>Olayemi Osiyemi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Research Site</name>
+      <address>
+        <city>Columbus</city>
+        <state>Georgia</state>
+        <zip>31904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chicago Clinical Research Institute</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>312-791-3241</phone>
+    </contact>
+    <investigator>
+      <last_name>Dennis Levinson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Olive Branch Family Medical Center</name>
+      <address>
+        <city>Olive Branch</city>
+        <state>Mississippi</state>
+        <zip>38654</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>662-895-4949</phone>
+    </contact>
+    <investigator>
+      <last_name>Randall T Huling, Jr, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Carolina Medical Research</name>
+      <address>
+        <city>Clinton</city>
+        <state>South Carolina</state>
+        <zip>29325</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>864-547-1321</phone>
+    </contact>
+    <investigator>
+      <last_name>Nancy Patel</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>PharmaTex Research, LLC</name>
+      <address>
+        <city>Amarillo</city>
+        <state>Texas</state>
+        <zip>79109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>806-355-2581</phone>
+    </contact>
+    <investigator>
+      <last_name>David Brabham, DO</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 18, 2021</study_first_posted>
+  <last_update_submitted>November 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Non-hospitalized</keyword>
+  <keyword>Low-risk</keyword>
+  <keyword>Symptomatic</keyword>
+  <keyword>Coronavirus disease 2019 (COVID-19)</keyword>
+  <keyword>Severe acute respiratory syndrome coronavirus 2 (SARS-COV-2)</keyword>
+  <keyword>coronavirus</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All Individual Patient Data (IPD) that underlie publicly available results will be considered for sharing</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>When Regeneron has received marketing authorization from major health authorities (e.g., FDA, European Medicines Agency (EMA), Pharmaceuticals and Medical Devices Agency (PMDA), etc.) for the product and indication, has made the study results publicly available (e.g., scientific publication, scientific conference, clinical trial registry), has the legal authority to share the data, and has ensured the ability to protect participant privacy.</ipd_time_frame>
+    <ipd_access_criteria>Qualified researchers can submit a proposal for access to individual patient or aggregate level data from a Regeneron-sponsored clinical trial through Vivli. Regeneron's Independent Research Request Evaluation Criteria can be found at: https://www.regeneron.com/sites/default/files/Regeneron-External-Data-Sharing-Policy-and-Independent-Research-Request-Evaluation-Criteria.pdf</ipd_access_criteria>
+    <ipd_url>https://vivli.org/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

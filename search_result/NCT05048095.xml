@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8692">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05048095</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCT20210157-AI-ROL</org_study_id>
+    <nct_id>NCT05048095</nct_id>
+  </id_info>
+  <brief_title>Artificial Intelligence in Breast Cancer Screening in Region Östergötland Linkoping</brief_title>
+  <acronym>AI-ROL</acronym>
+  <official_title>The Use of AI as a Third Reader and During Consensus in a Double Reading Breast Cancer Screening Program in Sweden</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ostergotland County Council, Sweden</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ostergotland County Council, Sweden</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this observational study is to assess whether the use of AI (Transpara®) can&#xD;
+      lead to an improved quality of a double reading mammography screening program. This is&#xD;
+      investigated by performing AI as a third reader and as a decision support during the&#xD;
+      consensus meeting, compared with conventional mammography screening (double reading and&#xD;
+      consensus without AI).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The AI cancer detection system will act as a 3rd reader and will recall additional cases to&#xD;
+      the consensus conference: the exams that were not recalled by double reading but are&#xD;
+      classified as the 3% most suspicious exams, based on AI derived cancer-risk scores. Secondly,&#xD;
+      AI is used as a decision support during consensus. AI risk scores and Computer-Aided&#xD;
+      Detection (CAD)-marks of suspicious calcifications and soft tissue lesions are provided to&#xD;
+      the reader(s).&#xD;
+&#xD;
+      The hypothesis of this study is that the use of AI has the potential to improve the quality&#xD;
+      of the screening program by increasing the cancer detection rate without affecting the recall&#xD;
+      rate.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 15, 2021</start_date>
+  <completion_date type="Anticipated">February 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cancer Detection rate</measure>
+    <time_frame>After 4 months of inclusion</time_frame>
+    <description>Proportion of women diagnosed with breast cancer among those recalled after consensus</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Recall or referral rate</measure>
+    <time_frame>After 4 months of inclusion</time_frame>
+    <description>Proportion of women who are referred for further diagnostic workup after consensus</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Positive predictive value of referrals</measure>
+    <time_frame>After 4 months of inclusion</time_frame>
+    <description>Proportion of women diagnosed with breast cancer among those referred</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Positive predictive value of Transpara® scores</measure>
+    <time_frame>After 4 months of inclusion</time_frame>
+    <description>Proportion of breast cancers diagnosed among women with a given AI score</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">15000</enrollment>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Screened women in Region Östergötland Linkoping</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>AI cancer detection system</intervention_name>
+    <description>The use of AI as a third reader and as a decision support system during consensus meeting</description>
+    <arm_group_label>Screened women in Region Östergötland Linkoping</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Women eligible for population-based mammography screening&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Women participating in the regular Breast Cancer Screening Program in Region&#xD;
+             Östergötland Linkoping&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Women with breast implants or other foreign implants in the mammogram&#xD;
+&#xD;
+          -  Women with symptoms or signs of suspected breast cancer&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Female</gender_description>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>74 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Håkan Gustafsson, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Linköping University - University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Håkan Gustafsson, PhD</last_name>
+    <phone>+46 (0)10 104 3023</phone>
+    <email>hakan.l.gustafsson@liu.se</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Region Östergötland</name>
+      <address>
+        <city>Linköping</city>
+        <state>Östergötland</state>
+        <zip>58185</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Håkan Gustafsson, Ph.D. Docent</last_name>
+      <phone>+46101043023</phone>
+      <email>hakan.l.gustafsson@liu.se</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <reference>
+    <citation>Rodriguez-Ruiz A, Lång K, Gubern-Merida A, Broeders M, Gennaro G, Clauser P, Helbich TH, Chevalier M, Tan T, Mertelmeier T, Wallis MG, Andersson I, Zackrisson S, Mann RM, Sechopoulos I. Stand-Alone Artificial Intelligence for Breast Cancer Detection in Mammography: Comparison With 101 Radiologists. J Natl Cancer Inst. 2019 Sep 1;111(9):916-922. doi: 10.1093/jnci/djy222.</citation>
+    <PMID>30834436</PMID>
+  </reference>
+  <reference>
+    <citation>Rodríguez-Ruiz A, Krupinski E, Mordang JJ, Schilling K, Heywang-Köbrunner SH, Sechopoulos I, Mann RM. Detection of Breast Cancer with Mammography: Effect of an Artificial Intelligence Support System. Radiology. 2019 Feb;290(2):305-314. doi: 10.1148/radiol.2018181371. Epub 2018 Nov 20.</citation>
+    <PMID>30457482</PMID>
+  </reference>
+  <reference>
+    <citation>van Winkel SL, Rodríguez-Ruiz A, Appelman L, Gubern-Mérida A, Karssemeijer N, Teuwen J, Wanders AJT, Sechopoulos I, Mann RM. Impact of artificial intelligence support on accuracy and reading time in breast tomosynthesis image interpretation: a multi-reader multi-case study. Eur Radiol. 2021 Nov;31(11):8682-8691. doi: 10.1007/s00330-021-07992-w. Epub 2021 May 4.</citation>
+    <PMID>33948701</PMID>
+  </reference>
+  <reference>
+    <citation>Pinto MC, Rodriguez-Ruiz A, Pedersen K, Hofvind S, Wicklein J, Kappler S, Mann RM, Sechopoulos I. Impact of Artificial Intelligence Decision Support Using Deep Learning on Breast Cancer Screening Interpretation with Single-View Wide-Angle Digital Breast Tomosynthesis. Radiology. 2021 Sep;300(3):529-536. doi: 10.1148/radiol.2021204432. Epub 2021 Jul 6.</citation>
+    <PMID>34227882</PMID>
+  </reference>
+  <reference>
+    <citation>Raya-Povedano JL, Romero-Martín S, Elías-Cabot E, Gubern-Mérida A, Rodríguez-Ruiz A, Álvarez-Benito M. AI-based Strategies to Reduce Workload in Breast Cancer Screening with Mammography and Tomosynthesis: A Retrospective Evaluation. Radiology. 2021 Jul;300(1):57-65. doi: 10.1148/radiol.2021203555. Epub 2021 May 4.</citation>
+    <PMID>33944627</PMID>
+  </reference>
+  <reference>
+    <citation>Lång K, Dustler M, Dahlblom V, Åkesson A, Andersson I, Zackrisson S. Identifying normal mammograms in a large screening population using artificial intelligence. Eur Radiol. 2021 Mar;31(3):1687-1692. doi: 10.1007/s00330-020-07165-1. Epub 2020 Sep 2.</citation>
+    <PMID>32876835</PMID>
+  </reference>
+  <reference>
+    <citation>Rodriguez-Ruiz A, Lång K, Gubern-Merida A, Teuwen J, Broeders M, Gennaro G, Clauser P, Helbich TH, Chevalier M, Mertelmeier T, Wallis MG, Andersson I, Zackrisson S, Sechopoulos I, Mann RM. Can we reduce the workload of mammographic screening by automatic identification of normal exams with artificial intelligence? A feasibility study. Eur Radiol. 2019 Sep;29(9):4825-4832. doi: 10.1007/s00330-019-06186-9. Epub 2019 Apr 16.</citation>
+    <PMID>30993432</PMID>
+  </reference>
+  <reference>
+    <citation>Lång K, Hofvind S, Rodríguez-Ruiz A, Andersson I. Can artificial intelligence reduce the interval cancer rate in mammography screening? Eur Radiol. 2021 Aug;31(8):5940-5947. doi: 10.1007/s00330-021-07686-3. Epub 2021 Jan 23.</citation>
+    <PMID>33486604</PMID>
+  </reference>
+  <reference>
+    <citation>Sasaki M, Tozaki M, Rodríguez-Ruiz A, Yotsumoto D, Ichiki Y, Terawaki A, Oosako S, Sagara Y, Sagara Y. Artificial intelligence for breast cancer detection in mammography: experience of use of the ScreenPoint Medical Transpara system in 310 Japanese women. Breast Cancer. 2020 Jul;27(4):642-651. doi: 10.1007/s12282-020-01061-8. Epub 2020 Feb 12.</citation>
+    <PMID>32052311</PMID>
+  </reference>
+  <reference>
+    <citation>Kerschke L, Weigel S, Rodriguez-Ruiz A, Karssemeijer N, Heindel W. Using deep learning to assist readers during the arbitration process: a lesion-based retrospective evaluation of breast cancer screening performance. Eur Radiol. 2021 Aug 12. doi: 10.1007/s00330-021-08217-w. [Epub ahead of print]</citation>
+    <PMID>34383147</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 17, 2021</study_first_posted>
+  <last_update_submitted>October 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ostergotland County Council, Sweden</investigator_affiliation>
+    <investigator_full_name>Håkan Gustafsson</investigator_full_name>
+    <investigator_title>Adjunct Senior Lecturer</investigator_title>
+  </responsible_party>
+  <keyword>Artificial intelligence</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

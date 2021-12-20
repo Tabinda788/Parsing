@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="591">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05153460</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DozeeUSFDA2021</org_study_id>
+    <secondary_id>STUDY00001760</secondary_id>
+    <nct_id>NCT05153460</nct_id>
+  </id_info>
+  <brief_title>Pilot Clinical Evaluation of Dozee VS, a Contactless Continuous Vital Parameters Monitoring System in Hospital Patients</brief_title>
+  <acronym>DZUSFDA21</acronym>
+  <official_title>Pilot Clinical Evaluation of Dozee VS in Hospital Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Turtle Shell Technologies Pvt. Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Louisiana State University Health Sciences Center in New Orleans</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>HealthMinds</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Turtle Shell Technologies Pvt. Ltd.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Dozee VS device developed by Turtle Shell Technologies Pvt. Ltd., is a contactless&#xD;
+      continuous vital parameters monitoring system. It is designed for continuous and contactless&#xD;
+      measurement of Heart Rate (HR) and Respiratory Rate (RR). The device uses the concept of&#xD;
+      ballistocardiography and deploys piezoelectric sensors to capture the micro-vibrations&#xD;
+      originating from cardiac contractions, upper respiratory tract activity and body movements.&#xD;
+      This data is then analyzed by a proprietary algorithm and the values of the vital parameters&#xD;
+      - Heart Rate (HR) and Respiratory Rate (RR) are generated. The captured vital parameters can&#xD;
+      be accessed remotely via a dashboard which can be accessed on any web browser and a&#xD;
+      smartphone application. The sensor sheet is placed below the mattress and captures data while&#xD;
+      the user is resting or sleeping and does not require a sensor to be fixed to the body. It&#xD;
+      consists of the following sub - units: Contactless sensor sheet, Dozee Pod with power cord, 5&#xD;
+      V USB Power Adapter, Health data compute server and Web Dashboard/Mobile App. This provides a&#xD;
+      more comfortable solution for long-term continuous patient monitoring. Continuous monitoring&#xD;
+      of people's vital signs, in particular Heart Rate (HR) and Respiratory Rate (RR), may provide&#xD;
+      a mechanism to alert doctors or nurses of clinical deterioration. Monitoring people's vital&#xD;
+      signs outside an ICU often relies on nursing staff conducting checks at set intervals. The&#xD;
+      device can reduce the workload for nursing staff in non-ICU wards.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Dozee VS device is intended for the contactless continuous monitoring of vital parameters&#xD;
+      (Heart Rate and Respiratory Rate), and screening for abnormal changes in these parameters.&#xD;
+      The device is intended to be used to monitor individuals/patients greater than eighteen (18)&#xD;
+      years of age (40 kg ≤ weight ≤ 120 kg) and can measure their vital signs during sleep and&#xD;
+      resting state. The data can be viewed on the dashboard, exported and even be directly&#xD;
+      transferred to the in-house hospital management software. This protocol aims at verifying the&#xD;
+      safety and effectiveness of the investigational device in a general-care clinical&#xD;
+      environment. A similar predicate can be found in the FDA-cleared EarlySense Insight System&#xD;
+      (K152911) developed by EarlySense Ltd which shall be used as the predicate device. The device&#xD;
+      also uses the concept of ballistocardiography and employs piezoelectric sensors to create a&#xD;
+      contact-less continuous monitoring system which monitors the same vital parameters. It has&#xD;
+      been sold in over 20 U.S. hospitals since 2013, with no recalls or adverse events reported.&#xD;
+      According to publicly available clinical results, this system has shown an 86% reduction in&#xD;
+      Code Blue events, and a 45% reduction in Length of Stay (LoS) in the ICU for patients coming&#xD;
+      from the medical/surgical unit. The technology employed and the indications for use for the&#xD;
+      EarlySense device is very similar to the Dozee VS device.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2021</start_date>
+  <completion_date type="Anticipated">November 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>RMSD of Investigational Device's Heart Rate and Gold Standard Device's Heart Rate</measure>
+    <time_frame>12 months</time_frame>
+    <description>Record heart rate in the investigational device and patient monitor at the same time every 60 seconds.&#xD;
+Calculate and compare the root mean square difference (RMSD) per patient and Bland-Alman plot of the heart rate for the investigational device and the gold standard device.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>RMSD of Investigational Device's Respiratory Rate and Gold Standard Device's Respiratory Rate</measure>
+    <time_frame>12 months</time_frame>
+    <description>Record respiratory rate in the investigational device and patient monitor at the same time every 60 seconds.&#xD;
+Calculate and compare the root mean square difference (RMSD) per patient and Bland-Alman plot of the respiratory rate for the investigational device and the gold standard device.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>RMSD of Predicate Device's Heart Rate and Gold Standard Device's Heart Rate</measure>
+    <time_frame>12 months</time_frame>
+    <description>Record heart rate in the predicate device and patient monitor at the same time every 60 seconds.&#xD;
+Calculate and compare the root mean square difference (RMSD) per patient and Bland-Alman plot of the heart rate for the predicate device and the gold standard device.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>RMSD of Predicate Device's Respiratory Rate and Gold Standard Device's Respiratory Rate</measure>
+    <time_frame>12 months</time_frame>
+    <description>Record respiratory rate in the investigational device and patient monitor at the same time every 60 seconds.&#xD;
+Calculate and compare the root mean square difference (RMSD) per patient and Bland-Alman plot of the respiratory rate for the predicate device and the gold standard device.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Motion Notification Accuracy - DUI (%)</measure>
+    <time_frame>12 months</time_frame>
+    <description>Record the time for each instructed movements from manual observation and time for movements notification recorded in the investigational device.&#xD;
+Calculate the times matched between these two to get the accuracy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bed Exit Notification Accuracy - DUI (%)</measure>
+    <time_frame>12 months</time_frame>
+    <description>Record the time for each instructed bed exit from manual observation and time for bed exit notification recorded in the investigational device.&#xD;
+Calculate the times matched between these two to get the accuracy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Motion Notification Accuracy - Predicate (%)</measure>
+    <time_frame>12 months</time_frame>
+    <description>Record the time for each instructed movements from manual observation and time for movements notification recorded in the predicate device.&#xD;
+Calculate the times matched between these two to get the accuracy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bed Exit Notification Accuracy - Predicate (%)</measure>
+    <time_frame>12 months</time_frame>
+    <description>Record the time for each instructed bed exit from manual observation and time for bed exit notification recorded in the predicate device.&#xD;
+Calculate the times matched between these two to get the accuracy.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Comparison of RMS values of the two primary objectives</measure>
+    <time_frame>12 months</time_frame>
+    <description>Descriptive statistics will be used for capturing study population demographics.&#xD;
+We will sync timings across the three devices to be able to map concurrent readings and use the longest recorded rate as rate limiting step. (If one device can give 15 second data the oher 30s and the third 60s, we will use 60s as our mark)</description>
+  </other_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">105</enrollment>
+  <condition>No Specific Medical Conditions or Disease States</condition>
+  <arm_group>
+    <arm_group_label>Single Arm Study (Cohort)</arm_group_label>
+    <description>All participants will be on standard telemetry monitoring for Heart Rate and Respiration Rate using the gold standard (Electrocardiography and Capnography respectively).&#xD;
+In addition, two contactless monitoring devices will be placed on the patient bed to measure data simulataneously. These devices include EarlySense (USFDA approved ballistocardiography device) and Dozee VS (Investigational Device).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Telemetry and manual monitoring vs Contactless monitoring devices</intervention_name>
+    <description>All participants will be on standard telemetry monitoring for Heart Rate, Respiration Rate and movements using the gold standard (Electrocardiography and Capnography respectively).&#xD;
+In addition, two contactless monitoring devices will be placed on the patient bed to measure data simultaneously. These devices include EarlySense (USFDA approved ballistocardiography device) and Dozee VS (Investigational Device).</description>
+    <arm_group_label>Single Arm Study (Cohort)</arm_group_label>
+    <other_name>EarlySense</other_name>
+    <other_name>Dozee VS</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study will be conducted on 105 subjects in the age group above 18 years regardless of&#xD;
+        gender. The patients admitted in the hospital will be informed about the study and a&#xD;
+        written informed consent form will be obtained from them. Dozee will be placed under the&#xD;
+        mattress of the patient's bed and the data will be collected through the device whenever a&#xD;
+        patient is on the bed.&#xD;
+&#xD;
+        The research team members responsible for data analysis will have access only to the fully&#xD;
+        anonymised individual-level data and will be blinded to any other patient data, as well as&#xD;
+        to the components of the calculated scores in the hospital information system.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adults Male or female. (Above 18 years of age)&#xD;
+&#xD;
+          2. Provide written informed consent.&#xD;
+&#xD;
+          3. Weight between 40kg/88.18lbs and 120kg/264.55lbs(Above 40 kgs)&#xD;
+&#xD;
+          4. Are located in a non-ICU hospital setting.&#xD;
+&#xD;
+          5. Agree to not eat during the testing period (2hours or 10 hours accordingly)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Are connected to a device which may interfere with the device monitoring in this&#xD;
+             study.&#xD;
+&#xD;
+          2. Are receiving any bedside care which may be incompatible with the study procedures.&#xD;
+&#xD;
+          3. A likely need to receive or undergo a procedure during the testing period.&#xD;
+&#xD;
+          4. Cannot accept a nasal cannula, or have a monitor lead placed on the chest.&#xD;
+&#xD;
+          5. Have a significant medical condition in the judgement of the investigator, which may&#xD;
+             compromise the study testing procedures.&#xD;
+&#xD;
+          6. Prisoners&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Parri Dominic, MD</last_name>
+    <phone>+1 318-626-0050</phone>
+    <email>paari.dominic@lsuhs.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sindhu Thevuthasan, MD</last_name>
+    <phone>+1 509-521-3111</phone>
+    <email>sindhu.thevuthasan@lsuhs.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Louisiana State University Health Sciences Center</name>
+      <address>
+        <city>Shreveport</city>
+        <state>Louisiana</state>
+        <zip>71103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Parri Dominic</last_name>
+      <phone>318-626-0050</phone>
+      <email>paari.dominic@lsuhs.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sindhu Thevuthasan</last_name>
+      <phone>15095213111</phone>
+      <email>sindhu.thevuthasan@lsuhs.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 10, 2021</study_first_posted>
+  <last_update_submitted>November 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Continuous Monitoring, Ballistocardiography, HR, RR, DozeeVS</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>IPD are protected under HIPPA Act of 1996.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

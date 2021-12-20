@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8362">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05052385</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2019000902</org_study_id>
+    <nct_id>NCT05052385</nct_id>
+  </id_info>
+  <brief_title>ECP Combination Study</brief_title>
+  <official_title>Multi-centre Retrospective Study to Describe the Use and Outcomes of ECP in Combination With New Treatment Protocols in Acute and Chronic GvHD</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>European Society for Blood and Marrow Transplantation</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Mallinckrodt</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>European Society for Blood and Marrow Transplantation</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Extracorporeal photopheresis (ECP) offers an alternative to standard immunosuppression and&#xD;
+      shows an immunomodulatory rather than an immunosuppressive effect, which is associated with&#xD;
+      less toxicities and side effects. Additionally ECP has been shown to allow tapering of&#xD;
+      steroids and immunosuppressant agents which should be a goal of GvHD therapy.&#xD;
+&#xD;
+      ECP has been used for the management of GvHD since first described in 1994 and as its use has&#xD;
+      continued over the decades. The treatment was incorporated into a number of guidelines as a&#xD;
+      second line therapy in steroid refractory or steroid dependent GvHD patients. As well as&#xD;
+      being used in addition and after steroids, it is also used in combination with CNI&#xD;
+      Inhibitors, MMF and other immunosuppressant agents.&#xD;
+&#xD;
+      However, despite the current widespread use of ECP in the treatment of patients with GvHD,&#xD;
+      clinical data from randomized studies is limited and small prospective and retrospective&#xD;
+      trials are the main evidence base .This is also the case for other commonly used&#xD;
+      immunosuppressant agents, which have been used in GvHD since ECP was introduced.&#xD;
+&#xD;
+      The systematic review concluded that ECP is an effective therapy for oral, skin, and liver&#xD;
+      SR-cGVHD, with modest activity in lung and gastrointestinal SR-cGVHD.&#xD;
+&#xD;
+      In the USA Ibrutinib is the only FDA approved agent for second line cGvHD therapy once&#xD;
+      steroid therapy has failed and Ruxolitinib had been approved in the USA for the treatment of&#xD;
+      steroid refractory GvHD.&#xD;
+&#xD;
+      While studies have shown the effectiveness and safety of ECP in GvHD treatment, there is&#xD;
+      limited data to show how it is being used in combination with the recently approved agents.&#xD;
+&#xD;
+      Using existing registry data targeting centres where the newer agents are being used and&#xD;
+      enhancing the capture of treatment data we believe we can undertake a larger scale study,&#xD;
+      which will include the new treatment protocols. The aim of the current study is to improve&#xD;
+      the evidence basis on the potential benefit of ECP use as treatment of GVHD.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Registry Based Study (RBS) designed to collect data on the treatment behaviour of&#xD;
+      acute and chronic GvHD after HSCT. The data collection will be based on the EBMT registry,&#xD;
+      which so far consists of two questionnaires (Forms A and B), mainly covering the primary&#xD;
+      disease diagnostics, the status before and at HSCT, the type of HSCT (donor status,&#xD;
+      preparative regimen etc) and the survival status. With a new questionnaire Form C, which will&#xD;
+      be similar in design as the current forms used in the registry, we aim at collecting more&#xD;
+      information and additional data on GvHD characteristics and treatment (schedule, combination,&#xD;
+      disease states) for both chronic and acute GvHD EBMT will work with the selected sites to&#xD;
+      facilitate the collection of additional data as specified in section 4.&#xD;
+&#xD;
+      The data collected will all be retrospective and include up to 3 years of data covering 2017&#xD;
+      onwards, from onset of GvHD that has failed to respond to steroids with a minimum data follow&#xD;
+      up of 6 months for acute and 1 year for chronic. Centres will be asked to select patients&#xD;
+      that meet the inclusion criteria and fill in Form C retrospectively. The amount of additional&#xD;
+      data required will depend on whether the centre selected fills in the more detailed Form B or&#xD;
+      the more minimum data set in Form A.&#xD;
+&#xD;
+      Criteria for centre selection will be based on:&#xD;
+&#xD;
+        -  Centres that have expressed a willingness to participate in the study through a&#xD;
+           feasibility questionnaire that was sent out prior to the study or via Email confirmation&#xD;
+&#xD;
+        -  Centres who have responded through the feasibility questionnaire&#xD;
+&#xD;
+        -  Centres where there is prior knowledge of use of both Ruxolitinib/Ibrutinib and ECP or&#xD;
+           have responded as such in the feasibility questionnaire&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 13, 2021</start_date>
+  <completion_date type="Anticipated">October 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall response rate</measure>
+    <time_frame>3 months</time_frame>
+    <description>Partial or Complete response according to NIH/Glucksberg classification) at 3 months for acute GvHD since start of targeted* treatment for SR-GvHD</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall response rate (Partial or Complete response according to NIH/Glucksberg classification) at 6 months for chronic GvHD since start of targeted* treatment for SR-GvHD</measure>
+    <time_frame>6 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy of ECP</measure>
+    <time_frame>up to one year</time_frame>
+    <description>Organ specific response</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of ECP</measure>
+    <time_frame>Up to one year</time_frame>
+    <description>Incidence of Complications and infections</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of ECP</measure>
+    <time_frame>Up to one year</time_frame>
+    <description>Steroid sparing effects</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy of ECP</measure>
+    <time_frame>Up to one year</time_frame>
+    <description>overall survival</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy of ECP</measure>
+    <time_frame>Up to one year</time_frame>
+    <description>Non Relapse Mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy of ECP</measure>
+    <time_frame>Up to one year</time_frame>
+    <description>Duration of response</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy of ECP</measure>
+    <time_frame>Up to one year</time_frame>
+    <description>Failure-free survival</description>
+  </secondary_outcome>
+  <number_of_groups>6</number_of_groups>
+  <enrollment type="Anticipated">444</enrollment>
+  <condition>Steroid Refractory GVHD</condition>
+  <arm_group>
+    <arm_group_label>ECP only (aGVHD patients)</arm_group_label>
+    <description>Patients treated with ECP and other Standard Of Care treatments (SOC)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ECP and Ruxolitinib (aGVHD patients)</arm_group_label>
+    <description>Patients treated with ECP and Ruxolitinib</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ruxolitinib only (aGVHD patients)</arm_group_label>
+    <description>Patients treated with Ruxolitinib and other Standard Of Care treatments (SOC)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ECP only (cGVHD patients)</arm_group_label>
+    <description>Patients treated with ECP and other Standard Of Care treatments (SOC)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ECP and treatment combination (cGVHD patients)</arm_group_label>
+    <description>Patients treated with ECP and Ruxolitinib or Ibrutinib</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment combination only (cGVHD patients)</arm_group_label>
+    <description>Patients treated with Ibrutinib and/or Ruxolitinib and other Standard Of Care treatments (SOC)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ruxolitinib</intervention_name>
+    <description>As per treating physician's decision - non interventional study</description>
+    <arm_group_label>ECP and Ruxolitinib (aGVHD patients)</arm_group_label>
+    <arm_group_label>ECP and treatment combination (cGVHD patients)</arm_group_label>
+    <arm_group_label>Ruxolitinib only (aGVHD patients)</arm_group_label>
+    <arm_group_label>Treatment combination only (cGVHD patients)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Extracorporeal photopheresis</intervention_name>
+    <description>As per treating physician's decision - non interventional study</description>
+    <arm_group_label>ECP and Ruxolitinib (aGVHD patients)</arm_group_label>
+    <arm_group_label>ECP and treatment combination (cGVHD patients)</arm_group_label>
+    <arm_group_label>ECP only (aGVHD patients)</arm_group_label>
+    <arm_group_label>ECP only (cGVHD patients)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ibrutinib</intervention_name>
+    <description>As per treating physician's decision - non interventional study</description>
+    <arm_group_label>ECP and treatment combination (cGVHD patients)</arm_group_label>
+    <arm_group_label>Treatment combination only (cGVHD patients)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Acute GvHD patients with HSCT who have failed steroids and developed SR-GvHD and are&#xD;
+        treated with either ECP or/and Ruxolitinib.&#xD;
+&#xD;
+        Patients with HSCT who have developed chronic GvHD and failed to respond to steroids&#xD;
+        (SR-cGvHD) and are treated with either ECP or/and Ruxolitinib or/and Ibrutinib.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Acute GvHD Patients&#xD;
+&#xD;
+          1. Patients who develop acute SR-GvHD after first HSCT and there is a minimum of 6 months&#xD;
+             follow up data in the database&#xD;
+&#xD;
+          2. Patients who initiate treatment with ECP or Ruxolitinib within 60 days of onset of SR&#xD;
+             aGvHD&#xD;
+&#xD;
+          3. Grade: II-IV only at time of treatment initiation&#xD;
+&#xD;
+          4. Patients who are ≥ 18 years at time of treatment initiation&#xD;
+&#xD;
+        Chronic GvHD Patients&#xD;
+&#xD;
+          1. Patients who develop chronic SR-GvHD after first HSCT and there is with a minimum of 1&#xD;
+             year follow up data in the database&#xD;
+&#xD;
+          2. Patients who initiate treatment with ECP or Ruxolitinib or Ibrutinib within I year of&#xD;
+             the onset of SR-cGvHD&#xD;
+&#xD;
+          3. Severity: moderate to severe only at time of treatment initiation&#xD;
+&#xD;
+          4. Patients who are ≥ 18 years at time of treatment initiation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Acute GvHD&#xD;
+&#xD;
+          1. Patients on a clinical trial for GvHD for an interventional drug to treat GvHD in the&#xD;
+             retrospective period&#xD;
+&#xD;
+          2. Patient is pregnant or breastfeeding&#xD;
+&#xD;
+          3. Grade I at time of SR GvHD treatment initiation&#xD;
+&#xD;
+          4. Patients who receive ECP or new treatment as prophylaxis&#xD;
+&#xD;
+          5. Patients initiating ECP or new treatment later than 60 days from onset on SR-aGvHD&#xD;
+&#xD;
+          6. Patients &lt; 18 years at time of treatment initiation&#xD;
+&#xD;
+        Chronic GvHD&#xD;
+&#xD;
+          1. Patients on a clinical trial for an interventional drug to treat GvHD in the&#xD;
+             retrospective period&#xD;
+&#xD;
+          2. Patient is pregnant or breastfeeding&#xD;
+&#xD;
+          3. Chronic GvHD : Severity mild at time of SR GvHD treatment initiation&#xD;
+&#xD;
+          4. Patients who receive ECP or new treatment as prophylaxis&#xD;
+&#xD;
+          5. Patients initiating ECP or new treatment after 1 year onset of SR-cGvHD&#xD;
+&#xD;
+          6. Patients &lt; 18 years at time of treatment initiation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Olaf Penack, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>European Society for Blood and Marrow Transplantation</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jessica Lemaitre</last_name>
+    <phone>+33 1 70 64 24 15</phone>
+    <email>jessica.lemaitre@upmc.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Emmanuelle Polge</last_name>
+    <email>emmanuelle.polge@upmc.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Antwerp University</name>
+      <address>
+        <city>Antwerp</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wilfried Schroyens</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Liège</name>
+      <address>
+        <city>Liège</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yves Beguin, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rigshospitalet</name>
+      <address>
+        <city>Copenhagen</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU Angers</name>
+      <address>
+        <city>Angers</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Limoges</name>
+      <address>
+        <city>Limoges</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Arnaud Jaccard, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut de Cancerologie Lucien Neuwirth</name>
+      <address>
+        <city>Saint-Étienne</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Bonn University</name>
+      <address>
+        <city>Bonn</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Peter Brossart, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Essen</name>
+      <address>
+        <city>Essen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas Schroeder, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsmedizin Mannheim</name>
+      <address>
+        <city>Mannheim</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stefan Klein, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Robert_Bosch_Krankenhaus</name>
+      <address>
+        <city>Stuttgart</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sonja Martin, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>George Papanicolaou General Hospital</name>
+      <address>
+        <city>Thessaloníki</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dél-pesti Centrumkórház -</name>
+      <address>
+        <city>Budapest</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Peter Remenyi, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rambam Medical Center</name>
+      <address>
+        <city>Haifa</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>H SS. Antonio e Biagio</name>
+      <address>
+        <city>Alessandria</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lucia Brunello, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero Universitaria Policlinico Bari</name>
+      <address>
+        <city>Bari</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paola Carluccio, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ASST Papa Giovanni XXIII</name>
+      <address>
+        <city>Bergamo</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alessandro Rambaldi, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Clinico Humanitas</name>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Luca Castagna, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Civile</name>
+      <address>
+        <city>Pescara</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stella Santarone, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero Universitaria Pisana</name>
+      <address>
+        <city>Pisa</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mario Petrini, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universita Cattolica S. Cuore</name>
+      <address>
+        <city>Roma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patrizia Chiusolo, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>S. Bortolo Hospital</name>
+      <address>
+        <city>Vicenza</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marco Ruggeri, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Haukeland University Hospital</name>
+      <address>
+        <city>Bergen</city>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aymen Bushra Ahmed, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Oslo University Hospital, Rikshospitalet</name>
+      <address>
+        <city>Oslo</city>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tobias Gedde-Dahl, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of Gdansk</name>
+      <address>
+        <city>Gdansk</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jan Zaucha, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fundeni Clinical Institute</name>
+      <address>
+        <city>Bucharest</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>First State Pavlov Medical University of St. Petersburg</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aleksadr Kulagin, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ICO-Hospital Universitari Germans Trias i Pujol</name>
+      <address>
+        <city>Badalona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinic</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Montserrat Rovira, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ICO - Hospital Duran i Reynals</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rocio Parody Porras, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Reina Sofia</name>
+      <address>
+        <city>Córdoba</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Univ. Virgen de las Nieves</name>
+      <address>
+        <city>Granada</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Manuel Jurado Chacón, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Regional de Málaga</name>
+      <address>
+        <city>Málaga</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maria Jesús Pascual Cascon, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Virgen del Rocío</name>
+      <address>
+        <city>Sevilla</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jose Antonio Pérez-Simón, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sahlgrenska University Hospital</name>
+      <address>
+        <city>Göteborg</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Skanes University Hospital</name>
+      <address>
+        <city>Lund</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stig Lenhoff, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Baskent University Hospital</name>
+      <address>
+        <city>Adana</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gazi University Faculty of Medicine</name>
+      <address>
+        <city>Ankara</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zubeyde Nur Ozkurt, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Birmingham NHS Trust</name>
+      <address>
+        <city>Birmingham</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Charles Craddock, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bristol Royal Hospital for Children</name>
+      <address>
+        <city>Bristol</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kings College Hospital</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Victoria Potter, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Christie NHS Trust Hospital</name>
+      <address>
+        <city>Manchester</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Adrian Bloor, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Churchill Hospital</name>
+      <address>
+        <city>Oxford</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Matin Rubeta, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sheffield Teaching Hospitals NHS Trust</name>
+      <address>
+        <city>Sheffield</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Snowden, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Denmark</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Greece</country>
+    <country>Hungary</country>
+    <country>Israel</country>
+    <country>Italy</country>
+    <country>Norway</country>
+    <country>Poland</country>
+    <country>Romania</country>
+    <country>Russian Federation</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>Turkey</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>July 2021</verification_date>
+  <study_first_submitted>July 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 22, 2021</study_first_posted>
+  <last_update_submitted>September 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Steroid refractory GVHD</keyword>
+  <keyword>Extracorporeal photopheresis</keyword>
+  <keyword>Ibrutinib</keyword>
+  <keyword>Ruxolitinib</keyword>
+  <keyword>ECP</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

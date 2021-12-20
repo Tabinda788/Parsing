@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3888">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05110573</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B3962020000032</org_study_id>
+    <nct_id>NCT05110573</nct_id>
+  </id_info>
+  <brief_title>Single-centre Propensity Score-matched Comparison of Laparoscopic Versus Open Pancreatoduodenectomy</brief_title>
+  <acronym>PSMLOPD</acronym>
+  <official_title>Morbidity and Survival After Minimally Invasive Versus Open Pancreatoduodenectomy: Propensity Score Matched Comparison</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>General Hospital Groeninge</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>General Hospital Groeninge</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Minimally invasive pancreatoduodenectomy is increasingly performed. However, technical&#xD;
+      challenges and a perceived higher risk of complications has hindered wide adoption of a&#xD;
+      minimally invasive approach.&#xD;
+&#xD;
+      This is a retrospective comparison of a prospectively kept database. The investigators&#xD;
+      compared surgical outcomes and survival after laparoscopic (LPD) versus open&#xD;
+      pancreatoduodenectomy (OPD). In order to reduce the effect of bias and confounding, baseline&#xD;
+      characteristics of both groups were matched using propensity score matching.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      All pancreatoduodenectomies were retrieved from a prospectively kept database and&#xD;
+      retrospectively analysed. All procedures were performed in a single supra-regional Belgian&#xD;
+      centre.&#xD;
+&#xD;
+      The primary endpoint was the major complication rate, defined by a Clavien-Dindo morbidity&#xD;
+      classification grade IIIa or higher [11]. Secondary endpoints were 90-day mortality rate,&#xD;
+      length of hospital stay, operative time, blood loss, transfusion requirements and specific&#xD;
+      pancreatic complications (pancreatic fistula, haemorrhage, and delayed gastric emptying). In&#xD;
+      addition, overall survival (OS) and disease-free survival (DFS) were analysed in the&#xD;
+      subgroups of cancer patients.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 1, 2000</start_date>
+  <completion_date type="Actual">March 20, 2021</completion_date>
+  <primary_completion_date type="Actual">January 31, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Major complication rate</measure>
+    <time_frame>90 days postoperative</time_frame>
+    <description>Complications classified as morbidity classification 3a or greater (Clavien-Dindo)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Perioperative outcomes</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>Operative time (min), blood transfusion requirements, estimated blood loss (mL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Short-term postoperative outcomes</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>Hospital stay (days), drain in situ (days), ICU stay (days)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Postoperative morbidity</measure>
+    <time_frame>90 days</time_frame>
+    <description>All complications classified as morbidity classification 3a or greater (Clavien-Dindo)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pancreatectomy-specific complications</measure>
+    <time_frame>90 days</time_frame>
+    <description>Postoperative pancreatic fistula, Post-pancreatectomy haemorrhage, delayed gastric emptying, as defined by the respective ISGPS classification</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival and disease-free survival</measure>
+    <time_frame>Up to 20 years</time_frame>
+    <description>The Kaplan-Meier method was used for estimation of survival and compared between subgroups of cancer patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oncological outcomes</measure>
+    <time_frame>Up to 20 years</time_frame>
+    <description>Analysis of resection specimen following contemporary pathlogy guidelines and defined by TNM staging system of pancreatic cancer by AJCC/UICC.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">172</enrollment>
+  <condition>Pancreatic Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>Laparoscopic pancreatoduodenectomy</arm_group_label>
+    <description>Cohort of patients that underwent a Whipple-procedure through a laparoscopic approach.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Open pancreatoduodenectomy</arm_group_label>
+    <description>Cohort of patients that underwent a Whipple-procedure through a traditional open approach.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>pancreatoduodenectomy</intervention_name>
+    <description>Patients included in the cohorts all underwent pancreatoduodenectomy, open or laparoscopic</description>
+    <arm_group_label>Laparoscopic pancreatoduodenectomy</arm_group_label>
+    <arm_group_label>Open pancreatoduodenectomy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Indications for surgery were benign or malignant lesions of the pancreatic head or&#xD;
+        peri-ampullary organs. All patients of ≥18 years old diagnosed with suspicious lesions&#xD;
+        located in the pancreas, ampulla, duodenum or distal bile duct were presented at the&#xD;
+        multidisciplinary oncological team. In case of biopsy-proven malignancy or clinical and&#xD;
+        radiological suspicion without confirmed malignancy, surgical resection was considered in&#xD;
+        accordance with contemporary guidelines&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  diagnosis of lesion of pancreatic head or peri-ampullary organs&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  &lt; 18 years old&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mathieu D'Hondt, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>1. Department of Digestive and Hepatobiliary/Pancreatic Surgery AZ Groeninge</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>General Hospital Groeninge</name>
+      <address>
+        <city>Kortrijk</city>
+        <zip>8500</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>August 30, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 8, 2021</study_first_posted>
+  <last_update_submitted>October 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>General Hospital Groeninge</investigator_affiliation>
+    <investigator_full_name>Dr. M. D'hondt</investigator_full_name>
+    <investigator_title>Dr. Mathieu D'Hondt, Principal investigator</investigator_title>
+  </responsible_party>
+  <keyword>pancreatoduodenectomy</keyword>
+  <keyword>minimally-invasive surgery</keyword>
+  <keyword>pancreatic cancer</keyword>
+  <keyword>chronic pancreatitis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pancreatic Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

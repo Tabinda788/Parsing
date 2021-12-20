@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="697">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05152082</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-SR-365</org_study_id>
+    <nct_id>NCT05152082</nct_id>
+  </id_info>
+  <brief_title>Establishment and Validation of a Predictive Model for the Risk of Colorectal Advanced Adenomas</brief_title>
+  <official_title>Establishment and Validation of a Predictive Model for the Risk of Colorectal Advanced Adenomas</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The First Affiliated Hospital with Nanjing Medical University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The First Affiliated Hospital with Nanjing Medical University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study aimed to analyze the risk factors of colorectal advanced adenoma and constructe a&#xD;
+      model to predict the high-risk individuals of harbouring colorectal advanced adenomas, so as&#xD;
+      to better identify screening participants and provide an important theoretical basis for the&#xD;
+      prevention of colorectal cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A large cohort of eligible patients were included in the analysis, and classified into&#xD;
+      derivation and validation cohorts at a ratio of 7:3. Demographic and clinicopathological&#xD;
+      characteristics of participants were utilized to develop a prediction model for colorectal&#xD;
+      advanced polyps. In the derivation cohort, the LASSO regression method was applied to filter&#xD;
+      variables and multivariate logistic regression analysis was used to identify important&#xD;
+      predictors.A prediction model was established based on the results of multivariate logistic&#xD;
+      regression analysis. The predictive performance of the model was evaluated with respect to&#xD;
+      its discrimination, calibration and clinical usefulness.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 1, 2021</start_date>
+  <completion_date type="Anticipated">June 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Demographic characteristics of patients with colorectal adenomas checklist</measure>
+    <time_frame>1 year</time_frame>
+    <description>Age (years), sex (man/woman), family history of colorectal cancer (in first-degree relatives, including parents and siblings), history of smoking (never, past, current), history of alcohol consumption (never, past, current), regular use of non-steroidal anti-inflammatory drugs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>weight (kilograms)</measure>
+    <time_frame>1 year</time_frame>
+    <description>Clinicopathological characteristics of patients with colorectal adenomas</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>height (meters)</measure>
+    <time_frame>1 year</time_frame>
+    <description>Clinicopathological characteristics of patients with colorectal adenomas</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The important high-risk factors of colorectal advanced adenoma</measure>
+    <time_frame>1 year</time_frame>
+    <description>The important high-risk factors with p value &lt; 0.05</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">3000</enrollment>
+  <condition>Colorectal Adenoma</condition>
+  <arm_group>
+    <arm_group_label>patients with colorectal advanced adenomas</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>patients without colorectal advanced adenomas</arm_group_label>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Confirmed eligible patients, 18 to 75 years of age, including cases with colorectal&#xD;
+        advanced adenomas and controls without colorectal advanced adenomas, are enrolled in this&#xD;
+        study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients aged ≥18 and ≤75 years old. Patients with complete data on demography and&#xD;
+             clinicopathology.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with a history of inflammatory bowel disease, enterophthisis, familial&#xD;
+             adenomatous polyposis, P-J syndrome and intestinal lymphoma.&#xD;
+&#xD;
+        Patients with a previous history of colorectal neoplasm. Patients with a history of severe&#xD;
+        systemic diseases. Lack of complete clinical data for analysis.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Hong Zhu, MD</last_name>
+    <email>zhuhong1059@126.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital with Nanjing Medical University</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <zip>210029</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hong Zhu, MD</last_name>
+      <email>zhuhong1059@126.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <reference>
+    <citation>Betés M, Muñoz-Navas MA, Duque JM, Angós R, Macías E, Súbtil JC, Herraiz M, De La Riva S, Delgado-Rodríguez M, Martínez-González MA. Use of colonoscopy as a primary screening test for colorectal cancer in average risk people. Am J Gastroenterol. 2003 Dec;98(12):2648-54.</citation>
+    <PMID>14687811</PMID>
+  </reference>
+  <reference>
+    <citation>Wong MC, Lam TY, Tsoi KK, Hirai HW, Chan VC, Ching JY, Chan FK, Sung JJ. A validated tool to predict colorectal neoplasia and inform screening choice for asymptomatic subjects. Gut. 2014 Jul;63(7):1130-6. doi: 10.1136/gutjnl-2013-305639. Epub 2013 Sep 17.</citation>
+    <PMID>24045331</PMID>
+  </reference>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>November 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 9, 2021</study_first_posted>
+  <last_update_submitted>December 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Adenoma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

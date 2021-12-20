@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2089">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05133973</url>
+  </required_header>
+  <id_info>
+    <org_study_id>P-4.7-C-01</org_study_id>
+    <nct_id>NCT05133973</nct_id>
+  </id_info>
+  <brief_title>Feasibility Study of a Transdermal Continuous Glucose Monitoring (CGM) System in Diabetic Patients</brief_title>
+  <official_title>Effectiveness and Safety Study to Investigate the Improved FiberSense Continuous Glucose Monitoring System in Diabetic Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>EyeSense GmbH</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>EyeSense GmbH</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A single centered, prospective, double blinded study enrolling 12 Type I diabetic patients (+&#xD;
+      up to 4 replacements) in two cohorts. Patients will wear multiple FiberSense CGM systems for&#xD;
+      28 days, with total duration of the participation up to 8 weeks (screening + active phase +&#xD;
+      follow up).&#xD;
+&#xD;
+      The primary aims of the study are assessment of the safety and tolerability of the FiberSense&#xD;
+      CGM system during the wearing time together with characterization of the system performance&#xD;
+      when compared to capillary blood samples.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The FiberSense system is intended to be used by diabetic patients in a home use setting as a&#xD;
+      CGM system using the interstitial fluid (ISF) glucose as an indicator of blood glucose&#xD;
+      levels.The purpose of this study is to assess the performance of FiberSense system across the&#xD;
+      glucose measurement ranges as compared with a laboratory standard reference method in&#xD;
+      diabetic patients (Type I) during in-clinic glucose challenge sessions. At the same time and&#xD;
+      also at home use the blood glucose values are recorded by comparator system and&#xD;
+      self-monitoring blood glucose system (SMBG). The safety aspects are also investigated during&#xD;
+      the wearing time of 28 days.&#xD;
+&#xD;
+      The two cohorts differ in the measurement scheduled, with intensive measurement week either&#xD;
+      at week 1 (cohort A) or week 2 (cohort B).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 23, 2021</start_date>
+  <completion_date type="Anticipated">March 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Performance of the FiberSense system as compared with laboratory gold standard reference (LGSR)</measure>
+    <time_frame>6 measurements within 28 days</time_frame>
+    <description>Point accuracy of the FiberSense system as determined by proportion of CGM readings within ≤15% of the LGSR reading for blood glucose levels &gt;100 mg/dl, and within ≤15 mg/dl of the LGSR reading for blood glucose levels ≤100 mg/dl (15/15%), for paired samples taken during the in-clinic sessions.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence and severity of device related adverse events (ADE)</measure>
+    <time_frame>28 days</time_frame>
+    <description>Incidence of reported ADE with focus on number of patients experiencing serious ADE, evaluated according Draize's scale (0 to 4 - for none to severe findings)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>FiberSense System agreement to LGSR within different glucose ranges</measure>
+    <time_frame>6 measurements within 28 days</time_frame>
+    <description>The percentage of FiberSense CGM system readings within metrics 20/20%, 30/30%, 40/40% and greater than 40% of the laboratory reference values</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Point Clinical accuracy (Consensus and Surveillance Error Grid)</measure>
+    <time_frame>6 measurements within 28 days</time_frame>
+    <description>Analyze the proportion of readings in each region of two Grids. Readings in various regions are considered from clinically accurate or with clinically acceptable accuracy to inaccurate to various degrees.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Accuracy of glucose rate of change of FiberSense System during glucose excursions</measure>
+    <time_frame>6 measurements within 28 days</time_frame>
+    <description>Mean and Median Absolute Relative Differences (MARD, MedRD) of FiberSense measured glucose from laboratory reference values, evaluated at various glucose dynamics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Agreement and accuracy relative to SMBG readings at home use</measure>
+    <time_frame>6 measurements within 28 days</time_frame>
+    <description>Performance of FiberSense System evaluated as percentage of system readings within 15%, 20%, 30% and 40% of SMBG values</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Precision of the FiberSense System (PARD) for arm-arm and arm-abdomen positions</measure>
+    <time_frame>6 measurements within 28 days</time_frame>
+    <description>Precision Absolute Relative Difference (PARD) of two simultaneously worn FiberSense Systems by one patient, for same body parts and two different insertion sites</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>FiberSense System stability</measure>
+    <time_frame>weekly during 28 days</time_frame>
+    <description>Percentage of FiberSense System readings within various % of the LGSR values</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>FiberSense System Longevity</measure>
+    <time_frame>28 days</time_frame>
+    <description>Duration of use of the individual FiberSense devices</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>User satisfaction questionnaire score</measure>
+    <time_frame>after 28 days</time_frame>
+    <description>Subjective impression of the patients assessed by 5-point Likert scale (1 - strongly agree to 5 - strongly disagree)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Diabetes</condition>
+  <arm_group>
+    <arm_group_label>Cohort A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will wear 3 FiberSense systems (2x arm and 1x abdomen) and one comparator. The subjects will participate in six clinic in-house sessions on Day 00, 3x between days 01-07, on Days 21 and 28. There will be safety visit at Day 14.&#xD;
+Finger pricking at home use will be intensified during days 00-07.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will wear 3 FiberSense systems (2x arm and 1x abdomen) and one comparator. The subjects will participate in six clinic in-house sessions on Day 00, 4x between days 07-14 and on Day 28. There will be safety visit at Day 21.&#xD;
+Finger pricking at home use will be intensified during days 07-14.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>FiberSense CGM</intervention_name>
+    <description>FiberSense system, a novel CGM system, based on a fiber-optical sensor placed through the dermis of the patient.</description>
+    <arm_group_label>Cohort A</arm_group_label>
+    <arm_group_label>Cohort B</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female age ≥ 18 and &lt; 65 years old.&#xD;
+&#xD;
+          2. Diabetes mellitus type I requiring insulin in the management of glucose control for at&#xD;
+             least one year prior to enrollment.&#xD;
+&#xD;
+          3. Women who are not pregnant, lactating or planning a pregnancy during their&#xD;
+             participation in the clinical study. If of child bearing potential, the patient must&#xD;
+             agree to abstain from sexual intercourse or use reliable forms of contraception (e.g.&#xD;
+             condom or diaphragm with spermicide or oral contraceptives) to prevent pregnancy for&#xD;
+             the length of the clinical study.&#xD;
+&#xD;
+          4. Willingness, ability and commitment to comply with the testing, procedure and&#xD;
+             follow-up outlined in this protocol including (but not limited to) frequency of clinic&#xD;
+             visits, use of pre-specified glucose monitoring devices.&#xD;
+&#xD;
+          5. In the opinion of the investigator, absence of any physical limitations, addictive&#xD;
+             diseases, or underlying medical conditions (including mental health) that may preclude&#xD;
+             the patient from being a good study candidate.&#xD;
+&#xD;
+          6. For the time of the wearing phase willingness to abstain from taking a sauna, bathing,&#xD;
+             swimming, diving and contact sport activities.&#xD;
+&#xD;
+          7. Written informed consent to participate in the study provided by the patient.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Persons who use medication containing icodextrine or maltose and which can result in&#xD;
+             icodextrine or maltose present in blood (dialysis solutions, antibody medications&#xD;
+             etc.), anamnesis based.&#xD;
+&#xD;
+          2. Persons on peritoneal dialysis.&#xD;
+&#xD;
+          3. History of significant hypoglycemia unawareness, or a history of severe hypoglycemia&#xD;
+             (requiring emergency medical intervention) within the last 6 months.&#xD;
+&#xD;
+          4. Currently pregnant, as demonstrated by a positive pregnancy test at screening and/or&#xD;
+             Day00 prior to enrolment.&#xD;
+&#xD;
+          5. Any active acute or chronic infectious disease that, in the opinion of the&#xD;
+             investigator, might interfere with the performance of this study or would pose an&#xD;
+             excessive risk to study staff (e.g., Hepatitis B and C, HIV).&#xD;
+&#xD;
+          6. Extensive skin changes/diseases that preclude wearing the required number of devices&#xD;
+             on normal skin at the proposed application sites (e.g., extensive psoriasis, recent&#xD;
+             burns or severe sunburn, extensive eczema, extensive scarring, extensive tattoos,&#xD;
+             dermatitis herpetiformis).&#xD;
+&#xD;
+          7. Have a known allergy to medical-grade adhesives, or known hypersensitivity to any of&#xD;
+             the products used in the study.&#xD;
+&#xD;
+          8. Blood donation of more than 500 ml within the last three months or hematocrit value&#xD;
+             &lt;30% or &gt; 50%.&#xD;
+&#xD;
+          9. Currently participating in another investigational study protocol where the testing or&#xD;
+             results may interfere with study compliance, diagnostic results, or data collection.&#xD;
+&#xD;
+         10. Has a MRI scan, CT scan, diathermy or a flight scheduled during the proposed study&#xD;
+             participation.&#xD;
+&#xD;
+         11. Has vaccination against COVID-19 scheduled during or less than 2 weeks prior to the&#xD;
+             proposed study participation.&#xD;
+&#xD;
+         12. An identified protected vulnerable patient (including but not limited to those in&#xD;
+             detention, or a prisoner).&#xD;
+&#xD;
+             With respect to COVID-19 pandemics, the presence of this disease or any comorbidities&#xD;
+             which would classify the patient in the risk population (based on CDC criteria):&#xD;
+&#xD;
+         13. Confirmed COVID-19 disease (anamnesis based)&#xD;
+&#xD;
+         14. Poorly controlled diabetes (HbA1C &gt; 7.5%)&#xD;
+&#xD;
+         15. Serious heart conditions or cardiovascular issues.&#xD;
+&#xD;
+         16. Chronic lung disease or moderate to severe asthma.&#xD;
+&#xD;
+         17. Immunocompromised persons&#xD;
+&#xD;
+         18. Severe obesity (BMI&gt; 40 kg/m2)&#xD;
+&#xD;
+         19. Liver disease&#xD;
+&#xD;
+         20. Kidney disease&#xD;
+&#xD;
+         21. People living in a nursing home or long-term care facilities&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gerhard Klausmann, Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Studienzentrum Aschaffenburg</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Study Manager</last_name>
+    <phone>+49 6026 942</phone>
+    <phone_ext>121</phone_ext>
+    <email>clinical_research@eyesense.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Studienzentrum Aschaffenburg</name>
+      <address>
+        <city>Aschaffenburg</city>
+        <state>Bavaria</state>
+        <zip>63739</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+    <investigator>
+      <last_name>Gerhard Klausmann, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Inga-Nadine Kummer, Dr.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 24, 2021</study_first_posted>
+  <last_update_submitted>November 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>diabetes management</keyword>
+  <keyword>continuous glucose monitoring</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

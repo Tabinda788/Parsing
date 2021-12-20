@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5674">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05087355</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AUTCOV-INFLU-STUDY</org_study_id>
+    <nct_id>NCT05087355</nct_id>
+  </id_info>
+  <brief_title>Health Status Prior and Post Infection With Influenza or COVID 19: a Population Based Retrospective Analysis of 2016-2021</brief_title>
+  <official_title>Health Status Prior and Post Infection With Influenza or COVID 19: a Population Based Retrospective Analysis of 2016-2021</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical University of Vienna</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Landesklinikum Sankt Polten</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sicknessfund Burgenland (BGKK)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>A.ö. Krankenhaus St. Josef Braunau GmbH</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Medical University of Vienna</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overall project aim is to study outcomes after COVID-19 and influenza hospitalisation&#xD;
+      from 2016 - 2021 by retrieving data from the main social security carriers in Austria for the&#xD;
+      years 2010-2018&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 1, 2016</start_date>
+  <completion_date type="Actual">August 31, 2021</completion_date>
+  <primary_completion_date type="Actual">August 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall Mortality</measure>
+    <time_frame>5 years</time_frame>
+    <description>Overall mortality after influenza or covid-19</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>age distribution</measure>
+    <time_frame>5 years</time_frame>
+    <description>age distribution in patients with influenza or covid-19</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>risk profile</measure>
+    <time_frame>5 years</time_frame>
+    <description>risk profile (e.g. prior diseases, medication) in patients who died due to influenza or covid-19</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>newly diagnosed diseases</measure>
+    <time_frame>5 years</time_frame>
+    <description>newly diagnosed diseases after influenza or covid-19</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>newly prescribed medication</measure>
+    <time_frame>5 years</time_frame>
+    <description>newly prescribed medication after influenza or covid-19</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>duration of hospitalisation or unemployability</measure>
+    <time_frame>5 years</time_frame>
+    <description>duration of hospitalisation or unemployability after influenza or covid-19</description>
+  </primary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Actual">440000</enrollment>
+  <condition>Covid 19</condition>
+  <condition>Influenza</condition>
+  <arm_group>
+    <arm_group_label>Influenza</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Covid 19</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <description>hospitalisation due to other disease (not influenza or Covid 19)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>PCR or antigen test for Covid 19 or Inluenza</intervention_name>
+    <description>PCR or antigen test for Covid 19 or Inluenza</description>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_label>Covid 19</arm_group_label>
+    <arm_group_label>Influenza</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients with or after Covid-19 or influenza between 2016-2021 in Austria will be&#xD;
+        included in this study&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with SARS&#xD;
+&#xD;
+          -  Patients with Covid-19&#xD;
+&#xD;
+          -  Patients after Covid-19&#xD;
+&#xD;
+          -  Patients with influenza&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  none&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 21, 2021</study_first_posted>
+  <last_update_submitted>October 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Medical University of Vienna</investigator_affiliation>
+    <investigator_full_name>Hendrik Jan Ankersmit</investigator_full_name>
+    <investigator_title>Principal Investigator/Univ. Prof. , MD, MBA</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Influenza, Human</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

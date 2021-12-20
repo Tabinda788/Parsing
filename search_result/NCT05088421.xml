@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5592">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05088421</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C001-2020-01</org_study_id>
+    <nct_id>NCT05088421</nct_id>
+  </id_info>
+  <brief_title>A First in Human Study of the Safety and Tolerability of Single and Multiple Doses of BWC0977 in Healthy Volunteers</brief_title>
+  <official_title>A Randomized, Double-blind, Placebo-controlled, Phase 1 Study of the Safety, Tolerability and Pharmacokinetics of Single and Multiple Ascending Doses of BWC0977 in Healthy Adult Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bugworks Research Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Avance Clinical Pty Ltd.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Bugworks Research Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the safety, tolerability and pharmacokinetics of&#xD;
+      single and multiple intravenous doses of BWC0977 when administered to healthy adult&#xD;
+      volunteers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This Phase 1 study is designed to assess the safety, tolerabilty and pharmcokinetics of&#xD;
+      single and multiple intravenous doses of BWC0977 when administered to healthy adult&#xD;
+      volunteers. This is a randomized double-blind, placebo-controlled, ascending dose,&#xD;
+      multi-cohort trial. A total of 64 healthy volunteers are expected to be enrolled into 8&#xD;
+      Cohorts. The study will be conducted in two phases: A single ascending dose (SAD) phase,&#xD;
+      followed by a multiple ascending dose (MAD) phase. In SAD, participants in Cohorts 1 - 5 will&#xD;
+      receive one dose of BWC0977 or placebo. In MAD, participants in Cohorts 6 - 8 will receive&#xD;
+      multiple doses of BWC0977 or placebo for 10 consecutive days at a dose deemed safe and&#xD;
+      tolerable as determined in the preceding SAD Cohorts. In both parts sequential cohorts will&#xD;
+      be exposed to increasing doses of BWC0977.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">November 5, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 29, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized, double-blind, placebo-controlled, combined single and multiple ascending dose (SAD and MAD) trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>Participants will be randomized in a 3:1 ratio of BWC0977 and Placebo. The following controls will be employed to maintain the double-blind status of the study Infusion solution containing active drug and placebo will be indistinguishable in appearance Randomization list will be provided to the study center pharmacist for dispensing purposes and kept in the pharmacy, accessible to the pharmacist and authorized personnel only PK results for the interim analyses between cohorts will be presented in a blinded fashion.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of treatment-emergent adverse events (TEAEs and serious adverse events (SAEs) overall and by intensity (Safety and tolerability).</measure>
+    <time_frame>SAD: Up to 7 days; MAD: Up to 15 days.</time_frame>
+    <description>This outcome combines the measure of the number of participants experiencing adverse events (AEs), the nature and severity of those AEs and their relationship to the study treatment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>AUC[0-t] of BWC0977 following single dose administration</measure>
+    <time_frame>Day 1 pre-dose, 5, 10,15, 20, 30, 45, 60, 75, and 90 minutes and 2, 2.5, 3, 4, 6, 8, 10, 12, 24 and 48 hours post infusion start</time_frame>
+    <description>Area under the plasma concentration curve from time zero to last time of quantifiable concentration (AUC[0-t]) of BWC0977 following single dose administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC[0-inf]) of BWC0977 following single dose administration</measure>
+    <time_frame>Day 1 pre-dose, 5, 10,15, 20, 30, 45, 60, 75, and 90 minutes and 2, 2.5, 3, 4, 6, 8, 10, 12, 24 and 48 hours post infusion start</time_frame>
+    <description>AUC from time zero to infinity (AUC[0-inf]) of BWC0977 following single dose administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC[0-8], AUC[0-12], AUC[0-24]) of BWC0977 following single dose administration</measure>
+    <time_frame>Day 1 pre-dose, 5, 10,15, 20, 30, 45, 60, 75, and 90 minutes and 2, 2.5, 3, 4, 6, 8, 10, 12, 24 and 48 hours post infusion start</time_frame>
+    <description>AUC from time zero to 8, 12, and 24 hours (AUC[0-8], AUC[0-12], AUC[0-24]) of BWC0977 following single dose administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax of BWC0977 following single dose administration</measure>
+    <time_frame>Day 1 pre-dose, 5, 10,15, 20, 30, 45, 60, 75, and 90 minutes and 2, 2.5, 3, 4, 6, 8, 10, 12, 24 and 48 hours post infusion start</time_frame>
+    <description>Maximum observed plasma concentration (Cmax) of BWC0977 following single dose administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax of BWC0977 following repeat dose administration</measure>
+    <time_frame>Day 1 pre-dose, 30, 60, 75, and 90 minutes and 2, 2.5, 3, 4, 6, and 8 hours post infusion start Days 5, 6, 7, 8, and 9: pre-dose Day 10 pre-dose, 30, 60, 75, and 90 minutes and 2, 2.5, 3, 4, 6, 8, 10, 12 and 24 hours post infusion start</time_frame>
+    <description>Maximum observed plasma concentration (Cmax) of BWC0977 following repeat dose administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Terminal half-life (T1/2)</measure>
+    <time_frame>Day 1 pre-dose, 5, 10,15, 20, 30, 45, 60, 75, and 90 minutes and 2, 2.5, 3, 4, 6, 8, 10, 12, 24 and 48 hours post infusion start</time_frame>
+    <description>Terminal half-life (T1/2) of BWC0977 following single dose administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Systemic clearance (CL) following single dose administration</measure>
+    <time_frame>Day 1 pre-dose, 5, 10,15, 20, 30, 45, 60, 75, and 90 minutes and 2, 2.5, 3, 4, 6, 8, 10, 12, 24 and 48 hours post infusion start</time_frame>
+    <description>Systemic clearance (CL) of BWC0977 following single dose administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Systemic clearance (CL) following repeat dose administration</measure>
+    <time_frame>Day 1 pre-dose, 30, 60, 75, and 90 minutes and 2, 2.5, 3, 4, 6, and 8 hours post infusion start Days 5, 6, 7, 8, and 9: pre-dose Day 10 pre-dose, 30, 60, 75, and 90 minutes and 2, 2.5, 3, 4, 6, 8, 10, 12 and 24 hours post infusion start</time_frame>
+    <description>Systemic clearance (CL) of BWC0977 following repeat dose administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Volume of distribution at steady state (Vdss) following single dose administration</measure>
+    <time_frame>Day 1 pre-dose, 5, 10,15, 20, 30, 45, 60, 75, and 90 minutes and 2, 2.5, 3, 4, 6, 8, 10, 12, 24 and 48 hours post infusion start</time_frame>
+    <description>Volume of distribution at steady state (Vdss) of BWC0977 following single dose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean residence time (MRT) following single dose administration</measure>
+    <time_frame>Day 1 pre-dose, 5, 10,15, 20, 30, 45, 60, 75, and 90 minutes and 2, 2.5, 3, 4, 6, 8, 10, 12, 24 and 48 hours post infusion start</time_frame>
+    <description>Mean residence time (MRT) of BWC0977 following single dose administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pre-dose (trough) concentration (Cτ) at the end of the dosing interval</measure>
+    <time_frame>Day 1 pre-dose, 30, 60, 75, and 90 minutes and 2, 2.5, 3, 4, 6, and 8 hours post infusion start Days 5, 6, 7, 8, and 9: pre-dose Day 10 pre-dose, 30, 60, 75, and 90 minutes and 2, 2.5, 3, 4, 6, 8, 10, 12 and 24 hours post infusion start</time_frame>
+    <description>Pre-dose (trough) concentration (Cτ) at the end of the dosing interval of BWC0977 following repeat dose administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Observed accumulation ratio following repeat dose administration</measure>
+    <time_frame>Day 1 pre-dose, 30, 60, 75, and 90 minutes and 2, 2.5, 3, 4, 6, and 8 hours post infusion start Days 5, 6, 7, 8, and 9: pre-dose Day 10 pre-dose, 30, 60, 75, and 90 minutes and 2, 2.5, 3, 4, 6, 8, 10, 12 and 24 hours post infusion start</time_frame>
+    <description>Observed accumulation ratio (Ro) of BWC0977 following repeat dose administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Volume of distribution at steady state following repeat dose administration</measure>
+    <time_frame>Day 1 pre-dose, 30, 60, 75, and 90 minutes and 2, 2.5, 3, 4, 6, and 8 hours post infusion start Days 5, 6, 7, 8, and 9: pre-dose Day 10 pre-dose, 30, 60, 75, and 90 minutes and 2, 2.5, 3, 4, 6, 8, 10, 12 and 24 hours post infusion start</time_frame>
+    <description>Volume of distribution at steady state (Vdss) of BWC0977 following repeat dose</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Amount excreted in urine (Ae) following repeat dose administration</measure>
+    <time_frame>Day 1 pre-dose, 0-8 hours post infusion start Day 10: 0-8 hours post infusion start</time_frame>
+    <description>Amount excreted in urine (Ae) of BWC0977 following repeat dose administration</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Amount excreted in urine (Ae) following single dose administration</measure>
+    <time_frame>Day 1 pre-dose, 0-2, 2-4, 4-8, 8-12, and 12-24 hours post infusion start</time_frame>
+    <description>Amount excreted in urine (Ae) of BWC0977 following single dose administration</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Fraction of the dose excreted in urine (fe) following single dose administration</measure>
+    <time_frame>Day 1 pre-dose, 0-2, 2-4, 4-8, 8-12, and 12-24 hours post infusion start</time_frame>
+    <description>Fraction of the dose excreted in urine (fe) of BWC0977 following single dose administration</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Fraction of the dose excreted in urine (fe) following repeat dose administration</measure>
+    <time_frame>Day 1 pre-dose, 0-8 hours post infusion start Day 10: 0-8 hours post infusion start</time_frame>
+    <description>Fraction of the dose excreted in urine (fe) of BWC0977 following repeat dose administration</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Renal Clearance (CLr) following single dose administration</measure>
+    <time_frame>Day 1 pre-dose, 0-2, 2-4, 4-8, 8-12, and 12-24 hours post infusion start</time_frame>
+    <description>Renal Clearance (CLr) of BWC0977 following single dose administration</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Renal Clearance (CLr) following repeat dose administration</measure>
+    <time_frame>Day 1 pre-dose, 0-8 hours post infusion start Day 10: 0-8 hours post infusion start</time_frame>
+    <description>Renal Clearance (CLr) of BWC0977 following repeat dose administration</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">64</enrollment>
+  <condition>Infectious Diseases</condition>
+  <condition>Bacterial Infections</condition>
+  <arm_group>
+    <arm_group_label>BWC0977</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SAD Cohorts: Subjects will receive single doses of BWC0977 via IV infusion over 2 hour. Planned doses to be studied are: 120, 240, 480 and 720. Dose for a planned 5th cohort will be determined based on the safety and tolerability data of preceding SAD Cohorts.&#xD;
+MAD Cohorts: Subjects will receive multiple doses of BWC0977 via IV infusion over 2 hour for 10 consecutive days. Up to three dose groups will be studied. Planned doses and frequencies will be confirmed based on the safety, tolerability and PK data of BWC0977 obtained in SAD Cohorts</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Compounded solution minus BWC0977 The placebo used during this study is 5% Dextrose for injection. SAD Cohorts: Subjects will receive single infusions of placebo (Compounded solution minus BWC0977) over two hour.&#xD;
+MAD Cohorts: Subjects will receive multiple infusions of placebo over 2 hour for 10 consecutive days. Frequency of infusions will be determined based on safety, tolerability and PK data obtained for BWC0977 in SAD Cohorts.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BWC0977</intervention_name>
+    <description>SAD Cohorts: Double-blind dosing will occur. Six participants will receive single doses of BWC0977. The dose escalation steps may be altered following review of the safety data upon completion of each cohort.&#xD;
+MAD Cohorts: Double blind dosing will occur. Six participants in each cohort will receive multiple doses of BWC0977. The dose escalation steps may be altered following review of the safety data upon completion of each cohort. Dosing will commence on the morning of Day 1. Dosing frequency to be confirmed based on safety, tolerability and PK data from SAD cohorts. Daily dosing will continue for a total of 10 consecutive days.</description>
+    <arm_group_label>BWC0977</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>SAD Cohorts: Two participants in each cohort will receive matching placebo. MAD Cohorts: Two participants in each cohort will receive matching placebo.</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Compounded solution minus BWC0977</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Each subject must meet all of the following criteria to be eligible for study&#xD;
+        participation:&#xD;
+&#xD;
+          1. Healthy male or female 18 to 55 years of age, inclusive, at time of consent.&#xD;
+&#xD;
+          2. Body mass index (BMI) ≥ 19.0 and ≤ 30.0 (kg/m2) and weight between 55.0 and 100.0 kg&#xD;
+             (inclusive).&#xD;
+&#xD;
+          3. Medically healthy without clinically significant abnormalities at the screening visit&#xD;
+             or Day -1, including:&#xD;
+&#xD;
+               1. No findings in Physical examination or vital signs (including temperature, heart&#xD;
+                  rate, respiratory rate, and blood pressure) that the Principal Investigator (PI)&#xD;
+                  determines would interfere with interpretation of study results.&#xD;
+&#xD;
+               2. Electrocardiograms (ECGs) without clinically significant abnormalities, including&#xD;
+                  a QT duration corrected for heart rate by Fridericia's formula (QTcF) interval&#xD;
+                  duration ≤450 msec (for males), and ≤470 msec (for females) obtained as an&#xD;
+                  average from the triplicate screening ECGs after at least 5 minutes in a supine&#xD;
+                  quiet-rest position.&#xD;
+&#xD;
+               3. Clinically significant abnormalities in the screening clinical laboratory tests,&#xD;
+                  as determined by the Investigator. Repeat testing could be performed at the&#xD;
+                  Investigator's discretion.&#xD;
+&#xD;
+          4. Willing&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Volunteers who meet any of the following criteria will be excluded from the study:&#xD;
+&#xD;
+          1. Women who are pregnant and/or nursing.&#xD;
+&#xD;
+          2. History or presence of significant cardiovascular (including QT prolongation,&#xD;
+             clinically significant hypokalemia, or other proarrhythmic conditions), pulmonary,&#xD;
+             hepatic, renal, hematological, gastrointestinal, endocrine (including glucose&#xD;
+             intolerance, diabetes mellitus), immunologic (including asthma or seasonal allergies&#xD;
+             [that require intermittent use of steroids or other medication]), musculoskeletal&#xD;
+             (including tendinopathy), dermatologic, or neurological disease (including seizure&#xD;
+             disorders, psychiatric disorders), including any acute illness or surgery within the&#xD;
+             past 3 months determined by the PI to be clinically relevant.&#xD;
+&#xD;
+          3. A serum creatinine value on Day -1 (check-in) that increased by more than 0.2 mg/dL&#xD;
+             (or 15.25 µmol/L) from the Screening value.&#xD;
+&#xD;
+          4. History of photosensitivity to quinolones.&#xD;
+&#xD;
+          5. History of known or suspected Clostridium difficile infection.&#xD;
+&#xD;
+          6. Any condition that necessitated hospitalisation within the 3 months prior to Day -1 or&#xD;
+             is likely to require so during the study.&#xD;
+&#xD;
+          7. Positive test for hepatitis B virus surface antigen (HBsAg), hepatitis C virus&#xD;
+             antibody (anti-HCV antibodies), or human immunodeficiency virus antibody (antibodies&#xD;
+             to HIV-1, HIV-2) or tuberculosis (TB) at screening.&#xD;
+&#xD;
+          8. Exposure to any prescription medications (small molecules, biologics including&#xD;
+             vaccines) or, systemically administered OTC drugs, dietary supplements or herbal&#xD;
+             remedies, within 30 days or 5 half-lives (if known), whichever is longer, prior to Day&#xD;
+             -1. Discussion between the PI and the Sponsor Medical Monitor is encouraged regarding&#xD;
+             prior use of any medications during the pre-dose period.&#xD;
+&#xD;
+             Note: An exception is made for hormonal contraceptives and a limited amount of&#xD;
+             paracetamol (a maximum of 4 doses per day of 500-mg paracetamol, and no more than 3 g&#xD;
+             per week) for the treatment of headache or any other pain.&#xD;
+&#xD;
+          9. Documented hypersensitivity reaction or anaphylaxis to any medication.&#xD;
+&#xD;
+         10. Smoker (including tobacco, e-cigarettes or marijuana) or nicotine user within 1 month&#xD;
+             prior to participation in the study&#xD;
+&#xD;
+         11. Positive urine drug/alcohol testing at screening or check-in (Day -1), or history of&#xD;
+             substance abuse or alcohol abuse (defined as greater than 2 standard drinks on average&#xD;
+             each and every day, where one standard drink is defined as containing 10 g of alcohol&#xD;
+             and is equivalent to 1 can or stubby of mid-strength beer, 30 ml nip spirits, or 100&#xD;
+             ml wine) within the previous 5 years (may be repeated once per timepoint, at the&#xD;
+             discretion of the PI, in the instance of a positive result).&#xD;
+&#xD;
+         12. Donation of blood or plasma within 30 days prior to randomization, or loss of whole&#xD;
+             blood of more than 500 mL within 30 days prior to randomization, or receipt of a blood&#xD;
+             transfusion within 1 year of study enrollment.&#xD;
+&#xD;
+         13. Previous participation in this study or previous participation in another study within&#xD;
+             5 half-lives (if known) of the agent, whichever is longer, of Day 1. Note: prior&#xD;
+             participation at any time in non-invasive methodology trials in which no drugs were&#xD;
+             given is acceptable.&#xD;
+&#xD;
+         14. Consumption of red wine, seville oranges, grapefruit or grapefruit juice, pummelos,&#xD;
+             other citrus fruits, grapefruit hybrids or fruit juices containing such products from&#xD;
+             7 days prior to the first dose of study medication.&#xD;
+&#xD;
+         15. Employee or family member of an employee of the Sponsor, CRU, or clinical research&#xD;
+             organization at which the study will be conducted.&#xD;
+&#xD;
+         16. Unable to cooperate fully with the requirements of the study protocol, including the&#xD;
+             schedule of assessments, or likely to be non-compliant with any study requirements.&#xD;
+&#xD;
+         17. Any disease or condition (medical or surgical) that, by the determination of the PI,&#xD;
+             precludes the subject's participation in the study or would place the subject at risk&#xD;
+             as a result of participation in the study.&#xD;
+&#xD;
+        Note: Volunteers should refrain from consumption of any foods containing poppy seeds within&#xD;
+        48 hours (2 days) prior to screening and prior to Day -1 to avoid false positive drug&#xD;
+        screen results&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Efforts will be made to randomize approximately equal numbers of males and females to either active or placebo in Part 1 and Part 2 (including both genders).</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Angela Molga, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CMAX Clinical Research</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Venkataraman Balasubramanian, PhD</last_name>
+    <phone>+91 98453 98063</phone>
+    <email>bala@bugworksresearch.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Harish Kaushik Kotakonda, PhD</last_name>
+    <phone>+91-9550288659</phone>
+    <email>harish@bugworksresearch.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>CMAX Clinical Research</name>
+      <address>
+        <city>Adelaide</city>
+        <state>South Australia</state>
+        <zip>5000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Angela Molga, MD</last_name>
+      <phone>+61 (0)413316205</phone>
+      <email>Angela.molga@sa.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Angela Molga, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 21, 2021</study_first_posted>
+  <last_update_submitted>October 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Safety</keyword>
+  <keyword>Tolerability</keyword>
+  <keyword>Pharmacokinetics</keyword>
+  <keyword>BWC0977</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Infections</mesh_term>
+    <mesh_term>Bacterial Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

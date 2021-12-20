@@ -1,0 +1,3684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8730">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05047601</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C4671006</org_study_id>
+    <secondary_id>2021-002894-24</secondary_id>
+    <secondary_id>EPIC-PEP</secondary_id>
+    <nct_id>NCT05047601</nct_id>
+  </id_info>
+  <brief_title>A Post-Exposure Prophylaxis Study of PF-07321332/Ritonavir in Adult Household Contacts of an Individual With Symptomatic COVID-19</brief_title>
+  <official_title>A PHASE 2/3, RANDOMIZED, DOUBLE-BLIND, DOUBLE-DUMMY, PLACEBO CONTROLLED STUDY TO EVALUATE THE SAFETY AND EFFICACY OF 2 REGIMENS OF ORALLY ADMINISTERED PF 07321332/RITONAVIR IN PREVENTING SYMPTOMATIC SARS-COV-2 INFECTION IN ADULT HOUSEHOLD CONTACTS OF AN INDIVIDUAL WITH SYMPTOMATIC COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pfizer</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the efficacy and safety of PF-07321332/ritonavir as&#xD;
+      postexposure prophylaxis for adult household contacts of a patient with COVID-19&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 9, 2021</start_date>
+  <completion_date type="Anticipated">March 2, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 2, 2022</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Eligible participants who are asymptomatic household contacts of an individual with symptomatic COVID-19 will be randomized (1:1:1) to receive orally every 12 hours:&#xD;
+PF-07321332/ritonavir for 5 days followed by placebo for 5 days or PF-07321332/ritonavir for 10 days or Placebo for 10 days</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double Blind Double Dummy</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of participants who have a negative reverse transcription polymerase chain reaction (RT-PCR) result at baseline who develop a symptomatic, RT-PCR confirmed SARS-CoV-2 infection.</measure>
+    <time_frame>Day 1 through Day 14</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants who experience adverse events</measure>
+    <time_frame>Day 1 through Day 38</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy in preventing symptomatic COVID-19 in participants who have a negative RT-PCR result at baseline and are at increased risk of severe COVID-19 illness</measure>
+    <time_frame>Day 1 through Day 14</time_frame>
+    <description>Proportion of participants with symptomatic, RT-PCR confirmed SARS-CoV-2 infection through Day 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy in preventing symptomatic COVID-19 in participants who have a negative RT-PCR result at baseline and are at increased risk of severe COVID-19 illness</measure>
+    <time_frame>Day 1 through Day 28</time_frame>
+    <description>Proportion of participants with COVID-19 related hospitalization or death from any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevention of SARS CoV-2 infection in participants by RT-PCR status at enrolment</measure>
+    <time_frame>Day 1 through Day 14</time_frame>
+    <description>Proportion of participants with symptomatic or asymptomatic, RT-PCR confirmed SARS-CoV-2 infection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevention of SARS CoV-2 infection in participants who have a negative RT-PCR result at baseline</measure>
+    <time_frame>Day 1 through Day 14</time_frame>
+    <description>Time to SARS-CoV-2 infection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Compare the duration of COVID-19 related signs and symptoms in participants who have a negative RT-PCR result at baseline</measure>
+    <time_frame>Day 1 through Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Compare the severity of COVID-19 related signs and symptoms in participants who have a negative RT-PCR result at baseline</measure>
+    <time_frame>Day 1 through Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Minimal Concentration (Ctrough) of PF-07321332</measure>
+    <time_frame>Day 1 post dose, Day 5 pre dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All cause mortality in participants who have a negative RT-PCR result at baseline</measure>
+    <time_frame>Day 1 through Day 38</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Viral titers measured via RT-PCR in nasal swabs in participants who have a negative RT-PCR result at baseline</measure>
+    <time_frame>Day 1 through Day 14</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days of hospital and intensive care unit stay in participants with COVID-19 related hospitalization who have a negative RT-PCR result at baseline</measure>
+    <time_frame>Day 1 through Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of COVID-19 related medical visits in participants who have a negative RT-PCR result at baseline</measure>
+    <time_frame>Day 1 through Day 28</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">2634</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>PF-07321332/ritonavir (5 days)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive PF-07321332/ritonavir every 12 hours from Day 1 through Day 5 followed by Placebo every 12 hours from Day 6 through Day 10</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PF-07321332/ritonavir (10-Day)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive PF-07321332/ritonavir every 12 hours from Day 1 through Day 10.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive placebo every 12 hours from Day 1 through Day 10.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PF-07321332</intervention_name>
+    <description>PF-07321332</description>
+    <arm_group_label>PF-07321332/ritonavir (10-Day)</arm_group_label>
+    <arm_group_label>PF-07321332/ritonavir (5 days)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo for PF-07321332</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>PF-07321332/ritonavir (5 days)</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo for Ritonavir</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>PF-07321332/ritonavir (5 days)</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ritonavir</intervention_name>
+    <description>Ritonavir</description>
+    <arm_group_label>PF-07321332/ritonavir (10-Day)</arm_group_label>
+    <arm_group_label>PF-07321332/ritonavir (5 days)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants who have a negative screening SARS-CoV-2 rapid antigen test result and&#xD;
+             who are asymptomatic household contacts with exposure within 96 hours to an individual&#xD;
+             who is symptomatic and recently tested positive for SARS CoV-2.&#xD;
+&#xD;
+          -  Fertile participants must agree to use a highly effective method of contraception&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of SARS-CoV-2 infection&#xD;
+&#xD;
+          -  Experiencing measured fever (documented temperature &gt;38˚C or 100.4˚F) or other signs&#xD;
+             or symptoms consistent with COVID-19&#xD;
+&#xD;
+          -  Known medical history of active liver disease&#xD;
+&#xD;
+          -  Chronic Kidney Disease or have known moderate to severe renal impairment.&#xD;
+&#xD;
+          -  Known Human Immunodeficiency Virus (HIV) infection with viral load &gt; 400 copies/ml&#xD;
+             within the last 6 months or taking prohibited medications for HIV treatment&#xD;
+&#xD;
+          -  Suspected or confirmed concurrent active systemic infection&#xD;
+&#xD;
+          -  Active cancer, other than localized skin cancer&#xD;
+&#xD;
+          -  Current or expected use of any medications or substances that are highly dependent on&#xD;
+             Cytochrome P450 3A4 (CYP3A4) for clearance or are strong inducers of CYP3A4&#xD;
+&#xD;
+          -  Has received approved, authorized, or investigational anti-SARS-CoV-2 mAb,&#xD;
+             convalescent plasma, other drugs for treatment of COVID-19, or other anti-SARS-CoV-2&#xD;
+             biologic products&#xD;
+&#xD;
+          -  Has received or is expected to receive a SARS-CoV-2 vaccine or other approved,&#xD;
+             authorized, or investigational postexposure prophylaxis treatments during the study&#xD;
+             period&#xD;
+&#xD;
+          -  Participating in another interventional clinical study with an investigational&#xD;
+             compound or device, including those for COVID-19&#xD;
+&#xD;
+          -  Known or prior participation in this trial or another trial involving PF-07321332.&#xD;
+&#xD;
+          -  Females who are pregnant or breastfeeding.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <phone>1-800-718-1021</phone>
+    <email>ClinicalTrials.gov_Inquiries@pfizer.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Cahaba Research Inc</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cahaba Research Inc</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cahaba Research, Inc.</name>
+      <address>
+        <city>Pelham</city>
+        <state>Alabama</state>
+        <zip>35124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Institute for Liver Health dba Arizona Clinical Trials</name>
+      <address>
+        <city>Mesa</city>
+        <state>Arizona</state>
+        <zip>85210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Institute for Liver Health dba Arizona Clinical Trials</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85712</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>KLR Business Group, Inc. dba Arkansas Clinical Research</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hope Clinical Research</name>
+      <address>
+        <city>Canoga Park</city>
+        <state>California</state>
+        <zip>91303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Lightship</name>
+      <address>
+        <city>El Segundo</city>
+        <state>California</state>
+        <zip>90245</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ascada Health PC</name>
+      <address>
+        <city>Fullerton</city>
+        <state>California</state>
+        <zip>92835</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ark Clinical Research</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>American Institute of Research</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Clinical Research</name>
+      <address>
+        <city>North Hollywood</city>
+        <state>California</state>
+        <zip>91606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>FOMAT Medical Research</name>
+      <address>
+        <city>Oxnard</city>
+        <state>California</state>
+        <zip>93030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Benchmark Research</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95864</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Optimus Medical Group</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>South Bay Clinical Research Institute</name>
+      <address>
+        <city>Torrance</city>
+        <state>California</state>
+        <zip>90503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hope Clinical Research (COVID Satellite Location)</name>
+      <address>
+        <city>West Hills</city>
+        <state>California</state>
+        <zip>91304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Future Innovative Treatments, LLC</name>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <zip>80907</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BRB Health Group DBA Broward Research Center</name>
+      <address>
+        <city>Aventura</city>
+        <state>Florida</state>
+        <zip>33180</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Synergy Healthcare</name>
+      <address>
+        <city>Bradenton</city>
+        <state>Florida</state>
+        <zip>34208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MOORE Clinical Research, Inc.</name>
+      <address>
+        <city>Brandon</city>
+        <state>Florida</state>
+        <zip>33511</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Innovative Research of West Florida, Inc.</name>
+      <address>
+        <city>Clearwater</city>
+        <state>Florida</state>
+        <zip>33756</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Herco Medical and Research Center Inc</name>
+      <address>
+        <city>Coral Gables</city>
+        <state>Florida</state>
+        <zip>33134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Advance Clinical Research Group</name>
+      <address>
+        <city>Cutler Bay</city>
+        <state>Florida</state>
+        <zip>33157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Beautiful Minds Clinical Research Center</name>
+      <address>
+        <city>Cutler Bay</city>
+        <state>Florida</state>
+        <zip>33157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Midland Florida Clinical Research Center, LLC</name>
+      <address>
+        <city>DeLand</city>
+        <state>Florida</state>
+        <zip>32720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Unlimited Medical Research Group, LLC</name>
+      <address>
+        <city>Hialeah Gardens</city>
+        <state>Florida</state>
+        <zip>33018</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Qway Research, LLC</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Eastern Research Inc</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Inpatient Research Clinic</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Doral Medical Research,LLC</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Pulmonary Research Institute</name>
+      <address>
+        <city>Loxahatchee Groves</city>
+        <state>Florida</state>
+        <zip>33470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Asclepes Research Centers</name>
+      <address>
+        <city>Lutz</city>
+        <state>Florida</state>
+        <zip>33549</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Pro-Care Research Center, Corp.</name>
+      <address>
+        <city>Miami Gardens</city>
+        <state>Florida</state>
+        <zip>33014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Lakes Research, LLC.</name>
+      <address>
+        <city>Miami Lakes</city>
+        <state>Florida</state>
+        <zip>33014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Savin Medical Group, LLC</name>
+      <address>
+        <city>Miami Lakes</city>
+        <state>Florida</state>
+        <zip>33014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Angels Clinical Research Institute</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nova Life Med Spa</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>LCC Medical Research Institute, LLC</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33126</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Premium Medical Research Corp</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33126</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Global Health Clinical Trials Corp</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33135</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>South Florida Research Center, Inc.</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33135</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Suncoast Research Group, LLC</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33135</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami Health System</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>I.V.A.M. Clinical &amp; Investigational Center, LLC</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33144</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Entrust Clinical Research</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33156</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Research of Westchester Inc</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33165</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>C'A Research</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33174</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ProLive Medical Research, Corp.</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33175</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Reed Medical Research</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33176</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kendall South Medical Center, Inc.</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33185</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Site Partners, Inc dba CSP Miami</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33186</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Coral Research Clinic Corp</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33186</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Omega Research Orlando</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32808</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NAPA Research LLC</name>
+      <address>
+        <city>Pompano Beach</city>
+        <state>Florida</state>
+        <zip>33064</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CDC Research Institute, LLC</name>
+      <address>
+        <city>Port Saint Lucie</city>
+        <state>Florida</state>
+        <zip>34952</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GCP, Global Clinical Professionals</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Florida</state>
+        <zip>33705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Accel Research Sites - St. Petersburg Clinical Research Unit</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Florida</state>
+        <zip>33709</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Professional Urgent Care Services</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Florida</state>
+        <zip>33710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USPA Advance Concept Medical Research Group LLC</name>
+      <address>
+        <city>South Miami</city>
+        <state>Florida</state>
+        <zip>33143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Asclepes Research Centers</name>
+      <address>
+        <city>Spring Hill</city>
+        <state>Florida</state>
+        <zip>34609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sunrise Research Institute</name>
+      <address>
+        <city>Sunrise</city>
+        <state>Florida</state>
+        <zip>33325</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tampa General Hospital</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Santos Research Center, CORP</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33615</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Palm Beach Research Center</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33409</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Site Partners, Inc</name>
+      <address>
+        <city>Winter Park</city>
+        <state>Florida</state>
+        <zip>32789</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research by Design, LLC</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60643</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The South Bend Clinic Center for Research</name>
+      <address>
+        <city>South Bend</city>
+        <state>Indiana</state>
+        <zip>46617</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Accellacare</name>
+      <address>
+        <city>Ames</city>
+        <state>Iowa</state>
+        <zip>50010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>McFarland Clinic, PC</name>
+      <address>
+        <city>Ames</city>
+        <state>Iowa</state>
+        <zip>50010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>WKB Family Medicine Associates</name>
+      <address>
+        <city>Bossier City</city>
+        <state>Louisiana</state>
+        <zip>71111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>New Orleans Sinus Center (COVID-19 Testing)</name>
+      <address>
+        <city>Marrero</city>
+        <state>Louisiana</state>
+        <zip>70072</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tandem Clinical Research GI, LLC</name>
+      <address>
+        <city>Marrero</city>
+        <state>Louisiana</state>
+        <zip>70072</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Southern Clinical Research Associates, LLC</name>
+      <address>
+        <city>Metairie</city>
+        <state>Louisiana</state>
+        <zip>70001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MedPharmics LLC</name>
+      <address>
+        <city>Metairie</city>
+        <state>Louisiana</state>
+        <zip>70006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Willis-Knighton Health System</name>
+      <address>
+        <city>Shreveport</city>
+        <state>Louisiana</state>
+        <zip>71118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Michigan Center of Medical Research</name>
+      <address>
+        <city>Farmington Hills</city>
+        <state>Michigan</state>
+        <zip>48334</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Jackson Medical Mall</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Lakeland Pharmacy</name>
+      <address>
+        <city>Branson W.</city>
+        <state>Missouri</state>
+        <zip>65737</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Price Cutter</name>
+      <address>
+        <city>Springfield</city>
+        <state>Missouri</state>
+        <zip>65802</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mercury Street Medical Group, PLLC</name>
+      <address>
+        <city>Butte</city>
+        <state>Montana</state>
+        <zip>59701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research, LLC</name>
+      <address>
+        <city>Grand Island</city>
+        <state>Nebraska</state>
+        <zip>68803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Quality Clinical Research Inc</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Quality Clinical Research</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Walmart</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Excel Clinical Research</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Walgreens</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AXCES Research Group</name>
+      <address>
+        <city>Santa Fe</city>
+        <state>New Mexico</state>
+        <zip>87505</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research, LLC</name>
+      <address>
+        <city>Endwell</city>
+        <state>New York</state>
+        <zip>13760</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NYC Health + Hospitals/Harlem</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Monroe Biomedical Research</name>
+      <address>
+        <city>Monroe</city>
+        <state>North Carolina</state>
+        <zip>28112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Accellacare</name>
+      <address>
+        <city>Wilmington</city>
+        <state>North Carolina</state>
+        <zip>28401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Innovo Research: Wilmington Health</name>
+      <address>
+        <city>Wilmington</city>
+        <state>North Carolina</state>
+        <zip>28401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Premier Medical Group</name>
+      <address>
+        <city>Clarksville</city>
+        <state>Tennessee</state>
+        <zip>37040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PharmaTex Research, LLC</name>
+      <address>
+        <city>Amarillo</city>
+        <state>Texas</state>
+        <zip>79109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARC Clinical Research at William Cannon</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78745</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St Hope Foundation</name>
+      <address>
+        <city>Bellaire</city>
+        <state>Texas</state>
+        <zip>77401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Conroe Willis Medical Research</name>
+      <address>
+        <city>Conroe</city>
+        <state>Texas</state>
+        <zip>77304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>South Texas Clinical Research</name>
+      <address>
+        <city>Corpus Christi</city>
+        <state>Texas</state>
+        <zip>78413</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SingnatureCare Emergency Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77008</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Trio Clinical Trials, LLC</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77008</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>C &amp; R Research Services USA</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77022</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Next Level Urgent Care</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SMS Clinical Research, LLC</name>
+      <address>
+        <city>Mesquite</city>
+        <state>Texas</state>
+        <zip>75149</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>LinQ Research, LLC</name>
+      <address>
+        <city>Pearland</city>
+        <state>Texas</state>
+        <zip>77584</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Epic Medical Research</name>
+      <address>
+        <city>Red Oak</city>
+        <state>Texas</state>
+        <zip>75154</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sun Research Institute</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Endeavor Clinical Trials, LLC</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BFHC Research</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78249</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tranquility Research</name>
+      <address>
+        <city>Webster</city>
+        <state>Texas</state>
+        <zip>77598</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah Medical Center</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>TPMG Clinical Research</name>
+      <address>
+        <city>Newport News</city>
+        <state>Virginia</state>
+        <zip>23606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Medico Viamonte SRL</name>
+      <address>
+        <city>Caba</city>
+        <state>Buenos Aires</state>
+        <zip>C1120AAC</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Investigaciones Clinicas Zarate</name>
+      <address>
+        <city>Zarate</city>
+        <state>Buenos Aires</state>
+        <zip>B2800DGH</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Médico de la Fundación Estudios Clínicos (Fundación Estudios Clínicos)</name>
+      <address>
+        <city>Rosario</city>
+        <state>Santa FE</state>
+        <zip>2000</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fundação de Medicina Tropical Doutor Heitor Vieira Dourado</name>
+      <address>
+        <city>Manaus</city>
+        <state>Amazonas</state>
+        <zip>69040-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Cardio Pulmonar</name>
+      <address>
+        <city>Salvador</city>
+        <state>Bahia</state>
+        <zip>40170-130</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chronos Pesquisa Clinica</name>
+      <address>
+        <city>Brasilia</city>
+        <state>Distrito Federal</state>
+        <zip>72145-450</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AMB3 Serviços Médicos Ltda</name>
+      <address>
+        <city>Cuiabá</city>
+        <state>MATO Grosso</state>
+        <zip>78055-085</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Luxemburgo - Associacao Mario Penna</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <state>MG</state>
+        <zip>30380-472</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Infection Control Ltda</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <state>Minas Gerais</state>
+        <zip>30110-063</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>School of Medicine Federal University of Minas Gerais</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <state>Minas Gerais</state>
+        <zip>30130-100</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Agamenon Magalhaes</name>
+      <address>
+        <city>Recife</city>
+        <state>Pernambuco</state>
+        <zip>52051-380</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Estudos e Pesquisas em Moléstias Infecciosas</name>
+      <address>
+        <city>Natal</city>
+        <state>RIO Grande DO Norte</state>
+        <zip>59025050</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital De Clinicas De Porto Alegre</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>RIO Grande DO SUL</state>
+        <zip>90035-903</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IBPClin- Instituto Brasil de Pesquisa Clinica</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <state>RJ</state>
+        <zip>20241-180</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Nacional de Infectologia Evandro Chagas - INI/FIOCRUZ</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <state>RJ</state>
+        <zip>21040-360</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CECOR - Centro Oncológico de Roraima</name>
+      <address>
+        <city>Boa Vista</city>
+        <state>Roraima/rr</state>
+        <zip>69304-015</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Estudos Clinicos do Interior Paulista (CECIP)</name>
+      <address>
+        <city>Jau</city>
+        <state>SAO Paulo</state>
+        <zip>17201-130</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Dia do Pulmao</name>
+      <address>
+        <city>Blumenau</city>
+        <state>SC</state>
+        <zip>89030-101</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Regional Hans Dieter Schmidt (HRHDS)</name>
+      <address>
+        <city>Joinville</city>
+        <state>SC</state>
+        <zip>89227-680</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital e Maternidade Celso Pierro - PUC Campinas / Sociedade Campineira de Educação e Instruçã</name>
+      <address>
+        <city>Campinas</city>
+        <state>SP</state>
+        <zip>13060-904</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Pesquisare Saude S/S Ltda</name>
+      <address>
+        <city>Santo André</city>
+        <state>SP</state>
+        <zip>09080-110</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Alemao Oswaldo Cruz</name>
+      <address>
+        <city>São Paulo</city>
+        <state>SP</state>
+        <zip>01327-001</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Unidade Referenciada Oswaldo Cruz Vergueiro</name>
+      <address>
+        <city>São Paulo</city>
+        <state>SP</state>
+        <zip>01508-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Heliópolis</name>
+      <address>
+        <city>São Paulo</city>
+        <state>SP</state>
+        <zip>04231-030</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto D'Or de Pesquisa e Ensino / Hospital São Luiz Jabaquara</name>
+      <address>
+        <city>São Paulo</city>
+        <state>SP</state>
+        <zip>04321-120</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Scentryphar - Pesquisa Clínica</name>
+      <address>
+        <city>Campinas</city>
+        <state>SÃO Paulo</state>
+        <zip>13020-431</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Associação Evangélica de Campinas - Hospital Samaritano</name>
+      <address>
+        <city>Campinas</city>
+        <state>SÃO Paulo</state>
+        <zip>13041-304</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Pesquisa Clínica de Campinas</name>
+      <address>
+        <city>Campinas</city>
+        <state>SÃO Paulo</state>
+        <zip>13060-080</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Referência e Treinamento DST/AIDS</name>
+      <address>
+        <city>Sao Paulo</city>
+        <state>SÃO Paulo</state>
+        <zip>04121-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica de Alergia Martti Antila</name>
+      <address>
+        <city>Sorocaba</city>
+        <state>SÃO Paulo</state>
+        <zip>18040-425</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CPCLIN - Centro de Pesquisas Clinicas Ltda</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>01228-200</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Infectologia Emilio Ribas</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>01246-900</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Conjunto Hospitalar do Mandaqui</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>02401-400</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Doktor Brno s.r.o.</name>
+      <address>
+        <city>Brno</city>
+        <zip>602 00</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fakultni nemocnice Hradec Kralove</name>
+      <address>
+        <city>Hradec Kralove</city>
+        <zip>500 05</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MEDITRIAL s.r.o.</name>
+      <address>
+        <city>Jindrichuv Hradec III</city>
+        <zip>377 01</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Zdraví-Fit, s.r.o.</name>
+      <address>
+        <city>Protivín</city>
+        <zip>398 11</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nemocnice Slany</name>
+      <address>
+        <city>Slany</city>
+        <zip>274 01</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Trial Pharma Kft.</name>
+      <address>
+        <city>Bekescsaba</city>
+        <zip>5600</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Semmelweis University Varosmajori Sziv Es Ergyogyaszati Klinika</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1122</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Debreceni Egyetem Klinikai Kozpont Infektologiai Klinika</name>
+      <address>
+        <city>Debrecen</city>
+        <zip>4031</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Agria-Study Kft.</name>
+      <address>
+        <city>Eger</city>
+        <zip>3300</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Trial Pharma Kft.</name>
+      <address>
+        <city>Gyula</city>
+        <zip>5700</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medifarma-98 Kft.</name>
+      <address>
+        <city>Nyiregyhaza</city>
+        <zip>4400</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>International University of Health and Welfare Narita Hospital</name>
+      <address>
+        <city>Narita</city>
+        <state>Chiba</state>
+        <zip>286-8520</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rakuwakai Otowa Hospital</name>
+      <address>
+        <city>Kyoto-shi</city>
+        <state>Kyoto</state>
+        <zip>607-8062</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rinku General Medical Center</name>
+      <address>
+        <city>Izumisano</city>
+        <state>Osaka</state>
+        <zip>598-8577</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Denenchofu Family Clinic</name>
+      <address>
+        <city>Ota</city>
+        <state>Tokyo</state>
+        <zip>145-0071</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tokyo Shinagawa Hospital</name>
+      <address>
+        <city>Shinagawa-ku</city>
+        <state>Tokyo</state>
+        <zip>140-8522</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sekino Hospital</name>
+      <address>
+        <city>Toshimaku</city>
+        <state>Tokyo</state>
+        <zip>171-0014</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kyushu Medical Center</name>
+      <address>
+        <city>Fukuoka</city>
+        <zip>810-8563</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kyungpook National University Chilgok Hospital</name>
+      <address>
+        <city>Daegu</city>
+        <zip>41404</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Raja Perempuan Zainab II</name>
+      <address>
+        <city>Kota Bharu</city>
+        <state>Kelantan</state>
+        <zip>15586</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Klinik Kesihatan Greentown</name>
+      <address>
+        <city>Ipoh</city>
+        <state>Perak</state>
+        <zip>30450</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Seberang Jaya</name>
+      <address>
+        <city>Seberang Jaya</city>
+        <state>Pulau Pinang</state>
+        <zip>13700</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Miri</name>
+      <address>
+        <city>Miri</city>
+        <state>Sarawak</state>
+        <zip>98000</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Klinik Kesihatan Kuang</name>
+      <address>
+        <city>Sungai Buloh</city>
+        <state>Selangor</state>
+        <zip>48050</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>InfectoLab Consultorios de Especialidad en Infectologia</name>
+      <address>
+        <city>Tijuana</city>
+        <state>BAJA California</state>
+        <zip>22010</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Institute Saltillo S.A. de C.V.</name>
+      <address>
+        <city>Saltillo</city>
+        <state>Coahuila</state>
+        <zip>25020</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Investigacion Clinica Del Pacifico SA de CV</name>
+      <address>
+        <city>Acapulco de Juarez</city>
+        <state>Guerrero</state>
+        <zip>39670</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Asociacion Mexicana para la Investigacion Clinica, A. C.</name>
+      <address>
+        <city>Pachuca de Soto</city>
+        <state>Hidalgo</state>
+        <zip>42070</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Jalisciense de Metabolismo, S.C.</name>
+      <address>
+        <city>Guadalajara</city>
+        <state>Jalisco</state>
+        <zip>44670</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JM Research</name>
+      <address>
+        <city>Cuernavaca</city>
+        <state>Morelos</state>
+        <zip>62290</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Dr. Jose Eleuterio Gonzalez</name>
+      <address>
+        <city>Monterrey</city>
+        <state>Nuevo LEON</state>
+        <zip>64460</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Eukarya Pharmasite S.C.</name>
+      <address>
+        <city>Monterrey</city>
+        <state>Nuevo LEON</state>
+        <zip>64718</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Christus- Latam Hub Center of Excellence and Innovation Center S.C.</name>
+      <address>
+        <city>Monterrey</city>
+        <state>Nuevo LEÓN</state>
+        <zip>64060</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Oaxaca site management organization s.c</name>
+      <address>
+        <city>Oaxaca de Juarez</city>
+        <state>Oaxaca</state>
+        <zip>68000</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General de Culiacán &quot;Bernardo J. Gastélum&quot;</name>
+      <address>
+        <city>Culíacan</city>
+        <state>Sinaloa</state>
+        <zip>80230</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kohler &amp; Milstein Research S.A. de C.V.</name>
+      <address>
+        <city>Merida</city>
+        <state>Yucatan</state>
+        <zip>97070</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Eme Red Hospitalaria</name>
+      <address>
+        <city>Mérida</city>
+        <state>Yucatán</state>
+        <zip>97000</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Cardiologica Aguascalientes</name>
+      <address>
+        <city>Aguascalientes</city>
+        <zip>20230</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Investigaciones Clínicas para la Salud</name>
+      <address>
+        <city>Durango</city>
+        <zip>34000</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>FAICIC Clinical Research</name>
+      <address>
+        <city>Veracruz</city>
+        <zip>91900</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sociedad de Metabolismo y Corazon S.C.</name>
+      <address>
+        <city>Veracruz</city>
+        <zip>91900</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Arke SMO S.A. de C.V</name>
+      <address>
+        <city>Veracruz</city>
+        <zip>91910</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>KLIMED Marek Klimkiewicz</name>
+      <address>
+        <city>Bialystok</city>
+        <zip>15-704</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Krakowskie Centrum Medyczne</name>
+      <address>
+        <city>Krakow</city>
+        <zip>31-501</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Przychodnia Valeo Medical</name>
+      <address>
+        <city>Lodz</city>
+        <zip>94-004</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IRMED Ośrodek Badań Klinicznych</name>
+      <address>
+        <city>Piotrkow Trybunalski</city>
+        <zip>97-300</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tomasz Blicharski Lubelskie Centrum Diagnostyczne</name>
+      <address>
+        <city>Swidnik</city>
+        <zip>21-040</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>WIP Warsaw IBD Point Profesor Kierkus</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>00-728</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centrum Badań Klinicznych Piotr Napora Lekarze Spółka Partnerska</name>
+      <address>
+        <city>Wroclaw</city>
+        <zip>51-162</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ponce Medical School Foundation, Inc. CAIMED Center</name>
+      <address>
+        <city>Ponce</city>
+        <zip>00716</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Management Group Inc</name>
+      <address>
+        <city>Ponce</city>
+        <zip>00780</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Advance Medical Research Center</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00926</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kirovsk Interdistrict Hospital</name>
+      <address>
+        <city>Kirovsk</city>
+        <state>Leningrad Region</state>
+        <zip>187342</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>LLC Trekhgorka Medicine</name>
+      <address>
+        <city>Odintsovo</city>
+        <state>Moscow Region</state>
+        <zip>143005</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica UZI 4D</name>
+      <address>
+        <city>Pyatigorsk</city>
+        <state>Stavropol Region</state>
+        <zip>357502</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Barnaul City Hospital Number 5</name>
+      <address>
+        <city>Barnaul</city>
+        <zip>656045</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Korolev Medicine</name>
+      <address>
+        <city>Korolev</city>
+        <zip>141070</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>KDC &quot;Evromedservis&quot;, OJSC</name>
+      <address>
+        <city>Moscow</city>
+        <zip>115419</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>City Polyclinic #44</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>192071</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>LLC Strategic Medical Systems</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>194291</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>City Polyclinic No. 109</name>
+      <address>
+        <city>Saint-Petersburg</city>
+        <zip>192298</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>City Out-patient clinic #112</name>
+      <address>
+        <city>Saint-Petersburg</city>
+        <zip>195427</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>&quot;Research Center Eco-safety&quot; LLC</name>
+      <address>
+        <city>Saint-Petersburg</city>
+        <zip>196143</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>LLC Kurator</name>
+      <address>
+        <city>Saint-Petersburg</city>
+        <zip>196240</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>City Out-patient clinic #4</name>
+      <address>
+        <city>Saint-Petersburg</city>
+        <zip>199406</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>LLC Family clinic</name>
+      <address>
+        <city>Yekaterinburg</city>
+        <zip>620109</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Global Clinical Trials</name>
+      <address>
+        <city>Gqeberha</city>
+        <state>Eastern CAPE</state>
+        <zip>6014</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MERC Welkom</name>
+      <address>
+        <city>Welkom</city>
+        <state>FREE State</state>
+        <zip>9460</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Worthwhile Clinical Trials</name>
+      <address>
+        <city>Benoni</city>
+        <state>Gauteng</state>
+        <zip>1500</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>REIMED Vosloorus</name>
+      <address>
+        <city>Boksburg</city>
+        <state>Gauteng</state>
+        <zip>1475</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Lenasia Clinical Trial Centre</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <zip>1820</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>LCS Clinical Research</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <zip>1868</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Peermed CTC (Pty) Ltd T/A MERC Kempton</name>
+      <address>
+        <city>Kempton Park</city>
+        <state>Gauteng</state>
+        <zip>1619</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Midrand Medical Centre</name>
+      <address>
+        <city>Midrand</city>
+        <state>Gauteng</state>
+        <zip>1685</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>About Allergy (PTY) Ltd</name>
+      <address>
+        <city>Pretoria North</city>
+        <state>Gauteng</state>
+        <zip>0009</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Global Clinical Trials</name>
+      <address>
+        <city>Pretoria</city>
+        <state>Gauteng</state>
+        <zip>0001</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Botho ke Bontle Health Services</name>
+      <address>
+        <city>Pretoria</city>
+        <state>Gauteng</state>
+        <zip>0122</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Emmed Research</name>
+      <address>
+        <city>Pretoria</city>
+        <state>Gauteng</state>
+        <zip>0181</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Into Research</name>
+      <address>
+        <city>Pretoria</city>
+        <state>Gauteng</state>
+        <zip>0181</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Trial Systems (Pty) Ltd</name>
+      <address>
+        <city>Pretoria</city>
+        <state>Gauteng</state>
+        <zip>0186</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sandton Medical Clinic</name>
+      <address>
+        <city>Sandton</city>
+        <state>Gauteng</state>
+        <zip>2196</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>FCRN Clinical Trial Centre</name>
+      <address>
+        <city>Vereeniging</city>
+        <state>Gauteng</state>
+        <zip>1935</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dr PJ Sebastian Clinical Research Centre</name>
+      <address>
+        <city>Durban</city>
+        <state>Kwa-zulu Natal</state>
+        <zip>4092</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Synapta Clinical Research Center</name>
+      <address>
+        <city>Durban</city>
+        <state>Kwazulu Natal</state>
+        <zip>4001</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ahmed Al-Kadi Private Hospital</name>
+      <address>
+        <city>Mayville, Durban</city>
+        <state>Kwazulu-natal</state>
+        <zip>4091</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Private Practice - Dr. Jeevren Reddy</name>
+      <address>
+        <city>Stanger</city>
+        <state>Kwazulu-natal</state>
+        <zip>4449</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Limpopo Clinical Research Initiative</name>
+      <address>
+        <city>Thabazimbi</city>
+        <state>Limpopo</state>
+        <zip>0380</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NHC Thohoyandou CRS</name>
+      <address>
+        <city>Thohoyandou</city>
+        <state>Limpopo</state>
+        <zip>0950</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MERC Middelburg</name>
+      <address>
+        <city>Middelburg</city>
+        <state>Mpumalanga</state>
+        <zip>1055</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Madibeng Centre for Research</name>
+      <address>
+        <city>Brits</city>
+        <state>North WEST</state>
+        <zip>0250</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>TASK Applied Science</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western CAPE</state>
+        <zip>7405</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Red Zone Clinic</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western CAPE</state>
+        <zip>7530</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tiervlei Trial Centre</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western CAPE</state>
+        <zip>7530</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>TASK Eden</name>
+      <address>
+        <city>George</city>
+        <state>Western CAPE</state>
+        <zip>6530</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Be Part Research Pty (Ltd)</name>
+      <address>
+        <city>Paarl</city>
+        <state>Western CAPE</state>
+        <zip>7626</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Projects Research</name>
+      <address>
+        <city>Worcester</city>
+        <state>Western CAPE</state>
+        <zip>6850</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Synopsis Research</name>
+      <address>
+        <city>Claremont</city>
+        <zip>7708</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dr JM Engelbrecht Trial Site</name>
+      <address>
+        <city>Somerset West</city>
+        <zip>7130</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Far Eastern Memorial Hospital</name>
+      <address>
+        <city>New Taipei City</city>
+        <zip>220</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>China Medical University Hospital</name>
+      <address>
+        <city>Taichung</city>
+        <zip>40447</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Taichung Veterans General Hospital</name>
+      <address>
+        <city>Taichung</city>
+        <zip>407</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Taiwan University Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <zip>100229</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Taiwan University Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <zip>100</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Bangkok Centre Hotel</name>
+      <address>
+        <city>Bangrak</city>
+        <state>Bangkok</state>
+        <zip>10500</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chula Filed hospital, Chulalongkorn University Sport center (Chantanayingyong Gymnasium),</name>
+      <address>
+        <city>Pathum Wan District,</city>
+        <state>Bangkok</state>
+        <zip>10330</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Thai Red Cross Emerging Infectious Diseases (EDI) Clinic</name>
+      <address>
+        <city>Pathumwan,</city>
+        <state>Bangkok</state>
+        <zip>10330</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The HIV Netherlands Australia Thailand Research Collaboration (HIV-NAT),</name>
+      <address>
+        <city>Pathumwan</city>
+        <state>Bangkok</state>
+        <zip>10330</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Faculty of Medicine - Khon Kaen University</name>
+      <address>
+        <city>Muang</city>
+        <state>Khon Kaen</state>
+        <zip>40002</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Internal Medicine, Faculty of Medicine, Prince of Songkla University,</name>
+      <address>
+        <city>Hat Yai</city>
+        <state>Songkhla</state>
+        <zip>90110</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>King Chulalongkorn Memorial Hospital</name>
+      <address>
+        <city>Bangkok</city>
+        <zip>10330</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Faculty of Tropical Medicine, Mahidol University</name>
+      <address>
+        <city>Bangkok</city>
+        <zip>10400</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tropical Medicine Hospital</name>
+      <address>
+        <city>Bangkok</city>
+        <zip>10400</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ankara University Medical Faculty, Ibni-Sina Hospital</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06230</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hacettepe University Medical Faculty Hospital</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06230</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Akdeniz Universitesi Hastanesi</name>
+      <address>
+        <city>Antalya</city>
+        <zip>07059</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Istanbul University Istanbul Medical Faculty</name>
+      <address>
+        <city>Fatih / Istanbul</city>
+        <zip>34093</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gaziantep Universitesi Tip Fakultesi Sahinbey Uygulama ve Arastirma Hastanesi</name>
+      <address>
+        <city>Gaziantep</city>
+        <zip>27310</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Istanbul Yedikule Gogus Hastaliklari ve Gogus Cerrahisi Egitim Arastirma Hastanesi</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34020</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medipol Mega University Hospital</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34214</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Acibadem University Atakent Hospital</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34303</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Basaksehir Cam ve Sakura Sehir Hastanesi</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34480</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Izmir Suat Seren Chest Disease and Surgery Training and Research Hospital</name>
+      <address>
+        <city>Izmir</city>
+        <zip>35110</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kocaeli University Medical Faculty</name>
+      <address>
+        <city>Kocaeli</city>
+        <zip>41380</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mersin University Medical Faculty</name>
+      <address>
+        <city>Mersin</city>
+        <zip>33110</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sakarya University Training and Research Hospital</name>
+      <address>
+        <city>Sakarya</city>
+        <zip>54100</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Karadeniz Teknik Universitesi Farabi Hastanesi</name>
+      <address>
+        <city>Trabzon</city>
+        <zip>61080</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Communal Medical Enterprise &quot;Likarnya Prydniprovska&quot;</name>
+      <address>
+        <city>Kremenchuk</city>
+        <state>Poltava Region</state>
+        <zip>39600</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regional Communal Nonprofit Institution &quot;Chernivtsi Regional Clinical Hospital&quot;</name>
+      <address>
+        <city>Chernivtsi</city>
+        <zip>58001</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Communal non-commercial Enterprise &quot;City Central Clinical Hospital&quot; of Chernivtsi City Council</name>
+      <address>
+        <city>Chernivtsi</city>
+        <zip>58002</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Communal non-profit enterprise &quot;City Clinical Hospital #16&quot; of Dnipro City Council</name>
+      <address>
+        <city>Dnipro</city>
+        <zip>49069</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Municipal Nonprofit Enterprise &quot;Ivano-Frankivsk Regional Clinical Infectious Diseases Hospital of</name>
+      <address>
+        <city>Ivano-Frankivsk</city>
+        <zip>76007</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Communal nonprofit enterprise &quot;Central City Clinical Hospital of Ivano-Frankivsk City Council&quot;</name>
+      <address>
+        <city>Ivano-Frankivsk</city>
+        <zip>76018</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Municipal Non-profit Enterprise &quot;Ivano-Frankivsk Regional Phthisiopulmonology Center of</name>
+      <address>
+        <city>Ivano-Frankivsk</city>
+        <zip>76018</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Municipal Nonprofit Enterprise &quot;City Student Hospital&quot; of Kharkiv City Council</name>
+      <address>
+        <city>Kharkiv</city>
+        <zip>61002</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Municipal Nonprofit Enterprise of Kharkiv Regional Council &quot;Regional Clinical Infectious Diseases</name>
+      <address>
+        <city>Kharkiv</city>
+        <zip>61096</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Municipal Nonprofit Enterprise &quot;City Clinic Hospital # 13&quot; of Kharkiv City Council</name>
+      <address>
+        <city>Kharkiv</city>
+        <zip>61124</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Municipal non-commercial enterprise &quot;Kyiv City Clinical Hospital #1&quot; Of Executive Body Of the Kyiv</name>
+      <address>
+        <city>Kyiv</city>
+        <zip>02091</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Polyclinic of Center for Medical Services and Rehabilitation of State Joint-Stock Holding Company</name>
+      <address>
+        <city>Kyiv</city>
+        <zip>04050</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Municipal non-profit enterprise of Lviv regional council &quot;Lviv regional phthisiopulmonology clinical</name>
+      <address>
+        <city>Lviv</city>
+        <zip>79000</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Municipal NonProfit Enterprise of the Lviv Regional Council Lviv Regional Information and Analytical</name>
+      <address>
+        <city>Lviv</city>
+        <zip>79008</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Municipal Nonprofit Enterprise &quot;Lviv City Clinic Hospital #4&quot;</name>
+      <address>
+        <city>Lviv</city>
+        <zip>79011</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Municipal Enterprise &quot;Poltava Regional Clinical Infectious Diseases Hospital&quot; of Poltava Regional</name>
+      <address>
+        <city>Poltava</city>
+        <zip>36011</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital of Sumy State University</name>
+      <address>
+        <city>Sumy</city>
+        <zip>40030</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Municipal Enterprise &quot;Volyn Regional Clinical Hospital&quot; of Volyn Regional Council</name>
+      <address>
+        <city>Tarasove Village</city>
+        <zip>45625</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Center of Private Enterprise &quot;Medical center INTERSONO&quot;</name>
+      <address>
+        <city>Uzhhorod</city>
+        <zip>88000</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Municipal Non-commercial Enterprise &quot;Vinnytsia City Clinical Hospital №1&quot;</name>
+      <address>
+        <city>Vinnytsia</city>
+        <zip>21029</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Communal Enterprise &quot;Hospital #1&quot; of Zhytomyr City Council</name>
+      <address>
+        <city>Zhytomyr</city>
+        <zip>10002</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Brazil</country>
+    <country>Czechia</country>
+    <country>Hungary</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Malaysia</country>
+    <country>Mexico</country>
+    <country>Poland</country>
+    <country>Puerto Rico</country>
+    <country>Russian Federation</country>
+    <country>South Africa</country>
+    <country>Taiwan</country>
+    <country>Thailand</country>
+    <country>Turkey</country>
+    <country>Ukraine</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://pmiform.com/clinical-trial-info-request?StudyID=C4671006</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 17, 2021</study_first_posted>
+  <last_update_submitted>November 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Severe acute respiratory syndrome coronavirus 2 (SARS-Cov-2)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ritonavir</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.</ipd_description>
+    <ipd_url>https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

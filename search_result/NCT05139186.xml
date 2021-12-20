@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1688">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05139186</url>
+  </required_header>
+  <id_info>
+    <org_study_id>3000</org_study_id>
+    <nct_id>NCT05139186</nct_id>
+  </id_info>
+  <brief_title>The EYE Study Enhancing the Diagnostic Yield of Standard Colonoscopy by Artificial Intelligence Aided Endoscopy</brief_title>
+  <acronym>EYE</acronym>
+  <official_title>The EYE Study: Enhancing the Diagnostic Yield of Standard Colonoscopy by Artificial Intelligence Aided Endoscopy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istituto Clinico Humanitas</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Istituto Clinico Humanitas</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Colorectal cancer (CRC) remains one of the leading causes of mortality among neoplastic&#xD;
+      diseases in the world[1] . Adequate colonoscopy based CRC screening programs have proved to&#xD;
+      be the key to reduce the risk of mortality, by early diagnosis of existing CRC and detection&#xD;
+      of pre-cancerous lesions[2-4] . Nevertheless, long-term effectiveness of colonoscopy is&#xD;
+      influenced by a range of variables that make it far from a perfect tool[5]. The effectiveness&#xD;
+      of a colonoscopy mainly depends on its quality, which in turn is dependent on the skill and&#xD;
+      expertise of the endoscopist. In fact, several studies have shown a significant adenoma miss&#xD;
+      rate of 24%-35%, especially in patients with diminutive adenomas[6,7] . These data are in&#xD;
+      line with interval cancers incidence (I-CRC), defined as the percentage of cancers diagnosed&#xD;
+      after a screening program and before the intended surveillance duration, of approximately&#xD;
+      3%-5% [8,9].&#xD;
+&#xD;
+      The development of the artificial intelligence (AI) applications in the medical field has&#xD;
+      grown in interest in the past decade. Its performance on increasing automatic polyp and&#xD;
+      adenoma detection has shown promising results in order to achieve an higher ADR[10]. The use&#xD;
+      of computer aided diagnosis (CAD) for detection of polyps had initially been studied in ex&#xD;
+      vivo studies but in the last few years, with the advancement in computer aided technology and&#xD;
+      emergence of deep learning algorithms, use of AI during colonoscopy has been achieved and&#xD;
+      more studies have been undertaken [10].&#xD;
+&#xD;
+      Recently Fujifilm (Tokyo, Japan) has developed a new technology known as &quot;CAD-EYE&quot; aiming to&#xD;
+      support both colonic polyp detection and characterization during colonoscopy. This technology&#xD;
+      is now available in Europe, being compatible with the latest generation of Fujifilm&#xD;
+      endoscopes (ELUXEO Fujifilm Co.).&#xD;
+&#xD;
+      However, the clinical impact of CAD-EYE system in improving the adenoma detection have yet to&#xD;
+      be assessed&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Adenoma per colonoscopy (APC)</measure>
+    <time_frame>9 Months</time_frame>
+    <description>APC, defined as the total number of histologically confirmed adenomas and carcinomas detected in the colonoscopy divided by the total number of colonoscopies.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Positive predictive value (PPV)</measure>
+    <time_frame>9 Months</time_frame>
+    <description>PPV, defined as the total number of histologically confirmed adenomas and carcinomas detected during the colonoscopy, divided by the total number of excisions in the colonoscopy.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1120</enrollment>
+  <condition>Artificial Intelligence</condition>
+  <arm_group>
+    <arm_group_label>WL+AI</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Colonoscopy in white light and artificial intelligence</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>WL</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Colonoscopy in white light</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Artificial Intelligence</intervention_name>
+    <description>Artificial intelligence</description>
+    <arm_group_label>WL</arm_group_label>
+    <arm_group_label>WL+AI</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - patients aged 45 or older undergoing average risk colonoscopy (screening) or follow-up&#xD;
+        colonoscopy for previous history of polyps (surveillance interval of 3 years or greater).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  subjects with personal history of CRC, or IBD.&#xD;
+&#xD;
+          -  subjects affected with Lynch syndrome or Familiar Adenomatous Polyposis.&#xD;
+&#xD;
+          -  patients with inadequate bowel preparation (defined as Boston Bowel Preparation Scale&#xD;
+             &lt; 2 in any colonic segment).&#xD;
+&#xD;
+          -  patients with previous colonic resection.&#xD;
+&#xD;
+          -  patients on antithrombotic therapy, precluding polyp resection.&#xD;
+&#xD;
+          -  patients who were not able or refused to give informed written consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Alessandro Repici, MD</last_name>
+    <phone>0039-02-82247493</phone>
+    <email>alessandro.repici@humanitas.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Department of Gastroenterology, Humanitas Research Hospital</name>
+      <address>
+        <city>Rozzano</city>
+        <state>Milano</state>
+        <zip>20089</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alessandro Repici, MD</last_name>
+      <phone>0039-02-82247493</phone>
+      <email>alessandro.repici@humanitas.it</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 1, 2021</study_first_posted>
+  <last_update_submitted>November 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

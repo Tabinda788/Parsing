@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5211">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05093374</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1672_2019</org_study_id>
+    <nct_id>NCT05093374</nct_id>
+  </id_info>
+  <brief_title>Treatment of Neovascular AMD: Artificial Intelligence in Real-world Setting</brief_title>
+  <official_title>Personalized Treatment Aided by Automated Analysis of Fluid in Active Neovascular Age-related Macular Degeneration (nAMD) in a Prospective, Multicenter, Randomized Study.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical University of Vienna</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Medical University of Vienna</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to implement quantitative assessment tools for the treatment of&#xD;
+      active neovascular AMD patients in a real-world setting in order to provide advantages for&#xD;
+      both patients (treatment burden) and healthcare system (scheduling visits/treatments).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Neovascular age-related macular degeneration (nAMD) is a significant burden to health care&#xD;
+      systems in industrialized countries. Due to its chronic nature, continuous follow-up and&#xD;
+      treatment is needed to prevent significant loss of visual function in patients with nAMD.&#xD;
+&#xD;
+      Vascular endothelial growth factor (VEGF) plays a major role in the pathomechanisms of nAMD&#xD;
+      and large multicenter trials have shown that intravitreal application of substances which&#xD;
+      intercept the VEGF pathway can interrupt the progression of nAMD and improve the visual&#xD;
+      outcome.&#xD;
+&#xD;
+      As every single injection bears the risk of sight-threatening complications and increases the&#xD;
+      financial burden to health care providers, several studies have tested different treatment&#xD;
+      regimens, to decrease the number of applicated injections without compromising the gains in&#xD;
+      visual acuity. Thereby, strict protocols have been compared to flexible &quot;as needed&quot; regimens&#xD;
+      (pro re nata, PRN) and regimens with proactive increments of injection intervals (treat and&#xD;
+      extend, T&amp;E).&#xD;
+&#xD;
+      Studies have indicated that the outcome of anti-VEGF treatment is better in standardized&#xD;
+      clinical trials than in so-called &quot;real world settings&quot;. This is explained by tight exclusion&#xD;
+      criteria of sponsored trials, the shorter follow-up time and the small number of patients&#xD;
+      that are treated per center, resulting in a better standard of care.&#xD;
+&#xD;
+      PRN as well as T&amp;E management showed disadvantages such as significant less vision gain in&#xD;
+      PRN and possible over treatment in T&amp;E.&#xD;
+&#xD;
+      Recently, additional treatment criteria were described to improve the patients care.&#xD;
+&#xD;
+      Advances in diagnostic precision by SD-OCT using automated algorithms to accurately measure&#xD;
+      fluid volumes in all compartments are solid tools to determine disease activity. They allow&#xD;
+      to precisely quantifying the impact of therapeutic parameters on disease activity.&#xD;
+&#xD;
+      Multicenter study analyses have shown that the amount of intraretinal fluid has a significant&#xD;
+      effect on vision outcome. Subretinal fluid or Pigmentepithelial detachment have been&#xD;
+      described to be less important. These findings were the basis for designing an efficient&#xD;
+      point-of-care management. Automated quantification of the fluid amount using artificial&#xD;
+      intelligence (AI) may serve as a reliable and objective method to determine the personalized&#xD;
+      point-of-care.&#xD;
+&#xD;
+      To prove the efficacy of point-of-care management, prospective studies in real-world settings&#xD;
+      are required. More data is required to assess the outcome of real-world settings and find&#xD;
+      ways to improve treatment results, when larger amounts of patients are treated and less&#xD;
+      resources are available for decision making.&#xD;
+&#xD;
+      The purpose of this study is to implement quantitative assessment tools for the treatment of&#xD;
+      neovascular AMD patients in a real-world setting in order to provide advantages for both&#xD;
+      patients (treatment burden) and healthcare system (scheduling visits/treatments).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 1, 2021</start_date>
+  <completion_date type="Anticipated">October 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2022</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Cohort 1: Quantitative assessment: Treatment decision with support of artificial intelligence software. (n=145) Cohort 2: Qualitative assessment: Treatment decision without support of artificial intelligence software. (n=145)</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Care Provider)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of injections</measure>
+    <time_frame>12 months</time_frame>
+    <description>Number of injections necessary within study period</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of injections Best-corrected visual acuity (BCVA) assessed by ETDRS Score</measure>
+    <time_frame>12 months</time_frame>
+    <description>Longitudinal changes within each group in ETDRS-BCVA and quantitative anatomic measurements in the macula assessed with noninvasive imaging</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Macular fluid volumes</measure>
+    <time_frame>12 months</time_frame>
+    <description>Changes in total amount of fluid in nanoliters within the central millimeter assessed with automated quantitative fluid measurement on noninvasive OCT imaging.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Formation of geographic-like macular atrophy</measure>
+    <time_frame>12 months</time_frame>
+    <description>Formation of geographic-like macular atrophy assessed by fundus photography with specials filters</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Formation of retinal tears</measure>
+    <time_frame>12 months</time_frame>
+    <description>Formation of retinal tears assessed by OCT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chorioretinal perfusion</measure>
+    <time_frame>12 months</time_frame>
+    <description>Chorioretinal perfusion (OCTA, ICG)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Perfusion of the neovascular lesion</measure>
+    <time_frame>12 months</time_frame>
+    <description>Perfusion of the neovascular lesion (OCTA, FA and ICG, SS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Life by Questionnaire</measure>
+    <time_frame>12 months</time_frame>
+    <description>Quality of Life assessed by Questionnaire NEI - VFQ 25</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Central retinal thickness</measure>
+    <time_frame>12 months</time_frame>
+    <description>Measurement of central retinal thickness in micrometers on noninvasive OCT imaging</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">290</enrollment>
+  <condition>Exudative Macular Degeneration</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1 - Quantitative</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will undergo monthly follow-up visits including fluid quantification and will be retreated in case of active disease, which is defined as:&#xD;
+reduction of 5 EDTRS letters or more related to any (suspected) neovascular activity compared to previous visit&#xD;
+new sub-retinal hemorrhage&#xD;
+increase &gt;50% in IRF volume in the central 1 mm compared to month 2&#xD;
+increase &gt; 50 % in SRF volume in the central 1 mm compared to month 2&#xD;
+in case of NO intra- and/or subretinal fluid (=less than 10nl) in visits 2 or 3, retreat if fluid in central 1mm ≥ 10nl&#xD;
+Presence/change of sub- and intraretinal fluid will be assessed objectively by AI software and the results will be provided during the visit to the investigator. The final decision for/against retreatment is always made by the discretion of the clinical investigator.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2 - Qualitative</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will undergo monthly follow-up visits. Treatment will be performed in case of active disease, which is defined as:&#xD;
+reduction of 5 EDTRS letters or more related to any (suspected) neovascular activity&#xD;
+new sub-retinal hemorrhage&#xD;
+any fluid&#xD;
+In this cohort the amount of retinal fluid will not be assessed by AI software at the time of retreatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>anti-VEGF agent</intervention_name>
+    <description>All patients will be treated at baseline. A loading dose of 2 additionally monthly treatments will be performed at months 1 and 2. Patients showing no intra- and/or subretinal fluid in the central 1mm subfield at month 1, no treatment will be given till any disease activity is documented.&#xD;
+Presence/change of sub- and intraretinal fluid will be assessed objectively by AI software and the results will be provided during the visit to the investigator. The final decision for/against retreatment is always made by the discretion of the clinical investigator. Should the Investigators decision differ from the study protocol, the reason will be indicated in the CRF.</description>
+    <arm_group_label>Cohort 1 - Quantitative</arm_group_label>
+    <other_name>Cohort 1 - Quantitative</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>anti-VEGF agent</intervention_name>
+    <description>All patients will be treated at baseline. A loading dose of 2 additionally monthly treatments will be performed at months 1 and 2. Patients showing no intra- and/or subretinal fluid in the central 1mm subfield at month 1, no treatment will be given till any disease activity is documented.&#xD;
+In this cohort the amount of retinal fluid will not be assessed by AI software at the time of retreatment.</description>
+    <arm_group_label>Cohort 2 - Qualitative</arm_group_label>
+    <other_name>Cohort 2 - Qualitative</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          -  Adults ≥ 50 years&#xD;
+&#xD;
+          -  Active neovascular AMD (classic, occult choroidal neovascularization (CNV), RAP lesion&#xD;
+             or PCV lesion) assessed by OCT, OCTA, FA&#xD;
+&#xD;
+          -  Patients who have a BCVA score better or equal 0.1 (20/200) in the study eye using&#xD;
+             ETDRS&#xD;
+&#xD;
+          -  No significant fibrosis or geographic atrophy (GA) involving the fovea&#xD;
+&#xD;
+          -  Willingness and ability to comply with study visits and study procedures&#xD;
+&#xD;
+          -  Signed informed consent form&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          -  Hypersensitivity to Fluoresceine, Ranibizumab, Aflibercept, Brolucizumab or to any of&#xD;
+             the excipients (Polysorbate 20, Sodium dihydrogen phosphate, monohydrate, Disodium&#xD;
+             hydrogen phosphate, heptahydrate, Sodium chloride, Sucrose)&#xD;
+&#xD;
+          -  Any surgical treatment of the eye within 3 months prior to baseline in the study eye&#xD;
+&#xD;
+          -  History of pseudophakic cystoid macular edema (Irvine Gass Syndrome)&#xD;
+&#xD;
+          -  History of glaucoma filtration surgery, corneal transplant surgery or extracapsular&#xD;
+             extraction of cataract with phacoemulsification within six months preceding Visit 0,&#xD;
+             or a history of post-operative complications within the last 12 months preceding Visit&#xD;
+             0 in the study eye (uveitis, cyclitis etc.)&#xD;
+&#xD;
+          -  History of uncontrolled glaucoma in the study eye (defined as intraocular pressure&#xD;
+             (IOP) ≥ 25 mmHg despite treatment with IOP lowering medication), or C/D Ratio &gt;0,9&#xD;
+&#xD;
+          -  Aphakia in the study eye&#xD;
+&#xD;
+          -  Presence of a retinal pigment epithelial tear involving the macula in the study eye&#xD;
+&#xD;
+          -  Any concurrent intraocular condition in the study eye (e.g. advanced cataract or&#xD;
+             diabetic retinopathy) that, in the opinion of the investigator, will most likely&#xD;
+             require medical or surgical intervention during the twelve-month study period to&#xD;
+             prevent or treat visual loss that might result from that condition&#xD;
+&#xD;
+          -  Active intraocular inflammation (grade trace or above) in the study eye&#xD;
+&#xD;
+          -  Active or suspected ocular or periocular infection in the study eye&#xD;
+&#xD;
+          -  Vitreous hemorrhage or history of rhegmatogenous retinal detachment or macular hole in&#xD;
+             the study eye&#xD;
+&#xD;
+          -  Current iris neovascularization, vitreous hemorrhage, or tractional retinal detachment&#xD;
+&#xD;
+          -  Evidence of current infectious blepharitis, keratitis, scleritis, or conjunctivitis in&#xD;
+             either eye&#xD;
+&#xD;
+          -  Any concurrent intraocular condition in the study eye that, in the opinion of the&#xD;
+             investigator, could cause an unwanted effect on treatment efficacy, compliance or&#xD;
+             require intraocular surgery (except for cataract surgery) during the study period&#xD;
+&#xD;
+          -  Presence of corneal decompensation, haze or scaring with an impact on BCVA&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stefan Sacu, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical University of Vienna, Dept. of Ophthalmology and Optometry</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Stefan Sacu, MD</last_name>
+    <phone>+43 1 40400</phone>
+    <phone_ext>79620</phone_ext>
+    <email>stefan.sacu@meduniwien.ac.at</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ursula Schmidt-Erfurth, MD</last_name>
+    <phone>+43 1 40400</phone>
+    <phone_ext>79310</phone_ext>
+    <email>ursula.schmidt-erfurth@meduniwien.ac.at</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Department of Ophthalmology, Medical University of Vienna, Austria</name>
+      <address>
+        <city>Vienna</city>
+        <zip>1090</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Stefan Sacu, Associate Professor, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Austria</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>June 12, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 26, 2021</study_first_posted>
+  <last_update_submitted>October 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Medical University of Vienna</investigator_affiliation>
+    <investigator_full_name>Stefan Sacu</investigator_full_name>
+    <investigator_title>Head of Vienna Clinical Trial Center, Dept. of Ophthalmology and Optometry</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Macular Degeneration</mesh_term>
+    <mesh_term>Wet Macular Degeneration</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bevacizumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7644">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05061732</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B2021-376</org_study_id>
+    <nct_id>NCT05061732</nct_id>
+  </id_info>
+  <brief_title>Helicobacter Pylori Eradication and Follow-up</brief_title>
+  <official_title>Helicobacter Pylori Eradication and Follow-up in Zhongshan Hospital</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanghai Zhongshan Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Shanghai Zhongshan Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This randomized controlled clinical trial will estimate the eradication efficacy of different&#xD;
+      therapy for Helicobacter pylori treatment. The completion of this trial will expand new&#xD;
+      therapy for the treatment of Helicobacter pylori, which can not only ensure clinical&#xD;
+      efficacy, but also reduce the use of antibiotics.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 30, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2026</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Eradication rate of Helicobacter pylori</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>Eradication of Helicobacter pylori was defined as negative result of urea breath test (&lt;4‰ cut-off value).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Eradication rate of Helicobacter pylori resistant strains</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>Eradication of Helicobacter pylori was defined as negative result of urea breath test (&lt;4‰ cut-off value). The antibiotic resistant strains were assessed using the E test method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Eradication rate of Helicobacter pylori susceptible strains</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>Eradication of Helicobacter pylori was defined as negative result of urea breath test (&lt;4‰ cut-off value). The antibiotic susceptible strains were assessed using the E test method.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Adherence rate</measure>
+    <time_frame>2 weeks during therapy</time_frame>
+    <description>The proportion of subjects with good adherence. Good adherence was defined as that subjects took more than 80% of the total medication.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Frequency of adverse events</measure>
+    <time_frame>2 weeks during therapy</time_frame>
+    <description>Any possible adverse events during the 14-day treatment period were recorded.</description>
+  </other_outcome>
+  <number_of_arms>10</number_of_arms>
+  <enrollment type="Anticipated">4447</enrollment>
+  <condition>Helicobacter Pylori Infection</condition>
+  <arm_group>
+    <arm_group_label>RBCL</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Rabeprazole 20 mg bid, bismuth potassium citrate 0.6 g bid, clarithromycin 0.5 g bid and levofloxacin 0.5 g qd for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>RBLM</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Rabeprazole 20 mg bid, bismuth potassium citrate 0.6 g bid, metronidazole 0.4 g qid and levofloxacin 0.5 g bid for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>RBCM</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Rabeprazole 20 mg bid, bismuth potassium citrate 0.6 g bid, metronidazole 0.4 g qid and clarithromycin 0.5 g bid for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>RA</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Rabeprazole 20 mg bid, and Amoxicillin 1.0 g tid for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>RAB</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Rabeprazole 20 mg bid, bismuth potassium citrate 0.6 g bid, and Amoxicillin 1.0 g tid for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>RAM</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Rabeprazole 20 mg bid, metronidazole 0.4 g tid, and Amoxicillin 1.0 g tid for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>RBAM</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Rabeprazole 20 mg bid, bismuth potassium citrate 0.6 g bid, metronidazole 0.4 g tid, and Amoxicillin 1.0 g tid for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>RBAM4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Rabeprazole 20 mg bid, bismuth potassium citrate 0.6 g bid, metronidazole 0.4 g qid, and Amoxicillin 1.0 g tid for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>RBDM</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Rabeprazole 20 mg bid, bismuth potassium citrate 0.6 g bid, metronidazole 0.4 g qid and doxycycline 0.1 g bid for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>RBTM</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Rabeprazole 20 mg bid, bismuth potassium citrate 0.6 g bid, metronidazole 0.4 g qid, and tetracycline 0.5 g qid for 14 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rabeprazole</intervention_name>
+    <description>20mg bid</description>
+    <arm_group_label>RA</arm_group_label>
+    <arm_group_label>RAB</arm_group_label>
+    <arm_group_label>RAM</arm_group_label>
+    <arm_group_label>RBAM</arm_group_label>
+    <arm_group_label>RBAM4</arm_group_label>
+    <arm_group_label>RBCL</arm_group_label>
+    <arm_group_label>RBCM</arm_group_label>
+    <arm_group_label>RBDM</arm_group_label>
+    <arm_group_label>RBLM</arm_group_label>
+    <arm_group_label>RBTM</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bismuth potassium citrate</intervention_name>
+    <description>0.6g bid</description>
+    <arm_group_label>RAB</arm_group_label>
+    <arm_group_label>RBAM</arm_group_label>
+    <arm_group_label>RBAM4</arm_group_label>
+    <arm_group_label>RBCL</arm_group_label>
+    <arm_group_label>RBCM</arm_group_label>
+    <arm_group_label>RBDM</arm_group_label>
+    <arm_group_label>RBLM</arm_group_label>
+    <arm_group_label>RBTM</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Metronidazole</intervention_name>
+    <description>0.4g qid</description>
+    <arm_group_label>RAM</arm_group_label>
+    <arm_group_label>RBAM</arm_group_label>
+    <arm_group_label>RBCM</arm_group_label>
+    <arm_group_label>RBLM</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Clarithromycin</intervention_name>
+    <description>0.5g bid</description>
+    <arm_group_label>RBCL</arm_group_label>
+    <arm_group_label>RBCM</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Levofloxacin</intervention_name>
+    <description>0.5g qd</description>
+    <arm_group_label>RBCL</arm_group_label>
+    <arm_group_label>RBLM</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Amoxicillin</intervention_name>
+    <description>1g tid</description>
+    <arm_group_label>RA</arm_group_label>
+    <arm_group_label>RAB</arm_group_label>
+    <arm_group_label>RAM</arm_group_label>
+    <arm_group_label>RBAM</arm_group_label>
+    <arm_group_label>RBAM4</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Metronidazole</intervention_name>
+    <description>0.4g tid</description>
+    <arm_group_label>RBAM4</arm_group_label>
+    <arm_group_label>RBDM</arm_group_label>
+    <arm_group_label>RBTM</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Doxycycline</intervention_name>
+    <description>0.1g bid</description>
+    <arm_group_label>RBDM</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tetracycline</intervention_name>
+    <description>0.5g qid</description>
+    <arm_group_label>RBTM</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participate in the trial voluntarily, fully understand the trial, and sign the&#xD;
+             informed consent form (ICF).&#xD;
+&#xD;
+          -  18-75 years old on the day of signing the ICF.&#xD;
+&#xD;
+          -  Helicobacter pylori infection confirmed by 13C-urea breath test or rapid urease test.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with severe heart, lung, kidney, liver, blood, nerve, endocrine, and&#xD;
+             psychiatric diseases.&#xD;
+&#xD;
+          -  Subjects or guardians refused to participate in the trial.&#xD;
+&#xD;
+          -  Alcohol and/or drugs Abuse (addiction or dependence) or poor compliance with doctor's&#xD;
+             judgment.&#xD;
+&#xD;
+          -  Have taken antibiotics, bismuth, proton pump inhibitors or Chinese traditional&#xD;
+             medicine 4 weeks before treatment.&#xD;
+&#xD;
+          -  Pregnant or lactating women.&#xD;
+&#xD;
+          -  Active peptic ulcer.&#xD;
+&#xD;
+          -  allergic to drugs used in the trial.&#xD;
+&#xD;
+          -  any other circumstances that are not suitable for recruitment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Taotao Liu, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fudan University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Qi Chen, MD</last_name>
+    <phone>86-17811921405</phone>
+    <email>chenqimd@163.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Zhongshan Hospital, Fudan University</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200032</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Qi Chen, MD</last_name>
+      <phone>86-18817821405</phone>
+      <email>chenqimd@163.com</email>
+    </contact>
+    <investigator>
+      <last_name>Taotao Liu, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Qi Chen, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ying Fang, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Hao Wu, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ruyuan Deng, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 30, 2021</study_first_posted>
+  <last_update_submitted>September 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Amoxicillin</mesh_term>
+    <mesh_term>Metronidazole</mesh_term>
+    <mesh_term>Clarithromycin</mesh_term>
+    <mesh_term>Doxycycline</mesh_term>
+    <mesh_term>Levofloxacin</mesh_term>
+    <mesh_term>Tetracycline</mesh_term>
+    <mesh_term>Potassium Citrate</mesh_term>
+    <mesh_term>Rabeprazole</mesh_term>
+    <mesh_term>Bismuth</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data that underlie the results reported in this article, after deidentification (text, tables, figures, and appendices) will be available from the principal investigator Taotao Liu at liu.taotao@zs-hospital.sh.cn, beginning 6 months and ending 5 years after the trial results were published. The study protocol and statistical analysis plan are available online from https://clinicaltrials.gov/. All proposals requesting data access will need to specify how it is planned to use the data, and all proposals will need approval of all investigators before data release.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>Beginning 6 months and ending 5 years after the trial results were published.</ipd_time_frame>
+    <ipd_access_criteria>All proposals requesting data access will need to specify how it is planned to use the data, and all proposals will need approval of all investigators before data release.</ipd_access_criteria>
+    <ipd_url>http://clinicaltrials.gov/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5866">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05084859</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SM08502-ONC-03</org_study_id>
+    <nct_id>NCT05084859</nct_id>
+  </id_info>
+  <brief_title>A Study Evaluating the Safety, Pharmacokinetics, and Preliminary Efficacy of Orally Administered SM08502 Combined With Hormonal Therapy or Chemotherapy in Subjects With Advanced Solid Tumors</brief_title>
+  <official_title>A Phase 1b, Open-Label, Dose-Escalation, Dose-Expansion Study Evaluating the Safety, Pharmacokinetics, and Efficacy of Orally Administered SM08502 Combined With Hormonal Therapy or Chemotherapy in Subjects With Advanced Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Biosplice Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Biosplice Therapeutics, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is an open-label, multi-center, dose-escalation, dose expansion study in adult&#xD;
+      subjects with advanced solid tumors. The study will evaluate the safety, tolerability, PK,&#xD;
+      and preliminary anti-tumor efficacy of SM08502 administered orally (PO), once daily (QD),&#xD;
+      following a 5 days on 2 days off treatment schedule in combination with chemotherapy or&#xD;
+      hormonal therapy. Alternative dosing schedules may be explored in Part 1 if necessary. The&#xD;
+      recommended Part 2 dose and schedule for each combination will then be further evaluated in&#xD;
+      the Part 2 expansion.&#xD;
+&#xD;
+      Dosing will occur in 21- or 28-day cycles (depending on the combination partner) and&#xD;
+      treatment with SM08502 will continue within each subject unless treatment is discontinued due&#xD;
+      to toxicity, disease progression, initiation of a new anti-neoplastic therapy, withdrawal of&#xD;
+      consent, the Sponsor terminates the study, or the subject no longer meets retreatment&#xD;
+      criteria.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 3, 2021</start_date>
+  <completion_date type="Anticipated">July 2026</completion_date>
+  <primary_completion_date type="Anticipated">July 2026</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Part 1 - Incidence of Treatment Emergent Adverse Events (TEAEs)</measure>
+    <time_frame>Consent date to approximately 56 days after last patient dose.</time_frame>
+    <description>As measured by NCI CTCAE version 5.0.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 1 - Maximum tolerated dose (MTD) of SM08502 when combined with standard of care agents.</measure>
+    <time_frame>DLT period of 28 days per dose level</time_frame>
+    <description>Based on frequency and severity of dose-limiting toxicities (DLTs).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 1 - Blood samples for measurement of the plasma levels of SM08502 and its metabolite</measure>
+    <time_frame>Sample collection timepoints: Cycle1 (Day1 (0,2,4,6, hrs), Day2, Day8, Day15, Day22) Cycle 2 (Day1, Day2) Cycle3-5 (Day1) and EOT. Each cycle is 21 or 28 days depending on tumor type.</time_frame>
+    <description>Maximum (Cmax) and minimum (Cmin) Plasma concentration of SM08502 and its metabolite SM08955.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 1 - Blood samples for measurement of the plasma levels of SM08502 and its metabolite</measure>
+    <time_frame>Sample collection timepoints: Cycle1 (Day1 (0,2,4,6, hrs), Day2, Day8, Day15, Day22) Cycle 2 (Day1, Day2) Cycle3-5 (Day1) and EOT. Each cycle is 21 or 28 days depending on tumor type.</time_frame>
+    <description>Area under the plasma concentration time curve (AUC) from zero to 24 hours: AUC0-24 for SM08502 and its metabolite SM08955</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 1 - Blood samples for measurement of the plasma levels of SM08502 and its metabolite</measure>
+    <time_frame>Sample collection timepoints: Cycle1 (Day1 (0,2,4,6, hrs), Day2, Day8, Day15, Day22) Cycle 2 (Day1, Day2) Cycle3-5 (Day1) and EOT. Each cycle is 21 or 28 days depending on tumor type.</time_frame>
+    <description>Area under the plasma concentration time curve (AUC) from zero to the last measurable concentration: AUClast for SM08502 and its metabolite SM08955.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 1 - Plasma drug concentration</measure>
+    <time_frame>Sample collection timepoints: Cycle1 (Day1 (0,2,4,6, hrs), Day2, Day8, Day15, Day22) Cycle 2 (Day1, Day2) Cycle3-5 (Day1) and EOT. Each cycle is 21 or 28 days depending on tumor type.</time_frame>
+    <description>Maximum steady-state plasma drug concentration (Cmaxss) during a dosage interval.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 2 - Incidence of Safety and tolerability of SM08502</measure>
+    <time_frame>Consent date to approximately 56 days after last patient dosed</time_frame>
+    <description>As measured by treatment emergent adverse events (TEAEs) as measured by NCI CTCAE version from subjects treated at the recommended Part 2 dose and schedule.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 2 - Objective response rate</measure>
+    <time_frame>Approximately 5 years</time_frame>
+    <description>Using Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 or Prostate Cancer Working Group 3 Criteria (PCWG3) where appropriate.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Part 1 - Objective Response rate</measure>
+    <time_frame>Approximately 5 years</time_frame>
+    <description>Tumor response using Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 or Prostate Cancer Working Group 3 Criteria (PCWG3) where appropriate.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 2 - Blood samples for measurement of the plasma levels of SM08502 and its metabolite</measure>
+    <time_frame>Sample collection timepoints: Cycle1 (Day1 (0,2,4,6, hrs), Day2, Day8, Day15,) Cycle 2-5 (Day1). Each cycle is 21 or 28 days depending on tumor type.</time_frame>
+    <description>Maximum (Cmax) and minimum (Cmin) Plasma concentration of SM08502 and its metabolite SM08955.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 2 - Blood samples for measurement of the plasma levels of SM08502 and its metabolite</measure>
+    <time_frame>Sample collection timepoints: Cycle1 (Day1 (0,2,4,6, hrs), Day2, Day8, Day15,) Cycle 2-5 (Day1). Each cycle is 21 or 28 days depending on tumor type.</time_frame>
+    <description>Area under the plasma concentration time curve (AUC) from zero to 24 hours: AUC0-24 for SM08502 and its metabolite SM08955</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 2 - Blood samples for measurement of the plasma levels of SM08502 and its metabolite</measure>
+    <time_frame>Sample collection timepoints: Cycle1 (Day1 (0,2,4,6, hrs), Day2, Day8, Day15,) Cycle 2-5 (Day1). Each cycle is 21 or 28 days depending on tumor type.</time_frame>
+    <description>Area under the plasma concentration time curve (AUC) from zero to the last measurable concentration: AUClast for SM08502 and its metabolite SM08955.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 2 - Blood samples for measurement of the plasma levels of SM08502 and its metabolite</measure>
+    <time_frame>Sample collection timepoints: Cycle1 (Day1 (0,2,4,6, hrs), Day2, Day8, Day15,) Cycle 2-5 (Day1). Each cycle is 21 or 28 days depending on tumor type.</time_frame>
+    <description>Maximum steady-state plasma drug concentration (Cmaxss) during a dosage interval.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Castration-resistant Prostate Cancer</condition>
+  <condition>Non-small Cell Lung Cancer</condition>
+  <condition>Colorectal Cancer</condition>
+  <arm_group>
+    <arm_group_label>CRPC (Castration Resistant Prostate Cancer) - SM08502 + Abiraterone/Prednisone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part 1 (dose escalation cohorts) will evaluate SM08502 in subjects with advanced CRPC.&#xD;
+Subjects will recieve increasing doses of SM08502 with fixed doses of Abiraterone/Prednisone to determine the MTD and recommended Part 2 dose and schedule.&#xD;
+Escalation will follow a 3+3+3 design within each cohort.&#xD;
+Part 2 will further evaluate the recommended dose and schedule of SM08502 in subjects with advanced CRPC. Approximately 20 subjects will be enrolled.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>NSCLC (Non-Small Cell Lung Cancer) - SM08502 + Docetaxel</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part 1 (dose escalation cohorts) will evaluate SM08502 in subjects with advanced NSCLC.&#xD;
+Subjects will recieve increasing doses of SM08502 with fixed doses of docetaxel to determine the MTD and recommended Part 2 dose and schedule.&#xD;
+Escalation will follow a 3+3+3 design within each cohort.&#xD;
+Part 2 will further evaluate the recommended dose and schedule of SM0850 in subjects with advanced NSCLC. Approximately 20 subjects will be enrolled.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CRC (Colorectal Cancer) - SM08502 + FOLFIRI/Panitumumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part 1 (dose escalation cohorts) will evaluate SM08502 in subjects with advanced CRC.&#xD;
+Subjects will recieve increasing doses of SM08502 with fixed doses of FOLFIRI/Panitumumab to determine the MTD and recommended Part 2 dose and schedule.&#xD;
+Escalation will follow a 3+3+3 design within each cohort.&#xD;
+Part 2 will further evaluate the recommended dose and schedule of SM08502. Subjects that have RAS wild type tumors will receive FOLFIRI and panitumumab with SM08502 (n=15). Subjects that have RAS mutant tumors will receive FOLFIRI with SM08502 (n=15).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SM08502</intervention_name>
+    <description>SM08502 to be administered orally.</description>
+    <arm_group_label>CRC (Colorectal Cancer) - SM08502 + FOLFIRI/Panitumumab</arm_group_label>
+    <arm_group_label>CRPC (Castration Resistant Prostate Cancer) - SM08502 + Abiraterone/Prednisone</arm_group_label>
+    <arm_group_label>NSCLC (Non-Small Cell Lung Cancer) - SM08502 + Docetaxel</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Abiraterone</intervention_name>
+    <description>Abiraterone to be administered orally.</description>
+    <arm_group_label>CRPC (Castration Resistant Prostate Cancer) - SM08502 + Abiraterone/Prednisone</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Prednisone</intervention_name>
+    <description>Prednisone to be administered orally.</description>
+    <arm_group_label>CRPC (Castration Resistant Prostate Cancer) - SM08502 + Abiraterone/Prednisone</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Docetaxel</intervention_name>
+    <description>Docetaxel to be administered intravenously.</description>
+    <arm_group_label>NSCLC (Non-Small Cell Lung Cancer) - SM08502 + Docetaxel</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>FOLFIRI Protocol</intervention_name>
+    <description>FOLFIRI Protocol to be administered intravenously.</description>
+    <arm_group_label>CRC (Colorectal Cancer) - SM08502 + FOLFIRI/Panitumumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Panitumumab</intervention_name>
+    <description>Panitumumab to be administered intravenously.</description>
+    <arm_group_label>CRC (Colorectal Cancer) - SM08502 + FOLFIRI/Panitumumab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:&#xD;
+&#xD;
+        1.0. Part 1 - Subjects with advanced and/or metastatic solid tumors. Histologic or&#xD;
+        cytologic confirmation of malignancy must have been obtained at diagnosis. The tumor types&#xD;
+        include:&#xD;
+&#xD;
+        i. CRPC - Subjects with progressive disease in the setting of medical or surgical&#xD;
+        castration (i.e., castration-resistant prostate cancer).&#xD;
+&#xD;
+        ii. NSCLC (adenocarcinoma subtype) - Subjects with no targetable mutations must have&#xD;
+        received a platinum-containing doublet chemotherapy regimen and a checkpoint inhibitor&#xD;
+        (either in combination or monotherapy, if indicated) and have progressed. Subjects with&#xD;
+        targetable mutations/alterations such as EGFR, ALK, or NTRK must have received prior&#xD;
+        targeted therapy and have progressed.&#xD;
+&#xD;
+        iii. CRC - Subjects must have received one prior line of standard chemotherapy such as&#xD;
+        FOLFOX +/- a VEGF-inhibitor and have progressed or are intolerant of oxaliplatin based&#xD;
+        regimens.&#xD;
+&#xD;
+        1.1. Part 2 - Subjects with advanced and/or metastatic solid tumors. Histologic or&#xD;
+        cytologic confirmation of malignancy must have been obtained at diagnosis. The tumor types&#xD;
+        include:&#xD;
+&#xD;
+        i. CRPC - Subjects with progressive disease in the setting of medical or surgical&#xD;
+        castration (i.e., castration- resistant prostate cancer).&#xD;
+&#xD;
+        ii. NSCLC (adenocarcinoma subtype) - Subjects with no targetable mutations must have&#xD;
+        received a platinum-containing doublet chemotherapy regimen and a checkpoint inhibitor&#xD;
+        (either in combination or monotherapy, if indicated) and have progressed. Subjects with&#xD;
+        targetable mutations/alterations such as EGFR, ALK, NTRK must have received prior targeted&#xD;
+        therapy and have progressed.&#xD;
+&#xD;
+        iii. CRC - Subjects must have received one prior line of standard chemotherapy such as&#xD;
+        FOLFOX +/- either a VEGF-inhibitor or EGFR inhibitor (if indicated) and have progressed or&#xD;
+        are intolerant of oxaliplatin based regimens.&#xD;
+&#xD;
+        2.0. Male or female subjects ≥ 18 years of age.&#xD;
+&#xD;
+        3.0 Measurable or evaluable disease per RECIST 1.1 (Part 1). For Part 2, at least one&#xD;
+        measurable lesion per RECIST 1.1 that has not been previously irradiated. In CRPC subjects&#xD;
+        (Parts 1 and 2) without measurable disease per RECIST 1.1, a PSA that is concordant with&#xD;
+        clinical disease progression (rising) is eligible. A PSA value of 2 ng/ml or greater is&#xD;
+        required for study entry for those without measurable disease.&#xD;
+&#xD;
+        4.0. Subjects must have archived tumor specimens available for analysis Otherwise, a fresh&#xD;
+        tumor biopsy will be required at study entry.&#xD;
+&#xD;
+        5.0.. Subjects must have recovered (i.e., Grade 1 [or better] based on CTCAE v5.0) from all&#xD;
+        toxicity associated with previous chemotherapy, targeted therapy, experimental therapy,&#xD;
+        biological therapy, immuno-oncology therapy, surgery, radiotherapy, or other locoregional&#xD;
+        therapy.&#xD;
+&#xD;
+        The following intervals must elapse between end of last treatment and receiving the first&#xD;
+        dose of SM08502:&#xD;
+&#xD;
+          -  Chemotherapy: 3 weeks.&#xD;
+&#xD;
+          -  Mitomycin C or a nitrosourea: 6 weeks.&#xD;
+&#xD;
+          -  Radiotherapy: 3 weeks.&#xD;
+&#xD;
+          -  Major surgery: 6 weeks.&#xD;
+&#xD;
+          -  Targeted therapy, including monoclonal antibodies and immuno-oncology therapies: 4&#xD;
+             weeks or 5 half-lives, whichever is shortest.&#xD;
+&#xD;
+        6.0. Subjects must meet the following laboratory criteria at Screening for study entry:&#xD;
+&#xD;
+          -  Hepatic function: serum total bilirubin ≤ 1.5x upper limit of normal (ULN), AST/ALT ≤&#xD;
+             2.5x ULN. For subjects with Gilbert's syndrome, serum total bilirubin ≤ 3x ULN.&#xD;
+&#xD;
+          -  Renal function: measured or calculated creatinine clearance via Cockcroft-Gault&#xD;
+             formula &gt;35 mL/min.&#xD;
+&#xD;
+          -  Hematology: absolute neutrophil counts ≥ 1500/mm3, platelet counts ≥ 100,000/mm3,&#xD;
+             hemoglobin ≥ 9.0 g/dL.&#xD;
+&#xD;
+          -  Coagulation: prothrombin time (PT) and partial thromboplastin time (PTT) ≤ 1.5x ULN.&#xD;
+&#xD;
+        7.0. Eastern Cooperative Oncology Group (ECOG) performance status ≤ 1.&#xD;
+&#xD;
+        8.0. Life expectancy &gt; 3 months.&#xD;
+&#xD;
+        9.0. Subjects must have no uncontrolled intercurrent illness.&#xD;
+&#xD;
+        10.0 Subjects must have the ability to swallow and retain oral medication.&#xD;
+&#xD;
+        11.0 Subjects must be willing to sign and provide informed consent and be capable of giving&#xD;
+        informed consent in accordance with the Institutional Review Board (IRB) / Ethics Committee&#xD;
+        (EC) policy.&#xD;
+&#xD;
+        Key Exclusion Criteria:&#xD;
+&#xD;
+          1. Women who are pregnant or lactating.&#xD;
+&#xD;
+          2. Women of childbearing potential (WOCBP) must agree to follow the contraceptive&#xD;
+             guidelines as outlined in protocol.&#xD;
+&#xD;
+          3. Men of reproductive potential must agree to follow the contraceptive guidelines as&#xD;
+             outlined in protocol.&#xD;
+&#xD;
+          4. Subjects with a QTc (Fridericia's) prolongation &gt; CTCAE v5.0 Grade 1 (&gt;480 msec) at&#xD;
+             Screening.&#xD;
+&#xD;
+          5. Subjects with clinically significant ventricular tachycardia (VT), atrial fibrillation&#xD;
+             (AF), ventricular fibrillation (VF), second- or third-degree heart block.&#xD;
+&#xD;
+          6. Subjects with myocardial infarction (MI) within 1 year, Class II-IV congestive heart&#xD;
+             failure (CHF) per New York Heart Association (NYHA) classification, or clinically&#xD;
+             significant coronary artery disease (CAD)..&#xD;
+&#xD;
+          7. Subjects with active infection (e.g., requiring antibiotic therapy).&#xD;
+&#xD;
+          8. Organ transplant recipients.&#xD;
+&#xD;
+          9. Subjects with untreated, progressing, or known symptomatic brain metastasis.&#xD;
+&#xD;
+         10. Subjects with a second malignancy unless adequately treated with no recurrence for 3&#xD;
+             years. Subjects with a history of previous or recent adequately treated basal cell or&#xD;
+             squamous cell carcinoma of the skin, or carcinoma in situ of any source are eligible.&#xD;
+&#xD;
+         11. Subjects with known hypersensitivity to any excipients in the study drug formulation.&#xD;
+&#xD;
+         12. Subjects with active gastrointestinal (GI) disease or other condition that will&#xD;
+             interfere significantly with the absorption, distribution, metabolism, or excretion of&#xD;
+             SM08502 per Investigator's opinion.&#xD;
+&#xD;
+         13. Subjects with known active human immunodeficiency virus (HIV), hepatitis B virus&#xD;
+             (HBV), or hepatitis C virus (HCV) infection.&#xD;
+&#xD;
+         14. Subjects considered by the Investigator to be unsuitable for the study for any other&#xD;
+             reason.&#xD;
+&#xD;
+         15. Subjects with chronic liver disease or dysfunction and a Child-Pugh score of B or C.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Darrin Beaupre, MD, PhD, CMO</last_name>
+    <role>Study Chair</role>
+    <affiliation>Biosplice Therapeutics, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Biosplice Clinical Trials</last_name>
+    <phone>1-855-222-0515</phone>
+    <email>clinicaltrials@biosplice.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The University of Arizona Cancer Center (UACC) - North Campus</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85719-1478</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ruth Canamar</last_name>
+      <phone>520-694-2873</phone>
+      <email>RCanamar@uacc.arizona.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Aaron Scott, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California Los Angeles (UCLA) - Cancer Care - Santa Monica</name>
+      <address>
+        <city>Santa Monica</city>
+        <state>California</state>
+        <zip>90404-2125</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Lisa Yonemote</last_name>
+      <phone>310-586-2097</phone>
+      <email>lyonemoto@mednet.ucla.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Zev Wainberg, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado, Anschutz</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045-2571</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Lisbel Woods</last_name>
+      <phone>720-848-0300</phone>
+      <email>Lisbel.Woods@CUAnschutz.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Elaine Lam, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>MedStar Georgetown University Hospital (MGUH)</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007-2113</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Laura A Macke</last_name>
+      <phone>202-444-8168</phone>
+      <email>Laura.A.Macke@gunet.georgetown.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Benjamin Weinberg, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic Hospital - Florida</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32224-1865</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Rachel A Pop</last_name>
+      <phone>904-953-2000</phone>
+      <email>Pop.Rachel@mayo.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jeremy Jones, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer Specialists &amp; Research Institute (FCS) - Sarasota Cattlemen Office</name>
+      <address>
+        <city>Sarasota</city>
+        <state>Florida</state>
+        <zip>34232-6422</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Rami Gut</last_name>
+      <phone>941-377-9993</phone>
+      <email>Rami.Guy@SarahCannon.com</email>
+    </contact>
+    <investigator>
+      <last_name>Manish Patel, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Treatment Centers of America at Southeastern Regional Medical Center</name>
+      <address>
+        <city>Newnan</city>
+        <state>Georgia</state>
+        <zip>30265-8001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Kathleen Hurtado</last_name>
+      <email>kathleen.hurtado@ctca-hope.com</email>
+    </contact>
+    <investigator>
+      <last_name>Arturo Loiaza-Bonilla, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Maine Center for Cancer Medicine</name>
+      <address>
+        <city>Scarborough</city>
+        <state>Maine</state>
+        <zip>04074-7172</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Patrick J McAlary</last_name>
+      <phone>207-662-0111</phone>
+      <email>mcalap@newecs.org</email>
+    </contact>
+    <investigator>
+      <last_name>Christian Thomas, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>START Midwest</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49546</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Danielle Duprey</last_name>
+      <phone>616-954-5554</phone>
+      <email>danielle.duprey@startmidwest.com</email>
+    </contact>
+    <investigator>
+      <last_name>Sreenivasa Chandana, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Cindy Fogal</last_name>
+      <phone>314-747-8479</phone>
+      <email>clfogal@wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Siddhartha Devarakonda, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021-0005</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Leslie Cheteyal</last_name>
+      <phone>212-639-3151</phone>
+      <email>cheteyal@mskcc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Daniel Danila, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Cancer Institute (DCI) - Duke Cancer Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710-2000</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alex Guess</last_name>
+      <phone>919-684-2410</phone>
+      <email>m.alex.guess@duke.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Andrew Armstrong, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Lindner Center for Research and Education at the Christ Hospital</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Susan M Reily</last_name>
+      <phone>260-425-0800</phone>
+      <email>Susan.Reilly@thechristhospital.com</email>
+    </contact>
+    <investigator>
+      <last_name>Alexander Starodub, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University Medical Center (VUMC) - Vanderbilt-Ingram Cancer Center (VICC) - Nashville</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232-6838</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Anna Dumont</last_name>
+      <phone>615-936-8580</phone>
+      <email>anna.dumont@vumc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Jordan Berlin, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UT Health San Antonio - Mays Cancer Center - Institute for Drug Development</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Susan Ayre</last_name>
+      <phone>210-450-1827</phone>
+      <email>ayre@uthscsa.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Daruka Mahadevan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>START Mountain Region</name>
+      <address>
+        <city>West Valley City</city>
+        <state>Utah</state>
+        <zip>84119</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Angela Galindo</last_name>
+      <phone>210-593-5202</phone>
+      <email>Angela.Galindo@startthecure.com</email>
+    </contact>
+    <investigator>
+      <last_name>Justin Call, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Seattle Cancer Care Alliance (SCCA)</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109-1023</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Laura Covarrubias</last_name>
+      <phone>206-288-7222</phone>
+      <email>lcovarrub@seattlecca.org</email>
+    </contact>
+    <investigator>
+      <last_name>Gabriela Chiorean, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 20, 2021</study_first_posted>
+  <last_update_submitted>November 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SM08502</keyword>
+  <keyword>pan Clk/Dyrk inhibitor</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prednisone</mesh_term>
+    <mesh_term>Docetaxel</mesh_term>
+    <mesh_term>Panitumumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

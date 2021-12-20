@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1077">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05147129</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STU2021-0392</org_study_id>
+    <nct_id>NCT05147129</nct_id>
+  </id_info>
+  <brief_title>Characterizing the Microbiome in Postmenopausal Women With Vulvar Lichen Sclerosus</brief_title>
+  <official_title>Characterizing the Microbiome in Postmenopausal Women With Vulvar Lichen Sclerosus</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Texas Southwestern Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Dermatology Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Texas Southwestern Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Vulvar lichen sclerosus (LS) is a chronic inflammatory disease, often diagnosed at late&#xD;
+      stages after scarring has obliterated normal vulvar architecture and severely affected a&#xD;
+      woman's quality of life. First line therapy for vulvar LS is ultrapotent topical steroids. If&#xD;
+      left untreated, this condition can cause complete stenosis of the vaginal introitus and 5% of&#xD;
+      patients may develop squamous cell carcinoma (SCC).&#xD;
+&#xD;
+      Lichen sclerosus is more common in pre-pubertal children and in post-menopausal women&#xD;
+      suggesting that hormonal shifts may contribute to disease pathogenesis. Small studies in&#xD;
+      children with LS have also shown that the microbiome is altered in LS. Little is known about&#xD;
+      the skin microbiota in postmenopausal patients with vulvar LS.&#xD;
+&#xD;
+      To determine if the microbiome is altered in vulvar skin of postmenopausal patients with LS,&#xD;
+      this study will use 16s sequencing to broadly characterize the microbiota of vulvar skin with&#xD;
+      LS compared to control vulvar skin. The study team hypothesizes that patients with vulvar LS&#xD;
+      will have a unique vulvar microbial signature compared to age-matched controls. This study&#xD;
+      also seeks to elucidate differences in the vulvar microbiome of patients with LS after&#xD;
+      treatment of their underlying condition. The study team hypothesizes that the vulvar&#xD;
+      microbiome will change after treatment for vulvar LS.&#xD;
+&#xD;
+      Vulvar dermatoses are an understudied area in dermatology with limited therapeutic options.&#xD;
+      Innumerable women often suffer in silence with vulvar LS. The long-term goal of this work is&#xD;
+      to understand factors that contribute to vulvar LS so that intervention may be undertaken&#xD;
+      before irreversible scarring and SCC develop.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">September 16, 2021</start_date>
+  <completion_date type="Anticipated">May 26, 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 26, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Operational taxonomic unit (OTU) relative abundance</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Similar 16s sequencing reads will be clustered into OTUs and relative abundance of OTUs in the samples under investigation will be reported</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Operational taxonomic unit (OTU) relative abundance</measure>
+    <time_frame>10-14 weeks after beginning treatment for vulvar lichen sclerosus, if applicable</time_frame>
+    <description>Similar 16s sequencing reads will be clustered into OTUs and relative abundance of OTUs in the samples under investigation will be reported</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Alpha and beta diversity</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Alpha and beta diversity will be estimated in the context of sample metadata</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Alpha and beta diversity</measure>
+    <time_frame>10-14 weeks after beginning treatment for vulvar lichen sclerosus, if applicable</time_frame>
+    <description>Alpha and beta diversity will be estimated in the context of sample metadata</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Vulvar Lichen Sclerosus</condition>
+  <arm_group>
+    <arm_group_label>Postmenopausal with vulvar lichen sclerosus</arm_group_label>
+    <description>Includes postmenopausal patients with clinically-active vulvar lichen sclerosus, as determined by biopsy or examination by a vulvar specialist</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Postmenopausal without vulvar lichen sclerosus</arm_group_label>
+    <description>Includes postmenopausal patients without vulvar lichen sclerosus</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Group - Postmenopausal with vulvar lichen sclerosus: selected from patients presenting to&#xD;
+        vulvar dermatology clinic&#xD;
+&#xD;
+        Group - Postmenopausal without vulvar lichen sclerosus: selected from dermatology or&#xD;
+        gynecology clinics&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Postmenopausal&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Use of systemic hormone replacement&#xD;
+&#xD;
+          -  Use of antibiotics in prior three months&#xD;
+&#xD;
+          -  Urinary incontinence, which is defined by: 1) two incontinence episodes in the past&#xD;
+             three days and also 2) regular incontinence over the past three months that has&#xD;
+             necessitated use of incontinence protection garments&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Melissa M Mauskar, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Texas Southwestern Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>UT Southwestern Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Lee A, Bradford J, Fischer G. Long-term Management of Adult Vulvar Lichen Sclerosus: A Prospective Cohort Study of 507 Women. JAMA Dermatol. 2015 Oct;151(10):1061-7. doi: 10.1001/jamadermatol.2015.0643.</citation>
+    <PMID>26070005</PMID>
+  </reference>
+  <reference>
+    <citation>Melnick LE, Steuer AB, Bieber AK, Wong PW, Pomeranz MK. Lichen sclerosus among women in the United States. Int J Womens Dermatol. 2020 May 8;6(4):260-262. doi: 10.1016/j.ijwd.2020.05.001. eCollection 2020 Sep.</citation>
+    <PMID>33015282</PMID>
+  </reference>
+  <reference>
+    <citation>Mauskar MM, Marathe K, Venkatesan A, Schlosser BJ, Edwards L. Vulvar diseases: Conditions in adults and children. J Am Acad Dermatol. 2020 Jun;82(6):1287-1298. doi: 10.1016/j.jaad.2019.10.077. Epub 2019 Nov 8. Review.</citation>
+    <PMID>31712170</PMID>
+  </reference>
+  <reference>
+    <citation>Chattopadhyay S, Arnold JD, Malayil L, Hittle L, Mongodin EF, Marathe KS, Gomez-Lobo V, Sapkota AR. Potential role of the skin and gut microbiota in premenarchal vulvar lichen sclerosus: A pilot case-control study. PLoS One. 2021 Jan 14;16(1):e0245243. doi: 10.1371/journal.pone.0245243. eCollection 2021.</citation>
+    <PMID>33444404</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 7, 2021</study_first_posted>
+  <last_update_submitted>November 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 7, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Texas Southwestern Medical Center</investigator_affiliation>
+    <investigator_full_name>Melissa Mauskar</investigator_full_name>
+    <investigator_title>Associate Professor of Medicine</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vulvar Lichen Sclerosus</mesh_term>
+    <mesh_term>Lichen Sclerosus et Atrophicus</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

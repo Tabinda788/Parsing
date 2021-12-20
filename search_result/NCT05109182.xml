@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3995">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05109182</url>
+  </required_header>
+  <id_info>
+    <org_study_id>295968</org_study_id>
+    <nct_id>NCT05109182</nct_id>
+  </id_info>
+  <brief_title>Virtual 3D Modelling for Improved Surgical Planning of Robotic-assisted Partial Nephrectomy</brief_title>
+  <acronym>VISP</acronym>
+  <official_title>Virtual 3D Modelling for Improved Surgical Planning of Robotic-assisted Partial Nephrectomy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Innersight Labs Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Royal Free Hospital NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Frimley Park Hospital NHS Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sheffield Teaching Hospitals NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>North Bristol NHS Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Guy's and St Thomas' NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>King's College London</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Innersight Labs Ltd</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To establish whether surgical planning using virtual 3D modelling (Innersight 3D) improves&#xD;
+      the outcome and cost-effectiveness of RAPN, allowing more patients to benefit from&#xD;
+      minimally-invasive procedures.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Surgery is the mainstay treatment for abdominal cancer, resulting in over 50,000 surgeries&#xD;
+      annually in the UK, with 10% of those being for kidney cancer. Preoperative surgery planning&#xD;
+      decisions are made by radiologists and surgeons upon viewing CT (Computed Tomography) and MRI&#xD;
+      (Magnetic Resonance Imaging) scans. The challenge is to mentally reconstruct the patient's 3D&#xD;
+      anatomy from these 2D image slices, including tumour location and its relationship to nearby&#xD;
+      structures such as critical vessels. This process is time consuming and difficult, often&#xD;
+      resulting in human error and suboptimal decision-making. It is even more important to have a&#xD;
+      good surgical plan when the operation is to be performed in a minimally-invasive fashion, as&#xD;
+      it is a more challenging setting to rectify an unplanned complication than during open&#xD;
+      surgery (Byrn, et al. 2007). Therefore, better surgical planning tools are essential if we&#xD;
+      wish to improve patient outcome and reduce the cost of a surgical misadventure.&#xD;
+&#xD;
+      To overcome the limitations of current surgery planning in a soft-tissue oncology setting,&#xD;
+      dedicated software packages and service providers have provided the capability of classifying&#xD;
+      the scan voxels into their anatomical components in a process known as image segmentation.&#xD;
+      Once segmented, stereolithography files are generated, which can be used to visualise the&#xD;
+      anatomy and have the components 3D printed. It has previously been reported that such 3D&#xD;
+      printed models influence surgical decision-making (Wake, et al. 2017). However, the financial&#xD;
+      and administrative costs of obtaining accurate 3D printed models for routine surgery planning&#xD;
+      has been speculated to be holding back 3D printed models from breaking into regular clinical&#xD;
+      usage (Western, 2017).&#xD;
+&#xD;
+      Computational 3D surface-rendered virtual models have become a natural advancement from 3D&#xD;
+      printed models. In the literature, such models are referred to by a variety of names such as&#xD;
+      '3D-rendered images', (Zheng, et al. 2016), '3D reconstructions', (Isotani, et al. 2015), or&#xD;
+      'virtual 3D models', (Wake, et al. 2017). In this protocol we will use the latter&#xD;
+      nomenclature.&#xD;
+&#xD;
+      Previous studies have already shown that surgeons benefit from virtual 3D models in the&#xD;
+      theatre (Hughes-Hallett, 2014; Fan, et al. 2018; Fotouhi, et al. 2018).&#xD;
+&#xD;
+      In a previous feasibility study (NIHR21460; IRAS 18/SW/0238), we used state-of-the-art CE&#xD;
+      marked software, called Innersight3D, to generate interactive virtual 3D models of the&#xD;
+      patient's unique anatomy from their received CT scans, to provide a detailed roadmap for the&#xD;
+      surgeon prior to the operation. We found that this approach had a positive influence on&#xD;
+      surgical decision-making.&#xD;
+&#xD;
+      RAPN is a rapidly developing surgical field, with robots in 70+ UK surgical centres. The main&#xD;
+      research question to be addressed in the present study is, whether surgical planning using&#xD;
+      virtual 3D modelling (Innersight 3D) in a randomised controlled trial, improves the outcome&#xD;
+      and cost-effectiveness of RAPN.&#xD;
+&#xD;
+      Patients will potentially benefit from this research for several reasons;&#xD;
+&#xD;
+        1. Due to higher quality surgery and a reduced chance of complications, patients might go&#xD;
+           home sooner (Shirk, et al. 2018).&#xD;
+&#xD;
+        2. Less likelihood of an unplanned conversion, which is when the surgeon has to abandon the&#xD;
+           minimally-invasive approach in favour of open surgery during the operation, due to&#xD;
+           unforeseen anatomical challenges.&#xD;
+&#xD;
+        3. Improved patient empowerment and improved consenting, resulting in better patient&#xD;
+           decision-making. Our previous feasibility study showed that patients strongly agreed&#xD;
+           that 3D models improved their understanding of the disease treatment decisions and&#xD;
+           surgical planning.&#xD;
+&#xD;
+        4. It could also reduce procedure time with less exposure to anesthetic. There are also&#xD;
+           operational benefits, as these models might improve prediction accuracy of operation&#xD;
+           complexity and operative time. Thus, surgery list scheduling and hospital-patient flow&#xD;
+           could be greatly improved. Waiting list could be reduced because of less operations&#xD;
+           overrun. In addition, surgical team cohesion could also be enhanced. A reduction in&#xD;
+           theatre time, length-of-stay, would have financial benefits for the health service.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2022</start_date>
+  <completion_date type="Anticipated">August 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This RCT, is a multi-centre main trial and will recruit patients selected for minimally-invasive robotic-assisted renal cancer surgery during the enrolment period. The study will compare current surgical planning method to planning with the addition of virtual 3D models in randomised patient groups.&#xD;
+There are no clinical treatment changes/interventions in addition to the standard-of-care procedures. Participants will have 3D models of their anatomy built, clinical team and participant feedback will be obtained in the form of a survey, and the measurability of the key trial outcomes will be assessed as outlined below.&#xD;
+Patient participation in the trial is expected to take no longer than 9 weeks, including a 4-week follow-up, from the initial participant information meeting. Methods used to assess outcomes will employ medical data analysis, participant opinion and observational measurements.</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Single (Investigator)</masking>
+    <masking_description>The following will be blinded: Chief Investigator, Senior Statistician, Research Nurses, Trial Steering Committee&#xD;
+The following will be unblinded: Principal Investigators at site, Trial Manager/monitor, Junior Statistician, Trial Participants, Treating clinicians, Data Monitoring Committee</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Total Console time</measure>
+    <time_frame>18 months</time_frame>
+    <description>This is the time from the start of the robotic operation (arms start moving inside the abdomen) until the end of the robotic operation (arms have been taken out of the abdomen) and will be recorded using the robotic system</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Artery preparation time (mins)</measure>
+    <time_frame>18 months</time_frame>
+    <description>Start time: From the point of dissection of gonadal vein. Stop time: As soon as arteries are isolated and ready for clamping.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tumour preparation time (mins)</measure>
+    <time_frame>18 months</time_frame>
+    <description>Start time: From the point of defatting the kidney (to isolate tumour) Stop time: As soon as the tumour is ready for ultrasound.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tumour resection time (mins)</measure>
+    <time_frame>18 months</time_frame>
+    <description>Start time: From the point of cutting of tumour Stop: Tumour is removed (excised)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hilar clamping technique</measure>
+    <time_frame>18 months</time_frame>
+    <description>What clamping technique was used to control blood flow. Choose from [Global ischemia, Selective ischemia, Clampless]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Extirpative technique</measure>
+    <time_frame>18 months</time_frame>
+    <description>What technique was used to remove excise the tumour. Choose from [Enucleation, partial nephrectomyEnucleoresection (resection)] Choose from [Enucleation, partial nephrectomy]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Opened collecting system [yes, no]</measure>
+    <time_frame>18 months</time_frame>
+    <description>Was the collecting system cut open during tumour resection?</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Conversion to radical nephrectomy [yes/no]</measure>
+    <time_frame>18 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clamp time (mins)</measure>
+    <time_frame>18 months</time_frame>
+    <description>Time from when arteries are clamped to time until arteries are unclampsed are taken off. Also known as the warm ischemic time (WIT).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Experience level of surgeon</measure>
+    <time_frame>18 months</time_frame>
+    <description>What is the experience level of the surgeon who is operating? Also were any registrars involved?</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood loss (ml)</measure>
+    <time_frame>18 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total Operative time (mins)</measure>
+    <time_frame>18 months</time_frame>
+    <description>From the time that the patient enters the operating theatre to the point of exit, as recorded on the patient notes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay (days)</measure>
+    <time_frame>18 months</time_frame>
+    <description>This will be available following hospital discharge. If the patient is not discharged after 4 weeks following the surgery. A maximum length of 28 days should be entered and this along with the reasons should be captured on the adverse events log.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Margin status on histology [positive/negative]</measure>
+    <time_frame>18 months</time_frame>
+    <description>The results from the histology report following the surgery should be recorded.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post-operative eGFR (ml/min)</measure>
+    <time_frame>18 months</time_frame>
+    <description>Measured 4 weeks after surgery</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post-operative Hemoglobin (g/dL)</measure>
+    <time_frame>18 months</time_frame>
+    <description>Taken 1 day after surgery</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clavien-Dindo Score</measure>
+    <time_frame>18 months</time_frame>
+    <description>Choose option from [Grade I, Grade II, Grade IIIa, Grade IIIb, Grade IVa, Grade IVb]</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">328</enrollment>
+  <condition>Kidney Cancer</condition>
+  <arm_group>
+    <arm_group_label>Intervention (3D model + CT for surgical planning)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in this arm will receive a 3D model which will be used in addition to the CT scan for surgical planning.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control (CT for surgical planning)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients in this arm will only have the a CT scan used for surgical planning.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Innersight3D</intervention_name>
+    <description>Innersight3D generates a virtual interactive 3D model of the CT scan.</description>
+    <arm_group_label>Intervention (3D model + CT for surgical planning)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Aged 18-80 years; Agreement at Multidisciplinary team meeting that this patient could&#xD;
+        undergo robotic-assisted partial nephrectomy.&#xD;
+&#xD;
+        Willing and able to provide written informed consent. RENAL score (tumour complexity) &gt;= 8.&#xD;
+        Received contrast enhanced abdominal preoperative CT scan. Ability to understand and speak&#xD;
+        English.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Do not consent for robotic assisted partial nephrectomy; Chose to have treatment outside&#xD;
+        one of the NHS trial sites. Participation in other clinical studies that would potentially&#xD;
+        confound this study; Have a horseshoe, a solitary kidney or bilateral kidney tumours; Lack&#xD;
+        of willingness to allow personal medical imaging data to be used for generating a 3D model;&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Lorenz Berger, PhD</last_name>
+    <phone>07979067365</phone>
+    <email>lorenz@innersightlabs.com</email>
+  </overall_contact>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 5, 2021</study_first_posted>
+  <last_update_submitted>October 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Kidney Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

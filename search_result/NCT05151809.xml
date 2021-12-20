@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="718">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05151809</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PBC322</org_study_id>
+    <nct_id>NCT05151809</nct_id>
+  </id_info>
+  <brief_title>National Database on Primary Biliary Cholangitis</brief_title>
+  <acronym>PBC322</acronym>
+  <official_title>Multicenter, Nationwide, Observational, Retrospective and Prospective Study Based on the Development of a Patients Database Linked to a Biological Sample Storage</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Milano Bicocca</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Intercept Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Laboratoires Mayoly Spindler</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Milano Bicocca</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Primary biliary cholangitis (PBC) is a rare, autoimmune, cholestatic liver disease. No data&#xD;
+      about the disease epidemiology exist in Italy. Therefore this study aims to develop a&#xD;
+      national PBC patient database linked to a biological sample storage.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary biliary cholangitis (PBC) is an immune-mediated liver disease characterized by&#xD;
+      chronic inflammation of the intrahepatic bile ducts, causing progressive ductopenia,&#xD;
+      cholestasis, and if not effectively treated, leading to fibrosis, cirrhosis and liver&#xD;
+      failure. Nowadays almost all patients with PBC are diagnosed at an early disease stage and&#xD;
+      receive treatment with ursodeoxycholic acid (UDCA) which is currently the only drug approved&#xD;
+      for the treatment of patients with PBC. However, approximately 20% to 30% (up to &gt;50% in&#xD;
+      patients presenting under the age of 40 years) still does not have a benefit from UDCA and&#xD;
+      has a reduced prognosis as compared to healthy individuals. Major steps forwards in the field&#xD;
+      of PBC have been done in the last decade, however there are still significant areas of unmet&#xD;
+      clinical need in PBC: the lack of knowledge on etiopathogenesis; a poor understanding of&#xD;
+      disease sub-phenotypes; the lack of biomarkers of disease progression that allow risk&#xD;
+      stratification needed in clinical management and trials design, among the others. In the&#xD;
+      current evolving research landscape with the availability of the -omics technologies&#xD;
+      generating libraries of genome-wide data, metabolomics and proteomics data, among the others,&#xD;
+      the prospects of discovering the gene and molecular underpinnings of PBC are more promising&#xD;
+      than ever. Scientists envision an era of &quot;personalized medicine&quot; when more and more people&#xD;
+      will obtain their own genetic and metabolic maps, enabling them to identify their status as&#xD;
+      carriers of specific risk profiles.&#xD;
+&#xD;
+      Based on these premises, the current project aims to build up a research, nation-wide&#xD;
+      infrastructure (around 60 Italian participating centres will be involved) to study the&#xD;
+      biology of PBC and, in particular, to explore why a significant group of, typically young&#xD;
+      patients fail primary therapy with UDCA, placing them at risk of developing progressive&#xD;
+      disease and needing liver transplantation (LT). The investigators will recruit patients and&#xD;
+      organise the collection of important clinical information and laboratory investigation,&#xD;
+      together with biological samples. Data will be collected in the form of electronic Case&#xD;
+      Report Forms (REDCap cloud) that will be completed by clinicians at baseline and thereafter&#xD;
+      on an annual basis. The clinical information will allow us to identify patients' clinical&#xD;
+      profiles. The biological samples will allow to understand key aspects of people's make up,&#xD;
+      including patient genes and the way their immune system works, and the differences in make up&#xD;
+      between people with different clinical phenotypes.&#xD;
+&#xD;
+      This research infrastructure would represent an invaluable resource for successful&#xD;
+      translational research in this field. Specifically, it would serve investigators conducting&#xD;
+      research; clinicians treating patients; epidemiologists gathering demographic data; and the&#xD;
+      drug and device industry seeking new markets. It also can represent a necessary&#xD;
+      infrastructure for the implementation of the European Reference Networks (ERN) for rare&#xD;
+      diseases, main pillars of the current EU policy framework on National Plans for research and&#xD;
+      development. The Italian PBC database would also be crucial for drug development,&#xD;
+      specifically to assess the feasibility of clinical trials, to facilitate the planning of&#xD;
+      appropriate clinical trials, to support the enrolment of patients and to assess the impact of&#xD;
+      new interventions.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 19, 2019</start_date>
+  <completion_date type="Anticipated">January 24, 2029</completion_date>
+  <primary_completion_date type="Anticipated">January 24, 2029</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>10 Years</target_duration>
+  <primary_outcome>
+    <measure>Phenotypes and sub-phenotypes of PBC Italian patients</measure>
+    <time_frame>Overall duration of the study (10 years)</time_frame>
+    <description>Identify and define distinct phenotypes and sub-phenotypes of PBC patients at higher risk of disease progression.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Response to UDCA therapy</measure>
+    <time_frame>Overall duration of the study (10 years)</time_frame>
+    <description>Defined as Alkaline Phosphatase Level&lt;1 x upper limit of normal. The investigators will fit a multivariate analysis using logistic regression using baseline variables.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Identification of factors influencing the progression of PBC</measure>
+    <time_frame>Overall duration of the study (10 years)</time_frame>
+    <description>The investigators will calculate the time from the diagnosis of PBC to an event (liver decompensation, liver transplantation or death). They will then fit a multivariate analysis using Cox's proportional hazards regression model of diverse explanatory variables available at baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and long-term efficacy of novel therapies</measure>
+    <time_frame>Overall duration of the study (10 years)</time_frame>
+    <description>The investigators will evaluate prospectively laboratory investigation and the treatment response to novel therapies that are entering the clinical practice, e.g. obeticholic acid, fibrates.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">6000</enrollment>
+  <condition>Primary Biliary Cholangitis</condition>
+  <arm_group>
+    <arm_group_label>PBC population residing in Italy</arm_group_label>
+    <description>All PBC patients living in Italy and aged at least 18 years can be included in the database. According to well-established criteria, PBC is diagnosed in subjects who fulfill two of the three of following criteria:&#xD;
+elevated alkaline phosphatase and /or GGT;&#xD;
+positive anti-mitochondrial autoantibodies (titer ≥ 1:40) or PBC-specific antinuclear antibodies (gp-210 and sp100);&#xD;
+characteristic histological features of florid bile ducts lesions and granulomatous lesion.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Clinical information</intervention_name>
+    <description>The investigators will recruit PBC patients and collect important clinical information and laboratory investigation, together with biological samples.</description>
+    <arm_group_label>PBC population residing in Italy</arm_group_label>
+    <other_name>Laboratory information</other_name>
+    <other_name>Biological samples</other_name>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Biological samples are collected at time of recruitment and on a yearly basis (for blood,&#xD;
+      urine and stools).The collection of bile and liver tissue depends on the specific procedures&#xD;
+      (ERCP and liver biopsy) that are performed based on clinical needs.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All the italian patients fulfilling the diagnostic criteria for Primary Biliary Cholangitis&#xD;
+        (European Association for the Study of the Liver. EASL Clinical Practice Guidelines:&#xD;
+        management of cholestatic liver diseases. J Hepatol. 2009 Aug;51(2):237-67) and aged at&#xD;
+        least 18.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        All PBC patients living in Italy and aged at least 18 years can be included in the&#xD;
+        database. According to well-established criteria, PBC is diagnosed in subjects who fulfill&#xD;
+        two of the three of following criteria:&#xD;
+&#xD;
+          -  elevated alkaline phosphatase and /or GGT;&#xD;
+&#xD;
+          -  positive anti-mitochondrial autoantibodies (titer ≥ 1:40) or PBC-specific antinuclear&#xD;
+             antibodies (gp-210 and sp100);&#xD;
+&#xD;
+          -  characteristic histological features of florid bile ducts lesions and granulomatous&#xD;
+             lesion.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        The patient has explicitly declared his/her unwillingness to participate to the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Pietro Invernizzi, MD</last_name>
+    <phone>+39 039 233 2187</phone>
+    <email>pietro.invernizzi@unimib.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Marco Carbone, MD</last_name>
+    <phone>02 6448 8139</phone>
+    <email>marco.carbone@unimib.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Ospedali riuniti di Ancona</name>
+      <address>
+        <city>Ancona</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO di gastroenterologia, Asst Papa Giovanni XXIII</name>
+      <address>
+        <city>Bergamo</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gastroenterologia, fisiopatologia e endoscopia digestiva, Azienda sanitaria dell'alto adige</name>
+      <address>
+        <city>Bolzano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Unità epatologica ed ecografia internistica a valenza dipartimentale, Fondazione Ospedaliera Poliambulanza</name>
+      <address>
+        <city>Brescia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO di gastroenterologia, Spedali civili di Brescia</name>
+      <address>
+        <city>Brescia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO epatologia, Azienda ospedaliero università di Cagliari Policlinico universitario Monserrato</name>
+      <address>
+        <city>Cagliari</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO epatologia Ospedale Garibaldi</name>
+      <address>
+        <city>Catania</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO di fisiopatologia digestiva, Azienda Ospedaliera Universitaria Mater Domini</name>
+      <address>
+        <city>Catanzaro</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO di gastroenterologia, Ospedale Valduce</name>
+      <address>
+        <city>Como</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO Clinica Medica, Azienda Ospedaliera Universitaria Careggi Firenze</name>
+      <address>
+        <city>Firenze</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro C.U.R.E. Centro Universitario per la ricerca e la Cura delle Malattie Epatiche</name>
+      <address>
+        <city>Foggia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ambulatorio di Malattie del Fegato, U.O. Medicina, ASST Valle Olona, Presidio di Gallarate</name>
+      <address>
+        <city>Gallarate</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO Clinica Gastroenterologica, Policlinico San Martino</name>
+      <address>
+        <city>Genova</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Medicina del Viaggiatore e delle Migrazioni, ASP Catanzaro, Presìdio Ospedaliero &quot;Giovanni Paolo II&quot;</name>
+      <address>
+        <city>Lamezia Terme</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO di epatologia clinica e biomolecolare, Università degli studi di Messina</name>
+      <address>
+        <city>Messina</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico di Milano</name>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO di epatologia, Ospedale Niguarda Ca' Granda</name>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO di Epatologia, Ospedale San Giuseppe</name>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO epatologia, Istituto scientifico universitario San Raffaele</name>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Milano-Bicocca</name>
+      <address>
+        <city>Milan</city>
+        <zip>20126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pietro Invernizzi</last_name>
+      <email>pietro.invernizzi@unimib.it</email>
+    </contact>
+    <contact_backup>
+      <last_name>Marco Carbone</last_name>
+      <email>marco.carbone@unimib.it</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Pietro Invernizzi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Struttura Complessa di Medicina ad Indirizzo Metabolico Nutrizionale, Dipartimento Ospedaliero di Medicina Interna</name>
+      <address>
+        <city>Modena</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Day Hospital e Ambulatorio di Epatoogia e Nutrizione Clinica, Fondazione Evangelica Villa Betania, Ospedale generale di Zona</name>
+      <address>
+        <city>Napoli</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale policlinico Federico II di Napoli</name>
+      <address>
+        <city>Napoli</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO medicina ed epatologia, Ospedale maggiore della carità</name>
+      <address>
+        <city>Novara</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO di Gastroenterologia, Azienda ospedaliera di Padova</name>
+      <address>
+        <city>Padova</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO di Medicina Interna, Azienda Ospedaliera di Padova</name>
+      <address>
+        <city>Padova</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO gastroenterologia, Policlinico Paolo Giaccone</name>
+      <address>
+        <city>Palermo</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Malattie infettive ed epatologia, Azienda ospedaliero universitaria di Parma</name>
+      <address>
+        <city>Parma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Day Hospital Internistico e ambulatorio di Epatologia, ASL Pescara</name>
+      <address>
+        <city>Pescara</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO epatologia, AOU pisana Cisanello</name>
+      <address>
+        <city>Pisa</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>S.C. Gastroenterologia, Ospedale di Pordenone, AS FO</name>
+      <address>
+        <city>Pordenone</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medicina clinica ed epatologia, Policlinico universitario campus bio-medico</name>
+      <address>
+        <city>Roma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO di Epatologia, Universita' di Roma Tor Vergata</name>
+      <address>
+        <city>Roma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO di Gastroenterologia, Policlinico Umberto I</name>
+      <address>
+        <city>Roma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medicina interna ed epatologia, Istituto clinico Humanitas</name>
+      <address>
+        <city>Rozzano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Università degli studi di Salerno</name>
+      <address>
+        <city>Salerno</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SSD Epatologia, Fondazione Casa Sollievo della Sofferenza</name>
+      <address>
+        <city>San Giovanni Rotondo</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO di Gastroenterologia e Endoscopia Digestiva, Ospedale Casa Sollievo della Sofferenza</name>
+      <address>
+        <city>San Giovanni Rotondo</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>S.C. Gastroenterologia, Azienda Ospedaliero-Universitaria Molinette</name>
+      <address>
+        <city>Torino</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gastroenterologia ed endoscopia digestiva, Azienda provinciale per i servizi sanitari</name>
+      <address>
+        <city>Trento</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SC (UCO) Clinica Patologie del Fegato, Ospedale di Cattinara, ASU GI</name>
+      <address>
+        <city>Trieste</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SOS di DPT Epatologia e Trapianti di Fegato, ASU FC</name>
+      <address>
+        <city>Udine</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO di gastroenterologia ed endoscopia digestiva, Azienda macchi, Asst sette laghi</name>
+      <address>
+        <city>Varese</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 9, 2021</study_first_posted>
+  <last_update_submitted>November 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Primary Biliary Cholangitis</keyword>
+  <keyword>Disease phenotypes</keyword>
+  <keyword>National Database</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cholangitis</mesh_term>
+    <mesh_term>Liver Cirrhosis, Biliary</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

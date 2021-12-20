@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4612">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05101161</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NF-DBS</org_study_id>
+    <nct_id>NCT05101161</nct_id>
+  </id_info>
+  <brief_title>Neurofeedback Using Implanted Deep Brain Stimulation Electrodes</brief_title>
+  <official_title>Neurofeedback Using Implanted Deep Brain Stimulation Electrodes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ETH Zurich</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>ETH Zurich</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Deep brain stimulation (DBS) has become a gold-standard symptomatic treatment option for&#xD;
+      Parkinson's disease (PD) and is also explored for a variety of other neurological disorders.&#xD;
+      The implantation of electrodes into deep brain areas has not only enabled the application of&#xD;
+      electrical stimuli, but has also provided researchers and clinicians with an unprecedented&#xD;
+      window to investigate aberrant neuronal activity right at the core of pathological brain&#xD;
+      circuits. Local field potentials (LFP) have already been readily investigated through&#xD;
+      externalised DBS electrode wires prior to internalisation and connection to an implantable&#xD;
+      neurostimulator. In the case of PD, motor symptoms have been evidenced to correlate with&#xD;
+      exaggerated beta oscillatory activity (13-35 Hz) in the LFP recorded from the subthalamic&#xD;
+      nucleus (STN). Firstly, beta activity recorded in the STN at rest in patients withdrawn from&#xD;
+      their medication has been correlated with the Unified Parkinson's Disease Rating Scale&#xD;
+      (UPDRS) across patients. Secondly, a reduction of signal power in the beta-band was&#xD;
+      correlated with clinical improvements of motor symptoms. Thirdly, the two main therapeutic&#xD;
+      strategies, the administration of L-Dopa, and high-frequency DBS both lead to a suppression&#xD;
+      of beta-synchronicity in the STN. Furthermore, beta-oscillations show fast and&#xD;
+      movement-dependent modulation over time and can serve as a biomarker and feedback signal to&#xD;
+      control the delivery of DBS. The investigators recently implemented deep brain electrical&#xD;
+      neurofeedback to provide real-time visual neurofeedback of pathological STN oscillations&#xD;
+      through externalised DBS electrodes and showed that PD patients were able to volitionally&#xD;
+      control and reduce subthalamic activity within a single 1 hour session. Moreover,&#xD;
+      neurofeedback-learnt strategies accelerated movements and could be retained in the short- and&#xD;
+      mid-term. Only recently, a newly developed neurostimulator, the Percept™ PC (Medtronic&#xD;
+      Neurological Division, Minneapolis, MN, USA), has been clinically approved, which can not&#xD;
+      only apply electrical impulses, but also enable the measurement and transmission of brain&#xD;
+      activity. This neurostimulator is now the first choice for implantations at the University&#xD;
+      Hospital Zurich and is used for a variety of neurological disorders. The investigators' goal&#xD;
+      is to investigate whether neurofeedback through a fully implanted deep brain stimulation&#xD;
+      device is possible and can lead to a better control of pathological oscillations as well as&#xD;
+      symptom mitigation. Having shown that endogenous control over deep brain oscillations is&#xD;
+      possible, the investigators will also test this novel therapeutic approach for pathologies&#xD;
+      other than PD that are also treated with DBS. Neurofeedback using implanted DBS electrodes&#xD;
+      will have the advantage of enabling longer and multiple-day training sessions, which the&#xD;
+      investigators hypothesise to have a larger impact on control over pathological deep brain&#xD;
+      oscillations and neurological symptoms, as such a fully implanted neurofeedback system no&#xD;
+      longer requires the externalisation of DBS wires and is as such no longer limited to the&#xD;
+      first two days after electrode implantation. All in all, the investigators will not exceed a&#xD;
+      total streaming time of 7 hours per patients (7 d of battery time), which the investigators&#xD;
+      deem justifiable with respect to a battery life of &gt; 5 years. This proposed research is&#xD;
+      highly significant as it will help our understanding of various neurological diseases that&#xD;
+      are highly prevalent in society (PD being, for instance, the second most common&#xD;
+      neurodegenerative disorder after Alzheimer's disease) and might culminate in novel,&#xD;
+      endogenous treatment strategies. The overall risk for patients is minimal to non-existent, as&#xD;
+      stimulation parameters are unaffected and the intended changes in brain activity are&#xD;
+      self-induced while DBS stimulation is off.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 23, 2021</start_date>
+  <completion_date type="Anticipated">September 23, 2026</completion_date>
+  <primary_completion_date type="Anticipated">September 23, 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Amount of endogenous neuromodulation (difference in oscillatory power)</measure>
+    <time_frame>60 Minutes</time_frame>
+    <description>The investigators will assess the amount of endogenous modulation of the neurofeedback parameter as compared to a baseline state ('rest') as well as in a bidirectional neurofeedback design (upregulation vs. downregulation). Local field potentials are measured (LFP-recording; physiological parameter; for Parkinson patients the beta-frequencies will be assessed during the study period) using already implanted deep brain stimulation electrodes (Medtronic DBS electrodes) and used to compute the neurofeedback parameter. The amount of endogenous neuromodulation is determined as the difference of power of neuronal oscillations between two conditions [unit of measure: %-difference in power of deep brain neuronal oscillations].</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>performance in motor activity tasks</measure>
+    <time_frame>60 min</time_frame>
+    <description>The investigators will assess the 'performance in motor activity tasks' (= name of the measurement) using the measurement tools of wearable inertial measurement units (IMUs) and motion detectors. The following units of measure (physiological parameters) could be extracted from the recorded data: speed of movement, smoothness of movement, extent of movement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>transfer of neurofeedback-learnt strategies</measure>
+    <time_frame>60 min</time_frame>
+    <description>The investigators will assess the amount of endogenous modulation of the neurofeedback parameter as compared to a baseline state ('rest') as well as in a bidirectional neurofeedback design (upregulation vs. downregulation) in the ABSENCE of active neurofeedback. Local field potentials are measured (LFP-recording; physiological parameter; for Parkinson patients the beta-frequencies will be assessed during the study period) using already implanted deep brain stimulation electrodes (Medtronic DBS electrodes) and used to compute the neurofeedback parameter. The amount of endogenous neuromodulation is determined as the difference of power of neuronal oscillations between two conditions [unit of measure: %-difference in power of deep brain neuronal oscillations].</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>agency as measured on a visual scale (1-10)</measure>
+    <time_frame>60 min</time_frame>
+    <description>the subjectively perceived ability to control deep brain oscillatory activity. Patients will be asked to indicate the perceived ability (agency) to control the neurofeedback parameter on a visual scale from 0 (no control) to 10 (perfect control).</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Parkinson Disease</condition>
+  <condition>Epilepsy</condition>
+  <condition>Essential Tremor</condition>
+  <arm_group>
+    <arm_group_label>Bidirectional Neurofeedback</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Neurofeedback</intervention_name>
+    <description>Modulating brain oscillations based on visual neurofeedback</description>
+    <arm_group_label>Bidirectional Neurofeedback</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        patients undergoing clinically indicated implantation of a Percept™ PC neurostimulator, age&#xD;
+        ≥ 18 years as well as planned hospitalisation of ≥ 3 days after operation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        minimal prognosticated survival of less than 1 year, reduced state of consciousness (i. e.&#xD;
+        Glasgow Coma Scale &lt; 15), inability to communicate (in terms of hearing, seeing, speaking&#xD;
+        and understanding), other significant concomitant diseases (e. g. cardiovascular disease,&#xD;
+        infectious disease, isolation), inability to follow procedures, insufficient knowledge of&#xD;
+        project language, inability to give consent and unlikeliness to follow protocol.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Oliver Bichsel, MD, MSc ETH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>ETH Zurich</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Oliver Bichsel, MD, MSc ETH</last_name>
+    <phone>+41 44 510 72 34</phone>
+    <email>oliver.bichsel@hest.ethz.ch</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>ETH Zurich</name>
+      <address>
+        <city>Zürich</city>
+        <state>Zurich</state>
+        <zip>8092</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Oliver Bichsel, MD, MSc ETH</last_name>
+      <phone>+41 44 510 72 34</phone>
+      <email>oliver.bichsel@hest.ethz.ch</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 1, 2021</study_first_posted>
+  <last_update_submitted>October 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>ETH Zurich</investigator_affiliation>
+    <investigator_full_name>Oliver Bichsel</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Parkinson Disease</mesh_term>
+    <mesh_term>Essential Tremor</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

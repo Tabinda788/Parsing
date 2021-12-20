@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="472">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05155007</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CR109103</org_study_id>
+    <secondary_id>2021-003801-23</secondary_id>
+    <secondary_id>53718678RSV1014</secondary_id>
+    <nct_id>NCT05155007</nct_id>
+  </id_info>
+  <brief_title>A Study in Healthy Adult Participants to Assess the Effects of Ciclosporin Administration on Rilematovir</brief_title>
+  <official_title>A Phase 1, Open-label Study in Healthy Adult Participants to Assess the Effects of Ciclosporin Administration on the Single-dose Pharmacokinetics of Rilematovir</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Janssen Research &amp; Development, LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Janssen Research &amp; Development, LLC</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the pharmacokinetic (PK) of a single-dose of&#xD;
+      rilematovir co-administered with a single-dose of ciclosporin compared to a single-dose&#xD;
+      administration of rilematovir alone.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">December 10, 2021</start_date>
+  <completion_date type="Anticipated">February 4, 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 4, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Treatment A and Treatment C: Maximum Observed Plasma Analyte Concentration (Cmax) of Rilematovir</measure>
+    <time_frame>Pre-dose up to 24 hours</time_frame>
+    <description>Cmax is defined as maximum observed plasma analyte concentration of rilematovir.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment A and Treatment C: The Actual Sampling Time to Reach the Maximum Observed Plasma Analyte Concentration (Tmax) of Rilematovir</measure>
+    <time_frame>Pre-dose up to 24 hours</time_frame>
+    <description>Tmax is defined as the actual sampling time to reach the maximum observed plasma analyte concentration of rilematovir.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment A and Treatment C: Apparent Terminal Elimination Half-life (T1/2) of Rilematovir</measure>
+    <time_frame>Pre-dose up to 96 hours</time_frame>
+    <description>T1/2 is defined as the apparent terminal elimination half-life associated with the terminal slope of the semilogarithmic drug concentration-time curve.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment A and Treatment C: Area Under the Plasma Analyte Concentration Versus Time Curve From Time Zero to the Time of the Last Measurable Concentration (AUC[0-last]) of Rilematovir</measure>
+    <time_frame>Pre-dose up to 96 hours</time_frame>
+    <description>AUC(0-last) is defined as area under the plasma analyte concentration versus time curve from time zero to the time of the last measurable concentration of rilematovir.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment A and Treatment C: Area Under the Plasma Analyte Concentration Versus Time Curve From Time Zero to Infinite Time (AUC[0-infinity]) of Rilematovir</measure>
+    <time_frame>Pre-dose up to 96 hours</time_frame>
+    <description>AUC(0-infinity) is defined as area under the plasma analyte concentration versus time curve from time zero to infinite time of rilematovir.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment A and Treatment C: Total Apparent Oral Clearance (CL/F) of Rilematovir</measure>
+    <time_frame>Pre-dose up to 96 hours</time_frame>
+    <description>CL/F is defined as total apparent oral clearance of rilematovir.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Treatment B and Treatment C: Maximum Observed Whole Blood Analyte Concentration (Cmax) of Ciclosporin</measure>
+    <time_frame>Pre-dose up to 24 hours</time_frame>
+    <description>Cmax is defined as maximum observed whole blood analyte concentration of ciclosporin.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment B and Treatment C: The Actual Sampling Time to Reach the Maximum Observed Whole Blood Analyte Concentration (Tmax) of Ciclosporin</measure>
+    <time_frame>Pre-dose up to 24 hours</time_frame>
+    <description>Tmax is defined as the actual sampling time to reach the maximum observed whole blood analyte concentration of ciclosporin.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment B and Treatment C: Apparent Terminal Elimination Half-life (T1/2) of Ciclosporin</measure>
+    <time_frame>Pre-dose up to 96 hours</time_frame>
+    <description>T1/2 is defined as apparent terminal elimination half-life associated with the terminal slope of the semilogarithmic drug concentration-time curve.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment B and Treatment C: Area Under the Whole Blood Analyte Concentration Versus Time Curve From Time Zero to the Time of the Last Measurable Concentration (AUC[0-last]) of Ciclosporin</measure>
+    <time_frame>Pre-dose up to 96 hours</time_frame>
+    <description>AUC(0-last) is defined as area under the whole blood analyte concentration versus time curve from time zero to the time of the last measurable concentration of ciclosporin.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment B and Treatment C: Area Under the Whole Blood Analyte Concentration Versus Time Curve From Time Zero to Infinite Time (AUC[0-infinity]) of Ciclosporin</measure>
+    <time_frame>Pre-dose up to 96 hours</time_frame>
+    <description>AUC(0-infinity) is defined as area under the whole blood analyte concentration versus time curve from time Zero to infinite time of ciclosporin.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment B and Treatment C: Total Apparent Oral Clearance (CL/F) of Ciclosporin</measure>
+    <time_frame>Pre-dose up to 96 hours</time_frame>
+    <description>CL/F is defined as total apparent oral clearance of ciclosporin.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Adverse Events (AEs)</measure>
+    <time_frame>Up to Week 12</time_frame>
+    <description>An AE is any untoward medical occurrence in a clinical study participant administered a pharmaceutical (investigational or non-investigational) product. An AE does not necessarily have a causal relationship with the intervention.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Abnormalities in Electrocardiogram (ECG)</measure>
+    <time_frame>Up to Week 12</time_frame>
+    <description>Percentage of participants with abnormalities in ECG will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Abnormalities in Physical Examination</measure>
+    <time_frame>Up to Week 12</time_frame>
+    <description>Percentage of participants with abnormalities in physical examination (including height, body weight and examination of all body systems and dermatologic examinations) will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Abnormalities in Vital Signs</measure>
+    <time_frame>Up to Week 12</time_frame>
+    <description>Percentage of participants with abnormalities in vital signs (including temperature [tympanic], pulse/heart rate, blood pressure [systolic and diastolic]) will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Abnormalities in Clinical Laboratory Tests</measure>
+    <time_frame>Up to Week 12</time_frame>
+    <description>Percentage of participants with abnormalities in clinical laboratory tests (including serum chemistry, hematology and routine urinalysis) will be reported.</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">18</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Treatment Sequence ABC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a single oral dose of rilematovir (Treatment A) in Treatment Period 1, followed by a single oral dose of ciclosporin (Treatment B) in Treatment Period 2 and then single oral dose of ciclosporin plus single oral dose of rilematovir (Treatment C) in Treatment Period 3 on Day 1 of each Treatment Period under fasted conditions. Each treatment period will be separated by a washout period of at least 5 days and maximum 21 days between subsequent intakes of study intervention.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Sequence BCA</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive Treatment B in Treatment Period 1, followed by Treatment C in Treatment Period 2 and then Treatment A in Treatment Period 3 on Day 1 of each Treatment Period under fasted conditions. Each treatment period will be separated by a washout period of at least 5 days and maximum 21 days between subsequent intakes of study intervention.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Sequence CAB</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive Treatment C in Treatment Period 1, followed by Treatment A in Treatment Period 2 and then Treatment B in Treatment Period 3 on Day 1 of each Treatment Period under fasted conditions. Each treatment period will be separated by a washout period of at least 5 days and maximum 21 days between subsequent intakes of study intervention.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Sequence ACB</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive Treatment A in Treatment Period 1, followed by Treatment C in Treatment Period 2 and then Treatment B in Treatment Period 3 on Day 1 of each Treatment Period under fasted conditions. Each treatment period will be separated by a washout period of at least 5 days and maximum 21 days between subsequent intakes of study intervention.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Sequence BAC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive Treatment B in Treatment Period 1, followed by Treatment A in Treatment Period 2 and then Treatment C in Treatment Period 3 on Day 1 of each Treatment Period under fasted conditions. Each treatment period will be separated by a washout period of at least 5 days and maximum 21 days between subsequent intakes of study intervention.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Sequence CBA</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive Treatment C in Treatment Period 1, followed by Treatment B in Treatment Period 2 and then Treatment A in Treatment Period 3 on Day 1 of each Treatment Period under fasted conditions. Each treatment period will be separated by a washout period of at least 5 days and maximum 21 days between subsequent intakes of study intervention.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rilematovir</intervention_name>
+    <description>Rilematovir will be administered orally as per assigned treatment sequence.</description>
+    <arm_group_label>Treatment Sequence ABC</arm_group_label>
+    <arm_group_label>Treatment Sequence ACB</arm_group_label>
+    <arm_group_label>Treatment Sequence BAC</arm_group_label>
+    <arm_group_label>Treatment Sequence BCA</arm_group_label>
+    <arm_group_label>Treatment Sequence CAB</arm_group_label>
+    <arm_group_label>Treatment Sequence CBA</arm_group_label>
+    <other_name>JNJ-53718678</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ciclosporin</intervention_name>
+    <description>Ciclosporin will be administered orally as per assigned treatment sequence.</description>
+    <arm_group_label>Treatment Sequence ABC</arm_group_label>
+    <arm_group_label>Treatment Sequence ACB</arm_group_label>
+    <arm_group_label>Treatment Sequence BAC</arm_group_label>
+    <arm_group_label>Treatment Sequence BCA</arm_group_label>
+    <arm_group_label>Treatment Sequence CAB</arm_group_label>
+    <arm_group_label>Treatment Sequence CBA</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Body weight not less than 50 kilograms (kg) and body mass index (BMI; weight&#xD;
+             kg/height^2 [meter {m^2}]) within the range 18.0 to 30.0 kilograms per meter square&#xD;
+             (kg/m^2) (inclusive)&#xD;
+&#xD;
+          -  Female participants, except those that are of non-childbearing potential, must have a&#xD;
+             negative highly sensitive serum (beta-human chorionic gonadotropin [beta-hCG]) at&#xD;
+             screening and a negative urine pregnancy test on Day -1 of Treatment Period 1&#xD;
+&#xD;
+          -  A female participant using hormonal contraceptives as a means of birth control (a&#xD;
+             stable treatment for at least 30 days prior to screening) must agree to continue use&#xD;
+             of the same hormonal contraceptives throughout the study and for 90 days after the end&#xD;
+             of last study treatment&#xD;
+&#xD;
+          -  Blood pressure (after the participant is supine for at least 5 minutes) between 90 and&#xD;
+             140 millimeter of mercury (mmHg) systolic, inclusive, and no higher than 90 mmHg&#xD;
+             diastolic&#xD;
+&#xD;
+          -  A 12-lead electrocardiogram (ECG) consistent with normal cardiac conduction and&#xD;
+             function, including: normal sinus rhythm (heart rate between 45 and 90 beats per&#xD;
+             minute, extremes included); QTc interval less than or equal to (&lt;=) 450 milliseconds&#xD;
+             (ms) for men, &lt;= 470 for women; QRS interval of less than (&lt;) 110 ms; PR interval &lt;=&#xD;
+             200 ms; electrocardiogram morphology consistent with healthy cardiac conduction and&#xD;
+             function&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants with abnormal values for alanine aminotransferase (ALT) and aspartate&#xD;
+             aminotransferase (AST) Grade 1 or greater (greater than [&gt;] 1.25* upper limit of&#xD;
+             normal [ULN])&#xD;
+&#xD;
+          -  Participants with any history of clinically significant skin disease such as, but not&#xD;
+             limited to, dermatitis, eczema, drug rash, psoriasis, food allergy, and urticaria&#xD;
+&#xD;
+          -  Known allergies, hypersensitivity, or intolerance to rilematovir or its excipients.&#xD;
+             Known allergies, hypersensitivity, or intolerance to ciclosporin or its excipients&#xD;
+&#xD;
+          -  Participant has received an experimental drug, vaccine or used an experimental medical&#xD;
+             device within 1 month or within a period less than 10 times the drug's half-life,&#xD;
+             whichever is longer, before the first dose of the study intervention is scheduled&#xD;
+&#xD;
+          -  Participant has a history of human immunodeficiency virus (HIV) antibody positive, or&#xD;
+             tests positive for HIV at screening&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Janssen Research &amp; Development, LLC Clinical Trial</last_name>
+    <role>Study Director</role>
+    <affiliation>Janssen Research &amp; Development, LLC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Study Contact</last_name>
+    <phone>844-434-4210</phone>
+    <email>JNJ.CT@sylogent.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Clinical Pharmacology Unit</name>
+      <address>
+        <city>Merksem</city>
+        <zip>2170</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <link>
+    <url>http://pam.sylogent.com/cr/CR109103</url>
+    <description>To learn how to participate in this trial please click here.</description>
+  </link>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>December 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 13, 2021</study_first_posted>
+  <last_update_submitted>December 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclosporine</mesh_term>
+    <mesh_term>Cyclosporins</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The data sharing policy of the Janssen Pharmaceutical Companies of Johnson &amp; Johnson is available at www.janssen.com/clinical-trials/transparency. As noted on this site, requests for access to the study data can be submitted through Yale Open Data Access (YODA) Project site at yoda.yale.edu</ipd_description>
+    <ipd_url>https://www.janssen.com/clinical-trials/transparency</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

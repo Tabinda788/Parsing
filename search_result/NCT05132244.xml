@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2221">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05132244</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H21-03061</org_study_id>
+    <nct_id>NCT05132244</nct_id>
+  </id_info>
+  <brief_title>Monitoring and Managing Glucose Levels in People With Pancreatic Cancer</brief_title>
+  <acronym>PEGASUS</acronym>
+  <official_title>Pancreatic Cancer Glucose Assessment and Regulation Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>British Columbia Cancer Agency</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of British Columbia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>British Columbia Cancer Agency</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will investigate whether or not it is feasible to closely monitor and manage&#xD;
+      glucose levels in people with pancreatic cancer. It will also investigate what impact glucose&#xD;
+      management may have on pancreatic cancer.&#xD;
+&#xD;
+      This is a pilot study that will use continuous glucose monitors (CGM) to monitor glucose&#xD;
+      levels in approximately 50 participants with pancreatic cancer. Participants will receive&#xD;
+      standard chemotherapy with a combination of up to four drugs to treat their pancreatic&#xD;
+      cancer: oxaliplatin, irinotecan, 5-fluorouracil, and leucovorin (FOLFIRINOX). To treat high&#xD;
+      glucose levels, participants will be randomly assigned to one of two groups: Group 1 will&#xD;
+      receive anti-hyperglycemic treatment as guided by an endocrinologist with the aim of&#xD;
+      maintaining glucose levels between 4 and 10 mmol/L; Group 2 will receive anti-hyperglycemic&#xD;
+      treatment if their glucose levels are above 15 mmol/L, which is standard care. Participants&#xD;
+      in both Groups 1 and 2 will receive standard anti-hyperglycemic treatments: metformin,&#xD;
+      insulin, glucagon-like peptide-1 (GLP-1) receptor agonists, sodium glucose co-transporter&#xD;
+      (SGLT2) inhibitors, and dipeptidyl peptidase 4 (DPP-4) inhibitors.&#xD;
+&#xD;
+      After 4 cycles of FOLFIRINOX, the CGM will be removed but any anti-hyperglycemic treatments&#xD;
+      will continue as needed. If participants discontinue treatment with FOLFIRINOX, they will&#xD;
+      continue to be followed for survival and subsequent anti-cancer therapy and will continue&#xD;
+      follow-up for glucose-related concerns at the discretion of their endocrinologist and/or&#xD;
+      medical oncologist.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2022</start_date>
+  <completion_date type="Anticipated">December 2025</completion_date>
+  <primary_completion_date type="Anticipated">September 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>Participants in Group 1 can view their glucose data in real-time from the continuous glucose monitor (CGM) whereas participants in Group 2 cannot. Participants in Groups 1 and 2 will NOT be masked to the anti-cancer or anti-hypertensive treatment they receive.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Frequency of glucose levels maintained within range in Arm 1 compared to Arm 2</measure>
+    <time_frame>From the Cycle 4 FOLFIRINOX treatment date to the Cycle 5 FOLFIRINOX treatment date (each cycle is typically 14 days).</time_frame>
+    <description>The percentage of time each participant's glucose levels in Arm 1 and Arm 2 remained within the 4-10 mmol/L range during the fourth cycle of FOLFIRINOX treatment as measured by a continuous glucose monitor.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall response rate (ORR) in each study arm, as defined by RECIST 1.1</measure>
+    <time_frame>From the date of the screening scan (within 28 days of first dose) until the date of confirmed progression, withdrawal, date of death, or end of study, whichever comes first, assessed up to 43 months.</time_frame>
+    <description>The proportion of participants in each study arm who have a complete response (CR) or partial response (PR) to FOLFIRINOX treatment, as defined by RECIST 1.1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS) in each study arm from the initiation of FOLFIRINOX</measure>
+    <time_frame>From the date of first dose of FOLFIRINOX until the date of confirmed progression, withdrawal, date of death, or end of study, whichever comes first, assessed up to 43 months.</time_frame>
+    <description>The length of time from the first dose of FOLFIRINOX until the date of progressive disease (PD), as defined by RECIST 1.1, for participants in each study arm.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS) in each study arm from the initiation of FOLFIRINOX</measure>
+    <time_frame>From the date of first dose of FOLFIRINOX until the date of death or end of study, whichever comes first, assessed up to 43 months.</time_frame>
+    <description>The length of time from the initiation of FOLFIRINOX that participants survive in each study arm.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Overall response rate (ORR) in each study arm, as defined by RECIST 1.1 and stratified by prognostic and metabolic gene expression subtypes of PDAC</measure>
+    <time_frame>From the date of the screening scan (within 28 days of first dose) until the date of confirmed progression, withdrawal, date of death, or end of study, whichever comes first, assessed up to 43 months.</time_frame>
+    <description>The proportion of participants in each study arm stratified by prognostic and metabolic gene expression subtypes of PDAC who have a complete response (CR) or partial response (PR) to FOLFIRINOX treatment, as defined by RECIST 1.1.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Progression-free survival (PFS) in each study arm stratified by prognostic and metabolic gene expression subtypes of PDAC from the initiation of FOLFIRINOX</measure>
+    <time_frame>From the date of first dose of FOLFIRINOX until the date of confirmed progression, withdrawal, date of death, or end of study, whichever comes first, assessed up to 43 months.</time_frame>
+    <description>The length of time from the first dose of FOLFIRINOX until the date of progressive disease (PD), as defined by RECIST 1.1, for participants in each study arm stratified by prognostic and metabolic gene expression subtypes of PDAC.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Overall survival (OS) in each study arm stratified by prognostic and metabolic gene expression subtypes of PDAC from the initiation of FOLFIRINOX</measure>
+    <time_frame>From the date of first dose of FOLFIRINOX until the date of death or end of study, whichever comes first, assessed up to 43 months.</time_frame>
+    <description>The length of time from the initiation of FOLFIRINOX that participants survive in each study arm stratified by prognostic and metabolic gene expression subtypes of PDAC.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Overall response rate (ORR) in each study arm, as defined by RECIST 1.1 and stratified by clinical features (i.e. type 2 diabetes), pathological profiles, and genomic profiles</measure>
+    <time_frame>From the date of the screening scan (within 28 days of first dose) until the date of confirmed progression, withdrawal, date of death, or end of study, whichever comes first, assessed up to 43 months.</time_frame>
+    <description>The proportion of participants in each study arm stratified by clinical features (i.e. type 2 diabetes), pathological profiles, and genomic profiles who have a complete response (CR) or partial response (PR) to FOLFIRINOX treatment, as defined by RECIST 1.1.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Progression-free survival (PFS) in each study arm stratified by clinical features (i.e. type 2 diabetes), pathological profiles, and genomic profiles from the initiation of FOLFIRINOX</measure>
+    <time_frame>From the date of first dose of FOLFIRINOX until the date of confirmed progression, withdrawal, date of death, or end of study, whichever comes first, assessed up to 43 months.</time_frame>
+    <description>The length of time from the first dose of FOLFIRINOX until the date of progressive disease (PD), as defined by RECIST 1.1, for participants in each study arm stratified by clinical features (i.e. type 2 diabetes), pathological profiles, and genomic profiles.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Overall survival (OS) in each study arm stratified by clinical features (i.e. type 2 diabetes), pathological profiles, and genomic profiles from the initiation of FOLFIRINOX</measure>
+    <time_frame>From the date of first dose of FOLFIRINOX until the date of death or end of study, whichever comes first, assessed up to 43 months.</time_frame>
+    <description>The length of time from the initiation of FOLFIRINOX that participants survive in each study arm stratified by clinical features (i.e. type 2 diabetes), pathological profiles, and genomic profiles.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Amount of insulin, measured in molar, for participants in each study arm from screening until the end of study visit</measure>
+    <time_frame>From the date of screening blood sample collection until the date of the end of study blood sample collection (an average of 6 months).</time_frame>
+    <description>The quantity of insulin, measured in molar from immunoassays, from blood samples collected throughout the study for the participants in each study arm.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Amount of proinsulin, measured in molar, for participants in each study arm from screening until the end of study visit</measure>
+    <time_frame>From the date of the screening blood sample collection until the date of the end of study blood sample collection (an average of 6 months).</time_frame>
+    <description>The quantity of proinsulin, measured in molar from immunoassays, from blood samples collected throughout the study for the participants in each study arm.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Amount of C-peptide, measured in molar, for participants in each study arm from screening until the end of study visit</measure>
+    <time_frame>From the date of the screening blood sample collection until the date of the end of study blood sample collection (an average of 6 months).</time_frame>
+    <description>The quantity of C-peptide, measured in molar from immunoassays, from blood samples collected throughout the study for the participants in each study arm.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Amount of circulating biomarkers, measured in molar, for participants in each study arm from screening until the end of study visit</measure>
+    <time_frame>From the date of the screening blood sample collection until the date of the end of study blood sample collection (an average of 6 months).</time_frame>
+    <description>The quantity of circulating biomarkers, measured in molar from immunoassays, from blood samples collected throughout the study for the participants in each study arm.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Pancreatic Cancer</condition>
+  <condition>PDAC - Pancreatic Ductal Adenocarcinoma</condition>
+  <condition>Hyperglycemia</condition>
+  <arm_group>
+    <arm_group_label>Intensive Glucose Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive standard anti-hyperglycemic treatment as guided by an endocrinologist using a combination of data from a continuous glucose monitor (CGM) and standard blood work drawn prior to each cycle of chemotherapy. Treatment will aim to maintain glucose levels between 4 and 10 mmol/L. Participants will have real-time access to their glucose data via the CGM.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard Care</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Participants will receive standard anti-hyperglycemic treatment only if blood glucose level is above 15 mmol/L as measured from standard blood work drawn prior to each cycle of chemotherapy. Participants will wear a CGM but will not be able to view their glucose data. Participants may be referred to an endocrinologist at the discretion of their medical oncologist.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Endocrinologist-directed target blood glucose level 4-10 mmol/L using data from a continuous glucose monitor (CGM)</intervention_name>
+    <description>Standard anti-hyperglycemic treatment given as directed by an endocrinologist to maintain blood glucose level within 4-10 mmol/L based on data from a continuous glucose monitor (CGM) and standard blood work drawn prior to each cycle of chemotherapy. Participants will have access to their glucose data from the CGM.</description>
+    <arm_group_label>Intensive Glucose Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard Care</intervention_name>
+    <description>Standard anti-hyperglycemic treatment given only if blood glucose level is greater than 15 mmol/L as measured from standard blood work drawn prior to each cycle of chemotherapy. Participants will wear a continuous glucose monitor (CGM) but will not have access to their glucose data. Participants may be referred to an endocrinologist at the discretion of their medical oncologist.</description>
+    <arm_group_label>Standard Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Histological/cytological diagnosis of pancreatic ductal adenocarcinoma (PDAC).&#xD;
+&#xD;
+          -  Planned to undergo first-line systemic therapy with FOLFIRINOX.&#xD;
+&#xD;
+          -  Age greater than or equal to 18 years.&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status 0-1.&#xD;
+&#xD;
+          -  Adequate bone marrow and organ function as defined by the following laboratory values:&#xD;
+&#xD;
+               1. Absolute neutrophil count (ANC) greater than or equal to 1.5 x 10^9/L.&#xD;
+&#xD;
+               2. Platelet count greater than or equal to 75 x 10^9/L.&#xD;
+&#xD;
+               3. Hemoglobin greater than or equal to 9.0 g/dL.&#xD;
+&#xD;
+               4. Estimated glomerular filtration rate (GFR) by Cockroft-Gault equation OR 24 hour&#xD;
+                  urine collection greater than or equal to 40 ml/min.&#xD;
+&#xD;
+               5. Creatinine clearance greater than or equal to 40 mL/min using Cockcroft-Gault&#xD;
+                  formula.&#xD;
+&#xD;
+               6. Potassium within normal limits, or corrected with supplements.&#xD;
+&#xD;
+               7. International normalized ratio (INR) less than or equal to 1.5.&#xD;
+&#xD;
+               8. Total serum bilirubin less than or equal to 2 x upper limit of normal (ULN) (any&#xD;
+                  elevated bilirubin should be asymptomatic at enrollment) except for participants&#xD;
+                  with documented Gilbert's syndrome who may only be included if the total&#xD;
+                  bilirubin less than or equal to 3 x ULN or direct bilirubin less than or equal to&#xD;
+                  1.5 x ULN).&#xD;
+&#xD;
+               9. Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) less than or&#xD;
+                  equal to 2.5 x ULN (or less than or equal to 5 x ULN if liver metastases are&#xD;
+                  present).&#xD;
+&#xD;
+          -  Able to understand and voluntarily sign the informed consent form.&#xD;
+&#xD;
+          -  Able to comply with the study visit schedule and other protocol requirements.&#xD;
+&#xD;
+          -  Able to swallow oral medications and has no contraindications to subcutaneous insulin&#xD;
+             injections.&#xD;
+&#xD;
+          -  Measurable or evaluable disease by Response Evaluation Criteria in Solid Tumours&#xD;
+             (RECIST) 1.1 at baseline.&#xD;
+&#xD;
+          -  Life expectancy of more than 90 days as judged by the study doctor.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Absence of distant or lymph node metastases. Participants with borderline resectable&#xD;
+             or locally advanced PDAC are not eligible.&#xD;
+&#xD;
+          -  Received prior systemic therapy (chemotherapy or any other anti-cancer agent) for&#xD;
+             treatment of metastatic PDAC. Participants who received adjuvant chemotherapy after&#xD;
+             surgical resection of early stage disease are eligible.&#xD;
+&#xD;
+          -  Currently receiving anti-cancer therapy (chemotherapy or any other anti-cancer agent).&#xD;
+&#xD;
+          -  Not fit for combination chemotherapy as judged by the study doctor.&#xD;
+&#xD;
+          -  Presence of brain metastases.&#xD;
+&#xD;
+          -  Known diagnosis of type I diabetes where strict glucose control and close&#xD;
+             Endocrinology follow-up is already indicated.&#xD;
+&#xD;
+          -  Known diagnosis of type II diabetes and already followed by Endocrinologist.&#xD;
+&#xD;
+          -  Female participants with a positive pregnancy test.&#xD;
+&#xD;
+          -  Participants who are not safe to include in the study as judged by the study doctor&#xD;
+             for any medical or non-medical reason.&#xD;
+&#xD;
+          -  Unable to comply with study assessments and follow-up.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Daniel Renouf, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>BC Cancer</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Erica Tsang, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>BC Cancer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Daniel Renouf, MD, MPH</last_name>
+    <phone>604-877-6000</phone>
+    <phone_ext>672445</phone_ext>
+    <email>drenouf@bccancer.bc.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Erica Tsang, MD, MPH</last_name>
+    <phone>604-877-6000</phone>
+    <phone_ext>672445</phone_ext>
+    <email>erica.tsang@bccancer.bc.ca</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Becker S, Dossus L, Kaaks R. Obesity related hyperinsulinaemia and hyperglycaemia and cancer development. Arch Physiol Biochem. 2009 May;115(2):86-96. doi: 10.1080/13813450902878054. Review.</citation>
+    <PMID>19485704</PMID>
+  </reference>
+  <reference>
+    <citation>Dawson DW, Hertzer K, Moro A, Donald G, Chang HH, Go VL, Pandol SJ, Lugea A, Gukovskaya AS, Li G, Hines OJ, Rozengurt E, Eibl G. High-fat, high-calorie diet promotes early pancreatic neoplasia in the conditional KrasG12D mouse model. Cancer Prev Res (Phila). 2013 Oct;6(10):1064-73. doi: 10.1158/1940-6207.CAPR-13-0065. Epub 2013 Aug 13.</citation>
+    <PMID>23943783</PMID>
+  </reference>
+  <reference>
+    <citation>Harris D, Barts A, Connors J, Dahl M, Elliott T, Kong J, Keane T, Thompson D, Stafford S, Ur E, Sirrs S. Glucocorticoid-induced hyperglycemia is prevalent and unpredictable for patients undergoing cancer therapy: an observational cohort study. Curr Oncol. 2013 Dec;20(6):e532-8. doi: 10.3747/co.20.1499.</citation>
+    <PMID>24311953</PMID>
+  </reference>
+  <reference>
+    <citation>Hart AR, Kennedy H, Harvey I. Pancreatic cancer: a review of the evidence on causation. Clin Gastroenterol Hepatol. 2008 Mar;6(3):275-82. doi: 10.1016/j.cgh.2007.12.041. Review.</citation>
+    <PMID>18328435</PMID>
+  </reference>
+  <reference>
+    <citation>Hassan MM, Bondy ML, Wolff RA, Abbruzzese JL, Vauthey JN, Pisters PW, Evans DB, Khan R, Chou TH, Lenzi R, Jiao L, Li D. Risk factors for pancreatic cancer: case-control study. Am J Gastroenterol. 2007 Dec;102(12):2696-707. Epub 2007 Aug 31.</citation>
+    <PMID>17764494</PMID>
+  </reference>
+  <reference>
+    <citation>Hjartåker A, Langseth H, Weiderpass E. Obesity and diabetes epidemics: cancer repercussions. Adv Exp Med Biol. 2008;630:72-93. Review.</citation>
+    <PMID>18637486</PMID>
+  </reference>
+  <reference>
+    <citation>Huxley R, Ansary-Moghaddam A, Berrington de González A, Barzi F, Woodward M. Type-II diabetes and pancreatic cancer: a meta-analysis of 36 studies. Br J Cancer. 2005 Jun 6;92(11):2076-83.</citation>
+    <PMID>15886696</PMID>
+  </reference>
+  <reference>
+    <citation>Karasinska JM, Topham JT, Kalloger SE, Jang GH, Denroche RE, Culibrk L, Williamson LM, Wong HL, Lee MKC, O'Kane GM, Moore RA, Mungall AJ, Moore MJ, Warren C, Metcalfe A, Notta F, Knox JJ, Gallinger S, Laskin J, Marra MA, Jones SJM, Renouf DJ, Schaeffer DF. Altered Gene Expression along the Glycolysis-Cholesterol Synthesis Axis Is Associated with Outcome in Pancreatic Cancer. Clin Cancer Res. 2020 Jan 1;26(1):135-146. doi: 10.1158/1078-0432.CCR-19-1543. Epub 2019 Sep 3.</citation>
+    <PMID>31481506</PMID>
+  </reference>
+  <reference>
+    <citation>Kawada K, Toda K, Sakai Y. Targeting metabolic reprogramming in KRAS-driven cancers. Int J Clin Oncol. 2017 Aug;22(4):651-659. doi: 10.1007/s10147-017-1156-4. Epub 2017 Jun 24. Review.</citation>
+    <PMID>28647837</PMID>
+  </reference>
+  <reference>
+    <citation>Kenner BJ, Chari ST, Maitra A, Srivastava S, Cleeter DF, Go VL, Rothschild LJ, Goldberg AE. Early Detection of Pancreatic Cancer-a Defined Future Using Lessons From Other Cancers: A White Paper. Pancreas. 2016 Sep;45(8):1073-9. doi: 10.1097/MPA.0000000000000701.</citation>
+    <PMID>27518362</PMID>
+  </reference>
+  <reference>
+    <citation>Kleeff J, Costello E, Jackson R, Halloran C, Greenhalf W, Ghaneh P, Lamb RF, Lerch MM, Mayerle J, Palmer D, Cox T, Rawcliffe CL, Strobel O, Büchler MW, Neoptolemos JP. The impact of diabetes mellitus on survival following resection and adjuvant chemotherapy for pancreatic cancer. Br J Cancer. 2016 Sep 27;115(7):887-94. doi: 10.1038/bjc.2016.277. Epub 2016 Sep 1.</citation>
+    <PMID>27584663</PMID>
+  </reference>
+  <reference>
+    <citation>Koorstra JB, Hustinx SR, Offerhaus GJ, Maitra A. Pancreatic carcinogenesis. Pancreatology. 2008;8(2):110-25. doi: 10.1159/000123838. Epub 2008 Apr 1. Review.</citation>
+    <PMID>18382097</PMID>
+  </reference>
+  <reference>
+    <citation>Kopp JL, von Figura G, Mayes E, Liu FF, Dubois CL, Morris JP 4th, Pan FC, Akiyama H, Wright CV, Jensen K, Hebrok M, Sander M. Identification of Sox9-dependent acinar-to-ductal reprogramming as the principal mechanism for initiation of pancreatic ductal adenocarcinoma. Cancer Cell. 2012 Dec 11;22(6):737-50. doi: 10.1016/j.ccr.2012.10.025. Epub 2012 Nov 29.</citation>
+    <PMID>23201164</PMID>
+  </reference>
+  <reference>
+    <citation>Lauby-Secretan B, Scoccianti C, Loomis D, Grosse Y, Bianchini F, Straif K; International Agency for Research on Cancer Handbook Working Group. Body Fatness and Cancer--Viewpoint of the IARC Working Group. N Engl J Med. 2016 Aug 25;375(8):794-8. doi: 10.1056/NEJMsr1606602.</citation>
+    <PMID>27557308</PMID>
+  </reference>
+  <reference>
+    <citation>Li D, Xie K, Wolff R, Abbruzzese JL. Pancreatic cancer. Lancet. 2004 Mar 27;363(9414):1049-57. Review.</citation>
+    <PMID>15051286</PMID>
+  </reference>
+  <reference>
+    <citation>McCarty MF. Insulin secretion as a determinant of pancreatic cancer risk. Med Hypotheses. 2001 Aug;57(2):146-50.</citation>
+    <PMID>11461162</PMID>
+  </reference>
+  <reference>
+    <citation>Pannala R, Leirness JB, Bamlet WR, Basu A, Petersen GM, Chari ST. Prevalence and clinical profile of pancreatic cancer-associated diabetes mellitus. Gastroenterology. 2008 Apr;134(4):981-7. doi: 10.1053/j.gastro.2008.01.039. Epub 2008 Jan 18.</citation>
+    <PMID>18395079</PMID>
+  </reference>
+  <reference>
+    <citation>Pleasance E, Titmuss E, Williamson L, Kwan H, Culibrk L, Zhao EY, Dixon K, Fan K, Bowlby R, Jones MR, et al. Pan-cancer analysis of advanced patient tumors reveals interactions between therapy and genomic landscapes. Nature Cancer. 2020; 1: 452-468.</citation>
+  </reference>
+  <reference>
+    <citation>Polonsky KS. Dynamics of insulin secretion in obesity and diabetes. Int J Obes Relat Metab Disord. 2000 Jun;24 Suppl 2:S29-31. Review.</citation>
+    <PMID>10997604</PMID>
+  </reference>
+  <reference>
+    <citation>Sharma A, Chari ST. Pancreatic Cancer and Diabetes Mellitus. Curr Treat Options Gastroenterol. 2018 Dec;16(4):466-478. doi: 10.1007/s11938-018-0197-8. Review.</citation>
+    <PMID>30215162</PMID>
+  </reference>
+  <reference>
+    <citation>Sharma A, Smyrk TC, Levy MJ, Topazian MA, Chari ST. Fasting Blood Glucose Levels Provide Estimate of Duration and Progression of Pancreatic Cancer Before Diagnosis. Gastroenterology. 2018 Aug;155(2):490-500.e2. doi: 10.1053/j.gastro.2018.04.025. Epub 2018 Apr 30.</citation>
+    <PMID>29723506</PMID>
+  </reference>
+  <reference>
+    <citation>Shlomai G, Neel B, LeRoith D, Gallagher EJ. Type 2 Diabetes Mellitus and Cancer: The Role of Pharmacotherapy. J Clin Oncol. 2016 Dec 10;34(35):4261-4269. Epub 2016 Nov 7. Review.</citation>
+    <PMID>27903154</PMID>
+  </reference>
+  <reference>
+    <citation>Siegel RL, Miller KD, Fuchs HE, Jemal A. Cancer Statistics, 2021. CA Cancer J Clin. 2021 Jan;71(1):7-33. doi: 10.3322/caac.21654. Epub 2021 Jan 12. Erratum in: CA Cancer J Clin. 2021 Jul;71(4):359.</citation>
+    <PMID>33433946</PMID>
+  </reference>
+  <reference>
+    <citation>Templeman NM, Flibotte S, Chik JHL, Sinha S, Lim GE, Foster LJ, Nislow C, Johnson JD. Reduced Circulating Insulin Enhances Insulin Sensitivity in Old Mice and Extends Lifespan. Cell Rep. 2017 Jul 11;20(2):451-463. doi: 10.1016/j.celrep.2017.06.048.</citation>
+    <PMID>28700945</PMID>
+  </reference>
+  <reference>
+    <citation>Tsujimoto T, Kajio H, Sugiyama T. Association between hyperinsulinemia and increased risk of cancer death in nonobese and obese people: A population-based observational study. Int J Cancer. 2017 Jul 1;141(1):102-111. doi: 10.1002/ijc.30729. Epub 2017 Apr 22.</citation>
+    <PMID>28390156</PMID>
+  </reference>
+  <reference>
+    <citation>Wang F, Qi XM, Wertz R, Mortensen M, Hagen C, Evans J, Sheinin Y, James M, Liu P, Tsai S, Thomas J, Mackinnon A, Dwinell M, Myers CR, Bartrons Bach R, Fu L, Chen G. p38γ MAPK Is Essential for Aerobic Glycolysis and Pancreatic Tumorigenesis. Cancer Res. 2020 Aug 15;80(16):3251-3264. doi: 10.1158/0008-5472.CAN-19-3281. Epub 2020 Jun 24.</citation>
+    <PMID>32580961</PMID>
+  </reference>
+  <reference>
+    <citation>Wang M, Li J, Lim GE, Johnson JD. Is dynamic autocrine insulin signaling possible? A mathematical model predicts picomolar concentrations of extracellular monomeric insulin within human pancreatic islets. PLoS One. 2013 Jun 14;8(6):e64860. doi: 10.1371/journal.pone.0064860. Print 2013.</citation>
+    <PMID>23798995</PMID>
+  </reference>
+  <reference>
+    <citation>Yan L, Raj P, Yao W, Ying H. Glucose Metabolism in Pancreatic Cancer. Cancers (Basel). 2019 Sep 29;11(10). pii: E1460. doi: 10.3390/cancers11101460. Review.</citation>
+    <PMID>31569510</PMID>
+  </reference>
+  <reference>
+    <citation>Yuan C, Rubinson DA, Qian ZR, Wu C, Kraft P, Bao Y, Ogino S, Ng K, Clancy TE, Swanson RS, Gorman MJ, Brais LK, Li T, Stampfer MJ, Hu FB, Giovannucci EL, Kulke MH, Fuchs CS, Wolpin BM. Survival among patients with pancreatic cancer and long-standing or recent-onset diabetes mellitus. J Clin Oncol. 2015 Jan 1;33(1):29-35. doi: 10.1200/JCO.2014.57.5688. Epub 2014 Nov 17.</citation>
+    <PMID>25403204</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang AMY, Magrill J, de Winter TJJ, Hu X, Skovsø S, Schaeffer DF, Kopp JL, Johnson JD. Endogenous Hyperinsulinemia Contributes to Pancreatic Cancer Development. Cell Metab. 2019 Sep 3;30(3):403-404. doi: 10.1016/j.cmet.2019.07.003. Epub 2019 Aug 1.</citation>
+    <PMID>31378465</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 24, 2021</study_first_posted>
+  <last_update_submitted>November 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>FOLFIRINOX</keyword>
+  <keyword>Continuous Glucose Monitor</keyword>
+  <keyword>Feasibility</keyword>
+  <keyword>Glycemic management</keyword>
+  <keyword>Endocrinologist</keyword>
+  <keyword>Intensive glucose intervention</keyword>
+  <keyword>Pilot</keyword>
+  <keyword>Glucose control</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pancreatic Neoplasms</mesh_term>
+    <mesh_term>Hyperglycemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

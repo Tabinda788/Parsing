@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7722">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05060718</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HONEST-PREPS</org_study_id>
+    <nct_id>NCT05060718</nct_id>
+  </id_info>
+  <brief_title>HOspital NEtwork STudy - Preparation for a Randomized Evaluation of Anti-Pneumonia Strategies</brief_title>
+  <acronym>HONEST-PREPS</acronym>
+  <official_title>HONEST-PREPS: Hospital Network Study - Preparation for a Randomized Evaluation of Anti-Pneumonia Strategies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UMC Utrecht</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Universiteit Antwerpen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University Hospital, Geneva</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>UMC Utrecht</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Hospital Acquired and Ventilator Associated Pneumonia (HAP/VAP) pose a significant burden to&#xD;
+      patients admitted to the Intensive Care Unit (ICU). Reported incidence ranges from 10-16% in&#xD;
+      all ICU patients (including HAP and VAP) and around 20-30% in ventilated patients (VAP).&#xD;
+      Patients with HAP/VAP have a high mortality rate. The estimated attributable mortality of VAP&#xD;
+      is 6-13%.&#xD;
+&#xD;
+      Randomized Controlled Trials (RCTs) are the gold standard for evaluating medical&#xD;
+      interventions, but are difficult to perform in this population. Several preventive and&#xD;
+      therapeutic treatment options are being developed that will require evaluation in phase-III&#xD;
+      trials. These trials are challenging due to the relatively low incidence of the outcome (e.g.&#xD;
+      HAP/VAP) or of the domain under study (e.g. specific antibiotic resistant infections) and the&#xD;
+      requirement of informed consent in critically ill patients. There is a need for a&#xD;
+      well-organized and well-trained international RCT network that enables efficient execution of&#xD;
+      a series of RCTs in this population.&#xD;
+&#xD;
+      The aim of the current study is to set up an infrastructure to prospectively enroll patients&#xD;
+      at risk of HAP/VAP in ICUs in several European countries. Site personnel will be trained to&#xD;
+      obtain a GCP (Good Clinical Practice) certification (if not already done), to timely identify&#xD;
+      and enroll patients at risk of HAP/VAP, to timely identify occurrence of HAP/VAP, collect&#xD;
+      informed consent forms, collect source data, enter data into a clinical database, and use a&#xD;
+      dedicated system to reply to queries. Site sample collection, processing, identifying the&#xD;
+      causative organism, and antibiotic susceptibility testing will be validated and adapted if&#xD;
+      required where possible. Where site infrastructure and regulations allow, the possibility of&#xD;
+      automated data collection of included participants will be explored to ensure sustainability&#xD;
+      of the future platform. Furthermore, collected data will be used to inform future diagnostic,&#xD;
+      preventive and therapeutic trials. E.g. they may support assumptions in sample size&#xD;
+      calculations and expected number of enrolled participants, they may help in prioritizing&#xD;
+      interventions, or they may be used in simulations of adaptive trials to optimize decision&#xD;
+      rules.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 20, 2020</start_date>
+  <completion_date type="Anticipated">October 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To determine the quality and efficiency of a research platform for HAP/VAP in ICUs by measuring the timeliness of enrolling eligible patients.</measure>
+    <time_frame>Through study completion, an average of 2 years</time_frame>
+    <description>Assess the proportion of screened, eligible patients at risk of developing HAP or VAP by being enrolled within 48 hours of ICU admission.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To determine the quality and efficiency of a research platform for HAP/VAP in ICUs by capturing bacterial HAP/VAP episodes.</measure>
+    <time_frame>Through study completion, an average of 2 years</time_frame>
+    <description>Analyse the proportion of enrolled patients who develop HAP/VAP during the initial ICU admission and who are registered in the eCRF (electronic Case Report Form) within 24 hours after onset. Onset is defined as the time of X-ray showing an infiltrate confirming HAP/VAP for patients meeting HAP/VAP FDA criteria.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To determine the incidence of HAP/VAP at the ICU.</measure>
+    <time_frame>From the date of enrolment through to the date of ICU discharge, an average of 11 days</time_frame>
+    <description>-Incidence of HAP and VAP per 1,000 patient-days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine the implementation of infection prevention and control measures in routine ICU care for prevention of HAP/VAP.</measure>
+    <time_frame>From the date of enrolment through to the date of ICU discharge, an average of 11 days</time_frame>
+    <description>-Implementation of ICU-level HAP/VAP infection prevention measures</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine microbiological etiology of HAP/VAP at the ICU (1).</measure>
+    <time_frame>Between days 7 and 10 after HAP/VAP onset</time_frame>
+    <description>-Microbiological cure between 7 and 10 days after HAP/VAP onset (%). (Proportion of patients with positive HAP/VAP diagnosis with the resolution of the symptoms between day 7-10 after the onset)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine microbiological etiology of HAP/VAP at the ICU (2).</measure>
+    <time_frame>+/- 48 hours of HAP/VAP onset</time_frame>
+    <description>-Distribution of bacterial pathogens (%). (Proportion of identified bacterial pathogens associated with HAP/VAP episode).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine microbiological etiology of HAP/VAP at the ICU (3)</measure>
+    <time_frame>+/- 48 hours of HAP/VAP onset</time_frame>
+    <description>-Resistance profiles of bacterial pathogens (% resistant) (proportion of resistant bacterial pathogen associated with HAP/VAP episode).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine management of HAP/VAP at the ICU (1)</measure>
+    <time_frame>From the date of enrolment through to the date of ICU discharge, on average of 6 days</time_frame>
+    <description>-IMV (Invasive Mechanical Ventilation)-free-days up to 28 days after VAP onset (days).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine management of HAP/VAP at the ICU (2)</measure>
+    <time_frame>From the date of enrolment through to the date of ICU discharge, on average of 11 days</time_frame>
+    <description>-Antibiotic consumption before and after HAP/VAP (type of antibiotic administered per patient).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine management of HAP/VAP at the ICU (3).</measure>
+    <time_frame>90 days after HAP/VAP onset</time_frame>
+    <description>-Survival up to 90 days post HAP/VAP onset rate (%) (Proportion of patient's confirmed alive vs. dead in %)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine outcome of HAP/VAP at the ICU (1).</measure>
+    <time_frame>From the date of HAP/VAP onset through to the date of ICU discharge, on average of 11 days</time_frame>
+    <description>-ICU survival rate (%). (Proportion of patients discharged from ICU alive vs. patients with in-ICU death)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine outcome of HAP/VAP at the ICU (2).</measure>
+    <time_frame>From the date of HAP/VAP onset through to the date of hospital discharge, on average of 12 days</time_frame>
+    <description>-Hospital survival rate (%). (Proportion of patients discharged from hospital alive vs. patients with in-hospital death)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine outcome of HAP/VAP at the ICU (3).</measure>
+    <time_frame>From the date of enrolment through to the date of ICU discharge, on average of 11 days</time_frame>
+    <description>-Length of ICU stay before and after HAP/VAP (number of days spent in ICU before and after HAP/VAP onset)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine outcome of HAP/VAP at the ICU (4).</measure>
+    <time_frame>From the date of enrolment through to the date of hospital discharge, on average of 12 days</time_frame>
+    <description>-Length of hospital stay before and after HAP/VAP (number of days spent in hospital before and after HAP/VAP onset).</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">3000</enrollment>
+  <condition>Hospital-acquired Pneumonia</condition>
+  <condition>Ventilator Associated Pneumonia</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients admitted to an ICU at risk of bacterial HAP/VAP are eligible to participate in the&#xD;
+        study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age &gt;= 18 years&#xD;
+&#xD;
+          -  At risk of acquiring bacterial HAP or VAP during ICU stay, defined as meeting all of&#xD;
+             the following criteria:&#xD;
+&#xD;
+               -  expected or documented hospital length of stay of more than 48 hours&#xD;
+&#xD;
+               -  admitted to the ICU&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Death is deemed to be imminent or inevitable during this hospital admission AND one or&#xD;
+             more of the patient, substitute decision maker or attending physician are not&#xD;
+             committed to full active treatment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marc Bonten, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UMC Utrecht</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Henri van Werkhoven, MD, PhD</last_name>
+    <phone>+31-88-75 68171</phone>
+    <email>c.h.vanwerkhoven@umcutrecht.nl</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University Trauma Hospital</name>
+      <address>
+        <city>Tirana</city>
+        <country>Albania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Silvana Leka</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Hospital Center Rijeka</name>
+      <address>
+        <city>Rijeka</city>
+        <country>Croatia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vera Vlahovic-Palcevski</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>General Hospital Dr Josip Bencevic Slavonski Brod</name>
+      <address>
+        <city>Slavonski Brod</city>
+        <country>Croatia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jasminka Kopic</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Centre Split</name>
+      <address>
+        <city>Split</city>
+        <country>Croatia</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regional Hospital Kolin</name>
+      <address>
+        <city>Kolín</city>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Martin Novacek</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>General University Hospital Prague</name>
+      <address>
+        <city>Praha</city>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Martin Balik</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Kralovske Vinohrady</name>
+      <address>
+        <city>Praha</city>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Frantisek Duska</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Motol</name>
+      <address>
+        <city>Praha</city>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jaromir Vajter</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Limoges</name>
+      <address>
+        <city>Limoges</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas Daix</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Markusovszky Teaching Hospital Szombathely</name>
+      <address>
+        <city>Szombathely</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Liepaja Regional Hospital</name>
+      <address>
+        <city>Liepāja</city>
+        <country>Latvia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Mihails Dolgusevs</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Paul Stradins Clinical University Hospital</name>
+      <address>
+        <city>Riga</city>
+        <country>Latvia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Viesturs Zvirbulis</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Central Military Emergency University Hospital &quot;Dr. Carol Davila &quot;</name>
+      <address>
+        <city>Bucharest</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Dan Corneci</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Elias University Emergency Hospital</name>
+      <address>
+        <city>Bucharest</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dan Corneci</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Center of Serbia</name>
+      <address>
+        <city>Belgrade</city>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Biljana Carevic</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Center Kragujevac</name>
+      <address>
+        <city>Kragujevac</city>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jasna Jevdjic</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Center of Vojvodina</name>
+      <address>
+        <city>Novi Sad</city>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Radmila Popovic</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institute for Pulmonary Diseases of Vojvodina</name>
+      <address>
+        <city>Novi Sad</city>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dusanka Obradovic</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Albania</country>
+    <country>Croatia</country>
+    <country>Czechia</country>
+    <country>France</country>
+    <country>Hungary</country>
+    <country>Latvia</country>
+    <country>Romania</country>
+    <country>Serbia</country>
+  </location_countries>
+  <link>
+    <url>https://www.combacte.com/trials/honest-preps/</url>
+    <description>COMBACTE (COMbatting BACterial resistance in Europe) consortium website: HONEST-PREPS is WP2-4 (Work Package) of COMBACTE-NET</description>
+  </link>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>July 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 29, 2021</study_first_posted>
+  <last_update_submitted>September 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>UMC Utrecht</investigator_affiliation>
+    <investigator_full_name>MJM Bonten</investigator_full_name>
+    <investigator_title>Professor of molecular epidemiology of infectious diseases, head of department of medical microbiology</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Pneumonia, Ventilator-Associated</mesh_term>
+    <mesh_term>Healthcare-Associated Pneumonia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

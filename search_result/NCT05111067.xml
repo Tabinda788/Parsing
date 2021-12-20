@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3850">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05111067</url>
+  </required_header>
+  <id_info>
+    <org_study_id>42127</org_study_id>
+    <nct_id>NCT05111067</nct_id>
+  </id_info>
+  <brief_title>Molecular Subtyping of Triple-negative Breast Cancer and African Ancestry-related Immunogenicity</brief_title>
+  <official_title>Molecular Subtyping of Triple-negative Breast Cancer and African Ancestry-related Immunogenicity</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nova Scotia Health Authority</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Obafemi Awolowo University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Nova Scotia Health Authority</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Triple-negative breast cancer (TNBC) is a heterogeneous disease that is associated with a&#xD;
+      younger age of onset, worse stage matched-outcomes, and women of African ancestry in North&#xD;
+      America. A higher incidence of TNBC is also seen in West Africa, despite unique&#xD;
+      environmental, socioeconomic and modifiable risk factors. Transcriptome analysis of TNBC has&#xD;
+      delineated four distinct subgroups with therapeutic and prognostic significance. With further&#xD;
+      characterization, important regional differences have emerged between populations of African&#xD;
+      vs. European ancestry. These differences may have significant implications for the efficacy&#xD;
+      of novel TNBC-targeted therapy and need to be further evaluated. Transcriptional data on TNBC&#xD;
+      in sub-Saharan African also offers the opportunity to evaluate the relationship between&#xD;
+      breast cancer phenotype and ancestry-linked differences in the tumor-immune microenvironment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study seeks to characterize the mRNA profile of TNBC in Nigeria and compare to a&#xD;
+      reference population in Nova Scotia. Insight into the unique tumor-immune profile of TNBC in&#xD;
+      Nigeria and the link between the West African-linked Duffy-antigen receptor for chemokines&#xD;
+      (DARC) and TNBC subtype will be explored for the first time.&#xD;
+&#xD;
+      Fresh frozen TNBC tissue from the African Research Group for Oncology (ARGO) and&#xD;
+      Dalhousie/NSHA breast cancer biobanks' will be processing and analyzed by the Genomics Core&#xD;
+      Facility at Dalhousie University. Clinical data is prospectively collected with specimen&#xD;
+      acquisition in the ARGO biobank. For the Dalhousie /NSHA biobank, clinical data will be&#xD;
+      retrospectively gathered from the medical record and migrated to an electronic database for&#xD;
+      prospective collection during the course of the study. Both cohorts of specimens will be run&#xD;
+      through DNA and whole transcriptome (mRNA) sequencing on the TSO500 platform (Illumina Ulc.).&#xD;
+      The tumor-immune microenvironment will be compared between cohorts and by mRNA cluster using&#xD;
+      the transcriptional signatures for 22 leukocyte populations and immune-regulating proteins&#xD;
+      CTLA-4 and PD-L1. Finally, tumor expression of DARC will be generated from the transcriptome&#xD;
+      data that will allow for an assessment of the relationship between DARC expression, TNBC mRNA&#xD;
+      clusters, and sociodemographic variables (i.e. race/ancestry, gender). Whole transcriptome&#xD;
+      data from The Cancer Genome Atlas will be pulled as the third cohort, including 55 TNBC&#xD;
+      specimens from African Americans.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2021</start_date>
+  <completion_date type="Anticipated">December 2026</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>DNA and mRNA sequencing</measure>
+    <time_frame>3 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Duffy-antigen receptor for chemokines</measure>
+    <time_frame>3 years</time_frame>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Triple Negative Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Nova scotia TNBC cohort</arm_group_label>
+    <description>DNA and whole transcriptome mRNA sequencing, including total mutational burden and microsatellite instability, will be performed using the TruSight Oncology 500 (TSO500) platform (Illumina Canada, Ulc). Transcriptome data will be used to categorize specimens into one of four distinct mRNA subgroups and will be compared between cohorts.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Nigerian TNBC cohort</arm_group_label>
+    <description>DNA and whole transcriptome mRNA sequencing, including total mutational burden and microsatellite instability, will be performed using the TruSight Oncology 500 (TSO500) platform (Illumina Canada, Ulc). Transcriptome data will be used to categorize specimens into one of four distinct mRNA subgroups and will be compared between cohorts.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>DNA and whole transcriptome mRNA sequencing</intervention_name>
+    <description>DNA and whole transcriptome mRNA sequencing, including total mutational burden and microsatellite instability, will be performed using the TruSight Oncology 500 (TSO500) platform (Illumina Canada, Ulc).</description>
+    <arm_group_label>Nigerian TNBC cohort</arm_group_label>
+    <arm_group_label>Nova scotia TNBC cohort</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Fresh frozen Triple-negative breast cancer tissue.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Biological samples acquired from patient's with Triple-negative breast cancer&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosed with Triple-negative breast cancer&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  No diagnosis of Triple-negative breast cancer&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Gregory Knapp</last_name>
+    <phone>9024731523</phone>
+    <email>Gregory.Knapp@nshealth.ca</email>
+  </overall_contact>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 8, 2021</study_first_posted>
+  <last_update_submitted>October 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Nova Scotia Health Authority</investigator_affiliation>
+    <investigator_full_name>Gregory Knapp</investigator_full_name>
+    <investigator_title>Dr. Gregory Knapp</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Triple Negative Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

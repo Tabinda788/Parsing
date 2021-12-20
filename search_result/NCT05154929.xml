@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="478">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05154929</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HUM00205845</org_study_id>
+    <nct_id>NCT05154929</nct_id>
+  </id_info>
+  <brief_title>Improving Blood Pressure Control Through the myBPmyLife mHealth Application</brief_title>
+  <acronym>myBPmyLife</acronym>
+  <official_title>Improving Blood Pressure Control Through the myBPmyLife mHealth Application: A Wearables in Reducing Risk and Enhancing Daily Lifestyle (WIRED-L) Center Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Michigan</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>American Heart Association</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Michigan</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is enrolling eligible participants that have high blood pressure. Reducing dietary&#xD;
+      salt intake and engaging in regular physical activity is known to decrease blood pressure in&#xD;
+      people with hypertension. This trial will determine whether a smartwatch and a mobile health&#xD;
+      application, which together deliver notifications, can increase activity levels and reduce&#xD;
+      salt intake for people with high blood pressure. All study activities will be completed&#xD;
+      online or via a mobile medical application. Participants will not have any face-to-face&#xD;
+      visits with the study team.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2021</start_date>
+  <completion_date type="Anticipated">November 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This study is a multicenter 6 month randomized controlled clinical trial. This study will investigate the efficacy of two just-in-time adaptive interventions (JITAIs) delivered via a mobile app for patients with hypertension. Eligible participants will be randomized to the two JITAIs or control in a 1:1 manner stratified by site. There will be two sites: the University of Michigan Health System in Ann Arbor and the Hamilton Community Health Network Clinic in Flint.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in systolic blood pressure between baseline and 6-months</measure>
+    <time_frame>Baseline, 6 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of self-reported low-sodium food choices within 24 hours of a diet notification</measure>
+    <time_frame>within 24 hours of a diet notification</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of self-reported low-sodium food choices the next calendar day after an evening diet notification</measure>
+    <time_frame>up to 24 hours (next calendar day) of an evening diet notification</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of steps taken within 60 minutes of a physical activity notification</measure>
+    <time_frame>within 60 minutes of a physical activity notification</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of steps taken the next calendar day of an evening physical activity notification</measure>
+    <time_frame>up to 24 hours (next calendar day) of an evening physical activity notification</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Hypertension</condition>
+  <arm_group>
+    <arm_group_label>Control arm</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Participants in the control group will be provided a smartwatch and home blood pressure monitor. They will also be provided with general instructions on how to download and install a physical activity and diet regulation applications (apps) available to the general public. They will still be asked to perform the blood pressure monitoring at regularly scheduled time periods, but do not receive the intervention components notifications in myBPmyLife app developed for the experimental group.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dietary plus physical activity JITAI</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in the experimental group will be provided a smarthwatch and home blood pressure monitor. They will then receive the myBPmyLife app that includes push notifications to promote increased physical activity and improve low sodium food choices. The app also provides goal setting for weekly step count and information on low-sodium food choices, as well as feedback on achieving the goals using a dashboard with visualization tools within the mobile application.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Dietary and physical activity JITAI delivered through the myBPmyLife app</intervention_name>
+    <description>A Fitbit smartwatch and home blood pressure monitor will be mailed to participants (in both the experimental and control arms). Participants in the intervention arm then will set up and utilize the myBPmyLife app. This app includes push notifications to promote increased physical activity and improve low-sodium food choices, establish goal setting for weekly step count and low sodium food choices, and deliver feedback on achieving the goals using a dashboard visualization within the mobile application.</description>
+    <arm_group_label>Dietary plus physical activity JITAI</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Control Group</intervention_name>
+    <description>Participants will receive the myBPmyLife app, a smartwatch, and blood pressure cuff. The myBPmyLife app will not be fully activated (as they are in the control arm). They will be provided with the option of downloading and installing a mHealth app that is publicly available. In this arm they will also perform the blood pressure monitoring, but do not receive the intervention components through the myBPmyLife app.</description>
+    <arm_group_label>Control arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Self-reported history of hypertension and no hypertensive medication changes in the&#xD;
+             last 4 weeks.&#xD;
+&#xD;
+          -  A smartphone with a compatible Apple or Android operating system installed and able to&#xD;
+             download and use the myBPmyLife app including accepting all permissions&#xD;
+&#xD;
+          -  A valid email address&#xD;
+&#xD;
+          -  Fluent in spoken and written English&#xD;
+&#xD;
+          -  Signed written informed consent. (Note that each participant must be able to consent&#xD;
+             for themselves.)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Contraindication to performing physical activity or following a sodium restriction&#xD;
+             diet. The participant must be able to walk and eat on their own without assistive&#xD;
+             devices.&#xD;
+&#xD;
+          -  Unstable symptoms or markedly elevated BP at enrollment (defined as systolic BP&gt;180&#xD;
+             mmHg, diastolic BP&gt;120 millimeters of mercury (mmHg))&#xD;
+&#xD;
+          -  Known secondary causes of hypertension (e.g., adrenal insufficiency,&#xD;
+             pheochromocytoma), heart failure, or end-stage renal disease&#xD;
+&#xD;
+          -  Difficulty using an upper arm blood pressure cuff due to biceps size or end-stage&#xD;
+             renal disease or difficulty comfortably wearing a smartwatch&#xD;
+&#xD;
+          -  Wrist too large to wear a smartwatch comfortably.&#xD;
+&#xD;
+          -  Daily sodium intake less than 2400 mg/day as measured by the sodium screener&#xD;
+&#xD;
+          -  Currently pregnant or planning to become pregnant in the next six months&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Brahmajee K Nallamothu, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Michigan</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>V. Swetha Jeganathan</last_name>
+    <phone>734-998-0514</phone>
+    <email>myBPmyLife@med.umich.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>V. Swetha Jeganathan</last_name>
+      <phone>734-998-0514</phone>
+      <email>jvswetha@umich.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Brahmajee K Nallamothu, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hamilton Community Health Network</name>
+      <address>
+        <city>Flint</city>
+        <state>Michigan</state>
+        <zip>48505</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Kimberly Warden, LPN</last_name>
+      <phone>810-406-4947</phone>
+      <email>kwarden@hamiltonchn.org</email>
+    </contact>
+    <investigator>
+      <last_name>Clarence Pierce, MS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 30, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 13, 2021</study_first_posted>
+  <last_update_submitted>November 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Michigan</investigator_affiliation>
+    <investigator_full_name>Brahmajee K Nallamothu</investigator_full_name>
+    <investigator_title>Professor of Internal Medicine</investigator_title>
+  </responsible_party>
+  <keyword>high blood pressure</keyword>
+  <keyword>exercise</keyword>
+  <keyword>decrease salty food</keyword>
+  <keyword>smartwatch</keyword>
+  <keyword>mobile application</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypertension</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

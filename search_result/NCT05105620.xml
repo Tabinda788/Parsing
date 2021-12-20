@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4269">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05105620</url>
+  </required_header>
+  <id_info>
+    <org_study_id>17300681</org_study_id>
+    <nct_id>NCT05105620</nct_id>
+  </id_info>
+  <brief_title>Deep Learning for Fluorescein Angiography and Optical Coherence Tomography Macular Thickness Map Image Translation</brief_title>
+  <official_title>Bridging the Resources Gap: Deep Learning for Fluorescein Angiography and Optical Coherence Tomography Macular Thickness Map Image Translation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assiut University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assiut University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Diabetic macular edema (DME) is one of the leading causes of visual impairment in patients&#xD;
+      with diabetes. Fluorescein angiography (FA) plays an important role in diabetic retinopathy&#xD;
+      (DR) staging and evaluation of retinal vasculature. However, FA is an invasive technique and&#xD;
+      does not permit the precise visualization of the retinal vasculature. Optical coherence&#xD;
+      tomography (OCT) is a non-invasive technique that has become popular in diagnosing and&#xD;
+      monitoring DR and its laser, medical, and surgical treatment. It provides a quantitative&#xD;
+      assessment of retinal thickness and location of edema in the macula. Automated OCT retinal&#xD;
+      thickness maps are routinely used in monitoring DME and its response to treatment. However,&#xD;
+      standard OCT provides only structural information and therefore does not delineate blood flow&#xD;
+      within the retinal vasculature. By combining the physiological information in FA with the&#xD;
+      structural information in the OCT, zones of leakage can be correlated to structural changes&#xD;
+      in the retina for better evaluation and monitoring of the response of DME to different&#xD;
+      treatment modalities. The occasional unavailability of either imaging modality may impair&#xD;
+      decision-making during the follow-up of patients with DME.&#xD;
+&#xD;
+      The problem of medical data generation particularly images has been of great interest, and as&#xD;
+      such, it has been deeply studied in recent years especially with the advent of deep&#xD;
+      convolutional neural networks(DCNN), which are progressively becoming the standard approach&#xD;
+      in most machine learning tasks such as pattern recognition and image classification.&#xD;
+      Generative adversarial networks (GANs) are neural network models in which a generation and a&#xD;
+      discrimination networks are trained simultaneously. Integrated network performance&#xD;
+      effectively generates new plausible image samples.&#xD;
+&#xD;
+      The aim of this work is to assess the efficacy of a GAN implementing pix2pix image&#xD;
+      translation for original FA to synthetic OCT color-coded macular thickness map image&#xD;
+      translation and the reverse (from original OCT color-coded macular thickness map to synthetic&#xD;
+      FA image translation).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 1, 2018</start_date>
+  <completion_date type="Actual">February 1, 2021</completion_date>
+  <primary_completion_date type="Actual">February 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Fréchet inception distance (FID) score.</measure>
+    <time_frame>1 day</time_frame>
+  </primary_outcome>
+  <enrollment type="Actual">708</enrollment>
+  <condition>Eye Diseases</condition>
+  <condition>Diabetic Retinopathy</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Fluorescein Angiography</intervention_name>
+    <description>Fluorescein Angiography for pateints with diabetes using fundus camera (TRC-NW8F retinal camera; Topcon Corporation, Tokyo, Japan).</description>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Optical coherence tomography</intervention_name>
+    <description>Optical coherence tomography for pateints with diabetes using • Topcon DRI OCT Triton device (ver.10.13; Topcon Corporation, Tokyo, Japan).</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients from the retina clinic in Assiut University Hospital who had simultaneously&#xD;
+        undergone same-day FA and OCT with a diagnosis of confirmed or suspected DME between Augyst&#xD;
+        2018 and February 2021.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients from the retina clinic in Assiut University Hospital who had simultaneously&#xD;
+             undergone same-day FA and OCT with a diagnosis of confirmed or suspected DME.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Significant media opacity that obscured the view of the fundus&#xD;
+&#xD;
+          -  OCT images with high signal-to-noise ratio expressed by the device as&quot;TopQ image&#xD;
+             quality,&quot; below 60&#xD;
+&#xD;
+          -  Vitreoretinal interface disease distorting the OCT thickness map.&#xD;
+&#xD;
+          -  Patients with concurrent ocular conditions interfering with blood flow&#xD;
+&#xD;
+          -  Patients with uveitic diseases&#xD;
+&#xD;
+          -  High myopia of more than -8.0 diopters.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Assiut University</name>
+      <address>
+        <city>Assiut</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 3, 2021</study_first_posted>
+  <last_update_submitted>November 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Assiut University</investigator_affiliation>
+    <investigator_full_name>Khaled Abdelazeem</investigator_full_name>
+    <investigator_title>Associate professor of Ophthalmology</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetic Retinopathy</mesh_term>
+    <mesh_term>Eye Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

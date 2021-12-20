@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2891">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05123534</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SDT-201</org_study_id>
+    <nct_id>NCT05123534</nct_id>
+  </id_info>
+  <brief_title>A Phase 1/2 Study of Sonodynamic Therapy Using SONALA-001 and Exablate 4000 Type 2 in Patients With DIPG</brief_title>
+  <official_title>A Dose-escalation Study Examining the Safety, Pharmacokinetics, and Preliminary Efficacy of Ascending Drug and Energy Dose Combinations for Sonodynamic Therapy Using SONALA-001 in Combination With Exablate 4000 Type-2 MR-Guided Focused Ultrasound in Subjects With Diffuse Intrinsic Pontine Glioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>SonALAsense, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>SonALAsense, Inc.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objectives of this trial are to evaluate the safety and tolerability of&#xD;
+      sonodynamic therapy (SDT) using SONALA-001 and Exablate Type-2 device and to to determine the&#xD;
+      maximum tolerated dose (MTD) or recommended phase 2 dose (RP2D) of MR-Guided Focused&#xD;
+      Ultrasound (MRgFUS) energy in combination with SONALA-001 in subjects with diffuse intrinsic&#xD;
+      pontine glioma&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2022</start_date>
+  <completion_date type="Anticipated">May 2025</completion_date>
+  <primary_completion_date type="Anticipated">May 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>A Bayesian optimal interval (BOIN) dose escalation method will be used to determine the MTD-C of the drug SONALA-001 and device Exablate Type-2 combination.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety of ALA SDT</measure>
+    <time_frame>Day 1 to 12 months</time_frame>
+    <description>Tabulation of treatment-related adverse events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MTD</measure>
+    <time_frame>Day 1 to Day 29</time_frame>
+    <description>Frequency of DLTs in each Cohort</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response (RAPNO)</measure>
+    <time_frame>Day 0 to 12 months</time_frame>
+    <description>Percentage of subjects achieving CR or PR.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the plasma concentration vs time from Time 0 to the last measurable timepoint (AUC0-t) of ALA in blood plasma</measure>
+    <time_frame>Day 1 to 24 hours post SONALA-001 dosing</time_frame>
+    <description>Samples will be collected at 10 time points during 24 hours pre/post SONALA-001 administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the plasma concentration vs time from Time 0 to infinity (AUC0-∞) of ALA in blood plasma</measure>
+    <time_frame>Day 1 to 24 hours post SONALA-001 dosing</time_frame>
+    <description>Samples will be collected at 10 time points during 24 hours pre/post SONALA-001 administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Terminal elimination half-life (t1/2) of ALA in blood plasma</measure>
+    <time_frame>Day 1 to 24 hours post SONALA-001 dosing</time_frame>
+    <description>Samples will be collected at 10 time points during 24 hours pre/post SONALA-001 administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>elimination rate constant of ALA in blood plasma</measure>
+    <time_frame>Day 1 to 24 hours post SONALA-001 dosing</time_frame>
+    <description>Samples will be collected at 10 time points during 24 hours pre/post SONALA-001 administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clearance of ALA in blood plasma</measure>
+    <time_frame>Day 1 to 24 hours post SONALA-001 dosing</time_frame>
+    <description>Samples will be collected at 10 time points during 24 hours pre/post SONALA-001 administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to maximum drug concentration (Tmax) of ALA in blood plasma</measure>
+    <time_frame>Day 1 to 24 hours post SONALA-001 dosing</time_frame>
+    <description>Samples will be collected at 10 time points during 24 hours pre/post SONALA-001 administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the plasma concentration vs time from Time 0 to the last measurable timepoint (AUC0-t) of PpIX in blood plasma</measure>
+    <time_frame>Day 1 to 24 hours post SONALA-001 dosing</time_frame>
+    <description>Samples will be collected at 10 time points during 24 hours pre/post SONALA-001 administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the plasma concentration vs time from Time 0 to infinity (AUC0-∞) of PpIX in blood plasma</measure>
+    <time_frame>Day 1 to 24 hours post SONALA-001 dosing</time_frame>
+    <description>Samples will be collected at 10 time points during 24 hours pre/post SONALA-001 administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Terminal elimination half-life (t1/2) of PpIX in blood plasma</measure>
+    <time_frame>Day 1 to 24 hours post SONALA-001 dosing</time_frame>
+    <description>Samples will be collected at 10 time points during 24 hours pre/post SONALA-001 administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>elimination rate constant of PpIX in blood plasma</measure>
+    <time_frame>Day 1 to 24 hours post SONALA-001 dosing</time_frame>
+    <description>Samples will be collected at 10 time points during 24 hours pre/post SONALA-001 administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clearance of PpIX in blood plasma</measure>
+    <time_frame>Day 1 to 24 hours post SONALA-001 dosing</time_frame>
+    <description>Samples will be collected at 10 time points during 24 hours pre/post SONALA-001 administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to maximum drug concentration (Tmax) of PpIX in blood plasma</measure>
+    <time_frame>Day 1 to 24 hours post SONALA-001 dosing</time_frame>
+    <description>Samples will be collected at 10 time points during 24 hours pre/post SONALA-001 administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Performance of MRgFUS</measure>
+    <time_frame>Day 1, Day 29</time_frame>
+    <description>Percentage of treatments in which the MRgFUS system works as planned.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Performance of MRgFUS</measure>
+    <time_frame>Day 1, Day 29</time_frame>
+    <description>Percentage of treatments in which procedure deviations were noted.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival</measure>
+    <time_frame>Day 1 to 12 months</time_frame>
+    <description>Time from first dose of SONALA-001 to progression or death due to any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response</measure>
+    <time_frame>Day 1 to 12 months</time_frame>
+    <description>Time from date of first documented CR or PR until progression or death due to any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>Day 1 to 12 months</time_frame>
+    <description>Time from first dose of SONALA-001 to death due to any cause.</description>
+  </secondary_outcome>
+  <number_of_arms>9</number_of_arms>
+  <enrollment type="Anticipated">18</enrollment>
+  <condition>Diffuse Intrinsic Pontine Glioma</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>5 mg/kg iv SONALA-001 (ALA) and 200J MR-guided Focused Ultrasound (MRgFUS)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>5 mg/kg iv SONALA-001 (ALA) and 400J MR-guided Focused Ultrasound (MRgFUS)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>5 mg/kg iv SONALA-001 (ALA) and 800J MR-guided Focused Ultrasound (MRgFUS)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 mg/kg iv SONALA-001 (ALA) and 200J MR-guided Focused Ultrasound (MRgFUS)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 5</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 mg/kg iv SONALA-001 (ALA) and 400J MR-guided Focused Ultrasound (MRgFUS)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 6</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 mg/kg iv SONALA-001 (ALA) and 800J MR-guided Focused Ultrasound (MRgFUS)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 7</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>15 mg/kg iv SONALA-001 (ALA) and 200J MR-guided Focused Ultrasound (MRgFUS)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 8</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>15 mg/kg iv SONALA-001 (ALA) and 400J MR-guided Focused Ultrasound (MRgFUS)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 9</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>15 mg/kg iv SONALA-001 (ALA) and 800J MR-guided Focused Ultrasound (MRgFUS)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>SONALA-001 (ALA) and MR-Guided Focused Ultrasound device (MRgFUS)</intervention_name>
+    <description>SONALA-001(ALA) given 6-9 hours prior to receiving the MRgFUS.</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_label>Cohort 4</arm_group_label>
+    <arm_group_label>Cohort 5</arm_group_label>
+    <arm_group_label>Cohort 6</arm_group_label>
+    <arm_group_label>Cohort 7</arm_group_label>
+    <arm_group_label>Cohort 8</arm_group_label>
+    <arm_group_label>Cohort 9</arm_group_label>
+    <other_name>Exablate Type-2</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Newly diagnosed, radiographically typical DIPG, defined as a tumor with a pontine&#xD;
+             epicenter and diffuse involvement of more than 2/3 of the pons and without evidence of&#xD;
+             dissemination, are eligible with or without histologic confirmation.&#xD;
+&#xD;
+               -  Subjects with pontine lesions that do not meet radiographic criteria will be&#xD;
+                  eligible if there is histologic confirmation of DIPG.&#xD;
+&#xD;
+               -  Subjects may be asked to agree to provide access to previously obtained biopsy&#xD;
+                  results.&#xD;
+&#xD;
+               -  If tumor status is unknown or archival tumor tissue is not available, subjects&#xD;
+                  may be asked to agree to submit a post-mortem biopsy specimen to enable molecular&#xD;
+                  profiling of tumor.&#xD;
+&#xD;
+          2. Prior treatment consisting of a minimum of 54 Gy standard focal radiotherapy&#xD;
+             administered over 42-49 days.&#xD;
+&#xD;
+          3. Must be ≥ 4 weeks and ≤ 16 weeks post radiotherapy and must have recovered from acute&#xD;
+             effects to CTCAE Grade 1 or baseline prior to Day 1.&#xD;
+&#xD;
+          4. Must have stable to improved imaging by RAPNO criteria and be on a stable to&#xD;
+             decreasing dose of steroids (maximum dexamethasone of 1 mg/m^2/day) prior to Day 1, as&#xD;
+             obtained during the Screening period.&#xD;
+&#xD;
+          5. A minimum head circumference of 52 cm. Subjects with a minimum head circumference of&#xD;
+             52 cm, younger than 5 years old, may be eligible after discussion with the medical&#xD;
+             monitor.&#xD;
+&#xD;
+          6. An Overall Skull Density Ratio greater than 0.45 (±0.05) as calculated from the&#xD;
+             screening CT.&#xD;
+&#xD;
+          7. Females of childbearing potential (FOCP) must have a negative serum or urine pregnancy&#xD;
+             test at screening. Subjects of childbearing or child fathering potential must be&#xD;
+             willing to use highly effective birth control during the entire study. Acceptable&#xD;
+             forms of birth control include hormonal contraceptives (oral, injectable, transdermal&#xD;
+             or intravaginal) or intrauterine device (IUD) for at least one week prior to ALA SDT,&#xD;
+             condom and spermicidal or diaphragm and spermicidal. Other acceptable forms of birth&#xD;
+             control include a) abstinence for subjects who are not sexually active or b) if the&#xD;
+             subject is in a monogamous relationship with a partner who is sterile (e.g., vasectomy&#xD;
+             performed at least 6 months prior to subject's ALA SDT treatment). Subjects who become&#xD;
+             sexually active or begin to have relations with a partner who is not sterile during&#xD;
+             the trial must agree to use an effective form of birth control for the duration of the&#xD;
+             study. FOCP taking hormonal therapy must be on treatment for at least 12 weeks prior&#xD;
+             to study entry and must not change their dosing regimen during the study.&#xD;
+&#xD;
+          8. Ability to provide written, signed, and dated (personally or via a legally authorized&#xD;
+             representative) informed consent/and assent at screening as applicable to participate&#xD;
+             in the study.&#xD;
+&#xD;
+          9. Karnofsky Performance Scale (KPS for &gt; 16 years of age) or Lansky Performance Score&#xD;
+             (LPS for ≤ 16 years of age) assessed within 14 days of Visit 1 must be ≥ 50%. Subjects&#xD;
+             who are unable to walk because of neurologic deficits, but who are up in a wheelchair,&#xD;
+             will be considered ambulatory for the purpose of assessing the performance score.&#xD;
+&#xD;
+         10. Subjects must have adequate organ and marrow function as defined below:&#xD;
+&#xD;
+               -  Absolute neutrophil count ≥ 1,000/mm^3, without the use of GCSF within 7 days&#xD;
+                  prior to Day 1.&#xD;
+&#xD;
+               -  Platelets ≥ 100,000/ mm^3 (unsupported, defined as no platelet transfusion within&#xD;
+                  7 days prior to Day 1)&#xD;
+&#xD;
+               -  Hemoglobin ≥ 8 g/dl (may have received last transfusion within 7 days prior to&#xD;
+                  Day 1.)&#xD;
+&#xD;
+               -  Total bilirubin ≤ 1.5 times institutional upper limit of normal (ULN)&#xD;
+&#xD;
+               -  ALT(SGPT) &lt; 3 x institutional ULN&#xD;
+&#xD;
+               -  AST(SGOT) &lt; 3 x institutional ULN&#xD;
+&#xD;
+               -  Albumin ≥ 3 g/dl&#xD;
+&#xD;
+               -  Potassium ≥ lower limit of normal LLN&#xD;
+&#xD;
+               -  Serum total calcium (correct for serum albumin) or ionized calcium ≥ LLN&#xD;
+&#xD;
+               -  Renal Function as defined below:&#xD;
+&#xD;
+               -  Age 5-17 years: GFR ≥ 70 mL/min/1.73m2as estimated by Schwartz formula (Schwartz,&#xD;
+                  2009). If eGFR is abnormal for age based on Schwartz formula, accurate&#xD;
+                  measurement should be obtained by 24 hour creatinine clearance.&#xD;
+&#xD;
+               -  Age ≥ 18 years: Creatinine clearance (CLcr) ≥ 60 mL/min/1.73m2as estimated by the&#xD;
+                  Cockcroft-Gault (C-G) equation. If estimated CLCr is abnormal, accurate&#xD;
+                  measurement should be obtained by 24 hour creatinine clearance.&#xD;
+&#xD;
+         11. Cardiac Function as defined below:&#xD;
+&#xD;
+               -  Left ventricular ejection fraction ≥ 50 by gated radionuclide study OR shortening&#xD;
+                  fraction of ≥ 27% by echocardiogram&#xD;
+&#xD;
+               -  Presence of no ventricular arrhythmias except for benign premature ventricular&#xD;
+                  contractions.&#xD;
+&#xD;
+               -  QTc (Frideriica) interval &lt; 450 ms.&#xD;
+&#xD;
+         12. All colony-forming growth factor(s) (i.e., filgrastim, sargramostim or erythropoietin)&#xD;
+             must have been discontinued for at least 7 days prior to Day 1 or 14 days if PEG&#xD;
+             formulations were received.&#xD;
+&#xD;
+         13. An understanding, ability, and willingness to fully comply with study procedures and&#xD;
+             restrictions.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Evidence of progressive disease by radiologic criteria (RAPNO)&#xD;
+&#xD;
+          2. Increasing steroid dose prior to Day 1&#xD;
+&#xD;
+          3. Diagnosis of porphyria&#xD;
+&#xD;
+          4. Hypersensitivity against porphyrins&#xD;
+&#xD;
+          5. Current or relevant history of other malignancy, physical or psychiatric illness, any&#xD;
+             medical disorder that may require treatment or make the subject unlikely to fully&#xD;
+             complete the study, or any condition that presents undue risk from the investigational&#xD;
+             product or procedures&#xD;
+&#xD;
+          6. Known history of human immunodeficiency virus (HIV), hepatitis B or C infection, or&#xD;
+             any active systemic infection&#xD;
+&#xD;
+          7. Use of potentially phototoxic substances (e.g., St. John's wort, griseofulvin,&#xD;
+             thiazide diuretics, sulfonylureas, phenothiazines, tetracyclines, sulfonamides,&#xD;
+             quinolones, hypericin extracts, topical preparations containing ALA) within 24 hours&#xD;
+             before and after SONALA-001 infusion&#xD;
+&#xD;
+          8. Prior or concurrent therapy with any other anticancer (including radiotherapy) or&#xD;
+             investigational drug or other investigational intervention.&#xD;
+&#xD;
+          9. Use of herbal and fish oil supplements within 7 days prior to Visit 1&#xD;
+&#xD;
+         10. Use of blood thinning agents within 7 days prior to Visit 1&#xD;
+&#xD;
+         11. Significant acute deterioration in neurologic status within 7 days prior to Day 1, in&#xD;
+             the opinion of the investigator&#xD;
+&#xD;
+         12. Inability to undergo MRI (e.g., presence of a pacemaker)&#xD;
+&#xD;
+         13. Pregnancy or breastfeeding&#xD;
+&#xD;
+         14. An Overall Skull Density Ratio of 0.45 (±0.05) or less as calculated from the&#xD;
+             screening CT&#xD;
+&#xD;
+         15. Inability to participate in the opinion of the investigator, by being unwilling or&#xD;
+             unable to return for required follow-up visits or to obtain follow-up studies to&#xD;
+             assess toxicity to therapy or to adhere to study plan, procedures and restrictions.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>5 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stuart Marcus, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>SonALAsense, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jacquie Kuritzky</last_name>
+    <phone>925-459-5385</phone>
+    <email>jkuritzky@sonalasense.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Anna Houlihan</last_name>
+    <phone>925-466-4586</phone>
+    <email>ahoulihan@sonalasense.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Ivy Brain Tumor Center</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Nader Sanai, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Sabine Mueller, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's National / Children's Research Institute</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010-2916</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Roger Packer, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2021</study_first_posted>
+  <last_update_submitted>November 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glioma</mesh_term>
+    <mesh_term>Diffuse Intrinsic Pontine Glioma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

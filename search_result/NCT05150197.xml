@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="842">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05150197</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00109426</org_study_id>
+    <nct_id>NCT05150197</nct_id>
+  </id_info>
+  <brief_title>Virtual Reality Visual Field Testing as an Alternative in Childhood Eye Disease</brief_title>
+  <official_title>Virtual Reality Visual Field Testing as an Alternative to Standard Automated Perimetry in Childhood Eye Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Duke University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to test a new way of measuring the peripheral vision (called a&#xD;
+      visual field test) using a device which can be worn as goggles rather than being a large&#xD;
+      instrument the patient must sit at. This new visual field test (called VisuALL) is an&#xD;
+      FDA-approved virtual reality system which has been used in adults and children. This study&#xD;
+      will compare the performance of the VisuALL to the standard testing for peripheral vision,&#xD;
+      which is called the Humphrey Visual Field (HVF) test.&#xD;
+&#xD;
+      The study will recruit both healthy children, as well children and young adults who have eye&#xD;
+      conditions which require visual field testing as part of their standard care. The test will&#xD;
+      be performed on a day when the child or young adult already has a scheduled eye appointment&#xD;
+      as standard care. The test does not touch the eyes or require any eye drops to be given, and&#xD;
+      there is no known risk associated with the test itself. There may be a risk of loss of&#xD;
+      confidentiality. Participating in this study will require approximately 30 minutes, has no&#xD;
+      extra cost associated with it, and will be compensated by a parking pass for the day of the&#xD;
+      visit. There are no direct benefits for participants.&#xD;
+&#xD;
+      Selected participants will be also be given training and then loaned a home VisuALL system to&#xD;
+      allow home visual field testing. If your child is selected, additional information would be&#xD;
+      provided.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2022</start_date>
+  <completion_date type="Anticipated">January 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean deviation results of visual field parameters</measure>
+    <time_frame>During office visit, approximately 30 minutes</time_frame>
+    <description>Mean deviation of the visual field is one score measured in decibels calculated from device reading</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pattern standard deviation results of visual field parameters</measure>
+    <time_frame>During office visit, approximately 30 minutes</time_frame>
+    <description>Pattern standard deviation of the visual field is one score calculated from device reading</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Sensitivity results of visual field parameters</measure>
+    <time_frame>During office visit, approximately 30 minutes</time_frame>
+    <description>Sensitivities are the results of each space in the visual field measured in decibels</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percent of times that scotomas were visualized as measured by visual field tests</measure>
+    <time_frame>During office visit, approximately 30 minutes</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of participants stating satisfaction as measured by questionnaire</measure>
+    <time_frame>During office visit, approximately 5 minutes</time_frame>
+    <description>12 questions with strongly disagree to strongly agree</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of patients able to use VisuALL home testing as measured by device reading</measure>
+    <time_frame>One month, 1-2 tests per week</time_frame>
+    <description>Home testing will be done in a few patients that demonstrate facility with device</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of patients able to use VisuALL in-office testing as measured by patient observation</measure>
+    <time_frame>During office visit, approximately 30 minutes</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Visual Field Defect, Peripheral</condition>
+  <arm_group>
+    <arm_group_label>Patient (pathology) group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This group will perform both the standard of care Humphrey Visual Field (HVF) and the VisuALL Virtual Reality Visual Field.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>This group will only perform the VisuALL Virtual Reality Visual Field.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>VisuALL</intervention_name>
+    <description>Virtual Reality Visual Field Device</description>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_label>Patient (pathology) group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Humphrey Visual Field</intervention_name>
+    <description>Standard of care Visual Field test</description>
+    <arm_group_label>Patient (pathology) group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients must be 17 years or younger, OR patients from 18-21 years of age must have&#xD;
+             been diagnosed with their condition prior to their 18th birthday&#xD;
+&#xD;
+          -  Cognitively normal (no developmental delay or syndrome)&#xD;
+&#xD;
+          -  Be able to tolerate wearing the virtual reality goggles for at least 10 minutes&#xD;
+&#xD;
+          -  Be able to provide informed consent of a parent/guardian (and assent if 12 years or&#xD;
+             older)&#xD;
+&#xD;
+          -  Do not have any ocular diseases that could interfere with the visual field testing&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Developmental delay&#xD;
+&#xD;
+          -  Inability to obtain consent&#xD;
+&#xD;
+          -  Inability to understand English&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>4 Years</minimum_age>
+    <maximum_age>21 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sharon F Freedman, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Duke University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Samuel A Alvarez, MD</last_name>
+    <phone>919-684-0560</phone>
+    <email>samuel.alvarez544@duke.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Duke University Medical Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Samuel A Alvarez-Falcon, MD</last_name>
+      <phone>919-684-0560</phone>
+      <email>samuel.alvarez544@duke.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://olleyes.com/wp-content/uploads/2020/09/accurate-field-testing-without-the-stress.pdf</url>
+    <description>Accurate field testing without the stress</description>
+  </link>
+  <link>
+    <url>http://olleyes.com/wp-content/uploads/2021/03/AGS-Poster-021521-Pediatric-SLG.pdf</url>
+    <description>Comparison of a Virtual-Reality Perimeter to Standard Humphrey Visual Field in Normal Children</description>
+  </link>
+  <reference>
+    <citation>Razeghinejad R, Gonzalez-Garcia A, Myers JS, Katz LJ. Preliminary Report on a Novel Virtual Reality Perimeter Compared With Standard Automated Perimetry. J Glaucoma. 2021 Jan 1;30(1):17-23. doi: 10.1097/IJG.0000000000001670.</citation>
+    <PMID>32941320</PMID>
+  </reference>
+  <reference>
+    <citation>Montelongo M, Gonzalez A, Morgenstern F, Donahue SP, Groth SL. A Virtual Reality-Based Automated Perimeter, Device, and Pilot Study. Transl Vis Sci Technol. 2021 Mar 1;10(3):20. doi: 10.1167/tvst.10.3.20.</citation>
+    <PMID>34003954</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 9, 2021</study_first_posted>
+  <last_update_submitted>November 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Virtual Reality Visual Field</keyword>
+  <keyword>Glaucoma</keyword>
+  <keyword>Neuro-ophthalmology</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Eye Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5355">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05091502</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ForceLoss I</org_study_id>
+    <nct_id>NCT05091502</nct_id>
+  </id_info>
+  <brief_title>Personalised Modeling and Simulation Procedures for the Differential Diagnosis of Dynapenia: a Study on Healthy Volunteers</brief_title>
+  <official_title>ForceLoss: Part I - Healthy Volunteers. Development and Validation of Methods to Generate Personalised Models for the Differential Diagnosis of the Loss of Muscle Force</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istituto Ortopedico Rizzoli</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Istituto Ortopedico Rizzoli</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The ForceLoss study aims to develop personalised modeling and simulation procedures to enable&#xD;
+      the differential diagnosis for the loss of muscle force, namely dynapenia. Dynapenia can be&#xD;
+      caused by diffuse or selective sarcopenia, lack of activation, or improper motor control.&#xD;
+      Each of these causes requires different interventions, but a reliable differential diagnosis&#xD;
+      is currently impossible. While instrumental methods can provide information on each of these&#xD;
+      possible causes, it is left to the experience of the single clinician to integrate such&#xD;
+      information into a complete diagnostic picture. But an accurate diagnosis for dynapenia is&#xD;
+      important in a number of pathologies, including neurological diseases, age-related frailty,&#xD;
+      diabetes, and orthopaedic conditions. The hypothesis is that the use of a mechanistic,&#xD;
+      subject-specific model of maximum isometric knee extension, informed by a number of&#xD;
+      instrumental information can provide a robust differential diagnosis of dynapenia.&#xD;
+&#xD;
+      In this preliminary study, on healthy volunteers, the investigators will develop and optimize&#xD;
+      (i) the experimental protocol and (ii) the modeling and simulation framework, assessing both&#xD;
+      feasibility and reliability of the proposed procedures. Medical imaging, electromyography&#xD;
+      (EMG) and dynamometry data will be collected and combined to inform a personalised&#xD;
+      musculoskeletal model of each participant. Biomechanical computer simulations of a Maximal&#xD;
+      Voluntary Isometric Contraction (MVIC) task will then be performed. To validate the proposed&#xD;
+      approach, the models' estimates will be compared to in vivo dynamometry measurements and&#xD;
+      experimental EMG data.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">October 2021</start_date>
+  <completion_date type="Anticipated">January 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Muscle volume</measure>
+    <time_frame>at baseline (Day 0)</time_frame>
+    <description>Full lower limb MRI data will be acquired with subjects in supine position. Individual muscle volumes (in cm3) will be segmented using commercial software and stored in anonymized form. Such data will serve as normative dataset/threshold in future studies that aim to assess (the severity of) sarcopenia in a patient population.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Co-contraction index (CCI)</measure>
+    <time_frame>at baseline (Day 0)</time_frame>
+    <description>Experimental EMG data will be recorded from the major lower limb muscles involved in the knee extension, while participants perform a maximal voluntary isometric contraction on a dynamometer (i.e., MVIC test to quantify muscle strength).&#xD;
+The co-contraction index, defined as the relative activation of agonist and antagonist muscles (for this task: quadriceps and hamstrings) in the act of kicking (MVIC test), will be computed according to Li et al (2020).&#xD;
+EMG patterns (mV) will additionally be stored and will constitute a normative dataset, for qualitative comparisons to identify suboptimal muscle control or altered muscle activation patterns in dynapenic patients in future studies that aim to assess (the severity of) dynapenia in a patient population.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MVIC Torque</measure>
+    <time_frame>at baseline (Day 0)</time_frame>
+    <description>Dynamometry data will be acquired while participants perform a MVIC leg extension test. The maximum torque values (Nm) measured over three repetitions will be recorded. These correspond to the values observed in correspondence of the plateaux of force, developed over a sustained contraction.&#xD;
+Such data will serve as normative dataset/threshold in future studies that aim to assess (the severity of) dynapenia in a patient population.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Healthy volunteers</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Personalised musculoskeletal modeling</intervention_name>
+    <description>Magnetic resonance images, electromyography and dynamometry data will be used to develop personalised musculoskeletal models</description>
+    <arm_group_label>Healthy volunteers</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Body mass index (BMI) between 15 and 30 kg / m²&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Neurological, rheumatic or tumoral diseases;&#xD;
+&#xD;
+          -  Pathologies or physical conditions incompatible with the use of magnetic resonance&#xD;
+             imaging and electrostimulation (i.e., active and passive implanted biomedical devices,&#xD;
+             epilepsy, severe venous insufficiency in the lower limbs, pregnancy);&#xD;
+&#xD;
+          -  Previous interventions or traumas to the joints of the lower limb.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marco Viceconti, Professor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>IRCCS Istituto Ortopedico Rizzoli</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marco Viceconti, Professor</last_name>
+    <phone>+39 051.63.66</phone>
+    <phone_ext>578</phone_ext>
+    <email>marco.viceconti@ior.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Fabio Baruffaldi</last_name>
+    <phone>+39 051.63.66</phone>
+    <phone_ext>850</phone_ext>
+    <email>fabio.baruffaldi@ior.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>IRCCS Istituto Ortopedico Rizzoli</name>
+      <address>
+        <city>Bologna</city>
+        <state>Emilia-Romagna</state>
+        <zip>40136</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marco Viceconti, Professor</last_name>
+      <phone>+39 051.63.66</phone>
+      <phone_ext>578</phone_ext>
+      <email>marco.viceconti@ior.it</email>
+    </contact>
+    <contact_backup>
+      <last_name>Fabio Baruffaldi</last_name>
+      <phone>+39 051.63.66</phone>
+      <phone_ext>850</phone_ext>
+      <email>fabio.baruffaldi@ior.it</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Pons C, Borotikar B, Garetier M, Burdin V, Ben Salem D, Lempereur M, Brochard S. Quantifying skeletal muscle volume and shape in humans using MRI: A systematic review of validity and reliability. PLoS One. 2018 Nov 29;13(11):e0207847. doi: 10.1371/journal.pone.0207847. eCollection 2018.</citation>
+    <PMID>30496308</PMID>
+  </reference>
+  <reference>
+    <citation>Nishikawa Y, Watanabe K, Takahashi T, Hosomi N, Orita N, Mikami Y, Maruyama H, Kimura H, Matsumoto M. Sex differences in variances of multi-channel surface electromyography distribution of the vastus lateralis muscle during isometric knee extension in young adults. Eur J Appl Physiol. 2017 Mar;117(3):583-589. doi: 10.1007/s00421-017-3559-3. Epub 2017 Feb 20.</citation>
+    <PMID>28220239</PMID>
+  </reference>
+  <verification_date>August 2021</verification_date>
+  <study_first_submitted>September 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 25, 2021</study_first_posted>
+  <last_update_submitted>October 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 25, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Musculoskeletal modeling</keyword>
+  <keyword>In silico medicine</keyword>
+  <keyword>Maximal Voluntary Isometric Contraction</keyword>
+  <keyword>Electromyography</keyword>
+  <keyword>Healthy volunteers</keyword>
+  <keyword>Dynapenia</keyword>
+  <keyword>Dynamometry</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>We plan to share a database of normative experimental data representative of a healthy adult population. The dataset will include the force profiles and the EMG data recorded during the MVIC test, and may include Magnetic Resonance Imaging data. All data will be irreversibly anonymized.</ipd_description>
+    <ipd_time_frame>The (anonymized) database of normative values will be made available to the wider biomechanical community upon study completion</ipd_time_frame>
+    <ipd_access_criteria>Not yet defined</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

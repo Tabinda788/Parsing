@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3577">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05114616</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00003148</org_study_id>
+    <nct_id>NCT05114616</nct_id>
+  </id_info>
+  <brief_title>Assessment of Consciousness States With NextSense Ear Bud Devices</brief_title>
+  <official_title>Assessment of Consciousness States With NextSense Ear Bud Devices</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Emory University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>NextSense, Inc</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Emory University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this study is to determine the feasibility in continuing to explore NextSense's&#xD;
+      ear-EEG device (EEGBud) and Ellcie Healthy glasses as wireless, wearable alternatives to the&#xD;
+      expense, discomfort, and burden in conventional surface electrodes and hardwired signal&#xD;
+      amplification for assessing consciousness states such as wake from sleep.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Detection of physiological parameters that define wake and various stages of sleep for&#xD;
+      clinical and research purposes has for decades relied upon systems that acquire physiological&#xD;
+      signals by way of multiple surface electrodes conveyed via conductive wires to hardware that&#xD;
+      amplifies and stores information on a central processing unit (CPU). This restricts or&#xD;
+      burdens human subjects in such a way that free action or movement is difficult and requires&#xD;
+      that patients be monitored by trained staff in an accredited sleep laboratory which levies&#xD;
+      substantial financial cost, can be inconvenient for patients and families, and is labor&#xD;
+      intensive. Visual scoring of the sleep stages is the gold standard in sleep research and&#xD;
+      medicine. Sleep scoring is performed visually based on the following signals: (1) electrical&#xD;
+      activity of the brain assessed via electroencephalogram (EEG), (2) electrical activity&#xD;
+      resulting from the movement of the eyes and eyelids assessed via electrooculogram (EOG) and&#xD;
+      (3) muscle tone recorded under the chin (submental) assessed via electromyogram (EMG).&#xD;
+      Scoring is usually performed according to standardized scoring rules: Rechtschaffen and Kales&#xD;
+      or the AASM. An expert visually classifies consecutive 30-s epochs of polysomnographic (PSG)&#xD;
+      data (EEG, EOG and EMG) into wake, rapid eye movement (REM) sleep, and non-REM (NREM) sleep&#xD;
+      (stages N1-N3). The plot of a sequence of sleep stages is called a hypnogram.&#xD;
+&#xD;
+      Visual scoring by an expert is time consuming and subjective. Several studies have addressed&#xD;
+      the interrater reliability and found that correspondence between scorers is less than ideal.&#xD;
+      The main goal of this project is determine the feasibility of two different wearable&#xD;
+      technologic devices in differentiating conventional sleep metrics (including wake versus the&#xD;
+      four different sleep stages) versus those derived from simultaneous gold-standard,&#xD;
+      in-laboratory PSG methods.&#xD;
+&#xD;
+      Volunteer participants will undergo an overnight stay in a diagnostic sleep laboratory&#xD;
+      followed by a next-day maintenance of wakefulness testing (MWT) according to standard AASM&#xD;
+      protocols. While being monitored by way of multiple, standard surface electrodes on their&#xD;
+      scalp (EEG monitoring), outer canthus of each eye (EOG monitoring), mentalis (chin) and&#xD;
+      bilateral anterior tibialis (leg) (EMG monitoring), and torso (electro-cardiogram (EKG)&#xD;
+      monitoring) during conventional PSG, the NextSense ear-EEG device will be positioned within&#xD;
+      each external ear canal. In order to increase the homeostatic drive to sleep during MWT the&#xD;
+      following day (providing greater opportunity to assess biometrics of &quot;sleepiness&quot;) the&#xD;
+      researchers will extend wake four hours past each participant's habitual sleep start time,&#xD;
+      thereby allowing only 3-4 hours of sleep prior to awakening.&#xD;
+&#xD;
+      The subsequent day MWT consists of four sessions scheduled at 2-hour intervals during which&#xD;
+      participants will be asked to remain awake/vigilant, while seated in their room with lights&#xD;
+      off for 40 minutes. Prior to and following each trial, participants will complete&#xD;
+      standardized subjective metrics of their sleepiness, and surrogate objective measures of&#xD;
+      alertness including attention tasks, and the N-back task which is a continuous performance&#xD;
+      task commonly used to assess working memory and working memory capacity. During the three&#xD;
+      time intervals separating the four MWT trials, participants will be asked to read and repeat&#xD;
+      two standard sentences included in the Montreal Cognitive Assessment (MoCA) aloud and the&#xD;
+      voice audio will be recorded for subsequent analysis. Participants will be asked to wear&#xD;
+      Ellcie Healthy glasses, concurrent with the NextSense ear-EEG device, during each MWT trial,&#xD;
+      flanker attention tasks, and text read-aloud tasks.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 18, 2021</start_date>
+  <completion_date type="Anticipated">January 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Device Feasibility</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>30-second Epoch Related to Wake Stage of Sleep</measure>
+    <time_frame>Day 1 (during overnight assessment of the single study visit)</time_frame>
+    <description>Sleep stage scoring will be derived from 30-second epochs based on American Academy of Sleep Medicine (AASM) scoring criteria for four sleep/wake states, with the outputs from the PSG and the NextSense ear-EEG device being hand scored. The 30-second epochs related to the wake stage of sleep obtained from conventional PSG and the NextSense ear-EEG device will be assessed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>30-second Epoch Related to N1 Stage of Sleep</measure>
+    <time_frame>Day 1 (during overnight assessment of the single study visit)</time_frame>
+    <description>Sleep stage scoring will be derived from 30-second epochs based on AASM scoring criteria for four sleep/wake states, with the outputs from the PSG and the NextSense ear-EEG device being hand scored. The 30-second epochs related to the N1 stage of sleep obtained from conventional PSG and the NextSense ear-EEG device will be assessed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>30-second Epoch Related to N2 Stage of Sleep</measure>
+    <time_frame>Day 1 (during overnight assessment of the single study visit)</time_frame>
+    <description>Sleep stage scoring will be derived from 30-second epochs based on AASM scoring criteria for four sleep/wake states, with the outputs from the PSG and the NextSense ear-EEG device being hand scored. The 30-second epochs related to the N2 stage of sleep obtained from conventional PSG and the NextSense ear-EEG device will be assessed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>30-second Epoch Related to N3 Stage of Sleep</measure>
+    <time_frame>Day 1 (during overnight assessment of the single study visit)</time_frame>
+    <description>Sleep stage scoring will be derived from 30-second epochs based on AASM scoring criteria for four sleep/wake states, with the outputs from the PSG and the NextSense ear-EEG device being hand scored. The 30-second epochs related to the N3 stage of sleep obtained from conventional PSG and the NextSense ear-EEG device will be assessed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>30-second Epoch Related to Rapid Eye Movement (REM) Stage of Sleep</measure>
+    <time_frame>Day 1 (during overnight assessment of the single study visit)</time_frame>
+    <description>Sleep stage scoring will be derived from 30-second epochs based on AASM scoring criteria for four sleep/wake states, with the outputs from the PSG and the NextSense ear-EEG device being hand scored. The 30-second epochs related to the REM stage of sleep obtained from conventional PSG and the NextSense ear-EEG device will be assessed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>30-second Epoch Related to Movement Time</measure>
+    <time_frame>Day 1 (during overnight assessment of the single study visit)</time_frame>
+    <description>The 30-second epochs related to movement time obtained from conventional PSG and the NextSense ear-EEG device will be assessed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Sleep Onset Latency to Stage N1 Sleep</measure>
+    <time_frame>Day 1 (during overnight assessment of the single study visit)</time_frame>
+    <description>The sleep-related parameters obtained from conventional PSG and the NextSense ear-EEG device will be assessed. Sleep onset latency to stage N1 sleep is the time it takes in minutes to transition from wakefulness to sleep. Stage N1 sleep is light sleep which is easy to be awakened from.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Sleep Onset Latency to Stage N2 Sleep</measure>
+    <time_frame>Day 1 (during overnight assessment of the single study visit)</time_frame>
+    <description>The sleep-related parameters obtained from conventional PSG and the NextSense ear-EEG device will be assessed. Sleep onset latency to stage N2 sleep is the time it takes in minutes to transition deeper sleep. Stage N2 sleep has physical characteristics of heart rate slowing, body temperature dropping, and the beginning of delta waves.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rapid Eye Movement (REM) Sleep Latency</measure>
+    <time_frame>Day 1 (during overnight assessment of the single study visit)</time_frame>
+    <description>The sleep-related parameters obtained from conventional PSG and the NextSense ear-EEG device will be assessed. REM sleep latency is the time it takes in minutes to transition from wakefulness to REM sleep. REM sleep is the stage when dreaming occurs.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Sleep Time</measure>
+    <time_frame>Day 1 (during overnight assessment of the single study visit)</time_frame>
+    <description>The sleep-related parameters obtained from conventional PSG and the NextSense ear-EEG device will be assessed. Total sleep time is measured in minutes.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Wake After Sleep Onset (WASO)</measure>
+    <time_frame>Day 1 (during overnight assessment of the single study visit)</time_frame>
+    <description>The sleep-related parameters obtained from conventional PSG and the NextSense ear-EEG device will be assessed. WASO measures wakefulness (in minutes) after sleep onset.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Sleep Efficiency</measure>
+    <time_frame>Day 1 (during overnight assessment of the single study visit)</time_frame>
+    <description>The sleep-related parameters obtained from conventional PSG and the NextSense ear-EEG device will be assessed. Sleep efficiency is the percentage of time in bed that is spend sleeping.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Sleep Maintenance Efficiency</measure>
+    <time_frame>Day 1 (during overnight assessment of the single study visit)</time_frame>
+    <description>The sleep-related parameters obtained from conventional PSG and the NextSense ear-EEG device will be assessed. Sleep maintenance efficiency is total sleep time divided by sleep period time (time is measured in minutes).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time in Each Sleep Stage</measure>
+    <time_frame>Day 1 (during overnight assessment of the single study visit)</time_frame>
+    <description>The sleep-related parameters obtained from conventional PSG and the NextSense ear-EEG device will be assessed. Time in sleep stages N1, N2, N3 and REM will be measured in minutes.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Arousals</measure>
+    <time_frame>Day 1 (during overnight assessment of the single study visit)</time_frame>
+    <description>The sleep-related parameters obtained from conventional PSG and the NextSense ear-EEG device will be assessed. Arousals from sleep will be counted.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Sleep Onset Latency to Stage N1 Sleep During MWT</measure>
+    <time_frame>Day 2 (during daytime assessment of the single study visit)</time_frame>
+    <description>The sensitivity of the NextSense ear-EEG device and Ellcie Healthy glasses to detect metrics of daytime sleepiness during conventional MWT testing will be assessed. Sleep onset latency to stage N1 sleep is the time it takes in minutes to transition from wakefulness to the first stage of sleep.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Sleep Onset Latency to REM Sleep During MWT</measure>
+    <time_frame>Day 2 (during daytime assessment of the single study visit)</time_frame>
+    <description>The sensitivity of the NextSense ear-EEG device and Ellcie Healthy glasses to detect metrics of daytime sleepiness during conventional MWT testing will be assessed. REM sleep latency is the time it takes in minutes to transition from wakefulness to REM sleep.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>EEG Power Spectral Analysis During MWT</measure>
+    <time_frame>Day 2 (during daytime assessment of the single study visit)</time_frame>
+    <description>The sensitivity of the NextSense ear-EEG device and Ellcie Healthy glasses to detect metrics of daytime sleepiness during conventional MWT testing will be assessed. The EEG signals from PSG and the NextSense ear-EEG device will be analyzed and compared for spectral power within delta, theta, alpha, and beta frequency bands.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fast Fourier Transformation (FFT) During MWT</measure>
+    <time_frame>Day 2 (during daytime assessment of the single study visit)</time_frame>
+    <description>The sensitivity of the NextSense ear-EEG device and Ellcie Healthy glasses to detect metrics of daytime sleepiness during conventional MWT testing will be assessed. EEG spectral analysis using the fast Fourier transformation will be compared between EEG signals from PSG and the NextSense ear-EEG device.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Blink Rate</measure>
+    <time_frame>Day 2 (during daytime assessment of the single study visit)</time_frame>
+    <description>The number of blinks per minute will be assessed with the Ellcie Healthy glasses during MWT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Blink Duration</measure>
+    <time_frame>Day 2 (during daytime assessment of the single study visit)</time_frame>
+    <description>Blink duration (in milliseconds) will be assessed with the Ellcie Healthy glasses during MWT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Velocity of Eyelid Opening</measure>
+    <time_frame>Day 2 (during daytime assessment of the single study visit)</time_frame>
+    <description>Velocity of eyelid opening, measured as centimeters per second (cm/s), will be assessed with the Ellcie Healthy glasses during MWT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Velocity of Eyelid Closing</measure>
+    <time_frame>Day 2 (during daytime assessment of the single study visit)</time_frame>
+    <description>Velocity of eyelid closing, measured as centimeters per second (cm/s), will be assessed with the Ellcie Healthy glasses during MWT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Amplitude</measure>
+    <time_frame>Day 2 (during daytime assessment of the single study visit)</time_frame>
+    <description>Amplitude, measured as the proportion of lid aperture, will be assessed with the Ellcie Healthy glasses during MWT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fixation/Saccade Estimation</measure>
+    <time_frame>Day 2 (during daytime assessment of the single study visit)</time_frame>
+    <description>The fixation (milliseconds when the eye is focused on a target) to saccade (rapid eye movement between fixations) estimation will be assessed with the Ellcie Healthy glasses during MWT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Shifts in Gaze</measure>
+    <time_frame>Day 2 (during daytime assessment of the single study visit)</time_frame>
+    <description>Gaze mobility will be assessed with the Ellcie Healthy glasses during MWT. The number of changes in eye gaze will be evaluated.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Number of Head Bobs</measure>
+    <time_frame>Day 2 (during daytime assessment of the single study visit)</time_frame>
+    <description>Total number of head bobs will be assessed with the Ellcie Healthy glasses during MWT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of Head Bobs</measure>
+    <time_frame>Day 2 (during daytime assessment of the single study visit)</time_frame>
+    <description>Frequency of head bobs will be assessed with the Ellcie Healthy glasses during MWT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Acceleration of Head Bobs</measure>
+    <time_frame>Day 2 (during daytime assessment of the single study visit)</time_frame>
+    <description>Acceleration of head bobs will be assessed with the Ellcie Healthy glasses during MWT. Head bob acceleration will be measured as angular acceleration in units of angle per unit time squared.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">16</enrollment>
+  <condition>Sleep</condition>
+  <arm_group>
+    <arm_group_label>Sleep Study and Daytime MWT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Health volunteers completing one overnight sleep study followed by daytime MWT. The sleep study will include standard surface electrodes as well as EEGBuds. Participants will be asked to wear Ellcie Healthy glasses, concurrent with the EEGBuds, during each MWT trial.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>NextSense EEG-enabled earbuds</intervention_name>
+    <description>Each NextSense EEGBud device comes with a custom-fit earmold with biometric sensors to detect the EEG, motion (via tri-axial accelerometers), and heart rate. A unique custom mold is created employing a 3D printer to capture the geometry of a participants' ear and external auditory canal with a ring laser scanner to an accuracy of within 0.1 mm. This design process allows for a custom fit, and therefore both comfort and complete, consistent contact with the inner surface of the ear canal, providing high quality signal capture of brain activity, and head and eye movements.</description>
+    <arm_group_label>Sleep Study and Daytime MWT</arm_group_label>
+    <other_name>EEGBud</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Ellcie Healthy Glasses</intervention_name>
+    <description>Ellcie Healthy glasses frames are embedded with multi-modal sensors for measuring eye movements, head movement, and ECG.</description>
+    <arm_group_label>Sleep Study and Daytime MWT</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy adults ages 18-60 years of age living within 20 miles of the Emory Sleep&#xD;
+             Center in Atlanta, Georgia.&#xD;
+&#xD;
+          -  Normal body mass index (BMI) (&gt;= 18.5 and &lt;= 28.0 kg/m^2) at screening visit.&#xD;
+&#xD;
+          -  Has regular sleep-wake habits (e.g., 7-8.5 hours nightly sleep, consistent bed/wake&#xD;
+             times within 1-2 hours, regular bedtime between 9:30pm-11:30pm, does not oversleep by&#xD;
+             &gt; 2 hours on weekends).&#xD;
+&#xD;
+          -  Does not require regular sleep aids or wake promoting medications (including some over&#xD;
+             the counter cold/allergy medications).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Has a history of diagnosed or suspected sleep disorder (e.g., sleep-related breathing&#xD;
+             disorders, circadian rhythm sleep-wake disorders, central disorders of&#xD;
+             hypersomnolence, parasomnias, sleep-related movement disorders, disorders of sleep&#xD;
+             maintenance or initiation) or other medical condition associated with excessive&#xD;
+             daytime sleepiness.&#xD;
+&#xD;
+          -  Regular caffeine consumption &gt; 200 mg per day (1 cup of coffee = 80-120 mg).&#xD;
+&#xD;
+          -  Has a history of major psychiatric disorder (e.g., major depression, bipolar disorder,&#xD;
+             schizophrenia) or suicidal ideation.&#xD;
+&#xD;
+          -  Current or recent (within the past 6 months) substance dependence (including nicotine,&#xD;
+             marijuana, alcohol, or any other substance that is likely to affect sleep).&#xD;
+&#xD;
+          -  Has a history of diagnosed or suspected attention deficit/hyperactivity disorder.&#xD;
+&#xD;
+          -  Has performed as a nighttime shift-worker within the past 6 months.&#xD;
+&#xD;
+          -  Inability to safely tolerate wearing earbuds due to recent injury, skin breakdown, or&#xD;
+             infection.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Rye, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Emory University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>David Rye, MD, PhD</last_name>
+    <phone>404-712-7533</phone>
+    <email>drye@emory.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Emory Sleep Center</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30329</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 10, 2021</study_first_posted>
+  <last_update_submitted>December 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 7, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Emory University</investigator_affiliation>
+    <investigator_full_name>David Rye</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

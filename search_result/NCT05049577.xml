@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8578">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05049577</url>
+  </required_header>
+  <id_info>
+    <org_study_id>WonkwangUH8</org_study_id>
+    <nct_id>NCT05049577</nct_id>
+  </id_info>
+  <brief_title>Preanesthetic Analgesia/Nociception Index (ANI) and Propofol Injection Pain</brief_title>
+  <official_title>Can Preanesthetic Analgesia/Nociception Index (ANI) Predict Propofol Injection Pain</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Wonkwang University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Wonkwang University Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Recently, Analgesia Nociception Index (ANI) has been evaluated for objectively measuring&#xD;
+      peri-operative pain and to guide intra-operative opioid administration during various&#xD;
+      surgeries.&#xD;
+&#xD;
+      Propofol injection pain (PIP) is a common problem and can be very distressing to the patient.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study aimed to the association of preanesthetic ANI scores and PIP in patients who&#xD;
+      scheduled for general anesthesia.&#xD;
+&#xD;
+      Before propofol administration in remifentanil group, preanesthetic ANI values (instant and&#xD;
+      mean) were checked after remifentanil to a target Ce of 4 ng/ml.&#xD;
+&#xD;
+      Control group received the same volume of saline as remifentanil group. Heart rate and&#xD;
+      bispectral index were checked as ANI. Point biserial correlation and ROC curve were analyzed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 1, 2021</start_date>
+  <completion_date type="Actual">July 30, 2021</completion_date>
+  <primary_completion_date type="Actual">April 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Prospective randomized and controlled study</intervention_model_description>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+    <masking_description>All study drugs were administered using a Minto pharmacokinetic model in a TCI device (Orchestra, Fresenius-Vial, France). The infusion pump was covered to blind the patients, investigator, and outcomes assessor</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The correlation of Analgesia/nociception Index (ANI) and Propofol injection pain (PIP)</measure>
+    <time_frame>Immediately before administration of propofol (2mg/kg)</time_frame>
+    <description>The correlation of preanesthetic ANI scores and incidence of PIP.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence and severity of PIP</measure>
+    <time_frame>during anesthesia induction ( half-dose (1mg/kg) and full-dose of (2mg/kg) propofol administration)</time_frame>
+    <description>Incidence and severity with numeric rating scales( 0= no pain, 100=worst pain) of propofol injection pain</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The correlation of Analgesia/nociception Index (ANI) and Propofol injection pain (PIP)</measure>
+    <time_frame>Immediately before administration of propofol (2mg/kg)</time_frame>
+    <description>The correlation of preanesthetic ANI scores and severity of PIP.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">124</enrollment>
+  <condition>Pain, Acute</condition>
+  <condition>Analgesia</condition>
+  <condition>Nociceptive Pain</condition>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>To maintain blinding, in the control group, the remifentanil infusion was replaced with 50 ml of normal saline in 50 ml syringe. The remifentanil (or saline) infusion was run until the pump indicated the target Ce had been achieved. Pharmacokinetic model for remifentanil was the Minto model (Height, Weight, and Age) Anesthesia in all patients was induced using 2 mg/kg of 2% propofol. The attending anesthesiologist asked the patients how they felt pain to evaluate pain severity of PIP while half -dose of propofol was administered. After the rest of the propofol was administered, the attending anesthesiologists asked the same question.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Remifentanil group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Remifentanil 1 mg was diluted into 50 ml of normal saline. A commercial TCI pump (Orchestra Base Primea, Fresenius Vial, France) was used for the effect-site TCI of remifentanil. The study groups received remifentanil to a target Ce of 4 ng/ ml. Pharmacokinetic model for remifentanil was the Minto model (Height, Weight, and Age) Anesthesia induction and the evaluation of pain were same as control group</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Analgesia/Nociception Index (ANI)</intervention_name>
+    <description>V1 and V5 electrocardiographic positions as per the manufacturer's recommendations. The ANI was continuously recorded and displayed with a frequency of 1 Hz. ANI scores measured immediately before propofol administration, half-dose administration (1mg/kg), and full-dose administration (2mg/kg)of propofol.</description>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_label>Remifentanil group</arm_group_label>
+    <other_name>ANI MOC-9</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male patients who scheduled for general anesthesia&#xD;
+&#xD;
+          -  Cognitive patients who could understand this study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients receiving β-receptor blockers, ketamine, clonidine, or any vasoactive&#xD;
+             substance (i.e. metaraminol, ephedrine) and patients receiving neostigmine, atropine&#xD;
+             or glycopyrrolate.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Male patients aged 19-60 years and the american society of anesthesiologists(ASA) class I or II who were scheduled for general anesthesia</gender_description>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Cheol Lee, M.D,Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of anesthesiology and pain medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>WonwangUH</name>
+      <address>
+        <city>Iksan</city>
+        <state>Jeonbuk</state>
+        <zip>570-711</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <reference>
+    <citation>Chanques G, Tarri T, Ride A, Prades A, De Jong A, Carr J, Molinari N, Jaber S. Analgesia nociception index for the assessment of pain in critically ill patients: a diagnostic accuracy study. Br J Anaesth. 2017 Oct 1;119(4):812-820. doi: 10.1093/bja/aex210.</citation>
+    <PMID>29121287</PMID>
+  </reference>
+  <reference>
+    <citation>Ledowski T. Objective monitoring of nociception: a review of current commercial solutions. Br J Anaesth. 2019 Aug;123(2):e312-e321. doi: 10.1016/j.bja.2019.03.024. Epub 2019 Apr 30. Review.</citation>
+    <PMID>31047645</PMID>
+  </reference>
+  <reference>
+    <citation>Abdullayev R, Yildirim E, Celik B, Topcu Sarica L. Analgesia Nociception Index: Heart Rate Variability Analysis of Emotional Status. Cureus. 2019 Apr 2;11(4):e4365. doi: 10.7759/cureus.4365.</citation>
+    <PMID>31192070</PMID>
+  </reference>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>August 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 20, 2021</study_first_posted>
+  <last_update_submitted>September 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Wonkwang University Hospital</investigator_affiliation>
+    <investigator_full_name>Cheol Lee,MD,PhD,</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acute Pain</mesh_term>
+    <mesh_term>Nociceptive Pain</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>if other researchers ask, a decision will be made after discussion with the co-authors</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

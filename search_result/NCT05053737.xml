@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8258">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05053737</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-2642.cc</org_study_id>
+    <secondary_id>P30CA046934</secondary_id>
+    <nct_id>NCT05053737</nct_id>
+  </id_info>
+  <brief_title>Radiotherapy in Combination With Atezolizumab Prior to Surgical Resection for HPV Unrelated HNSCC</brief_title>
+  <official_title>Phase I/II Trial of Radiotherapy in Combination With Atezolizumab Prior to Surgical Resection for HPV-unrelated Squamous Cell Carcinoma of the Head and Neck (HNSCC)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Colorado, Denver</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Genentech, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Colorado, Denver</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the outcomes of patients with specific head and neck cancer after undergoing&#xD;
+      radiation therapy with atezolizumab followed by surgery then radiation with or without&#xD;
+      chemotherapy according to national guidelines.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Hypothesis: that the addition of SBRT to neoadjuvant checkpoint inhibition would be safe and&#xD;
+      would prime the immune system and improve the chances of a successful surgery and overall&#xD;
+      survival. The preliminary analysis demonstrated the safety of dose escalation of&#xD;
+      anti-PD-L1-RT to 18Gy in 3 fractions. In this study, the maximum dose to the tumor was&#xD;
+      escalated to 133%, an equivalent dose of 24 Gy in 3 fractions, with no safety or unexpected&#xD;
+      surgical issues encountered. At interim analysis, counting all patients, even those treated&#xD;
+      for the 12Gy in 2 fractions and even those that received surgery at 2 weeks, the rate of&#xD;
+      pTR-2 or greater was close to 100%. With only 11 analyzable patients and counting those who&#xD;
+      received the dose escalated 18 Gy in 3 fractions radiation with anti-PD-L1, investigators&#xD;
+      have observed much higher pathological responses. Another group of investigators has also&#xD;
+      demonstrated the safety of delivering 24 Gy in 3 fractions with anti-PD-L1&#xD;
+      (https://clincancerres.aacrjournals.org/content/26/12_Supplement_2/B01). Given the safety and&#xD;
+      preliminary efficacy of 24 Gy in 3 fractions SBRT with anti-PD-L1 therapy in the neoadjuvant&#xD;
+      setting, the investigators propose the present study to assess the impact of this regimen on&#xD;
+      pathologic tumor response rate.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 2, 2021</start_date>
+  <completion_date type="Anticipated">November 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 24, 2022</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>HPV unrelated head and neck cancer. Neoadjuvant Atezolizumab w/ SBRT followed by surgery then risk adjusted adjuvant therapy per NCCN guidelines (adjuvant RT or CRT)</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Phase I lead in: Primary Outcome is Safety determined by Adverse Events</measure>
+    <time_frame>24 months</time_frame>
+    <description>Phase I lead in: the primary endpoint will be the binary outcome of whether or not a patient experiences the occurrence of a dose-limiting toxicity (DLT). Adverse events will be reviewed for safety assessments.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase II: Primary Endpoint is Efficacy as measured by the rate of MPR</measure>
+    <time_frame>24 months</time_frame>
+    <description>Phase II: the primary endpoint will be efficacy as measured by the rate of MPR (≤10% residual tumor) or pathologic complete response (pCR, no residual tumor). Response will be assessed by pathology review and will be labeled as pathologic tumor response 0 (pTR-0, &lt;10% of sample characterized by tumor necrosis, keratinous debris, and/or giant cells/histiocytes), pTR-1 (10-49%), pTR-2 (50-89%), MPR (90-99%, also referred to pTR-3), or complete pathologic response (pCR, 100%, also referred to as pTR-4).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Survival</measure>
+    <time_frame>24 months</time_frame>
+    <description>OS will be determined from the time of enrollment to date of death due to any cause. PFS determined from the time of enrollment to date of progression (any distant recurrence or locoregional recurrence)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Translational Endpoints</measure>
+    <time_frame>24 months</time_frame>
+    <description>Will examine effect of the treatment on the infiltration of immune cells into the tumor</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Secondary Translational Endpoint</measure>
+    <time_frame>24 months</time_frame>
+    <description>Will examine effect of the treatment on the activation of immune cells in the circulation</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">46</enrollment>
+  <condition>Squamous Cell Carcinoma of Head and Neck</condition>
+  <arm_group>
+    <arm_group_label>SBRT with Neoadjuvant Atezolizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will undergo SBRT with atezolizumab neoadjuvantly followed by surgery and strictly risk-adjusted adjuvant treatment with radiation with or without chemotherapy according to national guidelines.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Atezolizumab</intervention_name>
+    <description>Participants will receive atezolizumab administered by intravenous (IV) infusion at a fixed dose of 1200 mg. Two doses will be given separated by 21 days (second dose can be given at at 21 + 7 -10 days).</description>
+    <arm_group_label>SBRT with Neoadjuvant Atezolizumab</arm_group_label>
+    <other_name>MPDL3280A</other_name>
+    <other_name>RG7446</other_name>
+    <other_name>Tecentriq</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Stereotactic Body Radiation Therapy</intervention_name>
+    <description>SBRT will be given 3 times on non-consecutive days over the course of 5 to 7 days. Radiation will target sites of gross disease only to minimized exposure to normal tissue.</description>
+    <arm_group_label>SBRT with Neoadjuvant Atezolizumab</arm_group_label>
+    <other_name>SBRT</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Provision to sign and date the consent form&#xD;
+&#xD;
+          2. Stated willingness to comply with all study procedures and be available for the&#xD;
+             duration of the study&#xD;
+&#xD;
+          3. Histologically or cytologically confirmed: stage II-IVB oral cavity, stage III-IVB&#xD;
+             larynx, stage III-IVB hypopharynx, stage III-IVB sinonasal, or stage III-IVB HPV-&#xD;
+             and/or p16-negative intermediate-high risk oropharynx head and neck cancer (AJCC 8th&#xD;
+             edition)&#xD;
+&#xD;
+          4. Measurable disease defined as lesions that can be accurately measured in at least one&#xD;
+             dimension (longest diameter to be recorded) as &gt;10 mm by CT, PET/CT or MRI or &gt;10 mm&#xD;
+             on visual inspection by clinical exam&#xD;
+&#xD;
+          5. Patients who are deemed resectable by ENT surgeon without pre-existing medical&#xD;
+             conditions that could inhibit surgery following neoadjuvant therapy, and do not refuse&#xD;
+             surgery&#xD;
+&#xD;
+          6. Age ≥ 18 years at time of study entry&#xD;
+&#xD;
+          7. ECOG performance status ≤ 1&#xD;
+&#xD;
+          8. Body weight &gt;30 kg&#xD;
+&#xD;
+          9. Adequate normal organ and marrow function as defined below:&#xD;
+&#xD;
+               -  Hemoglobin ≥9.0 g/dL&#xD;
+&#xD;
+               -  Absolute neutrophil count (ANC) ≥1.5 x 109/L (≥ 1500 per mm3) without granulocyte&#xD;
+                  colony-stimulating factor support.&#xD;
+&#xD;
+               -  Lymphocyte count ≥0.5 × 109/L (500/μL)&#xD;
+&#xD;
+               -  Platelet count ≥100 x 109/L (≥100,000 per mm3) without transfusion&#xD;
+&#xD;
+               -  Serum bilirubin ≤1.5 x institutional upper limit of normal (ULN). This will not&#xD;
+                  apply to patients with confirmed Gilbert's syndrome (persistent or recurrent&#xD;
+                  hyperbilirubinemia that is predominantly unconjugated in the absence of hemolysis&#xD;
+                  or hepatic pathology), who will be allowed only in consultation with their&#xD;
+                  physician.&#xD;
+&#xD;
+               -  AST (SGOT)/ALT (SGPT)/ ALP ≤2.5 x institutional upper limit of normal&#xD;
+&#xD;
+               -  Serum albumin ≥ 25 g/L (2.5 g/dL)&#xD;
+&#xD;
+               -  For patients not receiving therapeutic anticoagulation: INR or aPTT ≤ 1.5 × ULN&#xD;
+&#xD;
+               -  For patients receiving therapeutic anticoagulation: stable anticoagulant regimen&#xD;
+&#xD;
+               -  Measured creatinine clearance (CL) &gt;40 mL/min or Calculated creatinine CL&gt;40&#xD;
+                  mL/min by the Cockcroft-Gault formula (Cockcroft and Gault 1976) or by 24-hour&#xD;
+                  urine collection for determination of creatinine clearance:&#xD;
+&#xD;
+             Males:&#xD;
+&#xD;
+             Creatinine CL (mL/min) = Weight (kg) x (140 - Age) 72 x serum creatinine (mg/dL)&#xD;
+&#xD;
+             Females:&#xD;
+&#xD;
+             Creatinine CL (mL/min) = Weight (kg) x (140 - Age) x 0.85 72 x serum creatinine&#xD;
+             (mg/dL)&#xD;
+&#xD;
+         10. Evidence of post-menopausal status or negative urinary or serum pregnancy test for&#xD;
+             female pre-menopausal patients. See section 6.12 for additional details and&#xD;
+             contraception requirements for patients on study. Women will be considered&#xD;
+             post-menopausal if they have been amenorrheic for 12 months without an alternative&#xD;
+             medical cause. The following age-specific requirements apply:&#xD;
+&#xD;
+               -  Women &lt;50 years of age would be considered post-menopausal if they have been&#xD;
+                  amenorrheic for 12 months or more following cessation of exogenous hormonal&#xD;
+                  treatments and if they have luteinizing hormone and follicle-stimulating hormone&#xD;
+                  levels in the post-menopausal range for the institution or underwent surgical&#xD;
+                  sterilization (bilateral oophorectomy or hysterectomy)&#xD;
+&#xD;
+               -  Women ≥50 years of age would be considered post-menopausal if they have been&#xD;
+                  amenorrheic for 12 months or more following cessation of all exogenous hormonal&#xD;
+                  treatments, had radiation-induced menopause with last menses &gt;1 year ago, had&#xD;
+                  chemotherapy-induced menopause with last menses &gt;1 year ago, or underwent&#xD;
+                  surgical sterilization (bilateral oophorectomy, bilateral salpingectomy or&#xD;
+                  hysterectomy)&#xD;
+&#xD;
+         11. Patient is willing and able to comply with the protocol for the duration of the study&#xD;
+             including undergoing treatment and scheduled visits and examinations including follow&#xD;
+             up&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Participation in another clinical study with an investigational product during the&#xD;
+             last 3 months&#xD;
+&#xD;
+          2. Patients with active ILD / pneumonitis or with a history of ILD/ pneumonitis requiring&#xD;
+             steroids&#xD;
+&#xD;
+          3. Concurrent enrollment in another clinical study, unless it is an observational&#xD;
+             (non-interventional) clinical study or during the follow-up period of an&#xD;
+             interventional study&#xD;
+&#xD;
+          4. Any previous treatment with a PD-1 or PD-L1 inhibitor, including durvalumab,&#xD;
+             anti-PD-L2, anti-CD137, or anti-cytotoxic T-lymphocyte-associated antigen-4 (CTLA-4)&#xD;
+             antibody (including ipilimumab or any other antibody or drug specifically targeting&#xD;
+             T-cell co-stimulation or checkpoint pathways)&#xD;
+&#xD;
+          5. Treatment with systemic immunostimulatory agents (including, but not limited to,&#xD;
+             interferon and interleukin 2 [IL-2]) within 4 weeks or 5 half-lives of the drug&#xD;
+             (whichever is longer) prior to initiation of study treatment&#xD;
+&#xD;
+          6. Receipt of the last dose of anticancer therapy (chemotherapy, immunotherapy, endocrine&#xD;
+             therapy, targeted therapy, biologic therapy, tumor embolization, monoclonal&#xD;
+             antibodies, other investigational agent) 30 days prior to the first dose of study drug&#xD;
+             for patients who have received prior TKIs [e.g., erlotinib, gefitinib and crizotinib]&#xD;
+             and within 6 weeks for nitrosourea or mitomycin C. (If sufficient wash-out time has&#xD;
+             not occurred due to the schedule or PK properties of an agent, a longer wash-out&#xD;
+             period may be required.)&#xD;
+&#xD;
+          7. Patients with QTc interval &gt; 470 msec during screening&#xD;
+&#xD;
+          8. Current or prior use of immunosuppressive medication within 14 days before the first&#xD;
+             dose of atezolizumab, with the exceptions of intranasal and inhaled corticosteroids or&#xD;
+             systemic corticosteroids at physiological doses, which are not to exceed 10 mg/day of&#xD;
+             prednisone, or an equivalent corticosteroid. The following are exceptions to this&#xD;
+             criterion:&#xD;
+&#xD;
+               -  Intranasal, inhaled, topical steroids, or local steroid injections (e.g., intra&#xD;
+                  articular injection)&#xD;
+&#xD;
+               -  Systemic corticosteroids at physiologic doses not to exceed 10 mg/day of&#xD;
+                  prednisone or its equivalent&#xD;
+&#xD;
+               -  Steroids as premedication for hypersensitivity reactions (e.g., CT scan&#xD;
+                  premedication)&#xD;
+&#xD;
+          9. Any concurrent chemotherapy, IP, biologic, or hormonal therapy that is not part of&#xD;
+             standard NCCN indicated HNSCC adjuvant concurrent CRT. Concurrent use of hormonal&#xD;
+             therapy for non-cancer-related conditions (e.g., hormone replacement therapy) is&#xD;
+             acceptable.&#xD;
+&#xD;
+         10. History of allogenic organ or bone marrow transplantation&#xD;
+&#xD;
+         11. Major surgical procedure, other than for diagnosis, within 4 weeks prior to initiation&#xD;
+             of study treatment, or anticipation of need for a major surgical procedure during the&#xD;
+             study&#xD;
+&#xD;
+         12. Severe infection within 4 weeks prior to initiation of study treatment, including, but&#xD;
+             not limited to, hospitalization for complications of infection, bacteremia, or severe&#xD;
+             pneumonia&#xD;
+&#xD;
+         13. Treatment with therapeutic oral or IV antibiotics within 2 weeks prior to initiation&#xD;
+             of study treatment. Patients receiving prophylactic antibiotics (e.g., to prevent a&#xD;
+             urinary tract infection or chronic obstructive pulmonary disease exacerbation) are&#xD;
+             eligible for the study.&#xD;
+&#xD;
+         14. Active or prior documented autoimmune or inflammatory disorders (including&#xD;
+             inflammatory bowel disease [e.g., colitis or Crohn's disease], diverticulitis [with&#xD;
+             the exception of diverticulosis], systemic lupus erythematosus, Sarcoidosis syndrome,&#xD;
+             or Wegener syndrome [granulomatosis with polyangiitis, Graves' disease, rheumatoid&#xD;
+             arthritis, hypophysitis, uveitis, etc.]). The following are exceptions to this&#xD;
+             criterion:&#xD;
+&#xD;
+               -  Patients with vitiligo or alopecia&#xD;
+&#xD;
+               -  Patients with hypothyroidism (e.g., following Hashimoto syndrome) stable on&#xD;
+                  hormone replacement&#xD;
+&#xD;
+               -  Any chronic skin condition that does not require systemic therapy&#xD;
+&#xD;
+               -  Patients without active disease in the last 5 years may be included but only&#xD;
+                  after consultation with the Primary Investigator&#xD;
+&#xD;
+               -  Patients with celiac disease controlled by diet alone&#xD;
+&#xD;
+         15. Uncontrolled intercurrent illness, including but not limited to, ongoing or active&#xD;
+             infection, symptomatic congestive heart failure, uncontrolled hypertension, unstable&#xD;
+             angina pectoris, uncontrolled cardiac arrhythmia, interstitial lung disease, serious&#xD;
+             chronic gastrointestinal conditions associated with diarrhea, or psychiatric&#xD;
+             illness/social situations that would limit compliance with study requirement,&#xD;
+             substantially increase risk of incurring AEs or compromise the ability of the patient&#xD;
+             to give written informed consent&#xD;
+&#xD;
+         16. Significant cardiovascular disease (such as New York Heart Association Class II or&#xD;
+             greater cardiac disease, myocardial infarction, or cerebrovascular accident) within 3&#xD;
+             months prior to initiation of study treatment, unstable arrhythmia, or unstable angina&#xD;
+&#xD;
+         17. History of another primary malignancy except for:&#xD;
+&#xD;
+               -  Malignancy treated with curative intent and with no known active disease ≥3 years&#xD;
+                  before the first dose of IP and of low potential risk for recurrence&#xD;
+&#xD;
+               -  Adequately treated non-melanoma skin cancer or lentigo maligna without evidence&#xD;
+                  of disease&#xD;
+&#xD;
+               -  Adequately treated carcinoma in situ without evidence of disease&#xD;
+&#xD;
+               -  Active or previously treated prostate cancer without distant metastasis&#xD;
+&#xD;
+               -  Active or previously treated thyroid cancer without distant metastasis&#xD;
+&#xD;
+               -  Active or previously treated DCIS or early stage breast cancer without distant&#xD;
+                  metastasis&#xD;
+&#xD;
+         18. History of leptomeningeal carcinomatosis&#xD;
+&#xD;
+         19. Uncontrolled tumor-related pain Patients requiring pain medication must be on a stable&#xD;
+             regimen at study entry. Symptomatic lesions (e.g., bone metastases or metastases&#xD;
+             causing nerve impingement) amenable to palliative radiotherapy should be treated prior&#xD;
+             to enrollment. Patients should be recovered from the effects of radiation. There is no&#xD;
+             required minimum recovery period.&#xD;
+&#xD;
+             Asymptomatic metastatic lesions that would likely cause functional deficits or&#xD;
+             intractable pain with further growth (e.g., epidural metastasis that is not currently&#xD;
+             associated with spinal cord compression) should be considered for loco-regional&#xD;
+             therapy if appropriate prior to enrollment.&#xD;
+&#xD;
+         20. History of active primary immunodeficiency&#xD;
+&#xD;
+         21. Uncontrolled pleural effusion, pericardial effusion, or ascites requiring recurrent&#xD;
+             drainage procedures (once monthly or more frequently). Patients with indwelling&#xD;
+             catheters (e.g., PleurX®) are allowed.&#xD;
+&#xD;
+         22. Uncontrolled or symptomatic hypercalcemia (ionized calcium &gt; 1.5 mmol/L, calcium &gt; 12&#xD;
+             mg/dL or corrected serum calcium &gt; ULN)&#xD;
+&#xD;
+         23. Active or history of autoimmune disease or immune deficiency, including, but not&#xD;
+             limited to, myasthenia gravis, myositis, autoimmune hepatitis, systemic lupus&#xD;
+             erythematosus, rheumatoid arthritis, inflammatory bowel disease, antiphospholipid&#xD;
+             antibody syndrome, Wegener granulomatosis, Sjögren syndrome, Guillain-Barré syndrome,&#xD;
+             or multiple sclerosis (see Appendix 3 for a more comprehensive list of autoimmune&#xD;
+             diseases and immune deficiencies), with the following exceptions:&#xD;
+&#xD;
+               -  Patients with a history of autoimmune-related hypothyroidism who are on&#xD;
+                  thyroid-replacement hormone are eligible for the study&#xD;
+&#xD;
+               -  Patients with controlled Type 1 diabetes mellitus who are on an insulin regimen&#xD;
+                  are eligible for the study&#xD;
+&#xD;
+               -  Patients with eczema, psoriasis, lichen simplex chronicus, or vitiligo with&#xD;
+                  dermatologic manifestations only (e.g., patients with psoriatic arthritis are&#xD;
+                  excluded) are eligible for the study provided all of following conditions are&#xD;
+                  met:&#xD;
+&#xD;
+                    -  Rash must cover &lt; 10% of body surface area&#xD;
+&#xD;
+                    -  Disease is well controlled at baseline and requires only low-potency topical&#xD;
+                       corticosteroids&#xD;
+&#xD;
+                    -  No occurrence of acute exacerbations of the underlying condition requiring&#xD;
+                       psoralen plus ultraviolet A radiation, methotrexate, retinoids, biologic&#xD;
+                       agents, oral calcineurin inhibitors, or high-potency or oral corticosteroids&#xD;
+                       within the previous 12 months&#xD;
+&#xD;
+         24. Active infection including tuberculosis (clinical evaluation that includes clinical&#xD;
+             history, physical examination and radiographic findings, and TB testing in line with&#xD;
+             local practice), hepatitis B (known positive HBV surface antigen (HBsAg) result),&#xD;
+             hepatitis C, or human immunodeficiency virus (positive HIV 1/2 antibodies). Patients&#xD;
+             with a past or resolved HBV infection (defined as the presence of hepatitis B core&#xD;
+             antibody [anti-HBc] and absence of HBsAg) are eligible. Patients positive for&#xD;
+             hepatitis C (HCV) antibody are eligible only if polymerase chain reaction is negative&#xD;
+             for HCV RNA.&#xD;
+&#xD;
+         25. History of idiopathic pulmonary fibrosis, organizing pneumonia (e.g., bronchiolitis&#xD;
+             obliterans), drug-induced pneumonitis, or idiopathic pneumonitis, or evidence of&#xD;
+             active pneumonitis on screening chest computed tomography (CT) scan. History of&#xD;
+             radiation pneumonitis in the radiation field (fibrosis) is permitted.&#xD;
+&#xD;
+         26. Treatment with a live, attenuated vaccine within 120 days prior to initiation of study&#xD;
+             treatment, or anticipation of need for such a vaccine during atezolizumab treatment or&#xD;
+             within 150 days after the final dose of atezolizumab.&#xD;
+&#xD;
+         27. Female patients who are pregnant or breastfeeding or male or female patients of&#xD;
+             reproductive potential who are not willing to employ highly effective birth control&#xD;
+             from screening to about 1 80 days after the last dose of atezolizumab monotherapy.&#xD;
+             Patient must have a negative serum or urine pregnancy test within 72 hours of study&#xD;
+             entry.&#xD;
+&#xD;
+         28. Known allergy or hypersensitivity to any of the study drugs or any of the study drug&#xD;
+             excipients&#xD;
+&#xD;
+         29. Prior randomization or treatment in a previous atezolizumab clinical study&#xD;
+&#xD;
+         30. Patients with p16-positive oropharyngeal SCC. No verification of p16 status is needed&#xD;
+             for laryngeal cancer or oral cavity cancer.&#xD;
+&#xD;
+         31. Patients with distant metastatic disease on initial screening imaging&#xD;
+&#xD;
+         32. Judgment by the investigator that the patient is unsuitable to participate in the&#xD;
+             study and the patient is unlikely to comply with study procedures, restrictions and&#xD;
+             requirements&#xD;
+&#xD;
+         33. History of severe allergic anaphylactic reactions to chimeric or humanized antibodies&#xD;
+             or fusion proteins&#xD;
+&#xD;
+         34. Known hypersensitivity to Chinese hamster ovary cell products or to any component of&#xD;
+             the atezolizumab formulation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sana Karam</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Colorado, Denver</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Tessa McSpadden</last_name>
+    <phone>303-724-0053</phone>
+    <email>tessa.mcspadden@cuanschutz.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Colorado Research Center</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tessa McSpadden</last_name>
+      <phone>303-724-0053</phone>
+      <email>tessa.mcspadden@cuanschutz.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Sana Karam</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Daniel Bowles</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Rubens Chang</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mackenzie Daly</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Julie Goddard</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Robert Hoyer</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jennifer Hreno</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Naga Iruku</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Antonio Jimeno</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ryan Lanning</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ann Mellott</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jessica McDermott</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Uchenna Njiaju</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Christopher Oliver</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jeffrey Olsen</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>August 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 20, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 22, 2021</study_first_posted>
+  <last_update_submitted>November 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Squamous Cell</mesh_term>
+    <mesh_term>Squamous Cell Carcinoma of Head and Neck</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Atezolizumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5664">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05087485</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AISC-ISF-2021</org_study_id>
+    <nct_id>NCT05087485</nct_id>
+  </id_info>
+  <brief_title>Integrated Basic Science Within the Instructional Design of Pattern Recognition Training</brief_title>
+  <acronym>AISC-ISF</acronym>
+  <official_title>Integrated Basic Science Within the Instructional Design of Pattern Recognition Training in Visual Diagnostics: Effect on Learning Curve Steepness, Plateau and Retrieval</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Herlev Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Herlev Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Investigators hypothesize that the introduction of basic science explanations within the&#xD;
+      instructional design of case-based training in visual diagnostics will improve students'&#xD;
+      learning curves, retention, and retrieval of knowledge/skill following a washout period.&#xD;
+&#xD;
+      Research question:&#xD;
+&#xD;
+      In a group of medical students with limited dermatological training, what is the effect of&#xD;
+      integrating biomedical causal explanations of visual criteria during a prolonged case-based&#xD;
+      skin cancer training program in visual pattern recognition when compared with an identical&#xD;
+      instructional design without biomedical explanations? How will the displacement of students'&#xD;
+      cognitive resources from practicing pattern recognition towards understanding the pattern,&#xD;
+      affect their learning behavior, learning curve (accuracy and time per diagnosis), and&#xD;
+      retrieval of pattern recognition skills following a washout period?&#xD;
+&#xD;
+      The above-mentioned research questions will be tested through a randomized trial with an&#xD;
+      allocation ratio of 1:1. All participants will be trained in skin cancer diagnostics through&#xD;
+      a mobile application that offers simulation training and learning through written modules&#xD;
+      about the various differential diagnoses. Approximately half of the participants will be&#xD;
+      subject to a written content that displays the dermoscopic visual criteria without an&#xD;
+      explanation while the remaining half will be subject to the dermoscopic criteria + an&#xD;
+      explanation of the underlying cause. The training program consists of 500 training cases, a&#xD;
+      14 day wash-out period, and a final training session of 100 cases.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      Ensuring that medical students and novice physicians become good diagnosticians remains at&#xD;
+      the core of medical education. For more than six decades academics and clinicians have sought&#xD;
+      an understanding of the most successful diagnostic reasoning strategies and how to educate&#xD;
+      future physicians in these strategies. Research has revealed that most diagnosticians apply a&#xD;
+      mix of pattern recognition, deductive backward reasoning, i.e. searching for symptoms or&#xD;
+      signs that justify a tentative diagnosis, and inductive forwards reasoning strategies, i.e.&#xD;
+      analyzing the most probable diagnosis based on signs and symptoms. There is some evidence in&#xD;
+      support of novice clinicians being more prone towards deliberate deductive and inductive&#xD;
+      diagnostic reasoning strategies while experienced clinicians generally rely more on pattern&#xD;
+      recognition. Unlike novices, experts generally identify the most likely diagnosis based on&#xD;
+      pattern recognition, followed by deliberate and often unconscious deductive reasoning, aimed&#xD;
+      at justifying or ruling out the identified tentative diagnosis/-es. The dual-process theory&#xD;
+      offers an explanation for this two-step reasoning strategy, dividing human cognition into two&#xD;
+      systems; the intuitive system 1 (pattern recognition) and the deliberate and analytic&#xD;
+      deductive/inductive system 2. Pattern recognition (system 1) is immediate, often very&#xD;
+      accurate, and requires minuscule resources although it has been criticized widely for being&#xD;
+      prone to unconscious heuristic biases. The deliberate system 2 processes are slower and&#xD;
+      require significantly greater cognitive resources than system 1 processes. System 2 processes&#xD;
+      are generally considered less prone to unconscious biases, although several findings suggest&#xD;
+      otherwise. Most people prefer to apply the efficient and non-strenuous system 1 whenever&#xD;
+      possible, and only active system 2 processes when absolutely necessary. Unfortunately,&#xD;
+      pattern recognition (system 1) in a diagnostic setting relies on domain-specific experience,&#xD;
+      which is generally unavailable for novice physicians that therefore rely on the significantly&#xD;
+      more demanding system 2 operations during diagnostics. Several authors argue that educators&#xD;
+      should consider teaching or promoting pattern recognition if possible as it enables accurate,&#xD;
+      efficient, and less demanding diagnostics. Realistic and extensive pattern recognition&#xD;
+      training is possible within medical specialties that rely mainly on visual processing such as&#xD;
+      pathology, radiology, and dermatology. Large case libraries with annotated x-rays, pathology&#xD;
+      slides, or dermoscopic images can be made readily available for practice, enabling students&#xD;
+      to attain strong mental representations of the relevant differential diagnoses before&#xD;
+      initiating their clinical careers. There is extensive literature on how to facilitate the&#xD;
+      development of strong mental representations through pattern recognition training. Although&#xD;
+      identification of bone fracture types, cellular abnormalities, and skin conditions is&#xD;
+      important, additional knowledge retrieval and processing is necessary in order to provide&#xD;
+      patients with the correct treatment regime. Artificial intelligence and trained pigeons (yes,&#xD;
+      pigeons) handle image diagnostics impressively well, with several authors reporting&#xD;
+      accuracies on par with expert clinicians. However, unlike expert clinicians, machines and&#xD;
+      pigeons are currently unable to retrieve one or more complex precompiled diagnosis-specific&#xD;
+      scripts or schemas from long-term memory based on subtle diagnostic cues, followed by a&#xD;
+      deliberate analysis of the most likely diagnosis and appropriate treatment action. Illness&#xD;
+      script theory attempts to explain this incredible memory retrieval and processing operation&#xD;
+      through a simple framework. Illness scripts are defined as mental representations or schemas&#xD;
+      of an illness or disease that contains enabling conditions, i.e. demographics and medical&#xD;
+      history, consequences, i.e. the symptoms and presentations of the illness/disease, and&#xD;
+      faults, i.e. the biomedical explanation for consequences and enabling conditions. When an&#xD;
+      experienced physician recognizes a certain pattern of enabling conditions, consequences, and&#xD;
+      faults it activates and retrieves one or more illness scripts from long term memory,&#xD;
+      unlocking all of the knowledge stored within that script, including the physiology of the&#xD;
+      disease and interrelated scripts (differential diagnoses). Little is known concerning the&#xD;
+      formation and consolidation of illness scripts during medical and clinical training but there&#xD;
+      is increasing evidence in favor of combining the underlying physiology and anatomy (faults)&#xD;
+      with demographics (enabling conditions) and symptoms (consequences) within the instructional&#xD;
+      material of educational interventions in medicine. An underlying conceptual understanding of&#xD;
+      the medical condition's causal mechanisms seems to help trainees consolidate and inter-link&#xD;
+      their illness scripts, resulting in faster and more accurate script activation and&#xD;
+      utilization. When causal mechanisms or &quot;the biomedical science&quot; is included in standard&#xD;
+      instructional designs for internal medicine, containing clinical manifestation of the&#xD;
+      disease, students perform significantly better, especially on delayed tests and transfer&#xD;
+      tests. Similar positive effects on diagnostic performance have been observed when &quot;extended&quot;&#xD;
+      basic science descriptions that explain the underlying sociological and behavioral causal&#xD;
+      mechanisms are integrated within the instructional design for complex medical conditions that&#xD;
+      include a combination of social, somatic, and psychological problems. Student's immediate and&#xD;
+      retained diagnostic performance and transfer of knowledge improves if biomechanical visual&#xD;
+      analogies of the causal mechanisms are introduced within the description of the causal&#xD;
+      mechanisms. The positive effect of integrating biomedical science is best harnessed when it&#xD;
+      is intermixed with classic curricula describing clinical manifestations of diseases. The&#xD;
+      positive effects from classic textbook diagnostics on written cases also translate towards&#xD;
+      visual diagnostics, e.g. dental radiology, and the underlying conceptual knowledge of&#xD;
+      procedural skills, e.g. lumbar puncture. Integrating the causal explanations for visual&#xD;
+      criteria used in visual diagnostics increases both the immediate and long-term diagnostic&#xD;
+      performance of students. The improvement in diagnostic performance associated with&#xD;
+      integrating biomedical science has been found to be resilient against speed-accuracy&#xD;
+      tradeoffs, which indicates that a strong representation of &quot;faults&quot; within an illness script&#xD;
+      increases diagnosticians' ability to rapidly and accurately activate the script. Although&#xD;
+      basic science explanations seem to translate across the various medical modalities it is&#xD;
+      important to note that visual diagnostics varies significantly from remaining diagnostic&#xD;
+      modalities. When experienced dermatologists examine a skin lesion they immediately form a&#xD;
+      global impression generating one or more tentative diagnoses that are usually very accurate.&#xD;
+      Subsequently, they engage in a backward reasoning strategy attempting to find features that&#xD;
+      justify or reject their tentative diagnosis. The global impression is a result of intuitive&#xD;
+      system 1 operations while the deliberate analysis of differential diagnoses and feature&#xD;
+      search is deliberate system 2 operations. Although experts from remaining clinical&#xD;
+      specialties such as internists, neurologists, and cardiologists rely heavily on pattern&#xD;
+      recognition their assessments are based on input (symptoms, medical history, laboratory&#xD;
+      tests, etc.) that are gathered deliberately, requiring a larger degree of system 2 processes&#xD;
+      early in the diagnostic reasoning process. Investigators theorize that this difference in the&#xD;
+      &quot;point in time&quot; where pattern recognition is used by the various diagnostic specialties&#xD;
+      should be reflected in the education of the various specialties. Based on these reflections,&#xD;
+      the optimal educational intervention for clinicians that rely mainly on visual processing&#xD;
+      (dermatology, pathology, and radiology) ought to be case-based training with direct visual&#xD;
+      feedback coupled to a curriculum with a concise and relevant instructional design. The&#xD;
+      formerly mentioned studies show that integrating basic science within such an instructional&#xD;
+      design improves the diagnostic accuracy and transfer of knowledge to similar disease&#xD;
+      categories. However, former studies in visual diagnostics have failed to establish whether&#xD;
+      improved performance following the integration of basic sciences improves clinicians' pattern&#xD;
+      recognition, deliberate feature search strategy, or both. The educational interventions&#xD;
+      within these studies have been short and included less than 3 training cases per diagnosis,&#xD;
+      which investigators of this trial consider low in regards to the formation of mental&#xD;
+      representations for the visual classification of diseases (pattern recognition). Finally,&#xD;
+      former studies have not examined the effect of integrating basic science within the&#xD;
+      instructional design of training interventions for visual diagnostics and its effect on&#xD;
+      learning behavior (total duration and the number of times accessing instructional material),&#xD;
+      learning curves (formation of mental representations), and skill/knowledge retrieval.&#xD;
+      Investigatorsors hypothesize that the introduction of basic science explanations within the&#xD;
+      instructional design of case-based training in visual diagnostics will improve students'&#xD;
+      learning curves, retention, and retrieval of knowledge/skill following a washout period. To&#xD;
+      our knowledge, there are no previous studies that elaborate the effect of integrating&#xD;
+      biomedical explanations for visual criteria in a prolonged case-based educational&#xD;
+      intervention aimed at training students' pattern recognition skills. Acknowledging that&#xD;
+      learning may differ when focusing on novice and more advanced learners and that immediate&#xD;
+      performances do not always predict long-term learning outcomes, this is an important research&#xD;
+      gap to fill.&#xD;
+&#xD;
+      Research question:&#xD;
+&#xD;
+      In a group of medical students with limited dermatological training, what is the effect of&#xD;
+      integrating biomedical causal explanations of visual criteria during a prolonged case-based&#xD;
+      skin cancer training program in visual pattern recognition when compared with an identical&#xD;
+      instructional design without biomedical explanations? How will the displacement of students'&#xD;
+      cognitive resources from practicing pattern recognition towards understanding the pattern,&#xD;
+      affect their learning behavior, learning curve (accuracy and time per diagnosis), and&#xD;
+      retrieval of pattern recognition skills following a washout period?&#xD;
+&#xD;
+      Method:&#xD;
+&#xD;
+      The study will be conducted as a randomized controlled trial with an allocation ratio of 1:1.&#xD;
+      Enrolled participants must be actively enrolled at the Faculty of Health and Medical&#xD;
+      Sciences, University of Copenhagen, and have passed exams in basic histopathology and&#xD;
+      cellular physiology. Exclusion criteria are former training in dermoscopy or skin cancer&#xD;
+      diagnostics in general. A minimum of 60 students will be recruited. All participants are&#xD;
+      required to download a mobile application (Dermloop) containing the educational material.&#xD;
+      During sign-up participants will be asked to fill out information concerning their&#xD;
+      demographics, enter a six-digit trial code and sign a digital consent. Upon registration,&#xD;
+      participants will automatically be randomly allocated to the basic science or feature group.&#xD;
+      During the study all participants will complete four steps (see figure):&#xD;
+&#xD;
+        1. Pre-test&#xD;
+&#xD;
+        2. Digital training session in skin cancer diagnostics concentrated on seven differential&#xD;
+           diagnoses (nevi, melanoma, seborrheic keratoses/solar lentigo, basal cell carcinoma,&#xD;
+           dermatofibromas, and vascular lesions) that span 7 days. Instructional material differs&#xD;
+           between the two study groups. The basic science group will have access to modules that&#xD;
+           describe the characteristic visual criteria for each diagnosis and their underlying&#xD;
+           histopathological cause. The feature group will read identical descriptions of the&#xD;
+           visual criteria without an explanation of the underlying causal mechanisms.&#xD;
+&#xD;
+        3. Retraining session&#xD;
+&#xD;
+        4. Retention test&#xD;
+&#xD;
+      Pre-test:&#xD;
+&#xD;
+      The pre-test consists of 12 randomly sampled items (generalizability coefficient of 0.7) from&#xD;
+      a test item library (n= 25 items) with established validity evidence for skin cancer&#xD;
+      diagnostics.&#xD;
+&#xD;
+      Digital training session:&#xD;
+&#xD;
+      The session consists of an introduction and presentation of six diagnoses (nevi, melanoma,&#xD;
+      seborrheic keratoses/solar lentigo, basal cell carcinoma, dermatofibromas, and vascular&#xD;
+      lesions).&#xD;
+&#xD;
+      Introduction The introduction includes a short written introduction about skin cancer&#xD;
+      diagnostics and the six diagnoses that will be included in the educational intervention.&#xD;
+      Participants will be asked to briefly read through the various dermoscopic criteria that are&#xD;
+      characteristic of the seven diagnoses.&#xD;
+&#xD;
+      Case-based practice&#xD;
+&#xD;
+      Participants will be asked to practice on 500 skin lesions within 7 days. The training&#xD;
+      consists of quizzes with direct feedback. Participants will be asked to diagnose skin lesions&#xD;
+      based on the age and gender of the patient, a clinical image, a dermoscopic image, and the&#xD;
+      location of the skin lesion. Participants will receive immediate feedback following their&#xD;
+      choice of diagnosis. The feedback consists of their diagnosis, the correct diagnosis, access&#xD;
+      to the instructional design of both diagnoses, and an ability to toggle between the images&#xD;
+      and location. Each quiz is 10 cases long and the distribution of diagnoses is random across&#xD;
+      each quiz, but with an overall distribution across 100 cases of:&#xD;
+&#xD;
+      Diagnosis distribution:&#xD;
+&#xD;
+      Melanoma 20% Nevi 20% Seb. K./ Lentigo Solaris 20% Dermatofibroma 10% Basal cell carcinoma&#xD;
+      10% Hemangioma 10% Squamous cell carcinoma. 10%&#xD;
+&#xD;
+      Retraining session:&#xD;
+&#xD;
+      Following the 14 day wash-out period, all participants will be asked to access the&#xD;
+      application and practice on another 100 cases within two days.&#xD;
+&#xD;
+      Retention test:&#xD;
+&#xD;
+      Seven days after the retraining session has been concluded participants will be asked to&#xD;
+      answer a retention test. The retention test consists of 12 randomly sampled items&#xD;
+      (generalizability coefficient of 0.7) from the same test item library (n= 25 items) used for&#xD;
+      the pre-test.&#xD;
+&#xD;
+      Primary outcomes:&#xD;
+&#xD;
+      Slope and plateau (if reached) of the initial learning curve (accuracy and time per&#xD;
+      diagnosis) Slope and plateau (if reached) of a secondary learning curve (accuracy and time&#xD;
+      per diagnosis) following a washout period&#xD;
+&#xD;
+      Secondary outcome:&#xD;
+&#xD;
+      Time spent reading instructional material Number of times that the instructional material has&#xD;
+      been accessed Change in performance from pre-test to retention test.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">July 10, 2021</start_date>
+  <completion_date type="Anticipated">November 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 20, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Initial learning curve</measure>
+    <time_frame>7 days</time_frame>
+    <description>Slope and upper plateau of moving average from day 1-7</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Secondary learning curve</measure>
+    <time_frame>3 days</time_frame>
+    <description>Slope and upper plateau of moving average from day 21-23</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Reading time during the study</measure>
+    <time_frame>30 days</time_frame>
+    <description>Time spent reading instructional material throughout the study measured in seconds</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of times the reading material was accessed</measure>
+    <time_frame>30 days</time_frame>
+    <description>Number of times the reading material was accessed measured in access points</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Performance improvement on tests</measure>
+    <time_frame>30 days</time_frame>
+    <description>Performance improvement measured in difference in percentage of correct points on the pre- and post-test</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Melanoma</condition>
+  <condition>Skin Cancer</condition>
+  <arm_group>
+    <arm_group_label>Basic science</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This group will be exposed to a written learning content that includes both the presentation and underlying reason of dermoscopic criteria</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>visual criteria</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This group will be exposed to a written learning content that includes only the presentation of dermoscopic criteria</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>education</intervention_name>
+    <description>digital education in skin cancer diagnostics</description>
+    <arm_group_label>Basic science</arm_group_label>
+    <arm_group_label>visual criteria</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Actively enrolled at the Faculty of Health and Medical Sciences University of&#xD;
+             Copenhagen&#xD;
+&#xD;
+          -  Passed exams in basic histopathology and cellular physiology&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  former training in dermoscopy or skin cancer diagnostics in general&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>22 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Niels Kvorning Ternov</name>
+      <address>
+        <city>Herlev</city>
+        <state>Danmark</state>
+        <zip>2730</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>July 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 21, 2021</study_first_posted>
+  <last_update_submitted>October 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Herlev Hospital</investigator_affiliation>
+    <investigator_full_name>Niels Kvorning Ternov</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Skin Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Performance data will be shared, but it is not possible to share all images that are used during the study due to a collaboration agreement with private entity.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

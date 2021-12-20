@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4278">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05105503</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021.10</org_study_id>
+    <nct_id>NCT05105503</nct_id>
+  </id_info>
+  <brief_title>Dialysis Access Monitoring Using a Digital Stethoscope-Based Deep Learning System</brief_title>
+  <official_title>Dialysis Access Monitoring Using a Digital Stethoscope-Based Deep Learning System</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eko Devices, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of North Carolina, Chapel Hill</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Eko Devices, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will enroll end-stage renal disease (ESRD) patients on hemodialysis with a&#xD;
+      maturing arteriovenous fistula (AVF) for hemodialysis access. A study staff member will mark&#xD;
+      with indelible ink on each participant's skin the three sites on the upper extremity where&#xD;
+      the Eko CORE digital stethoscope will be used to take sound recordings. 9 recordings will be&#xD;
+      taken (3 at each site) once per week during weekly dialysis treatments.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Hemodialysis (HD) is conducted through a hemodialysis vascular access, such that the&#xD;
+      patient's blood can be removed from the patient, circulated through the dialysis machine, and&#xD;
+      then returned to the patient. HD vascular accesses may take the form of an arteriovenous&#xD;
+      fistula (AVF), an arteriovenous graft (AVG), or a temporary or permanent dialysis catheter.&#xD;
+      Because of its low complication rate and good longevity (durability), the AVF is the&#xD;
+      preferred access; current Kidney Disease Outcomes Quality Improvement &quot;Fistula First&quot;&#xD;
+      recommendations are that any patient with an estimated glomerular filtration rate of 25&#xD;
+      mL/min should undergo AVF creation surgery in preparation for eventual HD.&#xD;
+&#xD;
+      Stage IV is chosen as the optimal time for AVF creation, even though the patient does not yet&#xD;
+      need HD. This is because (1) it usually takes ~8 weeks to schedule a patient for AVF creation&#xD;
+      surgery, (2) it takes another 12-16 weeks after creation for the AVF to &quot;mature&quot; and become&#xD;
+      ready for use, and (3) as many as 60% of surgically created AVFs fail to mature at all.&#xD;
+      Considering the time lag to maturation and the possible need to intervene on an access that&#xD;
+      is failing to mature, a significant lead time is required to avoid encountering a patient in&#xD;
+      stage V CKD who needs HD immediately and then has to resort to a tunneled dialysis catheter&#xD;
+      with all its attendant risks of infection, thrombosis and central vein stenosis.&#xD;
+&#xD;
+      Being able to actively monitor an AVF from the time of surgical creation with a device that&#xD;
+      can predict whether that AVF will fail vs. mature, will empower patients and their physicians&#xD;
+      to decide much earlier to intervene and put that AVF &quot;back on track&quot; to maturation. This&#xD;
+      means that many more patients will be able to start HD when needed, using their AVF as a&#xD;
+      dialysis access, and therefore reduce the use of tunneled dialysis catheters.&#xD;
+&#xD;
+      This type of monitoring, however, requires frequent measurements in order to track&#xD;
+      progression toward maturity. By training an AI/ML algorithm to analyze sound signals recorded&#xD;
+      from the patient's nascent AVF, the algorithm can detect when an AVF is likely or not to&#xD;
+      mature. If trained properly, it should be able to detect an &quot;unlikely to mature&quot; condition&#xD;
+      very early after surgery, perhaps even within the first two weeks. This will prompt the&#xD;
+      patient's physician to consider intervention on the AVF that would increase the likelihood of&#xD;
+      maturation and increase the overall maturation rate. A digital, AI/ML-enabled stethoscope,&#xD;
+      perhaps even used in the patient's home in the future, could easily facilitate that&#xD;
+      monitoring requirement as well as transmit the relevant information to the patient's&#xD;
+      physician so that timely intervention could be arranged.&#xD;
+&#xD;
+      The Eko CORE is an FDA-cleared and CE-marked electronic stethoscope. The CORE allows the&#xD;
+      audio recording of lung, heart, and other body sounds. The CORE features 40x audio&#xD;
+      amplification, ambient noise reduction, a 4000Hz sample rate, and 3 audio filters. The&#xD;
+      de-identified auscultatory CORE sound recordings transmit wirelessly via Bluetooth to the&#xD;
+      secure, HIPAA-compliant Eko application on a smartphone or tablet, which allows the user to&#xD;
+      playback sound recordings, annotate notes on recorded audio, and save recordings. This data&#xD;
+      is synced in real-time to a secure, HIPAA-compliant, cloud-based Amazon Web Services (AWS)&#xD;
+      database server managed by Eko Devices.&#xD;
+&#xD;
+      This prospective, observational, longitudinal, proof of concept study will be enrolling&#xD;
+      patients at the University of North Carolina (UNC) Kidney Center. This study will enroll a&#xD;
+      minimum of 25, maximum of 50, patients with end-stage renal disease (ESRD) patients in the&#xD;
+      hemodialysis unit (HDU) with maturing AVFs who are being dialysed through a tunneled dialysis&#xD;
+      catheter (TDC). Recordings will be taken once per week during the patient's HD appointment.&#xD;
+      Duration of the study will extend from the time of enrollment until one of the following&#xD;
+      occurs first: (a) abandonment of the AVF, or (b) 2 weeks of measurement after documentation&#xD;
+      of successful cannulation defined by 2-needle cannulation for 3 successive dialysis&#xD;
+      treatments, or (c) 6 months of study participation. These datasets will be used to derive an&#xD;
+      AI/ML model to predict the likelihood of a new AVF to mature or fail.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 30, 2021</start_date>
+  <completion_date type="Anticipated">May 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 30, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Development of deep learning-scale database of maturing AVF sounds.</measure>
+    <time_frame>6 months</time_frame>
+    <description>The maturing AVFs sounds recorded during this study will be used to create a database used for AI/ML model development.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between AI/ML model output and the AVF maturation status</measure>
+    <time_frame>6 months</time_frame>
+    <description>A secondary aim of this study is to demonstrate whether Eko data scientists can create an artificial intelligence-machine learning (AI/ML) model that can detect changes over time in maturing AVFs that may predict the likelihood of AVF maturation or failure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time frame of how soon after surgery the developed algorithm can accurately predict the likelihood of AVF failure-to-mature</measure>
+    <time_frame>6 months</time_frame>
+    <description>An additional aim of this study is to determine how early after surgery the model can produce clinically acceptable notification of the failure-to-mature state</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Dialysis Access Maturation</condition>
+  <condition>AV Fistula</condition>
+  <arm_group>
+    <arm_group_label>Adults with AVFs currently in the process of maturing</arm_group_label>
+    <description>Adults with ESRD who currently have a maturing AVF that has not yet been cannulated</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Eko CORE Digital Stethoscope</intervention_name>
+    <description>The digital stethoscope will be used to take 9 recordings around each subject's maturing AVF once per week until study participation is over</description>
+    <arm_group_label>Adults with AVFs currently in the process of maturing</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study aims to enroll adults aged 18 years or older who have ESRD and have an AVF that&#xD;
+        is in the process of maturing.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults aged 18 years or older&#xD;
+&#xD;
+          -  Potential subject is able and willing to give informed consent&#xD;
+&#xD;
+          -  End-stage renal disease, stage V, on active HD treatment&#xD;
+&#xD;
+          -  Participant has a maturing AVF that has not yet been cannulated&#xD;
+&#xD;
+          -  Participant is willing to have repeat Eko recordings taken weekly from the time of&#xD;
+             enrollment until the access is declared &quot;mature and suitable for HD access&quot; or &quot;failed&#xD;
+             and unsuitable for HD access&quot;&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Younger than 18 years&#xD;
+&#xD;
+          -  Pregnant&#xD;
+&#xD;
+          -  Incarcerated&#xD;
+&#xD;
+          -  Unable and/or unwilling to give informed consent&#xD;
+&#xD;
+          -  Presence of an active infection or open wounds along potential access and data&#xD;
+             collection site&#xD;
+&#xD;
+          -  Unable to complete study activities according to the above schedule&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Prabir Roy-Chaudhury, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of North Carolina, Chapel Hill</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ben Verschoore, BS</last_name>
+    <phone>443-545-6094</phone>
+    <email>ben.verschoore@ekohealth.com</email>
+  </overall_contact>
+  <reference>
+    <citation>Lok CE, Huber TS, Lee T, Shenoy S, Yevzlin AS, Abreo K, Allon M, Asif A, Astor BC, Glickman MH, Graham J, Moist LM, Rajan DK, Roberts C, Vachharajani TJ, Valentini RP; National Kidney Foundation. KDOQI Clinical Practice Guideline for Vascular Access: 2019 Update. Am J Kidney Dis. 2020 Apr;75(4 Suppl 2):S1-S164. doi: 10.1053/j.ajkd.2019.12.001. Epub 2020 Mar 12. Erratum in: Am J Kidney Dis. 2021 Apr;77(4):551.</citation>
+    <PMID>32778223</PMID>
+  </reference>
+  <reference>
+    <citation>Bashar K, Conlon PJ, Kheirelseid EA, Aherne T, Walsh SR, Leahy A. Arteriovenous fistula in dialysis patients: Factors implicated in early and late AVF maturation failure. Surgeon. 2016 Oct;14(5):294-300. doi: 10.1016/j.surge.2016.02.001. Epub 2016 Mar 15. Review.</citation>
+    <PMID>26988630</PMID>
+  </reference>
+  <reference>
+    <citation>Murea M, Geary RL, Davis RP, Moossavi S. Vascular access for hemodialysis: A perpetual challenge. Semin Dial. 2019 Nov;32(6):527-534. doi: 10.1111/sdi.12828. Epub 2019 Jun 17. Review.</citation>
+    <PMID>31209966</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 3, 2021</study_first_posted>
+  <last_update_submitted>October 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fistula</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

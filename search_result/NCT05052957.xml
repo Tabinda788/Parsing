@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8318">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05052957</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CASE5320</org_study_id>
+    <secondary_id>1U01CA236215-01</secondary_id>
+    <nct_id>NCT05052957</nct_id>
+  </id_info>
+  <brief_title>hSTAR GBM (Hematopoetic Stem Cell (HPC) Rescue for GBM)</brief_title>
+  <acronym>hSTAR GBM</acronym>
+  <official_title>Multicenter Phase II Trial O6-benzylguanine(BG) and Temozolomide(TMZ) Therapy of Glioblastoma Multiforme (GBM) With Infusion of Autologous P140K MGMT+Hematopoietic Progenitors to Protect Hematopoiesis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Andrew Sloan, MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Case Comprehensive Cancer Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial studies the effect of P140K MGMT hematopoietic stem cells,&#xD;
+      O6-benzylguanine, temozolomide, and carmustine in treating participants with supratentorial&#xD;
+      glioblastoma or gliosarcoma who have recently had surgery to remove most or all of the brain&#xD;
+      tumor (resected). Chemotherapy drugs, such as 6-benzylguanine, temozolomide, and carmustine,&#xD;
+      work in different ways to stop the growth of tumor cells, either by killing the cells, by&#xD;
+      stopping them from dividing. Placing P140K MGMT, a gene that has been created in the&#xD;
+      laboratory into bone marrow making the bone more resistant to chemotherapy, allowing&#xD;
+      intra-patient dose escalation which kills more tumor cells while allowing bone marrow to&#xD;
+      survive.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 15, 2021</start_date>
+  <completion_date type="Anticipated">December 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percent of participants able to complete treatment</measure>
+    <time_frame>10 years after start of study</time_frame>
+    <description>To evaluate and compare the feasibility of introducing and expressing P140K MGMT cDNA using a lentiviral-based provirus in autologous hematopoietic stem cells harvested from newly diagnosed IDH-1 WT GBM with unmethylated MGMT promoter using two different sequences of stem cell mobilization in a multi-center trial.&#xD;
+1. What percent of patients who enter trial can complete treatment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>Up to 30 days post-treatment</time_frame>
+    <description>proportion of participants experiencing a grade 3 or higher AE/SAE</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>Up to 15 years post-treatment</time_frame>
+    <description>Median overall survival in months.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Myelosuppression</measure>
+    <time_frame>5 years</time_frame>
+    <description>To determine what proportion of patients who receive P140K MGMT transduced CD34 cells tolerate BG and dose escalated TMZ without myelosuppression.&#xD;
+We will report % of patients who suffer grade I-5 SAES related to myelosuppression.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Detection of P140K transduced BG and TMZ resistant cells</measure>
+    <time_frame>5 years</time_frame>
+    <description>% of patients with detectable P-140K-MGMT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Enrichment of P140K-MGMT</measure>
+    <time_frame>5 years</time_frame>
+    <description>What % of patients have enrichment of P140K-MGMT.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tumor Response using imaging</measure>
+    <time_frame>5 years</time_frame>
+    <description>Tumor response assessed via iRANO criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PFS using imaging</measure>
+    <time_frame>5 years</time_frame>
+    <description>PFS measured from the date of initial histological diagnosis to progression (as defined above), death, last contact, or last tumor assessment before the start of further anti-tumor therapy</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">16</enrollment>
+  <condition>Glioblastoma Multiforme</condition>
+  <condition>Glioblastoma Multiforme, Adult</condition>
+  <condition>Supratentorial Glioblastoma</condition>
+  <condition>Supratentorial Gliosarcoma</condition>
+  <arm_group>
+    <arm_group_label>stem cell mobilization after radiation therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants at University Hospitals-Seidman Cancer Center (UH-SCC) will receive stem cell mobilization after 6 weeks of standard of care (SOC) radiotherapy. Followed by SOC chemotherapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>stem cell mobilization after surgery</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants at the NIH Cancer Center (NIH-CC) will receive stem cell mobilization following SOC surgery prior to SOC radiotherapy. Followed by SOC chemotherapy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>P140K-MGMT</intervention_name>
+    <description>Ex Vivo Cultured P140K MGMT CD34+ Cells. The transduced cells are a biological product and production is detailed in the Cellular Therapy Lab standard operating procedures and IND 14099</description>
+    <arm_group_label>stem cell mobilization after radiation therapy</arm_group_label>
+    <arm_group_label>stem cell mobilization after surgery</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>O6-benzylguanine</intervention_name>
+    <description>O6BG is a low molecular-weight purine analog which selectively and irreversibly inactivates the DNA-repair enzyme, O6- alkylguanine DNA-alkyltransferase.</description>
+    <arm_group_label>stem cell mobilization after radiation therapy</arm_group_label>
+    <arm_group_label>stem cell mobilization after surgery</arm_group_label>
+    <other_name>BG</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Photon Based Radiotherapy</intervention_name>
+    <description>Standard of care, photon-based radiotherapy (60Gy in 30 fractions) will be performed in both arms without concomitant TMZ between to 6 weeks post-operatively. Radiotherapy will be performed at both UH-SCC or NIH-CC.</description>
+    <arm_group_label>stem cell mobilization after radiation therapy</arm_group_label>
+    <arm_group_label>stem cell mobilization after surgery</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>temozolomide</intervention_name>
+    <description>Temozolomide is not directly active but undergoes rapid non-enzymatic conversion at physiologic pHto the reactive compoundMTIC. The cytotoxicity of MTIC is thought to be primarily due to alkylationof DNA. Alkylation (methylation) occurs mainly at the O6 and N7 positions of guanine</description>
+    <arm_group_label>stem cell mobilization after radiation therapy</arm_group_label>
+    <arm_group_label>stem cell mobilization after surgery</arm_group_label>
+    <other_name>TMZ</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Filgrastim</intervention_name>
+    <description>Filgrastim is a 175 amino acid protein manufactured by recombinant DNA technology. Endogenous filgrastim is a glycoprotein produced by monocytes, fibroblasts, and endothelial cells, which regulates the production of neutrophils within the bone marrow.</description>
+    <arm_group_label>stem cell mobilization after radiation therapy</arm_group_label>
+    <arm_group_label>stem cell mobilization after surgery</arm_group_label>
+    <other_name>G-CSF,Granulocyte-Colony Stimulating Factor</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>carmustine</intervention_name>
+    <description>BCNU is a lipid soluble agent which has alkylating properties, plus an isocyanate metabolite which interferes with DNA and RNA synthesis.</description>
+    <arm_group_label>stem cell mobilization after radiation therapy</arm_group_label>
+    <arm_group_label>stem cell mobilization after surgery</arm_group_label>
+    <other_name>BCNU,bis-chloronitrosourea</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with histologically confirmed, newly diagnosed, supratentorial glioblastoma&#xD;
+             or gliosarcoma who have undergone gross total tumor resection or near gross total&#xD;
+             resection (resection of &gt;85% of enhancing tumor demonstrated by MRI) are eligible up&#xD;
+             to their sixth postoperative week. Patients with primarily infratentorial disease, or&#xD;
+             with multifocal,or leptomeningeal dissemination of disease will be excluded. In&#xD;
+             general, patients will not have &gt; 1 cm residual measurable or evaluable disease after&#xD;
+             surgical tumor resection.&#xD;
+&#xD;
+          -  Patient must have unmethylated MGMT&#xD;
+&#xD;
+          -  Absence Of IDH1 or IDH2mutation on tumor tissue by a CLIA-approved&#xD;
+             immunohistochemistry or DNA sequencing test on local testing&#xD;
+&#xD;
+          -  Patients aged 18-70years. (Patients &gt;70 years will be excluded due to difficulties in&#xD;
+             mobilizationand collection of adequate numbers of peripheral progenitors.)&#xD;
+&#xD;
+          -  ECOG performance status 0-1or Karnofsky ≥ 70.&#xD;
+&#xD;
+          -  No myelosuppressive chemotherapy or hematopoietic cell transplantation prior to the&#xD;
+             diagnosis of GBM and no prior chemotherapy (including Gliadel BCNU wafers) for GBM&#xD;
+&#xD;
+          -  Life expectancy of at least 12 weeks.&#xD;
+&#xD;
+          -  No plan for hypofractionated radiation therapy&#xD;
+&#xD;
+          -  Adequate hematologic (absolute neutrophil count (ANC)≥ 1000/mm3, platelets ≥&#xD;
+             100,000/mm3, Hgb ≥ 9.5, hepatic (Bilirubin ≤ 2.0 mg/dl, AST and ALT less than or equal&#xD;
+             to 3 times institutional upper limit of normal, prothrombin time &lt;1.2 times normal),&#xD;
+             and renal (serum creatinine ≤ 2.0 mg/dl or Creatinine Clearance ≥ 60mL/min/1.73 m2for&#xD;
+             subjects with serum creatinine levels above institutional normal). These tests will be&#xD;
+             repeated within 2 weeks of treatment with BG and TMZ, and must meet the same criteria.&#xD;
+             -Post-operative steroids are i) tapered to ≤ 8mg dexamethasone/day(or equivalent)and&#xD;
+             ii) patient has been on a stable or decreasing steroid dose for the 7 days prior to&#xD;
+             enrollment&#xD;
+&#xD;
+          -  Patients of child-bearing potential must agree to using single barrier contraception.&#xD;
+&#xD;
+          -  Must be willing and able to understand provide informed consent.&#xD;
+&#xD;
+          -  Patient must have all sutures removed prior to registration&#xD;
+&#xD;
+          -  Patient must be considered to be clinically stable.&#xD;
+&#xD;
+          -  No evidence of active infection.&#xD;
+&#xD;
+          -  Availability of 10unstained slides or FFPE sample of tumor for molecular or&#xD;
+             histopathological studies.&#xD;
+&#xD;
+          -  Negative HIV screening&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any known medical or hereditary condition associated with&#xD;
+             immunosuppression;orothermedical illness which may jeopardize patient safety.&#xD;
+&#xD;
+          -  Known history of HIV seropositivity. This exclusion is included for two reasons.&#xD;
+             First, there is evidence of decreased marrow reserve in HIV+ patients and antiviral&#xD;
+             treatment is associated with myelosuppression. Thus, drug treatment designed to be&#xD;
+             myelosuppressive may bemore toxic in this patient population. Second, extensive&#xD;
+             laboratory culturing of the bone marrow and peripheral blood progenitor cells is&#xD;
+             required. No preclinical samples which are HIV+ have been evaluated with the gene&#xD;
+             transfer modality proposed and thus the feasibility and safety of gene transfer and&#xD;
+             selection in HIV+ samples cannot yet be advocated. Such studies are planned so as to&#xD;
+             not preclude HIV+ patients in later studies.&#xD;
+&#xD;
+          -  Pregnant or lactating women. There is data to indicate that BCNU and TMZ is&#xD;
+             teratogenic and carcinogenic. Thus, its use in pregnant women would confer unnecessary&#xD;
+             risk to the fetus.&#xD;
+&#xD;
+          -  Patients with symptomatic pulmonary disease and other severe co-morbid respiratory&#xD;
+             conditions, including patients with active pulmonary infection and/or pulse oximetry &lt;&#xD;
+             90% and a corrected DLCO &lt; 50% of predicted. However, subjects with a corrected DLCO&#xD;
+             in the range of 50-70% should have Pulmonologyclearance prior to intervention.&#xD;
+&#xD;
+          -  Patients with known diagnosis heart failure or cardiac insufficiency and an LVEF of &lt;&#xD;
+             40%. History of acute coronary event including MI within 6 months prior to study&#xD;
+             enrollment.&#xD;
+&#xD;
+          -  Known history of cardiac arrhythmias including atrial fibrillation, tachyarrhythmiaor&#xD;
+             bradycardia.Inability to undergo repeated MRI evaluation; or allergy or intolerance of&#xD;
+             Gadolinium-containing contrast agent.&#xD;
+&#xD;
+          -  Active illicit drug use or diagnosis of alcoholism.&#xD;
+&#xD;
+          -  Prior diagnosis of any malignant disease with the exception of non-melanomatous skin&#xD;
+             cancer, or carcinoma in situof the cervix, bladder, prostate, or breast, unless&#xD;
+             patient has been disease-free/in remission for ≥2 years prior to date of study&#xD;
+             enrollment.&#xD;
+&#xD;
+          -  Mental incapacity or psychiatric illness preventing informed consent.&#xD;
+&#xD;
+          -  History of Hepatitis B or C or Hepatitis grade ≥3 are excluded due to the potential&#xD;
+             for additional hepatotixicity&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andrew Sloan, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospitals Cleveland Medical Center, Case Comprehensive Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Christopher Murphy, RN</last_name>
+    <phone>1-800-641-2422</phone>
+    <email>CTUreferral@uhhospitals.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ellen Perme, RN</last_name>
+    <phone>1-800-641-2422</phone>
+    <email>CTUreferral@uhhospitals.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>NIH-Clinical Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mark Gilbert, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals Cleveland Medical Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Andrew Sloan, MD</last_name>
+      <phone>800-641-2422</phone>
+      <email>CTUreferral@uhhospitals.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 22, 2021</study_first_posted>
+  <last_update_submitted>September 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 7, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Case Comprehensive Cancer Center</investigator_affiliation>
+    <investigator_full_name>Andrew Sloan, MD</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Gliosarcoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Temozolomide</mesh_term>
+    <mesh_term>Carmustine</mesh_term>
+    <mesh_term>O(6)-benzylguanine</mesh_term>
+    <mesh_term>Lenograstim</mesh_term>
+    <mesh_term>Sargramostim</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data that underlie or influence the results observed from the study.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Beginning 3 months and ending 5 years following article publication.</ipd_time_frame>
+    <ipd_access_criteria>Investigators who provide a methodologically sound proposal for use of requested data.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

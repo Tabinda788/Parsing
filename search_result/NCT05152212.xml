@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="687">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05152212</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LVGN7409-201</org_study_id>
+    <nct_id>NCT05152212</nct_id>
+  </id_info>
+  <brief_title>Study of LVGN7409 (CD40 Agonist Antibody) in Locally Advanced, Metastatic or Recurrent/Refractory Malignancy</brief_title>
+  <official_title>An Open Label, Phase I Trial of LVGN7409 as Single Agent in Locally Advanced, Metastatic or Recurrent/Refractory Malignancy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lyvgen Biopharma Holdings Limited</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Lyvgen Biopharma Holdings Limited</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study of LVGN7409-201 is designed to use a bridging dose escalation to quickly establish&#xD;
+      the maximum tolerated dose (MTD) and/or the recommended dose for expansion (RDE) as well as&#xD;
+      the recommended Phase 2 dose(s) (RP2D) of LVGN7409 as a single agent (monotherapy) in the&#xD;
+      treatment of locally advanced, metastatic or recurrent/refractory malignancy.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 18, 2021</start_date>
+  <completion_date type="Anticipated">April 11, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 28, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>MTD and/or RDE and RP2D</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>MTD or RDE or RP2D will be determined according to safety, tolerability, Pharmacokinetic (PK) profile and clinical activity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence rate of Dose-limiting Toxicity (DLT) within 3 weeks after first dose</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>Incidence rate of dose-limiting toxicities within 3 weeks after first dose</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and tolerability (Serious adverse events, adverse events, dose-limiting toxicities, Maximum Tolerated Dose)</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>Adverse events will be assessed, and severity will be assigned by using the National Cancer Institute Common Terminology Criteria for Adverse Events (ECI CTCAE) v5.0.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate (ORR)</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>ORR will be documented as the percentage of paritcipants who achived either complete response (CR) or partial response (PR), as assessed based on RECIST v1.1 and iRECIST critieria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate (DCR)</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>DCR will be documented as the percentage of participants who achived CR, PR or stable disease (SD), as assessed based on RECIST v1.1 and iRECIST critieria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Respons (DOR)</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>DOR will be documented as the time from the date on which objective response (CR or PR).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>PK parameter：AUC0-∞</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>PK parameter：AUC0-t</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>PK parameter：Cmax</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>PK parameter：Tmax</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>PK parameter：T1/2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>PK parameter：CL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti drug antibody (ADA) to LVGN7409</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>The presence of ADA directed against LVGN7409 will be determined.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Biomarkers PD-L1/ MSI/dMMR and/or tumor mutational burden (TMB)</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>Level of PD-L1/ MSI/dMMR and/or TMB will be assessed.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Biomarkers IL-6, IL-12, TNF-α, IFN-γ and soluble CD40 antigen</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>Level of IL-6, IL-12, TNF-α, IFN-γ and soluble CD40 antigen in serum will be assessed.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Immune cell typing in peripheral blood, CD40 receptor occupation in B lymphocyte cell.</measure>
+    <time_frame>up to 24 months</time_frame>
+    <description>The change of biomarkers will be assessed.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">93</enrollment>
+  <condition>Cancer</condition>
+  <arm_group>
+    <arm_group_label>LVGN7409</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Monotherapy Dose Escalation</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>LVGN7409</intervention_name>
+    <description>Route of administration is IV infusion, and the frequency of administration is once every 3 weeks(Q3W). One cycle is 3 weeks, and treatment can be up to 35 cycles if patients receive benefits.</description>
+    <arm_group_label>LVGN7409</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Males or females aged ≥ 18 years.&#xD;
+&#xD;
+          -  Ability to understand and willingness to sign a written informed consent document&#xD;
+             (ICF).&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group Performance Status (ECOG PS) of 0 or 1.&#xD;
+&#xD;
+          -  Estimated life expectancy, in the judgment of the Investigator, of at least 90 days.&#xD;
+&#xD;
+          -  Adequate bone marrow function, as defined by all of the following:&#xD;
+&#xD;
+               1. hemoglobin (Hb) ≥ 9.0 g/dL, and&#xD;
+&#xD;
+               2. absolute neutrophil count (ANC) ≥ 1.5x10 9/L, and&#xD;
+&#xD;
+               3. platelet count (PLT) ≥ 75x10 9/L.&#xD;
+&#xD;
+          -  Adequate liver function, as defined by all of the following:&#xD;
+&#xD;
+               1. Total bilirubin ≤ 1.5 × ULN; or ≤ 2.5 × ULN for patients who have serum bilirubin&#xD;
+                  increases due to underlying Gilbert's Syndrome or familial benign unconjugated&#xD;
+                  hyperbilirubinemia.&#xD;
+&#xD;
+               2. Aspartate Aminotransferase (AST) ≤ 1.5 × ULN, and Alanine Transaminase (ALT) ≤&#xD;
+                  1.5× ULN.&#xD;
+&#xD;
+               3. International normalized ratio (INR) OR prothrombin time (PT), Activated partial&#xD;
+                  thromboplastin time (aPTT)- ≤1.5 × ULN unless participant is receiving&#xD;
+                  anticoagulant therapy and levels are within the therapeutic range.&#xD;
+&#xD;
+               4. Amylase and lipase ≤1.5 × ULN&#xD;
+&#xD;
+          -  Adequate renal function as defined by an estimated serum creatinine clearance of ≥ 50&#xD;
+             mL/min (calculated by Cockcroft-Gault formula) .&#xD;
+&#xD;
+          -  Women of childbearing potential must agree to abstain from heterosexual intercourse or&#xD;
+             use highly effective contraceptive methods from the time of signing informed consent&#xD;
+             and through 120 days after the last dose of study drug. Should a woman become pregnant&#xD;
+             or suspect she is pregnant while she (or her partner) is participating in this study,&#xD;
+             she should inform her treating physician immediately.&#xD;
+&#xD;
+             a. A woman of childbearing potential is any woman, regardless of sexual orientation,&#xD;
+             who meets the following criteria: 1. has not undergone tubal ligation, a hysterectomy,&#xD;
+             or bilateral oophorectomy; or 2. has not been naturally postmenopausal for at least 24&#xD;
+             consecutive months (i.e., has had menses at any time in the preceding 24 consecutive&#xD;
+             months).&#xD;
+&#xD;
+          -  Men enrolled on this study must agree to abstain, be surgically sterilized, or agree&#xD;
+             to use highly effective methods of contraception, including barrier contraception from&#xD;
+             the time of signing informed consent and through 120 days after the last dose of study&#xD;
+             drug.&#xD;
+&#xD;
+          -  Patients should recover from all reversible clinically significant AEs of previous&#xD;
+             anticancer therapies to baseline or NCI-CTCAE v. 5.0 Grade 0-1, except for alopecia&#xD;
+             (any Grade), Grade &lt; 2 sensory or motor peripheral neuropathy, lymphopenia, or&#xD;
+             hypothyroidism on hormone replacement (Grade 2), within 14 days prior to the first&#xD;
+             dose on study. Inclusion of patients with other toxicities deemed not clinically&#xD;
+             significant (Grade ≤ 2) should be discussed and approved by the Medical Head of&#xD;
+             Sponsor.&#xD;
+&#xD;
+          -  Patients infected with the HIV virus will be eligible if their CD4 count is &gt; 350&#xD;
+             cells/ μL or if they have no history of AIDS defining infections within the past 12&#xD;
+             months. Trial participants should be on anti-retroviral therapy for at least 4 weeks&#xD;
+             and have an HIV viral load &lt; 400 copies/mL.&#xD;
+&#xD;
+          -  All acute adverse reactions caused by previous anti-tumor treatment or surgery were&#xD;
+             alleviated to a satisfactory level.&#xD;
+&#xD;
+        Addtional inclusion criteria of Phase Ia:&#xD;
+&#xD;
+          -  Histologically/cytologically confirmed, locally advanced relapsed, unresectable or&#xD;
+             metastatic solid tumors and lymphomas that are refractory or intolerant to standard of&#xD;
+             care therapy, or for which no standard therapy exists.&#xD;
+&#xD;
+        Addtional inclusion criteria of Phase Ib:&#xD;
+&#xD;
+          -  All patients in Phase 1b must have at least one measurable lesion as defined by RECIST&#xD;
+             v1.1 for solid tumors.&#xD;
+&#xD;
+        Note: Tumor lesions that are situated in a previously irradiated area will be considered&#xD;
+        measurable, provided sufficient time has elapsed to demonstrate a response (if any)&#xD;
+        followed by clear imaging-based progression of the lesions since the time of radiation.&#xD;
+&#xD;
+          -  All patients in Phase 1b with advanced/metastatic malignancy receiving LVGN7409 as&#xD;
+             monotherapy must have received one prior line of approved therapy, such as treatment&#xD;
+             with or without immune checkpoint inhibitor and with documented progression or relapse&#xD;
+             or intolerable.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior therapy with anti-CD40 therapy including Bispecific antibody.&#xD;
+&#xD;
+          -  Receipt of systemic anticancer therapy including investigational agents or devices&#xD;
+             within 5 half-lives of the first dose of study treatment. For anticancer therapies&#xD;
+             with half-life greater than 5 days, a washout of 21 days or longer is acceptable&#xD;
+&#xD;
+          -  The subject was experienced radiotherapy within 14 days before the first dose of study&#xD;
+             treatment. [Previous radiotherapy to the central nervous system (CNS) within 28 days&#xD;
+             of the first dose of study treatment].&#xD;
+&#xD;
+          -  Prior exposure to immune-therapeutics is allowed, including PD-1 and PD-L1 inhibitors,&#xD;
+             provided the participant did not experience Grade ≥ 3 drug-related toxicity, or a&#xD;
+             toxicity requiring discontinuation of the PD-1 or PD-L1 inhibitor.&#xD;
+&#xD;
+          -  Known unstable CNS metastasis and/or carcinomatous meningitis. Subjects with&#xD;
+             previously treated brain metastases may participate provided they are clinically and&#xD;
+             radiographically stable, without evidence of recurrence/progression, have no evidence&#xD;
+             of new or enlarging brain metastases or encephaledema, and are using no&#xD;
+             corticosteroids for at least 7 days prior to study medication.&#xD;
+&#xD;
+          -  Received a live-virus vaccine within 30 days of the first dose of study drug.&#xD;
+&#xD;
+          -  Grade ≥ 3 allergic reaction to treatment with a monoclonal antibody or has a known or&#xD;
+             suspected hypersensitivity to components of the study treatment(s).&#xD;
+&#xD;
+          -  Baseline QT interval corrected by Fridericia's formula (QTcF) &gt; 480 milliseconds or&#xD;
+             known to have congenital prolonged QT syndrome.&#xD;
+&#xD;
+          -  History of Grade ≥ 3 immune-related AEs (irAEs). Exceptions: hypothyroidism, type 1&#xD;
+             diabetes mellitus (Type 1 DM), and dermatologic irAEs (patients with previous Steven&#xD;
+             Johnson Syndrome, toxic epidermal necrolysis or other severe forms of dermatitis are&#xD;
+             ineligible) are allowed. Type 1 DM should be controlled with HbA1c &lt;8% as per ADA&#xD;
+             recommendation.&#xD;
+&#xD;
+          -  Receiving an immunologically based treatment for any reason, including chronic use of&#xD;
+             systemic steroids equivalent to &gt; 10 mg/day of prednisone within 7 days of the first&#xD;
+             dose of study drug or at any time during study participation.&#xD;
+&#xD;
+        Note: Use of inhaled or topical steroids or systemic corticosteroids equivalent to ≤ 10&#xD;
+        mg/day prednisone equivalent is permitted as is short-term use of corticosteroids at doses&#xD;
+        equivalent to &gt; 10 mg/day of prednisone (e.g., pre-medication prior to contrast).&#xD;
+&#xD;
+          -  Treatment with systemic immune-stimulatory agents (e.g., IL-2, IFNγ) within 4 weeks&#xD;
+             prior to the first dose of study drug.&#xD;
+&#xD;
+          -  History or current active or chronic autoimmune disease including but not limited to&#xD;
+             inflammatory bowel disease, myasthenia gravis, myositis, autoimmune hepatitis,&#xD;
+             systemic lupus erythematosus, rheumatoid arthritis, inflammatory bowel disease,&#xD;
+             Wegener's granulomatosis, Sjögren's syndrome, Guillain-Barré syndrome, multiple&#xD;
+             sclerosis, vasculitis, or glomerulonephritis that has required systemic treatment in&#xD;
+             the past 2 years or who are receiving systemic therapy for an autoimmune or&#xD;
+             inflammatory disease.&#xD;
+&#xD;
+        (Exception: Patients with vitiligo or resolved childhood asthma/atopy, hypothyroidism on&#xD;
+        stable hormone replacement, controlled asthma, Type I diabetes, Graves' disease,&#xD;
+        Hashimoto's disease, or with Medical Monitor approval)&#xD;
+&#xD;
+          -  Clinically significant cardiac condition, including unstable angina, acute myocardial&#xD;
+             infarction within 6 months of Cycle 1 Day 1, New York Heart Association Class III or&#xD;
+             IV congestive heart failure, unstable angina pectoris or arrhythmia requiring therapy.&#xD;
+&#xD;
+        Note: A patient with an arrhythmia may enroll if the patient is on antiarrhythmic&#xD;
+        medication and is in a rate- controlled rhythm on the screening electrocardiogram (ECG).&#xD;
+&#xD;
+          -  Pleural effusion or pericardial effusion with uncontrolled or requiring repeat&#xD;
+             drainage (recurrence within two weeks after intervention), or recurrent ascites&#xD;
+             requiring drainage ≥ once a month.&#xD;
+&#xD;
+          -  Active infection requiring intravenous (IV) anti-infectives within 14 days before the&#xD;
+             first dose of study treatment, or nonhealing wound or ulcer.&#xD;
+&#xD;
+          -  Current evidence or history of interstitial lung disease or active, noninfectious&#xD;
+             pneumonitis requiring treatment such as oral or intravenous glucocorticoids.&#xD;
+&#xD;
+          -  Female patients who are pregnant or breastfeeding (confirmation that the patient is&#xD;
+             not pregnant must be by a negative serum pregnancy test result obtained during&#xD;
+             screening; pregnancy testing is required of women of childbearing potential but not&#xD;
+             required for postmenopausal or surgically sterilized women), or expecting to conceive&#xD;
+             children within the duration of the study, beginning at the screening visit (Initial&#xD;
+             Visit) through 120 days after the last dose of study treatment.&#xD;
+&#xD;
+          -  Any evidence of severe or uncontrolled systemic disease including, but not limited to,&#xD;
+             active bleeding diathesis, organ transplantation, or active COVID-19 infection with a&#xD;
+             detectable viral load.&#xD;
+&#xD;
+          -  Any evidence of severe or uncontrolled systemic disease including, but not limited to,&#xD;
+             active bleeding diathesis, organ transplantation, or active COVID-19 infection with a&#xD;
+             detectable viral load.&#xD;
+&#xD;
+          -  Subjects with known positive test results of human immunodeficiency virus (HIV) or&#xD;
+             known acquired immunodeficiency syndrome (AIDS).&#xD;
+&#xD;
+          -  Any other disease or clinically significant abnormality in laboratory parameters,&#xD;
+             including serious medical or psychiatric illnesses/conditions, which in the judgment&#xD;
+             of the Investigator might compromise the safety of the patient, integrity of the&#xD;
+             study, interfere with the patient participation in the study, or compromise the study&#xD;
+             objectives.&#xD;
+&#xD;
+          -  Previously received an allogeneic tissue/organ transplant, stem cell or bone marrow&#xD;
+             transplant or solid organ transplant.&#xD;
+&#xD;
+          -  History of Car-T therapy.&#xD;
+&#xD;
+          -  History of hemorrhagic or ischemic stroke within the last 6 months.&#xD;
+&#xD;
+          -  History of malignancy within the previous 2 years except for localized cancers that&#xD;
+             are not related to the current cancer being treated, are considered to have been cured&#xD;
+             and in the opinion of the Investigator, present a low risk for recurrence, including&#xD;
+             basal or squamous cell skin cancer, superficial bladder cancer or carcinoma in situ of&#xD;
+             the prostate, cervix or breast.&quot;&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Center Hospital Chinese Academy of Medical Sciences</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100021</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ning Li, Doctor</last_name>
+      <phone>86-15601395554</phone>
+      <email>lining@cicams.ac.cn</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>November 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 9, 2021</study_first_posted>
+  <last_update_submitted>December 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

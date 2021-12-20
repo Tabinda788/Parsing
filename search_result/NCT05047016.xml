@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8775">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05047016</url>
+  </required_header>
+  <id_info>
+    <org_study_id>METORY-101</org_study_id>
+    <nct_id>NCT05047016</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate the Dynamic Consent Model Based on the Blockchain-based Clinical Trial Platform METORY</brief_title>
+  <official_title>A Virtual Clinical Trial to Implement and Evaluate the Dynamic Consent Model Based on the Blockchain-based Next-generation Clinical Trial Platform METORY</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Seoul National University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Seoul National University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Blockchain technology has gained attention for its decentralized feature and data integrity.&#xD;
+      The study aims to apply blockchain technology to implement dynamic consent model and evaluate&#xD;
+      the real-world experience as a form of virtual clinical trial.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study will simulate a clinical trial that implements dynamic consent module. In this&#xD;
+      study, two major and three minor protocol amendments will be conducted on the scheduled date.&#xD;
+      Each subjects will give consent using the dynamic consent platform, METORY, and will be&#xD;
+      informed when the protocol is amended. The communication only be conducted under the METORY&#xD;
+      and the real-world experience of METORY would be evaluated.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">September 13, 2021</start_date>
+  <completion_date type="Anticipated">November 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Response time</measure>
+    <time_frame>Study Period of 4 weeks</time_frame>
+    <description>The time interval between notification of protocol amendment and subjects' response (consent)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Study completion rate</measure>
+    <time_frame>Study Period of 4 weeks</time_frame>
+    <description>The proportion of subjects who completed the study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dropout rate</measure>
+    <time_frame>Study Period of 4 weeks</time_frame>
+    <description>The proportion of subjects who withdrew the study</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">60</enrollment>
+  <condition>COVID-19 Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>Dynamic consent arm</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Subjects will receive a virtual investigational product once daily. Subjects also need to measure their body temperature once daily at the scheduled timepoint.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Virtual investigational product</intervention_name>
+    <description>The virtual investigational product is a predefined text (e.g. AB123F). By entering the code into the application, the virtual 'administration' of the IP is conducted.</description>
+    <arm_group_label>Dynamic consent arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subjects who can use METORY (application platform)&#xD;
+&#xD;
+          -  Subjects who completely understand the study and voluntarily decide to participate in&#xD;
+             the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects who are not able to use the web or application due to cognitive dysfunction&#xD;
+             or other reasons&#xD;
+&#xD;
+          -  Subjects who are not able to measure body temperature by themselves&#xD;
+&#xD;
+          -  Subjects who investigators decide not be appropriate for the study for other reasons&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>SeungHwan Lee, M.D., Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Seoul National University Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Jeonbuk National University Hospital</name>
+      <address>
+        <city>Jeonju</city>
+        <state>Jeollabuk-do</state>
+        <zip>54907</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <state>Jongno-gu</state>
+        <zip>03080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 16, 2021</study_first_posted>
+  <last_update_submitted>November 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Seoul National University Hospital</investigator_affiliation>
+    <investigator_full_name>SeungHwan Lee</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>blockchain, dynamic consent</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

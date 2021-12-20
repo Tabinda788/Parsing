@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="146">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05159245</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FINPROVE</org_study_id>
+    <nct_id>NCT05159245</nct_id>
+  </id_info>
+  <brief_title>The Finnish National Study to Facilitate Patient Access to Targeted Anti-cancer Drugs</brief_title>
+  <acronym>FINPROVE</acronym>
+  <official_title>The Finnish National Study to Facilitate Patient Access to Targeted Anti-cancer Drugs to Determine the Efficacy in Treatment of Advanced Cancers With a Known Molecular Profile</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Helsinki University Central Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Helsinki University Central Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective non-randomized national clinical phase 2 trial that aims to determine&#xD;
+      the efficacy and toxicity of commercially available EMA approved targeted anticancer drugs or&#xD;
+      combinations for treatment of patients with advanced cancer with a potentially actionable&#xD;
+      variant as revealed by a genomic, RNA-molecular or protein expression test.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective non-randomized clinical trial that aims to determine the efficacy and&#xD;
+      toxicity of commercially available EMA approved targeted anticancer drugs or combinations for&#xD;
+      treatment of patients with advanced cancer with a potentially actionable variant as revealed&#xD;
+      by a genomic, RNA-molecular or protein expression test. The study also aims to facilitate&#xD;
+      patient access to approved targeted therapies that are contributed to the program by&#xD;
+      collaborating pharmaceutical companies and to perform next generation sequencing and further&#xD;
+      deeper analysis on tumor biopsies and/or liquid biopsies for biomarker analyses and&#xD;
+      resistance mechanisms. Eligible patients have an advanced solid tumor for which standard&#xD;
+      treatment options no longer exist and acceptable performance status and organ function. A&#xD;
+      tumour DNA, RNA or protein expression analysis is required and the results must identify at&#xD;
+      least one potentially actionable molecular variant as defined in the protocol. Molecular&#xD;
+      profiling will be utilized to determine an appropriate drug(s) from among those available in&#xD;
+      the protocol. Drug selection will be guided by a list of potential profiles, the molecular&#xD;
+      tumor board and databases of identified targets for review and approval of the recommended&#xD;
+      treatment. The protocol-specified treatment will be administered to the patient once any&#xD;
+      drug-specific eligibility criteria and overall study criteria are met. Data for standard&#xD;
+      efficacy outcomes including tumor response, progression-free and overall survival as well as&#xD;
+      duration of treatment will be collected for all patients receiving treatment within the&#xD;
+      trial. In addition, treatment related toxicity will be collected according to CTCAE 5.0.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 10, 2021</start_date>
+  <completion_date type="Anticipated">November 25, 2026</completion_date>
+  <primary_completion_date type="Anticipated">November 25, 2026</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Disease control rate</measure>
+    <time_frame>16 weeks</time_frame>
+    <description>Disease control rate at 16 weeks after treatment initiation (defined as patients by CR, PR, SD)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of treatment</measure>
+    <time_frame>5 years</time_frame>
+    <description>Time on drug</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse Events</measure>
+    <time_frame>5 years</time_frame>
+    <description>Treatment-related grade ≥3 and serious adverse events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall response</measure>
+    <time_frame>5 years</time_frame>
+    <description>Best overall response (defined as patients by CR, PR, SD)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PFS</measure>
+    <time_frame>5 years</time_frame>
+    <description>Progression free survival</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>OS</measure>
+    <time_frame>5 years</time_frame>
+    <description>Overall survival</description>
+  </secondary_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Advanced Cancer</condition>
+  <condition>Solid Tumor</condition>
+  <arm_group>
+    <arm_group_label>Alectinib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>For patients with a molecular tumor profile that can potentially be targeted by alectinib.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cobimetinib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>For patients with a molecular tumor profile that can potentially be targeted by cobimetinib.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vismodegib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>For patients with a molecular tumor profile that can potentially be targeted by vismodegib.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Trastuzumab+Pertuzumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>For patients with a molecular tumor profile that can potentially be targeted by trastuzumab+pertuzuma combination.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Entrectinib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>For patients with a molecular tumor profile that can potentially be targeted by entrectinib.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Atezolizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>For patients with a molecular tumor profile that can potentially be targeted by atezolizumab.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vemurafenib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>For patients with a molecular tumor profile that can potentially be targeted by vemurafenib.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Regorafenib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>For patients with a molecular tumor profile that can potentially be targeted by regorafenib.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Alectinib</intervention_name>
+    <description>Alecensa</description>
+    <arm_group_label>Alectinib</arm_group_label>
+    <other_name>ALK mutation</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cobimetinib</intervention_name>
+    <description>Cotellic</description>
+    <arm_group_label>Cobimetinib</arm_group_label>
+    <other_name>BRAF V600 mutation</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vismodegib</intervention_name>
+    <description>Erivedge</description>
+    <arm_group_label>Vismodegib</arm_group_label>
+    <other_name>Hedgehog mutation</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Trastuzumab+Pertuzumab</intervention_name>
+    <description>HER2</description>
+    <arm_group_label>Trastuzumab+Pertuzumab</arm_group_label>
+    <other_name>Phesgo</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Entrectinib</intervention_name>
+    <description>NTRK/ ROS1 mutations</description>
+    <arm_group_label>Entrectinib</arm_group_label>
+    <other_name>Rozlytrek</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Atezolizumab</intervention_name>
+    <description>PD-L1 mutation</description>
+    <arm_group_label>Atezolizumab</arm_group_label>
+    <other_name>Tecentriq</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vemurafenib</intervention_name>
+    <description>BRAF V600 mutation</description>
+    <arm_group_label>Vemurafenib</arm_group_label>
+    <other_name>Zelboraf</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Regorafenib</intervention_name>
+    <description>KIT/BRAF, RET mutations</description>
+    <arm_group_label>Regorafenib</arm_group_label>
+    <other_name>Stivarga</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adult (age &gt;18 years) patient with a histologically-confirmed locally advanced or&#xD;
+             metastatic solid tumor including lymphoma who is no longer benefitting from standard&#xD;
+             anti-cancer treatment or for whom no such treatment is available or indicated.&#xD;
+&#xD;
+          2. ECOG performance status 0-2&#xD;
+&#xD;
+          3. Patients must have acceptable organ function as defined below. However, specific&#xD;
+             inclusion/exclusion criteria specified in the drug-specific study manual will take&#xD;
+             precedence:&#xD;
+&#xD;
+               1. Absolute neutrophil count ≥ 1.5 x 109/l&#xD;
+&#xD;
+               2. Hemoglobin &gt; 8.0 mmol/l&#xD;
+&#xD;
+               3. Platelets &gt; 75 x 109/l&#xD;
+&#xD;
+               4. Total bilirubin &lt; 1.5 x ULN&#xD;
+&#xD;
+               5. AST and ALT &lt; 3 x institutional ULN (or &lt; 5 x ULN in patients with known hepatic&#xD;
+                  metastases)&#xD;
+&#xD;
+               6. Serum creatinine ≤ 1.5 × ULN or calculated or measured creatinine clearance ≥ 40&#xD;
+                  mL/min/1.73 m2&#xD;
+&#xD;
+          4. Patients must have objectively evaluable or measurable disease (by physical or&#xD;
+             radiographic examination, according to RECIST v1.1 for patients with solid tumors, or&#xD;
+             according to Lugano, RANO, PCWG3 or GCIG criteria.&#xD;
+&#xD;
+          5. Results must be available from a tumor molecular profiling. Eligible tests may include&#xD;
+             any of the following technologies: fluorescence in situ hybridization (FISH),&#xD;
+             polymerase chain reaction (PCR), comparative genomic hybridization (CGH), next&#xD;
+             generation sequencing (NGS) or immunohistochemistry (IHC). The test may have been&#xD;
+             performed on the primary tumor or a metastatic lesion, in a diagnostic laboratory or&#xD;
+             within the context of another commercial platform (eg Foundation Medicine), and must&#xD;
+             reveal a potentially actionable variant.&#xD;
+&#xD;
+          6. Patients must have a tumor profile for which treatment with one of the EMA approved&#xD;
+             (or under revision for approval) targeted anti-cancer drugs included in this study has&#xD;
+             potential clinical benefit based on preclinical data or clinical information (see&#xD;
+             section 5).&#xD;
+&#xD;
+          7. A new (obtained ≤6 months before inclusion after which no further anti-cancer therapy&#xD;
+             is allowed) fresh frozen and FFPE tumor biopsy specimen or liquid biopsy for extensive&#xD;
+             biomarker testing is mandatory before the start of treatment with a targeted agent&#xD;
+             included in the protocol.&#xD;
+&#xD;
+          8. Ability to understand and the willingness to sign a written informed consent document&#xD;
+             and comply to the protocol.&#xD;
+&#xD;
+          9. For orally administered drugs, the patient must be able to swallow and tolerate oral&#xD;
+             medication and must have no known malabsorption syndrome.&#xD;
+&#xD;
+         10. Because of the risks of drug treatment to the developing fetus, women of child-bearing&#xD;
+             potential and men must agree to use adequate contraception (hormonal or barrier method&#xD;
+             of birth control; abstinence) for the duration of study participation, and for four&#xD;
+             months following completion of study therapy. Male patients should avoid impregnating&#xD;
+             a female partner. Male patients, even if surgically sterilized, (i.e. post-vasectomy)&#xD;
+             must agree to one of the following: practice effective barrier contraception during&#xD;
+             the entire study treatment period and through 4 months after the last dose of study&#xD;
+             drug, or completely abstain from sexual intercourse.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Ongoing toxicity &gt; grade 2, other than alopecia or &gt; grade 1 neuropathy.&#xD;
+&#xD;
+          2. Patient is receiving any other anti-cancer therapy (cytotoxic, biologic, radiation, or&#xD;
+             hormonal other than for replacement). Required wash out period prior to starting study&#xD;
+             treatment is at least two weeks. An exception is made for:&#xD;
+&#xD;
+               1. Patients suffering from CRPC are allowed to continue androgen deprivation&#xD;
+                  therapy.&#xD;
+&#xD;
+               2. Medications that are prescribed for supportive care but may potentially have an&#xD;
+                  anti-cancer effect (e.g., megestrol acetate, bisphosphonates). These medications&#xD;
+                  must have been started ≥ 1 week prior to enrollment on this study.&#xD;
+&#xD;
+          3. Patient is pregnant or nursing.&#xD;
+&#xD;
+          4. Patients with known active progressive brain metastases. Patients with previously&#xD;
+             treated brain metastases are eligible, provided that the patient is clinically stable&#xD;
+             and off steroids for at least 4 weeks prior to study initiation.&#xD;
+&#xD;
+          5. Patients with clinically significant preexisting cardiac conditions, including&#xD;
+             uncontrolled or symptomatic angina, uncontrolled atrial or ventricular arrhythmias, or&#xD;
+             symptomatic congestive heart failure are not eligible.&#xD;
+&#xD;
+          6. Patients with known left ventricular ejection fraction (LVEF) &lt; 45% are not eligible&#xD;
+&#xD;
+          7. Patients with stroke (including TIA) or acute myocardial infarction within 3 months&#xD;
+             before the first dose of study treatment are not eligible&#xD;
+&#xD;
+          8. Patients with any other clinically significant medical condition which, in the opinion&#xD;
+             of the treating physician, makes it undesirable for the patient to participate in the&#xD;
+             study or which could jeopardize compliance with study requirements including, but not&#xD;
+             limited to: ongoing or active infection, significant uncontrolled hypertension, or&#xD;
+             severe psychiatric illness/social situations.&#xD;
+&#xD;
+        For each drug included in this protocol, specific inclusion and exclusion criteria (based&#xD;
+        on the Package Insert or manufacturers recommendations) may also apply. These can be found&#xD;
+        in the supplemental information for each agent included in the drug-specific study manuals.&#xD;
+        Drug-specific inclusion and exclusion criteria will take precedence over the&#xD;
+        inclusion/exclusion criteria listed above.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Katriina Peltola, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Helsinki University Hospital Comprehensive Cancer Centre</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Tanja Juslin</last_name>
+    <phone>+358405597415</phone>
+    <email>tanja.juslin@hus.fi</email>
+  </overall_contact>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>December 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 16, 2021</study_first_posted>
+  <last_update_submitted>December 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Helsinki University Central Hospital</investigator_affiliation>
+    <investigator_full_name>Katriina Peltola</investigator_full_name>
+    <investigator_title>Chief Physician</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Trastuzumab</mesh_term>
+    <mesh_term>Pertuzumab</mesh_term>
+    <mesh_term>Atezolizumab</mesh_term>
+    <mesh_term>Vemurafenib</mesh_term>
+    <mesh_term>Entrectinib</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Investigators plan to share the clinical study report.</ipd_description>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>2026-2027</ipd_time_frame>
+    <ipd_access_criteria>Will be made available through European regulatory CTIS programme.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

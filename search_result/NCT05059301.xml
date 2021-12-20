@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7831">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05059301</url>
+  </required_header>
+  <id_info>
+    <org_study_id>217131</org_study_id>
+    <secondary_id>2021-002225-18</secondary_id>
+    <nct_id>NCT05059301</nct_id>
+  </id_info>
+  <brief_title>A Study of 3 Lots of an Investigational Vaccine Against Respiratory Syncytial Virus (RSV) in Adults Aged 60 Years and Above</brief_title>
+  <official_title>A Phase 3, Randomized, Double-blind, Multi-country Study to Evaluate Consistency, Safety, and Reactogenicity of 3 Lots of RSVPreF3 OA Investigational Vaccine Administrated as a Single Dose in Adults Aged 60 Years and Above</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GlaxoSmithKline</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the lot-to-lot consistency in terms of immunogenicity&#xD;
+      and evaluate the safety and reactogenicity of 3 lots of the RSVPreF3 OA investigational&#xD;
+      vaccine administered as a single dose in adults ≥ 60 years of age (YOA).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 1, 2021</start_date>
+  <completion_date type="Anticipated">July 4, 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2022</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>Study is double blind from start to final analysis after which the study is considered single blind.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>RSVPreF3 specific immunoglobin (Ig)G antibody concentrations expressed as group geometric mean concentration (GMC) ratio at 30 days post-vaccination</measure>
+    <time_frame>At 30 days post-vaccination (Day 31)</time_frame>
+    <description>Serological assays for the determination of IgG antibodies against RSVPreF3 are performed by Enzyme-Linked Immunosorbent Assay (ELISA). RSVPreF3 IgG concentrations are expressed as group GMC ratio.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>RSVPreF3 specific IgG antibody concentrations expressed as mean geometric increase (MGI) at 30 days post-vaccination</measure>
+    <time_frame>At 30 days post-vaccination (Day 31)</time_frame>
+    <description>Serological assays for the determination of IgG antibodies against RSVPreF3 are performed by ELISA. RSVPreF3 IgG concentrations are expressed as MGI.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants reporting solicited administration site events</measure>
+    <time_frame>Within 4 days (the day of vaccination and 3 subsequent days) after study intervention administration</time_frame>
+    <description>Assessed solicited administration site events include pain, redness and swelling.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants reporting solicited systemic events</measure>
+    <time_frame>Within 4 days (the day of vaccination and 3 subsequent days) after study intervention administration</time_frame>
+    <description>Assessed solicited systemic events include fever, headache, myalgia, arthralgia and fatigue. Fever is defined as temperature ≥ 38.0°C/100.4°F regardless of the location of measurement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants reporting unsolicited adverse events (AEs)</measure>
+    <time_frame>Within 30 days (the day of vaccination and 29 subsequent days) after study intervention administration</time_frame>
+    <description>Any AE reported in addition to those solicited during the clinical study. Also, any 'solicited' symptom with onset outside the specified period of follow-up for solicited symptoms is reported as an unsolicited adverse event.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants reporting serious adverse events (SAEs)</measure>
+    <time_frame>From Day 1 up to study end (6 months after vaccination)</time_frame>
+    <description>An SAE is any untoward medical occurrence that results in death, is life-threatening, requires hospitalization or prolongation of existing hospitalization, results in disability/incapacity or is a congenital anomaly/birth defect in the offspring of a study participant.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants reporting potential immune-mediated diseases (pIMDs)</measure>
+    <time_frame>From Day 1 up to study end (6 months after vaccination)</time_frame>
+    <description>pIMDs are a subset of adverse events of specific interest that include autoimmune diseases and other inflammatory and/or neurologic disorders of interest which may or may not have an autoimmune etiology.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">750</enrollment>
+  <condition>Respiratory Syncytial Virus Infections</condition>
+  <arm_group>
+    <arm_group_label>RSVPreF3_Grp1 Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive 1 dose of a combination of the RSVPreF3 antigen Lot 1 and AS01E adjuvant Lot A at Day 1 and are followed up until the study end (Month 6).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>RSVPreF3_Grp2 Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive 1 dose of a combination of the RSVPreF3 antigen Lot 2 and AS01E adjuvant Lot B at Day 1 and are followed up until the study end (Month 6).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>RSVPreF3_Grp3 Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive 1 dose of a combination of the RSVPreF3 antigen Lot 3 and AS01E adjuvant Lot C at Day 1 and are followed up until the study end (Month 6).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>RSVPreF3 OA investigational vaccine</intervention_name>
+    <description>One dose of a unique combination of the RSVPreF3 antigen lots (Lot 1, Lot 2 or Lot 3) and extemporaneously reconstituted with AS01E adjuvant lots (Lot A, Lot B and Lot C), administered intramuscularly in the deltoid region of the non-dominant arm, at Day 1.</description>
+    <arm_group_label>RSVPreF3_Grp1 Group</arm_group_label>
+    <arm_group_label>RSVPreF3_Grp2 Group</arm_group_label>
+    <arm_group_label>RSVPreF3_Grp3 Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants who, in the opinion of the investigator, can and will comply with the&#xD;
+             requirements of the protocol. A male or female ≥ 60 YOA at the time of first study&#xD;
+             intervention administration.&#xD;
+&#xD;
+          -  Participants living in the general community or in an assisted living facility that&#xD;
+             provides minimal assistance, such that the participant is primarily responsible for&#xD;
+             self care and activities of daily living.&#xD;
+&#xD;
+          -  Written or witnessed informed consent obtained from the participant prior to&#xD;
+             performance of any study specific procedure.&#xD;
+&#xD;
+          -  Participants who are medically stable in the opinion of the investigator at the time&#xD;
+             of vaccination. Participants with chronic stable medical conditions with or without&#xD;
+             specific treatment, such as diabetes, hypertension or cardiac disease, can participate&#xD;
+             in this study if considered by the investigator as medically stable.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Medical conditions&#xD;
+&#xD;
+          -  Any confirmed or suspected immunosuppressive or immunodeficient condition resulting&#xD;
+             from disease or immunosuppressive/cytotoxic therapy, based on medical history, and&#xD;
+             physical examination (no laboratory testing required).&#xD;
+&#xD;
+          -  History of any reaction or hypersensitivity likely to be exacerbated by any component&#xD;
+             of the study intervention(s).&#xD;
+&#xD;
+          -  Hypersensitivity to latex.&#xD;
+&#xD;
+          -  Serious or unstable chronic illness.&#xD;
+&#xD;
+          -  Any history of dementia or any medical condition that moderately or severely impairs&#xD;
+             cognition.&#xD;
+&#xD;
+          -  Recurrent or un controlled neurological disorders or seizures. Participants with&#xD;
+             medically controlled active or chronic neurological diseases can be enrolled in the&#xD;
+             study as per investigator assessment, provided that their condition will allow them to&#xD;
+             comply with the requirements of the protocol.&#xD;
+&#xD;
+          -  Significant underlying illness that in the opinion of the investigator would be&#xD;
+             expected to prevent completion of the study.&#xD;
+&#xD;
+          -  Any medical condition that in the judgment of the investigator would make&#xD;
+             intramuscular injection unsafe.&#xD;
+&#xD;
+        Prior/Concomitant therapy&#xD;
+&#xD;
+          -  Use of any investigational or non registered product (drug, vaccine or medical device)&#xD;
+             other than the study intervention(s) during the period beginning 30 days before study&#xD;
+             intervention administration and ending 30 days after study intervention&#xD;
+             administration, or planned use during the study period.&#xD;
+&#xD;
+          -  Planned or actual administration of a vaccine not foreseen by the study protocol in&#xD;
+             the period starting 30 days before and ending 30 days after the study intervention&#xD;
+             administration, with the exception of inactivated and subunit influenza vaccines which&#xD;
+             can be administered up to 14 days before or from 14 days after the study vaccination.&#xD;
+&#xD;
+          -  Note: In case an emergency mass vaccination for an unforeseen public health threat&#xD;
+             (e.g. a pandemic) is recommended and/or organized by the public health authorities,&#xD;
+             outside the routine immunization program, the time period described above can be&#xD;
+             reduced if necessary for that vaccine provided it is used according to the local&#xD;
+             governmental recommendations and that the Sponsor is notified accordingly. Previous&#xD;
+             vaccination with an RSV vaccine.&#xD;
+&#xD;
+          -  Administration of long acting immune modifying drugs or planned administration at any&#xD;
+             time during the study period.&#xD;
+&#xD;
+          -  Administration of immunoglobulins and/or any blood products or plasma derivatives&#xD;
+             during the period starting 90 days before the administration of the study intervention&#xD;
+             or planned administration during the study period.&#xD;
+&#xD;
+          -  Chronic administration (defined as more than 14 consecutive days in total) of&#xD;
+             immunosuppressants or other immune modifying drugs during the period starting 90 days&#xD;
+             prior to the study intervention administration or planned administration during the&#xD;
+             study period. For corticosteroids, this will mean prednisone ≥ 20 mg/day or&#xD;
+             equivalent. Inhaled and topical steroids are allowed.&#xD;
+&#xD;
+        Prior/Concurrent clinical study experience&#xD;
+&#xD;
+        • Concurrently participating in another clinical study, at any time during the study&#xD;
+        period, in which the participant has been or will be exposed to an investigational or a non&#xD;
+        investigational vaccine/product (drug or invasive medical device).&#xD;
+&#xD;
+        Other exclusions&#xD;
+&#xD;
+          -  History of chronic alcohol consumption and/or drug abuse as deemed by the investigator&#xD;
+             to render the potential participant unable/unlikely to provide accurate safety reports&#xD;
+             or comply with study procedures.&#xD;
+&#xD;
+          -  Planned move during the study period that will prohibit participating in the study&#xD;
+             until study end.&#xD;
+&#xD;
+          -  Bedridden participants.&#xD;
+&#xD;
+          -  Participation of any study personnel or their immediate dependents, family, or&#xD;
+             household members.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>US GSK Clinical Trials Call Center</last_name>
+    <phone>877-379-3718</phone>
+    <email>GSKClinicalSupportHD@gsk.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>EU GSK Clinical Trials Call Center</last_name>
+    <phone>+44 (0) 20 89904466</phone>
+    <email>GSKClinicalSupportHD@gsk.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Waterbury</city>
+        <state>Connecticut</state>
+        <zip>06708</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Joseph Soufer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Brooksville</city>
+        <state>Florida</state>
+        <zip>34613</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Dalton M. Benson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Immokalee</city>
+        <state>Florida</state>
+        <zip>34142</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Antonio Gonzalez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Buford</city>
+        <state>Georgia</state>
+        <zip>30519</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Alexander E Osowa</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55402</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Hemalini Mehta</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Petal</city>
+        <state>Mississippi</state>
+        <zip>39465</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Rambod A Rouhbakhsh</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68144</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>David W Bouda</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Christina Kennelly</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Greensboro</city>
+        <state>North Carolina</state>
+        <zip>27408</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Alexander Vance Murray</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77090</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ali Bajwa</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V5Z 1K3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>James K. Lai</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Moncton</city>
+        <state>New Brunswick</state>
+        <zip>E1G1A7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Daniel Landry</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Truro</city>
+        <state>Nova Scotia</state>
+        <zip>B2N 1L2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Murdo Ferguson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M3J 2C5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Lew Pliamm</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Sherbrooke</city>
+        <state>Quebec</state>
+        <zip>J1J 2G2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jean-Sebastien Gauthier</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>St-Charles-Borromée</city>
+        <state>Quebec</state>
+        <zip>J6E 2B4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Bonavuth Pek</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Victoriaville</city>
+        <state>Quebec</state>
+        <zip>G6P 6P6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ethel Bellavance</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Quebec</city>
+        <zip>G1W 4R4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Diane Carbonneau</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Eskilstuna</city>
+        <zip>SE-631 88</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Lars Rombo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Karlskrona</city>
+        <zip>SE-371 79</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Johan Sanmartin Berglund</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Uppsala</city>
+        <zip>SE-752 37</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>US GSK Clinical Trials Call Center</last_name>
+      <phone>877-379-3718</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>EU GSK Clinical Trials Call Centre</last_name>
+      <phone>+44 (0) 20 8990 4466</phone>
+      <email>GSKClinicalSupportHD@gsk.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Folke Sjöberg</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>Sweden</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>September 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 28, 2021</study_first_posted>
+  <last_update_submitted>December 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Respiratory syncytial virus</keyword>
+  <keyword>Adults aged 60 years and above</keyword>
+  <keyword>Lot-to-lot consistency</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Reactogenicity</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Syncytial Virus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>IPD for this study will be made available via the Clinical Study Data Request site.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>IPD will be made available within 6 months of publishing the results of the primary endpoints, key secondary endpoints and safety data of the study.</ipd_time_frame>
+    <ipd_access_criteria>Access is provided after a research proposal is submitted and has received approval from the Independent Review Panel and after a Data Sharing Agreement is in place. Access is provided for an initial period of 12 months but an extension can be granted, when justified, for up to another 12 months.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

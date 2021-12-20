@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8669">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05048394</url>
+  </required_header>
+  <id_info>
+    <org_study_id>377394</org_study_id>
+    <nct_id>NCT05048394</nct_id>
+  </id_info>
+  <brief_title>Teleoperation Experimental Comparison With Able-bodied Subjects</brief_title>
+  <official_title>Teleoperation Experimental Comparison With Able-bodied Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Point Designs</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Colorado, Boulder</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Point Designs</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To compare the use of the semi-autonomous control algorithm (condition 1) with the standard&#xD;
+      of care myoelectric system used with the TASKA prosthetic hand (condition 2). Able bodied&#xD;
+      subjects will enroll in a laboratory based experimental session at the University of Colorado&#xD;
+      at Boulder. In a randomized order, subjects will be fitted with a by-pass prosthesis which&#xD;
+      enables the able-bodied subject to control the prosthetic hand using the myoelectric signals&#xD;
+      on their able limb. A TASKA prosthetic hand will be sensorized using the Point Touch&#xD;
+      technology. Then, the subjects will perform the ACMC outcome measure using each experimental&#xD;
+      condition. Trained observers will record the measure. Then, a direct comparison can be made&#xD;
+      both within subject performance and across subjects for the semi-autonomous control algorithm&#xD;
+      developed in Aim 2.1 and the standard of care myoelectric system used in the TASKA prosthetic&#xD;
+      hand.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2022</start_date>
+  <completion_date type="Anticipated">September 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Device Feasibility</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Assessment of Capacity for Myoelectric Control (ACMC)</measure>
+    <time_frame>Day 1 (1 hour)</time_frame>
+    <description>The proctor for the measure chooses an everyday activity, such as setting up a table for snacks or replanting a flower, that is relevant to the study population. As the participants perform the chosen task, a trained rater will assess their capacity for control of their myoelectric prosthesis as represented by 30 items reflecting 6 aspects of quality of myoelectric control. These 6 aspects are &quot;the need for external support,&quot; &quot;grip force and opening width,&quot; &quot;coordination of both hands, &quot;in different positions and in motion (timing),&quot; &quot;repetitive grip and release,&quot; and &quot;the need for visual feedback.&quot; Each item is scored on a 4-point scale and converted into linear measures of myoelectric control using Rasch analysis methods on the ACMC website. ACMC is the only measure that has been validated for individuals with upper limb (UL) loss who use myoelectric control and has been shown to demonstrate good test-retest reliability</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Amputation; Traumatic, Arm, Upper</condition>
+  <arm_group>
+    <arm_group_label>Standard-of-care myoelectric control algorithm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The standard of care myoelectric control algorithm will be implemented on a by-pass prosthetic socket with a sensorized TASKA prosthetic hand</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Semi-autonomous myoelectric control algorithm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The semi-autonomous myoelectric control algorithm will be implemented on a by-pass prosthetic socket with a sensorized TASKA prosthetic hand.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Semi-autonomous myoelectric control algorithm</intervention_name>
+    <description>The semi-autonomous myoelectric control algorithm will be implemented on a by-pass prosthetic socket with a sensorized TASKA prosthetic hand.</description>
+    <arm_group_label>Semi-autonomous myoelectric control algorithm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Standard-of-care myoelectric control algorithm</intervention_name>
+    <description>The standard of care myoelectric control algorithm will be implemented on a by-pass prosthetic socket with a sensorized TASKA prosthetic hand.</description>
+    <arm_group_label>Standard-of-care myoelectric control algorithm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Able-bodied subject&#xD;
+&#xD;
+          -  Fluent in English&#xD;
+&#xD;
+          -  Age of 18 years or greater&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Significant cognitive deficits as determined upon clinical evaluation&#xD;
+&#xD;
+          -  Significant neurological deficits as determined upon clinical evaluation&#xD;
+&#xD;
+          -  Significant physical deficits of the residual limb impacting full participation in the&#xD;
+             study as determined upon clinical evaluation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jacob Segil, Phd</last_name>
+    <phone>3037357313</phone>
+    <email>jacob.segil@colorado.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Colorado Boulder</name>
+      <address>
+        <city>Boulder</city>
+        <state>Colorado</state>
+        <zip>80309</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jacob Segil, PhD</last_name>
+      <phone>303-735-7313</phone>
+      <email>jacob.segil@colorado.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 17, 2021</study_first_posted>
+  <last_update_submitted>September 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Amputation, Traumatic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

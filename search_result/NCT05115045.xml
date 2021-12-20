@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3544">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05115045</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-MIR-05</org_study_id>
+    <nct_id>NCT05115045</nct_id>
+  </id_info>
+  <brief_title>Plasma SARS-CoV-2 RNA Levels in Critically Ill COVID-19 Patients</brief_title>
+  <acronym>pRNA-COVID-ICU</acronym>
+  <official_title>Plasma SARS-CoV-2 RNA Levels in Critically Ill COVID-19 Patients (pRNA-COVID-ICU)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hopital of Melun</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hopital of Melun</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Retrospective, observationnal study. Evaluation of the association between plasmatic&#xD;
+      SARS-CoV-2 RNA and day 60 mortality in ICU adult COVID-19 patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 9, 2021</start_date>
+  <completion_date type="Anticipated">March 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Day 60 mortality</measure>
+    <time_frame>60 days</time_frame>
+    <description>Association between plasmatic SARS-CoV-2 RNA level and mortality</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">125</enrollment>
+  <condition>COVID-19 Pneumonia</condition>
+  <condition>ARDS Due to Disease Caused by Severe Acute Respiratory Syndrome Coronavirus 2</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>plasmatic SARS-CoV-2 RNA quantification</intervention_name>
+    <description>plasmatic SARS-CoV-2 RNA was quantified by droplet digital PCR</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients admitted in the 34 bed ICU of the Melun-Senart Hospital between march 2021 4th&#xD;
+        and june 2021 24th meeting eligibility criteria&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  age above 18 years&#xD;
+&#xD;
+          -  in ICU hospitalization&#xD;
+&#xD;
+          -  COVID-19 related pneumonia confirmed by PCR&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  plasmatic SARS-COV-2 RNA quantification not available&#xD;
+&#xD;
+          -  patient's refusal to participate&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>SEBASTIEN JOCHMANS</last_name>
+    <role>Study Director</role>
+    <affiliation>GHSIF MELUN</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sébastien Jochmans, M.D.</last_name>
+    <phone>+33181742078</phone>
+    <email>sebastien.jochmans@ghsif.fr</email>
+  </overall_contact>
+  <reference>
+    <citation>Veyer D, Kernéis S, Poulet G, Wack M, Robillard N, Taly V, L'Honneur AS, Rozenberg F, Laurent-Puig P, Bélec L, Hadjadj J, Terrier B, Péré H. Highly Sensitive Quantification of Plasma Severe Acute Respiratory Syndrome Coronavirus 2 RNA Sheds Light on its Potential Clinical Value. Clin Infect Dis. 2021 Nov 2;73(9):e2890-e2897. doi: 10.1093/cid/ciaa1196.</citation>
+    <PMID>32803231</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 10, 2021</study_first_posted>
+  <last_update_submitted>November 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hopital of Melun</investigator_affiliation>
+    <investigator_full_name>Sebastien Jochmans, MD</investigator_full_name>
+    <investigator_title>Head of Clinical Research Unit</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

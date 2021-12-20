@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2871">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05123794</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0032755</org_study_id>
+    <nct_id>NCT05123794</nct_id>
+  </id_info>
+  <brief_title>Shortened Depression Assessment Study</brief_title>
+  <official_title>Using the Long to Short Approach to Develop Rapid Depressions Scales</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Toronto</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Toronto</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Participants will be asked to fill out an online questionnaire about their demographics&#xD;
+      information and all 42 items from the Depression Anxiety Stress Scale (DASS-42). A series of&#xD;
+      machine learning techniques will be applied to the dataset to develop a shortened assessment&#xD;
+      using the most important demographics and DASS-42 items from the original questionnaire, to&#xD;
+      predict depression levels indicated by DASS-42.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Clinical depression affects 5-10% of the world population each year and is a serious mental&#xD;
+      health issue globally. There are many traditional psychological scales that assess levels of&#xD;
+      depression in adults, where their items are often redundant in the information they carry,&#xD;
+      and their scoring is not necessarily linear to the item scores. Thus, machine learning&#xD;
+      techniques can help find the redundancy in the items, as well as the nonlinear relationship&#xD;
+      between the item scores and the final prediction. Using the Depression Anxiety Stress Scale&#xD;
+      42 (DASS-42) as the basis, participants will be asked to fill out an online questionnaire&#xD;
+      about their demographics information (age, gender, country of residence, race, etc.) and all&#xD;
+      42 items of DASS-42 to provide a dataset for this study. Feature selection techniques such as&#xD;
+      MRMR and Gini feature importance were applied to identify the most important features in the&#xD;
+      dataset. Then, using machine learning methods such as Logistic Regression, XGBoost, and&#xD;
+      Ensemble models, models will be fitted on the most important features to develop a shortened&#xD;
+      depression scale (7-9 items consisting of demographics items and DASS items) that accurately&#xD;
+      predicted the levels of depression (as measured by the AUC, ROC and F1 scores.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 1, 2019</start_date>
+  <completion_date type="Actual">September 1, 2021</completion_date>
+  <primary_completion_date type="Actual">September 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Prediction of severity of depression symptoms</measure>
+    <time_frame>Less than 5 minutes</time_frame>
+    <description>Prediction of severity level of depression based on survey items and demographics</description>
+  </primary_outcome>
+  <enrollment type="Actual">39000</enrollment>
+  <condition>Depression</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants from all countries worldwide are eligible&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults aged 18 and above&#xD;
+&#xD;
+          -  Must be able to read English&#xD;
+&#xD;
+          -  Must have access to the Internet worldwide&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Children aged 17 and under&#xD;
+&#xD;
+          -  Persons who cannot read English&#xD;
+&#xD;
+          -  Persons that do not have access to Internet&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kang Lee</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Toronto</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Toronto</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2021</study_first_posted>
+  <last_update_submitted>November 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Toronto</investigator_affiliation>
+    <investigator_full_name>Kang Lee</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Depression Moderate, Depression Severe, Survey Methodology</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3450">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05116267</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B0661166</org_study_id>
+    <secondary_id>PROVECT Study</secondary_id>
+    <nct_id>NCT05116267</nct_id>
+  </id_info>
+  <brief_title>Assessment of the Effectiveness and Safety Outcome in Patients With Atrial Fibrillation Treated by Apixaban in Belgium</brief_title>
+  <acronym>PROVECT</acronym>
+  <official_title>A Retrospective, Multicenter Study to Assess Effectiveness and Safety Outcome in Patients With Non-valvular Atrial Fibrillation (NVAF) Treated by Apixaban Using Harmonized and Federated Hospital Electronic Health Records (EHRs) in Belgium (PROVECT Study).</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pfizer</source>
+  <brief_summary>
+    <textblock>
+      The PROVECT study is a retrospective, multicentre study assessing the effectiveness and the&#xD;
+      safety outcomes in patients with non-valvular atrial fibrillation (NVAF) treated by apixaban&#xD;
+      between 2015 and 2019 (5 years follow up). The study will use harmonized and federated&#xD;
+      hospital electronic health records (EHRs) from 10 Belgian hospitals. Outcomes of interest are&#xD;
+      major bleeding events leading to hospitalization (safety), stroke and systemic thromboembolic&#xD;
+      events (effectiveness), and all-cause mortality (as an exploratory endpoint, and after&#xD;
+      confirming the data availability because the death events are not always recorded into&#xD;
+      hospital EHRs). The study will analyse the outcomes by patient characteristics including the&#xD;
+      age groups focusing on elderly, thromboembolism risk factors (CHAR2RDSR2R-VASc score),&#xD;
+      bleeding risk factors (HAS-BLED score), comorbidities (Deyo-Charlson Comorbidity Index, DCCI)&#xD;
+      score and frailty.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Apixaban is an antithrombotic agent that directly inhibits factor Xa, and which has obtained&#xD;
+      market authorization in the indication &quot;prevention of stroke and systemic embolism in&#xD;
+      patients with non-valvular atrial fibrillation (AF), with one or more risk factors, such as&#xD;
+      prior stroke or transient ischaemic attack (TIA), age ≥75 years, hypertension, diabetes&#xD;
+      mellitus, and symptomatic heart failure (NYHA ≥ class II).&quot; Among other direct oral&#xD;
+      anti-coagulants (DOACs) only apixaban has shown a triple beneficial profile (on&#xD;
+      stroke/systemic embolisms, major bleedings, and all-cause mortality) supported by data from&#xD;
+      pivotal randomized clinical trials (RCTs). This differentiation has been consistently found&#xD;
+      in multiple real-world data (RWD) studies including the NAXOS study in France5 and the&#xD;
+      ARISTOPHANES study in US particularly in terms of incidence of major bleedings for apixaban&#xD;
+      vs. others DOACs or vitamin K antagonists (VKAs). Although such data can be generalized to&#xD;
+      different populations, healthcare professionals in Belgium and healthcare authorities have&#xD;
+      been frequently requesting local scientific data to support the effectiveness and safety&#xD;
+      outcomes in patients treated by apixaban in local Belgium settings. This scientific data gap&#xD;
+      is particularly evident for routine care data allowing to understand the apixaban use&#xD;
+      patterns in the Belgian poly-medicated, frail and new patients starting an apixaban&#xD;
+      treatment. The PROVECT study aims to address this particular local data gap and its results&#xD;
+      may help to guide practical clinical decisions .&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 1, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Event Rate of Stroke/Systemic Embolism Requiring Hospitalization: Apixaban treated patients</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>StroStroke/SE will be identified using hospital EHR which had a stroke/SE diagnosis code as the first listed ICD-10-CM diagnosis code. (Codes list defined) Stroke/SE will be classified into 3 categories: ischemic stroke, hemorrhage stroke, and SE. Time to stroke will be defined as the number of days from the index date to the occurrence of the first stroke/SE requiring hospitalization</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Event Rate of Major Bleeding Requiring Hospitalization: Apixaban treated patients</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>Major bleeding will be identified using hospital EHR which had a bleeding diagnosis code as the first listed ICD-10-CM diagnosis or procedure code (Code list defined). Time to major bleeding will be defined as the number of days from the index date to the occurrence of the first major bleeding event requiring hospitalization</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Event Rate of Gastrointestinal (GI) Bleeding Requiring Hospitalization: Apixaban treated patients</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>Event rate was defined as number of events divided by 100 participant-years for first occurrence of GI bleeding events after index date was reported. GI bleeding requiring hospitalization was identified using hospital claims which had a GI bleeding ICD code (Code list defined). Index date = the first prescription date of study drugs during intake duration.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Event Rate of Intracranial Hemorrhage Requiring Hospitalization: Apixaban treated patients</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>Event rate was defined as number of events divided by 100 participant-years for first occurrence of intracranial hemorrhage events after index date was reported. Intracranial hemorrhage requiring hospitalization was identified using hospital claims which had an intracranial haemorrhage ICD code (Code list defined) and brain CT or MRI codes. Index date = the first prescription date of study drugs during intake duration</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Event Rate of Other Bleeding Requiring Hospitalization: Apixaban treated patients</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>Event rate was defined as number of events divided by 100 participant-years for first occurrence of other bleeding events after index date was reported. Other bleeding requiring hospitalization was identified using hospital claims which had other bleeding ICD code (Code list defined). Index date = the first prescription date of study drugs during intake duration.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mortality rates</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>Patients who died during a hospitalization during the follow-up period will be labelled by binary indicators.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of discontinuation</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>Discontinuation is defined as the first day of a period of at least 30 consecutive days (grace period) in which 0 days' supply for the index OAC is detected. Sensitivity analysis with 60-day grace period will be included. The date of discontinuation will be the end date of the last filled prescription before the treatment gap. The mean and median (days) duration of treatment before discontinuation will be calculated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time-to-discontinuation</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>Time to discontinuation will be defined as the number of days from the date of index apixaban prescription to the date of discontinuation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital Length of Stay (LOS)</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>Length of stay will be defined as the number of days a patient received care during an inpatient stay. LOS will be a continuous and categorical variable.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">10000</enrollment>
+  <condition>Atrial Fibrillation</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study is an observational retrospective cohort generated from the Belgian hospitals&#xD;
+        EHRs. The cohort will consist in anticoagulant (AC)-naive patients (patients that did not&#xD;
+        receive other oral AC 6 months prior to the apixaban treatment initiation) and&#xD;
+        AC-experienced patients (patients treated by AC before the inclusion date) diagnosed with&#xD;
+        non-valvular AF.&#xD;
+&#xD;
+        The study will cover the period from 01/01/2015 to 31/12/2019 (i.e. maximum of 5 years&#xD;
+        follow up, noting that all patients will not have this follow up).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  is 18 years or older at the index date.&#xD;
+&#xD;
+          -  had ≥1 apixaban prescription during the study period from January 1st, 2015 to&#xD;
+             December 31, 2019.&#xD;
+&#xD;
+          -  had ≥1 medical diagnosis for Atrial Fibrillation, AF (International Classification of&#xD;
+             Diseases, 10th Revision, Clinical Modification [ICD-10-CM]10 diagnosis codes I48.0,&#xD;
+             I48.1X, I48.11, I48.19, I48.2X, I48.20, I48.21, I48.9X, I48.91, I49.1) any time before&#xD;
+             or on index date&#xD;
+&#xD;
+          -  had &gt;1 encounter (visits, prescriptions, etc) within the EHRs.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Medical EHRs indicating a diagnosis code indicative of rheumatic mitral valvular heart&#xD;
+             disease, mitral valve stenosis (ICD-10-CM diagnosis codes I05.x, I06.x, I07.x, I08.x,&#xD;
+             I34.x, I35.x, I36.x, I37.x, I38.x, I39.x, I37.x, Q23.x) during the 12-month baseline&#xD;
+             period,&#xD;
+&#xD;
+          -  Medical EHRs indicating a diagnosis code of VTE (DVT: ICD-10-CM codes: I80.xx, I81.xx,&#xD;
+             I82.xx, I82.40x, I82.41x, I82.42x, I82.43x, I82.44x, I82.49x, I82.4Yx, I82.4Zx,&#xD;
+             I82.5xx, I82.51x, I82.52x, I82.53x, I82.54x, I82.55x, I82.56x, I82.59x, I82.5Yx,&#xD;
+             I82.5Zx, I82.62x, I82.72x, O22.0x, O22.2x, O22.3x; or PE: ICD-10-CM codes I26.01,&#xD;
+             I26.02, I26.09, I26.90, I26.92, I26.93, I26.94, I26.99) during the 12-month baseline&#xD;
+             period,&#xD;
+&#xD;
+          -  Medical EHRs indicating a diagnosis (ICD-10-CM) or procedure code (International&#xD;
+             Classification of Diseases, 10th Revision, Procedure Coding System [ICD-10-PCS]10) of&#xD;
+             transient AF, or cardiac surgery: Heart valve replacement/transplant: 02YA0Zxx,&#xD;
+             02RF0xx, 02RJ0xx, 02RG0xx, 02RH0xx, Z95.2, Z95.3, Z95.4; Pericarditis: I00, I01, I02,&#xD;
+             I24.1, I30.x, I31.x, I32*coding first the associated cause/etiology; Hyperthyroidism&#xD;
+             and Thyrotoxicity: E05.0, E05.1, E05.2, E05.3, E05.4, E05.8, E05.9) during the&#xD;
+             12-month baseline period;&#xD;
+&#xD;
+          -  Medical EHRs indicating pregnancy during the study period (ICD-10-CM diagnosis codes&#xD;
+             O00-O9A, Z31, Z32, Z33, Z34, Z36, Z37, Z38, O20-O29, ICD-10 CPS code 109xxx, 10Axxx,&#xD;
+             10Dxxx, 10Exxx, 10Hxxx, 10Pxxx, 10Sxxx);&#xD;
+&#xD;
+          -  Medical EHRs indicating diagnosis or procedure for hip/knee replacement surgery within&#xD;
+             6 weeks prior to index date (0SR90xx, 0SRA0xx, 0SRB0xx, 0SRC0xx, 0SRD0xx, 0SRE0xx,&#xD;
+             0SQ0xx, 0SQB0xx, 0SQB0xx, 0SQB0xx)&#xD;
+&#xD;
+          -  Patients with a prescription for &gt;1 anticoagulants at index date.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <phone>1-800-718-1021</phone>
+    <email>ClinicalTrials.gov_Inquiries@pfizer.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Pfizer Site</name>
+      <address>
+        <city>Brussels</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <link>
+    <url>https://pmiform.com/clinical-trial-info-request?StudyID=B0661166</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>September 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 10, 2021</study_first_posted>
+  <last_update_submitted>December 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Non-valvular atrial fibrillation</keyword>
+  <keyword>Belgium</keyword>
+  <keyword>Apixaban</keyword>
+  <keyword>NVAF</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Atrial Fibrillation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

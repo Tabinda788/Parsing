@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1472">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05141994</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BAT-5906-002-CR</org_study_id>
+    <nct_id>NCT05141994</nct_id>
+  </id_info>
+  <brief_title>Clinical Study on the Efficacy and Safety of BAT5906 Injection</brief_title>
+  <official_title>Phase II Clinical Study on the Efficacy and Safety of BAT5906 Injection in the Vitreous Age-related Macular Degeneration Patients With Two Repeated Intravitreal Dose</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bio-Thera Solutions</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bio-Thera Solutions</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a multi-center, open, and phase II clinical study to evaluate the efficacy and&#xD;
+      safety of BAT5906 injection in patients with wet age-related macular degeneration. The&#xD;
+      results of the BAT5906 Phase I study show that it is safe from 0.3-4.0 mg, and that higher&#xD;
+      doses (2.5 mg and 4 mg) may be substituted for the duration of maintenance efficacy; drugs&#xD;
+      with the same target (such as brolucizumab and Abecip) have also been found in clinical&#xD;
+      studies High doses can extend the interval and reduce the frequency of administration.&#xD;
+      Therefore, in this study, two doses with better safety and efficacy were selected, once every&#xD;
+      4 weeks, followed by 3 consecutive injections for treatment as needed, and preliminary&#xD;
+      exploration of the best clinical effective dose and replacement frequency&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 3, 2020</start_date>
+  <completion_date type="Actual">October 8, 2021</completion_date>
+  <primary_completion_date type="Actual">September 27, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Dose-response relationships</measure>
+    <time_frame>week 24</time_frame>
+    <description>Trend chart of changes in the best corrected visual acuity from baseline</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>BCVA</measure>
+    <time_frame>week 12 ，week 48</time_frame>
+    <description>the best corrected visual acuity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CRT</measure>
+    <time_frame>week 12 ，week 24，week 48</time_frame>
+    <description>The mean thickness of the central retina with a diameter of 1mm, centered on the fixed point of view</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>95% confidence interval</measure>
+    <time_frame>week 12 ，week 24，week 48</time_frame>
+    <description>The estimated interval of the population parameters constructed from the sample statistics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Average times of administration</measure>
+    <time_frame>week 24，week 48</time_frame>
+    <description>The times of administration of each dose group were summarized</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Pharmacokinetic（Cmax）</measure>
+    <time_frame>up tp week 48</time_frame>
+    <description>Pharmacokinetic parameters</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacokinetic（Tmax）</measure>
+    <time_frame>up tp week 48</time_frame>
+    <description>Pharmacokinetic parameters</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacokinetic（AUC0-Tau）</measure>
+    <time_frame>up tp week 48</time_frame>
+    <description>Pharmacokinetic parameters</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacokinetic（AR）</measure>
+    <time_frame>up tp week 48</time_frame>
+    <description>Pharmacokinetic parameters</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacokinetic（DF）</measure>
+    <time_frame>up tp week 48</time_frame>
+    <description>Pharmacokinetic parameters</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacokinetic（t1/2）</measure>
+    <time_frame>up tp week 48</time_frame>
+    <description>Pharmacokinetic parameters</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacokinetic（Vz）</measure>
+    <time_frame>up tp week 48</time_frame>
+    <description>Pharmacokinetic parameters</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacokinetic（Vss）</measure>
+    <time_frame>up tp week 48</time_frame>
+    <description>Pharmacokinetic parameters</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacokinetic（CL）</measure>
+    <time_frame>up tp week 48</time_frame>
+    <description>Pharmacokinetic parameters</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>VEGF</measure>
+    <time_frame>up tp week 48</time_frame>
+    <description>Peripheral vascular endothelial growth factor analysis</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>ADA</measure>
+    <time_frame>up tp week 48</time_frame>
+    <description>Immunogenicity analysis</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">48</enrollment>
+  <condition>Wet Age-related Macular Degeneration</condition>
+  <arm_group>
+    <arm_group_label>2.5mg of BAT5906</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Specification: 10mg/0.2ml/piece; route: intravitreal injection; dose: 2.5mg/eye/time, 50μl; medication duration: about once every 4 weeks, taking 3 times after continuous use, effective observation to Week 48.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>4.0mg of BAT5906</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>16mg/0.2ml/piece; route of administration: intravitreal injection; dose: 4.0mg/eye/time, 50μl; duration of administration: once every 4 weeks, 3 times after continuous administration , The effectiveness was observed to the 48th week.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>2.5mg of BAT5906</intervention_name>
+    <description>Specification: 2.5mg of BAT5906</description>
+    <arm_group_label>2.5mg of BAT5906</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>4mg of BAT5906</intervention_name>
+    <description>Specification: 4mg of BAT5906</description>
+    <arm_group_label>4.0mg of BAT5906</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Only the following criteria are met:&#xD;
+&#xD;
+               1. The patient or his legal representative authorized by the patient signs the&#xD;
+                  informed consent, fully understands the test content, process and possible&#xD;
+                  adverse reactions, and is willing to follow up within the time specified in the&#xD;
+                  test;&#xD;
+&#xD;
+               2. Age 50-85 years old (including boundary value), male or female;&#xD;
+&#xD;
+               3. The patient diagnosed with active choroidal neovascularization (CNV) disease&#xD;
+                  secondary to wet age-related macular degeneration is confirmed by the reading&#xD;
+                  center during screening;&#xD;
+&#xD;
+               4. The total area of research eye lesions ≤ 30mm2 (12 optic disc areas), confirmed&#xD;
+                  by the reading center before random enrollment;&#xD;
+&#xD;
+               5. At the time of screening and baseline, the BCVA of the study eye was 73-24&#xD;
+                  letters (using the ETDRS visual acuity table, including the boundary value)&#xD;
+                  (equivalent to the snellen visual acuity score of the study eye of 20/40 to&#xD;
+                  20/400);&#xD;
+&#xD;
+               6. At the time of screening and baseline, the contralateral eye BCVA ≥ 34 letters&#xD;
+                  (using the ETDRS visual acuity table, which is equivalent to snellen vision ≥&#xD;
+                  20/200). For the subjects in the PK group, the investigator must judge that the&#xD;
+                  contralateral eye is expected to be 3 No anti-VEGF treatment is required within a&#xD;
+                  month.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  If a patient meets any of the following conditions, they cannot enter the study:&#xD;
+&#xD;
+        Those with the following eye conditions:&#xD;
+&#xD;
+          1. The research eye has map-like atrophy involving the fovea, scars or fibrosis, anterior&#xD;
+             macular membrane, dense exudate hard exudation, RPE tear, etc. (confirmed by the&#xD;
+             reading center during screening);&#xD;
+&#xD;
+          2. Research eye retinal hemorrhage ≥ 4 optic disc areas (confirmed by the reading center&#xD;
+             during screening);&#xD;
+&#xD;
+          3. The research eye has significant interference with vision detection, anterior segment&#xD;
+             and fundus assessment of the refractive medium is turbid or the pupil is not dilated;&#xD;
+&#xD;
+          4. The research eye is combined with other fundus diseases (such as diabetic retinal&#xD;
+             degeneration, retinal vein occlusion, vascular streaking, pathological myopia, retinal&#xD;
+             detachment, macular hole, toxoplasmosis, optic nerve disease, etc.);&#xD;
+&#xD;
+          5. The research eye has pupil afferent defects (APD)&#xD;
+&#xD;
+          6. There are uncontrolled glaucoma in the research eye at the time of screening and&#xD;
+             baseline, defined as the intraocular pressure is still higher than 21mmHg after drug&#xD;
+             treatment, or according to the investigator's judgment;&#xD;
+&#xD;
+          7. The pre-screening research eye had received dexamethasone intravitreal implant&#xD;
+             (Ozurdex) treatment or fluocinolone intravitreal implant (Iluvien) treatment;&#xD;
+&#xD;
+          8. Within 3 months before the screening, the research eye had received the following&#xD;
+             treatments: photodynamic therapy (PDT), total retina laser photocoagulation, macular&#xD;
+             laser photocoagulation, transpupillary thermotherapy, etc., for AMD therapy;&#xD;
+&#xD;
+          9. The research eye has undergone the following ophthalmic operations: vitrectomy,&#xD;
+             macular transposition, anti-glaucoma surgery;&#xD;
+&#xD;
+         10. Have undergone external eye surgery or cataract surgery within 3 months before the&#xD;
+             study eye screening or during the study period;&#xD;
+&#xD;
+         11. The study eye has no lens (excluding intraocular lens) or posterior lens capsule&#xD;
+             rupture (except YAG laser posterior capsulotomy after implantation of intraocular lens&#xD;
+             more than 1 month after screening);&#xD;
+&#xD;
+         12. Contralateral eye received photodynamic (PDT) treatment within 1 month before&#xD;
+             screening;&#xD;
+&#xD;
+         13. A history of uveitis in any eye;&#xD;
+&#xD;
+         14. Vitreous hemorrhage in any eye during the screening period or history of vitreous&#xD;
+             hemorrhage within 4 weeks before baseline;&#xD;
+&#xD;
+         15. Any eye has pseudocapsular exfoliation syndrome;&#xD;
+&#xD;
+         16. Any eye has active eye infection (eg: blepharitis, infectious conjunctivitis,&#xD;
+             keratitis, scleritis, iridocyclitis, endophthalmitis);&#xD;
+&#xD;
+         17. Within 3 months before the screening, any eye had received intravitreal injection of&#xD;
+             anti-VEGF drugs (such as abecept, compaq, ranibizumab, bevacizumab, etc.);&#xD;
+&#xD;
+         18. Injection of corticosteroid drugs (such as triamcinolone acetonide, dexamethasone,&#xD;
+             etc.) into any eye, periocular or subconjunctival eye within 3 months before&#xD;
+             screening;&#xD;
+&#xD;
+             Those with any of the following general conditions:&#xD;
+&#xD;
+         19. Currently in use or may need to use systemic drugs that may cause crystal toxicity or&#xD;
+             retinal toxicity, such as deferoxamine, chloroquine/hydroxychloroquine, phenothiazine,&#xD;
+             ethambutol or tamoxifen, etc.;&#xD;
+&#xD;
+         20. Have an allergic reaction or history of fluorescein sodium and indocyanine green, have&#xD;
+             a history of allergy to protein products for treatment or diagnosis, or are known to&#xD;
+             have allergic reactions to any monoclonal antibody;&#xD;
+&#xD;
+         21. Previously received systemic anti-VEGF treatment;&#xD;
+&#xD;
+         22. Patients with large doses of oral or injectable corticosteroids and other hormonal&#xD;
+             drugs (&gt;10 mg prednisolone or the same dose/day) within 6 months before screening, but&#xD;
+             patients who use steroid drugs for inhalation, nasal cavity or local skin small doses&#xD;
+             except;&#xD;
+&#xD;
+         23. Poorly controlled diabetic patients are defined as glycated hemoglobin&gt; 10%;&#xD;
+&#xD;
+         24. Those who had surgery within 1 month before screening and did not heal, or according&#xD;
+             to the judgment of the investigator;&#xD;
+&#xD;
+         25. There are clinically significant systemic infectious diseases that require intravenous&#xD;
+             antibiotic therapy;&#xD;
+&#xD;
+         26. Those who have a history of myocardial infarction, cerebral infarction and angina&#xD;
+             within 6 months before screening;&#xD;
+&#xD;
+         27. Those who have active disseminated intravascular coagulation and obvious bleeding&#xD;
+             tendency within 3 months before screening, or have received anticoagulant and&#xD;
+             antiplatelet therapy except aspirin/NSAIDs within 14 days before screening;&#xD;
+&#xD;
+         28. Hypertension patients with poor control (defined as blood pressure &gt;160/100 mmHg after&#xD;
+             treatment with antihypertensive drugs);&#xD;
+&#xD;
+         29. Any uncontrollable clinical problems (such as severe mental, neurological,&#xD;
+             cardiovascular, respiratory and other system diseases and malignant tumors);&#xD;
+&#xD;
+             Those with abnormalities in any of the following laboratory tests:&#xD;
+&#xD;
+         30. Abnormal liver and kidney function (this test stipulates that ALT and AST shall not be&#xD;
+             higher than the upper limit of the normal value of the laboratory in the center by 2.5&#xD;
+             times; Crea and BUN shall not be higher than the upper limit of the normal value of&#xD;
+             the laboratory in the center by 2 times);&#xD;
+&#xD;
+         31. Patients with abnormal blood coagulation function (prothrombin time&gt; upper limit of&#xD;
+             normal value 3 seconds or activated partial thromboplastin time&gt; upper limit of normal&#xD;
+             value 10 seconds);&#xD;
+&#xD;
+         32. Any one of the following infected patients: active hepatitis B (if HBsAg(+) requires&#xD;
+             HBV DNA must be &gt;500 IU/mL or the hospital maximum limit), hepatitis C, AIDS or&#xD;
+             syphilis (syphilis RPR positive test) ;&#xD;
+&#xD;
+             Women and men of childbearing age in any of the following situations:&#xD;
+&#xD;
+         33. Women who are pregnant, pregnant or breastfeeding (pregnancy is defined as a positive&#xD;
+             blood/urine pregnancy test in this trial); male or female subjects of fertility do not&#xD;
+             agree to the entire study period and within 3 months after the end of the visit period&#xD;
+             Take appropriate contraceptive measures (such as IUDs, birth control pills or condoms,&#xD;
+             etc.). For women who have not been menopausal or have been menopausal but have not met&#xD;
+             the menopause time continuously for more than 12 months, and have not undergone&#xD;
+             sterilization surgery (ovarian and/or hysterectomy), they are defined as having&#xD;
+             fertility. The definition of fertility may be adjusted according to local standards in&#xD;
+             each region.&#xD;
+&#xD;
+             Note: High-efficiency contraception methods include total abstinence, IUD, double&#xD;
+             barrier method (eg condom + diaphragm with spermicides, implanted contraceptives,&#xD;
+             hormonal contraceptives [contraceptives, implanted contraceptives, transdermal&#xD;
+             Patches, hormone-vaginal appliances or sustained-release injections], or the partner&#xD;
+             has undergone vasectomy and is confirmed to have no sperm); other:&#xD;
+&#xD;
+         34. Those who have participated in clinical trials of any drugs (excluding vitamins and&#xD;
+             minerals) within 3 months before screening;&#xD;
+&#xD;
+         35. The researchers believe that those who need to be excluded.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Youxin Chen</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Peking Union Medical College</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Peking Union Medical College Hospital, Chinese Academy of Medical Sciences</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100730</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Eye Hospital of China Academy of Chinese Medical Sciences</name>
+      <address>
+        <city>Beijing</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Peking University First Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Bengbu Medical College</name>
+      <address>
+        <city>Bengbu</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zhejiang Provincial People's Hospital</name>
+      <address>
+        <city>Hangzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jieyang People's Hospital</name>
+      <address>
+        <city>Jieyang</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The First Hospital of Jilin University</name>
+      <address>
+        <city>Jilin</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>he Affiliated Eye Hospital of Nanchang University</name>
+      <address>
+        <city>Nanchang</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jiangsu Provincial Hospital of Traditional Chinese Medicine</name>
+      <address>
+        <city>Nanjing</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Affiliated Hospital of Qingdao University</name>
+      <address>
+        <city>Qingdao</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Joint Shantou International Eye Center of Shantou University and The Chinese University of Hong Kong</name>
+      <address>
+        <city>Shantou</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>West China Hospital of Sichuan University</name>
+      <address>
+        <city>Sichuan</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wenzhou Medical University Affiliated Optometry Hospital</name>
+      <address>
+        <city>Wenzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Second Xiangya Hospital of Central South University</name>
+      <address>
+        <city>Xiangya</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Henan Provincial Eye Hospital</name>
+      <address>
+        <city>Zhengzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Zhengzhou University</name>
+      <address>
+        <city>Zhengzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>June 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 2, 2021</study_first_posted>
+  <last_update_submitted>November 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Macular Degeneration</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

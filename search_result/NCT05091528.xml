@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5353">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05091528</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SBT6050-201</org_study_id>
+    <nct_id>NCT05091528</nct_id>
+  </id_info>
+  <brief_title>A Safety and Activity Study of SBT6050 in Combination With Other HER2-directed Therapies for HER2-positive Cancers</brief_title>
+  <official_title>An Open-label, Phase 1/2, Dose-escalation and Expansion Study of SBT6050 Combined With Other HER2-directed Therapies in Subjects With Pretreated Unresectable Locally Advanced and/or Metastatic HER2-expressing or HER2-amplified Cancers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Silverback Therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Silverback Therapeutics</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is designed to assess the safety and preliminary activity of SBT6050 in&#xD;
+      combination with trastuzumab deruxtecan (Part 1) or tucatinib plus trastuzumab +/-&#xD;
+      capecitabine (Part 2). Participants will be enrolled into each Arm based on cancer diagnosis&#xD;
+      and prior therapies.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2021</start_date>
+  <completion_date type="Anticipated">December 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of Participants With Dose Limiting Toxicities</measure>
+    <time_frame>Up to 21 days after the first dose of SBT6050</time_frame>
+    <description>Severity of treatment-emergent adverse events as assessed by the NCI CTCAE Version 5.0. This outcome measure applies only to participants in the dose escalation cohorts.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Treatment-emergent Adverse Events</measure>
+    <time_frame>From enrollment to 30 days after the last dose of SBT6050, up to 2 years</time_frame>
+    <description>Severity of treatment-emergent adverse events as assessed by the NCI CTCAE Version 5.0. This outcome measure applies only to participants in the dose escalation cohorts.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Laboratory Abnormalities</measure>
+    <time_frame>From enrollment to 30 days after the last dose of SBT6050, up to 2 years</time_frame>
+    <description>Clinically significant treatment-emergent laboratory abnormalities as assessed by the NCI CTCAE Version 5.0. This outcome measure applies only to participants in the dose escalation cohorts.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With an Objective Response Rate</measure>
+    <time_frame>From enrollment to confirmed response, up to 1 year</time_frame>
+    <description>Complete response and partial response as assessed by RECIST Version 1.1 Criteria. This outcome measure applies only to participants in the dose expansion cohorts.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Treatment-emergent Adverse Events</measure>
+    <time_frame>From enrollment to 30 days after the last dose of SBT6050, up to 2 years</time_frame>
+    <description>Severity of treatment-emergent adverse events as assessed by the NCI CTCAE Version 5.0. This outcome measure applies only to participants in the dose expansion cohorts.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With an Objective Response Rate</measure>
+    <time_frame>From enrollment to confirmed response, up to 1 year</time_frame>
+    <description>Complete response and partial response as assessed by RECIST Version 1.1 Criteria. This outcome measure applies only to participants in the dose escalation cohorts.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response for Participants With an Objective Response Rate</measure>
+    <time_frame>From enrollment until the date of first documented progression or date of death from any cause, whichever occurs first, assessed up to 4 years</time_frame>
+    <description>The length of time from the participant's first complete response or partial response as assessed by RECIST Version 1.1 Criteria until disease progression or death. This outcome measure applies to all participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants With Clinical Benefit Rate</measure>
+    <time_frame>From enrollment to up to at least 6 months after confirmed response, assessed up to 4 years</time_frame>
+    <description>Complete response, partial response, or durable stable disease as assessed by RECIST Version 1.1 Criteria. This outcome measure applies only to participants in the dose expansion cohorts.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">328</enrollment>
+  <condition>HER2-positive Breast Cancer</condition>
+  <condition>HER2-positive Gastric Cancer</condition>
+  <condition>HER2-positive Colorectal Cancer</condition>
+  <condition>HER2-expressing Non-small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>SBT6050 + T-DXd (5.4 mg/kg)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SBT6050 plus trastuzumab deruxtecan</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SBT6050 + T-DXd (6.4 mg/kg)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SBT6050 plus trastuzumab deruxtecan</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SBT6050 + Tucatinib + Trastuzumab + Capecitabine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SBT6050 plus tucatinib, trastuzumab, and capecitabine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SBT6050 + Tucatinib + Trastuzumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SBT6050 plus tucatinib and trastuzumab</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SBT6050</intervention_name>
+    <description>Dose range of 0.45 to 0.6 mg/kg by subcutaneous (SC) injection in 21-day cycles</description>
+    <arm_group_label>SBT6050 + T-DXd (5.4 mg/kg)</arm_group_label>
+    <arm_group_label>SBT6050 + T-DXd (6.4 mg/kg)</arm_group_label>
+    <arm_group_label>SBT6050 + Tucatinib + Trastuzumab</arm_group_label>
+    <arm_group_label>SBT6050 + Tucatinib + Trastuzumab + Capecitabine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>trastuzumab deruxtecan</intervention_name>
+    <description>5.4 mg/kg by intravenous (IV) infusion in 21-day cycles</description>
+    <arm_group_label>SBT6050 + T-DXd (5.4 mg/kg)</arm_group_label>
+    <other_name>ENHERTU</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>tucatinib</intervention_name>
+    <description>300 mg by mouth (PO) twice daily (BID)</description>
+    <arm_group_label>SBT6050 + Tucatinib + Trastuzumab</arm_group_label>
+    <arm_group_label>SBT6050 + Tucatinib + Trastuzumab + Capecitabine</arm_group_label>
+    <other_name>TUKYSA</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>trastuzumab</intervention_name>
+    <description>8 mg/kg loading dose (first dose), then 6 mg/kg maintenance dose (subsequent doses) IV infusion in 21-day cycles</description>
+    <arm_group_label>SBT6050 + Tucatinib + Trastuzumab</arm_group_label>
+    <arm_group_label>SBT6050 + Tucatinib + Trastuzumab + Capecitabine</arm_group_label>
+    <other_name>HERCEPTIN</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>capecitabine</intervention_name>
+    <description>1000 mg/m2 PO BID for 14 days of each 21-day cycle</description>
+    <arm_group_label>SBT6050 + Tucatinib + Trastuzumab + Capecitabine</arm_group_label>
+    <other_name>XELODA</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>trastuzumab deruxtecan</intervention_name>
+    <description>6.4 mg/kg by IV infusion in 21-day cycles</description>
+    <arm_group_label>SBT6050 + T-DXd (6.4 mg/kg)</arm_group_label>
+    <other_name>ENHERTU</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Advanced or metastatic HER2-expressing (IHC 2+ or 3+) or HER2-amplified solid tumors&#xD;
+&#xD;
+          -  Measurable disease per the the Response Evaluation Criteria in Solid Tumors (RECIST)&#xD;
+             Version 1.1 criteria&#xD;
+&#xD;
+          -  Tumor lesion amenable for biopsy or able to submit an adequate recent archived tumor&#xD;
+             tissue for baseline testing, as follows:&#xD;
+&#xD;
+               1. Breast cancer and colorectal cancer (CRC): archival biopsy tissue obtained after&#xD;
+                  the last HER2-directed therapy (excluding trastuzumab and pertuzumab), or a fresh&#xD;
+                  biopsy&#xD;
+&#xD;
+               2. Gastric cancer and non-small-cell lung cancer (NSCLC): archival biopsy tissue&#xD;
+                  taken within the past 12 months and after completion of last HER2-directed&#xD;
+                  therapy, or a fresh biopsy&#xD;
+&#xD;
+          -  ECOG Performance Status of 0 or 1&#xD;
+&#xD;
+          -  Adequate hematologic, hepatic, renal, and cardiac function&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of allergic reactions to certain components of study treatment therapies&#xD;
+&#xD;
+          -  Untreated brain metastases&#xD;
+&#xD;
+          -  Currently active (or history of) autoimmune disease&#xD;
+&#xD;
+          -  Taking the equivalent of &gt;10 mg / day of prednisone&#xD;
+&#xD;
+          -  Taking a medication that moderately induces CYP2C, strongly inhibits CYP2C8, or&#xD;
+             interacts with both enzymes (CYP3A and CYP2C8)&#xD;
+&#xD;
+          -  Uncontrolled or clinically significant interstitial lung disease (ILD) / pneumonitis&#xD;
+             that requires systemic corticosteroid treatment or suspected ILD / pneumonitis&#xD;
+&#xD;
+          -  HIV infection, active hepatitis B or hepatitis C infection&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Vinona Bhatia, MD, MPH</last_name>
+    <role>Study Director</role>
+    <affiliation>Silverback Therapeutics, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Clinical Trials Operations</last_name>
+    <phone>206 456-2900</phone>
+    <email>ClinOps@Silverbacktx.com</email>
+  </overall_contact>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 25, 2021</study_first_posted>
+  <last_update_submitted>October 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 25, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SBT6050</keyword>
+  <keyword>HER2</keyword>
+  <keyword>breast cancer</keyword>
+  <keyword>gastric cancer</keyword>
+  <keyword>colorectal cancer</keyword>
+  <keyword>non-small cell lung cancer</keyword>
+  <keyword>TLR8</keyword>
+  <keyword>trastuzumab deruxtecan</keyword>
+  <keyword>tucatinib</keyword>
+  <keyword>trastuzumab</keyword>
+  <keyword>capecitabine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+    <mesh_term>Stomach Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Capecitabine</mesh_term>
+    <mesh_term>Trastuzumab</mesh_term>
+    <mesh_term>Tucatinib</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

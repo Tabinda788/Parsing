@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3074">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05121155</url>
+  </required_header>
+  <id_info>
+    <org_study_id>03843118.0.0000.5505</org_study_id>
+    <nct_id>NCT05121155</nct_id>
+  </id_info>
+  <brief_title>Brain Skull Deformation as a Non-invasive Intracranial Pressure (ICP) Measure</brief_title>
+  <official_title>Brain Skull Deformation as a Non-invasive Intracranial Pressure (ICP) Measure: Comparison Between Invasive and Noninvasive Methods.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Federal University of São Paulo</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Federal University of São Paulo</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background: Although placement of an intra-cerebral catheter remains the gold standard method&#xD;
+      for measuring intracranial pressure (ICP), there are several limitations to the method.&#xD;
+      Objectives: The main objective of this study was to compare the correlation and the agreement&#xD;
+      of the wave morphology between the ICP (standard ICP monitoring) and a new nICP monitor in&#xD;
+      patients admitted with stroke. Our secondary objective was to estimate the accuracy of four&#xD;
+      non-invasive methods to assess intracranial hypertension. Methods: We prospectively collected&#xD;
+      data of adults admitted to an intensive care unit (ICU) with subarachnoid hemorrhage (SAH),&#xD;
+      intracerebral hemorrhage (ICH) or ischemic stroke (IS) in whom invasive ICP monitoring&#xD;
+      placed. Measures had been simultaneously collected from the following non-invasive indices:&#xD;
+      optic nerve sheath diameter (ONSD), pulsatility index (PI) using transcranial Doppler (TCD),&#xD;
+      a 5-point visual scale designed for Computed Tomography (CT) and two parameters (time-to-peak&#xD;
+      [TTP] and P2/P1 ratio) of a non-invasive ICP wave morphology monitor (Brain4care[B4c]).&#xD;
+      Intracranial hypertension was defined as an invasively measured ICP &gt; 20 mmHg for at least&#xD;
+      five minutes.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 1, 2019</start_date>
+  <completion_date type="Actual">March 30, 2020</completion_date>
+  <primary_completion_date type="Actual">March 30, 2020</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>1 Day</target_duration>
+  <primary_outcome>
+    <measure>Comparison between ICP morphology between a non invasive (Brain4care [B4c]) and a invasive (intraventricular) method</measure>
+    <time_frame>At least 30 minutes for every patient</time_frame>
+    <description>Parameter of the ICP wave between methods were compared (P2/P1 ratio)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Comparison between ICP morphology between a non invasive (Brain4care [B4c]) and a invasive (intraventricular) method</measure>
+    <time_frame>At least 30 minutes for every patient</time_frame>
+    <description>Parameter of the ICP wave between methods were compared (Time-to-Peak)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Estimation of Intracranial Hypertension using Transcranial Doppler</measure>
+    <time_frame>At least 5 minutes after EVD closure</time_frame>
+    <description>We measured the Pulsatility Index using transcranial Doppler (TCD) and calculated a ROC curve to calculate its discriminatory power</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimation of Intracranial Hypertension using optic nerve sheath diameter (ONSD)</measure>
+    <time_frame>At least 5 minutes after EVD closure</time_frame>
+    <description>We measured the ONSD for both eyes and calculated a ROC curve to evaluate its discriminatory power in detecting Intracranial Hypertension</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimation of Intracranial Hypertension using a non-invasive ICP wave parameter (P2/P1 ratio).</measure>
+    <time_frame>At least 5 minutes after EVD closure</time_frame>
+    <description>We measured the mean P2/P1 ratio and calculated a ROC curve to evaluate its discriminatory power in detecting Intracranial Hypertension.&#xD;
+We calculated the points in the scale and built a ROC curve to evaluate its discriminatory power in detecting Intracranial Hypertension</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimation of Intracranial Hypertension using a non-invasive ICP wave parameter (Time-to_peak).</measure>
+    <time_frame>At least 5 minutes after EVD closure</time_frame>
+    <description>We measured the mean TTP and calculated a ROC curve to evaluate its discriminatory power in detecting Intracranial Hypertension.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimation of Intracranial Hypertension using a 5-point visual scale designed for Computed Tomography (CT)</measure>
+    <time_frame>At least 5 minutes after EVD closure</time_frame>
+    <description>We calculated the points in the scale and built a ROC curve to evaluate its discriminatory power in detecting Intracranial Hypertension</description>
+  </secondary_outcome>
+  <enrollment type="Actual">18</enrollment>
+  <condition>Subarachnoid Hemorrhage</condition>
+  <condition>Stroke</condition>
+  <condition>Stroke, Ischemic</condition>
+  <condition>Stroke Hemorrhagic</condition>
+  <condition>Intracranial Hypertension</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>ICP wave morphology comparison between a non-invasive (Brain4care) and a invasive method</intervention_name>
+    <description>We prospectively collected data of adults admitted to an intensive care unit (ICU) with subarachnoid hemorrhage (SAH), intracerebral hemorrhage (ICH) or ischemic stroke (IS) in whom invasive ICP monitoring placed. Measures had been simultaneously collected from the following non-invasive indices: optic nerve sheath diameter (ONSD), pulsatility index (PI) using transcranial Doppler (TCD), a 5-point visual scale designed for Computed Tomography (CT) and two parameters (time-to-peak [TTP] and P2/P1 ratio) of a non-invasive ICP wave morphology monitor (Brain4care[B4c]). Intracranial hypertension was defined as an invasively measured ICP &gt; 20 mmHg for at least five minutes</description>
+    <other_name>Estimation of Intracranial Hypertension using non-invasive methods</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        From a total of 30 patients with invasive ICP monitor evaluated in our hospital between&#xD;
+        March 2019 and March 2020 (pre-Covid-19), 18 patients fulfilled inclusion and exclusion&#xD;
+        criteria. A total of 60 monitorizations were performed. We included 14 patients with&#xD;
+        subarachnoid hemorrhage (SAH), one with IS, and three with ICH. All SAH were aneurysmatic,&#xD;
+        all ICH were hypertensives and the only IS was a cardioembolic malignant middle cerebral&#xD;
+        artery stroke. There were no side effects from the use of the noninvasive method.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - Adult inpatients from a dedicated neurological intensive care unit with ischemic (IS) or&#xD;
+        hemorrhagic stroke who needed invasive ICP monitoring were prospectively evaluated from&#xD;
+        March 2019 to March 2020 (before the COVID-19 pandemic).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  We excluded patients with chronic neurological diseases (demyelinating diseases,&#xD;
+             chronic hydrocephalus, pseudotumor brain), suspected brain death, and patients&#xD;
+             monitored with non-ventricular sensors (e.g., subdural or epidural).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Federal University of São Paulo</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>04024-002</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <results_reference>
+    <citation>Moraes FM, Silva GS. Noninvasive intracranial pressure monitoring methods: a critical review. Arq Neuropsiquiatr. 2021 May;79(5):437-446. doi: 10.1590/0004-282X-ANP-2020-0300. Review.</citation>
+    <PMID>34161530</PMID>
+  </results_reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2021</study_first_posted>
+  <last_update_submitted>November 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Federal University of São Paulo</investigator_affiliation>
+    <investigator_full_name>Gisele Sampaio Silva</investigator_full_name>
+    <investigator_title>Profa. Dra Gisele Sampaio Silva</investigator_title>
+  </responsible_party>
+  <keyword>non invasive icp monitor</keyword>
+  <keyword>icp wave morphology</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Subarachnoid Hemorrhage</mesh_term>
+    <mesh_term>Ischemic Stroke</mesh_term>
+    <mesh_term>Intracranial Hypertension</mesh_term>
+    <mesh_term>Hemorrhagic Stroke</mesh_term>
+    <mesh_term>Hemorrhage</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>As soon as the data are published, we intend to share it.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

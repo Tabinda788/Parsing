@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3075">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05121142</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-0167</org_study_id>
+    <nct_id>NCT05121142</nct_id>
+  </id_info>
+  <brief_title>Study of Ruxolitinib for Acute and Chronic Graft Versus Host Disease</brief_title>
+  <official_title>Pharmacokinetics and Pharmacodynamic Study of Ruxolitinib for the Management of Acute and Chronic Graft Versus Host Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Children's Hospital Medical Center, Cincinnati</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Children's Hospital Medical Center, Cincinnati</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      While hematopoietic stem cell transplant (HSCT) is an effective therapy, graft versus host&#xD;
+      disease (GVHD) is the most significant complication after HSCT. Both acute GVHD and chronic&#xD;
+      GVHD are leading causes of non-relapse morbidity and mortality.&#xD;
+&#xD;
+      Acute graft versus host disease usually occurs within the first 100 days of transplant and&#xD;
+      can involve the skin, gut, or liver. Chronic graft versus host disease usually occurs after&#xD;
+      the first 100 days of transplant and can involve skin, eyes, mouth, joints, liver, intestines&#xD;
+      commonly. These two diseases are different, but both happen due to the imbalance of the donor&#xD;
+      immune system in the host.&#xD;
+&#xD;
+      The purpose of this research is to learn more about ruxolitinib as a treatment for both acute&#xD;
+      and chronic GVHD. Specifically, the investigators would like to learn more about the&#xD;
+      pharmacokinetics (PK - the process of absorption, distribution, metabolism, and elimination&#xD;
+      from the body - meaning how the drug moves through the body) and the pharmacodynamics (PD -&#xD;
+      the body's biological response to the drug) of ruxolitinib.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 27, 2021</start_date>
+  <completion_date type="Anticipated">March 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cmax of ruxolitinib in existing patients with chronic GVHD (Arm 1)</measure>
+    <time_frame>1 week</time_frame>
+    <description>Maximum Plasma Concentration of ruxolitinib</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cmax of ruxolitinib in patients with acute GVHD (Arm 2)</measure>
+    <time_frame>30 days</time_frame>
+    <description>Maximum Plasma Concentration of ruxolitinib</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cmax of ruxolitinib in patients with new onset chronic GVHD (Arm 3)</measure>
+    <time_frame>6 months</time_frame>
+    <description>Maximum Plasma Concentration of ruxolitinib</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To measure phosphorylation of STAT5 on lymphocytes as a functional measure of JAK inhibition (Arms 1, 2, and 3)</measure>
+    <time_frame>Approximately 2 hours after the ruxolitinib dose</time_frame>
+    <description>A blood sample will be collected at the specified time point and pharmacodynamics will be measured by PSTAT5</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with overall survival (Arm 3)</measure>
+    <time_frame>6 months after ruxolitinib initiation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with complete response to ruxolitinib (Arm 2)</measure>
+    <time_frame>30 days after ruxolitinib initiation</time_frame>
+    <description>Complete response is defined as resolution of acute GVHD</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with partial response to ruxolitinib (Arm 2)</measure>
+    <time_frame>30 days after ruxolitinib initiation</time_frame>
+    <description>Partial response is defined as improvement in stage of at least one organ involved in acute GVHD without worsening in additional organs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with no response to ruxolitinib (Arm 2)</measure>
+    <time_frame>30 days after ruxolitinib initiation</time_frame>
+    <description>No response is defined as lack of improvement or worsening of acute GVHD</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with response to ruxolitinib (Arm 3)</measure>
+    <time_frame>6 months after ruxolitinib initiation</time_frame>
+    <description>Response is defined as resolution of chronic GVHD in at least one organ without worsening in additional organs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with relapse free survival at 6 months (Arm 3)</measure>
+    <time_frame>6 months after ruxolitinib initiation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with relapse free survival at 6 months (Arm 1)</measure>
+    <time_frame>6 months after ruxolitinib initiation</time_frame>
+    <description>Relapse free survival at 6 months for participants on Arm 1 only if participant has been on ruxolitinib clinically for 6 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of infections (Arm 1)</measure>
+    <time_frame>through study completion, average of 7 days</time_frame>
+    <description>Infections defined as bacterial, parasitic, fungal, new viral reactivation or disease</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of infections (Arm 2)</measure>
+    <time_frame>30 days after ruxolitinib initiation</time_frame>
+    <description>Infections defined as bacterial, parasitic, fungal, new viral reactivation or disease</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of infections (Arm 3)</measure>
+    <time_frame>6 months after ruxolitinib initiation</time_frame>
+    <description>Infections defined as bacterial, parasitic, fungal, new viral reactivation or disease</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of known side effects (Arm 1)</measure>
+    <time_frame>through study completion, average of 7 days</time_frame>
+    <description>Known side effects are defined as the side effects included in the Investigator's Brochure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of known side effects (Arm 2)</measure>
+    <time_frame>30 days after ruxolitinib initiation</time_frame>
+    <description>Known side effects are defined as the side effects included in the Investigator's Brochure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of known side effects (Arm 3)</measure>
+    <time_frame>6 months after ruxolitinib initiation</time_frame>
+    <description>Known side effects are defined as the side effects included in the Investigator's Brochure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of unknown side effects (Arm 1)</measure>
+    <time_frame>through study completion, average of 7 days</time_frame>
+    <description>Unknown side effects are defined as the side effects not included in the Investigator's Brochure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of unknown side effects (Arm 2)</measure>
+    <time_frame>30 days after ruxolitinib initiation</time_frame>
+    <description>Unknown side effects are defined as the side effects not included in the Investigator's Brochure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of unknown side effects (Arm 3)</measure>
+    <time_frame>6 months after ruxolitinib initiation</time_frame>
+    <description>Unknown side effects are defined as the side effects not included in the Investigator's Brochure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who were weaned off steroids (Arm 2)</measure>
+    <time_frame>30 days after ruxolitinib initiation</time_frame>
+    <description>Participants will be considered weaned off steroids if the steroid dose has been decreased</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who were weaned off steroids (Arm 3)</measure>
+    <time_frame>6 months after ruxolitinib initiation</time_frame>
+    <description>Participants will be considered weaned off steroids if the steroid dose has been decreased</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">28</enrollment>
+  <condition>Acute-graft-versus-host Disease</condition>
+  <condition>Chronic Graft-versus-host-disease</condition>
+  <arm_group>
+    <arm_group_label>Arm 1: Existing patients with chronic GVHD</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants with established diagnosis of chronic GVHD and currently on treatment with ruxolitinib for chronic GVHD for at least 3 weeks. Participants in this arm are receiving ruxolitinib clinically and will not receive ruxolitinib as part of this research study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2: Acute GVHD ages 0-&lt;12 years</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with acute GVHD will receive ruxolitinib on this arm.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 3: New onset chronic GVHD ages 0-≤18 years</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with new onset chronic GVHD will receive ruxolitinib on this arm.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ruxolitinib</intervention_name>
+    <description>Ruxolitinib will be given by mouth or enteral tube (if applicable).</description>
+    <arm_group_label>Arm 2: Acute GVHD ages 0-&lt;12 years</arm_group_label>
+    <arm_group_label>Arm 3: New onset chronic GVHD ages 0-≤18 years</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        ARM 1&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Established diagnosis of chronic GVHD (all grades eligible)&#xD;
+&#xD;
+          -  Currently on treatment with ruxolitinib for chronic GVHD for a minimum of 3 weeks&#xD;
+&#xD;
+          -  No changes in doses of ruxolitinib or concurrent azoles (if present) one week prior to&#xD;
+             obtaining ruxolitinib levels&#xD;
+&#xD;
+          -  Ages eligible for enrollment (0-≤18 years at time of enrollment)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Clinical presentation resembling de novo chronic GVHD or overlap syndrome with both&#xD;
+             acute and chronic GVHD features&#xD;
+&#xD;
+        ARM 2&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ages &lt;12 years status post allogeneic hematopoietic stem cell transplant&#xD;
+&#xD;
+          -  Any underlying diagnoses, preparative regimen, stem cell source or acute GVHD&#xD;
+             prophylaxis are eligible&#xD;
+&#xD;
+          -  Diagnosis of acute GVHD which is refractory to steroids (defined as lack of&#xD;
+             improvement to 2 mg/kg/day of methylprednisolone or bioequivalent oral steroids, for 7&#xD;
+             days or progression of acute GVHD within 72 hours at 2 mg/kg/day of Methylprednisolone&#xD;
+             or bioequivalent oral doses)&#xD;
+&#xD;
+          -  Able to take enteral medications&#xD;
+&#xD;
+          -  Clinically diagnosed Grades II to IV acute GVHD as per modified Glucksberg criteria&#xD;
+             occurring after allogeneic HSCT requiring systemic immune suppressive therapy. Biopsy&#xD;
+             of involved organs with acute GVHD is encouraged but not required for study&#xD;
+             enrollment.&#xD;
+&#xD;
+          -  Blood counts at decision to initiate ruxolitinib: absolute neutrophil count (ANC) &gt;&#xD;
+             1000/mm3* AND platelets ≥ 20,000/mm3 (*Use of growth factor supplementation and&#xD;
+             transfusion support is allowed to achieve these above defined hematological&#xD;
+             parameters)&#xD;
+&#xD;
+          -  Estimated GFR by cystatin C of &gt;30 mL/min&#xD;
+&#xD;
+          -  Prior systemic treatments for acute GVHD are allowed. Once ruxolitinib is initiated,&#xD;
+             no further doses of these agents will be allowed.&#xD;
+&#xD;
+          -  Calcineurin inhibitors are allowed throughout the duration of study and may be&#xD;
+             discontinued per treating physician discretion. Additionally dose adjustments to&#xD;
+             maintain target blood levels of calcineurin inhibitors may proceed per routine&#xD;
+             clinical practice.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Clinical presentation resembling de novo chronic GVHD or GVHD overlap syndrome with&#xD;
+             both acute and chronic GVHD features&#xD;
+&#xD;
+          -  Presence of an active uncontrolled infection including significant bacterial, fungal,&#xD;
+             viral or parasitic infection requiring treatment. Infections are considered controlled&#xD;
+             if appropriate therapy has been instituted and no signs of progression are present.&#xD;
+             Progression of infection is defined as hemodynamic instability attributable to sepsis,&#xD;
+             new symptoms, worsening physical signs or radiographic findings attributable to&#xD;
+             infection. Persisting fever without other signs or symptoms will not be interpreted as&#xD;
+             progressing infection.&#xD;
+&#xD;
+          -  Evidence of uncontrolled viral reactivation (Adenovirus, CMV, EBV, BK virus). If&#xD;
+             patients are on appropriate antiviral therapy or have received virus specific T-cells&#xD;
+             (either donor derived or third-party) then the viral reactivation is not considered&#xD;
+             uncontrolled.&#xD;
+&#xD;
+          -  Presence of relapsed primary malignancy.&#xD;
+&#xD;
+        ARM 3&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  0-≤18 years of age are eligible&#xD;
+&#xD;
+          -  Any underlying diagnosis, preparative regimen, stem cell source or prior acute GVHD&#xD;
+             prophylaxis are eligible&#xD;
+&#xD;
+          -  Diagnosis of chronic GVHD as per 2014 NIH consensus criteria (any organ involvement is&#xD;
+             eligible)&#xD;
+&#xD;
+          -  Any GVHD global severity is eligible&#xD;
+&#xD;
+          -  Patients may have received methylprednisolone or oral bioequivalent steroids at a dose&#xD;
+             of 1 mg/kg/day (or greater) for up to 28 days prior to enrollment but may be enrolled&#xD;
+             anytime between diagnosis of chronic GVHD and day 28 of systemic steroids&#xD;
+&#xD;
+          -  Concurrent local therapies ( including but not limited to topical steroids, topical&#xD;
+             calcipotriene, ocular drops such as restasis, autologous serum eye drops, artificial&#xD;
+             tears, triamcinolone ointment for vulvar GVHD, Fluticasone Azithromycin and Singulair)&#xD;
+             are allowed at anytime while on ruxolitinib . Additional therapies may also be&#xD;
+             considered with PI review and approval&#xD;
+&#xD;
+          -  As children may not meet criteria for lung GVHD due to inability to perform PFTs we&#xD;
+             will establish the diagnosis of lung GVHD for children as defined by any of the&#xD;
+             following criteria listed below. However, the participants do not need to have lung&#xD;
+             involvement to be eligible to receive ruxolitinib.&#xD;
+&#xD;
+               1. &gt;10% decrease in FEV1 or FVC from baseline or 25% of FEF 25-75&#xD;
+&#xD;
+               2. Active GVHD in another organ system + pulmonary symptoms (Tachypnea without&#xD;
+                  wheezing, new oxygen requirement, cough)&#xD;
+&#xD;
+               3. Increased R5 by 50% by Impulse oscillometry&#xD;
+&#xD;
+               4. Air trapping on high resolution CT scan, small airway thickening, or&#xD;
+                  bronchiectasis in the absence of infection&#xD;
+&#xD;
+          -  Negative urine or serum pregnancy test for females of childbearing age&#xD;
+&#xD;
+          -  Estimated GFR by cystatin C &gt; 30 mL/min&#xD;
+&#xD;
+          -  Able to take enteral medications&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Clinical presentation resembling overlap syndrome with both acute and chronic GVHD&#xD;
+             features&#xD;
+&#xD;
+          -  Presence of an active uncontrolled infection including significant bacterial, fungal,&#xD;
+             viral or parasitic infection requiring treatment. Infections are considered controlled&#xD;
+             if appropriate therapy has been instituted and no signs of progression are present.&#xD;
+             Progression of infection is defined as hemodynamic instability attributable to sepsis,&#xD;
+             new symptoms, worsening physical signs or radiographic findings attributable to&#xD;
+             infection. Persisting fever without other signs or symptoms will not be interpreted as&#xD;
+             progressing infection.&#xD;
+&#xD;
+          -  Evidence of uncontrolled viral reactivation (Adenovirus, CMV, EBV, BK virus). If&#xD;
+             patients are on appropriate antiviral therapy or have received virus specific T-cells&#xD;
+             (either donor derived or third-party) then the viral reactivation is not considered&#xD;
+             uncontrolled.&#xD;
+&#xD;
+          -  Presence of relapsed primary malignancy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pooja Khandelwal, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Children's Hospital Medical Center, Cincinnati</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ormarie Vazquez Silva, BS</last_name>
+    <phone>(513) 803-0183</phone>
+    <email>Ormarie.VazquezSilva@cchmc.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Brian Hils, BIS</last_name>
+    <phone>(513) 636-7491</phone>
+    <email>Brian.Hils@cchmc.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ormarie Vazquez Silva</last_name>
+      <phone>513-803-0183</phone>
+      <email>Ormarie.VazquezSilva@cchmc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Pooja Khandelwal, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2021</study_first_posted>
+  <last_update_submitted>November 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Graft vs Host Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

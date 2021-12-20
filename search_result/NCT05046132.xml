@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8843">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05046132</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RM-493-032</org_study_id>
+    <nct_id>NCT05046132</nct_id>
+  </id_info>
+  <brief_title>Study of Setmelanotide Effects on QTc (Corrected QT) Interval in Healthy Subjects</brief_title>
+  <official_title>A Randomized, Double-Blind, 3-arm, Parallel Group, Placebo- and Positive-controlled Study to Investigate the Effects of Setmelanotide on QTc Interval in Healthy Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rhythm Pharmaceuticals, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Rhythm Pharmaceuticals, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a double-blind, randomized, placebo- and positive-controlled, parallel group, 3-arm&#xD;
+      study to assess the potential for therapeutic and supratherapeutic concentrations of&#xD;
+      setmelanotide to affect the QTcF interval compared with placebo.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 5, 2021</start_date>
+  <completion_date type="Anticipated">January 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 2022</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Setmelanotide concentration-related change from baseline in QTc</measure>
+    <time_frame>16 Days</time_frame>
+    <description>Setmelanotide concentration-related change from baseline (Δ) in QTc and placebo-adjusted change from baseline (ΔΔ) in QTc corrected for HR (heart rate) using QTcF (ΔQTcF and ΔΔQTcF).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in HR</measure>
+    <time_frame>16 Days</time_frame>
+    <description>Change from baseline (Δ) and placebo-corrected change from baseline (ΔΔ) in HR after administration of SC setmelanotide or oral moxifloxacin.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in QTcF, PR, and QRS intervals</measure>
+    <time_frame>16 Days</time_frame>
+    <description>Change from baseline (Δ) and placebo-corrected change from baseline (ΔΔ) in QTcF, PR, and QRS intervals after administration of SC setmelanotide or oral moxifloxacin.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Categorical outliers for HR</measure>
+    <time_frame>16 Days</time_frame>
+    <description>Categorical outliers for HR after administration of SC setmelanotide.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Categorical outliers for QTcF, HR, PR, and QRS intervals</measure>
+    <time_frame>16 Days</time_frame>
+    <description>Categorical outliers for QTcF, HR, PR, and QRS intervals after administration of SC setmelanotide.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of treatment-emergent changes of T-wave morphology and U-wave presence</measure>
+    <time_frame>16 Days</time_frame>
+    <description>Frequency of treatment-emergent changes of T-wave morphology and U-wave presence after administration of SC setmelanotide.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Relationship between moxifloxacin concentrations and ΔΔQTcF</measure>
+    <time_frame>16 Days</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Area under the plasma concentration-time curve of setmelanotide during the dosing interval (AUCtau)</measure>
+    <time_frame>16 Days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>AUC from time zero to the time of last measurable concentration of setmelanotide (AUClast)</measure>
+    <time_frame>16 Days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Time of the maximum observed plasma concentration of setmelanotide (Tmax)</measure>
+    <time_frame>16 Days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Apparent clearance of setmelanotide (Cl/F)</measure>
+    <time_frame>16 Days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Apparent volume of distribution of setmelanotide (Vd/F)</measure>
+    <time_frame>16 Days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacokinetic (PK) property of moxifloxacin (e.g. Tmax)</measure>
+    <time_frame>16 Days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Frequency and severity of adverse events (AEs) assessed separately for relation to SC setmelanotide and/or oral moxifloxacin</measure>
+    <time_frame>16 Days</time_frame>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">72</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Group 1: Setmelanotide 7 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SC setmelanotide 7 mg; oral placebo on Days 10 and 16</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2: Active placebo (Day 10)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>SC placebo; oral moxifloxacin (positive control) on Day 10 and oral placebo on Day 16</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3: Active placebo (Day 16)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>SC placebo; oral placebo on Day 10 and oral moxifloxacin on Day 16</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Setmelanotide</intervention_name>
+    <description>Subcutaneous (SC) setmelanotide: SC injection: 2 mg × 7 days followed by 3, 5, and 7 mg × 3 days per dose level</description>
+    <arm_group_label>Group 1: Setmelanotide 7 mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Moxifloxacin</intervention_name>
+    <description>Moxifloxacin 400 mg capsules for oral administration (active comparator)</description>
+    <arm_group_label>Group 2: Active placebo (Day 10)</arm_group_label>
+    <arm_group_label>Group 3: Active placebo (Day 16)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Oral Placebo</intervention_name>
+    <description>Placebo capsules for oral administration (identical in appearance to oral moxifloxacin treatment)</description>
+    <arm_group_label>Group 1: Setmelanotide 7 mg</arm_group_label>
+    <arm_group_label>Group 2: Active placebo (Day 10)</arm_group_label>
+    <arm_group_label>Group 3: Active placebo (Day 16)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SC Placebo</intervention_name>
+    <description>Placebo for SC injection (vehicle only; identical in appearance to SC setmelanotide treatment)</description>
+    <arm_group_label>Group 2: Active placebo (Day 10)</arm_group_label>
+    <arm_group_label>Group 3: Active placebo (Day 16)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Males or females between 18 and 50 years of age, inclusive.&#xD;
+&#xD;
+          -  Subject has body mass index (BMI) between 18.0 and 30.0 kg/m2, inclusive.&#xD;
+&#xD;
+          -  Subject is in good health, as confirmed by no clinically significant findings from&#xD;
+             medical history, physical examination, 12-lead ECG, vital signs measurements, clinical&#xD;
+             laboratory evaluations, and liver function tests at Screening and Check-in.&#xD;
+&#xD;
+          -  Female participants of childbearing potential must be confirmed non-pregnant and agree&#xD;
+             to use contraception.&#xD;
+&#xD;
+          -  Male participants with female partners of childbearing potential must agree to use&#xD;
+             contraception. Male subjects must also not donate sperm during and for 90 days&#xD;
+             following their participation in the study.&#xD;
+&#xD;
+          -  Subject is a nonsmoker (for at least 3 months) with negative urinary cotinine test at&#xD;
+             Screening and agrees to abstain from alcohol, recreational drugs (including&#xD;
+             marijuana), and tobacco or nicotine-containing products for the duration of the study.&#xD;
+&#xD;
+          -  Subject is able to comprehend and is willing to sign an informed consent form and&#xD;
+             abide by the study restrictions.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subject has sustained systolic blood pressure (SBP) &gt;150 mmHg or &lt;90 mmHg or a&#xD;
+             diastolic blood pressure (DBP) &gt;100 mmHg or &lt;60 mmHg in the supine position at&#xD;
+             Screening or Day 1 of each study period, respectively.&#xD;
+&#xD;
+          -  Subject has supine pulse rate of &lt;45 beats per minute (bpm) or &gt;100 bpm.&#xD;
+&#xD;
+          -  Subject has abnormal screening ECG indicating a second- or third-degree&#xD;
+             atrioventricular block, or one or more of the following: QRS&gt;110 msec, QTcF &gt;450 msec&#xD;
+             for males and &gt;470 msec for females, PR interval &gt;200 msec.&#xD;
+&#xD;
+          -  Subject has a history of risk factors for Torsades de Pointes (TdP), including&#xD;
+             unexplained syncope, diagnosis or family history of Brugada syndrome or long QT&#xD;
+             syndrome, heart failure, myocardial infarction, angina, or clinically significant&#xD;
+             abnormal laboratory assessments including hypokalemia, hypercalcemia, or&#xD;
+             hypomagnesaemia.&#xD;
+&#xD;
+          -  Glomerular filtration rate (GFR) &lt;60 mL/min at Screening.&#xD;
+&#xD;
+          -  Subject has significant dermatologic findings relating to melanoma or pre-melanoma&#xD;
+             skin lesions (excluding non-invasive basal or squamous cell lesion).&#xD;
+&#xD;
+          -  Subject has history or close family history (parents or siblings) of melanoma or&#xD;
+             subject history of ocular-cutaneous albinism.&#xD;
+&#xD;
+          -  Subject has significant history or clinical manifestation of any metabolic, allergic,&#xD;
+             dermatological, hepatic, renal, hematological, pulmonary, cardiovascular,&#xD;
+             gastrointestinal, neurological, or psychiatric disorder (as determined by the&#xD;
+             Investigator).&#xD;
+&#xD;
+          -  Subject has suicidal ideation of type 4 or 5 on the C-SSRS at Screening, a history of&#xD;
+             a suicide attempt in the last 20 years, or any suicidal behavior in the last month.&#xD;
+&#xD;
+          -  Subject has participated in any clinical study with an investigational drug/device&#xD;
+             within 30 days (or 5 half-lives) prior to the first day of dosing.&#xD;
+&#xD;
+          -  Subject was previously enrolled in a clinical study involving setmelanotide or any&#xD;
+             previous exposure to setmelanotide.&#xD;
+&#xD;
+          -  Subject has inability to comply with QD injection regimen.&#xD;
+&#xD;
+          -  Female subjects who are breastfeeding or nursing.&#xD;
+&#xD;
+          -  Subject has cognitive impairment that, in the Investigator's opinion, precludes&#xD;
+             participation to the study.&#xD;
+&#xD;
+          -  Subject is, in Investigator's opinion, otherwise not suitable to participate in the&#xD;
+             study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Linda Shapiro, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Rhythm Pharmaceuticals, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sarah Pilley</last_name>
+    <phone>857-264-4280</phone>
+    <email>spilley@rhythmtx.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Parexel Early Phase Clinical Unit (Los Angeles)</name>
+      <address>
+        <city>Glendale</city>
+        <state>California</state>
+        <zip>91206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lizbeth Silva-Gonzalez</last_name>
+      <phone>888-228-7425</phone>
+      <email>study.losangeles@parexel.com</email>
+    </contact>
+    <investigator>
+      <last_name>David Han, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>July 30, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 16, 2021</study_first_posted>
+  <last_update_submitted>October 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Healthy Volunteers</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Moxifloxacin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

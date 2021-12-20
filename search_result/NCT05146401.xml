@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1133">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05146401</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PYL202111</org_study_id>
+    <nct_id>NCT05146401</nct_id>
+  </id_info>
+  <brief_title>Associations of Plasma Fatty Acid Patterns With Gestational Diabetes Mellitus</brief_title>
+  <official_title>Associations of Plasma Fatty Acid Patterns During Pregnancy With Gestational Diabetes Mellitus</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Liegang Liu</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Huazhong University of Science and Technology</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background: Limited studies have explored the difference of fatty acid profile between women&#xD;
+      with and without gestational diabetes mellitus (GDM), and the results were inconsistent.&#xD;
+      Individual fatty acids tend to be interrelated because of the shared food sources and&#xD;
+      metabolic pathways. Thus, whether fatty acid patters during pregnancy were related to GDM&#xD;
+      odds needs further exploration.&#xD;
+&#xD;
+      Objective: We aim to identify plasma fatty acid patters during pregnancy and their&#xD;
+      associations with odds of gestational diabetes mellitus (GDM).&#xD;
+&#xD;
+      Design: A hospital-based case-control study was carried out in urban Wuhan, China from August&#xD;
+      2012 to April 2015. Pregnant women who screened for GDM at the outpatient clinics of the&#xD;
+      Department of Endocrinology, Tongji Hospital were invited to participant in the study. The&#xD;
+      inclusion criteria were as follows: 1) age ≥ 20 years; 2) gestational age at GDM screening ≥&#xD;
+      24 weeks; 3) singleton pregnancy. We excluded women who met any of the following items:&#xD;
+      history of diabetes (including but not limited to GDM), cardiovascular disease, cancer or&#xD;
+      other systemic diseases; pharmacologic treatment or dietary supplement use that might&#xD;
+      influence glucose or lipids metabolism; accompanied by other pregnancy complications; blood&#xD;
+      sample hemolysis or insufficiency; incomplete basic information. The diagnosis of GDM can be&#xD;
+      made if one or more glucose values are above the cut points of 5.1, 10.0 and 8.5 mmol/L at&#xD;
+      fasting, 1 and 2 h during a 75-gram oral glucose tolerance test (OGTT). Controls were&#xD;
+      randomly selected and individually matched to cases by age (± 2 years), gestational age (± 2&#xD;
+      weeks) and parity. Finally, 217 GDM cases and 217 matched controls were selected in this&#xD;
+      study. All participants gave written informed consent before enrolling in the study. Fasting&#xD;
+      blood samples (≥ 8 h overnight fasting) were collected using anticoagulant tubes and&#xD;
+      centrifuged at 3000 rpm for 5 min. Plasma were separated from blood cells and stored at -80 ℃&#xD;
+      for further assay. We measured plasma concentrations of fatty acids by gas chromatography -&#xD;
+      mass spectrometry, and derived potential fatty acid patterns trough principle components&#xD;
+      analysis. Conditional logistic regression and restricted cubic spline model were used to&#xD;
+      evaluate the associations between individual fatty acids or fatty acid patterns and odds of&#xD;
+      GDM.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 1, 2012</start_date>
+  <completion_date type="Actual">June 30, 2020</completion_date>
+  <primary_completion_date type="Actual">April 30, 2015</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Gestational diabetes mellitus</measure>
+    <time_frame>gestation age ≥ 24 weeks</time_frame>
+    <description>Glucose intolerance with onset or first diagnosis during pregnancy. The diagnosis of GDM can be made if one or more glucose values are above the cut points of 5.1, 10.0 and 8.5 mmol/L at fasting, 1 and 2 h during a 75-gram oral glucose tolerance test.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">434</enrollment>
+  <condition>Gestational Diabetes</condition>
+  <arm_group>
+    <arm_group_label>Gestational diabetes mellitus</arm_group_label>
+    <description>Gestational diabetes mellitus (GDM) was diagnosed according to the American Diabetes Association criteria, which is based on the &quot;one-step&quot; approach recommended by the International Association of Diabetes and Pregnancy Study Groups. All women underwent a 75g OGTT in the morning after an overnight fast, with plasma glucose measurement fasting and at 1 and 2 hours. The criteria for GDM diagnosis was to have at least one abnormal value: Fasting glucose ≥ 5.1 mmol/L (92 mg/dL), 1 h glucose ≥ 10.0 mmol/L (180 mg/dL), 2 h glucose ≥ 8.5 mmol/L (153 mg/dL).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy pregnant women</arm_group_label>
+    <description>Pregnant women with fasting glucose &lt; 5.1 mmol/L (92 mg/dL), 1 h glucose &lt; 10.0 mmol/L (180 mg/dL) and 2 h glucose &lt; 8.5 mmol/L (153 mg/dL) were considered as healthy controls. Controls were randomly selected and individually matched to cases by age (± 2 years), gestational age (± 2 weeks) and parity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Plasma fatty acid concentration</intervention_name>
+    <description>Plasma concentrations of fatty acids were measured by gas chromatography - mass spectrometry (Agilent 7890B gas chromatography coupled with an Agilent 5977A Series mass spectrometry). Individual fatty acids with relative concentrations ≥ 0.05% were used to derive fatty acid patterns through principle components analysis.</description>
+    <arm_group_label>Gestational diabetes mellitus</arm_group_label>
+    <arm_group_label>Healthy pregnant women</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All the participants enrolled were Chinese women. They gave informed written consent to the&#xD;
+        study and did not take any medication known to affect glucose tolerance or insulin&#xD;
+        secretion before participation.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 20 years;&#xD;
+&#xD;
+          -  Gestational age at GDM screening ≥ 24 weeks;&#xD;
+&#xD;
+          -  Singleton pregnancy;&#xD;
+&#xD;
+          -  With enough plasma collected for fatty acids detection.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of diabetes (including but not limited to GDM), cardiovascular disease, cancer&#xD;
+             or other systemic diseases;&#xD;
+&#xD;
+          -  History of receiving pharmacological treatment known to affect glucose metabolism;&#xD;
+&#xD;
+          -  Incomplete basic information.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>43 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 6, 2021</study_first_posted>
+  <last_update_submitted>November 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Huazhong University of Science and Technology</investigator_affiliation>
+    <investigator_full_name>Liegang Liu</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Fatty acid</keyword>
+  <keyword>Pattern</keyword>
+  <keyword>Gestational diabetes mellitus</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes, Gestational</mesh_term>
+    <mesh_term>Diabetes Mellitus</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

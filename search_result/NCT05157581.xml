@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="274">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05157581</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY21100115</org_study_id>
+    <nct_id>NCT05157581</nct_id>
+  </id_info>
+  <brief_title>Extracorporeal Photopheresis in Sezary Syndrome</brief_title>
+  <acronym>ECP</acronym>
+  <official_title>Open Label, Single-cohort, and Single-center Phase II Study Evaluating Tumor-specific Immunity After Extracorporeal Photopheresis in Patients With Sézary Syndrome at Single-cell Resolution</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Oleg E. Akilov, MD, PhD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Mallinckrodt</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pittsburgh</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary endpoint is to determine if ECP induces a decrease in % of tumor cells after&#xD;
+      treatment. 15 patients with Sezary Syndrome will receive ECP weekly x4, then bi-weekly for 5&#xD;
+      months. Each patient will donate 5 samples to determine immune responses in peripheral blood.&#xD;
+      Additional clinical assessments will be a modified skin weighted assessment and flow&#xD;
+      cytometry at baseline and months 3 and 6. A CT scan will be obtained at baseline and only&#xD;
+      repeated if pathology is present at baseline. The tumor microenvironment will be studied by&#xD;
+      comparing transcriptomics of the blood samples before, 1 day after first ECP treatment, cycle&#xD;
+      1, 1, 3 and 6 months after ECP treatment by scRNAseq (5 samples total per patient ).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Cutaneous T-cell lymphoma (CTCL) is a group of skin lymphomas in which malignant lymphocytes&#xD;
+      infiltrate the skin and, in the later stages, spread to the lymph nodes and blood (leukemia).&#xD;
+      In the early stages, CTCL generally has a slow course, but in advanced diseases, such as&#xD;
+      Sezary syndrome (the leukemic form of the disease), there is rapid deterioration. Sezary&#xD;
+      syndrome is an end-stage variant of CTCL with a mean survival of 1.5 years despite aggressive&#xD;
+      therapies. Treatment options for the advanced disease are severely limited.&#xD;
+&#xD;
+      In this study, informed consent will be offered to patients who are candidates for standard&#xD;
+      of care ECP and have a diagnosis of Sezary Syndrome. Participating patients will undergo ECP&#xD;
+      twice weekly for 4 weeks then twice monthly for 5 more months (month 6 of therapy). Research&#xD;
+      blood samples to assess immune responses will be obtained from a blood draw at baseline&#xD;
+      (before starting ECP), one day after first ECP, and at months 1, 3, and 6. Standard of care&#xD;
+      assessments to determine the objective response will include measurement of skin tumor burden&#xD;
+      (mSWAT), blood tumor burden (flow cytometry) and CT scan at baseline and only repeated at&#xD;
+      month 3 and 6 if lymph node or visceral (organ) involvement identified at baseline.&#xD;
+&#xD;
+      IWe propose to establish changes in the tumor microenvironment after ECP, compare&#xD;
+      transcriptomic differences in malignant lymphocytes, monocytes, DC, and CD8 effectors before&#xD;
+      and after ECP to test the hypothesis that anti-tumor immune responses can be induced by ECP.&#xD;
+      We will employ a highly innovative technology such as single-cell RNA sequencing (scRNAseq)&#xD;
+      coupled with TCR sequencing to characterize ECP-related change in malignant cells utilizing a&#xD;
+      custom gene set and validate the single-cell protein data by antibody-oligo conjugates. To&#xD;
+      better understand the relevance of biomarker changes to disease progression, the observed&#xD;
+      ECP-related changes in tumor microenvironment will be correlated with clinical outcomes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2022</start_date>
+  <completion_date type="Anticipated">December 2026</completion_date>
+  <primary_completion_date type="Anticipated">December 2025</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline in tumor-specific immunity</measure>
+    <time_frame>Up to 3 months post baseline</time_frame>
+    <description>Evaluate immune responses post ECP using innovative technology such as single-cell RNA sequencing (scRNAseq) coupled with TCR sequencing to characterize ECP-related change in malignant cells</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in tumor-specific immunity</measure>
+    <time_frame>Up to 6 months post baseline</time_frame>
+    <description>Evaluate immune responses post ECP using innovative technology such as single-cell RNA sequencing (scRNAseq) coupled with TCR sequencing to characterize ECP-related change in malignant cells</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in the objective response rate for ECP therapy</measure>
+    <time_frame>Up to 3 months post baseline</time_frame>
+    <description>.Evaluate response in skin and blood using a modified skin weighted assessment tool that assess the tumor burden in the skin and blood flow cytometry that assesses the tumor burden in the blood. If tumor burden detected internally (visceral) or in the lymph nodes at baseline, follow up CT scans will be used to evaluate lymph nodal and/or visceral response. Response rate is defined as 50% or greater decrease in skin, lymph node/visceral, or blood tumor burden</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in the objective response rate for ECP therapy</measure>
+    <time_frame>Up to 6 months post baseline</time_frame>
+    <description>.Evaluate response in skin and blood using a modified skin weighted assessment tool that assess the tumor burden in the skin and blood flow cytometry that assesses the tumor burden in the blood. If tumor burden detected internally (visceral) or in the lymph nodes at baseline, follow up CT scans will be used to evaluate lymph nodal and/or visceral response. Response rate is defined as 50% or greater decrease in skin, lymph node/visceral, or blood tumor burden</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change from baseline in the objective response rate by disease compartment</measure>
+    <time_frame>Up to 3 months post baseline</time_frame>
+    <description>Evaluation of objective responses separated out by each subgroup of potential involvement (blood, skin, lymph nodes,and viscera (if present).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change from baseline in the objective response rate by disease compartment</measure>
+    <time_frame>Up to 6 months post baseline</time_frame>
+    <description>Evaluation of objective responses separated out by each subgroup of potential involvement (blood, skin, lymph nodes,and viscera (if present).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Correlation of clinical responses and changes in tumor microenvironment in the blood.</measure>
+    <time_frame>Up to 6 months post baseline</time_frame>
+    <description>Technology using scRNAseq to analyze the blood microenvironment will be correlated with the clinical responses observed.</description>
+  </other_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">15</enrollment>
+  <condition>Sezary Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Sezary Syndrome</arm_group_label>
+    <description>15 subjects with Sezary Syndrome will comprise the single arm of this study</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Extracorporeal photopheresis (ECP)</intervention_name>
+    <description>Extracorporeal photopheresis is a process that exposes a collection of white blood cells and plasma to a light sensitizing agent, methoxsalen, and returns that compartment to the body.</description>
+    <arm_group_label>Sezary Syndrome</arm_group_label>
+    <other_name>ECP</other_name>
+    <other_name>photopheresis</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Methoxsalen Injection</intervention_name>
+    <description>Methoxsalen is a light-sensitizing sterile compound added to the collected white blood cells and plasma during ECP.</description>
+    <arm_group_label>Sezary Syndrome</arm_group_label>
+    <other_name>Uvadex</other_name>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Peripheral blood&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with Sezary syndrome&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patient with an established diagnosis of Sezary syndrome (stage IVA1)&#xD;
+&#xD;
+          2. The patient must have a minimum wash-out period of 3 weeks between the last dose of&#xD;
+             prior systemic therapy&#xD;
+&#xD;
+          3. Patients should have recovered from all adverse events related to prior therapy to ≤&#xD;
+             grade 1&#xD;
+&#xD;
+          4. Signed informed consent form prior to any protocol-specific procedures.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Visceral metastasis of lymphoma&#xD;
+&#xD;
+          2. Concomitant administration of radiotherapy or systemic anti-cancer therapy including&#xD;
+             but not restricted to: chemotherapy, biological agents, or immunotherapy&#xD;
+&#xD;
+          3. Patients with known NCI CTCAE grade 3 or higher active systemic or cutaneous viral,&#xD;
+             bacterial, or fungal infection.&#xD;
+&#xD;
+          4. Patients with any serious underlying medical condition that would impair their ability&#xD;
+             to receive or tolerate the planned treatment and/or comply with study protocol.&#xD;
+&#xD;
+          5. Patients with dementia or altered mental status that would preclude understanding and&#xD;
+             rendering of informed consent document.&#xD;
+&#xD;
+          6. Patients with known allergy to methoxsalen or heparin -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Oleg E Akilov, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pittsburgh</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sue McCann, MSN, RN</last_name>
+    <phone>14128643681</phone>
+    <email>mccannsa@upmc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Nicolena Verardi, PA-C</last_name>
+    <phone>412-864-3682</phone>
+    <email>verardin3@upmc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Pittsburgh Medical Center</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sue McCann, MSN, RN</last_name>
+      <phone>412-864-3681</phone>
+      <email>mccannsa@upmc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Nicolena Verardi, PA-C</last_name>
+      <phone>412-864-3682</phone>
+      <email>verardin3@upmc.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Oleg E Akilov, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Ying Z, Shiue L, Park K, Kollet J, Bijani P, Goswami M, Duvic M, Ni X. Blood transcriptional profiling reveals IL-1 and integrin signaling pathways associated with clinical response to extracorporeal photopheresis in patients with leukemic cutaneous T-cell lymphoma. Oncotarget. 2019 May 7;10(34):3183-3197. doi: 10.18632/oncotarget.26900. eCollection 2019 May 7. Erratum in: Oncotarget. 2019 Sep 10;10(52):5492.</citation>
+    <PMID>31139332</PMID>
+  </reference>
+  <reference>
+    <citation>Zic JA. Extracorporeal Photopheresis in the Treatment of Mycosis Fungoides and Sézary Syndrome. Dermatol Clin. 2015 Oct;33(4):765-76. doi: 10.1016/j.det.2015.05.011. Epub 2015 Jul 29. Review.</citation>
+    <PMID>26433848</PMID>
+  </reference>
+  <reference>
+    <citation>Spary LK, Al-Taei S, Salimu J, Cook AD, Ager A, Watson HA, Clayton A, Staffurth J, Mason MD, Tabi Z. Enhancement of T cell responses as a result of synergy between lower doses of radiation and T cell stimulation. J Immunol. 2014 Apr 1;192(7):3101-10. doi: 10.4049/jimmunol.1302736. Epub 2014 Mar 5.</citation>
+    <PMID>24600032</PMID>
+  </reference>
+  <reference>
+    <citation>Curion F, Handel AE, Attar M, Gallone G, Bowden R, Cader MZ, Clark MB. Targeted RNA sequencing enhances gene expression profiling of ultra-low input samples. RNA Biol. 2020 Dec;17(12):1741-1753. doi: 10.1080/15476286.2020.1777768. Epub 2020 Jun 28.</citation>
+    <PMID>32597303</PMID>
+  </reference>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>November 16, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 15, 2021</study_first_posted>
+  <last_update_submitted>December 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pittsburgh</investigator_affiliation>
+    <investigator_full_name>Oleg E. Akilov, MD, PhD</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>extracorporeal photopheresis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sezary Syndrome</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Methoxsalen</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

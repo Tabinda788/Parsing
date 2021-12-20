@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2695">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05126082</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1R18HS027402-01A1</org_study_id>
+    <nct_id>NCT05126082</nct_id>
+  </id_info>
+  <brief_title>PedsBP Clinical Decision Support Tool</brief_title>
+  <official_title>Improving Recognition and Management of Hypertension in Youth: Comparing Approaches for Extending Effective CDS for Use in a Large Rural Health System</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>HealthPartners Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Essentia Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Agency for Healthcare Research and Quality (AHRQ)</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>HealthPartners Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of the PedsBP CDS research project is to adapt a previously tested web-based&#xD;
+      clinical decision support tool that appropriately identifies high blood pressure in youth for&#xD;
+      use in a primarily rural health system and compare approaches to CDS implementation in 45&#xD;
+      primary care clinics treating children in 3 upper Midwest states. This project will advance&#xD;
+      implementation science and address a critical need for youth at risk for cardiovascular&#xD;
+      disease and with limited access to pediatric subspecialty care.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Hypertension (HT) in youth tracks into adulthood, contributing to adult cardiovascular&#xD;
+      morbidity and mortality. National guidelines for the diagnosis and treatment of HT in&#xD;
+      children and adolescents were last updated in 2017, with definitions for HT that vary by age.&#xD;
+      To date, most children and adolescents with elevated blood pressure (BP) or HT are not&#xD;
+      diagnosed or inadequately treated. Factors that contribute to these deficits in care include:&#xD;
+      the need to translate pediatric BP measures into BP percentiles, lack of clinician&#xD;
+      familiarity with pediatric HT guidelines, and competing demands at clinical encounters.&#xD;
+&#xD;
+      Electronic health record (EHR)-linked clinical decision support (CDS) can be used to address&#xD;
+      these barriers and improve the identification and management of elevated BP and HT in&#xD;
+      children and adolescents. In a previous study, the investigators developed, implemented, and&#xD;
+      evaluated a sophisticated web-based, EHR-linked CDS to provide patient-specific clinical care&#xD;
+      recommendations in real time and in accordance with national guidelines for BP management in&#xD;
+      youth. In a 2-year cluster randomized trial in 20 urban and suburban primary care clinics in&#xD;
+      an integrated health system in Minnesota, the investigators demonstrated that the CDS&#xD;
+      increased repeat measurement of elevated BP during a visit and more than doubled clinician&#xD;
+      recognition of HT, while promoting dietitian referrals and additional next steps in care&#xD;
+      consistent with national guidelines. The CDS system was well accepted by providers and as&#xD;
+      such, is now standard of care in 55 primary care and 17 subspecialty clinics serving children&#xD;
+      across our health system. Implementation of this CDS in a new health system is a logical next&#xD;
+      step, yet optimal strategies for adaptation and implementation of CDS in clinics serving&#xD;
+      rural populations have not been well described.&#xD;
+&#xD;
+      In this study, the investigators will implement PedsBP CDS in a large health system with many&#xD;
+      clinics located in rural regions of Minnesota, Wisconsin and North Dakota. In order to&#xD;
+      compare approaches to implementation of PedsBP CDS to usual care, the investigators will&#xD;
+      randomly assign 15 primary care clinics to receive high-intensity implementation (CDS with&#xD;
+      online and in-person training, and audit-feedback), 15 clinics to receive low-intensity&#xD;
+      implementation (CDS with online training only), and 15 clinics will continue with usual care&#xD;
+      (no CDS).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 2022</start_date>
+  <completion_date type="Anticipated">December 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>45 community-based, primary care clinics with the largest number of visits among youth 6-17 years will be balanced and randomly allocated in a 1:1:1 allocation ratio to usual care, low-intensity implementation, or high-intensity implementation of the PedsBP CDS.</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of elevated blood pressure (BP) measurements that are repeated during the same clinic visit</measure>
+    <time_frame>During the same clinic encounter, within 2 hours of the initial elevated BP</time_frame>
+    <description>Repeat BP measurement during the same clinic encounter, within 2 hours of an initial BP that is ≥95th percentile for children 6-12 years or ≥130/80 mmHg for adolescents 13-17 years. This must be recorded in the vitals section of the electronic health record (EHR).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of patients who newly meet clinical criteria for hypertension who are clinically recognized.</measure>
+    <time_frame>Within 6 months of meeting criteria for hypertension.</time_frame>
+    <description>Clinical recognition is defined as a new diagnosis of HT (ICD-10: I10) or elevated BP (ICD-10: R03), adding HT or elevated BP to the problem list.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">46500</enrollment>
+  <condition>Hypertension</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Providers and patients assigned to control arm clinics will engage in the current standard of care, without access to the PedsBP clinical decision support tool.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low-Intensity Implementation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Providers and patients in the low-intensity arm will have access to the PedsBP clinical decision support tool and will receive standard training and training resources using the health systems standard training platform.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-Intensity Implementation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Providers and patients in the high-intensity arm will have access to the PedsBP clinical decision support tool and will receive enhanced training and training resources, and regular feedback from the project team regarding CDS use rates.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>PedsBP CDS</intervention_name>
+    <description>The PedsBP CDS is a sophisticated web-based electronic health record (EHR)-linked tool that can be used to address barriers and improve the identification and management of elevated blood pressure (BP) and hypertension (HT) in children and adolescents by providing patient-specific clinical care recommendations in real time and in accordance with national guidelines for BP management in youth.</description>
+    <arm_group_label>High-Intensity Implementation</arm_group_label>
+    <arm_group_label>Low-Intensity Implementation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Patients will be eligible for the PedsBP CDS if&#xD;
+&#xD;
+          1. 6-17 years of age&#xD;
+&#xD;
+          2. BP measured and entered in the vital sign section during an ambulatory primary care&#xD;
+             visit in a randomized primary care clinic&#xD;
+&#xD;
+          3. not pregnant or postpartum&#xD;
+&#xD;
+        Patients must meet these eligibility criteria to be included into study analyses:&#xD;
+&#xD;
+          1. have at least one index visit with a primary care provider at a randomized clinic in&#xD;
+             the intervention period&#xD;
+&#xD;
+          2. meet eligibility for PedsBP CDS at index visit (a-c above)&#xD;
+&#xD;
+          3. no previous HT diagnosis prior to index visit&#xD;
+&#xD;
+          4. not taking antihypertensive medication prior to index visit&#xD;
+&#xD;
+          5. not opted out of use of their data for research via general consent prior to&#xD;
+             performing analyses&#xD;
+&#xD;
+        Primary care providers must meet these eligibility criteria to participate in this study:&#xD;
+&#xD;
+          1. practice at a randomized primary care clinic&#xD;
+&#xD;
+          2. be a pediatric or family medicine care provider (pediatrician, family physician, nurse&#xD;
+             practitioner or physician assistant), and&#xD;
+&#xD;
+          3. provide ongoing clinical care for children and adolescents&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Patients will be excluded from analyses if the following criteria are met:&#xD;
+&#xD;
+          1. outside of the inclusion age range (&lt;6 years and ≥18 years) at index visit&#xD;
+&#xD;
+          2. pregnant or postpartum adolescents during study period&#xD;
+&#xD;
+          3. known HT diagnosis or taking antihypertensive medication at index visit&#xD;
+&#xD;
+          4. opted out of use of their data for research via general consent prior to performing&#xD;
+             analyses&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>6 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Elyse O Kharbanda, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>HealthPartners Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Catherine Benziger, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Essentia Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Elyse O Kharbanda, MD, MPH</last_name>
+    <phone>952-967-5038</phone>
+    <email>Elyse.O.Kharbanda@HealthPartners.Com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Catherine Benziger, MD, MPH</last_name>
+    <phone>218-786-3443</phone>
+    <email>Catherine.Benziger@EssentiaHealth.org</email>
+  </overall_contact_backup>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>October 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 18, 2021</study_first_posted>
+  <last_update_submitted>November 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Clinical Decision Support</keyword>
+  <keyword>Hypertension</keyword>
+  <keyword>Cardiovascular Disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypertension</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9366">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05039333</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1-2021-0036</org_study_id>
+    <nct_id>NCT05039333</nct_id>
+  </id_info>
+  <brief_title>Clinical Study to Prove Safety and Effectiveness When Applying RUS™ Surgical Navigation</brief_title>
+  <official_title>Prospective Observational Clinical Study to Prove Safety and Effectiveness When Applying RUS™ Surgical Navigation, Endoscopic Imaging Treatment Planning Software, in Gastric Cancer Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hutom Corp</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hutom Corp</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      By uploading pre-operative patient information and patient CT data to RUS™, a virtual&#xD;
+      surgical environment with patient-specific relief prediction models can be provided. First,&#xD;
+      after uploading the CT and clinical information of a gastric cancer patient diagnosed with&#xD;
+      gastric cancer through an actual endoscopic biopsy and scheduled for robotic total&#xD;
+      gastrectomy, RUS™ will operate normally to check whether patient-specific surgical navigation&#xD;
+      is available before or during surgery. In particular, when using the patient-specific surgery&#xD;
+      simulation system provided by RUS™, the CT information provides a patient-specific 3D&#xD;
+      environment well, so it will be checked regarding whether the surgeon can use it before or&#xD;
+      during surgery without any particular problems. Using RUS™ software, navigation information&#xD;
+      is used before or during surgery, and among these, parts that can be quantitatively compared&#xD;
+      with actual measurements will be evaluated as a secondary research goal. After the surgery,&#xD;
+      the investigators plan to check the amount of bleeding, duration of hospitalization, and the&#xD;
+      rate of complications by performing robot gastrointestinal resection using the navigation&#xD;
+      system to ensure that there are no problems with patient safety.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      -  Obtain consent from a patient who is diagnosed with gastric cancer and is scheduled for&#xD;
+           robotic surgery.&#xD;
+&#xD;
+             -  Take an abdominal CT before gastric cancer surgery according to the prescribed&#xD;
+                protocol.&#xD;
+&#xD;
+                  -  Upload patient information and CT information before surgery to RUS™, an&#xD;
+                     endoscopic treatment image planning software, to build a 3D modeling&#xD;
+                     navigation system for a patient-customized surgical environment. (Measure the&#xD;
+                     time (in days) from the time the CT is uploaded to the time when the RUS™&#xD;
+                     software can be operated.)&#xD;
+&#xD;
+                       -  Before surgery, use the RUS™ navigation system to check the patient's&#xD;
+                          relief and anatomical structure, mark the planned trocar insertion site,&#xD;
+                          and obtain distance information from the umbilical trocar.&#xD;
+&#xD;
+                          ⑤ After general anesthesia on the day of surgery, mark the Landmark 25&#xD;
+                          area on the abdominal wall using a surgical marking pen. In addition, the&#xD;
+                          abdominal wall surface scan is performed using a laser 3D scanner.&#xD;
+&#xD;
+                          ⑥ After the undulations are formed, the deformed abdominal wall surface&#xD;
+                          is scanned with a laser 3D scanner.&#xD;
+&#xD;
+                          ⑦ Evaluate the degree of agreement between the patient's actual relief&#xD;
+                          state measured in steps ⑤ and ⑥ and the patient's relief model predicted&#xD;
+                          through the relief prediction model in RUS™.&#xD;
+&#xD;
+                          ⑧ When the trocar is inserted through an anatomical landmark after the&#xD;
+                          actual patient's relief, compare the position information of the trocar&#xD;
+                          with the trocar position information of the RUS™ measured in advance in&#xD;
+                          step ④ to check its accuracy.&#xD;
+&#xD;
+                          ⑨ Check whether the blood vessels that must be checked during the total&#xD;
+                          gastrectomy procedure (left omentary artery, left umbilical vein,&#xD;
+                          superior omentum, superior vena cava, left gastric artery, superior&#xD;
+                          artery, and left hepatic branching left hepatic artery) are presented in&#xD;
+                          the RUS™ blood vessel segmentation model.&#xD;
+&#xD;
+                          ⑩ Among the vessels mentioned in step ⑨, for the vessels suggested by&#xD;
+                          RUS™ for vessels (left gastric artery, superior artery, left gastric&#xD;
+                          vein, and gastric colonic vein), check the anatomical positional&#xD;
+                          relationship and measure branch points during actual surgery. Check the&#xD;
+                          accuracy of matching with the anatomical location information and&#xD;
+                          branching distance of the segmentation model.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2021</start_date>
+  <completion_date type="Anticipated">June 23, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 24, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>CT turn around</measure>
+    <time_frame>1 week</time_frame>
+    <description>After the subject's CT is uploaded to the RUS™ software and segmentation is started, it is evaluated whether the relief model is created, segmentation of organs and blood vessels, and 3D reconstruction are performed and uploaded within 3 days.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-specific pneumoperitoneum model accuracy</measure>
+    <time_frame>1 month</time_frame>
+    <description>The accuracy is evaluated by comparing the patient-specific relief prediction model presented by the RUS™ surgical navigation with the actual patient's relief model scan data.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pre-trocar insertion function accuracy</measure>
+    <time_frame>1 week</time_frame>
+    <description>When the virtual trocar is inserted into the relief model in RUS™, the position and distance information of the trocar is provided, and the accuracy is evaluated by comparing it with the insertion position of the real trocar.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Major blood vessel presentation</measure>
+    <time_frame>1 week</time_frame>
+    <description>Evaluate whether the major blood vessels (a total of 7 (LGEA, RGEA, LGA, RGA, LGEV, RGEV, LGV)) that must be checked in total gastrectomy are 100% 3D reconstructed on the RUS™ navigation system.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Distance of major blood vessels</measure>
+    <time_frame>1 week</time_frame>
+    <description>By comparing the branching distance of major blood vessels in RUS™ (total 7 (LGEA, RGEA, LGA, RGA, LGEV, RGEV, LGV)) and the branching distance of major blood vessels during actual surgery, it is evaluated whether the accuracy is greater than 90%.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Bleeding volume</measure>
+    <time_frame>1 day</time_frame>
+    <description>When robotic total gastrectomy is performed using RUS™ surgical navigation, the amount of bleeding is measured and compared with the previous control group.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Surgery time</measure>
+    <time_frame>1 day</time_frame>
+    <description>When robotic total gastric resection is performed using RUS™ surgical navigation, the operation time (console time in the case of robotic surgery) is measured and compared with the past control group.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Hospital stay after surgery</measure>
+    <time_frame>1 month</time_frame>
+    <description>When robotic total gastrectomy is performed using RUS™ surgical navigation, the patient's postoperative hospital stay is checked and compared with the past control group.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Complication rate</measure>
+    <time_frame>1 month</time_frame>
+    <description>When robotic total gastric resection is performed using RUS™ surgical navigation, the patient's complication rate is checked and compared with the past control group.</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">36</enrollment>
+  <condition>Surgery</condition>
+  <condition>Gastric Cancer</condition>
+  <arm_group>
+    <arm_group_label>RUS (Surgical navigation, anatomy 3D-reconstruction)</arm_group_label>
+    <description>single-arm study : prospective observational 1-arm (RUS group)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>RUS(TM) software : surgical navigation</intervention_name>
+    <description>This clinical trial is a sponsor-led clinical trial, and it is intended to confirm that RUS™, a surgical navigation system certified for level 2 endoscopic imaging treatment planning software, can be applied to real people as a clinical study by using preoperative CT and to confirm the safety of surgery. In addition, the secondary research objective was to examine the accuracy of the intra-abdominal surgical navigation system provided by RUS™ including: 1) the accuracy of the undulation prediction model, 2) the accuracy of the trocar insertion position, 3) the adequacy of 3D reconstruction of the main vessels, 4) the accuracy of the major vessel branching distances, 5) the intraoperative bleeding volume and operating time, and 6) the postoperative hospitalization period and complication rate were compared with the past control group.</description>
+    <arm_group_label>RUS (Surgical navigation, anatomy 3D-reconstruction)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Diagnosed as gastric cancer Patients who will be carried out Robotic Gastrectomy in Yonsei&#xD;
+        University Health System, Severance Hospital&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Among the subjects, the subjects are selected according to the following criteria:&#xD;
+&#xD;
+               1. Those who have been diagnosed with gastric cancer and are scheduled for robotic&#xD;
+                  total gastrectomy;&#xD;
+&#xD;
+               2. A person who is 18 years of age or older and able to make independent judgment on&#xD;
+                  their own;&#xD;
+&#xD;
+               3. A person who can have a CT scan according to the established protocol;&#xD;
+&#xD;
+               4. Before participating in the clinical trial, an interview was conducted in an&#xD;
+                  independent space, the purpose and contents of the clinical trial were fully&#xD;
+                  explained, and the consent to participate in this study was voluntarily given&#xD;
+                  (approved by the institutional research ethics review committee) and those who&#xD;
+                  signed.&#xD;
+&#xD;
+                  For reference, internal employees and immediate family members can also&#xD;
+                  participate in this study unless there is a special reason for exclusion.&#xD;
+&#xD;
+                  Exclusion Criteria:&#xD;
+&#xD;
+          -  If any of the following exclusion criteria are met among the subjects, participants&#xD;
+             will be excluded from this clinical trial:&#xD;
+&#xD;
+               1. Vulnerable subjects (those who lack medical ability, or are illiterate, pregnant,&#xD;
+                  newborns, minors (under 18), etc.);&#xD;
+&#xD;
+               2. Persons who cannot have a CT scan according to the prescribed protocol prior to&#xD;
+                  gastric cancer surgery (contrast agent allergy, creatinine 1.5 times the normal&#xD;
+                  maximum, claustrophobia, etc.);&#xD;
+&#xD;
+               3. Persons whose major artery/venous structure in the stomach or abdominal cavity&#xD;
+                  has been altered due to previous surgery (due to gastric cancer or other&#xD;
+                  abdominal surgery);&#xD;
+&#xD;
+               4. Persons with residual gastric cancer with a history of gastric surgery;&#xD;
+&#xD;
+               5. Persons who did not consent to this study or who withdrew consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Yu Min Kim, Professor</last_name>
+    <phone>+82-2-2228-2100</phone>
+    <email>ymkim@yuhs.ac</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Yonsei University Health System Severance Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03722</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Yu Min Kim, Professor</last_name>
+      <phone>02-2228-2100</phone>
+      <email>ymkim@yuhs.ac</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <reference>
+    <citation>Bano J, Hostettler A, Nicolau SA, Cotin S, Doignon C, Wu HS, Huang MH, Soler L, Marescaux J. Simulation of pneumoperitoneum for laparoscopic surgery planning. Med Image Comput Comput Assist Interv. 2012;15(Pt 1):91-8.</citation>
+    <PMID>23285539</PMID>
+  </reference>
+  <reference>
+    <citation>Nimura Y, Di Qu J, Hayashi Y, Oda M, Kitasaka T, Hashizume M, Misawa K, Mori K. Pneumoperitoneum simulation based on mass-spring-damper models for laparoscopic surgical planning. J Med Imaging (Bellingham). 2015 Oct;2(4):044004. doi: 10.1117/1.JMI.2.4.044004. Epub 2015 Dec 17.</citation>
+    <PMID>26697510</PMID>
+  </reference>
+  <reference>
+    <citation>Nasajiyan N, Javaherfourosh F, Ghomeishi A, Akhondzadeh R, Pazyar F, Hamoonpou N. Comparison of low and standard pressure gas injection at abdominal cavity on postoperative nausea and vomiting in laparoscopic cholecystectomy. Pak J Med Sci. 2014 Sep;30(5):1083-7. doi: 10.12669/pjms.305.5010.</citation>
+    <PMID>25225531</PMID>
+  </reference>
+  <reference>
+    <citation>Dawda S, Camara M, Pratt P, Vale J, Darzi A, Mayer E. Patient-Specific Simulation of Pneumoperitoneum for Laparoscopic Surgical Planning. J Med Syst. 2019 Sep 10;43(10):317. doi: 10.1007/s10916-019-1441-z.</citation>
+    <PMID>31506884</PMID>
+  </reference>
+  <reference>
+    <citation>Oktay O, Zhang L, Mansi T, Mountney P, Mewes P, Nicolau S, Soler L, Chefd'hotel C. Biomechanically driven registration of pre- to intra-operative 3D images for laparoscopic surgery. Med Image Comput Comput Assist Interv. 2013;16(Pt 2):1-9.</citation>
+    <PMID>24579117</PMID>
+  </reference>
+  <reference>
+    <citation>Mori K, Sakuma I, Sato Y, Barillot C, Navab N. Preface. The 16th international conference on medical image computing and computer-assisted intervention-MICCAI 2013. Med Image Comput Comput Assist Interv. 2013;16(Pt 1):V-VIII.</citation>
+    <PMID>24505641</PMID>
+  </reference>
+  <results_reference>
+    <citation>Kim YM, Baek SE, Lim JS, Hyung WJ. Clinical application of image-enhanced minimally invasive robotic surgery for gastric cancer: a prospective observational study. J Gastrointest Surg. 2013 Feb;17(2):304-12. doi: 10.1007/s11605-012-2094-0. Epub 2012 Dec 1.</citation>
+    <PMID>23207683</PMID>
+  </results_reference>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>August 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 9, 2021</study_first_posted>
+  <last_update_submitted>September 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Surgical navigation</keyword>
+  <keyword>Robotic gastrectomy</keyword>
+  <keyword>Image-guided surgery</keyword>
+  <keyword>Anatomy 3D-reconstruction</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stomach Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

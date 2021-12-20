@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5947">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05083806</url>
+  </required_header>
+  <id_info>
+    <org_study_id>238_21 B</org_study_id>
+    <nct_id>NCT05083806</nct_id>
+  </id_info>
+  <brief_title>MSOT in Pompe Disease</brief_title>
+  <acronym>SPOT_PD</acronym>
+  <official_title>Multispectral Optoacoustic Tomography for Translational Molecular Imaging in Pompe Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Erlangen-Nürnberg Medical School</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Erlangen-Nürnberg Medical School</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In patients with Pompe disease (PD) a progressive abnormal lysosomal glycogen storage in&#xD;
+      muscle tissue leads to impaired muscle function and to degeneration of muscle fibers.&#xD;
+      Children and adults with PD present with limb-girdle muscular weakness, diaphragm weakness&#xD;
+      and impaired breathing ability. Further, patients with classic infantile PD suffer from&#xD;
+      hypertrophic cardiomyopathy. To date, the muscle pathology and the extent of the disease can&#xD;
+      be assessed using invasive techniques (e.g., muscle biopsies) or imaging (e.g., MRI). These&#xD;
+      techniques are time consuming, and especially in young patients, require anesthesia, which&#xD;
+      increases the acute risk of respiratory failure.&#xD;
+&#xD;
+      Multispectral optoacoustic tomography (MSOT) allows the detection of specific endogenous&#xD;
+      chromophores like collagen, myoglobin or hemoglobin by using a non-invasive approach&#xD;
+      comparable to conventional ultrasound. Instead of sound waves, MSOT illuminates tissue with&#xD;
+      near-infrared light of transient energy, which is absorbed and results in thermo-elastic&#xD;
+      expansion of certain molecules. This expansion generates ultrasound waves that are detected&#xD;
+      by the same device. Multispectral illumination and unmixing then allows the precise&#xD;
+      localisation and quantification of muscle-specific subcellular structures. MSOT has already&#xD;
+      been demonstrated the potential to visualize the muscular structure and the clinical extent&#xD;
+      of muscular disease in patients with Duchenne muscle dystrophy and differentiates those&#xD;
+      patients from healthy volunteers.&#xD;
+&#xD;
+      The aim of the study is to establish glycogen as a novel PD-specific imaging target using&#xD;
+      MSOT-imaging. Furthermore, we will apply MSOT-imaging to identify a PD-specific muscle&#xD;
+      pathology-signature by quantification of already established targets (collagen, myoglobin,&#xD;
+      hemoglobin, glycogen if applicable). This signature will aid in differentiating PD from other&#xD;
+      muscular pathologies and healthy volunteers and will ultimately serve as a potential&#xD;
+      non-invasive monitoring biomarker.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Pompe disease (PD) is a rare, autosomal-recessive disorder caused by deficiency of the&#xD;
+      lysosomal acid alpha-glucosidase enzyme (GAA), leading to generalized build-up of glycogen,&#xD;
+      especially in the heart, muscle, liver and nervous system (Pompe, 1932, Hers, 1963). Among&#xD;
+      the glycogen storage diseases, PD is the only one with a defect in lysosomal metabolism.&#xD;
+&#xD;
+      PD is considered as a progressive disease with variation by age of onset, severity of organ&#xD;
+      involvement and degree of myopathy. This great phenotypic variability has led to the creation&#xD;
+      of types based on the age of onset and degree of organ involvement. They all have in common,&#xD;
+      that symptoms of affected patients are expected to worsen over time if left untreated. The&#xD;
+      classification is generally based on the age of onset as infantile (infantile onset Pompe&#xD;
+      disease, IOPD) when it presents during the first 12 months of life and late-onset (LOPD) when&#xD;
+      first symptoms appear after 12 months of age. If cardiomyopathy is present, IODP is generally&#xD;
+      referred to as classic Pompe disease (however there may be variably classification in the&#xD;
+      literature with the infantile or childhood forms). Clinically, infants with classic PD&#xD;
+      present during the first few months of life with rapidly progressive disease characterized by&#xD;
+      prominent hypertrophic cardiomyopathy, hepatomegaly, hypotonia, generalized muscle weakness,&#xD;
+      macroglossia, feeding difficulties and respiratory insufficiency. Mortality rate is high by&#xD;
+      one year of age if untreated (Kishnani 2004, 2006). Patients with non-classic PD will usually&#xD;
+      present within the first year of life with motor developmental delay and weakness, but&#xD;
+      without clinically relevant cardiac involvement. The rate of clinical progression is slower&#xD;
+      in these children and without treatment, death will usually occur in childhood as a result of&#xD;
+      respiratory insufficiency (Hers 1963, Slonim 2000). LODP include childhood and adult-onset&#xD;
+      PD. These patients generally present with slowly progressive limb girdle type weakness and&#xD;
+      respiratory insufficiency without significant cardiomyopathy (Cupler 2012, Preisler 2013).&#xD;
+      The diagnosis of PD is usually established by the typical clinical presentation, followed by&#xD;
+      confirmation of GAA deficiency in dried blood spots, e.g. through new-born screening&#xD;
+      (Bodamer, 2017). Further (confirmatory) methods include GAA activity measurement in&#xD;
+      lymphocytes, muscle or skin fibroblasts, as well as GAA mutation testing (Van den Hout, 2003,&#xD;
+      Case, 2012). All of them are invasive techniques. Early identification is important as it&#xD;
+      will likely significantly improve the outcome for all patients with PD as treatment can be&#xD;
+      initiated earlier. Treating the underlying cause of PD involves the replacement of the&#xD;
+      missing enzyme GAA via enzyme replacement therapy (ERT) with alglucosidase alfa (recombinant&#xD;
+      human GAA, rhGAA). Currently, this is the only specific treatment approved for PD. In&#xD;
+      classical IOPD, treatment significantly lengthens survival and improves motor development and&#xD;
+      respiratory and cardiac function (Kishnani, 2007). The sooner ERT begins, the better are the&#xD;
+      results (Chien, 2013). With ERT being one very important aspect of care, patients will also&#xD;
+      need a multidisciplinary approach to ensure that all aspects of the disease are addressed.&#xD;
+&#xD;
+      Regardless of age of onset and severity, all patients with PD should be monitored&#xD;
+      prospectively (Kishnani, 2006, Bembi, 2008). However, there is lack of standardization across&#xD;
+      centers. A variety of clinical evaluations and tests are currently used for monitoring&#xD;
+      Pompe's disease, which may include laboratory tests including CK, AST, ALT, and LDH,&#xD;
+      cardiologic tests including electrocardiogram and echocardiogram and respiratory tests&#xD;
+      including sleep studies and breathing tests to measure lung capacity. To quantify muscle&#xD;
+      involvement electromyography is an option as well as clinical tests including 6 minutes&#xD;
+      walking test or timed to up and go test. Muscle MRI of affected patients often show fatty&#xD;
+      degeneration of muscles. One study showed that muscle MRI correlates with muscle function in&#xD;
+      patients with adult-onset Pompe disease (Figueroa-Bonaparte, 2016). Another study suggested&#xD;
+      that muscle imaging data in late-onset Pompe disease reveal a correlation between the&#xD;
+      pre-existing degree of lipomatous muscle alterations and the efficacy of long-term enzyme&#xD;
+      replacement therapy (Gruhn, 2015). For small children, however, there is always a need for&#xD;
+      sedation for MRI's, limiting its use. Therefore, ultrasound is another option to examine&#xD;
+      children's muscles.&#xD;
+&#xD;
+      At the moment there are no prospective biomarkers available to detect muscle degeneration at&#xD;
+      an early age and/or to follow up disease progression or ERT-treated patients. Within the last&#xD;
+      years our multidisciplinary research team (Medical Department 1, Department of Pediatrics and&#xD;
+      Adolescent Medicine, University Hospital Erlangen) published a novel non-invasive imaging&#xD;
+      modality to be able to detect subcellular tissue composition in vivo. Multi-spectral&#xD;
+      optoacoustic tomography (MSOT), an imaging technology comparable to ultrasound, allows&#xD;
+      quantitative imaging in patients of all ages (including the non-sedated child).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2021</start_date>
+  <completion_date type="Anticipated">December 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Optoacoustic Absorption Spectrum of Muscle and liver in PD</measure>
+    <time_frame>30 minutes, 1 Visit</time_frame>
+    <description>Difference in optoacoustic spectrum in patients compared to healthy volunteers</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Quantitative glycogen signal (in arbitrary units)</measure>
+    <time_frame>30 minutes, 1 Visit</time_frame>
+    <description>Difference of quantitative glycogen signal in Pompe disease patients compared to muscular dystrophy and healthy control</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quantitative lipid signal (in arbitrary units)</measure>
+    <time_frame>30 minutes, 1 Visit</time_frame>
+    <description>Difference of quantitative lipid signal in Pompe disease patients compared to muscular dystrophy and healthy control</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quantitative collagen signal (in arbitrary units)</measure>
+    <time_frame>30 minutes, 1 Visit</time_frame>
+    <description>Difference of collagen lipid signal in Pompe disease patients compared to muscular dystrophy and healthy control</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quantitative hemo/myoglobin signal (in arbitrary units)</measure>
+    <time_frame>30 minutes, 1 Visit</time_frame>
+    <description>Difference of hemo/myoglobin lipid signal in Pompe disease patients compared to muscular dystrophy and healthy control</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Muscle oxygenation (in %)</measure>
+    <time_frame>30 minutes, 1 Visit</time_frame>
+    <description>Difference of muscle oxygenation in Pompe disease patients compared to muscular dystrophy and healthy control</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heckmatt scale</measure>
+    <time_frame>30 minutes, 1 Visit</time_frame>
+    <description>Difference of Heckmatt scale in Pompe disease patients compared to muscular dystrophy and healthy control</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Echogenitiy</measure>
+    <time_frame>30 minutes, 1 Visit</time_frame>
+    <description>Difference of Echogenitiy in Pompe disease patients compared to muscular dystrophy and healthy control</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gray Scale Level</measure>
+    <time_frame>30 minutes, 1 Visit</time_frame>
+    <description>Difference of Gray Scale Level in Pompe disease patients compared to muscular dystrophy and healthy control</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>R-PaAt scale</measure>
+    <time_frame>30 minutes, 1 Visit</time_frame>
+    <description>Difference of R-PaAt scale in Pompe disease patients compared to muscular dystrophy and healthy control</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Revised Upper Limb Module (RULM)</measure>
+    <time_frame>1 hour, 1 Visit</time_frame>
+    <description>Correlation of glycogen detected by MSOT with clinical scores</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MRC Muscle Strength Grades</measure>
+    <time_frame>1 hour, 1 Visit</time_frame>
+    <description>Correlation of glycogen detected by MSOT with clinical scores</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Pompe Disease</condition>
+  <condition>Pompe Disease (Late-onset)</condition>
+  <condition>Pompe's Disease Juvenile Onset</condition>
+  <condition>Pompe Disease Infantile-Onset</condition>
+  <arm_group>
+    <arm_group_label>Pompe disease</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Actual condition</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Muscular dystrophy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Different known condition</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy volunteer</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Healthy control</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Multispectral Optoacoustic Tomography</intervention_name>
+    <description>Non-invasive optoacoustic imaging of muscular structure</description>
+    <arm_group_label>Healthy volunteer</arm_group_label>
+    <arm_group_label>Muscular dystrophy</arm_group_label>
+    <arm_group_label>Pompe disease</arm_group_label>
+    <other_name>MSOT</other_name>
+    <other_name>MSOT Echo</other_name>
+    <other_name>MSOT Echo CE</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Pompe disease:&#xD;
+&#xD;
+          -  Confirmed diagnosis of Pompe disease&#xD;
+&#xD;
+          -  From 18 years of Age&#xD;
+&#xD;
+          -  Independent from current therapy&#xD;
+&#xD;
+        Muscular dystrophy:&#xD;
+&#xD;
+          -  Genetically confirmed diagnosis&#xD;
+&#xD;
+          -  From 18 years of Age&#xD;
+&#xD;
+          -  Independent from current therapy&#xD;
+&#xD;
+        Health volunteer:&#xD;
+&#xD;
+          -  From 18 years of Age, matched (age, gender) to PD collective&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Pompe disease:&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Tattoo on skin to be examined&#xD;
+&#xD;
+        Muscular dystrophy:&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Tattoo on skin to be examined&#xD;
+&#xD;
+        Health volunteer:&#xD;
+&#xD;
+          -  Anamnestic of other signs of myopathy or liver disease&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Tattoo on skin to be examined&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Regina Trollmann, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>University Hospital Erlangen</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ferdinand Knieling, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>University Hospital Erlangen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alexandra L. Wagner, MD</last_name>
+    <phone>+49913185</phone>
+    <phone_ext>33118</phone_ext>
+    <email>alexandra.l.wagner@uk-erlangen.de</email>
+  </overall_contact>
+  <reference>
+    <citation>HERS HG. alpha-Glucosidase deficiency in generalized glycogenstorage disease (Pompe's disease). Biochem J. 1963 Jan;86:11-6.</citation>
+    <PMID>13954110</PMID>
+  </reference>
+  <reference>
+    <citation>Cupler EJ, Berger KI, Leshner RT, Wolfe GI, Han JJ, Barohn RJ, Kissel JT; AANEM Consensus Committee on Late-onset Pompe Disease. Consensus treatment recommendations for late-onset Pompe disease. Muscle Nerve. 2012 Mar;45(3):319-33. doi: 10.1002/mus.22329. Epub 2011 Dec 15. Review.</citation>
+    <PMID>22173792</PMID>
+  </reference>
+  <reference>
+    <citation>Kishnani PS, Steiner RD, Bali D, Berger K, Byrne BJ, Case LE, Crowley JF, Downs S, Howell RR, Kravitz RM, Mackey J, Marsden D, Martins AM, Millington DS, Nicolino M, O'Grady G, Patterson MC, Rapoport DM, Slonim A, Spencer CT, Tifft CJ, Watson MS. Pompe disease diagnosis and management guideline. Genet Med. 2006 May;8(5):267-88. Erratum in: Genet Med. 2006 Jun;8(6):382. ACMG Work Group on Management of Pompe Disease [removed]; Case, Laura [corrected to Case, Laura E].</citation>
+    <PMID>16702877</PMID>
+  </reference>
+  <reference>
+    <citation>Knieling F, Neufert C, Hartmann A, Claussen J, Urich A, Egger C, Vetter M, Fischer S, Pfeifer L, Hagel A, Kielisch C, Görtz RS, Wildner D, Engel M, Röther J, Uter W, Siebler J, Atreya R, Rascher W, Strobel D, Neurath MF, Waldner MJ. Multispectral Optoacoustic Tomography for Assessment of Crohn's Disease Activity. N Engl J Med. 2017 Mar 30;376(13):1292-1294. doi: 10.1056/NEJMc1612455.</citation>
+    <PMID>28355498</PMID>
+  </reference>
+  <reference>
+    <citation>Regensburger AP, Fonteyne LM, Jüngert J, Wagner AL, Gerhalter T, Nagel AM, Heiss R, Flenkenthaler F, Qurashi M, Neurath MF, Klymiuk N, Kemter E, Fröhlich T, Uder M, Woelfle J, Rascher W, Trollmann R, Wolf E, Waldner MJ, Knieling F. Detection of collagens by multispectral optoacoustic tomography as an imaging biomarker for Duchenne muscular dystrophy. Nat Med. 2019 Dec;25(12):1905-1915. doi: 10.1038/s41591-019-0669-y. Epub 2019 Dec 2.</citation>
+    <PMID>31792454</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 19, 2021</study_first_posted>
+  <last_update_submitted>October 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Erlangen-Nürnberg Medical School</investigator_affiliation>
+    <investigator_full_name>Ferdinand Knieling</investigator_full_name>
+    <investigator_title>Study director</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glycogen Storage Disease Type II</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

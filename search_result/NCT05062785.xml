@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7564">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05062785</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HUM00171279</org_study_id>
+    <nct_id>NCT05062785</nct_id>
+  </id_info>
+  <brief_title>Dose-Finding Study of Intranasal Insulin in Healthy Participants Insulin in Healthy Participants</brief_title>
+  <official_title>Phase 1, Open Label Dose-Finding Study of Intranasal Insulin in Healthy Participants</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Robert Silbergleit</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>American Heart Association</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Michigan</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is to determine the safety and tolerability of regular insulin (Humulin R) when&#xD;
+      given intranasally (as drops in nostrils).&#xD;
+&#xD;
+      Healthy participants will be enrolled to determine the maximum tolerated dose of intranasal&#xD;
+      insulin.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is being studied because intranasal insulin may be a way to prevent the brain injury&#xD;
+      that occurs after a cardiac arrest. Cardiac arrest is a life-threatening condition in which&#xD;
+      the heart suddenly stops beating and there is no blood flow to the body. If cardiac arrest is&#xD;
+      not treated immediately, it causes sudden death. Even when immediate treatment gets the heart&#xD;
+      beating again, many victims remain comatose and die later from brain injury. Nasal insulin,&#xD;
+      given immediately after a cardiac arrest may prevent or reduce brain injury. Nasal insulin&#xD;
+      reduces brain injury in animal experiments, and has been used to try to improve brain&#xD;
+      degeneration in patients with Alzheimer's disease. However, cardiac arrest patients may need&#xD;
+      higher doses than patients with Alzheimer's disease, therefore, this study is to examine&#xD;
+      those higher doses.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 4, 2021</start_date>
+  <completion_date type="Anticipated">October 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>For every 6 participants, iterations of a Bayesian model will be performed to associate the administered dose with the frequency of dose-limiting hypoglycemia or other adverse events. The model will adaptively reallocate the dose increments for the next 6 participants. To provide more precise and reproducible estimates of dose-limiting toxicity, the trial will modify the size of dose increments based on the developing model to allocate more administrations to areas of the model with greatest uncertainty, or to higher doses in the absence of dose-limiting hypoglycemia.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Severe Hypoglycemia as defined by blood glucose &lt; 45 milligrams per deciliter (mg/dL)</measure>
+    <time_frame>Up to 4 hours after drug administration</time_frame>
+    <description>Severe Hypoglycemia will be considered a dose limiting toxicity (DLT).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in blood glucose</measure>
+    <time_frame>Baseline, up to 4 hours after drug administration</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in serum insulin</measure>
+    <time_frame>Baseline, up to 4 hours after drug administration</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in serum C-peptide levels</measure>
+    <time_frame>Baseline, up to 4 hours after drug administration</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">24</enrollment>
+  <condition>Out-Of-Hospital Cardiac Arrest</condition>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Intranasal insulin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A total of 11 possible doses will be tested, ranging from 0 to 1000 U insulin.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Intranasal insulin</intervention_name>
+    <description>This will be given intranasally at differing doses depending on study day. A total of 11 possible doses will be tested, ranging from 0 to 1000 U insulin. Each volunteer will come for 5 visits.&#xD;
+On the first treatment day participants will receive placebo (sterile water) in each nostril followed by a 4-hour observation period. After this observation period participants will receive the initial dose of insulin squirted in each nostril followed by a a 4 hour observation period. Participants will have at least 7 days in between the other 4 visits. Subsequent visits will include increased doses of insulin (depending on how this is tolerated) and will take approximately 4 hours at these visits.</description>
+    <arm_group_label>Intranasal insulin</arm_group_label>
+    <other_name>HUMULIN R U-500</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Good health based on medical history, physical exam, and routine laboratory testing.&#xD;
+&#xD;
+          -  Female participants must have negative urine pregnancy test or be surgically&#xD;
+             sterilized or postmenopausal. Criteria for menopause are surgical menopause&#xD;
+             (hysterectomy, oophorectomy) or age &gt; 45 years with the absence of menses for greater&#xD;
+             than 12 months. Tubal ligation with menses within the past 12 months is not considered&#xD;
+             to be surgical sterilization.&#xD;
+&#xD;
+          -  Body mass index (BMI) between 18 kilogram / square meter (kg/m2) and 35 kg/m2.&#xD;
+&#xD;
+          -  Willing and able to stay at the clinical research facility as required by the protocol&#xD;
+&#xD;
+          -  Willing and able to comply with the investigational nature of the study and able to&#xD;
+             communicate well with investigators&#xD;
+&#xD;
+          -  Ability to comprehend and willing to provide written informed consent in accordance&#xD;
+             with institutional and regulatory guidelines&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Known allergy to insulin.&#xD;
+&#xD;
+          -  Preexisting diabetes.&#xD;
+&#xD;
+          -  Current or previous use of diabetes medication or insulin.&#xD;
+&#xD;
+          -  Any nasal disease or congestion that may interfere with intranasal drug absorption.&#xD;
+&#xD;
+          -  Baseline hypoglycemia (blood glucose ≤ 65 mg/dL) or hyperglycemia (blood glucose &gt; 200&#xD;
+             mg/dL) as evident from the screening labs.&#xD;
+&#xD;
+          -  Active serious disease, such as liver disease, kidney disease, uncontrolled&#xD;
+             hypertension, clinically significant hypokalemia, and significant or unstable medical&#xD;
+             illness&#xD;
+&#xD;
+          -  Blood donation in excess of 500 milliliter (mL) within 60 days prior to the first dose&#xD;
+             of study medication.&#xD;
+&#xD;
+          -  Treated with an investigational drug within 30 days.&#xD;
+&#xD;
+          -  Individuals with inadequate venous access.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robert Silbergleit, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Michigan</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jennifer Fowler, RN</last_name>
+    <phone>734-615-4626</phone>
+    <email>jenfow@med.umich.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Robert Silbergleit, MD</last_name>
+    <phone>734-232-2142</phone>
+    <email>robie@umich.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jennifer Fowler, RN</last_name>
+      <phone>734-615-4626</phone>
+      <email>jenfow@med.umich.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 20, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 30, 2021</study_first_posted>
+  <last_update_submitted>November 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Michigan</investigator_affiliation>
+    <investigator_full_name>Robert Silbergleit</investigator_full_name>
+    <investigator_title>Professor of Emergency Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Healthy participants</keyword>
+  <keyword>intranasal insulin</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Out-of-Hospital Cardiac Arrest</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Insulin</mesh_term>
+    <mesh_term>Insulin, Globin Zinc</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

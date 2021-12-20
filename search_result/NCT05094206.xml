@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5147">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05094206</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PRO00041528</org_study_id>
+    <nct_id>NCT05094206</nct_id>
+  </id_info>
+  <brief_title>CAR20.19.22 T-cells in Relapsed, Refractory B-cell Malignancies</brief_title>
+  <official_title>Phase I Trial of Anti-CD20, Anti-CD19, Anti-CD22 CAR (CAR20.19.22) T-cells for Relapsed, Refractory B-cell Malignancies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical College of Wisconsin</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Medical College of Wisconsin</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this phase I study, we will first demonstrate the safety of CAR20.19.22 T-cells expanded&#xD;
+      with interleukin-7 (IL-7) and Interleukin-15 (IL-15) in patients with B-cell non-Hodgkin&#xD;
+      lymphoma (NHL) / chronic lymphocytic leukemia (CLL) as means to achieve complete B-cell&#xD;
+      ablation and limit relapse from antigen loss.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a phase I, interventional, open label, dose-finding treatment study designed to&#xD;
+      evaluate the safety and efficacy of IL-7/IL-15 manufactured CAR T-cells in adult patients&#xD;
+      with B-cell malignancies that have failed prior therapies.&#xD;
+&#xD;
+      After the maximal tolerated dose (MTD) is determined, an additional dose-expansion cohort of&#xD;
+      up to 12 patients may be enrolled at that dose to further describe the safety and preliminary&#xD;
+      efficacy of that dose.&#xD;
+&#xD;
+      CAR20.19.22 T-cells will be administered either fresh or thawed after cryopreservation by IV&#xD;
+      injection. Patients will receive one of three dose levels of CAR20.19.22 T-cells based on our&#xD;
+      dose escalation design.&#xD;
+&#xD;
+      B-cell NHL and CLL Cohort&#xD;
+&#xD;
+        -  Dose Level -1: 0.75x10^6 cells/kg&#xD;
+&#xD;
+        -  Dose Level 0: 1x10^6 cells/kg (STARTING DOSE)&#xD;
+&#xD;
+        -  Dose Level 1: 2.5x10^6 cells/kg&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2022</start_date>
+  <completion_date type="Anticipated">February 2026</completion_date>
+  <primary_completion_date type="Anticipated">February 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Non-hematologic Adverse Events after Infusion</measure>
+    <time_frame>28 days after infusion</time_frame>
+    <description>Occurrence of adverse events will be defined as non-hematologic Grade 3/4 toxicity grade per NCI CTCAE version 5.0.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of grade 3-4 cytokine release syndrome (CRS).</measure>
+    <time_frame>28 days after infusion</time_frame>
+    <description>Grade 3-4 CRS as graded per the recent Transplant and Cell Therapy (TCT) consensus criteria that are possibly, probably or definitely related to study treatment and do not resolve to ≤grade 2 by Day 28 post-infusion. The TCT consensus criteria will be used for patients who develop CRS.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of grade 3-4 immune effector cell-associated neurotoxicity syndrome (ICANS)</measure>
+    <time_frame>28 days after infusion</time_frame>
+    <description>Grade 3-4 as graded per the recent Transplant and Cell Therapy (TCT) consensus criteria that are possibly, probably or definitely related to study treatment and do not resolve to ≤grade 2 by Day 28 post-infusion.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">24</enrollment>
+  <condition>B-cell Non Hodgkin Lymphoma</condition>
+  <condition>B-cell Chronic Lymphocytic Leukemia</condition>
+  <arm_group>
+    <arm_group_label>Dose Level -1: 0.75x10^6 cells/kg : CAR20.19.22</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects who have adequate T-cells as per eligibility criteria will be leukopheresed to obtain an mononuclear cells (MNC) apheresis product for CAR20.19.22 T- manufacturing. The apheresis product will be washed free of platelets and plasma and the cluster of differentiation 4 (CD4)+ and cluster of differentiation 8 (CD8)+ T-cells will be purified from the MNC, activated through the cluster of differentiation 3 (CD3) and cluster of differentiation (CD28) antigens, then transduced with the CAR20.19.22 lentiviral vector. The cells will be expanded in vitro with interleukin-7 (IL-7) / interleukin-15 (IL-15), washed from culture, removed from the device, and either administered to the patient within 48 hours of production or cryopreserved for later administration. Patients will receive one of three dose levels of CAR20.19.22 T-cells based on our dose escalation design.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dose Level 0: 1x10^6 cells/kg (STARTING DOSE) : CAR20.19.22</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects who have adequate T-cells as per eligibility criteria will be leukopheresed to obtain an MNC apheresis product for CAR20.19.22 T- manufacturing. The apheresis product will be washed free of platelets and plasma and the CD4+ and CD8+ T-cells will be purified from the MNC, activated through the CD3 and CD28 antigens, then transduced with the CAR20.19.22 lentiviral vector. The cells will be expanded in vitro with IL-7/IL-15, washed from culture, removed from the device, and either administered to the patient within 48 hours of production or cryopreserved for later administration. Patients will receive one of three dose levels of CAR20.19.22 T-cells based on our dose escalation design.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dose Level 1: 2.5x10^6 cells/kg : CAR20.19.22</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects who have adequate T-cells as per eligibility criteria will be leukopheresed to obtain an MNC apheresis product for CAR20.19.22 T- manufacturing. The apheresis product will be washed free of platelets and plasma and the CD4+ and CD8+ T-cells will be purified from the MNC, activated through the CD3 and CD28 antigens, then transduced with the CAR20.19.22 lentiviral vector. The cells will be expanded in vitro with IL-7/IL-15, washed from culture, removed from the device, and either administered to the patient within 48 hours of production or cryopreserved for later administration. Patients will receive one of three dose levels of CAR20.19.22 T-cells based on our dose escalation design.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CAR20.19.22 cells 0.75x10^6 cells/kg</intervention_name>
+    <description>CAR20.19.22 cells will be administered either fresh or thawed after cryopreservation by IV injection.</description>
+    <arm_group_label>Dose Level -1: 0.75x10^6 cells/kg : CAR20.19.22</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CAR20.19.22 cells 1x10^6 cells/kg</intervention_name>
+    <description>CAR20.19.22 cells will be administered either fresh or thawed after cryopreservation by IV injection.</description>
+    <arm_group_label>Dose Level 0: 1x10^6 cells/kg (STARTING DOSE) : CAR20.19.22</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CAR20.19.22 cells 2.5x10^6 cells/kg</intervention_name>
+    <description>CAR20.19.22 cells will be administered either fresh or thawed after cryopreservation by IV injection.</description>
+    <arm_group_label>Dose Level 1: 2.5x10^6 cells/kg : CAR20.19.22</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients must be aged≥18 years with relapsed or refractory B-cell non-Hodgkin Lymphoma&#xD;
+             or chronic lymphocytic leukemia.&#xD;
+&#xD;
+          2. Absolute CD3 count ≥50 mm^3.&#xD;
+&#xD;
+          3. MRI brain and lumbar puncture with cerebral spinal fluid (CSF) analysis by cytology&#xD;
+             and flow cytometry without evidence of central nervous system (CNS) involvement ONLY&#xD;
+             in patients with history of CNS involvement or clinical suspicion at the time of&#xD;
+             enrollment.&#xD;
+&#xD;
+          4. Measurable disease must be documented within 4 weeks of the time of consent defined as&#xD;
+             nodal lesions &gt;15 mm in the long axis or extranodal lesions &gt;10 mm in long OR bone&#xD;
+             marrow involvement that is biopsy proven.&#xD;
+&#xD;
+          5. Karnofsky performance score ≥70.&#xD;
+&#xD;
+          6. Adequate hepatic function, defined as aspartate aminotransferase (AST) and alanine&#xD;
+             aminotransferase (ALT) ≤3 x upper limit of normal (ULN); serum bilirubin and alkaline&#xD;
+             phosphatase ≤3 x ULN, or considered not clinically significant as per the clinical&#xD;
+             PI's discretion (e.g., Gilbert's or indirect hyperbilirubinemia) or felt to be due to&#xD;
+             underlying disease.&#xD;
+&#xD;
+          7. ANC≥1000 with no G-CSF within 72 hours or pegylated G-CSF within 10 days&#xD;
+&#xD;
+          8. Platelets≥50,000 with no transfusion within 72 hours of eligibility testing&#xD;
+&#xD;
+          9. Adequate renal function, defined as creatinine clearance≥60 ml/min AND serum Cr≤1.5&#xD;
+             mg/dL&#xD;
+&#xD;
+         10. Able to provide written informed consent.&#xD;
+&#xD;
+         11. Agree to practice birth control during the study.&#xD;
+&#xD;
+         12. Adequate cardiac function as indicated by New York Heart Association (NYHA)&#xD;
+             classification I or II AND left ventricular ejection fraction of ≥45% (by cardiac&#xD;
+             echocardiogram or multigated acquisition scan) and adequate pulmonary function as&#xD;
+             indicated by room air oxygen saturation of ≥90%.&#xD;
+&#xD;
+         13. Expected survival &gt;12 weeks.&#xD;
+&#xD;
+         14. Negative urine or serum pregnancy test in females of child bearing potential at study&#xD;
+             entry.&#xD;
+&#xD;
+         15. Meet criteria for regarding fertility and contraception.&#xD;
+&#xD;
+         16. No contraindication to central line access.&#xD;
+&#xD;
+         17. Diagnosis of CLL or B-cell NHL including Follicular Lymphoma, Marginal Zone Lymphoma&#xD;
+             (splenic, nodal, extranodal), Mantle Cell Lymphoma, Burkitt Lymphoma, and DLBCL with&#xD;
+             associated subtypes (high-grade or aggressive B-cell lymphoma, T-cell/histocyte rich&#xD;
+             B-cell lymphoma, primary mediastinal B-cell lymphoma, Epstein-Barr virus (EBV)+&#xD;
+             diffuse large B-cell lymphoma, transformed lymphoma such as transformed follicular or&#xD;
+             marginal zone, and Richter's transformation).&#xD;
+&#xD;
+         18. For CLL patients, must have active, measurable disease (&gt;5% CLL involvement of marrow&#xD;
+             or nodal disease as noted above) and failed/progressed or been intolerant to both&#xD;
+             Bruton Tyrosine Kinase (BTK) inhibitors (ibrutinib, acalabruinitib, or zanabrutinib)&#xD;
+             and BCL2 inhibitors (e.g. venetoclax).&#xD;
+&#xD;
+         19. For B-cell NHL Patients must have active, measurable disease as defined and meet one&#xD;
+             of the following criteria:&#xD;
+&#xD;
+               1. Must have received an anti-CD20 monoclonal antibody and at minimum two different&#xD;
+                  chemotherapy regimens appropriate for their disease and be ineligible per&#xD;
+                  treating physician to receive autologous transplant&#xD;
+&#xD;
+               2. Relapse post-autologous transplant&#xD;
+&#xD;
+               3. Relapse post-allogeneic transplant&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Positive beta-human chorionic gonadotropin (HCG) in female of child-bearing potential&#xD;
+             defined as per table 1.&#xD;
+&#xD;
+          2. Confirmed active human immunodeficiency virus (HIV), Hepatitis B or C infection.&#xD;
+&#xD;
+          3. History of significant autoimmune disease OR active, uncontrolled autoimmune&#xD;
+             phenomenon requiring steroid therapy defined as &gt;20 mg of prednisone or equivalent&#xD;
+             daily.&#xD;
+&#xD;
+          4. Presence of ≥grade 3 non-hematologic toxicities as per CTCAE version 5.0 from any&#xD;
+             previous treatment unless it is felt to be due to underlying disease.&#xD;
+&#xD;
+          5. Concurrent use of investigational therapeutic agents or enrollment on another&#xD;
+             therapeutic clinical trial at any institution. Minimum of 14 days or 5 half-lives of&#xD;
+             the drug (whichever is shorter) washout prior to apheresis.&#xD;
+&#xD;
+          6. Refusal to participate in the long-term follow-up protocol.&#xD;
+&#xD;
+          7. Patients with active CNS involvement by malignancy on MRI or by lumbar puncture.&#xD;
+&#xD;
+             a. Patients with prior CNS disease that has been effectively treated will be eligible&#xD;
+             providing treatment was &gt;4 weeks before enrollment and a remission documented within 8&#xD;
+             weeks of planned CAR T-cell infusion by MRI brain and CSF analysis.&#xD;
+&#xD;
+          8. Previous recipients of allogeneic hematopoietic stem cell transplantation (AHCT) are&#xD;
+             excluded if they are &lt;100 days' post-transplant, have evidence of active&#xD;
+             graft-versus-host-disease (GVHD) of any grade, or are currently on immunosuppression.&#xD;
+&#xD;
+          9. Anti-CD20 directed treatment within 4 weeks of cell infusion.&#xD;
+&#xD;
+         10. Anti-CD19 directed treatment within 4 weeks of cell infusion.&#xD;
+&#xD;
+         11. Anti-CD22 directed treatment within 4 weeks of cell infusion&#xD;
+&#xD;
+         12. Cytotoxic chemotherapy other than lymphodepletion within 14 days of CAR T-cell&#xD;
+             infusion&#xD;
+&#xD;
+         13. Targeted oral agents or antibody directed treatment within 7 days of apheresis&#xD;
+&#xD;
+             a. Other than BTK inhibitors which can be continued until day prior to apheresis&#xD;
+&#xD;
+         14. Cytotoxic chemotherapy treatment within 10 days or steroid treatment (other than&#xD;
+             replacement dose steroids) within 7 days prior to apheresis collection for CAR&#xD;
+             T-cells.&#xD;
+&#xD;
+         15. Oral chemotherapeutic agents or antibody directed treatment within 7 days of apheresis&#xD;
+&#xD;
+             a. BTK inhibitors are allowed until 1-day prior to apheresis and can re-start until&#xD;
+             1-day prior to lymphodepletion&#xD;
+&#xD;
+         16. Patients post solid organ transplant who develop high grade lymphomas or leukemias.&#xD;
+&#xD;
+         17. Concurrent active malignancy other than basal or squamous cell carcinomas of the skin.&#xD;
+&#xD;
+         18. Prior anti-CD19, anti-CD20, or anti-CD22 CAR T-cell therapy (autologous or&#xD;
+             allogeneic).&#xD;
+&#xD;
+        Special Criteria for regarding Fertility and Contraception:&#xD;
+&#xD;
+        Female subjects of reproductive potential (women who have reached menarche or women who&#xD;
+        have not been post-menopausal for at least 24 consecutive months, i.e., who have had menses&#xD;
+        within the preceding 24 months, or have not undergone a sterilization procedure&#xD;
+        [hysterectomy or bilateral oophorectomy]) must have a negative serum or urine pregnancy&#xD;
+        test performed as part of eligibility criteria. Lactating women are eligible for this study&#xD;
+        but will be asked to not provide breast milk to their child from Day -4 through Day +90&#xD;
+        after CAR T-cell therapy. It is possible they may no longer be able to lactate after&#xD;
+        receiving chemotherapy and treatment.&#xD;
+&#xD;
+        Due to the high-risk level of this study, while enrolled, all subjects must agree not to&#xD;
+        participate in a conception process (e.g., active attempt to become pregnant or to&#xD;
+        impregnate, sperm donation, in vitro fertilization). Additionally, if participating in&#xD;
+        sexual activity that could lead to pregnancy, the study subject must agree to use reliable&#xD;
+        and double barrier methods of contraception during the follow-up period of the protocol.&#xD;
+&#xD;
+        Acceptable birth control includes a combination of two of the following methods:&#xD;
+&#xD;
+          -  Condoms (male or female) with or without a spermicidal agent.&#xD;
+&#xD;
+          -  Diaphragm or cervical cap with spermicide.&#xD;
+&#xD;
+          -  Intrauterine device (IUD).&#xD;
+&#xD;
+          -  Hormonal-based contraception.&#xD;
+&#xD;
+        Subjects who are not of reproductive potential (women who are premenarche or have been&#xD;
+        post-menopausal for at least 24 consecutive months or have undergone hysterectomy tubal&#xD;
+        ligation, salpingectomy, and/or bilateral oophorectomy or men who have documented&#xD;
+        azoospermia) are eligible without requiring the use of contraception.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nirav Shah, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical College of Wisconsin</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Medical College of Wisconsin Cancer Center Clinical Trials Office</last_name>
+    <phone>414-805-8900</phone>
+    <email>cccto@mcw.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Medical College of Wisconsin and Froedtert Hospital</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Nirav Shah, MD</last_name>
+      <phone>414-805-4600</phone>
+      <email>nishah@mcw.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 26, 2021</study_first_posted>
+  <last_update_submitted>October 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Medical College of Wisconsin</investigator_affiliation>
+    <investigator_full_name>Nirav Shah</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>B-cell antigens</keyword>
+  <keyword>B-cell Non Hodgkin Lymphoma</keyword>
+  <keyword>B-cell Chronic Lymphocytic Leukemia</keyword>
+  <keyword>CAR-T</keyword>
+  <keyword>Chimeric antigen receptor T-cell therapy</keyword>
+  <keyword>CAR Therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Leukemia, Lymphoid</mesh_term>
+    <mesh_term>Leukemia, Lymphocytic, Chronic, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

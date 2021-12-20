@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9867">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05032820</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BMT CTN 1902</org_study_id>
+    <secondary_id>2U10HL069294-11</secondary_id>
+    <nct_id>NCT05032820</nct_id>
+  </id_info>
+  <brief_title>MM CAR-T to Upgrade Response BMT CTN 1902</brief_title>
+  <official_title>Phase II Multicenter Trial of Anti-BCMA CAR T-Cell Therapy for MM Patients With Sub-Optimal Response After Auto HCT and Maintenance Len. BMT CTN 1902</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Marcelo Pasquini, MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Blood and Marrow Transplant Clinical Trials Network</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Marrow Donor Program</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Celgene a wholly owned subsidiary of BMS</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Medical College of Wisconsin</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is designed as a Phase II, multicenter, single arm trial to assess anti-B Cell&#xD;
+      Maturation Antigen (BCMA) chimeric antigen receptor (CAR) T-cells (bb2121) to improve post&#xD;
+      autologous hematopoietic cell transplant (HCT) responses among patients with multiple myeloma&#xD;
+      (MM).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      After meeting the eligibility criteria and enrolling on the trial, patients will undergo&#xD;
+      leukapheresis for collection of autologous lymphocytes, which will be sent to BMS/Celgene&#xD;
+      manufacturing facilities. Once cells have been manufactured, patients will then proceed to&#xD;
+      lymphodepleting chemotherapy with cyclophosphamide 300mg/m2 and fludarabine 30mg/m2 for 3&#xD;
+      consecutive days followed by the infusion of BCMA CAR T-cells at a target dose of 450 x106&#xD;
+      cells. Maintenance lenalidomide, starting at 10mg a day for 21 days of a 28-day cycle will be&#xD;
+      initiated at a minimum of at least 30 days, but no later than 180 days after the CAR T-cell&#xD;
+      infusion and will continue until the patient reaches 12 months post CAR T-cell infusion and&#xD;
+      continue free of progression&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2021</start_date>
+  <completion_date type="Anticipated">February 2025</completion_date>
+  <primary_completion_date type="Anticipated">April 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Assess anti-B Cell Maturation Antigen(BCMA) chimeric antigen receptor (CAR) T-cells (bb2121) to improve post autologous hematopoietic cell transplant (HCT) responses among patients with multiple myeloma (MM).</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Complete Response</measure>
+    <time_frame>1 Year</time_frame>
+    <description>Complete response or better (CR or sCR) as assessed by the 6-month time point after BCMA CAR T-cell therapy in MM patients with suboptimal disease responses after an autologous HCT and lenalidomide maintenance.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Disease Progression</measure>
+    <time_frame>1 Year</time_frame>
+    <description>Diseases will be assessed by response categories based on the International Myeloma Working Group: Stringent Complete Response (sCR), Complete Remission (CR), Very Good Partial Remission (VGPR), Partial Remission (PR), Minimal Response (MR), Stable Disease (SD).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Best Disease Response</measure>
+    <time_frame>1 Year</time_frame>
+    <description>Proportion of patients achieving upgrade in response following enrollment (SD to MR or greater, MR to PR or greater, or PR to VGPR or greater) and Conversion to MRD negativity. MRD will be assessed by multi-color flow at 10^5 level.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Non-Relapse Mortality</measure>
+    <time_frame>1 Year</time_frame>
+    <description>Non-Relapse Mortality (NRM) is defined as death occurring in a patient from causes other than disease relapse or progression. Disease progression is the competing event for NRM.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival</measure>
+    <time_frame>1 year</time_frame>
+    <description>Defined as progression of disease or death from any cause. Surviving patients without disease progression will be censored at the date of last contact.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cytokine Release Syndrome</measure>
+    <time_frame>1 Year</time_frame>
+    <description>Overall incidence of CRS of any grade and grade 3 or 4 CRS post CAR T-cell infusion will be reported on all patients.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prolonged Cytopenias</measure>
+    <time_frame>1 Year</time_frame>
+    <description>Overall incidence of prolonged cytopenias will be reported. Prolonged cytopenia is defined as failure to achieve ANC greater than 500/mm^3 or platelet count greater than 20,000/mm^3(with or without support) by 30 days post CAR T-cell infusion.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Neurotoxicity</measure>
+    <time_frame>1 Year</time_frame>
+    <description>Overall incidence of CAR T-cell related neurotoxicity per the ASBMT immune effector cell associated neurotoxicity syndrome (ICANS) Consensus Grading.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Incidence of toxicities greater than or equal to grade 3 per the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0</measure>
+    <time_frame>1 Year</time_frame>
+    <description>All Grade 3 or higher toxicities will be tabulated. The proportion of patients experiencing cytokine release syndrome CRS will be reported including overall and grades 3-4 based on the ASTCT grading.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Incidence of Infections</measure>
+    <time_frame>1 Year</time_frame>
+    <description>Incidence of definite and probable viral, fungal and bacterial infections will be tabulated for each patient.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Maintenance Feasibility</measure>
+    <time_frame>1 Year</time_frame>
+    <description>The feasibility of resuming maintenance following enrollment by 180 days after CAR T-cell infusion will be described. The proportion of patients initiating maintenance at 180 days follow ing bb2121 infusion will be reported.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>1 Year</time_frame>
+    <description>The event is death from any cause. The time to this event is the time from initial enrollment to sdeath, loss to follow-up, or the end of the study, whichever comes first.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>CAR T-cell Expansion</measure>
+    <time_frame>1 Year</time_frame>
+    <description>Quantitation of CAR T-cells in peripheral blood will be determined at specified timepoints by quantitative PCR assay, measured in copies/mcg genomic DNA. Peak CAR T-cell expansion will be compared between subjects who are and are not in CR at 12 months, and between subjects who are and are not progression-free at 12 months.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>CAR T-cell Persistence</measure>
+    <time_frame>1 Year</time_frame>
+    <description>Quantitation of CAR T-cells in peripheral blood will be determined at specified timepoints by quantitative PCR assay, measured in copies/mcg genomic DNA. Persistence will be measured in 2 ways:&#xD;
+as an area under the curve (AUC) over first 6 months post CAR T-cell infusion; and&#xD;
+as still having detectable CAR T-cells at 6 months post CAR T-cell infusion. AUC6mos and 6-month persistence will be compared between subjects who are and are not in CR at 12 months,and between subjects who are and are not progression-free at 12 months.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Immune Reconstitution</measure>
+    <time_frame>1 Year</time_frame>
+    <description>The cellular composition of marrow (T-Cells, B-Cells, Natural Killer Cells, dendritic cells, and myeloid derived suppressor cells) will be quantified at the specified timepoints by flow cytometry.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Multiple Myeloma</condition>
+  <arm_group>
+    <arm_group_label>Lenalidomide and bb2121</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients complete apheresis and proceed to lymphodepleting chemotherapy with cyclophosphamide 300mg/m2 and fludarabine 30mg/m2 for 3 consecutive days followed by the infusion of BCMA CAR T-cells at a target dose of 450 x106 cells. Maintenance lenalidomide, starting at 10mg a day for 21 days of a 28-day cycle will be initiated at a minimum of at least 30 days, but no later than 180 days after the CAR T-cell infusion and will continue until the patient reaches 12 months post CAR T-cell infusion and continue free of progression.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lenalidomide and bb2121</intervention_name>
+    <description>Patients complete apheresis and proceed to lymphodepleting chemotherapy with cyclophosphamide 300mg/m2 and fludarabine 30mg/m2 for 3 consecutive days followed by the infusion of BCMA CAR T-cells at a target dose of 450 x106 cells. Maintenance lenalidomide, starting at 10mg a day for 21 days of a 28-day cycle will be initiated at a minimum of at least 30 days, but no later than 180 days after the CAR T-cell infusion and will continue until the patient reaches 12 months post CAR T-cell infusion and continue free of progression.</description>
+    <arm_group_label>Lenalidomide and bb2121</arm_group_label>
+    <other_name>ide-cel, revlimid</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age greater than or equal to 18.00 years and less than 71.00 years&#xD;
+&#xD;
+          2. Patients must meet the criteria for symptomatic MM requiring therapy (Appendix A)&#xD;
+             prior to initiating initial systemic anti-myeloma treatment.&#xD;
+&#xD;
+          3. Patients must have received initial systemic anti- myeloma therapy consisting of&#xD;
+             induction therapy and consolidation with high-dose melphalan (&gt;140 mg/m2 ) followed by&#xD;
+             an auto HCT (minimum cell dose of 2x106 CD34+ cells/kg (actual body weight) within 12&#xD;
+             months from initiation of systemic anti-myeloma therapy.&#xD;
+&#xD;
+          4. Patient must have additional stored stem cells greater than or equal to 2x106 CD34+&#xD;
+             cells per kg actual body weight.&#xD;
+&#xD;
+          5. Patients must be less than or equal to 12 months after autologous HCT at the time of&#xD;
+             enrollment.&#xD;
+&#xD;
+          6. Patients must have initiated maintenance therapy with lenalidomide within 6 months&#xD;
+             after the auto HCT and have received at least 6 months of maintenance prior to&#xD;
+             enrollment.&#xD;
+&#xD;
+          7. Patients must have tolerated a minimum dose of lenalidomide 5 mg/day for 21 days of a&#xD;
+             28-day cycle for greater than 2 cycles without having to stop due to toxicities.&#xD;
+&#xD;
+          8. Patients must have achieved less than a VGPR (Section 3.1) in reference to time of&#xD;
+             initiation of initial systemic anti-myeloma therapy1 at study enrollment.&#xD;
+&#xD;
+          9. Patients must have Karnofsky performance greater than or equal to 70.&#xD;
+&#xD;
+         10. Patients must have recovered to Grade 1 or baseline of any non-hematologic toxicities&#xD;
+             due to prior treatments, excluding Grade 2 neuropathy.&#xD;
+&#xD;
+         11. Absolute neutrophil count (ANC) greater than or equal to 1,500/mm3 without filgrastim&#xD;
+             use in the prior 14 days.&#xD;
+&#xD;
+         12. Platelet count greater than 100,000/mm3 (without platelet transfusion in the previous&#xD;
+             7 days or thrombopoietin mimetics in the previous 28 days).&#xD;
+&#xD;
+         13. Hemoglobin greater than 9 g/dL (without red blood cell transfusion in the previous 7&#xD;
+             days).&#xD;
+&#xD;
+         14. Creatinine Clearance (CrCl) greater than or equal to 60 mL/min, measured or estimated&#xD;
+             by Cockcroft-Gault equation.&#xD;
+&#xD;
+         15. Corrected serum calcium less than or equal to 13.5 mg/dL.&#xD;
+&#xD;
+         16. Oxygen saturation greater than 92% on room air.&#xD;
+&#xD;
+         17. Hepatic Function: a. Serum aspartate aminotransferase (AST) or alanine&#xD;
+             aminotransferase (ALT) less than or equal to 2.5 x upper limit of normal (ULN) b.&#xD;
+             Serum total bilirubin less than or equal to 2 x ULN. Patients who have been diagnosed&#xD;
+             with Gilbert's disease are permitted to exceed the defined bilirubin value of 2 x ULN&#xD;
+&#xD;
+         18. International ratio (INR) or partial thromboplastin time (PTT) less than 1.5 x ULN&#xD;
+&#xD;
+         19. Cardiac Function: left ventricular ejection fraction greater than 45% by&#xD;
+             echocardiogram or MUGA.&#xD;
+&#xD;
+         20. Patients must be willing and able to adhere to the study visit schedule and other&#xD;
+             protocol requirements including regulatory requirement of a 15 year follow up using&#xD;
+             the CIBMTR long term follow up mechanism.&#xD;
+&#xD;
+         21. Female patients of childbearing potential (FCBP1 ) must: a. Have a negative serum&#xD;
+             pregnancy test with a sensitivity of at least 50 mIU/mL prior to enrollment b. Agree&#xD;
+             to use, and be able to comply with, TWO acceptable methods of birth control (Appendix&#xD;
+             C), one highly effective method and one additional effective (barrier) method AT THE&#xD;
+             SAME TIME, from screening through at least 1 year following bb2121 infusion or 4 weeks&#xD;
+             following discontinuation of lenalidomide, whichever is later. c. Agree to abstain&#xD;
+             from breastfeeding from screening through at least 1 year following bb2121 infusion or&#xD;
+             4 weeks following discontinuation of lenalidomide, whichever is later.&#xD;
+&#xD;
+         22. Male patients must: a. Agree to use a condom during sexual contact with a pregnant&#xD;
+             female or a FCBP, even if he has undergone a successful vasectomy, from screening&#xD;
+             through at least 1 year following bb2121 infusion or 4 weeks following discontinuation&#xD;
+             of lenalidomide whichever is later b. Must not donate sperm from screening through at&#xD;
+             least 1 year following bb2121 infusion or 4 weeks following discontinuation of&#xD;
+             lenalidomide whichever is later.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients with a prior allogeneic hematopoietic cell.&#xD;
+&#xD;
+          2. Female of childbearing potential (FCBP) is a female who:&#xD;
+&#xD;
+               -  has achieved menarche at some point,&#xD;
+&#xD;
+               -  has not undergone a hysterectomy or bilateral oophorectomy or&#xD;
+&#xD;
+               -  has not been naturally postmenopausal (amenorrhea following cancer therapy does&#xD;
+                  not rule out childbearing potential) for at least 24 consecutive months (i.e.,&#xD;
+                  has had menses at any time in the preceding 24 consecutive months).&#xD;
+&#xD;
+          3. Patients with disease progression (see Section 3.1.2 for disease progression&#xD;
+             definition) at any time prior to enrollment.&#xD;
+&#xD;
+          4. Patients receiving any of the following less than 14 days prior to enrollment:&#xD;
+&#xD;
+               1. Plasmapheresis&#xD;
+&#xD;
+               2. Major surgery (as defined by the investigator)&#xD;
+&#xD;
+               3. Radiation therapy other than local therapy for MM-associated bone lesions&#xD;
+&#xD;
+               4. Use of any systemic anti-myeloma drug therapy1&#xD;
+&#xD;
+               5. Any investigational agents&#xD;
+&#xD;
+               6. Corticosteroids (Physiologic replacement, topical, intranasal and inhaled&#xD;
+                  steroids are permitted)&#xD;
+&#xD;
+          5. Patients with known Central Nervous System (CNS) involvement with MM.&#xD;
+&#xD;
+          6. Patients with a prior organ transplant requiring systemic immunosuppressive therapy.&#xD;
+&#xD;
+          7. Patients who previously experienced toxicities related to lenalidomide resulting in&#xD;
+             permanent treatment discontinuation.&#xD;
+&#xD;
+          8. Patients who experienced thromboembolic events while on full anticoagulation during&#xD;
+             prior therapy with an immunomodulatory agent (IMiD).&#xD;
+&#xD;
+          9. Patients unwilling to take DVT prophylaxis while on lenalidomide maintenance.&#xD;
+&#xD;
+         10. Patients with history of greater than or equal to Grade 2 hemorrhage within 30 days of&#xD;
+             enrollment.&#xD;
+&#xD;
+         11. Patient requiring ongoing treatment with chronic, therapeutic dosing of anticoagulants&#xD;
+             (e.g. Warfarin, low molecular weight heparin, Factor Xa inhibitors).&#xD;
+&#xD;
+         12. Patients with history or presence of clinically relevant CNS pathology such as&#xD;
+             epilepsy, seizure, paresis, aphasia, stroke, subarachnoid hemorrhage or other CNS&#xD;
+             bleed, severe brain injuries, dementia, Parkinson's disease, cerebellar disease,&#xD;
+             organic brain syndrome, or psychosis.&#xD;
+&#xD;
+         13. Patients with active or history of plasma cell leukemia, Waldenstrom's&#xD;
+             macroglobulinemia, POEMS (polyneuropathy, organomegaly, endocrinopathy, monoclonal&#xD;
+             protein, and skin changes), or clinically significant amyloidosis.&#xD;
+&#xD;
+         14. Patients with purely non-secretory MM [absence of a monoclonal protein (M protein) in&#xD;
+             serum as measured by electrophoresis and immunofixation and the absence of Bence Jones&#xD;
+             protein in the urine defined by use of conventional electrophoresis and immunofixation&#xD;
+             techniques and the absence of involved serum free light chain greater than 100mg/L].&#xD;
+             Patients with light chain MM detected in the serum by free light chain assay are&#xD;
+             eligible.&#xD;
+&#xD;
+         15. Patients with a history of Class III or IV congestive heart failure (CHF) or severe&#xD;
+             nonischemic cardiomyopathy, unstable or poorly controlled angina, myocardial&#xD;
+             infarction, or hemodynamically significant ventricular arrhythmia within the previous&#xD;
+             6 months prior to starting study treatment.&#xD;
+&#xD;
+         16. Patients with ongoing treatment with chronic immunosuppressants (e.g. cyclosporine or&#xD;
+             systemic steroids at any dose). Physiologic replacement, intermittent topical, inhaled&#xD;
+             or intranasal corticosteroids are allowed.&#xD;
+&#xD;
+         17. Patients with active clinically significant autoimmune disease, defined as a history&#xD;
+             of requiring systemic immunosuppressive therapy and at ongoing risk for potential&#xD;
+             disease exacerbation. Patients with a history of autoimmune thyroid disease, asthma,&#xD;
+             or limited skin manifestations are potentially eligible.&#xD;
+&#xD;
+         18. Patients seropositive for human immunodeficiency virus (HIV-1), chronic or active&#xD;
+             hepatitis B or C, or acute hepatitis A. If any history of exposure to hepatitis B or C&#xD;
+             then DNA PCR should be negative.&#xD;
+&#xD;
+         19. Patients with previous history of treatment with any gene therapy-based therapeutic&#xD;
+             for cancer or investigational cellular therapy for cancer or BCMA targeted therapy.&#xD;
+&#xD;
+         20. Patients with prior malignancies except resected basal cell carcinoma or treated&#xD;
+             carcinoma in situ. Cancer treated with curative intent less than 5 years prior to&#xD;
+             enrollment will not be allowed unless approved by the Protocol Officer or one of the&#xD;
+             Protocol Chairs. Cancer treated with curative intent greater than 5 years prior to&#xD;
+             enrollment is allowed.&#xD;
+&#xD;
+         21. Female patients who are pregnant (positive beta-HCG), or breastfeeding, or who intend&#xD;
+             to become pregnant during participation in the study.&#xD;
+&#xD;
+         22. Patient with known allergy or hypersensitivity to any of the study medications, their&#xD;
+             analogues, or excipients in the various formulations of any agent.&#xD;
+&#xD;
+         23. Patient with serious medical of psychiatric illness likely to interfere with&#xD;
+             participation on this clinical study.&#xD;
+&#xD;
+         24. Patients with uncontrolled bacterial, viral or fungal infections (currently taking&#xD;
+             medication and with progression or no clinical improvement) at time of enrollment.&#xD;
+&#xD;
+         25. Patients unwilling or unable to provide informed consent 25. Patients unable or&#xD;
+             unwilling to return to the transplant center for treatment and follow up.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>71 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mary Horowitz, MD, MS</last_name>
+    <role>Study Director</role>
+    <affiliation>Center for International Blood and Marrow Transplant Research</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Megan Scott</last_name>
+    <phone>240-599-5648</phone>
+    <phone_ext>15648</phone_ext>
+    <email>bmtctn1902@emmes.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Adam Mendizabal, PhD</last_name>
+    <email>amendizabal@emmes.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>City of Hope National Medical Center</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Myo Htut</last_name>
+      <email>mhtut@coh.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ryotaro Nakamura</last_name>
+      <email>rnakamura@coh.org</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford Hospital and Clinics</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Surbhi Sidana</last_name>
+      <email>surbhi.sidana@stanford.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Janet McDowell</last_name>
+      <email>janetm2@stanford.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Nina Shah</last_name>
+      <email>nina.shah@ucsf.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kate Rafanova</last_name>
+      <email>Kate.Rafanova@ucsf.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>H. Lee Moffitt Cancer Center</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Taiga Nishihori</last_name>
+      <email>taiga.nishihori@moffitt.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Joseph Pidala</last_name>
+      <email>joseph.pidala@moffitt.org</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Loyola University Medical Center</name>
+      <address>
+        <city>Maywood</city>
+        <state>Illinois</state>
+        <zip>60153</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Nasheed Hossain</last_name>
+      <email>pstiff@lumc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Rachel Ochoa</last_name>
+      <email>rochoa@luc.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>David Avigan</last_name>
+      <email>davigan@bidmc.harvard.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Emma Logan</last_name>
+      <email>eklogan@bidmc.harvard.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Roswell Park Cancer Center</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Philip McCarthy</last_name>
+      <email>Philip.McCarthy@RoswellPark.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jessica Doersam</last_name>
+      <email>Jessica.Doersam@RoswellPark.org</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Shambavi Richard, MD</last_name>
+      <email>Shambavi.richard@mountsinai.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Schantel Williams</last_name>
+      <email>schantel.williams@mssm.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sergio Giralt</last_name>
+      <email>giralts@mskcc.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Elizabeth Hoover</last_name>
+      <email>hoovere@mskcc.org</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Levine Cancer Institute/ Carolinas HealthCare</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Saad Usmani</last_name>
+      <email>saad.usmani@atriumhealth.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Donna Acampora</last_name>
+      <email>donna.acampora@atriumhealth.org</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University Medical Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Taewoong Choi</last_name>
+      <email>taewiing.choi@duke.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Matthew Fister</last_name>
+      <email>matthew.fister@duke.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania Hospital Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Alfred Garfall</last_name>
+      <email>Alfred.Garfall@pennmedicine.upenn.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Harjeet Sembhi</last_name>
+      <email>Harjeet.Sembhi@pennmedicine.upenn.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Tamila Kindwall-Keller</last_name>
+      <email>TLK5DE@hscmail.mcc.virginia.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Giana Strand</last_name>
+      <email>GRS9ZJ@hscmail.mcc.virginia.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>University of Wisconsin Hospitals and Clinics</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Natalie Callander</last_name>
+      <email>nsc@medicine.wisc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Carolyn Serpe</last_name>
+      <email>cserpe@wisc.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Medical College of Wisconsin</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Binod Dhakal</last_name>
+      <email>bdhakal@mcw.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Debra Pastorek</last_name>
+      <email>dpastore@mcw.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.bmtctn.net/</url>
+    <description>Blood and Marrow Transplant Clinical Trials Network Website</description>
+  </link>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>July 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 2, 2021</study_first_posted>
+  <last_update_submitted>October 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Medical College of Wisconsin</investigator_affiliation>
+    <investigator_full_name>Marcelo Pasquini, MD</investigator_full_name>
+    <investigator_title>Primary Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Multiple Myeloma</keyword>
+  <keyword>CAR T-cells</keyword>
+  <keyword>Anti-Myeloma Agents</keyword>
+  <keyword>lenalidomide</keyword>
+  <keyword>Maintenance Therapy</keyword>
+  <keyword>Hematologic Disorders</keyword>
+  <keyword>Infusion</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Myeloma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lenalidomide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Results will be published in a manuscript and supporting information submitted to NIH BioLINCC (including data dictionaries, case report forms, data submission documentation, documentation for outcomes dataset, etc., where indicated).</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>Within 6 months of official study closure at participating sites</ipd_time_frame>
+    <ipd_access_criteria>Available to public</ipd_access_criteria>
+    <ipd_url>https://biolincc.nhlbi.nih.gov/home</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

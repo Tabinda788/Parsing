@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2005">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05135065</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R34MH125037</org_study_id>
+    <nct_id>NCT05135065</nct_id>
+  </id_info>
+  <brief_title>Community-Based Care for Minority Adolescents With ADHD: Improving Fidelity With Machine Learning-Assisted Supervision and Fidelity Feedback.</brief_title>
+  <official_title>Community-Based Care for Minority Adolescents With ADHD: Improving Fidelity With Machine Learning-Assisted Supervision and Fidelity Feedback.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Seattle Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Florida International University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Seattle Children's Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This project proposes to reduce disparities in care among disadvantaged racial/ethnic&#xD;
+      minority adolescents with ADHD by improving community therapist fidelity to evidence-based&#xD;
+      behavior therapy through a technology-assisted supervision intervention. In Y01, the research&#xD;
+      team will work with stakeholders to develop the proposed supervision intervention utilizing&#xD;
+      two novel technologies: Lyssn + Care4 (LC4S). In Y02, a preliminary clinical trial (N=72)&#xD;
+      will be conducted in three community mental health agencies in Miami, FL. Adolescent&#xD;
+      participants will be randomly assigned to receive supervision from a therapist who is trained&#xD;
+      in LCS4 or provides enhanced supervision as usual(ESAU)using a permuted block randomization&#xD;
+      strategy that randomizes within site. There will also be double randomization of agency&#xD;
+      therapists to supervisors. Supervisors will deliver both conditions and investigators will&#xD;
+      test for contamination to determine the integrity of this design prior to a future R01 that&#xD;
+      measures patient outcomes. Data from therapists, adolescents and their parents, and&#xD;
+      supervisors will be collected pre-training, post-training, weekly during service delivery, at&#xD;
+      EBT completion, and at the end of the trial. The proximal intervention target is therapist&#xD;
+      fidelity to EBT and the distal targets are service delivery outcomes that include quality,&#xD;
+      quantity, and speed of delivery. Investigators will also measure indices of consumer fit:&#xD;
+      cost, acceptability, feasibility, and fidelity to supervision procedures. Sources of data&#xD;
+      will be audio recorded therapy and supervision sessions, therapist and supervisor report, and&#xD;
+      project and electronic health records. In longitudinal analyses, time will be modeled as a&#xD;
+      person-specific variable representing months since baseline. Investigators will nest&#xD;
+      adolescents within therapists for all analyses.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Y02 of this study is a small (N=72) phase 1/phase 2 clinical trial of a supervision&#xD;
+      intervention designed to improve therapist treatment fidelity and subsequent service delivery&#xD;
+      outcomes. The parallel design includes random assignment of eligible and consenting patients&#xD;
+      at three community agencies to two active supervision intervention arms (LC4S or ESAU) using&#xD;
+      a permuted block randomization strategy that accounts for agency. Participants will receive&#xD;
+      behavioral interventions from community agency staff and their service utilization will be&#xD;
+      tracked using project and agency electronic health records. Agency therapists and supervisors&#xD;
+      will also be participants in this trial. Therapists will be randomized to receive either LC4S&#xD;
+      or ESAU from their supervisor (double randomization) using a block randomization strategy&#xD;
+      that accounts for site. Supervisors will administer both supervision conditions in this&#xD;
+      trial; however, investigators will systematically assess for contamination to assess whether&#xD;
+      this design is appropriate for a future R01.&#xD;
+&#xD;
+      To minimize bias, adolescent and parent participants will not be informed of the group to&#xD;
+      which they have been assigned. However, full masking of therapists and supervisors is not&#xD;
+      feasible in this trial because both supervisors and therapists will know whether they are&#xD;
+      participating in technology-assisted supervision activities or standard supervision&#xD;
+      activities due to the nature of these conditions. However, the primary investigator will&#xD;
+      blind therapists and supervisors to our study hypotheses and the nature of outcome measures&#xD;
+      to minimize bias in the trial. Many of these measures will be observational and objective&#xD;
+      (i.e., therapy records, therapy audio recordings), which should reduce bias stemming from&#xD;
+      self-reports. Investigators will also assess whether there are group effects on therapist&#xD;
+      accuracy of self-report. All interventions will be delivered by agency staff, who will not be&#xD;
+      required to follow intervention delivery protocols because an outcome of this study is the&#xD;
+      extent to which agency therapists follow intervention procedures with guidance provided from&#xD;
+      their supervisors. Study assessments will be administered electronically via Care4 and data&#xD;
+      collection will be oversee by study staff.&#xD;
+&#xD;
+      Each measure of fidelity will be analyzed using a separate mixed /growth model (Duncan et&#xD;
+      al., 1999). In this design, treatment sessions (level 1) are nested within adolescents (level&#xD;
+      2), which are nested within therapists (level 3). Each adolescent attends up to 10 sessions;&#xD;
+      each therapist treats 3 adolescents. Supervisors serve as an additional higher level, but&#xD;
+      with so few supervisors (approximately 6), this will be addressed by including dummy&#xD;
+      predictor variables representing the supervisors. The direct effect of LC4S vs. ESAU on&#xD;
+      fidelity intercept and slope will be tested for each fidelity outcome (see Table 3). With&#xD;
+      time centered at the first session, the intercept reflects initial fidelity for the ESAU&#xD;
+      condition, the group effect reflects the initial fidelity difference between ESAU and LC4S,&#xD;
+      the time effect reflects the linear change in fidelity over time for the ESAU condition, and&#xD;
+      the interaction of time and group reflects the difference between ESAU and LC4S in linear&#xD;
+      change in fidelity over time. As part of the R34, in will estimate the intraclass correlation&#xD;
+      (ICC) and design effect for the clustering effect of therapist and supervisor on outcome to&#xD;
+      determine the extent to which additional clustering will be needed in a future R01. ICC&#xD;
+      ranges from 0 to 1, with larger values reflecting a larger proportion of variance at the&#xD;
+      higher levels (here, therapist and supervisor rather than adolescent). Investigators will&#xD;
+      also test both linear and non-linear slopes to ascertain the expected shape of the LGCA in a&#xD;
+      future R01. Time to therapist MI competence, proportion of EBT delivered by 10th session, and&#xD;
+      number of sessions and days to completion of the EBT will be modeled using regression&#xD;
+      (linear, logistic, or Poisson depending on the distribution of the resulting variables) with&#xD;
+      group as a predictor. Accuracy of therapist self-report will be analyzed using polynomial&#xD;
+      regression (Laird &amp; LaFleur, 2013).&#xD;
+&#xD;
+      Using the R package powerlmm, investigators have an estimate of .8 power to detect large&#xD;
+      effects (d = 0.8) representing group differences at the adolescent (level 2) level;&#xD;
+      investigators have .4 power to detect medium effects (d = .5) representing group differences&#xD;
+      at the adolescent level. Our hypotheses, however, are primarily at the level of the therapist&#xD;
+      (level 3), which has fewer units (i.e., 12 therapists per condition versus 36 adolescents per&#xD;
+      condition). As such, measures of both adolescent-level and therapist-level effects will be&#xD;
+      estimated. For power for the ICC calculation, investigators used the ICC.Sample.Size R&#xD;
+      package based on Zou (2012). With a sample size of 72 participants, 10 observations per&#xD;
+      participant, alpha equal to .05, and a two tailed test, investigators have greater than .9&#xD;
+      power detect an ICC of 0.2. ICC values for cross-sectional data such as children within&#xD;
+      classrooms are approximately 0.2 (Hedges &amp; Hedberg, 2007). Investigators expect excellent&#xD;
+      precision for estimating ICC values in this study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 18, 2021</start_date>
+  <completion_date type="Anticipated">December 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Therapist STAND Fidelity</measure>
+    <time_frame>Weekly for an average of 9 months</time_frame>
+    <description>Behavior therapy content: STAND treatment fidelity checklists (Sibley et al., 2013, 2016, 2019). This data will be collected via therapist self-report, Lyssn (the machine learning tool), and coded by trained research assistants from audio recordings. If there is a discrepancy in sources, a trained RA will code the tape to resolve the discrepancy.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Therapist MITI Fidelity</measure>
+    <time_frame>Weekly for an average of 9 months</time_frame>
+    <description>Behavior therapy content:Motivational Interviewing Treatment Integrity (MITI) measure (Moyers et al., 2014) will measure MI integrity.This data will be collected via therapist self-report, Lyssn (the machine learning tool), and coded by trained research assistants from audio recordings. If there is a discrepancy in sources, a trained RA will code the tape to resolve the discrepancy.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Service Delivery Quality</measure>
+    <time_frame>Weekly for duration that case is active in the agency, an average of 9 months</time_frame>
+    <description>Quality: (1) Time to Therapist MI Competence; MITI Benchmarks,(Moyers et al., 2014) Accuracy of therapist self-report on MITI indices and fidelity checklists (tested using Polynomial Regression)--will assess concordance between reporters over time.&#xD;
+This data will be collected from electronic health records and by coding audio recordings of therapy sessions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Service Delivery Quantity</measure>
+    <time_frame>Weekly for duration that case is active in the agency, an average of 9 months</time_frame>
+    <description>Quantity: (2) Proportion of EBT delivered by 10th session Speed of Delivery: Number of sessions and days to completion of EBT. This data will be collected from electronic health records and by coding audio recordings of therapy sessions.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Cost</measure>
+    <time_frame>cost will be computed at the end of the year from study records and electronic heath records, an average of 9 months</time_frame>
+    <description>Cost of implementing/subscribing to Care4/Lyssn; Supervisor/ therapist time , technical supports, stakeholder-identified costs</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Technology Acceptability</measure>
+    <time_frame>At end of the study, after an average of 9 months</time_frame>
+    <description>Therapists and supervisors will complete an end of study questionnaire on the acceptability of the Lyssn Care4 Study protocol.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Satisfaction with supervision</measure>
+    <time_frame>At end of the study, after an average of 9 months</time_frame>
+    <description>The Short Supervisory Relationship Questionnaire (Cliffe et al., 2006), which will be completed by therapists and supervisors.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Supervision Fidelity</measure>
+    <time_frame>Weekly, through study completion, an average of 9 months</time_frame>
+    <description>We will adapt a project specific version of the Supervisor Adherence and Competence Scale (SACS; Martino et al., 2016), which will be completed by trained research assistants who listen to audio recordings. In addition, we will train Lyssn to evaluate supervision sessions on this checklist by the end of the trial for potential use as supervisor feedback tool in a future R01.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Therapist engagement</measure>
+    <time_frame>Weekly, through study completion, an average of 9 months</time_frame>
+    <description>Therapist Supervision Attendance: Supervisor logs of supervision dates/times; cancelations/reasons for cancelation; to be developed Weekly Facilitation Resources Use-measure; and completion rate for weekly Care4 support tasks (uploading session audio file and completing fidelity self-report form prior to supervision) forms are very brief questionnaires completed by therapists and supervisors prior to uploading each session in Care4 to measure therapist engagement with Care4 and Lyssn integrations</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Supervisor Burden</measure>
+    <time_frame>Weekly, through study completion, an average of 9 months</time_frame>
+    <description>Minutes discussing case on audio recording; supervisor log of prep work for case (not including research tasks). Tapes will be coded by RAs for length and supervision logs will be kept by the supervisors.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exit Interviews</measure>
+    <time_frame>At end of the study, after an average of 9 months</time_frame>
+    <description>Semi-Structured exit interviews designed to collect qualitative perspectives on the LC4S intervention.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">72</enrollment>
+  <condition>Attention Deficit Hyperactivity Disorder</condition>
+  <arm_group>
+    <arm_group_label>Artificial Intelligence-Assisted Supervision Protocol</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Measurement-based supervision protocol that incorporates fidelity measurement from a machine learning tool and feedback reports from this tool into a standardized supervision protocol for behavior therapy to task-shift burdensome supervision tasks to a machine, reducing costs and improving precision of fidelity measurement for agencies.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Enhanced Supervision as Usual (ESAU) Condition</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>ESAU therapists will be given standard, paper-based facilitation resources for STAND and will receive 4 hours of training on how to navigate these materials and self-assess fidelity. ESAU therapists will also be trained how to upload recordings into Care4 and complete self-assessments for each session. Supervisors will be given access to these data and recordings once uploaded (but not Lyssn scores or electronic facilitation resources).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Artificial Intelligence-Assisted Supervision Protocol</intervention_name>
+    <description>Measurement-based supervision protocol that incorporates fidelity measurement from a machine learning tool and feedback reports from this tool into a standardized supervision protocol for behavior therapy to task-shift burdensome supervision tasks to a machine, reducing costs and improving precision of fidelity measurement for agencies.</description>
+    <arm_group_label>Artificial Intelligence-Assisted Supervision Protocol</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  DSM-5 ADHD diagnosis, Enrollment in 6th-12th grade, IQ greater than 70, no history of&#xD;
+             autism spectrum disorder or thought disorder, client of one of two community mental&#xD;
+             health agencies&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Autism Spectrum/Thought Disorders, IQ&lt;70&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>11 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Margaret H Sibley, Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Seattle Children's Research Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mercedes Ortiz, B.A</last_name>
+    <phone>206-884-8260</phone>
+    <email>mercedes.ortizrodriguez@seattlechildrens.org</email>
+  </overall_contact>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 26, 2021</study_first_posted>
+  <last_update_submitted>November 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Seattle Children's Hospital</investigator_affiliation>
+    <investigator_full_name>Margaret Sibley</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>ADHD</keyword>
+  <keyword>Adolescents</keyword>
+  <keyword>Community Mental Health</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Attention Deficit Disorder with Hyperactivity</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

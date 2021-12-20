@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="33">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05160714</url>
+  </required_header>
+  <id_info>
+    <org_study_id>081/2021B01</org_study_id>
+    <nct_id>NCT05160714</nct_id>
+  </id_info>
+  <brief_title>Individualized Response-adaptive Radiation Dose Prescription in HNC Based on MRI</brief_title>
+  <acronym>MRL-02</acronym>
+  <official_title>Individualized Response-adaptive Radiation Dose Prescription in HNC Based on MRI - Real-time ADC-guided Response Adaptive Boost in HNC - &quot;Individuelle MR-basierte Dosisverschreibung Bei Kopf-Hals-Tumoren - ADC-basierter Adaptiver Boost&quot;</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital Tuebingen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital Tuebingen</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This Phase 1 dose-finding study investigates the maximal tolerated dose for a subsequent&#xD;
+      phase 2 trial testing MR-guided individualized response-adaptive dose prescription in HNC.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This single-center, non-randomized interventional dose-finding phase I trial evaluates the&#xD;
+      maximal tolerated boost dose with respect to dose limiting toxicities in patients with&#xD;
+      locally advanced head and neck squamous cell carcinoma (UICC stage III/IVB) with an&#xD;
+      indication for a primary radiochemotherapy. The primary aim of the trial is to define the&#xD;
+      maximal tolerated dose in an ADC-based subvolume using an adaptive SBRT-boost areal.&#xD;
+      Dose-escalated SBRT boost to ADC-high risk volume will be delivered once a week and is&#xD;
+      defined according to the the actual imaging immediately performed prior to delivery&#xD;
+      (real-time adaptive) i.e. it can vary from one week to another and it might also be reduced&#xD;
+      throughout the course of treatment (response adaptive). In case of complete disappearance of&#xD;
+      high-risk subvolumes sufficient large enough to boost (&lt;5ml), no further ADC boost but only&#xD;
+      the floor-boost dose is given. The dose escalation of the ADC-high risk volume boost is&#xD;
+      graduated in four dose levels of 5x5 Gy, 5x5.5 Gy, 5x6 Gy, 5x6.5 Gy in a classical 3+3&#xD;
+      dose-finding design where 3 patients per radiation dose level are enrolled. Primary endpoint&#xD;
+      is the dose limiting toxicity, any acute and late non-hematologic grade 4 or 5 related to the&#xD;
+      radiotherapy intervention, ≥ grade 3 CTC v.5. oral mucositis at 3 months after radiotherapy.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2022</start_date>
+  <completion_date type="Anticipated">March 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">March 30, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Dose-finding phase 1 trial with four dose levels and 3+3 design: 12 patients if no DLT occurs up to 24 patients if 1 DLT per dose-level occurs.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Dose limiting toxicity (DLT)</measure>
+    <time_frame>At 3 months after radiotherapy</time_frame>
+    <description>Dose limiting toxicity (DLT): any acute and late grade 4 or 5 related to the intervention, ≥ grade 3 CTC v.5. oral mucositis at 3 months after radiotherapy (persistent mucosal ulceration or inflammation in the high dose region with severe pain; interfering with oral intake; limiting self-care ADL)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Regional tumor control</measure>
+    <time_frame>After 6 weeks, 3 months and every 3 months up to two years</time_frame>
+    <description>Regional tumor control will be measured by clinical H&amp;N examinations at six weeks and then every three months up to two years. Imaging follow-up includes MRI at 6 weeks and 3 months, FDG-PET CT at 3 months and further CTs every 3 month.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease free survival</measure>
+    <time_frame>During treatment and after 6 weeks, 3 months and every 3 months up to two years</time_frame>
+    <description>Clinical H&amp;N examinations at six weeks and then every three months up to two years, including MRI at 6 weeks and 3 months, FDG-PET CT at 3 months and further CTs every 3 month.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">24</enrollment>
+  <condition>Head and Neck Cancer</condition>
+  <arm_group>
+    <arm_group_label>Adaptive SBRT Boost</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dose-escalated SBRT boost to an ADC-based high risk subvolume in HNC</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Real-time ADC-guided response adaptive Boost in HNC</intervention_name>
+    <description>40 Gy in 20 fractions over 5 weeks (Monday to Thursday) to the adjuvant neck, simultaneous integrated boost with 56 Gy in 20 fractions in 5 weeks to the low-risk macroscopic tumor.&#xD;
+Once weekly Dose-escalated SBRT adaptive boost to an ADC-based high risk subvolume with graduated dose levels of 5x5 Gy, 5x5.5 Gy, 5x6 Gy, 5x6.5 Gy</description>
+    <arm_group_label>Adaptive SBRT Boost</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age: older than 18 years&#xD;
+&#xD;
+          -  WHO (ECOG) performance status 0-2&#xD;
+&#xD;
+          -  Histological proven HNC (squamous cell carcinoma)&#xD;
+&#xD;
+          -  HPV negative tumors or high risk HPV positive tumors&#xD;
+&#xD;
+          -  Stage III - IVB HNC of the hypopharynx, oropharynx and oral cavity according to UICC&#xD;
+             and AJCC guidelines&#xD;
+&#xD;
+          -  Tumor extension and localization suitable for radiochemotherapy with curative intent&#xD;
+&#xD;
+          -  Simultaneous standard chemotherapy with cisplatin applicable (no contra-indications)&#xD;
+&#xD;
+          -  Dental examination and -treatment before start of therapy&#xD;
+&#xD;
+          -  For women with childbearing potential and men in reproductive ages adequate&#xD;
+             contraception.&#xD;
+&#xD;
+          -  Ability of subject to understand character and individual consequences of the clinical&#xD;
+             trial&#xD;
+&#xD;
+          -  Written informed consent (must be available before enrolment in the trial)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Refusal of the patients to take part in the trial&#xD;
+&#xD;
+          -  Presence of distant metastases (UICC stage IVC)&#xD;
+&#xD;
+          -  HPV positive tumors UICC Stage III with T1/2 N3, despite of smoking status&#xD;
+&#xD;
+          -  Previous radiotherapy in the head and neck region&#xD;
+&#xD;
+          -  Second malignancy that is likely to require treatment during the trial intervention or&#xD;
+             follow-up period or that, in the opinion of the physician, has a considerable risk of&#xD;
+             recurrence or metastases within the follow-up period&#xD;
+&#xD;
+          -  Serious disease or medical condition with life expectancy of less than one year&#xD;
+&#xD;
+          -  Participation in competing interventional trial on cancer treatment&#xD;
+&#xD;
+          -  Patients who are not suitable for radiochemotherapy&#xD;
+&#xD;
+          -  Pregnant or lactating women&#xD;
+&#xD;
+          -  Patients not able to understand the character and individual consequences of the trial&#xD;
+&#xD;
+          -  Nasopharyngeal and glottis laryngeal carcinomas&#xD;
+&#xD;
+          -  Patients with contraindications for magnet-resonance tomography&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Simon Böke, MD</last_name>
+    <phone>49 (0) 7071 29</phone>
+    <phone_ext>82165</phone_ext>
+    <email>ro-info@med.uni-tuebingen.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Daniel Zips, MD, Prof.</last_name>
+    <phone>49 (0) 7071 29</phone>
+    <phone_ext>82165</phone_ext>
+    <email>ro-info@med.uni-tuebingen.de</email>
+  </overall_contact_backup>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>June 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 16, 2021</study_first_posted>
+  <last_update_submitted>December 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Radiotherapy</keyword>
+  <keyword>MR-guided Radiotherapy</keyword>
+  <keyword>dose-finding study</keyword>
+  <keyword>MR-Linac</keyword>
+  <keyword>ADC-guided response adaptive Boost</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Head and Neck Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

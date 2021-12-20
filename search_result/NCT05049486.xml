@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8585">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05049486</url>
+  </required_header>
+  <id_info>
+    <org_study_id>London North West NHS Trust</org_study_id>
+    <nct_id>NCT05049486</nct_id>
+  </id_info>
+  <brief_title>Computational Model of SNS (Sacral Nerve Stimulation) Induced Electrical Current Flow Using Tractography Imaging</brief_title>
+  <official_title>Computational Model of SNS Using Tractography</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>London North West Healthcare NHS Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Medtronic</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>London North West Healthcare NHS Trust</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to obtain finer details of tissues surrounding a lead in the pelvis using a&#xD;
+      combination of high-resolution anatomical MRI sequences and diffusion tensor imaging (DTI).&#xD;
+      DTI is a non-invasive technique sometimes described as fiber tractography that enables&#xD;
+      visualization of the pathways and integrity of nerves. In this feasibility study, we plan to&#xD;
+      use DTI to assess the sacral plexus and its peripheral nerves. A model will be constructed by&#xD;
+      superimposing SNS lead from a CT scan onto the DTI imaging to map out the electrode position.&#xD;
+      It is hoped that this study will lead to a better understanding of both therapeutic and&#xD;
+      adverse stimulation effects and enable patient-specific adjustments of stimulation&#xD;
+      parameters.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients who have had successful temporary SNS and awaiting permanent SNS will be approached.&#xD;
+      An assessment will be made to determine whether the patient meets the inclusion/exclusion&#xD;
+      criteria. Patients will be given a consent form to sign.&#xD;
+&#xD;
+      The investigators will recruit from the outpatient clinic a total of ten patients for this&#xD;
+      study.&#xD;
+&#xD;
+      A physical examination will be performed as per standard practice. Patients will be asked to&#xD;
+      fill in questionnaires probing the severity of faecal incontinence symptoms. Included&#xD;
+      questionnaires are ICIQ-B4, Wexner's and St Mark's.&#xD;
+&#xD;
+      Incontinence score (see appendix). It will also evaluate any existing pain symptoms.&#xD;
+&#xD;
+      The patient will undergo an MRI scan (3 Tesla) of the pelvis using sequences including&#xD;
+      anatomical sequences and diffusion tensor imaging technique for construction of sacral nerve&#xD;
+      tractography prior to permanent SNS. This will be performed at Mount Vernon Hospital over an&#xD;
+      hour: first 30 minutes for anatomical sequences and the second 30 minutes for DTI sequencing.&#xD;
+&#xD;
+      A surgical procedure (implant of SNS) will be performed as per standard practice.&#xD;
+&#xD;
+      Briefly, an antibiotic will be given at induction of anesthesia prior to skin incision. All&#xD;
+      types of equipment for SNS implantation will be soaked in antibiotic solution (gentamicin&#xD;
+      80mg in 500ml of normal saline or equivalent). Under general anesthesia without neuromuscular&#xD;
+      junction blockade and the patient in prone position, a permanent quadripolar lead (model&#xD;
+      3889) will be inserted aiming to observe contraction of the anus and/or toe flexion, which&#xD;
+      are signs to confirm that the lead is nearby third sacral nerve root. The lead position will&#xD;
+      be confirmed by an x-ray and the lead will be connected to an implantable neurostimulator&#xD;
+      which will be placed under the skin but deep enough in the upper outer area of the buttock&#xD;
+      region. The procedure will be performed according to the manufacturer's manual as per our&#xD;
+      clinical standard.&#xD;
+&#xD;
+      After the implantation, patients will be given one generic starting program to start the&#xD;
+      therapy.&#xD;
+&#xD;
+      Three to 4 weeks after the procedure the patient will undergo a limited CT scan of the pelvis&#xD;
+      to visualise the position of the SNS lead. The scan will focus only on the sacrum, implanted&#xD;
+      lead, and rectum and will not be extended beyond this area. Imaging from this CT will be&#xD;
+      superimposed to the MRI imaging the patient had pre-operatively, and a computational&#xD;
+      simulation will be performed (see details below).&#xD;
+&#xD;
+      After the scan, a clinician will test stimulation settings systematically to find an optimal&#xD;
+      program. Briefly, as the lead as 4 electrodes, each electrode will be tested, followed by a&#xD;
+      combination of electrodes. The patient's subjective responses (type and site of sensation, if&#xD;
+      there is any pain/discomfort site and nature, a degree of pain using a Lickert scale,) will&#xD;
+      be recorded. The investigators will try and obtain motor response if possible, at the level&#xD;
+      when patients' anus contracts slightly if this is achievable without causing significant&#xD;
+      distress and pain to the patients. This is also a routine process and the clinician will note&#xD;
+      if there is any specific setting that causes adverse pain and identify settings that are&#xD;
+      comfortable and give stimulation sensation around the anus.&#xD;
+&#xD;
+      The computational model will be done in a computer laboratory and the record will be compared&#xD;
+      and evaluated for any clinical relevance. The same set of questionnaires used during the&#xD;
+      baseline evaluation will be repeated at follow-ups, as per routine care.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 1, 2017</start_date>
+  <completion_date type="Actual">March 26, 2018</completion_date>
+  <primary_completion_date type="Actual">December 1, 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Implanting a lead around a nerve for finer details of tissues surrounding a sacral nerve stimulation lead.</measure>
+    <time_frame>12 months</time_frame>
+    <description>Size and distance of the sacral nerves from the implanted lead measured in millimetres (mm).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Stimulation of the sacral nerve using computational model induced electrical current to establish therapeutic range of SNS</measure>
+    <time_frame>12 months</time_frame>
+    <description>Patient's sensation of stimulation will be measured in amplitude (reported in voltage) shown in the standard remote control during the patient stimulation.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">10</enrollment>
+  <condition>Faecal Incontinence</condition>
+  <arm_group>
+    <arm_group_label>MRI sequences and (DTI)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The aim of this study is to obtain finer details of tissues surrounding a lead in the pelvis using a combination of high resolution anatomical MRI sequences and diffusion tensor imaging (DTI). To do so, the patient will undergo a MRI scan (3 Tesla) of the pelvis using sequences including anatomical sequences and diffusion tensor imaging technique for construction of sacral nerve tractography prior to permanent SNS. This will be performed over an hour: first 30 minutes for anatomical sequences and the second 30 minutes for DTI sequencing.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CT scan</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Three to 4 weeks after the procedure the patient will undergo a limited CT scan of the pelvis to visualise the position of the SNS lead. The scan will focus only on the sacrum, implanted lead, and rectum and will not be extended beyond this area. Imaging from this CT will be superimposed to the MRI imaging the patient had pre-operatively, and a computational simulation will be performed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>CT scan</intervention_name>
+    <description>Patients will undergone a pelvic CT scan.</description>
+    <arm_group_label>CT scan</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients who are psychologically stable and suitable for intervention and able to&#xD;
+             provide informed consent&#xD;
+&#xD;
+          -  Patients with symptoms of faecal incontinence for solid or liquid stool&#xD;
+&#xD;
+          -  Patients who have had successful outcome from temporary SNS&#xD;
+&#xD;
+          -  Patients who are willing and competent to fill in questionnaires and undergo an extra&#xD;
+             CT and MRI scan during the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who are claustrophobic to undertake MRI scan&#xD;
+&#xD;
+          -  Patients who had previous devices implanted that may be magnetically, electrically,&#xD;
+             mechanically activated or affected by MRI scan&#xD;
+&#xD;
+          -  Pregnant patients&#xD;
+&#xD;
+          -  Patients who are breastfeeding&#xD;
+&#xD;
+          -  Patients who are psychologically unstable and unsuitable for intervention and unable&#xD;
+             to provide informed consent&#xD;
+&#xD;
+          -  Patients who did not successfully pass the trial of SNS temporary SNS)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Carolynne Vaizey, FRCS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>London North West NHS Trust</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>London North West NHS Trust</name>
+      <address>
+        <city>Harrow</city>
+        <zip>HA1 3UJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <reference>
+    <citation>Jorge JM, Wexner SD. Etiology and management of fecal incontinence. Dis Colon Rectum. 1993 Jan;36(1):77-97. Review.</citation>
+    <PMID>8416784</PMID>
+  </reference>
+  <reference>
+    <citation>Vaizey CJ, Carapeti E, Cahill JA, Kamm MA. Prospective comparison of faecal incontinence grading systems. Gut. 1999 Jan;44(1):77-80.</citation>
+    <PMID>9862829</PMID>
+  </reference>
+  <results_reference>
+    <citation>Maeda Y, Lundby L, Buntzen S, Laurberg S. Outcome of sacral nerve stimulation for fecal incontinence at 5 years. Ann Surg. 2014 Jun;259(6):1126-31. doi: 10.1097/SLA.0b013e31829d3969.</citation>
+    <PMID>23817505</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Maeda Y, Lundby L, Buntzen S, Laurberg S. Suboptimal outcome following sacral nerve stimulation for faecal incontinence. Br J Surg. 2011 Jan;98(1):140-7. doi: 10.1002/bjs.7302. Epub 2010 Oct 27.</citation>
+    <PMID>21136568</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>van der Jagt PK, Dik P, Froeling M, Kwee TC, Nievelstein RA, ten Haken B, Leemans A. Architectural configuration and microstructural properties of the sacral plexus: a diffusion tensor MRI and fiber tractography study. Neuroimage. 2012 Sep;62(3):1792-9. doi: 10.1016/j.neuroimage.2012.06.001. Epub 2012 Jun 13.</citation>
+    <PMID>22705377</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Cotterill N, Norton C, Avery KN, Abrams P, Donovan JL. A patient-centered approach to developing a comprehensive symptom and quality of life assessment of anal incontinence. Dis Colon Rectum. 2008 Jan;51(1):82-7. Epub 2007 Nov 15.</citation>
+    <PMID>18008106</PMID>
+  </results_reference>
+  <verification_date>April 2018</verification_date>
+  <study_first_submitted>April 16, 2018</study_first_submitted>
+  <study_first_submitted_qc>September 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 20, 2021</study_first_posted>
+  <last_update_submitted>September 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Sacral Nerve Stimulator;</keyword>
+  <keyword>DTI;</keyword>
+  <keyword>MRI;</keyword>
+  <keyword>Faecal Incontinence;</keyword>
+  <keyword>CT scan;</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fecal Incontinence</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>There is no plan to make IPD. Reserach results will be shared at the end of the study by local conferences and by peer scientific journals.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1222">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05145244</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C-MOT</org_study_id>
+    <nct_id>NCT05145244</nct_id>
+  </id_info>
+  <brief_title>Copenhagen Master Observational Trial</brief_title>
+  <acronym>C-MOT</acronym>
+  <official_title>Copenhagen Master Observational Trial (C-MOT): A Prospective Investigator-initiated Observational Study to Study Biomarkers in Relation to Clinical Outcome in Patients With Non-Small Cell Lung Cancer or Breast Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rigshospitalet, Denmark</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Rigshospitalet, Denmark</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objectives of this prospective non-interventional study (NIS) are to assess and&#xD;
+      describe outcomes in relation to biomarkers, including whole-genome sequencing (WGS) in&#xD;
+      patients with non- small cell lung cancer (NSCLC) or breast cancer receiving treatment&#xD;
+      offered in the clinic (standard of care or included in clinical trials).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To date, there have been few studies evaluating the day- to-day effects of non-small cell&#xD;
+      lung cancer (NSCLC), and advanced (ABC) or metastatic breast cancer (mBC) and its treatment&#xD;
+      on patients in a real-world setting. There is a gap between the data from the narrowly&#xD;
+      focused low-quantity, high-quality interventional studies and less granular data collection,&#xD;
+      high-quantity real world data (RWD). Therefore, prospective, observational trials including&#xD;
+      all patients independent of biomarkers and collecting comprehensive data on each are needed.&#xD;
+&#xD;
+      Research question and objectives:&#xD;
+&#xD;
+        -  To describe treatment outcomes based on RWD by a complete set of clinical,&#xD;
+           socio-psychological, medico-economics data and biospecimens, including whole genome&#xD;
+           sequencing (WGS) of all patients with breast cancer and NSCLC.&#xD;
+&#xD;
+        -  To record the treatment-related adverse events and late effects experienced by patients&#xD;
+           based on PRO tools.&#xD;
+&#xD;
+        -  To perform refined biomarker analyses, including (but not limited to) whole genome&#xD;
+           sequencing, on tumor biopsies at baseline and at progression, in order to identify&#xD;
+           potential treatment targets.&#xD;
+&#xD;
+      Study design: Prospective, non-interventional, multicenter study of patients initiating&#xD;
+      treatment for NSCLC or breast cancer in Copenhagen (Denmark).&#xD;
+&#xD;
+      Population: Eligible patients will have breast cancer or NSCLC and acceptable performance&#xD;
+      status and organ function.&#xD;
+&#xD;
+      Data sources: Study data will be collected via a baseline site questionnaire; Patient&#xD;
+      Reported Outcomes (PRO) questions via mobile application at cycle-based intervals; and&#xD;
+      patient medical information from medical records into an eCRF at baseline and at every visit&#xD;
+      until the end of the follow-up period. Baseline WGS will be performed on diagnostic/surgical&#xD;
+      specimens after informed consent according to the Danish law of the National Genome Center.&#xD;
+      There are no specific protocol-mandated tests, procedures, or clinic visits for this study,&#xD;
+      but repeat sequential biopsies for WGS are optional at progression. All data collection for&#xD;
+      this study will occur over a 30-months period (including all treatment lines for new patients&#xD;
+      included in the period).&#xD;
+&#xD;
+      Study size: Up to 2400 patients diagnosed with NSCLC or breast cancer will be enrolled.&#xD;
+      Breast cancer patients will be enrolled at Rigshospitalet, and NSCLC at Rigshospitalet and&#xD;
+      Herlev Hospital. Any patient who meets the eligibility criteria will be invited to&#xD;
+      participate in the study. Eligibility will be assessed prior to enrollment during a scheduled&#xD;
+      visit.&#xD;
+&#xD;
+      Data analysis: Analyses will generally be descriptive and explorative in nature and will be&#xD;
+      conducted using SPSS statistical software, and no sample size calculations can be performed.&#xD;
+      All variables will be summarized descriptively through tabular displays of mean, median,&#xD;
+      ranges, and standard deviations of continuous variables and frequency distributions of&#xD;
+      categorical variables. Exploratory analyses may be conducted to examine correlations and/or&#xD;
+      other research questions (e.g., time-to-first-neutropenia using Kaplan- Meier methods or&#xD;
+      mutational status and response). No formal hypothesis testing or comparisons between&#xD;
+      treatment groups are performed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 1, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression free survival</measure>
+    <time_frame>3 years</time_frame>
+    <description>Time from baseline to progression (measured using RECIST v1.1)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient reported outcomes</measure>
+    <time_frame>3 years</time_frame>
+    <description>Health related quality of life. Two istruments will be used: EQ-5D-5L and EORTC QLQ-C30. The EQ-5D-5L will be administered at baseline and after each chemo cycle. The EORTC QLQ-C30 will be administered at baseline and 3 months after baseline.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>3 years</time_frame>
+    <description>Time from baseline to death or censoring</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment response</measure>
+    <time_frame>3 years</time_frame>
+    <description>Treatment response will be measured using RECIST v1.1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>3 years</time_frame>
+    <description>Adverse events will be measured using a selection of instruments from the NCI PRO-CTCAE Measurement System (Danish version 1.0).&#xD;
+For patients with lung cancer, the selection includes question #8, 9, 15, 16, 19, 20, 24, 46, 48, 52, 53, 54, 56 as well as free text entry.&#xD;
+For patients with breast cancer, the selection includes question #8, 15, 39, 46, 48, 52, 53, 54, 56 as well as free text entry.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Late effects</measure>
+    <time_frame>3 years</time_frame>
+    <description>Late effects will be measured using a selection of instruments from the NCI PRO-CTCAE Measurement System (Danish version 1.0).&#xD;
+For patients with lung cancer, the selection includes question #8, 9, 15, 16, 19, 20, 24, 46, 48, 52, 53, 54, 56 as well as free text entry.&#xD;
+For patients with breast cancer, the selection includes question #8, 15, 39, 46, 48, 52, 53, 54, 56 as well as free text entry.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">2400</enrollment>
+  <condition>Non-small Cell Lung Cancer</condition>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Patients with newly diagnosed non-small cell lung cancer</arm_group_label>
+    <description>Approximately 1800 patients who are initiating&#xD;
+Standard of care, including targeted therapy based on PD-L1 status, EGFR, ALK or ROS1 (routine biomarkers)&#xD;
+Active clinical trials in the clinics after informed consent</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients with metastatic breast cancer</arm_group_label>
+    <description>Approximately 600 patients who are initiating&#xD;
+Standard of care, including targeted therapy based on HER2 status and ER status (routine biomarkers)&#xD;
+Active clinical trials in the clinics after informed consent</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>NO intervention</intervention_name>
+    <description>No intervention</description>
+    <arm_group_label>Patients with metastatic breast cancer</arm_group_label>
+    <arm_group_label>Patients with newly diagnosed non-small cell lung cancer</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Diagnostic specimens will be used as baseline, and new biopsies will be performed at&#xD;
+      progression if feasible. A fresh tumor sample from metastatic sites will be obtained under&#xD;
+      local anaesthesia. If adequate tissue is available, samples are stored in RNAlater (Life&#xD;
+      Technologies) for RNA expression analyses and DNA gene mutation analyses and one sample is&#xD;
+      being formalin-fixed, paraffin-embedded (FFPE) for histopathologic analyses. Otherwise,&#xD;
+      formalin-fixed, paraffin-embedded (FFPE) will be used for WGS. A blood sample (7 mL EDTA) is&#xD;
+      collected for germline mutation analysis.&#xD;
+&#xD;
+      Liquid biopsies will be performed at baseline and at every treatment cycle. Peripheral blood&#xD;
+      is collected in BCT tubes (Streck Laboratories, Omaha, NE, USA). Circulating DNA (cfDNA) will&#xD;
+      be extracted from 2-4 ml plasma using the QIAsymphony Circulating DNA Kit (Qiagen, Hilden,&#xD;
+      Germany).&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Eligible patients will have non-small cell lung cancer or breast cancer and acceptable&#xD;
+        performance and organ function&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients (≥ 18 years of age) with diagnosis of NSCLC or breast cancer amenable to&#xD;
+             medical or radiation therapy with curative or palliative intent&#xD;
+&#xD;
+          -  Evidence of a personally signed and dated informed consent form document indicating&#xD;
+             that the patient has been informed of all pertinent aspects of the study&#xD;
+&#xD;
+          -  Able to read and understand Danish&#xD;
+&#xD;
+          -  Willing and able to complete collection of data including WGS&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient with breast cancer initiating adjuvant systemic therapy&#xD;
+&#xD;
+          -  In the judgment of the investigator, the patient's life expectancy is fewer than 3&#xD;
+             months at the time of diagnosis of NSCLC or breast cancer&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Ulrik Lassen, MD</last_name>
+    <phone>+4535453545</phone>
+    <email>ulrik.lassen@regionh.dk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Andreas Bjerrum, MD</last_name>
+    <phone>+4535450966</phone>
+    <email>andreas.bjerrum@regionh.dk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Rigshospitalet</name>
+      <address>
+        <city>Copenhagen</city>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ulrik Lassen, MD</last_name>
+      <phone>+4535453545</phone>
+      <email>ulrik.lassen@regionh.dk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Andreas Bjerrum, MD</last_name>
+      <phone>+4535450966</phone>
+      <email>andreas.bjerrum@regionh.dk</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ulrik Lassen, MD, PH.D</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 6, 2021</study_first_posted>
+  <last_update_submitted>November 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rigshospitalet, Denmark</investigator_affiliation>
+    <investigator_full_name>Ulrik Lassen</investigator_full_name>
+    <investigator_title>Head of department</investigator_title>
+  </responsible_party>
+  <keyword>Real world data</keyword>
+  <keyword>Observational trial</keyword>
+  <keyword>WGS, whole genome sequencing</keyword>
+  <keyword>Patient Reported Outcomes, PRO</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5101">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05094804</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OR2805-101</org_study_id>
+    <nct_id>NCT05094804</nct_id>
+  </id_info>
+  <brief_title>A Study of OR2805, a Monoclonal Antibody Targeting CD163, Alone and in Combination With a PD-1 Inhibitor</brief_title>
+  <official_title>A Phase 1-2 Study of OR2805, a Monoclonal Antibody Targeting CD163, Alone and in Combination With a PD-1 Inhibitor in Subjects With Advanced Malignancies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>OncoResponse, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>OncoResponse, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open-label, multicenter, first-in-human dose-escalation and expansion Phase 1-2&#xD;
+      study designed to determine the safety, tolerability, pharmacokinetics, pharmacodynamics, and&#xD;
+      preliminary anti-tumor activity of OR2805 administered as a monotherapy and in combination&#xD;
+      with a PD-1 inhibitor in subjects with advanced solid tumors.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This Phase 1-2 study is designed to determine the safety, tolerability, pharmacokinetics,&#xD;
+      pharmacodynamics, and preliminary anti-tumor activity of OR2805, a fully human IgG1 antibody&#xD;
+      that binds specifically to CD163, in subjects with advanced solid tumors. The study consists&#xD;
+      of four parts:&#xD;
+&#xD;
+        -  Part A: a dose-escalation phase to determine the maximum-tolerated dose (MTD) or maximum&#xD;
+           achievable dose and the recommended phase 2 dose (RP2D) of OR2805 in a maximum of&#xD;
+           approximately 20 subjects.&#xD;
+&#xD;
+        -  Part B: a monotherapy expansion phase of up to approximately 40 subjects in each of 4&#xD;
+           select tumor types at the RP2D to determine preliminary anti-tumor activity and further&#xD;
+           characterize safety.&#xD;
+&#xD;
+        -  Part C: a mini-dose-escalation at 2 doses of OR2805 in combination with a PD-1 inhibitor&#xD;
+           followed by a combination expansion cohort of up to approximately 40 subjects in each of&#xD;
+           2 tumor types to determine the safety and preliminary anti-tumor activity of OR2805 in&#xD;
+           combination with a PD-1 inhibitor.&#xD;
+&#xD;
+        -  Part D: a biology cohort of up to approximately 20 subjects at the RP2D to determine&#xD;
+           mechanism of action and potential predictors of response and pharmacodynamics in&#xD;
+           subjects not eligible for either Part B or C.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 9, 2021</start_date>
+  <completion_date type="Anticipated">August 15, 2024</completion_date>
+  <primary_completion_date type="Anticipated">April 15, 2024</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Dose-limiting Toxicity</measure>
+    <time_frame>First 21 days of treatment.</time_frame>
+    <description>The incidence of DLTs during the DLT assessment period.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and Tolerability</measure>
+    <time_frame>Screening to 90 days from last dose.</time_frame>
+    <description>The nature, frequency, and severity of adverse events and serious adverse events, treatment discontinuations due to toxicity, and clinical laboratory abnormalities; recording of infusion-related reactions; physical examination and ECG findings; vital sign measurements; ECOG performance status scores; markers of inflammation and immunogenicity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Recommended Dose and Regimen (mono and combination therapy)</measure>
+    <time_frame>Screening to 90 days from last dose.</time_frame>
+    <description>Determination of the MTD or maximum achievable dose, and the RP2D.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of OR2805</measure>
+    <time_frame>Day 1 of dosing through 21 days post last dose.</time_frame>
+    <description>Peak plasma concentration (Cmax).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of OR2805</measure>
+    <time_frame>Day 1 of dosing through 21 days post last dose.</time_frame>
+    <description>Area under the plasma concentration versus time curve (AUC).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate (ORR)</measure>
+    <time_frame>Day 1 of dosing through every 90 after the last dose.</time_frame>
+    <description>ORR according to RECIST v1.1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate (DCR)</measure>
+    <time_frame>Day 1 of dosing through every 90 after the last dose.</time_frame>
+    <description>The percentage of subjects with a complete response, partial response, or stable disease for at least 2 consecutive tumor assessments.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>Day 1 of dosing through every 90 after the last dose.</time_frame>
+    <description>Time from the date of initiation of study therapy to the date measurement criteria are first met for PD or death from any cause, whichever occurs first.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">130</enrollment>
+  <condition>Cancer</condition>
+  <condition>Tumor, Solid</condition>
+  <condition>Malignant Neoplasm</condition>
+  <condition>Metastatic Cancer</condition>
+  <condition>Advanced Solid Tumor</condition>
+  <condition>Non Small Cell Lung Cancer</condition>
+  <condition>TNBC - Triple-Negative Breast Cancer</condition>
+  <condition>Melanoma</condition>
+  <condition>Head and Neck Squamous Cell Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>OR2805 monotherapy dose-escalation phase (Part A)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Escalating repeated doses of OR2805 by IV administration as monotherapy in subjects with advanced solid tumors. OR2805 will be administered once every 3 weeks (Q3W) as an IV infusion over 30 minutes.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>OR2805 monotherapy dose-expansion phase (Part B)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>OR2805 administered Q3W as an IV infusion over 30 minutes at the RP2D identified in Part A to subjects with advanced tumor types that are resistant to one line of CPI therapy, including NSCLC, SCCHN, TNBC, melanoma.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>OR2805 + PD-1 inhibitor mini-dose-escalation and expansion phase (Part C)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Mini-dose-escalation at 2 doses of OR2805 administered Q3W as an IV infusion over 30 minutes in combination with standard dose pembrolizumab or nivolumab, followed by combination expansion cohorts in patients with NSCLC and melanoma.&#xD;
+Pembrolizumab will be administered as an IV infusion at a dose of 200 mg Q3W (or 400 mg IV Q6W).&#xD;
+Nivolumab will be administered as an IV infusion at a dose of 240 mg Q2W (or 480 mg IV Q4W).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Biological effects phase (Part D)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>OR2805 administered Q3W as an IV infusion over 30 minutes at the RP2D identified in Part A in subjects with advanced tumors to further evaluate the biological effects of OR2805 in solid tumors.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>OR2805</intervention_name>
+    <description>IgG1 monoclonal antibody that binds specifically to the CD163 protein.</description>
+    <arm_group_label>Biological effects phase (Part D)</arm_group_label>
+    <arm_group_label>OR2805 + PD-1 inhibitor mini-dose-escalation and expansion phase (Part C)</arm_group_label>
+    <arm_group_label>OR2805 monotherapy dose-escalation phase (Part A)</arm_group_label>
+    <arm_group_label>OR2805 monotherapy dose-expansion phase (Part B)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pembrolizumab</intervention_name>
+    <description>IgG4 mAb with high specificity of binding to the PD-1 receptor, thus inhibiting its interaction with PD-L1 and programmed cell death ligand 2 (PD-L2).</description>
+    <arm_group_label>OR2805 + PD-1 inhibitor mini-dose-escalation and expansion phase (Part C)</arm_group_label>
+    <other_name>Keytruda</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nivolumab</intervention_name>
+    <description>IgG4 monoclonal antibody that binds to the PD-1 receptor and blocks its interaction with PD-L1 and PD-L2, releasing PD-1 pathway-mediated inhibition of the immune response.</description>
+    <arm_group_label>OR2805 + PD-1 inhibitor mini-dose-escalation and expansion phase (Part C)</arm_group_label>
+    <other_name>Opdivo</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Informed consent signed by the subject prior to conducting study-specific procedures.&#xD;
+&#xD;
+          2. Male or female subjects ≥ 18 years of age.&#xD;
+&#xD;
+          3. Histological diagnosis as follows:&#xD;
+&#xD;
+               1. Part A (dose-escalation): histological diagnosis of any type of carcinoma,&#xD;
+                  sarcoma, or melanoma with progressive metastatic disease, or progressive locally&#xD;
+                  advanced disease not amenable to local therapy.&#xD;
+&#xD;
+               2. Part B (tumor-type-specific expansion Cohorts): histological diagnosis of the&#xD;
+                  relevant tumor type (NSCLC, SCCHN, TNBC, melanoma) with advanced/metastatic&#xD;
+                  disease not amenable to local therapy.&#xD;
+&#xD;
+               3. Part C (combination cohort): histological diagnosis of NSCLC or melanoma with&#xD;
+                  advanced/metastatic disease not amenable to local therapy. Subjects must be&#xD;
+                  eligible to receive a PD-1 or PD-L1 inhibitor.&#xD;
+&#xD;
+               4. Part D (biology cohort): histological or cytological diagnosis of any type of&#xD;
+                  carcinoma, sarcoma, or melanoma with progressive metastatic disease, or&#xD;
+                  progressive locally advanced disease not amenable to local therapy.&#xD;
+&#xD;
+          4. Prior therapies:&#xD;
+&#xD;
+             a. Part A (dose-escalation)&#xD;
+&#xD;
+             i. For the escalation cohorts, subjects must have experienced PD on an established&#xD;
+             standard systemic anti-cancer therapy for a given tumor type or have been intolerant&#xD;
+             to such therapy, or in the opinion of the Investigator have been considered ineligible&#xD;
+             for a particular form of standard therapy on medical grounds. Subjects must have no&#xD;
+             available proven curative or life-prolonging therapies.&#xD;
+&#xD;
+             b. Part B (dose-expansion)&#xD;
+&#xD;
+             i. For NSCLC: subjects must have received platinum-based therapy and a PD-1 or PD-L1&#xD;
+             inhibitor unless contraindicated. Subjects eligible for mutation-targeted therapies to&#xD;
+             EGFR, ALK, ROS, RET, or NTRK (e.g., crizotinib) must have exhausted such therapies.&#xD;
+             Prior therapies may have been administered alone or in combination. No more than 2&#xD;
+             chemotherapy regimens are allowed.&#xD;
+&#xD;
+             ii. For SCCHN: subjects must have received one line of chemotherapy and a PD-1- or&#xD;
+             PD-L1-targeted agent alone or in combination with chemotherapy unless contraindicated.&#xD;
+             No more than 2 chemotherapy regimens in the advanced setting are allowed.&#xD;
+&#xD;
+             iii. For TNBC: subjects must have received one line of chemotherapy and a PARP&#xD;
+             inhibitor (if eligible based on BRCA mutation status) in the metastatic or locally&#xD;
+             advanced unresectable setting. Eligible subjects may have received a PD-(L)1&#xD;
+             inhibitor.&#xD;
+&#xD;
+             iv. For melanoma: subjects must have received a PD-1 or PD-L1 inhibitor, alone or in&#xD;
+             combination with a CTLA-4-targeted therapy. Eligible subjects must have received BRAF-&#xD;
+             and MEK-targeted therapies.&#xD;
+&#xD;
+             c. Part C (combination cohort): subjects with histologically confirmed unresectable&#xD;
+             locally advanced or metastatic NSCLC or melanoma requiring systemic therapy who are&#xD;
+             eligible for anti-PD-1 monotherapy and have not received prior anti-PD-1 or anti-PD-L1&#xD;
+             therapy:&#xD;
+&#xD;
+             i. For NSCLC, subjects may have received platinum-based therapy for advanced disease.&#xD;
+             Subjects eligible for mutation-targeted therapies to EGFR, ALK, ROS, RET, or NTRK&#xD;
+             (e.g., crizotinib) must have exhausted such therapies.&#xD;
+&#xD;
+             ii. PD-1 or PD-L1 given in the adjuvant setting is allowed provided that 6 months has&#xD;
+             elapsed from the end of such therapy to the first dose of OR2805.&#xD;
+&#xD;
+             d. Part D (biology cohort): subjects must have experienced PD on an established&#xD;
+             standard medical anti-cancer therapy for a given tumor type or have been intolerant to&#xD;
+             such therapy, or in the opinion of the Investigator have been considered ineligible&#xD;
+             for a particular form of standard therapy on medical grounds and must have no&#xD;
+             available demonstrated curative or life-prolonging therapies.&#xD;
+&#xD;
+          5. Subject must have demonstrated PD after the most recent treatment regimen (not&#xD;
+             applicable to Part C).&#xD;
+&#xD;
+          6. Subjects must have measurable disease as per RECIST v1.1. Subjects in Part D must have&#xD;
+             one lesion amenable to biopsy and not to be used for response assessment as per RECIST&#xD;
+             v1.1.&#xD;
+&#xD;
+          7. If not postmenopausal or surgically sterile, subjects must be willing to practice at&#xD;
+             least one highly effective method of birth control for at least a menstrual cycle (or&#xD;
+             partner's menstrual cycle, for male subjects) before and for 3 months after study&#xD;
+             medication administration.&#xD;
+&#xD;
+          8. Resolution of prior-therapy-related AEs (including immune-related AEs but excluding&#xD;
+             alopecia grade ≤ 2 peripheral neuropathy is allowed) to ≤ grade 1 per CTCAE v5.0, and&#xD;
+             no treatment for these AEs for at least 2 weeks prior to the time of enrollment, with&#xD;
+             the exception of electrolyte and hormonal supplementation, which are allowed provided&#xD;
+             the subject is stable on these supplements.&#xD;
+&#xD;
+          9. Minimum of 2 weeks since last dose of other hormone therapy and 3 weeks since last&#xD;
+             dose of other systemic cancer therapy or radiotherapy. Adjuvant hormonal therapy (for&#xD;
+             example tamoxifen) is allowed provided the original tumor diagnosis was more than 3&#xD;
+             years before the first dose of study medication.&#xD;
+&#xD;
+         10. Subject must have adequate organ function.&#xD;
+&#xD;
+         11. All subjects must be able to supply an archival tumor biopsy specimen. For Part D&#xD;
+             (biology cohort), subject has to agree to a newly obtained biopsy of tumor An&#xD;
+             additional on-treatment biopsy is required for subjects in Part D.&#xD;
+&#xD;
+         12. Subject is able and willing to comply with the protocol and the restrictions and&#xD;
+             assessments therein.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subject previously had a severe hypersensitivity reaction to treatment with another&#xD;
+             mAb.&#xD;
+&#xD;
+          2. Subject has ECOG PS &gt; 2.&#xD;
+&#xD;
+          3. Life expectancy &lt;12 weeks.&#xD;
+&#xD;
+          4. Prior organ or stem cell transplant.&#xD;
+&#xD;
+          5. Subjects with symptomatic ascites or pleural effusion.&#xD;
+&#xD;
+          6. Subject has known active CNS primary tumor or metastases and/or carcinomatous&#xD;
+             meningitis. Subjects with previously treated brain metastases may participate provided&#xD;
+             they are clinically stable for at least 4 weeks prior to study entry, have no&#xD;
+             radiological evidence of new or enlarging brain metastases, and are off steroids or on&#xD;
+             a stable dose up to an equivalent of prednisone 10 mg/day for at least 15 days prior&#xD;
+             to first dose of study medication. If subjects have symptoms suspicious for CNS&#xD;
+             metastasis, an MRI must be negative in the screening period.&#xD;
+&#xD;
+          7. Subject has a known history of a hematologic malignancy, malignant primary brain&#xD;
+             tumor, or another malignant primary solid tumor (other than that under study), unless&#xD;
+             the subject has undergone potentially curative therapy with no evidence of that&#xD;
+             disease for at least 3 years.&#xD;
+&#xD;
+             Note: The time requirement for no evidence of disease for 3 years does not apply to&#xD;
+             the tumor for which a subject is enrolled in the study. The time requirement also does&#xD;
+             not apply to subjects who underwent successful definitive resection of basal cell&#xD;
+             carcinoma of the skin, superficial bladder cancer, squamous cell carcinoma of the&#xD;
+             skin, in situ cervical cancer, or other in situ cancers.&#xD;
+&#xD;
+          8. Recent or ongoing serious infection including the following:&#xD;
+&#xD;
+               1. Any uncontrolled grade 3 or higher (per CTCAE v5.0) viral, bacterial, or fungal&#xD;
+                  infection within 2 weeks prior to the first dose of OR2805. Routine antimicrobial&#xD;
+                  prophylaxis is allowed.&#xD;
+&#xD;
+               2. Uncontrolled infection with HIV. Subjects on stable HARRT therapy with&#xD;
+                  undetectable viral load and normal CD4 counts for at least 6 months prior to&#xD;
+                  study entry are eligible. Serological testing for HIV at screening is not&#xD;
+                  required.&#xD;
+&#xD;
+               3. Known to be positive for hepatitis B surface antigen, or any other positive test&#xD;
+                  for hepatitis B indicating acute or chronic infection. Subjects who are or have&#xD;
+                  received anti-HBV therapy and have undetectable HBV DNA for at least 6 months&#xD;
+                  prior to study entry are eligible.&#xD;
+&#xD;
+               4. Known active hepatitis C as determined by positive serology and confirmed by PCR.&#xD;
+                  Subjects on or having received antiretroviral therapy are eligible provided they&#xD;
+                  are virus-free by PCR for at least 6 months prior to study entry.&#xD;
+&#xD;
+               5. Known active or latent tuberculosis (testing at screening not required).&#xD;
+&#xD;
+          9. Autoimmune disease or inflammatory condition requiring systemic therapy with&#xD;
+             exceptions as noted in exclusion criterion 8.&#xD;
+&#xD;
+         10. Use of systemic corticosteroids within 15 days or other immunosuppressive drugs within&#xD;
+             30 days prior to start of the study, with the exception of corticosteroids as&#xD;
+             replacement therapy up to an equivalent of prednisone 10 mg/day which is allowed.&#xD;
+             Inhaled, topical, or intraarticular steroids are allowed.&#xD;
+&#xD;
+         11. Subject has received an investigational product or been treated with an&#xD;
+             investigational device within 30 days prior to first administration of study&#xD;
+             medication.&#xD;
+&#xD;
+         12. For Part C:&#xD;
+&#xD;
+               1. Known contraindication to receiving anti-PD-1 or PD-L1 therapy.&#xD;
+&#xD;
+               2. Interstitial lung disease.&#xD;
+&#xD;
+               3. Prior pneumonitis requiring systemic corticosteroid therapy.&#xD;
+&#xD;
+               4. Receiving immunosuppressive therapy, with exceptions as noted in exclusion&#xD;
+                  criterion 9.&#xD;
+&#xD;
+               5. A history of severe immune-related adverse reactions from treatment with&#xD;
+                  ipilimumab, defined as any grade 4 toxicity or grade 3 toxicity requiring&#xD;
+                  corticosteroid treatment (&gt; 10 mg/day prednisone or equivalent) for more than 12&#xD;
+                  weeks.&#xD;
+&#xD;
+         13. Concurrent therapy with anti-cancer or anti-neoplastic drugs, with the exception of&#xD;
+             adjuvant hormonal therapy, which is allowed provided the subject has undergone&#xD;
+             potentially curative therapy with no evidence of that disease for at least 3 years.&#xD;
+&#xD;
+         14. History or clinical evidence of any surgical or medical condition that the&#xD;
+             Investigator judges as likely to interfere with the results of the study or pose an&#xD;
+             additional risk in participating, e.g., rapidly progressive or uncontrolled disease&#xD;
+             involving a major organ system-vascular, cardiac, pulmonary, gastrointestinal,&#xD;
+             gynecologic, hematologic, neurologic, neoplastic, renal, endocrine, autoimmune or an&#xD;
+             immunodeficiency, or clinically significant active psychiatric or abuse disorders.&#xD;
+&#xD;
+         15. Subject, at the time of signing informed consent, had a recent history (within the&#xD;
+             last year) of chronic substance abuse.&#xD;
+&#xD;
+         16. Subject is pregnant or breastfeeding or expecting to conceive or father children&#xD;
+             within the projected duration of the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Kate Harrop</last_name>
+    <phone>425-420-0749</phone>
+    <email>KHarrop@oncoresponseinc.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>HonorHealth Research Institute</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85258</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael S Gordon, MD</last_name>
+      <phone>480-323-1350</phone>
+      <email>mgordon@honorhealth.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>NEXT Austin</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78758</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andrae Vandross, MD</last_name>
+      <phone>210-580-9500</phone>
+      <email>avandross@nextoncology.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>NEXT Oncology</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anthony W Tolcer, MD</last_name>
+      <phone>210-580-9500</phone>
+      <email>atolcher@nextoncology.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 26, 2021</study_first_posted>
+  <last_update_submitted>October 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Triple Negative Breast Neoplasms</mesh_term>
+    <mesh_term>Squamous Cell Carcinoma of Head and Neck</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pembrolizumab</mesh_term>
+    <mesh_term>Nivolumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

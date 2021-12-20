@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8819">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05046444</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MLL_002</org_study_id>
+    <nct_id>NCT05046444</nct_id>
+  </id_info>
+  <brief_title>Solving Riddles Through Sequencing</brief_title>
+  <acronym>SIRIUS</acronym>
+  <official_title>Testing the Diagnostic Supremacy of Sequencing-only Approaches in Hematologic Malignancies: an Observational Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Munich Leukemia Laboratory</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Illumina, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Munich Leukemia Laboratory</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      During the last decades hematologists have excelled at improving and refining the&#xD;
+      classification, diagnosis, and thus ultimately the therapeutic decision-making process for&#xD;
+      their patients. This continuous evolution proceeded in parallel to seminal discoveries in&#xD;
+      basic science such as FISH, PCR and NGS. So far, the current WHO classification serves as&#xD;
+      reference to diagnostic decision making and is largely based on 5 diagnostic pillars:&#xD;
+      cytomorphology of peripheral blood and/or bone marrow smears, histology and&#xD;
+      immunohistochemistry of bone marrow trephine biopsies or lymph nodes, immunophenotyping,&#xD;
+      chromosome banding analysis supplemented by FISH analysis, molecular genetics including PCR&#xD;
+      and targeted panel sequencing via NGS. This leads to a swift diagnosis in 90 % of all cases.&#xD;
+      The leftover 10 % remain a challenge for hematopathologists and clinicians alike and are&#xD;
+      resolved through interdisciplinary teams in the context of specialized boards. With the&#xD;
+      advent of high throughput sequencing (mainly WGS and WTS) the possibility of a comprehensive&#xD;
+      and detailed portrait of the genetic alterations - specifically in challenging cases - has&#xD;
+      become a realistic alternative to classical methods. In SIRIUS the investigators will&#xD;
+      prospectively challenge this hypothesis to address the question of how often a better or&#xD;
+      final diagnosis can be delivered by WGS and/or WTS and if unclear cases can be efficiently&#xD;
+      resolved.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      1. Background and Rationale Treatment of hematological diseases relies on a single cardinal&#xD;
+           prerequisite: correct classification within the broad specter of malignant diseases&#xD;
+           arising from the hematopoietic system. With the ever-expanding availability of distinct&#xD;
+           yet complementary diagnostic tools, our understanding of the landscape of hematological&#xD;
+           diseases steadily increases. As such, the current consensus classification as summarized&#xD;
+           through the WHO classification (2017) represents a compass guiding diagnostic algorithms&#xD;
+           to the correct diagnosis. Today, the gold standard of routine diagnostic process relies&#xD;
+           on five methodological pillars: cytomorphology, histology, chromosomal cytogenetics,&#xD;
+           immunophenotyping, and molecular genetic testing. This leads to a treatment enabling&#xD;
+           diagnosis in the vast majority of cases. However, approximately 10 % of cases remain&#xD;
+           unresolved from a diagnostic point of view and hence do not lead to a satisfactory&#xD;
+           diagnosis according to current WHO standards (2017). The investigators intend to solve&#xD;
+           this issue to provide illuminating diagnostic guidance for the best possible patient´s&#xD;
+           care.&#xD;
+&#xD;
+        2. Objectives To address this problem, the investigators hypothesize that novel high&#xD;
+           throughput sequencing methods, e.g., whole genome and/or whole transcriptome sequencing&#xD;
+           are able - by virtue of painting a more delicate genetic portrait of a tumor sample - to&#xD;
+           provide a more accurate diagnosis.&#xD;
+&#xD;
+      To this end the investigators generated a reference collection of 5,500 samples with the full&#xD;
+      spectrum of hematological malignancies, for which the investigators performed whole-genome&#xD;
+      sequencing as well as whole-transcriptome sequencing. Moreover, gold standard diagnoses&#xD;
+      according to WHO classification with all needed techniques, all performed in MLL, clinical&#xD;
+      data and therapy response data are fully available for these cases. The main advantage of&#xD;
+      this reference collection consists of the unambiguity of each diagnosis, providing a&#xD;
+      reference framework for any further classification and diagnosis especially in difficult&#xD;
+      cases.&#xD;
+&#xD;
+      Therefore, SIRIUS will compare the diagnostic superiority of WGS or WTS to the combined&#xD;
+      approach with gold standard results and by matching the obtained results to the nearest&#xD;
+      &quot;digital sibling&quot; within our reference cohort of more than 5,500 WGS and WTS (both in 93% of&#xD;
+      cases). To this end, the investigators will use an inhouse developed matching algorithm,&#xD;
+      which is able to match genomic or transcriptomic profiles to a group of similar cases and&#xD;
+      gold standard results from timepoint of this study. Current workflows intended to generate&#xD;
+      WTS/WGS data from patient samples - all while fulfilling state of the art accreditation (ISO&#xD;
+      15189) - require up to 5 - 7 days. This is largely comparable to classical methods but holds&#xD;
+      the promise to replace error prone and arduous iterations in the methodological work up. The&#xD;
+      objective is to test whether WTS and/or WGS based approaches can surpass classical methods&#xD;
+      regarding diagnostic precision and routine reliability. Here the investigators will test this&#xD;
+      hypothesis in a prospective real-world setting under diagnostically difficult circumstances.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 1, 2021</start_date>
+  <completion_date type="Anticipated">October 1, 2026</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>sequencing only versus gold standard diagnosis</measure>
+    <time_frame>Time Frame of Outcome: At diagnosis for each case/patient throughout the complete duration of study for approximately 1 year.</time_frame>
+    <description>The primary endpoint will be assessed as follows: unclear cases will be subjected to three diagnostic algorithms:&#xD;
+Inhouse at referring site by histopathological diagnosis in the context of a hematological tumor board according to current standards&#xD;
+Current gold-standard diagnostic workup as performed routinely by the MLL&#xD;
+WGS and WTS sequencing plus matching to nearest digital sibling in 5,5k cohort&#xD;
+We will compare the accuracy for approach #3 for each patient/case by comparing the sequencing results with the therapy guiding approach in domo and Current gold-standard diagnostic workup as performed routinely by the MLL. Accuracy and overlap or discordance will be measured in percentage (%) of total cohort. Time Frame of Outcome: At diagnosis for each case/patient throughout the complete duration of study for approximately 1 year.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>turnaround time</measure>
+    <time_frame>The time frame will be consisting of an assessment at diagnosis for next 14 days per case/patient.</time_frame>
+    <description>Turnaround time until potential therapy guiding diagnosis will be measure and compared in days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>actionable targets</measure>
+    <time_frame>This outcome will be measured one year after diagnosis. (1 year after diagnosis)</time_frame>
+    <description>The number of potential actionable targets will be determined for each case. We will assess this number in absolute numbers for each patient and for which a therapy has been approved but identification was missed in during classical gold standard diagnosis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>disease stage</measure>
+    <time_frame>This outcome will be measured one year after diagnosis. (1 year after diagnosis)</time_frame>
+    <description>We will Identify the putative disease stage based on sequencing only approaches in comparison to normal gold standard diagnosis as well as clinical history. Results will be denoted as percentage (%) of correctly classified cases.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Micro-cost analysis</measure>
+    <time_frame>The estimated timeframe for this outcome will be the timepoint of diagnosis for each patient (approximately 5 days)</time_frame>
+    <description>We will measure all costs for respective assays and personnel to finally compare workflows 2 and 3 (see primary outcome 1.).</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Leukemia</condition>
+  <condition>Hematologic Malignancy</condition>
+  <condition>Rare Diseases</condition>
+  <condition>Refractory Leukemia</condition>
+  <condition>Refractory Lymphoma</condition>
+  <condition>Unknown Primary Tumors</condition>
+  <arm_group>
+    <arm_group_label>Unclear diagnosis via conventional methods</arm_group_label>
+    <description>The study population consists of carefully chosen patients with potential hematological malignancy, for which current diagnostic methods were not sufficient to provide clear-cut diagnosis and definitive clinical guidance. SIRIUS will be conducted for a total number of 110 patients with inconclusive diagnosis by gold standard techniques for a total of up to nine months after the first enrollment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Next Generation Sequencing</intervention_name>
+    <description>NON-Interventional Observation only study comparing sequencing-only approaches to classical diagnostic methods</description>
+    <arm_group_label>Unclear diagnosis via conventional methods</arm_group_label>
+    <other_name>NGS, Whole genome Sequencing</other_name>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Peripheral blood smears for morphology and/or peripheral blood or bone marrow for&#xD;
+      immunophenotyping from all hematological malignancies recognized by current WHO&#xD;
+      classification (Swerdlow et al. 2017)&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        SIRIUS is conducted as a monocentric prospective case-control study. The study population&#xD;
+        consists of carefully chosen patients with potential hematological malignancy, for which&#xD;
+        current diagnostic methods were not sufficient to provide clear-cut diagnosis and&#xD;
+        definitive clinical guidance. SIRIUS is entirely a non-interventional study without&#xD;
+        therapeutic consequences for direct patient care.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients having been investigated with a suspected hematological disorder and:&#xD;
+&#xD;
+          -  Having unclear diagnosis after internal routine diagnosis&#xD;
+&#xD;
+          -  Unusual clinical course&#xD;
+&#xD;
+          -  Unusual r/r status or non-responder&#xD;
+&#xD;
+          -  Multiple parallel hematological conditions&#xD;
+&#xD;
+          -  Difficult/rare therapy associated/secondary neoplasms&#xD;
+&#xD;
+          -  Current diagnostic workup is not satisfactory in terms of (1) accuracy (2) clinical&#xD;
+             behavior&#xD;
+&#xD;
+          -  Only samples of patients min. 18 years of age will be used&#xD;
+&#xD;
+          -  Material with a minimum of 20% tumor content in bone marrow or peripheral blood sample&#xD;
+&#xD;
+          -  Patient´s informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Sample is not fit for state-of-the-art diagnosis, fails initial quality control. For&#xD;
+             quality insurance we will exclude samples with wrong anticoagulant sent. Samples with&#xD;
+             damage due to meteorological reasons (freeze-thaw damage or elevated temperature) will&#xD;
+             be excluded.&#xD;
+&#xD;
+          -  Samples with to scarce material jeopardizing routine gold-standard diagnosis will be&#xD;
+             excluded (tumor content &lt; 20 %).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Torsten Haferlach, MD</last_name>
+    <phone>+49 (0)89 99017-100</phone>
+    <email>torsten.haferlach@mll.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Adam Wahida, MD</last_name>
+    <phone>004917664982845</phone>
+    <email>adam.wahida@tum.de</email>
+  </overall_contact_backup>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>July 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 16, 2021</study_first_posted>
+  <last_update_submitted>September 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Hematologic Neoplasms</mesh_term>
+    <mesh_term>Neoplasms, Unknown Primary</mesh_term>
+    <mesh_term>Rare Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>September 15, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/44/NCT05046444/Prot_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

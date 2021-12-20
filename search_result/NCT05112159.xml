@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3766">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05112159</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IPG1094-A001</org_study_id>
+    <nct_id>NCT05112159</nct_id>
+  </id_info>
+  <brief_title>Study of IPG1094 in Healthy Participants</brief_title>
+  <official_title>A Phase 1, First-in-human, Randomized, Double-blind, Placebo-controlled, Single Dose Escalation Study to Evaluate the Safety, Tolerability, and Pharmacokinetics (PK) of Orally Administered IPG1094 in Healthy Adult Participants</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nanjing Immunophage Biotech Co., Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Nanjing Immunophage Biotech Co., Ltd</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase 1, first-in-human, randomized, double-blind, placebo-controlled, single dose&#xD;
+      escalation study to evaluate the safety, tolerability, and PK of single dose orally&#xD;
+      administered IPG1094 in healthy adult participants.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 27, 2021</start_date>
+  <completion_date type="Anticipated">July 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 18, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Occurrence of all adverse events</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of adverse events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>RBC</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Hematology</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>white blood cell count (WBC)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Hematology</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>platelet count (PLT)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Hematology</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>haemoglobin (HGB)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Hematology</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>mean corpuscular hemoglobin</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Hematology</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>mean corpuscular hemoglobin concentration</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Hematology</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Hematocrit</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Hematology</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>mean corpuscular volume (MCV)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Hematology</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>absolute differential leukocyte count (eosinophils)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Hematology</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>absolute differential leukocyte count (monocytes)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Hematology</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>absolute differential leukocyte count (lymphocytes)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Hematology</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>absolute differential leukocyte count (basophils)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Hematology</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>absolute differential leukocyte count (neutrophils)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Hematology</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Temperature (°C )</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Vital Signs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Respiration rate</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Vital Signs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pulse rate</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Vital Signs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Blood pressure (both systolic and diastolic)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Vital Signs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Standard 12-lead ECG - heart rate</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Electrocardiograms</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Standard 12-lead ECG - QTcF</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Electrocardiograms</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Standard 12-lead ECG - PR</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Electrocardiograms</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Standard 12-lead ECG - QRS</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Electrocardiograms</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Standard 12-lead ECG - QT</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Electrocardiograms</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Alanine aminotransferase (ALT)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Serum Chemistry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>albumin (ALB)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Serum Chemistry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>alkaline phosphatase (ALP)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Serum Chemistry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>aspartate aminotransferase (AST)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Serum Chemistry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>total bilirubin (TBil)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Serum Chemistry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Urea</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Serum Chemistry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>calcium (Ca)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Serum Chemistry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>chloride (Cl)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Serum Chemistry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>cholesterol (CHO)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Serum Chemistry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>creatinine (Cr)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Serum Chemistry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>creatine kinase (CK)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Serum Chemistry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>glucose (Glu)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Serum Chemistry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>lactate dehydrogenase (LDH)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Serum Chemistry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>phosphate (P)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Serum Chemistry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>potassium (K)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Serum Chemistry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>sodium (Na)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Serum Chemistry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>total protein (TP)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Serum Chemistry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prothrombin time (PT)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Serum Coagulation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>activated partial thromboplastin time (APTT)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Serum Coagulation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>fibrinogen</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Serum Coagulation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>international normalized ratio (INR)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Serum Coagulation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>pH</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Urinalysis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Bilirubin (U-BIL)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Urinalysis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>glucose (GLU)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Urinalysis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>urine erythrocytes (U-RBC)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Urinalysis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>ketones (U-KET)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Urinalysis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Urinary leukocyte (U-LEU)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Urinalysis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>nitrites (U-NIT)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Urinalysis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>protein (U-PRO)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Urinalysis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>specific gravity (U-SG)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Urinalysis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>urobilinogen (URO)</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluation of Urinalysis</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximum plasma concentration（Cmax）</measure>
+    <time_frame>Blood samples will be collected at 0 h before administration (within 1h prior to administration), 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 9, 12, 24, 36, 48, 72, and 96 h after administration.</time_frame>
+    <description>Pharmacokinetic (PK) parameters after a single oral dose of IPG1094</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Cmax (tmax)</measure>
+    <time_frame>Blood samples will be collected at 0 h before administration (within 1h prior to administration), 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 9, 12, 24, 36, 48, 72, and 96 h after administration.</time_frame>
+    <description>Pharmacokinetic (PK) parameters after a single oral dose of IPG1094</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the serum concentration-time curve (AUC[0-t]</measure>
+    <time_frame>Blood samples will be collected at 0 h before administration (within 1h prior to administration), 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 9, 12, 24, 36, 48, 72, and 96 h after administration.</time_frame>
+    <description>Pharmacokinetic (PK) parameters after a single oral dose of IPG1094</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the serum concentration-infinity curve AUC[0-infinity]</measure>
+    <time_frame>Blood samples will be collected at 0 h before administration (within 1h prior to administration), 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 9, 12, 24, 36, 48, 72, and 96 h after administration.</time_frame>
+    <description>Pharmacokinetic (PK) parameters after a single oral dose of IPG1094</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Apparent terminal phase half-life (t1/2)</measure>
+    <time_frame>Blood samples will be collected at 0 h before administration (within 1h prior to administration), 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 9, 12, 24, 36, 48, 72, and 96 h after administration.</time_frame>
+    <description>Pharmacokinetic (PK) parameters after a single oral dose of IPG1094</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">46</enrollment>
+  <condition>Safety Issues</condition>
+  <arm_group>
+    <arm_group_label>IPG1094 100mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Four subjects in this cohort will receive a single dose of IPG1094 100 mg qd and two subjects will receive a single dose of placebo 100mg qd orally. Sentinel subjects (i.e. 1 subject will be dosed with IPG1094 and 1 with placebo before the remainder of the cohort is dosed) will be used in the cohort.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IPG1094 300mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Six subjects in this cohort will receive a single dose of IPG1094 300 mg qd and two subjects will receive a single dose of placebo 300mg qd orally.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IPG1094 600mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Six subjects in this cohort will receive a single dose of IPG1094 600 mg qd and two subjects will receive a single dose of placebo 600mg qd orally.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IPG1094 900mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Six subjects in this cohort will receive a single dose of IPG1094 900 mg qd and two subjects will receive a single dose of placebo 900mg qd orally.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IPG1094 1200mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Six subjects in this cohort will receive a single dose of IPG1094 1200 mg qd and two subjects will receive a single dose of placebo 1200 mg qd orally.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IPG1094 1500mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Six subjects in this cohort will receive a single dose of IPG1094 1500 mg qd and two subjects will receive a single dose of placebo 1500mg qd orally.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>IPG1094</intervention_name>
+    <description>The IPG1094 drug product is supplied as oral tablet dosage form, containing two strengths: 50 mg and 100 mg, respectively, which contain IPG1094.</description>
+    <arm_group_label>IPG1094 100mg</arm_group_label>
+    <arm_group_label>IPG1094 1200mg</arm_group_label>
+    <arm_group_label>IPG1094 1500mg</arm_group_label>
+    <arm_group_label>IPG1094 300mg</arm_group_label>
+    <arm_group_label>IPG1094 600mg</arm_group_label>
+    <arm_group_label>IPG1094 900mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>placebo</intervention_name>
+    <description>Matching placebo tablets to IPG1094 50mg and 100mg</description>
+    <arm_group_label>IPG1094 100mg</arm_group_label>
+    <arm_group_label>IPG1094 1200mg</arm_group_label>
+    <arm_group_label>IPG1094 1500mg</arm_group_label>
+    <arm_group_label>IPG1094 300mg</arm_group_label>
+    <arm_group_label>IPG1094 600mg</arm_group_label>
+    <arm_group_label>IPG1094 900mg</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Participants must meet all of the following criteria to be included in the study:&#xD;
+&#xD;
+        Demography&#xD;
+&#xD;
+          1. Healthy adult male or female participants between 18 and 50 years of age (inclusive).&#xD;
+&#xD;
+          2. Body weight between 50 and 100 kg (inclusive) and body mass index (BMI) within 18~32&#xD;
+             kg/m2 (inclusive).&#xD;
+&#xD;
+             Health status&#xD;
+&#xD;
+          3. In good health as determined by screening tests. Good health is defined as having no&#xD;
+             clinically relevant abnormalities identified by a detailed medical history, full&#xD;
+             physical examination (including measurement of blood pressure and pulse rate), 12-lead&#xD;
+             ECG, and clinical laboratory tests.&#xD;
+&#xD;
+             Vital signs (measured after resting for 5 minutes seated position) within normal&#xD;
+             range, or outside the normal range and not considered clinically significant by the&#xD;
+             Investigator.&#xD;
+&#xD;
+             Standard 12-lead ECG parameters (recorded after resting for 5 minutes in supine&#xD;
+             position) in the following ranges; corrected QT interval(QTc) (Fridericia algorithm&#xD;
+             recommended) ≤ 450 ms for males and 470 ms for females, and normal ECG tracing, or&#xD;
+             abnormal ECG tracing not considered clinically relevant by the Investigator.&#xD;
+&#xD;
+             Laboratory parameters demonstrating no clinically significant abnormalities, as&#xD;
+             determined by the Investigator. A total bilirubin outside the normal range may be&#xD;
+             acceptable if total bilirubin does not exceed 1.5 × upper limit of normal(ULN)&#xD;
+             conjugated bilirubin (with the exception of a participant with documented Gilbert&#xD;
+             syndrome).&#xD;
+&#xD;
+          4. A negative result on urine drug screen and a repeat negative result on Day -1&#xD;
+             (amphetamines/methamphetamines, barbiturates, benzodiazepines, cannabinoids, cocaine,&#xD;
+             opiates).&#xD;
+&#xD;
+          5. Female participants must not be pregnant or breastfeeding and must use an effective&#xD;
+             contraception method (as described in Section 4.5.4), with the exception of&#xD;
+             participants who have undergone sterilization in the preceding 3 months, or who are&#xD;
+             postmenopausal.&#xD;
+&#xD;
+             A woman of childbearing potential (WOCBP) must undergo pregnancy testing prior to the&#xD;
+             first dose of the Investigational Medicinal Product (IMP). The participant must be&#xD;
+             excluded from the study if the serum pregnancy test is positive.&#xD;
+&#xD;
+             A postmenopausal state is defined as 12 months of amenorrhea without an alternative&#xD;
+             medical cause. In the absence of 12 months of amenorrhea, menopause may be confirmed&#xD;
+             by follicle stimulating hormone（FSH） measurement (&gt; 40 IU/L or milli-International&#xD;
+             unit（mIU）/mL).Females on Hormonal Replacement therapy (HRT ), where menopausal status&#xD;
+             is indeterminate, will be required to use a non-estrogen hormonal contraceptive method&#xD;
+             if participants wish to continue their HRT during the study. Participants must&#xD;
+             otherwise discontinue HRT to allow for confirmation of postmenopausal status prior to&#xD;
+             enrollment in the study.&#xD;
+&#xD;
+             Regulation&#xD;
+&#xD;
+          6. Provide written informed consent prior to undertaking any study-related procedures.&#xD;
+&#xD;
+          7. Must not be under any administrative or legal supervision or under&#xD;
+             institutionalization as per a regulatory or juridical order.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Participants who meet any of the following criteria will be excluded from the study:&#xD;
+&#xD;
+        Medical history and clinical status&#xD;
+&#xD;
+          1. Any history or presence of clinically relevant cardiovascular, pulmonary,&#xD;
+             gastrointestinal, hepatic, renal, metabolic, hematological, neurological,&#xD;
+             musculoskeletal, rheumatological, psychiatric, systemic, ocular, or infectious&#xD;
+             disease, or signs of acute illness.&#xD;
+&#xD;
+          2. Frequent severe headaches and/or migraines, recurrent nausea and/or vomiting (defined&#xD;
+             as vomiting more than twice a month).&#xD;
+&#xD;
+          3. Made a blood donation of any volume within 2 months prior to the first dose.&#xD;
+&#xD;
+          4. Symptomatic postural hypotension, irrespective of actual decrease in blood pressure,&#xD;
+             or asymptomatic postural hypotension with a decrease in systolic blood pressure ≥30&#xD;
+             mmHg within 3 minutes of moving from supine to standing position.&#xD;
+&#xD;
+          5. Presence or history of drug hypersensitivity, or anaphylactic reaction, diagnosed and&#xD;
+             treated by a physician.&#xD;
+&#xD;
+          6. Known hypersensitivity to any component of the IMP formulation.&#xD;
+&#xD;
+          7. History or presence of drug or alcohol abuse (defined as alcohol consumption more than&#xD;
+             2 units per day on a regular basis).&#xD;
+&#xD;
+          8. Regular smoking (defined as more than 5 cigarettes or equivalent per week), or unable&#xD;
+             to stop smoking during the study. Occasional smokers may be enrolled.&#xD;
+&#xD;
+          9. Excessive consumption of beverages containing xanthine bases (defined as more than 4&#xD;
+             glasses per day).&#xD;
+&#xD;
+             Interfering substances&#xD;
+&#xD;
+         10. Any medication, including St John's Wort, within 14 days prior to administration of&#xD;
+             the first dose or within 5 times the elimination half-life or pharmacodynamic&#xD;
+             half-life of the medication, with the exception of hormonal contraception, menopausal&#xD;
+             hormone replacement therapy, or occasional paracetamol at doses up to 2g/day.&#xD;
+&#xD;
+         11. Any consumption of grapefruit or products containing grapefruit within 5 days prior to&#xD;
+             the first dose administration.&#xD;
+&#xD;
+         12. Any vaccination in the 28 days prior to administration of the first dose.&#xD;
+&#xD;
+             General conditions&#xD;
+&#xD;
+         13. Any participant who, in the judgment of the Investigator, is likely to be&#xD;
+             non-compliant during the study, or to be unable to cooperate due to language problems&#xD;
+             or poor mental development.&#xD;
+&#xD;
+         14. Any participant who enrolled in or participated in any other clinical study involving&#xD;
+             an investigational medicinal product, or in any other type of medical research within&#xD;
+             1 month or within 5 times the elimination half-life prior to administration of the&#xD;
+             first dose.&#xD;
+&#xD;
+         15. Any participant who cannot be contacted in the case of an emergency.&#xD;
+&#xD;
+         16. Any participant who is the Investigator or any sub-investigator, research assistant,&#xD;
+             pharmacist, study coordinator, or other staff thereof directly involved in conducting&#xD;
+             the study or any person dependent on (employees or immediate family members) the study&#xD;
+             site, the Investigator or the Sponsor.&#xD;
+&#xD;
+             Biological status&#xD;
+&#xD;
+         17. Positive result on any of the following tests: hepatitis B surface antigen (HBsAg),&#xD;
+             hepatitis B core antibodies (HBcAb), anti-hepatitis C virus antibodies (anti-HCV),&#xD;
+             anti-human immunodeficiency virus 1 and 2 antibodies（anti-HIV1 and anti-HIV2 Ab).&#xD;
+&#xD;
+         18. Positive alcohol test.&#xD;
+&#xD;
+         19. Any participant in whom venous blood collection is difficult.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Wang Jianfei</last_name>
+    <role>Study Director</role>
+    <affiliation>Nanjing Immunophage Biotech Co., Ltd</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Zhang Qi, doctor</last_name>
+    <phone>13074800770</phone>
+    <email>qzhang@immunophage.com.cn</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Scientia Clinical Research Ltd</name>
+      <address>
+        <city>Randwick</city>
+        <state>New South Wales</state>
+        <zip>2031</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christopher Argent</last_name>
+      <phone>02 9382 5844</phone>
+      <email>christopher.argent@scienticaclinicalresearch.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 16, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 8, 2021</study_first_posted>
+  <last_update_submitted>October 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Healthy Volunteers</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

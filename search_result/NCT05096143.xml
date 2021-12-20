@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4998">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05096143</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CLCZ696B2036</org_study_id>
+    <nct_id>NCT05096143</nct_id>
+  </id_info>
+  <brief_title>A Cohort Study to Compare the Hospitalization Between Naive Sacubitril/Valsartan and Naive ACEi/ARBs Heart Failure Patients With Reduced Ejection Fraction Using Secondary US Electronic Health Records Data</brief_title>
+  <official_title>A Cohort Study to Compare the Hospitalization Between Naive Sacubitril/Valsartan and Naive ACEi/ARBs Heart Failure Patients With Reduced Ejection Fraction Using Secondary US Electronic Health Records Data</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A non-interventional retrospective cohort study conducted to compare the naive&#xD;
+      sacubitril/valsartan Heart Failure with reduced Ejection Fraction (HFrEF) patient population&#xD;
+      to a matched naive ACEi/ARB HFrEF patient population.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This was a non-interventional retrospective cohort study using the US secondary EHR dataset,&#xD;
+      Optum EHR, to compare the naive sacubitril/valsartan HFrEF patient population (aged ≥ 18&#xD;
+      years) to a matched naive ACEi/ARB HFrEF patient population.&#xD;
+&#xD;
+      The study comprised of the following periods:&#xD;
+&#xD;
+      Identification period: 01-Jul-2015 to 31-Mar-2019&#xD;
+&#xD;
+      Study period&#xD;
+&#xD;
+        -  01-Jul-2014 to 31-Mar-2020 for primary objective and secondary objective 2 to 6.&#xD;
+&#xD;
+        -  01-Jul-2008 to 30-Sep-2020 for secondary objective 1.&#xD;
+&#xD;
+      Follow-up period: Patients were followed up until 31-Mar-2020, death or patient transfer out.&#xD;
+&#xD;
+      Baseline period: 365 days prior to index&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 3, 2020</start_date>
+  <completion_date type="Actual">October 19, 2020</completion_date>
+  <primary_completion_date type="Actual">October 19, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of Heart Failure (HF) hospitalizations events for both Naive sacubitril/valsartan HFrEF patients and Naive ACEi/ARB Heart Failure with reduced Ejection Fraction (HFrEF) patients</measure>
+    <time_frame>through study completion, maximum 5 years</time_frame>
+    <description>Heart failure hospitalizations were defined by ICD-9-CM (The International Classification of Diseases, 9th Revision, Clinical Modification) and ICD-10-CM (International Classification of Diseases, 10th Revision, Clinical Modifier) codes for HF listed within the primary diagnoses associated with a hospitalization that occurred during the follow-up period.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of HF hospitalizations events for both Truly naive sacubitril/valsartan HFrEF patients and Truly naive ACEi/ARB HFrEF patients</measure>
+    <time_frame>through study completion, maximum 5 years</time_frame>
+    <description>Heart failure hospitalizations were defined by ICD-9-CM (The International Classification of Diseases, 9th Revision, Clinical Modification) and ICD-10-CM (International Classification of Diseases, 10th Revision, Clinical Modifier) codes for HF listed within the primary diagnoses associated with a hospitalization that occurred during the follow-up period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first HF hospitalization for both Naive sacubitril/valsartan HFrEF patients and Naive ACEi/ARB HFrEF patients</measure>
+    <time_frame>through study completion, maximum 5 years</time_frame>
+    <description>Heart failure hospitalizations were defined by ICD-9-CM (The International Classification of Diseases, 9th Revision, Clinical Modification) and ICD-10-CM (International Classification of Diseases, 10th Revision, Clinical Modifier) codes for HF listed within the primary diagnoses associated with a hospitalization that occurred during the follow-up period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of HF hospitalizations or Emergency room (ER) visits for both Naive sacubitril/valsartan HFrEF patients and Naive ACEi/ARB HFrEF patients</measure>
+    <time_frame>through study completion, maximum 5 years</time_frame>
+    <description>HF ER visits were defined by ICD-9-CM and ICD-10-CM codes for HF listed within the primary diagnoses associated with ER visits that occurred during the follow-up period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first HF hospitalization or HF ER visit for both Naive sacubitril/valsartan HFrEF patients and Naive ACEi/ARB HFrEF patients</measure>
+    <time_frame>through study completion, maximum 5 years</time_frame>
+    <description>HF ER visits were defined by ICD-9-CM and ICD-10-CM codes for HF listed within the primary diagnoses associated with ER visits that occurred during the follow-up period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of all-cause hospitalizations events between Naive sacubitril/valsartan HFrEF patients and Naive ACEi/ARB HFrEF patients</measure>
+    <time_frame>through study completion, maximum 5 years</time_frame>
+    <description>All-cause hospitalizations were defined as any hospitalization that occurred during the follow-up period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first all-cause hospitalizations events between Naive sacubitril/valsartan HFrEF patients and Naive ACEi/ARB HFrEF patients</measure>
+    <time_frame>through study completion, maximum 5 years</time_frame>
+    <description>All-cause hospitalizations were defined as any hospitalization that occurred during the follow-up period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rates of cardiovascular hospitalization events between Naive sacubitril/valsartan HFrEF patients and Naive ACEi/ARB HFrEF patients</measure>
+    <time_frame>through study completion, maximum 5 years</time_frame>
+    <description>The rate of cardiovascular hospitalization events between Naive sacubitril/valsartan HFrEF patients and Naive ACEi/ARB HFrEF patients was reported</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">42269</enrollment>
+  <condition>Heart Failure</condition>
+  <arm_group>
+    <arm_group_label>Naive Sacubitril/valsartan</arm_group_label>
+    <description>Participants who were prescribed with Naive Sacubitril/valsartan</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Naive ACEi/ARB</arm_group_label>
+    <description>Participants who were prescribed with Naive Angiotensin-converting enzyme inhibitors/Angiotensin II receptor antagonists (ACEi/ARB)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sacubitril/valsartan</intervention_name>
+    <description>Participants who were prescribed with Sacubitril/valsartan</description>
+    <arm_group_label>Naive Sacubitril/valsartan</arm_group_label>
+    <other_name>Entresto®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ACEi/ARB</intervention_name>
+    <description>Participants who were prescribed with Angiotensin-converting enzyme inhibitors/Angiotensin II receptor antagonists (ACEi/ARB)</description>
+    <arm_group_label>Naive ACEi/ARB</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study included heart failure patients with reduced ejection fraction&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Sacubitril/valsartan incident cohort Included patients&#xD;
+&#xD;
+          -  Prescribed sacubitril/valsartan within the identification period (01-July-2015 to&#xD;
+             31-Mar-2019), that had non-missing gender and year of birth data.&#xD;
+&#xD;
+          -  With at least one ICD-9-CM or ICD-10-CM code for diagnosis of HF within one-year prior&#xD;
+             to date of first prescription of sacubitril/valsartan (index date), and are treated as&#xD;
+             part of the integrated delivery network.&#xD;
+&#xD;
+          -  With first month active 365 days prior to index and last date active was greater than&#xD;
+             or equal to (≥) index, and the month of provider source data was greater than the&#xD;
+             final date of patient follow-up.&#xD;
+&#xD;
+          -  That were ≥18 years old at index date.&#xD;
+&#xD;
+          -  With a valid LVEF value ≤40%, prior to index (index date included).&#xD;
+&#xD;
+        Angiotensin-converting enzyme inhibitors (ACEi) and Angiotensin II receptor antagonist&#xD;
+        (ARB) incident cohort&#xD;
+&#xD;
+        Included patient:&#xD;
+&#xD;
+          -  Prescribed ACEi or ARBs within the identification period (01-Jul-2015 to 31-Mar-2019),&#xD;
+             that had non-missing gender and year of birth data.&#xD;
+&#xD;
+          -  With at least one ICD-9-CM or ICD-10-CM code for diagnosis of HF within one-year prior&#xD;
+             to date of first prescription of ACEi or ARB (index date), and were treated as part of&#xD;
+             the integrated delivery network.&#xD;
+&#xD;
+          -  With first month active 365 days prior to index and last date active was ≥ index, and&#xD;
+             the month of provider source data is greater than the final date of patient follow-up.&#xD;
+&#xD;
+          -  That were ≥ 18 years old at index date.&#xD;
+&#xD;
+          -  With a valid LVEF value ≤ 40%, prior to index (index date included).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Sacubitril/valsartan incident cohort&#xD;
+&#xD;
+        Excluded patients for the primary objective and secondary objective 2 to 6:&#xD;
+&#xD;
+          -  Patients who were prescribed sacubitril/valsartan within one-year prior to index date.&#xD;
+&#xD;
+          -  Patients who were prescribed ACEi or ARBs, within one-year prior to index date (index&#xD;
+             date included).&#xD;
+&#xD;
+        Exclude patients for secondary objective 1:&#xD;
+&#xD;
+          -  Patients who were prescribed sacubitril/valsartan prior to index date.&#xD;
+&#xD;
+          -  Patients who were prescribed ACEi or ARBs prior to index date (index date included).&#xD;
+&#xD;
+        Angiotensin-converting enzyme inhibitors (ACEi) and Angiotensin II receptor antagonist&#xD;
+        (ARB) incident cohort&#xD;
+&#xD;
+        Exclude patients for the primary objective and secondary objective 2 to 6:&#xD;
+&#xD;
+          -  Patients who were prescribed ACEi or ARBs within one-year prior to index date.&#xD;
+&#xD;
+          -  Patients who were prescribed sacubitril/valsartan within one-year prior to index date&#xD;
+             (index date included).&#xD;
+&#xD;
+          -  Which had a valid sacubitril/valsartan prescription that enables inclusion in the&#xD;
+             sacubitril/valsartan cohort.&#xD;
+&#xD;
+          -  Exclude patients for secondary objective 1:&#xD;
+&#xD;
+          -  Patients who were prescribed ACEi or ARBs prior to index date.&#xD;
+&#xD;
+          -  Patients who were prescribed sacubitril/valsartan prior to index date (index date&#xD;
+             included).&#xD;
+&#xD;
+          -  Which had a valid sacubitril/valsartan prescription that enables inclusion in the&#xD;
+             sacubitril/valsartan cohort&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>East Hanover</city>
+        <state>New Jersey</state>
+        <zip>07936</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 27, 2021</study_first_posted>
+  <last_update_submitted>October 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Heart failure hospitalizations,</keyword>
+  <keyword>sacubitril/valsartan,</keyword>
+  <keyword>Angiotensin II receptor antagonist,</keyword>
+  <keyword>United States,</keyword>
+  <keyword>electronic health record</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Failure</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Valsartan</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

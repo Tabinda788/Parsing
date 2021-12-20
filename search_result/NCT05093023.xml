@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5238">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05093023</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ABCB1 in Paclitaxel Neuropathy</org_study_id>
+    <nct_id>NCT05093023</nct_id>
+  </id_info>
+  <brief_title>ABCB1 SNPs as Predictors of PIPN</brief_title>
+  <official_title>ABCB1 Single Nucleotide Polymorphism Genotypes as Predictors of Paclitaxel-Induced Peripheral Neuropathy in Breast Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ain Shams University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ain Shams University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study aim is to determine the allele frequencies of 1236 G&gt;A and 3435 G&gt;A in ABCB1 and&#xD;
+      study their association with the incidence and severity of paclitaxel-induced peripheral&#xD;
+      neuropathy while adjusting for other baseline covariates in Egyptian patients. Additionally,&#xD;
+      the study aimed at fitting and validating logistic regression models with the aforementioned&#xD;
+      SNPs evaluated in additive, dominant, overdominant, and recessive genetic models and&#xD;
+      performing diagnostics for the best model in terms of internal validity.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 1, 2018</start_date>
+  <completion_date type="Actual">January 31, 2020</completion_date>
+  <primary_completion_date type="Actual">January 1, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Grade 2 or higher peripheral neuropathy</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Grade 2 or higher peripheral neuropathy evaluated by the National Cancer Institute Common Toxicity Criteria (version 5.0)</description>
+  </primary_outcome>
+  <enrollment type="Actual">92</enrollment>
+  <condition>Paclitaxel Adverse Reaction</condition>
+  <condition>Neuropathy;Peripheral</condition>
+  <condition>Breast Cancer</condition>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>Real-Time PCR</intervention_name>
+    <description>Genomic DNA was extracted from 2 ml of venous blood. ABCB1 1236 G&gt;A and 3435 G&gt;A were genotyped using predesigned TaqMan SNP genotyping assays on a stepOne PCR instrument in accordance with the manufacturer's protocol.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Egyptian women with histologically confirmed Breast Cancer, receiving neoadjuvant and/or&#xD;
+        adjuvant weekly paclitaxel-containing regimens.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Egyptian females ≥18 years of age.&#xD;
+&#xD;
+          2. Histologically confirmed Breast Cancer.&#xD;
+&#xD;
+          3. Receiving conventional neoadjuvant or adjuvant weekly paclitaxel.&#xD;
+&#xD;
+          4. Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.&#xD;
+&#xD;
+          5. Adequate organ reserves ((serum creatinine ≤1.5x upper normal limit (UNL), total&#xD;
+             bilirubin ≤1.5x UNL, absolute neutrophil count ≥1.5 x 10^9/L, platelet count ≥100 x&#xD;
+             10^9/L, AST and ALT ≤3.0x UNL, and alkaline phosphatase ≤3.0x UNL).&#xD;
+&#xD;
+          6. No major neurological disease or symptoms prior to the start of paclitaxel therapy.&#xD;
+&#xD;
+          7. neither subjective nor objective evidence of metastatic disease.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Pregnancy.&#xD;
+&#xD;
+          2. Patients with recurrent or metastatic (local or distant) breast cancer.&#xD;
+&#xD;
+          3. Neuropathic at the time of recruitment.&#xD;
+&#xD;
+          4. History of neuropathy prior to recruitment.&#xD;
+&#xD;
+          5. Previously exposed to taxanes or any other microtubule Inhibitors, or regimens&#xD;
+             including platinates.&#xD;
+&#xD;
+          6. Patients currently receiving dose-dense biweekly taxane-containing regimens.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Nasser's Institute Hospital</name>
+      <address>
+        <city>Cairo</city>
+        <state>Aghakhan</state>
+        <country>Egypt</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <reference>
+    <citation>Gréen H, Söderkvist P, Rosenberg P, Mirghani RA, Rymark P, Lundqvist EA, Peterson C. Pharmacogenetic studies of Paclitaxel in the treatment of ovarian cancer. Basic Clin Pharmacol Toxicol. 2009 Feb;104(2):130-7. doi: 10.1111/j.1742-7843.2008.00351.x. Epub 2008 Dec 16.</citation>
+    <PMID>19143748</PMID>
+  </reference>
+  <reference>
+    <citation>Kimchi-Sarfaty C, Marple AH, Shinar S, Kimchi AM, Scavo D, Roma MI, Kim IW, Jones A, Arora M, Gribar J, Gurwitz D, Gottesman MM. Ethnicity-related polymorphisms and haplotypes in the human ABCB1 gene. Pharmacogenomics. 2007 Jan;8(1):29-39.</citation>
+    <PMID>17187507</PMID>
+  </reference>
+  <reference>
+    <citation>Rivera E, Cianfrocca M. Overview of neuropathy associated with taxanes for the treatment of metastatic breast cancer. Cancer Chemother Pharmacol. 2015 Apr;75(4):659-70. doi: 10.1007/s00280-014-2607-5. Epub 2015 Jan 18. Review.</citation>
+    <PMID>25596818</PMID>
+  </reference>
+  <reference>
+    <citation>Scripture CD, Figg WD, Sparreboom A. Peripheral neuropathy induced by paclitaxel: recent insights and future perspectives. Curr Neuropharmacol. 2006 Apr;4(2):165-72.</citation>
+    <PMID>18615126</PMID>
+  </reference>
+  <reference>
+    <citation>Gao B, Russell A, Beesley J, Chen XQ, Healey S, Henderson M, Wong M, Emmanuel C, Galletta L, Johnatty SE, Bowtell D; Australian Ovarian Cancer Study Group, Haber M, Norris M, Harnett P, Chenevix-Trench G, Balleine RL, deFazio A. Paclitaxel sensitivity in relation to ABCB1 expression, efflux and single nucleotide polymorphisms in ovarian cancer. Sci Rep. 2014 May 9;4:4669. doi: 10.1038/srep04669.</citation>
+    <PMID>24810093</PMID>
+  </reference>
+  <reference>
+    <citation>Sparreboom A, van Tellingen O, Nooijen WJ, Beijnen JH. Preclinical pharmacokinetics of paclitaxel and docetaxel. Anticancer Drugs. 1998 Jan;9(1):1-17. Review.</citation>
+    <PMID>9491787</PMID>
+  </reference>
+  <reference>
+    <citation>Wolking S, Schaeffeler E, Lerche H, Schwab M, Nies AT. Impact of Genetic Polymorphisms of ABCB1 (MDR1, P-Glycoprotein) on Drug Disposition and Potential Clinical Implications: Update of the Literature. Clin Pharmacokinet. 2015 Jul;54(7):709-35. doi: 10.1007/s40262-015-0267-1. Review.</citation>
+    <PMID>25860377</PMID>
+  </reference>
+  <reference>
+    <citation>Tulsyan S, Mittal RD, Mittal B. The effect of ABCB1 polymorphisms on the outcome of breast cancer treatment. Pharmgenomics Pers Med. 2016 Apr 27;9:47-58. doi: 10.2147/PGPM.S86672. eCollection 2016. Review.</citation>
+    <PMID>27175090</PMID>
+  </reference>
+  <reference>
+    <citation>Cavaletti G, Marmiroli P. Chemotherapy-induced peripheral neurotoxicity. Nat Rev Neurol. 2010 Dec;6(12):657-66. doi: 10.1038/nrneurol.2010.160. Epub 2010 Nov 9. Review.</citation>
+    <PMID>21060341</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 26, 2021</study_first_posted>
+  <last_update_submitted>October 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ain Shams University</investigator_affiliation>
+    <investigator_full_name>nabil mahmoud</investigator_full_name>
+    <investigator_title>Master's Student</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Peripheral Nervous System Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

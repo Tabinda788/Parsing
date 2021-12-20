@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9762">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05034185</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CIRB Ref: 2021/2001</org_study_id>
+    <nct_id>NCT05034185</nct_id>
+  </id_info>
+  <brief_title>Real-World Validation of an Artificial Intelligence Characterization Support (CADx) System</brief_title>
+  <official_title>Real-World Validation of an Artificial Intelligence Characterization Support (CADx) System for Prediction of Polyp Histology in Colonoscopy: A Prospective Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Changi General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National University Hospital, Singapore</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Singapore General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tan Tock Seng Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Changi General Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Colorectal cancer (CRC) is a leading cause of cancer-related morbidity and mortality&#xD;
+      worldwide, with rates of CRC predicted to increase. Colonoscopy is currently the gold&#xD;
+      standard of screening for CRC. Artificial intelligence (AI) is seen as a solution to bridge&#xD;
+      this gap in adenoma detection, which is a quality indicator in colonoscopy. AI systems&#xD;
+      utilize deep neural networks to enable computer-aided detection (CADe) and computer-aided&#xD;
+      classification (CADx). CADe is concerned with the detection of polyps during colonoscopy,&#xD;
+      which in turn is postulated to help decrease the adenoma miss-rate.&#xD;
+&#xD;
+      In contrast, CADx deals with the interpretation of polyp appearance during colonoscopy to&#xD;
+      determine the predicted histology. Prediction of polyp histology is crucial in helping&#xD;
+      Clinicians decide on a &quot;resect and discard&quot; or &quot;diagnose and leave strategy&quot;. It is also&#xD;
+      useful for the Clinician to be aware of the predicted histology of a colorectal polyp in&#xD;
+      determining the appropriate method of resection in terms of safety and efficacy. While CADe&#xD;
+      has been studied extensively in randomized controlled trials, there is a lack of prospective&#xD;
+      data validating the use of CADx in a clinical setting to predict polyp histology.&#xD;
+&#xD;
+      The investigators plan to conduct a prospective, multi-centre clinical trial to validate the&#xD;
+      accuracy of CADx support for prediction of polyp histology in real-time colonoscopy.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Colonoscopy is currently the gold standard of screening for CRC. A 1% increase in adenoma&#xD;
+      detection rate (ADR) estimated to be associated with a 3% decreased risk of interval CRC. AI&#xD;
+      systems can be broadly divided into CADe (for detection) and CADx (for diagnosis, or&#xD;
+      prediction of polyp histology in the context of colonoscopy). CADe has been extensively&#xD;
+      studied, with several randomized controlled trials and meta-analysis showing a higher ADR&#xD;
+      when CADe is used compared to the control groups without CADe.&#xD;
+&#xD;
+      Besides the ADR, predicted polyp histology is a key component in the performance of&#xD;
+      colonoscopy as this enables the Clinician to make a decision regarding its management, as&#xD;
+      described above. In this regards, image-enhanced endoscopy (IEE) is often used to help&#xD;
+      Clinicians determine if colorectal polyps found on colonoscopy are neoplastic or&#xD;
+      hyperplastic. The most commonly used non-magnification classification is the NBI&#xD;
+      International Colorectal Endoscopic (NICE), while the Japan NBI Expert Team (JNET)&#xD;
+      classification is used where endoscopy systems with optical magnification and the proper&#xD;
+      training is available. However, these classification systems have varying diagnostic accuracy&#xD;
+      and interobserver agreement. Previous prospective studies looking at CADx have utilized&#xD;
+      endocytoscopy and autofluorescence imaging (CAD-AFI) with positive results. However, the&#xD;
+      major limitation in these CADx studies is that these imaging systems are costly and are not&#xD;
+      readily available in most centres worldwide. Furthermore, most Clinicians performing&#xD;
+      colonoscopies have not been trained in these modalities of imaging and will have to rely&#xD;
+      completely on the CADx function to detect polyps if these imaging modalities are used,&#xD;
+      without being able to fall back on their experience and training should there be doubts about&#xD;
+      the accuracy of a CADx diagnosis in a real-world setting.&#xD;
+&#xD;
+      The Fujifilm 7000 System (Fujifilm Corp., Tokyo) has been in routine clinical use in all&#xD;
+      tertiary institutions in Singapore. The CAD EYE system was developed by Fujifilm Corp to aid&#xD;
+      Clinicians in colonoscopy with CADe and CADx functions. The basic functions and handling of&#xD;
+      the colonoscope, as well as the endoscopy processing unit, are similar to what is currently&#xD;
+      available in clinical practice, with the added CAD EYE software. The controller has been&#xD;
+      configured to allow the operator to activate and deactivate the CAD function depending on the&#xD;
+      need for it. These functions can be turned on and off using a button on the controller by the&#xD;
+      Clinician. The CADe and CADx functions operate when white light and blue laser imaging (BLI)&#xD;
+      are used, respectively. This provides a unique opportunity to externally validate the use of&#xD;
+      the CADx support tool by evaluating its diagnostic accuracy with final polyp histology as the&#xD;
+      gold standard, while also comparing its performance in a clinical setting against a Clinician&#xD;
+      using IEE (which is the conventional method of predicting polyp histology in colonoscopy).&#xD;
+&#xD;
+      The investigators plan to conduct a prospective, multi-centre clinical trial to validate the&#xD;
+      accuracy of CADx support for prediction of polyp histology in real-time colonoscopy.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 3, 2021</start_date>
+  <completion_date type="Anticipated">April 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 3, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To evaluate the diagnostic accuracy of the CADx support tool compared to optical prediction of polyp histology by the Clinician in real-time colonoscopy in a clinical setting</measure>
+    <time_frame>1 year</time_frame>
+    <description>The area under hierarchical summary receiver-operating characteristic (HSROC) curve will be calculated for comparison, with final polyp histology as the gold standard for diagnosis</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To determine the sensitivity and specificity of the CADx support tool in prediction of polyp histology in real-time colonoscopy in a clinical setting</measure>
+    <time_frame>1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the differences in area under the HSROC curve, sensitivity and specificity according to polyp size and location</measure>
+    <time_frame>1 year</time_frame>
+    <description>Subgroup analysis will be performed according to polyp size and location</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate differences in performance of the CADx support tool according to adequacy of bowel preparation</measure>
+    <time_frame>1 year</time_frame>
+    <description>Boston bowel preparation score for each colonic segment will also be recorded and analyzed to evaluate if this affects the predicted histology by the Endoscopist and the CADx support tool</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Colonic Polyp</condition>
+  <condition>Colonic Neoplasms</condition>
+  <condition>Colonic Dysplasia</condition>
+  <arm_group>
+    <arm_group_label>Patients with one or more polyps detected</arm_group_label>
+    <description>During colonoscopy, the Clinician inspect for the presence of polyps as per routine clinical practice with the CAD EYE function turned off. When a polyp is encountered, the Clinician will make a prediction on the histology based on the white light and BLI features of the polyp with and without optical magnification, as per routine clinical practice. Following this, the CAD EYE function will be switched on and the Clinician will take note of the CADx prediction for the same polyp, which will be either &quot;neoplastic&quot; or &quot;hyperplastic&quot;.&#xD;
+In addition, other polyp features such as the size and location will be recorded, which is similar to what is performed in routine clinical practice. The polyp will be resected and sent for pathological examination, which will form the &quot;gold standard&quot; for the diagnosis of polyp histology.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Computer-aided diagnosis (CADx) support tool</intervention_name>
+    <description>The CADx support tool operates when the Clinician switches the preconfigured CAD EYE function on using a button on the controller while the scope system is in BLI mode. This is performed after the Clinician first makes an optical prediction of polyp histology using IEE as described. The CADx support tool will make a prediction of polyp histology as &quot;hyperplastic&quot; or &quot;neoplastic&quot;.</description>
+    <arm_group_label>Patients with one or more polyps detected</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Colorectal polyps detected during colonoscopy will be resected for final histology, which&#xD;
+      will form the gold standard for evaluation of the diagnostic accuracy of the Clinician using&#xD;
+      IEE versus the CADx support tool.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients age 40 years and above and who have indications for colonoscopy will be&#xD;
+        eligible for the study. The patients who have been identified as eligible for the study&#xD;
+        will be counselled on the details, risks and benefits prior to the performance of&#xD;
+        colonoscopy. This counselling may take place in the outpatient or inpatient setting.&#xD;
+&#xD;
+        Patients with one or more polyps detected during colonoscopy will be included in the study.&#xD;
+        The rest of the inclusion and exclusion criteria are as described.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients who have an indication for colonoscopy and who have at least one polyp&#xD;
+             detected during colonoscopy&#xD;
+&#xD;
+          2. 40 years of age and above&#xD;
+&#xD;
+          3. Consent obtained for the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Less than 39 years of age&#xD;
+&#xD;
+          2. Declined participation in study&#xD;
+&#xD;
+          3. Patients with no polyps detected during colonoscopy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Dr James Li</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Changi General Hospital, Singapore Health Services</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ms Nway Nway Aye</last_name>
+    <phone>(+65) 69365737</phone>
+    <email>nway_nway_aye@cgh.com.sg</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Changi General Hospital, National University Hospital, Singapore General Hospital and Tan Tock Seng Hospital</name>
+      <address>
+        <city>Singapore</city>
+        <zip>529889</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ms Nway Nway Aye</last_name>
+      <phone>(+65) 69365737</phone>
+      <email>nway_nway_aye@cgh.com.sg</email>
+    </contact>
+    <investigator>
+      <last_name>Dr James Li</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Dr Calvin Koh</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Dr Clement Wu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Dr Raymond Liang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Singapore</country>
+  </location_countries>
+  <reference>
+    <citation>Bray F, Jemal A, Grey N, Ferlay J, Forman D. Global cancer transitions according to the Human Development Index (2008-2030): a population-based study. Lancet Oncol. 2012 Aug;13(8):790-801. doi: 10.1016/S1470-2045(12)70211-5. Epub 2012 Jun 1.</citation>
+    <PMID>22658655</PMID>
+  </reference>
+  <reference>
+    <citation>Araghi M, Soerjomataram I, Jenkins M, Brierley J, Morris E, Bray F, Arnold M. Global trends in colorectal cancer mortality: projections to the year 2035. Int J Cancer. 2019 Jun 15;144(12):2992-3000. doi: 10.1002/ijc.32055. Epub 2019 Jan 8.</citation>
+    <PMID>30536395</PMID>
+  </reference>
+  <reference>
+    <citation>Rex DK, Boland CR, Dominitz JA, Giardiello FM, Johnson DA, Kaltenbach T, Levin TR, Lieberman D, Robertson DJ. Colorectal Cancer Screening: Recommendations for Physicians and Patients from the U.S. Multi-Society Task Force on Colorectal Cancer. Am J Gastroenterol. 2017 Jul;112(7):1016-1030. doi: 10.1038/ajg.2017.174. Epub 2017 Jun 6. Review.</citation>
+    <PMID>28555630</PMID>
+  </reference>
+  <reference>
+    <citation>Doubeni CA, Corley DA, Quinn VP, Jensen CD, Zauber AG, Goodman M, Johnson JR, Mehta SJ, Becerra TA, Zhao WK, Schottinger J, Doria-Rose VP, Levin TR, Weiss NS, Fletcher RH. Effectiveness of screening colonoscopy in reducing the risk of death from right and left colon cancer: a large community-based study. Gut. 2018 Feb;67(2):291-298. doi: 10.1136/gutjnl-2016-312712. Epub 2016 Oct 12.</citation>
+    <PMID>27733426</PMID>
+  </reference>
+  <reference>
+    <citation>Brenner H, Chang-Claude J, Jansen L, Knebel P, Stock C, Hoffmeister M. Reduced risk of colorectal cancer up to 10 years after screening, surveillance, or diagnostic colonoscopy. Gastroenterology. 2014 Mar;146(3):709-17. doi: 10.1053/j.gastro.2013.09.001. Epub 2013 Sep 5.</citation>
+    <PMID>24012982</PMID>
+  </reference>
+  <reference>
+    <citation>Kaminski MF, Thomas-Gibson S, Bugajski M, Bretthauer M, Rees CJ, Dekker E, Hoff G, Jover R, Suchanek S, Ferlitsch M, Anderson J, Roesch T, Hultcranz R, Racz I, Kuipers EJ, Garborg K, East JE, Rupinski M, Seip B, Bennett C, Senore C, Minozzi S, Bisschops R, Domagk D, Valori R, Spada C, Hassan C, Dinis-Ribeiro M, Rutter MD. Performance measures for lower gastrointestinal endoscopy: a European Society of Gastrointestinal Endoscopy (ESGE) Quality Improvement Initiative. Endoscopy. 2017 Apr;49(4):378-397. doi: 10.1055/s-0043-103411. Epub 2017 Mar 7.</citation>
+    <PMID>28268235</PMID>
+  </reference>
+  <reference>
+    <citation>Rex DK, Schoenfeld PS, Cohen J, Pike IM, Adler DG, Fennerty MB, Lieb JG 2nd, Park WG, Rizk MK, Sawhney MS, Shaheen NJ, Wani S, Weinberg DS. Quality indicators for colonoscopy. Gastrointest Endosc. 2015 Jan;81(1):31-53. doi: 10.1016/j.gie.2014.07.058. Epub 2014 Dec 2. Review.</citation>
+    <PMID>25480100</PMID>
+  </reference>
+  <reference>
+    <citation>Corley DA, Jensen CD, Marks AR, Zhao WK, Lee JK, Doubeni CA, Zauber AG, de Boer J, Fireman BH, Schottinger JE, Quinn VP, Ghai NR, Levin TR, Quesenberry CP. Adenoma detection rate and risk of colorectal cancer and death. N Engl J Med. 2014 Apr 3;370(14):1298-306. doi: 10.1056/NEJMoa1309086.</citation>
+    <PMID>24693890</PMID>
+  </reference>
+  <reference>
+    <citation>van Rijn JC, Reitsma JB, Stoker J, Bossuyt PM, van Deventer SJ, Dekker E. Polyp miss rate determined by tandem colonoscopy: a systematic review. Am J Gastroenterol. 2006 Feb;101(2):343-50. Review.</citation>
+    <PMID>16454841</PMID>
+  </reference>
+  <reference>
+    <citation>Vinsard DG, Mori Y, Misawa M, Kudo SE, Rastogi A, Bagci U, Rex DK, Wallace MB. Quality assurance of computer-aided detection and diagnosis in colonoscopy. Gastrointest Endosc. 2019 Jul;90(1):55-63. doi: 10.1016/j.gie.2019.03.019. Epub 2019 Mar 26. Review.</citation>
+    <PMID>30926431</PMID>
+  </reference>
+  <reference>
+    <citation>Wang P, Liu X, Berzin TM, Glissen Brown JR, Liu P, Zhou C, Lei L, Li L, Guo Z, Lei S, Xiong F, Wang H, Song Y, Pan Y, Zhou G. Effect of a deep-learning computer-aided detection system on adenoma detection during colonoscopy (CADe-DB trial): a double-blind randomised study. Lancet Gastroenterol Hepatol. 2020 Apr;5(4):343-351. doi: 10.1016/S2468-1253(19)30411-X. Epub 2020 Jan 22. Erratum in: Lancet Gastroenterol Hepatol. 2020 Apr;5(4):e3.</citation>
+    <PMID>31981517</PMID>
+  </reference>
+  <reference>
+    <citation>Gong D, Wu L, Zhang J, Mu G, Shen L, Liu J, Wang Z, Zhou W, An P, Huang X, Jiang X, Li Y, Wan X, Hu S, Chen Y, Hu X, Xu Y, Zhu X, Li S, Yao L, He X, Chen D, Huang L, Wei X, Wang X, Yu H. Detection of colorectal adenomas with a real-time computer-aided system (ENDOANGEL): a randomised controlled study. Lancet Gastroenterol Hepatol. 2020 Apr;5(4):352-361. doi: 10.1016/S2468-1253(19)30413-3. Epub 2020 Jan 22. Erratum in: Lancet Gastroenterol Hepatol. 2020 Apr;5(4):e3.</citation>
+    <PMID>31981518</PMID>
+  </reference>
+  <reference>
+    <citation>Repici A, Badalamenti M, Maselli R, Correale L, Radaelli F, Rondonotti E, Ferrara E, Spadaccini M, Alkandari A, Fugazza A, Anderloni A, Galtieri PA, Pellegatta G, Carrara S, Di Leo M, Craviotto V, Lamonaca L, Lorenzetti R, Andrealli A, Antonelli G, Wallace M, Sharma P, Rosch T, Hassan C. Efficacy of Real-Time Computer-Aided Detection of Colorectal Neoplasia in a Randomized Trial. Gastroenterology. 2020 Aug;159(2):512-520.e7. doi: 10.1053/j.gastro.2020.04.062. Epub 2020 May 1.</citation>
+    <PMID>32371116</PMID>
+  </reference>
+  <reference>
+    <citation>Wang P, Berzin TM, Glissen Brown JR, Bharadwaj S, Becq A, Xiao X, Liu P, Li L, Song Y, Zhang D, Li Y, Xu G, Tu M, Liu X. Real-time automatic detection system increases colonoscopic polyp and adenoma detection rates: a prospective randomised controlled study. Gut. 2019 Oct;68(10):1813-1819. doi: 10.1136/gutjnl-2018-317500. Epub 2019 Feb 27.</citation>
+    <PMID>30814121</PMID>
+  </reference>
+  <reference>
+    <citation>Su JR, Li Z, Shao XJ, Ji CR, Ji R, Zhou RC, Li GC, Liu GQ, He YS, Zuo XL, Li YQ. Impact of a real-time automatic quality control system on colorectal polyp and adenoma detection: a prospective randomized controlled study (with videos). Gastrointest Endosc. 2020 Feb;91(2):415-424.e4. doi: 10.1016/j.gie.2019.08.026. Epub 2019 Aug 24.</citation>
+    <PMID>31454493</PMID>
+  </reference>
+  <reference>
+    <citation>Hassan C, Spadaccini M, Iannone A, Maselli R, Jovani M, Chandrasekar VT, Antonelli G, Yu H, Areia M, Dinis-Ribeiro M, Bhandari P, Sharma P, Rex DK, Rösch T, Wallace M, Repici A. Performance of artificial intelligence in colonoscopy for adenoma and polyp detection: a systematic review and meta-analysis. Gastrointest Endosc. 2021 Jan;93(1):77-85.e6. doi: 10.1016/j.gie.2020.06.059. Epub 2020 Jun 26. Review.</citation>
+    <PMID>32598963</PMID>
+  </reference>
+  <reference>
+    <citation>Hewett DG, Kaltenbach T, Sano Y, Tanaka S, Saunders BP, Ponchon T, Soetikno R, Rex DK. Validation of a simple classification system for endoscopic diagnosis of small colorectal polyps using narrow-band imaging. Gastroenterology. 2012 Sep;143(3):599-607.e1. doi: 10.1053/j.gastro.2012.05.006. Epub 2012 May 15.</citation>
+    <PMID>22609383</PMID>
+  </reference>
+  <reference>
+    <citation>Repici A, Ciscato C, Correale L, Bisschops R, Bhandari P, Dekker E, Pech O, Radaelli F, Hassan C. Narrow-band Imaging International Colorectal Endoscopic Classification to predict polyp histology: REDEFINE study (with videos). Gastrointest Endosc. 2016 Sep;84(3):479-486.e3. doi: 10.1016/j.gie.2016.02.020. Epub 2016 Feb 27.</citation>
+    <PMID>26928372</PMID>
+  </reference>
+  <reference>
+    <citation>Komeda Y, Kashida H, Sakurai T, Asakuma Y, Tribonias G, Nagai T, Kono M, Minaga K, Takenaka M, Arizumi T, Hagiwara S, Matsui S, Watanabe T, Nishida N, Chikugo T, Chiba Y, Kudo M. Magnifying Narrow Band Imaging (NBI) for the Diagnosis of Localized Colorectal Lesions Using the Japan NBI Expert Team (JNET) Classification. Oncology. 2017;93 Suppl 1:49-54. doi: 10.1159/000481230. Epub 2017 Dec 20.</citation>
+    <PMID>29258091</PMID>
+  </reference>
+  <reference>
+    <citation>Kandel P, Wallace MB. Should We Resect and Discard Low Risk Diminutive Colon Polyps. Clin Endosc. 2019 May;52(3):239-246. doi: 10.5946/ce.2018.136. Epub 2019 Jan 21. Review.</citation>
+    <PMID>30661337</PMID>
+  </reference>
+  <reference>
+    <citation>Neumann H, Neumann Sen H, Vieth M, Bisschops R, Thieringer F, Rahman KF, Gamstätter T, Tontini GE, Galle PR. Leaving colorectal polyps in place can be achieved with high accuracy using blue light imaging (BLI). United European Gastroenterol J. 2018 Aug;6(7):1099-1105. doi: 10.1177/2050640618769731. Epub 2018 May 17.</citation>
+    <PMID>30228899</PMID>
+  </reference>
+  <reference>
+    <citation>von Renteln D, Kaltenbach T, Rastogi A, Anderson JC, Rösch T, Soetikno R, Pohl H. Simplifying Resect and Discard Strategies for Real-Time Assessment of Diminutive Colorectal Polyps. Clin Gastroenterol Hepatol. 2018 May;16(5):706-714. doi: 10.1016/j.cgh.2017.11.036. Epub 2017 Nov 23.</citation>
+    <PMID>29174789</PMID>
+  </reference>
+  <reference>
+    <citation>Song EM, Park B, Ha CA, Hwang SW, Park SH, Yang DH, Ye BD, Myung SJ, Yang SK, Kim N, Byeon JS. Endoscopic diagnosis and treatment planning for colorectal polyps using a deep-learning model. Sci Rep. 2020 Jan 8;10(1):30. doi: 10.1038/s41598-019-56697-0.</citation>
+    <PMID>31913337</PMID>
+  </reference>
+  <reference>
+    <citation>Ang TL, Li JW, Wong YJ, Tan YJ, Fock KM, Tan MTK, Kwek ABE, Teo EK, Ang DS, Wang LM. A prospective randomized study of colonoscopy using blue laser imaging and white light imaging in detection and differentiation of colonic polyps. Endosc Int Open. 2019 Oct;7(10):E1207-E1213. doi: 10.1055/a-0982-3111. Epub 2019 Oct 1.</citation>
+    <PMID>31579701</PMID>
+  </reference>
+  <reference>
+    <citation>Mori Y, Kudo SE, Misawa M, Saito Y, Ikematsu H, Hotta K, Ohtsuka K, Urushibara F, Kataoka S, Ogawa Y, Maeda Y, Takeda K, Nakamura H, Ichimasa K, Kudo T, Hayashi T, Wakamura K, Ishida F, Inoue H, Itoh H, Oda M, Mori K. Real-Time Use of Artificial Intelligence in Identification of Diminutive Polyps During Colonoscopy: A Prospective Study. Ann Intern Med. 2018 Sep 18;169(6):357-366. doi: 10.7326/M18-0249. Epub 2018 Aug 14.</citation>
+    <PMID>30105375</PMID>
+  </reference>
+  <reference>
+    <citation>Horiuchi H, Tamai N, Kamba S, Inomata H, Ohya TR, Sumiyama K. Real-time computer-aided diagnosis of diminutive rectosigmoid polyps using an auto-fluorescence imaging system and novel color intensity analysis software. Scand J Gastroenterol. 2019 Jun;54(6):800-805. doi: 10.1080/00365521.2019.1627407. Epub 2019 Jun 14.</citation>
+    <PMID>31195905</PMID>
+  </reference>
+  <reference>
+    <citation>Byrne MF, Chapados N, Soudan F, Oertel C, Linares Pérez M, Kelly R, Iqbal N, Chandelier F, Rex DK. Real-time differentiation of adenomatous and hyperplastic diminutive colorectal polyps during analysis of unaltered videos of standard colonoscopy using a deep learning model. Gut. 2019 Jan;68(1):94-100. doi: 10.1136/gutjnl-2017-314547. Epub 2017 Oct 24.</citation>
+    <PMID>29066576</PMID>
+  </reference>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 5, 2021</study_first_posted>
+  <last_update_submitted>September 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Changi General Hospital</investigator_affiliation>
+    <investigator_full_name>James Li Weiquan</investigator_full_name>
+    <investigator_title>Consultant</investigator_title>
+  </responsible_party>
+  <keyword>colonoscopy</keyword>
+  <keyword>computer-aided diagnosis</keyword>
+  <keyword>colorectal polyp</keyword>
+  <keyword>colorectal neoplasm</keyword>
+  <keyword>artificial intelligence</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colonic Neoplasms</mesh_term>
+    <mesh_term>Polyps</mesh_term>
+    <mesh_term>Colonic Polyps</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

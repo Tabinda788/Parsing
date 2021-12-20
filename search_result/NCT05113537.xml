@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3660">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05113537</url>
+  </required_header>
+  <id_info>
+    <org_study_id>215510</org_study_id>
+    <secondary_id>NCI-2021-11123</secondary_id>
+    <nct_id>NCT05113537</nct_id>
+  </id_info>
+  <brief_title>Abemaciclib Before 177Lu-PSMA-617 for the Treatment of Metastatic Castrate Resistant Prostate Cancer</brief_title>
+  <acronym>UPLIFT</acronym>
+  <official_title>Phase I/II Study of CDK4/6 Inhibition With Abemaciclib to Upregulate PSMA Expression Prior to 177Lu-PSMA-617 Treatment in Patients With Metastatic Castrate Resistant Prostate Cancer (mCRPC) Previously Treated With Novel Hormonal Agents and Chemotherapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Prostate Cancer Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, San Francisco</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I/II trial tests the safety, side effects, and best dose of abemaciclib and&#xD;
+      whether it works before 177Lu-PSMA-617 in treating patients with castration resistant&#xD;
+      prostate cancer that has spread to other places in the body (metastatic). Abemaciclib is in a&#xD;
+      class of medications called kinase inhibitors. It is highly selective inhibitors of&#xD;
+      cyclin-dependent kinase 4 and 6, which are proteins involved in cell differentiation and&#xD;
+      growth. It works by blocking the action of an abnormal protein that signals cancer cells to&#xD;
+      multiply. Radioligand therapy uses a small molecule (in this case 177Lu-PSMA-617), which&#xD;
+      carries a radioactive component to destroys tumor cells. When 177Lu-PSMA-617 is injected into&#xD;
+      the body, it attaches to the prostate-specific membrane antigen (PSMA) receptor found on&#xD;
+      tumor cells. After 177Lu-PSMA-617 attaches to the PSMA receptor, its radiation component&#xD;
+      destroys the tumor cell. Giving abemaciclib before 177Lu-PSMA-617 may help 177Lu-PSMA-617&#xD;
+      kill more tumor cells.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:&#xD;
+&#xD;
+      I. To determine the recommended phase II dose (RP2D) for abemaciclib given as lead-in&#xD;
+      treatment prior to lutetium Lu 177 vipivotide tetraxetan (177Lu-PSMA-617) for each treatment&#xD;
+      cycle, as well as dose limiting toxicities (DLTs) of this combination regimen. (Part A)&#xD;
+&#xD;
+      II. To determine the change in prostate-specific membrane antigen (PSMA) uptake on gallium Ga&#xD;
+      68 gozetotide (68Ga-PSMA-11) positron emission tomography (PET) scan following fourteen days&#xD;
+      of priming with abemaciclib treatment, relative to the pre-treatment baseline scan. (Part B&#xD;
+      (Expanded Cohort)).&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. To determine the (proportion of patients who experience &gt;= 50% decline from baseline in&#xD;
+      serum prostate specific antigen (PSA) (PSA50) response of this combination treatment. (Part B&#xD;
+      [Expanded Cohort]) II. To describe the safety of this combination treatment regimen using&#xD;
+      National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE)&#xD;
+      version (v.)5.0. (Part B [Expanded Cohort]) III. To determine the radiographic progression&#xD;
+      free survival (rPFS) according to Prostate Cancer Working Group 3 (PCWG3) guidelines among&#xD;
+      patients treated with this combination regimen. (Part B [Expanded Cohort]) IV. To determine&#xD;
+      the objective response rate (ORR) (complete response [CR] + partial response [PR]) as&#xD;
+      measured by Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 response in soft&#xD;
+      tissue, lymph node and visceral lesions. (Part B [Expanded Cohort]) V. To determine the&#xD;
+      disease control rate (DCR) (CR + PR + stable disease (SD)) as measured by RECIST v1.1&#xD;
+      response in soft tissue, lymph node and visceral lesions. (Part B [Expanded Cohort]) VI. To&#xD;
+      determine the overall survival (OS) of patients treated with this combination regimen. (Part&#xD;
+      B [Expanded Cohort]) VII. To determine the median duration of response (DOR) in patients&#xD;
+      treated with this combination regimen who achieve CR or PR as measured by RECIST v1.1. (Part&#xD;
+      B [Expanded Cohort])&#xD;
+&#xD;
+      EXPLORATORY OBJECTIVES:&#xD;
+&#xD;
+      I. To assess changes in tumor microenvironment using ribonucleic acid (RNA) and whole exome&#xD;
+      sequencing by comparing biopsies obtained pre and post-combination treatment using the&#xD;
+      established institutional biopsy protocol (PROMOTE).&#xD;
+&#xD;
+      II. To assess changes in PSMA expression in biopsies at the time of progression relative to&#xD;
+      pre-treatment biopsies using immunohistochemistry (IHC).&#xD;
+&#xD;
+      III. To describe PSMA upregulation on imaging following 7 days of treatment with abemaciclib,&#xD;
+      and in particular compare to PSMA upregulation on imaging seen following 14 days of&#xD;
+      abemaciclib treatment.&#xD;
+&#xD;
+      IV. To describe PSMA expression and upregulation on imaging following combined treatment with&#xD;
+      abemaciclib and 177Lu-PSMA-617 at the time of subsequent therapy cycles (pre and post&#xD;
+      abemaciclib treatment with cycle 3) in some patients treated with RP2D in Part B (expansion&#xD;
+      cohort).&#xD;
+&#xD;
+      V. To describe patterns of progression following completion of treatment, including in&#xD;
+      patients with available 68Ga-PSMA-11 PET scans.&#xD;
+&#xD;
+      VI. To compare response to treatment and clinical outcomes with different dose levels of&#xD;
+      abemaciclib used in this study.&#xD;
+&#xD;
+      OUTLINE: This is a dose-escalation study of abemaciclib.&#xD;
+&#xD;
+      Patients receive abemaciclib orally (PO) twice daily (BID) on days 1-14 and lutetium Lu 177&#xD;
+      vipivotide tetraxetan intravenously (IV) over 30 minutes on day 15. Treatment repeats every 6&#xD;
+      weeks for up to 4 cycles in the absence of disease progression or unacceptable toxicity.&#xD;
+&#xD;
+      After completion of study intervention, patients are followed up at 30 days, and then every 3&#xD;
+      months for up to 2 years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 31, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2025</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Recommended phase 2 dose (Part A)</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>If two or more patients in a cohort experience a dose-limiting toxicity (DLT), then the maximum tolerated dose (MTD)has been exceeded. The previous dose level will be considered the MTD and the recommended phase 2 dose. Per Investigator discretion, the recommended phase 2 dose/schedule of abemaciclib followed by 177Lu-PSMA-617 may be established in the absence of reaching MTD, based on the cumulative safety data of the treatment regimen.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of participants with DLTs (Part A)</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>Any non-hematologic, treatment-related adverse event (TRAE) Grade 3+, except of Grade 3 nausea,vomiting,diarrhea,constipation,fever,fatigue,skin rash,alopecia or non-clinically significant laboratory that resolves to Grade &lt;3 within 72 hours;Grade 4 thrombocytopenia lasting &gt;7 days;Grade 3+ thrombocytopenia with bleeding/requirement for platelet transfusion;Grade 4 neutropenia lasting &gt;7 days; Grade 3+ neutropenic fever;Grade 4+ anemia;TRAE requiring treatment discontinuation/delay of &gt;42 days;Failure to receive at least 66% of abemaciclib doses due to toxicity;Death not clearly due to underlying disease/extraneous causes;Hy's law;Grade 3+ nausea/vomiting/diarrhea &gt;72 hours;Grade 3+ fatigue &gt;7 days;Grade 3+ electrolyte abnormality &gt;72 hours, unless patient has clinical symptoms;All AEs of specified grades should count as DLTs except those that are clearly due to progression/extraneous causes.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in maximum standardized uptake value (SUVmax) across three lesions on gallium Ga 68 gozetotide (68Ga-PSMA-11) positron emission tomography (PET) scan (Part B)</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+    <description>The uptake in the three lesions with the highest SUVmax on the initial scan will be compared to SUVmax measurements in the same lesions on the PSMA PET scan following 14 days of priming treatment with abemaciclib</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>PSA50 response rate (Part B)</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+    <description>The proportion of patients who achieve a greater than 50% decline from baseline prostate specific antigen (PSA) drawn prior to cycle 1 day 1, at any point in the treatment course, will be descriptively reported along with 95% binomial confidence interval.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with TRAEs (Part B)</measure>
+    <time_frame>Up to 30 days after last dose of study drug, approximately 28 weeks</time_frame>
+    <description>Evaluated by National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0 CTCAE v.5) and defined as any adverse event which is classified by the investigator as having a definite, probable, or possible attribution to study treatments.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Radiographic progression free survival (Part B)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Radiographic progression of disease will be defined by RECIST version 1.1 and Prostate Cancer Working Group 3 (PCWG3) criteria. For the first scheduled reassessment by bone scan, new bone lesions will require a confirmatory bone scan 6 or more weeks later. Median progression free survival will be estimated using the Kaplan-Meier method. Durations will be measured from the first day of study treatment (cycle 1) to the first date of radiographic progression or death, whichever occurs first. Patients who discontinue study treatment for toxicity, withdraw from the study, or have PSA-only progression will be censored at the date of the last radiographic tumor assessment. Patients who discontinue treatment for clinical progression or deterioration will be included in the analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate (Part B)</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+    <description>Measured by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 response in soft tissue, lymph node and visceral lesions. Objective response is defined as the best response (complete response or partial response) from the start of treatment until disease progression or recurrence, where the reference for progressive disease is the smallest measurements recorded from start of treatment. To be assigned a status of objective response (CR or PR), changes in tumor measurements must be confirmed by repeat scans no less than 4 weeks after the criteria for response are first met. The proportion of patients with objective response will be descriptively reported with 95% binomial confidence interval.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate (Part B)</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+    <description>Measured by RECIST version 1.1 response in soft tissue, lymph node and visceral lesions. Disease control rate is defined as patients achieving either the best response (complete response or partial response) or stable disease from the start of treatment until disease progression or recurrence, where the reference for progressive disease is the smallest measurements recorded from start of treatment. The proportion of patients with disease control rate will be descriptively reported with 95% binomial confidence interval.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median overall survival (OS) (Part B)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Median overall survival and 95% confidence interval will be estimated using the Kaplan-Meier method. Duration will be measured from first date of study therapy to date of death from any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median duration of response (DOR) (Part B)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Median duration of response will be estimated using Kaplan-Meier product limit method, starting with the date of first scan indicating response until loss of response with disease progression per RECIST version 1.1 or death, whichever occurs first</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Castration-Resistant Prostate Carcinoma</condition>
+  <condition>Metastatic Prostate Adenocarcinoma</condition>
+  <condition>Stage IV Prostate Cancer AJCC v8</condition>
+  <condition>Stage IVA Prostate Cancer AJCC v8</condition>
+  <condition>Stage IVB Prostate Cancer AJCC v8</condition>
+  <condition>Metastatic Castration-resistant Prostate Carcinoma</condition>
+  <condition>Metastatic Castration-resistant Prostate Cancer</condition>
+  <arm_group>
+    <arm_group_label>Part A: Abemaciclib, 177Lu-PSMA-617</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive abemaciclib lead-in on days 1-14 and lutetium Lu 177 vipivotide tetraxetan IV over 30 minutes on day 15. Treatment repeats every 6 weeks for up to 4 cycles in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B: Recommended Phase 2 dose of Abemaciclib, 177Lu-PSMA-617</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive the recommended phase 2 dose of abemaciclib lead-in on days 1-14 and lutetium Lu 177 vipivotide tetraxetan IV over 30 minutes on day 15. Treatment repeats every 6 weeks for up to 4 cycles in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Abemaciclib</intervention_name>
+    <description>Given Orally</description>
+    <arm_group_label>Part A: Abemaciclib, 177Lu-PSMA-617</arm_group_label>
+    <arm_group_label>Part B: Recommended Phase 2 dose of Abemaciclib, 177Lu-PSMA-617</arm_group_label>
+    <other_name>Abemaciclib Oral</other_name>
+    <other_name>LY-2835219</other_name>
+    <other_name>Verzenio</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lutetium Lu 177-PSMA-617</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Part A: Abemaciclib, 177Lu-PSMA-617</arm_group_label>
+    <arm_group_label>Part B: Recommended Phase 2 dose of Abemaciclib, 177Lu-PSMA-617</arm_group_label>
+    <other_name>177Lu-labeled PSMA-617</other_name>
+    <other_name>Lutetium Lu 177 Vipivotide Tetraxetan</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Participants must have histologically or cytologically confirmed prostate cancer.&#xD;
+             Either fresh biopsy or archival tissue can be used for confirmation.&#xD;
+&#xD;
+          2. Age &gt;= 18 years.&#xD;
+&#xD;
+          3. Patients must have metastatic castration resistant prostate cancer (mCRPC) with&#xD;
+             progression based on Prostate Cancer Working Group 3 (PCWG3) criteria.&#xD;
+&#xD;
+          4. Patients must have adenocarcinoma histology.&#xD;
+&#xD;
+          5. Prior treatment with at least one novel hormonal agents (NHA) such as abiraterone&#xD;
+             acetate, enzalutamide, apalutamide, darolutamide etc.&#xD;
+&#xD;
+          6. Prior treatment with one line of taxane-based chemotherapy administered in either the&#xD;
+             hormone sensitive or castrate-resistant setting. Patients must have recovered (CTCAE&#xD;
+             grade =&lt; 1) from the acute effects of chemotherapy except for residual alopecia or&#xD;
+             grade 2 peripheral neuropathy prior to study entry. A washout period of at least 21&#xD;
+             days is required between last chemotherapy dose and treatment initiation&#xD;
+&#xD;
+          7. Patients must have prior orchiectomy and/or ongoing androgen-deprivation therapy and a&#xD;
+             castrate level of serum testosterone (&lt; 50 ng/dL or &lt; 1.7 nmol/L)&#xD;
+&#xD;
+          8. Patients must have a 68Ga-PSMA-11 PET scan with at least 3 PSMA-positive lesions&#xD;
+             (maximum standardized uptake value [SUVmax] greater than SUVmax of liver) as&#xD;
+             determined by nuclear medicine review prior to start of lead-in treatment with&#xD;
+             abemaciclib&#xD;
+&#xD;
+          9. Patients must have Eastern Cooperative Oncology Group (ECOG) performance status (PS)&#xD;
+             of 0-2&#xD;
+&#xD;
+         10. Patients must have life expectancy of &gt; 6 months&#xD;
+&#xD;
+         11. Patients must have adequate organ function as outlined below and bone marrow reserve&#xD;
+&#xD;
+               -  White blood cell (WBC) &gt; 3.0&#xD;
+&#xD;
+               -  Absolute neutrophil count (ANC) &gt; 1.5&#xD;
+&#xD;
+               -  Hemoglobin (Hgb) &gt; 9.0&#xD;
+&#xD;
+               -  Platelets (Plt) &gt; 100,000&#xD;
+&#xD;
+               -  Total bilirubin =&lt; 1.5 x the institutional upper limit of normal (ULN). For&#xD;
+                  patients with known Gilbert's Syndrome =&lt; 3 ULN is permitted&#xD;
+&#xD;
+               -  Aspartate aminotransferase (AST)(serum glutamic oxaloacetic transaminase (SGOT))&#xD;
+                  =&lt; 3 X institutional upper limit of normal (=&lt; 5.0 ULN for patients with liver&#xD;
+                  metastases)&#xD;
+&#xD;
+               -  Alanine aminotransferase (ALT)(serum glutamic pyruvic transaminase (SGPT)) =&lt; 3 X&#xD;
+                  institutional upper limit of normal (=&lt; 5.0 ULN for patients with liver&#xD;
+                  metastases)&#xD;
+&#xD;
+               -  Creatinine =&lt; 1.5 x within institutional upper limit of normal OR creatinine&#xD;
+                  clearance glomerular filtration rate (GFR) &gt;= 60 mL/min/1.73 m, calculated using&#xD;
+                  the Cockcroft-Gault equation, unless data exists supporting safe use at lower&#xD;
+                  kidney function values, no lower than 30 mL/min/1.73 m^2&#xD;
+&#xD;
+         12. Patient must be able to swallow oral medications&#xD;
+&#xD;
+         13. Patients must have the ability to understand a written informed consent document, and&#xD;
+             the willingness to sign it&#xD;
+&#xD;
+         14. Human immunodeficiency virus (HIV)-infected individuals on effective anti-retroviral&#xD;
+             therapy with undetectable viral load within 6 months are eligible for this trial&#xD;
+&#xD;
+         15. For participants with evidence of chronic hepatitis B virus (HBV) infection, the HBV&#xD;
+             viral load must be undetectable on suppressive therapy, if indicated&#xD;
+&#xD;
+         16. Individuals with a history of hepatitis C virus (HCV) infection must have been treated&#xD;
+             and cured. For individuals with HCV infection who are currently on treatment, they are&#xD;
+             eligible if they have an undetectable HCV viral load&#xD;
+&#xD;
+         17. Individuals with a prior or concurrent malignancy whose natural history or treatment&#xD;
+             does not have the potential to interfere with the safety or efficacy assessment of the&#xD;
+             investigational regimen are eligible for this trial&#xD;
+&#xD;
+         18. Patients with reproductive potential must agree to use effective contraception and to&#xD;
+             not donate sperm during the study and for at least 3 months following the last dose of&#xD;
+             study treatment. Effective method of contraception means male condom with spermicide,&#xD;
+             female condom with spermicide, diaphragm with spermicide, cervical sponge, or cervical&#xD;
+             cap with spermicide&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients with small cell or neuroendocrine carcinoma histology.&#xD;
+&#xD;
+          2. Patients with a super scan seen in the baseline bone scan. Super scan refers to a bone&#xD;
+             scan with diffusely increased skeletal radioisotope uptake relative to soft tissue&#xD;
+&#xD;
+          3. Patients with prior treatment with CDK4/6 inhibitors&#xD;
+&#xD;
+          4. Patients with previous treatment with PSMA-targeted radioligand therapy&#xD;
+&#xD;
+          5. Patients with previous treatment with Strontium-89, Samarium-153, Rhenium-186,&#xD;
+             Rhenium-188, Radium-223 or hemi-body irradiation within 6 months prior to study entry&#xD;
+&#xD;
+          6. Any systemic anti-cancer therapy within 3 weeks of study entry&#xD;
+&#xD;
+          7. Patients who have experienced significant radiation-related adverse events (AEs) from&#xD;
+             prior radiation treatment (&gt;= grade 3) or have experienced persistent&#xD;
+             radiation-related AEs that have not resolved by the time of study randomization&#xD;
+&#xD;
+          8. Patients with prior radiation treatment to lungs or liver&#xD;
+&#xD;
+          9. Patients with a history of central nervous system (CNS) metastases are ineligible&#xD;
+             unless they have received prior therapy (surgery, radiation therapy (RT), gamma knife)&#xD;
+             and are, asymptomatic, and not receiving corticosteroids for this indication. Head&#xD;
+             imaging is not required&#xD;
+&#xD;
+         10. Patients with symptoms of cord compression or impending cord compression&#xD;
+&#xD;
+         11. Patients with concurrent serious medical conditions as determined by primary&#xD;
+             investigator&#xD;
+&#xD;
+         12. Patients with other significant malignancies that are expected to alter life&#xD;
+             expectancy or interfere with disease assessment. Patients with adequately treated skin&#xD;
+             cancer, non-muscle-invasive bladder cancer and patients with prior history of&#xD;
+             malignancy who have been disease free for more than 3 years are eligible. Patients&#xD;
+             with history of in-situ/early stage melanoma will not be excluded&#xD;
+&#xD;
+         13. Patients who have not recovered from adverse events due to prior anti-cancer therapy&#xD;
+             to =&lt; grade 1 or baseline (other than alopecia or peripheral neuropathy)&#xD;
+&#xD;
+         14. Patients with serious and/or uncontrolled preexisting medical condition(s) that, in&#xD;
+             the judgment of the investigator, would preclude participation in this study (for&#xD;
+             example, interstitial lung disease, severe dyspnea at rest or requiring oxygen&#xD;
+             therapy, severe renal impairment [e.g. estimated creatinine clearance &lt; 30ml/min],&#xD;
+             history of major surgical resection involving the stomach or small bowel, or&#xD;
+             preexisting Crohn's disease or ulcerative colitis or a preexisting chronic condition&#xD;
+             resulting in baseline grade 2 or higher diarrhea)&#xD;
+&#xD;
+         15. The patient has active systemic bacterial infection (requiring intravenous (IV)&#xD;
+             antibiotics at time of initiating study treatment), fungal infection, or detectable&#xD;
+             viral infection (such as known human immunodeficiency virus positivity or with known&#xD;
+             active hepatitis B or C (for example, hepatitis B surface antigen positive). Screening&#xD;
+             is not required for enrollment&#xD;
+&#xD;
+         16. The patient has a personal history of any of the following conditions: syncope of&#xD;
+             cardiovascular etiology, ventricular arrhythmia of pathological origin (including, but&#xD;
+             not limited to, ventricular tachycardia and ventricular fibrillation), or sudden&#xD;
+             cardiac arrest.&#xD;
+&#xD;
+         17. Patients currently receiving any other investigational therapeutic agents.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Vadim S Koshkin, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, San Francisco</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Audrey Phone</last_name>
+    <phone>(415) 476-7544</phone>
+    <email>Audrey.Phone@ucsf.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of California, San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Audrey Phone</last_name>
+      <phone>415-476-7544</phone>
+      <email>Audrey.Phone@ucsf.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Vadim S Koshkin, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 28, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 9, 2021</study_first_posted>
+  <last_update_submitted>October 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, San Francisco</investigator_affiliation>
+    <investigator_full_name>Vadim S Koshkin</investigator_full_name>
+    <investigator_title>Principal Investiator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>177Lu-PSMA-617</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

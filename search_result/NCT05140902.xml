@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1556">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05140902</url>
+  </required_header>
+  <id_info>
+    <org_study_id>300006446</org_study_id>
+    <nct_id>NCT05140902</nct_id>
+  </id_info>
+  <brief_title>Accurate DCE-MRI Measurement of Glioblastoma Using Point-of-care Portable Perfusion Phantom</brief_title>
+  <official_title>Accurate DCE-MRI Measurement of Glioblastoma Using Point-of-care Portable Perfusion Phantom</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Alabama at Birmingham</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Alabama at Birmingham</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this study is to test whether a new device developed at UAB can decrease the&#xD;
+      error in calculating blood flow of a brain tumor, leading to better prognosis. UAB&#xD;
+      radiological research team has been studying a cutting-edge imaging technique named dynamic&#xD;
+      contrast enhanced magnetic resonance imaging, or DCE-MRI, over 10 years. This technique has&#xD;
+      been globally used to calculate blood flow of various tissues including tumors. Blood flow&#xD;
+      often serves as a critical indicator showing a disease status. For example, a brain tumor has&#xD;
+      typically high blood flow, so the magnitude of blood flow can be used as an indicator to&#xD;
+      identify the presence and aggressiveness of a brain tumor. In addition, an effective therapy&#xD;
+      can result in the alteration of the blood flow in a brain tumor. Therefore, the investigators&#xD;
+      may be able to determine whether the undergoing therapy is effective or not by measuring the&#xD;
+      blood flow in the brain tumor, and decide whether they need to continue the therapy or try a&#xD;
+      different one.&#xD;
+&#xD;
+      However, unfortunately, the measurement of blood flow using DCE-MRI is often inaccurate. MRI&#xD;
+      scanners may use different hardware and software thus the measurement may be different across&#xD;
+      scanners. The measurement may also be different over time due to hardware instability.&#xD;
+      Therefore, the investigators propose to use an artificial tissue, named &quot;phantom&quot;, together&#xD;
+      with a patient. The phantom has a constant blood flow thus it can serve as a standard.&#xD;
+      Errors, if it occurs, will affect the images of both the patient and the phantom. Therefore,&#xD;
+      the investigators will be able to correct the errors in the patient image using the phantom&#xD;
+      image. UAB radiological research team invented a new device for this purpose named&#xD;
+      point-of-care portable perfusion phantom, or shortly P4. The team recently demonstrated the&#xD;
+      utility of the P4 phantom for accurate measurement of blood flow in pancreatic cancer and&#xD;
+      prostate cancer. In this study, they will test whether the P4 phantom will improve the&#xD;
+      measurement accuracy in brain cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Glioblastoma is the most common primary malignant type of brain tumor in adults. Surgical&#xD;
+      tumor resection followed by chemoradiation therapy is the standard of care for patients with&#xD;
+      glioblastoma, but its prognosis is still fairly dismal (median survival time = 15 months).&#xD;
+      One major concern that prevents effective treatment management is the difficulty of&#xD;
+      differentiating between pseudo-progression and true-progression. Pseudo-progression occurs in&#xD;
+      about 20-30% of glioblastoma patients typically within 3 months after chemoradiation therapy&#xD;
+      has been completed. Pseudo-progression is a local inflammatory reaction caused by irradiation&#xD;
+      and enhanced by concurrent chemotherapy, which leads to a transient increase of blood brain&#xD;
+      barrier (BBB) permeability. The BBB, however, is also disrupted by new cancer occurrence.&#xD;
+      Therefore, both pseudo- and true-progressions appear with an increased contrast enhancement&#xD;
+      in MRI, and there are currently no established techniques to differentiate between them.&#xD;
+      Pseudo-progression is typically known to be associated with better clinical outcomes, so&#xD;
+      pseudo-progression mistaken for true-progression results in the discontinuation of an&#xD;
+      effective therapy, while true-progression mistaken for pseudo-progression leads to the&#xD;
+      continuation of an ineffective therapy that may induce adverse side effects. DCE-MRI has&#xD;
+      potential to differentiate between pseudo- and true-progressions of glioblastoma. The&#xD;
+      enhancing lesions of pseudo-progression are due to inflammation, whereas those of&#xD;
+      true-progression are caused by cancer growing. Thus, true-progression typically presents&#xD;
+      higher perfusion than pseudo-progression does. DCE-MRI can quantitatively assess the tissue&#xD;
+      perfusion by monitoring the dynamic change of MRI contrast agent concentration. Several&#xD;
+      investigators have demonstrated the potential of quantitative DCE-MRI to differentiate&#xD;
+      between pseudo- and true-progressions. However, the variability in quantitative DCE-MRI&#xD;
+      measurement across different MRI scanners remains a major concern, as it hinders data&#xD;
+      comparison among institutes to retrieve a reliable threshold for accurate prognosis and&#xD;
+      subsequent treatment optimization. A point-of-care perfusion phantom may allow high&#xD;
+      reproducibility and accurate comparison of quantitative DCE-MRI data across MRI platforms.&#xD;
+      The UAB radiological research team recently developed the P4 phantom, which is small enough&#xD;
+      to be imaged concurrently with a patient for real-time quality assurance, but large enough&#xD;
+      not to suffer from the partial volume effect. The P4 phantom creates constant contrast&#xD;
+      enhancement curves with very robust repeatability, and thus the contrast agent concentration&#xD;
+      time-course in a tumor, which is a major source of error in quantitating DCE-MRI parameters,&#xD;
+      can be accurately calculated in reference to the values observed in the phantom. In our&#xD;
+      previous study, the variability in quantitating the volume transfer constant of various human&#xD;
+      tissues across two different MRI scanners was reduced fivefold after P4-based error&#xD;
+      correction. The investigators hypothesize that the variability in quantitative DCE-MRI&#xD;
+      measurement of glioblastoma across different scanners will be significantly reduced when the&#xD;
+      P4 is used for error correction, leading to better differentiation between pseudo- and&#xD;
+      true-progressions. The goal of this study is to test this hypothesis.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2022</start_date>
+  <completion_date type="Anticipated">December 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To measure the reproducibility of qDCE-MRI measurement of glioblastoma.</measure>
+    <time_frame>At the end of Cycle 2 of chemoradiation therapy (each cycle is 28 days)</time_frame>
+    <description>The goal is to measure the reproducibility of blood perfusion measurement in the glioblastoma using the two consecutive DCE-MRI scans with and without P4-based error correction.&#xD;
+The pharmacokinetic (PK) parameter within the ROI will be averaged at each scan after P4-based error correction, and the mean values of two scans will be compared to calculate the reproducibility coefficient (%RDC) using the equation, %RDC=2.77wCV, where wCV is the within-subject coefficient of variation. The %RDC before P4-based error correction will also be calculated for comparison. Data reproducibility will be assessed using the intra-class correlation coefficient (ICC) as well. ICC = σ 2b / (σ 2b+ σ 2w), where σb is between-subject standard deviation and σw is within-subject standard deviation.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To determine whether the differentiation between the pseudo- and true-progressions of glioblastoma can be improved using qDCE-MRI after P4-based error correction.</measure>
+    <time_frame>At the end of Cycle 2 of chemoradiation therapy (each cycle is 28 days)</time_frame>
+    <description>The PK parameter (e.g., Ktrans) in the tumor with pseudoprogression will be statistically compared with that with true-progression before and after P4-based error correction to determine whether the differentiation between the pseudo- and true-progressions of glioblastoma can be improved using qDCE-MRI after P4-based error correction. Each tumor will be classified into pseudo- or true-progression based on RANO criteria.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Glioblastoma</condition>
+  <arm_group>
+    <arm_group_label>Glioblastoma patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>glioblastoma patients with newly or enlarged enhancing lesion within 3 months after completing 6 weeks of adjuvant chemoradiation therapy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Point-of-care Portable Perfusion Phantom (P4)</intervention_name>
+    <description>P4 is a perfusion phantom developed by Dr. Harrison Kim that can significantly reduce variation in quantitating perfusion of human abdominal tissues across MRI scanners.</description>
+    <arm_group_label>Glioblastoma patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adult patients (age 18 years or older).&#xD;
+&#xD;
+          2. Patients treated with surgery, followed by chemoradiation therapy, and currently under&#xD;
+             chemotherapy.&#xD;
+&#xD;
+          3. Patients with a newly or enlarged enhancing lesion inside the radiation field at least&#xD;
+             three months after completion of radiation therapy.&#xD;
+&#xD;
+          4. Patients with signed informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Participants with safety contraindications to MRI examination (determined by standard&#xD;
+             clinical screening).&#xD;
+&#xD;
+          2. Participants on hemodialysis or with acute renal failure.&#xD;
+&#xD;
+          3. Participants who are pregnant, lactating or are planning to become pregnant during the&#xD;
+             study.&#xD;
+&#xD;
+          4. Participants who are planning to farther a child during the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Harrison Kim, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Alabama at Birmingham</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>April Riddle, BS</last_name>
+    <phone>205-934-6504</phone>
+    <email>ariddle@uabmc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sebastian Eady, BS</last_name>
+    <phone>205-996-2636</phone>
+    <email>smeady@uabmc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>April Riddle, BS</last_name>
+      <phone>205-934-6504</phone>
+      <email>ariddle@uabmc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Harrison Kim, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Kristen Riley, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Houman Sotoudeh, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 2, 2021</study_first_posted>
+  <last_update_submitted>November 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Alabama at Birmingham</investigator_affiliation>
+    <investigator_full_name>Harrison Kim</investigator_full_name>
+    <investigator_title>Associate Professor, Division of Advanced Medical Imaging Research</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glioblastoma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>To be determined</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

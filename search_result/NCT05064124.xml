@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7461">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05064124</url>
+  </required_header>
+  <id_info>
+    <org_study_id>143608</org_study_id>
+    <nct_id>NCT05064124</nct_id>
+  </id_info>
+  <brief_title>Early diAgnosis Real-Time Healthcare System for CANcer Trial</brief_title>
+  <acronym>EARTHSCAN</acronym>
+  <official_title>Early diAgnosis Real-Time Healthcare System for CANcer Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University College, London</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University College, London</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to assess whether the AI characterisation system of the CADDIE&#xD;
+      device improves the endoscopists accuracy in the optical diagnosis of diminutive colorectal&#xD;
+      polyps in the bowel during colonoscopy. Participants will either have a colonoscopy with the&#xD;
+      assistance of the CADDIE device characterisation AI system (&quot;intervention group&quot;) or have a&#xD;
+      colonoscopy in line with routine clinical practice i.e., without the CADDIE device&#xD;
+      characterisation AI system (&quot;control group&quot;). The randomisation method of this trial will&#xD;
+      allocate enrolled participants to the &quot;intervention&quot; group and to the &quot;control&quot; group by a&#xD;
+      technique similar to flipping a coin.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The CADDIE system comprises a computer attached to the output of the endoscopy stack and a&#xD;
+      screen which shows the normal video output of the colon in real-time. Using artificial&#xD;
+      intelligence (AI) software, it highlights the characteristics of a polyp to help the&#xD;
+      endoscopist in their optical diagnosis of the polyp histology. Pressing on a foot pedal,&#xD;
+      which is connected to the computer, presents the information from the AI software to the user&#xD;
+      as an overlay on the endoscopy screen in text format.&#xD;
+&#xD;
+      The CADDIE device is capable of recording the video output of the colon in real-time&#xD;
+      irrespective of whether the CADDIE's AI system is active.&#xD;
+&#xD;
+      In the endoscopist recruitment phase, we will identify endoscopists expertise and experience&#xD;
+      in colonoscopy.&#xD;
+&#xD;
+      In the study phase of the trial, the endoscopist will be kept the same for the CADDIE and&#xD;
+      control arm. At the beginning of each procedure, participant information will be entered into&#xD;
+      an electronic system (Redcap) which will generate a random allocation into one of two arms.&#xD;
+      The CADDIE arm involves a colonoscopy assisted by the CADDIE AI system (i.e., AI software).&#xD;
+      The control arm is a colonoscopy without the CADDIE's polyp characterisation AI system (i.e.,&#xD;
+      standard practice). Each endoscopist will have the CADDIE device present during all endoscopy&#xD;
+      lists and will record all procedures in both CADDIE and control arms. The CADDIE's polyp&#xD;
+      characterisation system (i.e., AI software) will only be active in the CADDIE arm. The&#xD;
+      recordings in the control arms will allow an extra post-hoc assessment of how CADDIE might&#xD;
+      have performed compared to the actual assessment by the endoscopist.&#xD;
+&#xD;
+      In both arms of the trial, for each polyp the endoscopist detects, they will:&#xD;
+&#xD;
+        1. Measure the polyp size and capture images of the polyp:&#xD;
+&#xD;
+           Polyps are to be measured using an instrument of known size. For polyps measured to be&#xD;
+           &lt;10mm, the endoscopist will capture a still image of the polyp in both white light and&#xD;
+           Narrow Band Imaging (NBI) or equivalent imaging modality.&#xD;
+&#xD;
+        2. Optically diagnose the polyp:&#xD;
+&#xD;
+           The endoscopist will optically diagnosis polyps &lt;10mm, stating whether the diagnosis is&#xD;
+           made with high or low confidence.&#xD;
+&#xD;
+        3. Resect diminutive polyps:&#xD;
+&#xD;
+           Management of rectosigmoid hyperplastic polyps will be standardised. Rectosigmoid polyps&#xD;
+           that are optically diagnosed as hyperplastic by the endoscopist will be&#xD;
+           resected/biopsied. If multiple rectal hyperplastic polyps are optically diagnosed by the&#xD;
+           endoscopist, a maximum of 5 will be resected/biopsied for histopathology.&#xD;
+&#xD;
+        4. Label the polyp with unique ID:&#xD;
+&#xD;
+           Each polyp resected (regardless of size) must be labelled according to instructions of&#xD;
+           the Specimen Handling SOP. Each unique polyp ID will be logged in chronological order on&#xD;
+           a per colonoscopy basis and sent for histopathology. Histopathology will be referenced&#xD;
+           as the ground truth for polyp diagnosis and characterisation.&#xD;
+&#xD;
+        5. Complete documentation as per standard of care:&#xD;
+&#xD;
+           Documentation will be made in the endoscopy report of polyp site, size, morphology,&#xD;
+           segmental Boston Bowel Preparation Score (BBPS). A photograph will also be taken of the&#xD;
+           caecum and stored in the endoscopy report.&#xD;
+&#xD;
+        6. Complete the optical diagnosis case report form (CRF):&#xD;
+&#xD;
+      Populate the optical diagnosis CRF at the end of the procedure with the polyp ID of each&#xD;
+      polyp sample (regardless of size), their optical diagnosis of each polyp &lt;10mm in size and&#xD;
+      whether their optical diagnosis was made with high or low confidence.&#xD;
+&#xD;
+      In the CADDIE arm, the endoscopist presses the foot pedal once they have frozen an image of&#xD;
+      the polyp in the endoscopy screen in narrow band imaging (NBI) mode. This will output the&#xD;
+      CADDIE's characterisation of the polyp. Using this information and the endoscopist's own&#xD;
+      assessment, the endoscopist will log an optical diagnosis of the polyp and the confidence of&#xD;
+      their diagnosis (high or low). In the control arm, the endoscopist optically diagnoses the&#xD;
+      polyps without CADDIE's polyp characterisation function. The optical diagnosis will be&#xD;
+      assessed against the polyp histopathology which will be referred as the ground truth.&#xD;
+      Post-hoc analysis of the recorded footage will allow for comparison with the CADDIE generated&#xD;
+      polyp characterisation.&#xD;
+&#xD;
+      Safety of the device will be assessed through monitoring of adverse events. Acceptability&#xD;
+      will be assessed through a qualitative questionnaire for the endoscopist, endoscopy nurse and&#xD;
+      participant in addition to measuring endoscopy markers such as caecal intubation time,&#xD;
+      procedural time, withdrawal time.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2021</start_date>
+  <completion_date type="Anticipated">November 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The primary objective of this study is to evaluate whether the CADDIE system improves endoscopists accuracy in the optical diagnosis of diminutive colorectal polyps (≤5mm).</measure>
+    <time_frame>1 year</time_frame>
+    <description>The primary endpoint will be the proportion of diminutive colorectal polyps optically diagnosed correctly by endoscopists (correct optical diagnoses divided by total number of diminutive polyps), expressed as a percentage, in the CADDIE arm compared to the control arm, with the polyp histopathology being referenced as the ground truth.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To determine whether using the CADDIE system improves endoscopists accuracy in the optical diagnosis of diminutive polyps in the rectosigmoid area.</measure>
+    <time_frame>1 year</time_frame>
+    <description>The endpoint will be the proportion of diminutive rectosigmoid colorectal polyps optically diagnosed correctly by endoscopists (correct optical diagnoses divided by total number of diminutive rectosigmoid polyps), expressed as a percentage, in the CADDIE arm compared to the control arm, with the polyp histopathology being referenced as the ground truth.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine whether using the CADDIE system improves the negative predicator value (NPV) of endoscopists for optically diagnosing diminutive adenomatous polyps in the rectosigmoid area.</measure>
+    <time_frame>1 year</time_frame>
+    <description>The endpoint will be the NPV in optically diagnosing rectosigmoid diminutive adenomas in the CADDIE arm compared to the control arm, with the polyp histopathology being referenced as the ground truth.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the concordance of colonoscopy surveillance intervals in the CADDIE arm determined using endoscopists optical diagnosis against histopathology derived surveillance intervals (ground truth).</measure>
+    <time_frame>1 year</time_frame>
+    <description>The concordance of colonoscopy surveillance intervals in the CADDIE arm when using endoscopists CADDIE assisted OD in comparison to histopathology derived intervals (ground truth) - per patient analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the concordance of colonoscopy surveillance intervals in the control arm determined using endoscopists optical diagnosis against histopathology derived surveillance intervals (ground truth).</measure>
+    <time_frame>1 year</time_frame>
+    <description>The concordance of colonoscopy surveillance intervals in the control arm when using endoscopists OD without the CADDIE system in comparison to histopathology derived intervals (ground truth) - per patient analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare the accuracy of the colonoscopy surveillance intervals when the endoscopists uses the CADDIE system (CADDIE arm) compared to without the CADDIE system (control arm).</measure>
+    <time_frame>1 year</time_frame>
+    <description>To compare the concordance of colonoscopy surveillance intervals against histopathology derived surveillance intervals (ground truth) in the CADDIE arm with the control arm (expressed as a percentage) - per patient analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate how the CADDIE system influences the endoscopists confidence in their OD.</measure>
+    <time_frame>1 year</time_frame>
+    <description>Compare the rate of endoscopists high-confidence optical diagnosis when using the CADDIE system compared to without.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the safety of the CADDIE system in clinical application.</measure>
+    <time_frame>1 year</time_frame>
+    <description>Frequency of adverse events based on maximum severity of event for each participant in each arm. Adverse events will be recorded at 30 days post-procedure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the integration of the CADDIE system into the normal colonoscopy clinical workflow.</measure>
+    <time_frame>1 year</time_frame>
+    <description>i) Compare caecal intubation time in both arms of the study. ii) Compare caecal intubation rate in both arms of the study. iii) Endoscopist/endoscopy nurse/patient experience and acceptability of the CADDIE system assessed by qualitative questionnaire.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">420</enrollment>
+  <condition>Polyps</condition>
+  <condition>Adenoma Colon</condition>
+  <condition>Colorectal Polyp</condition>
+  <condition>Colon Polyp</condition>
+  <condition>Polyps of Colon</condition>
+  <arm_group>
+    <arm_group_label>CADDIE</arm_group_label>
+    <description>Participants will have a colonoscopy with the assistance of the CADDIE device characterisation AI system</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <description>Participants will have a colonoscopy in line with routine clinical practice i.e., without the CADDIE device characterisation AI system</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>CADDIE - Computer Aided Detection and Diagnosis for Intelligent Endoscopy</intervention_name>
+    <description>CADDIE assisted polyp detection&#xD;
+CADDIE assisted polyp characterisation</description>
+    <arm_group_label>CADDIE</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants scheduled to undergo a screening, surveillance or symptomatic colonoscopy at&#xD;
+        UCLH&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants scheduled to undergo a screening, surveillance or symptomatic colonoscopy&#xD;
+             with an endoscopist participating in the study phase of the trial.&#xD;
+&#xD;
+          -  Male and female participants aged 18 years or older at the time of informed consent.&#xD;
+&#xD;
+          -  Participants able to comprehend, sign and date the written informed consent document&#xD;
+             to participate in the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Emergency and/or inpatient colonoscopies&#xD;
+&#xD;
+          -  Participants with inflammatory bowel disease (IBD)&#xD;
+&#xD;
+          -  Participants with current Colorectal Cancer (CRC)&#xD;
+&#xD;
+          -  Participants with a contraindication for biopsy or polypectomy. These include:&#xD;
+&#xD;
+               -  Participants who have not withheld medications pre-disposing to bleeding at time&#xD;
+                  of colonoscopy as per local site /national guidelines.&#xD;
+&#xD;
+               -  Participants with a history of haemostasis disorders (haemostasis disorders will&#xD;
+                  include but will not be limited to: participants with haemophilia or other&#xD;
+                  congenitally acquired clotting factor deficiencies, participants with cirrhosis&#xD;
+                  with coagulopathy, participants known to have thrombocytopenia (&lt;80,000&#xD;
+                  platelet/ul) and individuals with Von Willebrand's disease or other known&#xD;
+                  platelet malfunction disorders)&#xD;
+&#xD;
+          -  Participant is enrolled in another research study with an investigational medicinal&#xD;
+             product (IMP) or non-IMP that pre-disposes them to bleeding&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Manish Chand, MBBS FRCS PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UCL</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sharon Cheung, MSc</last_name>
+    <phone>02076795217</phone>
+    <email>sharon.cheung@ucl.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rawen Kader, MBBS MRCP</last_name>
+    <phone>02076795217</phone>
+    <email>rawen.kader.17@ucl.ac.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University College London Hospitals NHS Foundation Trust</name>
+      <address>
+        <city>London</city>
+        <zip>NW1 2PG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Manish Chand, MBBS FRCS PhD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 1, 2021</study_first_posted>
+  <last_update_submitted>September 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Artificial intelligence</keyword>
+  <keyword>Endoscopy</keyword>
+  <keyword>ADR</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Adenoma</mesh_term>
+    <mesh_term>Polyps</mesh_term>
+    <mesh_term>Colonic Polyps</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Patients will be asked informed consent with the possibility to share the data</ipd_description>
+    <ipd_time_frame>Data will be made available from 1 year after the trial findings are published. This is available for up to 5 years after study completion.</ipd_time_frame>
+    <ipd_access_criteria>We will make provision for and consider data sharing requests from bona fide researchers who must abide by the following principles: data will be collected with an high level of quality assurance, data will be held securely with appropriate documentation, data will not be put into the public domain or otherwise shared without explicit ethical review or legal obligation, and they will aim to use any data generated to the maximum public good. These datasets are governed by data usage policies specified by the data controller (UCL). If a conflict exists that severely restricts the analyses that can be undertaken, we would endeavour to support outside researchers by hosting them as visiting workers in our team so that they can access the data. We are committed to complying with the Wellcome Trust Data Sharing Policy. Applications are subject to review by Laurence Lovat and Rawen Kader and should be emailed to l.lovat@ucl.ac.uk</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

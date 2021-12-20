@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4744">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05099445</url>
+  </required_header>
+  <id_info>
+    <org_study_id>INCB 00928-108</org_study_id>
+    <nct_id>NCT05099445</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate the Pharmacokinetics, Safety, and Pharmacodynamics of INCB000928 in Participants With Impaired Renal Function and Hemodialysis</brief_title>
+  <official_title>A Phase 1 Study to Evaluate the Pharmacokinetics, Safety, and Pharmacodynamics of INCB000928 in Participants With Impaired Renal Function and Hemodialysis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Incyte Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Incyte Corporation</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multicenter, open-label parallel-group to evaluate single oral doses of INCB000928&#xD;
+      in participants with varying level of renal function or impairment.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 15, 2021</start_date>
+  <completion_date type="Anticipated">December 8, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 8, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PK for plasma of INCB000928: Cmax</measure>
+    <time_frame>Days 1 - 4</time_frame>
+    <description>Defined as maximum observed plasma or serum concentration, this test will assess the effect of renal impairment and hemodialysis on the exposure of single oral doses of INCB00928</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PK for plasma of INCB000928: AUC0-t</measure>
+    <time_frame>Days 1 - 4</time_frame>
+    <description>Defined as area under the steady-state plasma or serum concentration-time curve over 1 dose interval, this test will assess the effect of renal impairment and hemodialysis on the exposure of single oral doses of INCB00928.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PK for plasma of INCB000928: AUC0-∞</measure>
+    <time_frame>Days 1 - 4</time_frame>
+    <description>Defined as area under the single-dose plasma or serum concentration-time curve extrapolated to time of infinity, this test will assess the effect of renal impairment and hemodialysis on the exposure of single oral doses of INCB00928.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of treatment-related adverse events</measure>
+    <time_frame>Days 1-4 and follow up; up to 14 days</time_frame>
+    <description>To determine the safety and tolerability of INCB000928 administered as monotherapy in participants with with impaired renal function and hemodialysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK for plasma of INCB000928: tmax</measure>
+    <time_frame>Days 1 - 4</time_frame>
+    <description>Defined as time to maximum concentration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK for plasma of INCB000928: t½</measure>
+    <time_frame>Days 1 - 4</time_frame>
+    <description>Defined as apparent terminal-phase disposition half-life</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK for plasma of INCB000928: CL/F</measure>
+    <time_frame>Days 1 - 4</time_frame>
+    <description>Defined as apparent oral dose clearance</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK for plasma of INCB000928: Vz/F</measure>
+    <time_frame>Days 1 - 4</time_frame>
+    <description>Defined as apparent oral dose volume of distribution</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK for plasma of INCB000928: AUC3-7</measure>
+    <time_frame>Days 1 - 4</time_frame>
+    <description>Group 5 only: Defined as area under the plasma or serum concentration-time curve from 3 to 7 h during dialysis, Period 1.</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">48</enrollment>
+  <condition>Renal Impairment</condition>
+  <condition>Hemodialysis</condition>
+  <arm_group>
+    <arm_group_label>Group 1: Normal Renal Function</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with normal levels of renal function will receive a single oral dose of INCB000928 200 mg on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2: Mild Renal Impairment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with mild levels of renal impairment will receive a single oral dose of INCB000928 200 mg on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3: Moderate Renal Impairment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with moderate levels of renal impairment will receive a single oral dose of INCB000928 200 mg on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 4: Severe Renal Impairment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with severe levels of renal impairment will receive a single oral dose of INCB000928 200 mg on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 5: Kidney Failure</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Group 5 participants with ESRD maintained on HD will receive a single dose of INCB000928 on Day 1 of each of 2 treatment periods before (Period 1) and after (Period 2) an HD session in order to study the effects of HD on INCB000928.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>INCB000928</intervention_name>
+    <description>INCB000928 200 mg will be administered on Day 1 of each treatment period.</description>
+    <arm_group_label>Group 1: Normal Renal Function</arm_group_label>
+    <arm_group_label>Group 2: Mild Renal Impairment</arm_group_label>
+    <arm_group_label>Group 3: Moderate Renal Impairment</arm_group_label>
+    <arm_group_label>Group 4: Severe Renal Impairment</arm_group_label>
+    <arm_group_label>Group 5: Kidney Failure</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        INCLUSION CRITERIA:&#xD;
+&#xD;
+          -  Age 18 to 82 years (inclusive) at the time of signing the ICF.&#xD;
+&#xD;
+          -  Participants will be classified at screening by renal function based on eGFR as&#xD;
+             calculated by the MDRD formula and requirement for HD (Group 5).&#xD;
+&#xD;
+          -  Participants eligible for Group 5 with ESRD have received HD for at least 3 months&#xD;
+             prior to screening.&#xD;
+&#xD;
+          -  Participants eligible for Group 1 should be in good health as determined by no&#xD;
+             clinically significant deviations from normal for medical history, physical&#xD;
+             examination, vital signs,12-lead ECGs, or clinical laboratory determinations at&#xD;
+             screening or Day -1.&#xD;
+&#xD;
+          -  Participants eligible for Groups 2 through 5 may have medical findings consistent with&#xD;
+             their degree of renal dysfunction, as determined by medical history, physical&#xD;
+             examination, vital signs, 12-lead ECGs, and clinical laboratory determinations at&#xD;
+             screening and Day -1 (Groups 2 through 4) or Period 1, Day -1 (Group 5). Participants&#xD;
+             with abnormal findings considered not clinically significant by the medical monitor or&#xD;
+             investigator are eligible.&#xD;
+&#xD;
+          -  Body mass index within the range 18.0 to 40.0 kg/m2 (inclusive) at screening.&#xD;
+&#xD;
+          -  Willingness to avoid pregnancy or fathering children based on the criteria defined in&#xD;
+             the protocol.&#xD;
+&#xD;
+          -  Ability to swallow and retain oral medication.&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+          -  History of uncontrolled or unstable cardiovascular, respiratory, hepatic, GI,&#xD;
+             endocrine, hematopoietic, psychiatric, and/or neurological disease within 6 months of&#xD;
+             screening.&#xD;
+&#xD;
+          -  Evidence of rapidly deteriorating renal function.&#xD;
+&#xD;
+          -  Participants who have a current, functioning organ transplant or have a scheduled&#xD;
+             organ transplant within 6 weeks after check-in.&#xD;
+&#xD;
+          -  History of malignancy within 5 years of screening, with the exception of cured basal&#xD;
+             cell carcinoma, squamous cell carcinoma of the skin, ductal carcinoma in situ, or&#xD;
+             Gleason 6 prostate cancer.&#xD;
+&#xD;
+          -  History of clinically significant GI disease or surgery (cholecystectomy and&#xD;
+             appendectomy are allowed) that could impact the absorption of study drug.&#xD;
+&#xD;
+          -  Participants eligible for Group 1 who have a history of renal disease or renal injury&#xD;
+             as indicated by an abnormal, clinically significant renal function profile at&#xD;
+             screening or Day -1.&#xD;
+&#xD;
+          -  Participants eligible for Groups 2 through 5 who have had a change in disease status&#xD;
+             within 30 days of screening, as documented by the participant's medical history and&#xD;
+             deemed clinically significant by the investigator.&#xD;
+&#xD;
+          -  History or current diagnosis of uncontrolled or significant cardiac disease indicating&#xD;
+&#xD;
+          -  significant risk of safety for participation in the study, including any of the&#xD;
+             following:&#xD;
+&#xD;
+               1. Recent myocardial infarction (within 6 months of check-in).&#xD;
+&#xD;
+               2. New York Heart Association Class III or IV congestive heart failure.&#xD;
+&#xD;
+               3. Unstable angina (within 6 months of check-in).&#xD;
+&#xD;
+               4. Clinically significant (symptomatic) cardiac arrhythmias (eg, sustained&#xD;
+                  ventricular tachycardia, second or third degree atrioventricular block without a&#xD;
+                  pacemaker).&#xD;
+&#xD;
+               5. Uncontrolled hypertension.&#xD;
+&#xD;
+          -  Any major surgery within 4 weeks of screening.&#xD;
+&#xD;
+          -  Donation of blood to a blood bank within 4 weeks of screening (within 2 weeks for&#xD;
+&#xD;
+          -  plasma only).&#xD;
+&#xD;
+          -  Blood transfusion within 4 weeks of Day -1 (for Groups 1 through 4) or Period 1,&#xD;
+&#xD;
+          -  Day -1 (Group 5).&#xD;
+&#xD;
+          -  Chronic or current active infectious disease requiring systemic antibiotic,&#xD;
+             antifungal, or antiviral treatment.&#xD;
+&#xD;
+          -  Positive test and symptomatic for HBV, HCV, or HIV. Participants whose results are&#xD;
+             compatible with prior immunization for or immunity due to infection with HBV may be&#xD;
+             included at the discretion of the investigator.&#xD;
+&#xD;
+          -  Participants eligible for Group 1 who have a history of using tobacco- or nicotine&#xD;
+             containing products within 6 months of screening.&#xD;
+&#xD;
+          -  Participants eligible for Groups 2 through 5 who smoke &gt; 10 cigarettes per day or&#xD;
+             equivalent use of other tobacco- or nicotine-containing products and are unwilling to&#xD;
+             refrain from tobacco or nicotine use on dosing days and abide by CRU restrictions.&#xD;
+&#xD;
+          -  History of alcohol dependency within 3 months of screening.&#xD;
+&#xD;
+          -  Positive breath test for ethanol or positive urine or saliva screen for drugs of abuse&#xD;
+             (confirmed by repeat) at screening or check-in that are not otherwise explained by&#xD;
+             permitted concomitant medications.&#xD;
+&#xD;
+          -  Current treatment or treatment within 30 days or 5 half-lives (whichever is longer) of&#xD;
+             study drug administration with another investigational medication or current&#xD;
+             enrollment in another investigational drug study.&#xD;
+&#xD;
+          -  Current treatment or treatment within 30 days or 5 half-lives (whichever is longer) of&#xD;
+             study drug administration with strong or moderate inducer or inhibitor of CYP3A4 or&#xD;
+             P-gp (refer to the Drug Interaction Database Program [University of Washington School&#xD;
+             of Pharmacy 2002] for prohibited drugs).&#xD;
+&#xD;
+          -  Participants eligible for Group 1 who have used prescription drugs within 14 days of&#xD;
+             study drug administration or nonprescription medications/products (including vitamins,&#xD;
+             minerals, and phytotherapeutic/herbal/plant-derived preparations) within 7 days of&#xD;
+             study drug administration. However, occasional acetaminophen and ibuprofen are&#xD;
+             permitted.&#xD;
+&#xD;
+          -  Participants eligible for Groups 2 through 5 who have used prescription drugs within&#xD;
+             14 days of study drug administration, with the exception of established therapy for&#xD;
+             renal disease and the treatment of associated disorders that have been stable for at&#xD;
+             least 7 days prior to study drug administration, as approved by the investigator and&#xD;
+             in consultation with the sponsor's medical monitor.&#xD;
+&#xD;
+          -  Current or recent history (within 30 days before screening) of a clinically&#xD;
+             significant bacterial, fungal, parasitic, or mycobacterial infection, or currently&#xD;
+             receiving systemic antibiotics. Current clinically significant viral infection at&#xD;
+             screening or check-in.&#xD;
+&#xD;
+          -  History of any significant drug allergy (such as anaphylaxis or hepatotoxicity) deemed&#xD;
+             clinically relevant by the investigator.&#xD;
+&#xD;
+          -  Inability to undergo venipuncture or tolerate venous access.&#xD;
+&#xD;
+          -  Participants eligible for Group 5 who are not expected to continue HD treatment for&#xD;
+             the duration of the study.&#xD;
+&#xD;
+          -  Receipt of live (including attenuated) vaccines within 3 months of check-in or&#xD;
+&#xD;
+          -  anticipation of need for such a vaccine during the study (Note: nonlive or inactivated&#xD;
+             vaccines are allowed up to 2 weeks prior to the first dose of study drug).&#xD;
+&#xD;
+          -  Known hypersensitivity or severe reaction to INCB000928 or excipients of&#xD;
+             INCB000928(refer to IB).&#xD;
+&#xD;
+          -  Inability or unlikeliness of the participant to comply with the dose schedule and&#xD;
+             study evaluations, in the opinion of the investigator.&#xD;
+&#xD;
+          -  Any condition that would, in the investigator's judgment, interfere with full&#xD;
+             participation in the study, including administration of study drug and attending&#xD;
+             required study visits;pose a significant risk to the participant; or interfere with&#xD;
+             interpretation of study data.&#xD;
+&#xD;
+          -  Women who are pregnant or breastfeeding.&#xD;
+&#xD;
+          -  QTc &gt; 450 milliseconds for Groups 1 through 3 and QTc &gt; 470 milliseconds for Group 4.&#xD;
+&#xD;
+          -  Participants eligible for Group 1 who have abnormal LFT values, defined as aspartate&#xD;
+             aminotransferase, alanine aminotransferase, and serum (total and direct) bilirubin, as&#xD;
+             well as amylase and lipase above the upper limit of the normal range at screening.&#xD;
+&#xD;
+          -  Participants eligible for Groups 2 through 4 who have values outside the normal ranges&#xD;
+             for LFTs; however, values may be acceptable if they are consistent with the&#xD;
+             participant's renal condition (if stable for 1 month prior to screening) and if the&#xD;
+             investigator (or designee) and the sponsor feel that the results are not clinically&#xD;
+             significant (based on age and renal impairment status).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>82 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Incyte Corporation Call Center (US)</last_name>
+    <phone>1.855.463.3463</phone>
+    <email>medinfo@incyte.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Incyte Corporation Call Center (ex-US)</last_name>
+    <phone>+800 00027423</phone>
+    <email>eumedinfo@incyte.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Orlando Clinical Research Center</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32809</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Thomas C. Marbury, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 29, 2021</study_first_posted>
+  <last_update_submitted>October 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>renal impairment</keyword>
+  <keyword>hemodialysis</keyword>
+  <keyword>Kidney failure</keyword>
+  <keyword>end-stage renal disease</keyword>
+  <keyword>Fibrodysplasia ossificans progressiva</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Renal Insufficiency</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Incyte shares data with qualified external researchers after a research proposal is submitted. These requests are reviewed and approved by a review panel on the basis of scientific merit. All data provided is anonymized to respect the privacy of patients who have participated in the trial in line with applicable laws and regulations.&#xD;
+The trial data availability is according to the criteria and process described on https://www.incyte.com/our-company/compliance-and-transparency</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Data will be shared after the primary publication or 2 years after the study has ended for market authorized products and indications.</ipd_time_frame>
+    <ipd_access_criteria>Data from eligible studies will be shared with qualified researchers according to the criteria and process described in the Data Sharing section of the www.incyteclinicaltrials.com website. For approved requests, the researchers will be granted access to anonymized data under the terms of a data sharing agreement.</ipd_access_criteria>
+    <ipd_url>https://www.incyte.com/our-company/compliance-and-transparency</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

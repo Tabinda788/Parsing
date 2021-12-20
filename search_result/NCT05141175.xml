@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1535">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05141175</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00109188</org_study_id>
+    <nct_id>NCT05141175</nct_id>
+  </id_info>
+  <brief_title>Tailored to You (TTY) Pilot Study</brief_title>
+  <official_title>The Duke Primary Care Tailored to You (TTY) Blood Pressure Control Pilot Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Duke University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this research study is to use a test called impedance cardiography (ICG) to&#xD;
+      provide more information about how to improve the control of blood pressure. Participants&#xD;
+      will be given this test so investigators can get more information about what is going on&#xD;
+      inside the heart and blood vessels that is contributing to high blood pressure. ICG is a lot&#xD;
+      like an EKG (electrocardiogram) in that it uses electrodes and a computer to make a report.&#xD;
+      Participants will lie down on the exam table and two electrodes go on the right ankle and two&#xD;
+      electrodes go on the left wrist. The process takes about 5 minutes and is painless and not&#xD;
+      invasive.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 20, 2021</start_date>
+  <completion_date type="Anticipated">May 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 30, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants enrolled as measured by enrollment logs</measure>
+    <time_frame>Up to 4 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants that completed study as measured by enrollment logs</measure>
+    <time_frame>Up to 4 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in BP control as measured by medical record</measure>
+    <time_frame>Baseline, 4 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of anti-hypertensive medications prescribed as measured by medical record review</measure>
+    <time_frame>Up to 4 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Hypertension</condition>
+  <arm_group>
+    <arm_group_label>Hypertension patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with documented diagnosis of hypertension and their most recent office systolic BP average measured using automated office BP is ≥140 mmHg systolic or ≥90 mmHg diastolic and they are currently prescribed at least one BP-lowering medication will be recruited.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Hypertension medication algorithm</intervention_name>
+    <description>The algorithm is configured to align medication choices based on the hemodynamic findings from the ICG readings. This decision support tool was created so as to organize these medications based on their mechanism of action and is consistent with the evidence-based treatment of hypertension.</description>
+    <arm_group_label>Hypertension patients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Impedance Cardiography</intervention_name>
+    <description>The ICG system provides a printed report that indicates whether a person's hemodynamic state is predominantly one that is vasoconstricted, hyperdynamic, or mixed</description>
+    <arm_group_label>Hypertension patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Documented diagnosis of hypertension&#xD;
+&#xD;
+          -  Most recent office systolic BP average measured using automated office BP (AOBP) is&#xD;
+             ≥140 mmHg systolic or ≥90 mmHg diastolic&#xD;
+&#xD;
+          -  Currently prescribed at least one BP-lowering medication&#xD;
+&#xD;
+          -  Under the care of a primary care clinician&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anthony Viera, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Duke University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jacob Christy</last_name>
+    <phone>919-660-0310</phone>
+    <email>jacob.christy@duke.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ashley Price</last_name>
+    <phone>919-613-0149</phone>
+    <email>ashley.e.price@duke.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Duke Primary Care</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jacob Christy</last_name>
+      <phone>919-660-0313</phone>
+      <email>jacob.christy@duke.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>November 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 2, 2021</study_first_posted>
+  <last_update_submitted>December 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypertension</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

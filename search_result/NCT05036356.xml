@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9595">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05036356</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-007153</org_study_id>
+    <nct_id>NCT05036356</nct_id>
+  </id_info>
+  <brief_title>Burnout Reduction and Engagement App-based Trial of Headspace (BREATHE)</brief_title>
+  <official_title>Burnout Reduction and Engagement App-based Trial of Headspace (BREATHE): A Randomized Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mayo Clinic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Mayo Clinic</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this research is to develop a mobile app-based intervention to reduce burnout&#xD;
+      and improve well-being using human-centered design principles and stakeholder feedback.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Recent studies of professional burnout among physicians have highlighted urology as a&#xD;
+      worrisome outlier: 39% of practicing urologists and 64% of urology residents reported high&#xD;
+      levels of depersonalization and emotional exhaustion. Despite the known association of&#xD;
+      burnout with adverse clinical outcomes, psychological distress, and career dissatisfaction,&#xD;
+      rigorous studies of physician-focused interventions remain limited.&#xD;
+&#xD;
+      Pilot studies of well-being mobile applications (e.g. headspace ®) have demonstrated better&#xD;
+      outcomes compared to traditionally delivered mindfulness interventions (e.g. in-person guided&#xD;
+      meditation). Nevertheless, a rigorous assessment of the impact of an app-based intervention&#xD;
+      on burnout is needed.&#xD;
+&#xD;
+      Therefore, the present study will assess the effectivity of a mobile app-based intervention&#xD;
+      to reduce burnout among healthcare professionals.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">November 2, 2021</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in burnout syndrome</measure>
+    <time_frame>Baseline, Week 12, Week 24</time_frame>
+    <description>Burnout levels among study population will be screened using the single-item burnout assessment tool for health care workers (West, Dyrbye, et.al. 2012) and the Professional Fulfillment Index (Trockel, et.al. 2018) . The single-item burnout tool has 2 questions with a 7-point Likert-type, frequency response scale (0 = never, 1 = a few times a year or less, 2 = once a month or less, 3 = a few times a month, 4 = once a week, 5 = a few times a week, 6 = every day) and cutoff values of 27 and 10 points, respectively. The Professional Fulfillment Index scales the answers of the items 7 to 16 from 0 to 4 (0 = not at all, 1 = very little, 2 = moderately, 3 = a lot, 4 = extremely) with a cutoff value of 1.33 points.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in professional fulfillment</measure>
+    <time_frame>Baseline, Week 12, Week 24</time_frame>
+    <description>Baseline professional fulfillment levels among study population will be screened using the 16-item Professional Fulfillment Index (Trockel, et.al. 2018) scaling the answers 1 to 6 from 0 to 4 (0 = not at all, 1 = somewhat true, 2 = moderately, 3 = very true, 4 = completely true) with a cutoff value of 3 points.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>User engagement metrics</measure>
+    <time_frame>Through study completion, approx. 24 weeks</time_frame>
+    <description>App-usage metrics will be characterized (user's platform usage), tracked continuously and compared between the intervention and control groups from baseline to follow-up phase (Week 24)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Qualitative knowledge and experience with app-based mindfulness practices</measure>
+    <time_frame>24 Weeks</time_frame>
+    <description>Subject qualitative knowledge will measured by a self-reported questionnaire which asks participants to describe their previous experiences with well-being apps</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Burnout, Professional</condition>
+  <arm_group>
+    <arm_group_label>Controlled App Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive access to the Headspace app and will receive weekly reminders to complete activities from the &quot;Inspiration, Ideation, Implementation&quot; block model of human-centered design in the app.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ad lib App Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive access to the Headspace app and be encouraged to use it ad lib.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Headspace App</intervention_name>
+    <description>A mobile-application (&quot;app&quot;) focusing on teaching and sustaining mental well-being.</description>
+    <arm_group_label>Ad lib App Group</arm_group_label>
+    <arm_group_label>Controlled App Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Being a health-professional at the Urology Department of Mayo Clinic, RST&#xD;
+&#xD;
+          -  Sign the informed consent and agreed to share data from the app to the research team.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Using an alternate app designed with the same purpose at the beginning, part and/or&#xD;
+             entire duration of the study.&#xD;
+&#xD;
+          -  Not provide any data despite being included in the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Candace Granberg, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mayo Clinic</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Mayo Clinic in Rochester</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.mayo.edu/research/clinical-trials</url>
+    <description>Mayo Clinic Clinical Trials</description>
+  </link>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 5, 2021</study_first_posted>
+  <last_update_submitted>November 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Mayo Clinic</investigator_affiliation>
+    <investigator_full_name>Candace F. Granberg, M.D.</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Burnout, Professional</mesh_term>
+    <mesh_term>Burnout, Psychological</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

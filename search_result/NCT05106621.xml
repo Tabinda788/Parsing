@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4192">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05106621</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1284/2020/OSS/AOUPR</org_study_id>
+    <nct_id>NCT05106621</nct_id>
+  </id_info>
+  <brief_title>AN INTELLIGENT MODEL FOR THE OPERATIVE BLOCK</brief_title>
+  <acronym>BLOC-OP</acronym>
+  <official_title>NEW MODEL OF ORGANIZATION OF AN OPERATIVE BLOCK (BLOC-OP)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Parma</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Parma</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Perioperative medicine is characterized by a very delicate path; it is composed, in fact, of&#xD;
+      a series of highly specialized clinical measures managed by various professionals (surgeons,&#xD;
+      anesthetists, intensivists, nurses, etc.), who work together to ensure the best quality of&#xD;
+      all phases of the path (preoperative , intra and postoperative). On the other hand, it is&#xD;
+      necessary to underline the huge resources needed to provide surgical services. Organizational&#xD;
+      optimization, based on specific analyzes, could lead to a more careful management of&#xD;
+      resources in this area, avoiding waste due to early closure of the operating room or&#xD;
+      unexpected extension of the same. In recent years, precisely to respond to the need to&#xD;
+      analyze large quantities of information, the use of artificial intelligence techniques, and&#xD;
+      in particular of machine learning, is becoming increasingly popular, a branch of artificial&#xD;
+      intelligence that aims, through the use of algorithms and statistical model, to infer new&#xD;
+      knowledge in a way automatic. Such technologies appear to possess excellent analytical skills&#xD;
+      both in the clinical and, above all, organizational fields. The data that are emerging in the&#xD;
+      literature on this issue, although still the first in this regard, seem to confirm this&#xD;
+      hypothesis.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2021</start_date>
+  <completion_date type="Anticipated">April 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Surgical Time Prediction</measure>
+    <time_frame>1 year</time_frame>
+    <description>Prediction of time spend in oprating room</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Outcome evaluation</measure>
+    <time_frame>1 year</time_frame>
+    <description>ICU admission</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Outcome evaluation</measure>
+    <time_frame>1 year</time_frame>
+    <description>Rate of surgical procedures cancellation</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">1200</enrollment>
+  <condition>Artificial Intelligence in Operating Room</condition>
+  <arm_group>
+    <arm_group_label>Surgical Patients</arm_group_label>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        all patients undergoing abdominal, thoracic, urological, vascular, orthopedic and&#xD;
+        gynecological and plastic surgery&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        all patients undergoing surgery who sign the informed consent form will be included.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        refusal of the patient to the study in question.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Elena Bignami</last_name>
+    <phone>390521703567</phone>
+    <email>elenagiovanna.bignami@unipr.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera-Universitaria di Parma</name>
+      <address>
+        <city>Parma</city>
+        <zip>43125</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Elena Giovanna Bignami, MD Professor</last_name>
+      <phone>+390521703567</phone>
+      <email>elenagiovanna.bignami@unipr.it</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Evans RS, Burke JP, Classen DC, Gardner RM, Menlove RL, Goodrich KM, Stevens LE, Pestotnik SL. Computerized identification of patients at high risk for hospital-acquired infection. Am J Infect Control. 1992 Feb;20(1):4-10.</citation>
+    <PMID>1554148</PMID>
+  </reference>
+  <reference>
+    <citation>Redfern RO, Langlotz CP, Abbuhl SB, Polansky M, Horii SC, Kundel HL. The effect of PACS on the time required for technologists to produce radiographic images in the emergency department radiology suite. J Digit Imaging. 2002 Sep;15(3):153-60. Epub 2002 Nov 6. Erratum in: J Digit Imaging. 2002 Sep;15(3):191.</citation>
+    <PMID>12415466</PMID>
+  </reference>
+  <reference>
+    <citation>Lee TT, Liu CY, Kuo YH, Mills ME, Fong JG, Hung C. Application of data mining to the identification of critical factors in patient falls using a web-based reporting system. Int J Med Inform. 2011 Feb;80(2):141-50. doi: 10.1016/j.ijmedinf.2010.10.009. Epub 2010 Nov 5.</citation>
+    <PMID>21115393</PMID>
+  </reference>
+  <reference>
+    <citation>Martins M. Use of comorbidity measures to predict the risk of death in Brazilian in-patients. Rev Saude Publica. 2010 Jun;44(3):448-56. Epub 2010 Apr 30.</citation>
+    <PMID>20428601</PMID>
+  </reference>
+  <reference>
+    <citation>Izad Shenas SA, Raahemi B, Hossein Tekieh M, Kuziemsky C. Identifying high-cost patients using data mining techniques and a small set of non-trivial attributes. Comput Biol Med. 2014 Oct;53:9-18. doi: 10.1016/j.compbiomed.2014.07.005. Epub 2014 Jul 22.</citation>
+    <PMID>25105749</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 4, 2021</study_first_posted>
+  <last_update_submitted>October 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Parma</investigator_affiliation>
+    <investigator_full_name>Elena Giovanna Bignami</investigator_full_name>
+    <investigator_title>Chief of 2^ UO Anesthesua and Intensive Care, Full Professor of University of Parma</investigator_title>
+  </responsible_party>
+  <keyword>Perioperative Medicine</keyword>
+  <keyword>Artificial Intelligence</keyword>
+  <keyword>Machine Learning</keyword>
+  <keyword>Operating Room</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

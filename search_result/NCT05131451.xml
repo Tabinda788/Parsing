@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2282">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05131451</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00288043</org_study_id>
+    <nct_id>NCT05131451</nct_id>
+  </id_info>
+  <brief_title>ACCESS: AI for pediatriC diabetiC Eye examS Study</brief_title>
+  <acronym>ACCESS</acronym>
+  <official_title>Autonomous AI for Diabetic Retinopathy Screening in Youth (AI-DR): A Randomized Control Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine if providing in clinic point-of-care autonomous AI&#xD;
+      diabetic retinopathy exams improves screening rates compared to standard of care referral to&#xD;
+      an eye care provider, in a randomized control trial.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will recruit 164 individuals ages 8-21 with type 1 and type 2 diabetes.&#xD;
+      Participants will be randomized to usual care (referral to an eye care provider for a dilated&#xD;
+      eye exam) or the intervention arm and undergo a point-of-care diabetic eye exam using&#xD;
+      autonomous AI software on a non-mydriatic fundus camera. Participants in the intervention&#xD;
+      group will receive the diabetic eye exam results immediately from the autonomous AI system,&#xD;
+      and if abnormal will be referred to an eye care provider for a dilated eye exam. Participants&#xD;
+      in the standard of care group will have 6 months to complete the diabetic eye exam.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 24, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Control Arm - Standard of care referral to an eye care provider + Educational Reinforcement&#xD;
+Intervention Arm - Point of Care Diabetic Retinopathy screening using Autonomous artificial intelligence on a non-mydriatic fundus camera</intervention_model_description>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>Participants are masked to the study arms until after randomization</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of participants who get screened with a diabetic eye exam</measure>
+    <time_frame>6 months</time_frame>
+    <description>The proportion of participants who get screened with a diabetic eye exam will be assessed for the AI group and the standard of care group referral to an eye care provider (ECP).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Follow-up rates with an eye care provider</measure>
+    <time_frame>6 months</time_frame>
+    <description>The proportion that follow-up with an eye care provider (ECP), for participants in the standard of care group referred to ECP, and for participants in the AI group with an abnormal exam result that are then referred to the ECP for a dilated eye exam.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">164</enrollment>
+  <condition>Type 1 Diabetes</condition>
+  <condition>Type 2 Diabetes</condition>
+  <arm_group>
+    <arm_group_label>Usual care with educational reinforcement</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Standard of care referral to Eye Care Provider (ECP) for the diabetic eye exam with educational reinforcement</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Diabetic Retinopathy Exam</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Point of care (POC) Diabetic Retinopathy Exam using Autonomous AI on non-mydriatic fundus camera</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Point of Care Autonomous AI diabetic retinopathy exam</intervention_name>
+    <description>Participants will get a point of care diabetic retinopathy eye exam using autonomous AI. Those that test positive will be referred to Eye Care Provider for dilated eye exam.</description>
+    <arm_group_label>Diabetic Retinopathy Exam</arm_group_label>
+    <other_name>IDx-DR</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Meets American Diabetes Association (ADA) criteria for diabetic retinopathy screening:&#xD;
+&#xD;
+          -  Diagnosis of Type 1 diabetes for ≥3 years, and age 11 or in puberty&#xD;
+&#xD;
+          -  Diagnosis of Type 2 diabetes&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Diabetic eye exam within the last 6 months&#xD;
+&#xD;
+          -  Known diabetic retinopathy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>8 Years</minimum_age>
+    <maximum_age>21 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Risa Wolf, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Risa M. Wolf, MD</last_name>
+    <phone>410-955-6463</phone>
+    <email>RWolf@jhu.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Johns Hopkins Pediatric Diabetes Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Risa Wolf, MD</last_name>
+      <phone>410-955-6463</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 23, 2021</study_first_posted>
+  <last_update_submitted>November 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Diabetic Retinopathy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetic Retinopathy</mesh_term>
+    <mesh_term>Diabetes Mellitus</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

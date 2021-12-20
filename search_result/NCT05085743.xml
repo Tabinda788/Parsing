@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5798">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05085743</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202002007B0</org_study_id>
+    <nct_id>NCT05085743</nct_id>
+  </id_info>
+  <brief_title>Prediction of Endotracheal Tube Depth by Using Deep Convolutional Neural Networks</brief_title>
+  <official_title>The Prediction of Proper Depth of Endotracheal Tube Fixation Before Intubation by Using Deep Convolutional Neural Networks and Chest Radiographs</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chang Gung Memorial Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Chang Gung Memorial Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Malposition of an endotracheal tube (ETT) may lead to a great disaster. Developing a handy&#xD;
+      way to predict the proper depth of ETT fixation is in need. Deep convolutional neural&#xD;
+      networks (DCNNs) are proven to perform well on chest radiographs analysis. The investigators&#xD;
+      hypothesize that DCNNs can also evaluate pre-intubation chest radiographs to predict suitable&#xD;
+      ETT depth and no related studies are found. The authors evaluated the ability of DCNNs to&#xD;
+      analyze pre-intubation chest radiographs along with patients' data to predict the proper&#xD;
+      depth of ETT fixation before intubation.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This was a retrospective, IRB-approved study using chest radiographs images obtained from&#xD;
+      Picture Archive and Communication System (PACS) at Chang Gung Memorial Hospital, Linkou&#xD;
+      branch, Taiwan.&#xD;
+&#xD;
+      A total of 595 de-identified patients' chest radiographs was obtained for this study. The&#xD;
+      inclusion criteria for this study are patients 18 years or older who were orotracheal&#xD;
+      intubated within November 2019 to October 2020 and had taken chest radiographs before and&#xD;
+      immediately after the intubation (&lt;24 hours). Both pre-intubation and post-intubation chest&#xD;
+      radiographs of a same patient were obtained. Clinical data including age, sex, body height,&#xD;
+      body weight, depth of ETT fixation were also recorded. All ETT tip to carina distance was&#xD;
+      manually measured by a same anesthesiologist from post-intubation films and documented. Lip&#xD;
+      to carina length of each patient can be calculated by adding ETT fixation depth and ETT tip&#xD;
+      to carina distance.&#xD;
+&#xD;
+      Pre-intubation chest radiographs (n=595) along with clinical data including age, sex, body&#xD;
+      height, body weight, and measured lip to carina length are collected for model building. For&#xD;
+      this study, 476/595 (80%) of those were used for training and 119/595 (20%) for validation&#xD;
+      randomly selected by AI model. In training process, images and related clinical data along&#xD;
+      with the measured lip to carina length are fed into and used to fit out AI model. Then, in&#xD;
+      validation process, the investigators evaluate the model accuracy and efficacy of predicting&#xD;
+      the lip to carina length with images and clinical data of those unforeseen cases.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">November 1, 2019</start_date>
+  <completion_date type="Actual">October 31, 2020</completion_date>
+  <primary_completion_date type="Actual">October 31, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The lip to carina length predicted by AI model</measure>
+    <time_frame>1 minute after DCNNs analysis</time_frame>
+    <description>The mean absolute error of AI-predicted length in comparison with measured length is used to evaluate AI performance</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of endotracheal tube malpositioning according to AI model recommendation</measure>
+    <time_frame>1 minute after DCNNs analysis</time_frame>
+    <description>Endotracheal tube malpositioning is used to elevate the safty of AI recommendation.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">595</enrollment>
+  <condition>Intubation</condition>
+  <condition>Machine Learning</condition>
+  <arm_group>
+    <arm_group_label>Training</arm_group_label>
+    <description>Images and related clinical data along with the measured lip to carina length of the training group are fed into and used to fit out deep convolutional neural networks model.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Validation</arm_group_label>
+    <description>We evaluate the model accuracy and efficacy of predicting the lip to carina length with images and clinical data of those unforeseen cases in the validation group.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Deep convolutional neural networks analysis</intervention_name>
+    <description>using Deep convolutional neural networks to analyze pre-intubation chest radiographs along with patients' data to predict the proper depth of ETT fixation</description>
+    <arm_group_label>Training</arm_group_label>
+    <arm_group_label>Validation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients 18 years or older who were orotracheal intubated at Chang Gung Memorial Hospital,&#xD;
+        Linkou branch, Taiwan.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18 years or older&#xD;
+&#xD;
+          -  orotracheal intubated within November 2019 to October 2020&#xD;
+&#xD;
+          -  had taken chest radiographs before and within 24hr after intubation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Bad chest radiographs quality that patients' carina can not be recognized&#xD;
+&#xD;
+          -  Patient with bronchial insertions found in post-intubation films&#xD;
+&#xD;
+          -  Nasal intubation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Chang Gung Memorial Hospital, Linkou branch</name>
+      <address>
+        <city>Taoyuan</city>
+        <state>Guishan Township</state>
+        <zip>333</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Taiwan</country>
+  </location_countries>
+  <reference>
+    <citation>Lakhani P. Deep Convolutional Neural Networks for Endotracheal Tube Position and X-ray Image Classification: Challenges and Opportunities. J Digit Imaging. 2017 Aug;30(4):460-468. doi: 10.1007/s10278-017-9980-7.</citation>
+    <PMID>28600640</PMID>
+  </reference>
+  <reference>
+    <citation>Lakhani P, Flanders A, Gorniak R. Endotracheal Tube Position Assessment on Chest Radiographs Using Deep Learning. Radiol Artif Intell. 2020 Nov 18;3(1):e200026. doi: 10.1148/ryai.2020200026. eCollection 2021 Jan.</citation>
+    <PMID>33937852</PMID>
+  </reference>
+  <reference>
+    <citation>Eagle CC. The relationship between a person's height and appropriate endotracheal tube length. Anaesth Intensive Care. 1992 May;20(2):156-60.</citation>
+    <PMID>1595848</PMID>
+  </reference>
+  <reference>
+    <citation>Varshney M, Sharma K, Kumar R, Varshney PG. Appropriate depth of placement of oral endotracheal tube and its possible determinants in Indian adult patients. Indian J Anaesth. 2011 Sep;55(5):488-93. doi: 10.4103/0019-5049.89880.</citation>
+    <PMID>22174466</PMID>
+  </reference>
+  <reference>
+    <citation>Techanivate A, Rodanant O, Charoenraj P, Kumwilaisak K. Depth of endotracheal tubes in Thai adult patients. J Med Assoc Thai. 2005 Jun;88(6):775-81.</citation>
+    <PMID>16083218</PMID>
+  </reference>
+  <reference>
+    <citation>Herway ST, Benumof JL. The tracheal accordion and the position of the endotracheal tube. Anaesth Intensive Care. 2017 Mar;45(2):177-188. Review.</citation>
+    <PMID>28267939</PMID>
+  </reference>
+  <reference>
+    <citation>Chong DY, Greenland KB, Tan ST, Irwin MG, Hung CT. The clinical implication of the vocal cords-carina distance in anaesthetized Chinese adults during orotracheal intubation. Br J Anaesth. 2006 Oct;97(4):489-95. Epub 2006 Jul 27.</citation>
+    <PMID>16873383</PMID>
+  </reference>
+  <reference>
+    <citation>Conrardy PA, Goodman LR, Lainge F, Singer MM. Alteration of endotracheal tube position. Flexion and extension of the neck. Crit Care Med. 1976 Jan-Feb;4(1):8-12.</citation>
+    <PMID>1253616</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 20, 2021</study_first_posted>
+  <last_update_submitted>October 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Chang Gung Memorial Hospital</investigator_affiliation>
+    <investigator_full_name>Po Jui Chen</investigator_full_name>
+    <investigator_title>medical doctor</investigator_title>
+  </responsible_party>
+  <keyword>Depth of ETT fixation</keyword>
+  <keyword>Deep convolutional neural networks</keyword>
+  <keyword>Chest radiographs</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

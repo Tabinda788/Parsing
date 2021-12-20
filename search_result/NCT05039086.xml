@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9385">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05039086</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2019A010961-8</org_study_id>
+    <nct_id>NCT05039086</nct_id>
+  </id_info>
+  <brief_title>Data Analysis for Drug Repurposing for Effective Alzheimer's Medicines (DREAM) - PDE5 Inhibitors vs Endothelin Receptor Antagonist</brief_title>
+  <official_title>Data Analysis for Drug Repurposing for Effective Alzheimer's Medicines (DREAM)- PDE5 Inhibitors vs Endothelin Receptor Antagonist</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Rutgers University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Brigham and Women's Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to evaluate the comparative risk of dementia/Alzheimer's disease onset&#xD;
+      between patients treated with medications that target specific metabolic pathways and&#xD;
+      patients treated with alternative medications for the same indication.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a non-randomized, non-interventional study that is part of the DREAM Study of Brigham&#xD;
+      and Women's Hospital. DREAM is led by Dr. Madhav Thambisetty, MD, PhD, Chief of the Clinical&#xD;
+      and Translational Neuroscience Section, Laboratory of Behavioral Neuroscience, National&#xD;
+      Institute on Aging (NIA) intramural research program. This study aims to evaluate the&#xD;
+      comparative risk of dementia/Alzheimer's disease onset between patients treated with&#xD;
+      medications that target specific metabolic pathways and patients treated with alternative&#xD;
+      medications for the same indication using healthcare claims data.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">September 1, 2021</start_date>
+  <completion_date type="Anticipated">January 30, 2023</completion_date>
+  <primary_completion_date type="Actual">September 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to dementia onset</measure>
+    <time_frame>Through study completion (a median of 242 days)</time_frame>
+    <description>Time to dementia onset, i.e., Alzheimer's disease, vascular dementia, senile, presenile, or unspecified dementia, or dementia in other diseases classified elsewhere. Please refer to uploaded protocol for full definition due to size limitations</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to Alzheimer's disease onset</measure>
+    <time_frame>Through study completion (a median of 242 days)</time_frame>
+    <description>Time to Alzheimer's disease onset. Please refer to uploaded protocol for full definition due to size limitations.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">12947</enrollment>
+  <condition>Pulmonary Arterial Hypertension</condition>
+  <arm_group>
+    <arm_group_label>PDE5 inhibitors</arm_group_label>
+    <description>Exposure group</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Endothelin receptor antagonists</arm_group_label>
+    <description>Reference group</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PDE5 inhibitor</intervention_name>
+    <description>PDE5 inhibitors (sildenafil, tadalafil) claim is used as the exposure group.</description>
+    <arm_group_label>PDE5 inhibitors</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Endothelin Receptor Antagonists</intervention_name>
+    <description>Endothelin receptor antagonists (bosentan, ambrisentan, macitentan) claim is used as the reference group.</description>
+    <arm_group_label>Endothelin receptor antagonists</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        This study will employ a new user, active comparator, observational cohort study design&#xD;
+        comparing PDE5 inhibitors (sildenafil, tadalafil) to endothelin receptor antagonists&#xD;
+        (bosentan, ambrisentan, macitentan). The patients will be required to have continuous&#xD;
+        enrollment during the baseline period of 365 days before initiation of study drugs (cohort&#xD;
+        entry/index date). Follow-up for the outcome (dementia) differs between analyses. Follow-up&#xD;
+        begins the day after drug initiation (analysis 1, 3, 4); 180 days after drug initiation&#xD;
+        (analysis 2).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Please see&#xD;
+        https://docs.google.com/spreadsheets/d/19NwmDi8xwWjzXqhSLPDTg4CKHt5UDQXuwCnZwY8jCS8/edit?us&#xD;
+        p=sharing or Appendix A for full code and algorithm definitions.&#xD;
+&#xD;
+        Medicare timeframe: 2008 to 2018 (end of data availability).&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  1. Aged &gt; 65 years on the index date&#xD;
+&#xD;
+          -  2. No prior use of PDE5 inhibitors (sildenafil, tadalafil) and endothelin receptor&#xD;
+             antagonists (bosentan, ambrisentan, macitentan) anytime prior to cohort entry date&#xD;
+&#xD;
+          -  3. Enrollment in Medicare Part A, B, and D with no HMO coverage for 365 days prior to&#xD;
+             and including cohort entry date&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  1. Prior history of dementia measured anytime prior to cohort entry date&#xD;
+&#xD;
+          -  2. No prior history of pulmonary arterial hypertension recorded in the 365 days prior&#xD;
+             to cohort entry date&#xD;
+&#xD;
+          -  3. Prior history of nursing home admission in the 365 days prior to the cohort entry&#xD;
+             date&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Madhav Thambisetty, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Institute on Aging (NIA)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02120</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 9, 2021</study_first_posted>
+  <last_update_submitted>November 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Brigham and Women's Hospital</investigator_affiliation>
+    <investigator_full_name>Rishi J. Desai</investigator_full_name>
+    <investigator_title>Assistant Professor of Medicine</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pulmonary Arterial Hypertension</mesh_term>
+    <mesh_term>Hypertension</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Phosphodiesterase 5 Inhibitors</mesh_term>
+    <mesh_term>Endothelin Receptor Antagonists</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 27, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/86/NCT05039086/Prot_SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

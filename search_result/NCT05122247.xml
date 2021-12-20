@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2990">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05122247</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00109633</org_study_id>
+    <nct_id>NCT05122247</nct_id>
+  </id_info>
+  <brief_title>Machine Learning to Predict Acute Care During Cancer Therapy</brief_title>
+  <acronym>Chemo-SHIELD</acronym>
+  <official_title>Generalizable Machine Learning to Predict Acute Care During Outpatient Systemic Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Duke University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this study is to apply a validated machine-learning based model (SHIELD-RT,&#xD;
+      NCT04277650) to a cohort of patients undergoing systemic therapy as outpatient cancer&#xD;
+      treatment to generate an automatic system for the prediction of unplanned hospital admission&#xD;
+      rates and emergency department encounters.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A previously described machine learning (ML)-based model accurately predicted ED visits or&#xD;
+      hospitalizations for cancer patients undergoing radiation therapy or chemoradiation. An IRB&#xD;
+      approved prospective randomized trial, SHIELD-RT (NCT04277650) found that preemptive&#xD;
+      intervention for patients undergoing radiation and chemoradiation based on the ML model's&#xD;
+      risk stratification decreased the relative risk of acute care visits by 50%, showing that&#xD;
+      ML-guided escalation of care improved personalized supportive care and treatment compliance&#xD;
+      while decreasing healthcare costs.&#xD;
+&#xD;
+      The objective of this study is to apply this validated ML based model to a cohort of patients&#xD;
+      undergoing systemic therapy as outpatient cancer treatment to generate an automatic system&#xD;
+      for the prediction of unplanned hospital admission rates and emergency department encounters.&#xD;
+      Once validated, this study will add to the previously published body of evidence supporting a&#xD;
+      randomized trial evaluating the ML algorithm's ability to assign intervention for patients&#xD;
+      receiving systemic therapy at highest risk for acute care encounters.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2022</start_date>
+  <completion_date type="Anticipated">September 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>number of unplanned of hospital admission or emergency department visits during systemic therapy</measure>
+    <time_frame>12 months</time_frame>
+  </primary_outcome>
+  <enrollment type="Anticipated">12000</enrollment>
+  <condition>Chemotherapeutic Toxicity</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Machine learning algorithm</intervention_name>
+    <description>machine learning directed identification of chemotherapy patients at high-risk for emergency department acute care and/or hospitalization</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Duke patients undergoing chemotherapy who had at least one treatment encounter between&#xD;
+        1/7/2019 and 6/30/2019&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  had treatment encounter in the Duke Medical Oncology department from January 7th, 2019&#xD;
+             to June 30th, 2019&#xD;
+&#xD;
+          -  DUHS medical record available&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Manisha Palta, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Duke Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Joan Cahill, BNS RN OCN CCRP</last_name>
+    <phone>(919) 668-5211</phone>
+    <email>Joan.Cahill@duke.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Linda Kaltenbach, PhD</last_name>
+    <phone>(919) 681-6804</phone>
+    <email>Linda.Kaltenbach@duke.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Duke University Health System</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Hong JC, Eclov NCW, Dalal NH, Thomas SM, Stephens SJ, Malicki M, Shields S, Cobb A, Mowery YM, Niedzwiecki D, Tenenbaum JD, Palta M. System for High-Intensity Evaluation During Radiation Therapy (SHIELD-RT): A Prospective Randomized Study of Machine Learning-Directed Clinical Evaluations During Radiation and Chemoradiation. J Clin Oncol. 2020 Nov 1;38(31):3652-3661. doi: 10.1200/JCO.20.01688. Epub 2020 Sep 4.</citation>
+    <PMID>32886536</PMID>
+  </reference>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>November 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2021</study_first_posted>
+  <last_update_submitted>December 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>machine learning</keyword>
+  <keyword>algorithm</keyword>
+  <keyword>outpatient</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

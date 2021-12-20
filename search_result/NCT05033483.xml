@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9816">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05033483</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Iron Mic</org_study_id>
+    <nct_id>NCT05033483</nct_id>
+  </id_info>
+  <brief_title>Do Iron Supplements Impact the Gut Microbiome of Women of Reproductive Age?</brief_title>
+  <official_title>Do Iron Supplements Impact the Gut Microbiome of Women of Reproductive Age?</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>South Australian Health and Medical Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Flinders University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>South Australian Health and Medical Research Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this randomised controlled trial the investigators will determine whether taking iron&#xD;
+      supplements compared to placebo for 21 days alters the bacteria (microbiome) in the large&#xD;
+      intestine of non-pregnant female participants.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND: Many women take iron-containing supplements during pregnancy. Indeed, the World&#xD;
+      Health Organization recommends that all pregnant women in low-income countries take an iron&#xD;
+      supplement containing 60 mg/day of elemental iron to reduce iron deficiency and&#xD;
+      iron-deficiency anaemia. However, oral iron has poor bioavailability, less than 10% absorbed&#xD;
+      with the remainder passing into the large intestine unbound, potentially providing a&#xD;
+      competitive advantage to iron-dependent opportunistic pathogens in the large intestine.&#xD;
+&#xD;
+      In a large randomized control trial in children, iron supplementation was shown to promote&#xD;
+      the growth of pathogenic species (E. coli, S. aureus, and L. monocytogenes) and inhibited the&#xD;
+      growth of commensal species (Lactobacillus and Bifidobacterium). These pathogens are&#xD;
+      associated with enteric infections, while the commensals act on the host's immune system to&#xD;
+      prevent colonization and invasion by pathogens.&#xD;
+&#xD;
+      It is NOT known if iron supplementation during pregnancy impacts the maternal and infant&#xD;
+      microbiome and, by extension, how this affects the neonatal risk of infection and immune&#xD;
+      dysregulation. Vertical transmission of the maternal microbiome to the newborn is a major&#xD;
+      determinant of infant health. If maternal iron supplementation affects the infant's health,&#xD;
+      strategies would be required to mitigate this risk.&#xD;
+&#xD;
+      The investigators require preliminary data to show how oral iron supplementation alters the&#xD;
+      intestinal microbiome in women. The Investigators will recruit non-pregnant female&#xD;
+      participants as there is no risk of vertical transmission to an infant in non-pregnant women.&#xD;
+      The investigators will conduct the study in Australia because there is not a natural&#xD;
+      abundance of pathogens that could potentially cause harm to the women. Nevertheless, the&#xD;
+      investigators would expect a shift in the microbiome from non-iron to iron, requiring&#xD;
+      bacterial species to return to baseline after women stop taking the iron.&#xD;
+&#xD;
+      HYPOTHESIS: Daily iron supplementation versus placebo for 21 days will alter the stool&#xD;
+      microbiome composition compared to placebo in non-pregnant female participants of&#xD;
+      reproductive age.&#xD;
+&#xD;
+      METHODS: 80 female participants (18-45 y) will be randomized to receive capsules containing&#xD;
+      iron (65.7 mg of elemental iron as ferrous fumarate) or placebo to take daily for 21 days.&#xD;
+      Stool samples will be collected at baseline, 21 days, and 42 days (washout).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">August 31, 2021</start_date>
+  <completion_date type="Anticipated">December 1, 2021</completion_date>
+  <primary_completion_date type="Actual">November 6, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A randomized, controlled, researcher and participant blinded trial with two parallel groups</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Supplements were packaged by LifeCare Compounding Pharmacy and labelled by staff not involved in the trial, with 2 colours per treatment group.&#xD;
+The randomisation schedule was prepared by an independent statistician. The schedule allocates women to one of the four colours in the ratio 1:1:1:1 using randomly permuted blocks.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Weighted UniFrac dissimilarity score</measure>
+    <time_frame>21 days</time_frame>
+    <description>Measure of microbiota beta-diversity</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Bray-Curtis dissimilarity score</measure>
+    <time_frame>21 days</time_frame>
+    <description>Measure of microbiota beta-diversity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Shannon Wiener Diversity</measure>
+    <time_frame>21 days</time_frame>
+    <description>Microbiota alpha-diversity score with adjustment for baseline levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Faith's phylogenetic diversity</measure>
+    <time_frame>21 days</time_frame>
+    <description>Microbiota alpha-diversity score with adjustment for baseline levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Taxonomic richness</measure>
+    <time_frame>21 days</time_frame>
+    <description>Microbiota alpha-diversity score with adjustment for baseline levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Relative abundance of core bacterial taxa</measure>
+    <time_frame>21 days</time_frame>
+    <description>Relative abundance of taxa present in &gt;40% of baseline samples, with adjustment for baseline levels</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Weighted UniFrac dissimilarity score</measure>
+    <time_frame>42 days (washout)</time_frame>
+    <description>Measure of microbiota beta-diversity</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Shannon-Wiener diversity</measure>
+    <time_frame>42 days (washout)</time_frame>
+    <description>Microbiota alpha-diversity score with adjustment for baseline levels</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Bray-Curtis dissimilarity score</measure>
+    <time_frame>42 days (washout)</time_frame>
+    <description>Measure of microbiota beta-diversity</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Faith's phylogenetic diversity</measure>
+    <time_frame>42 days (washout)</time_frame>
+    <description>Microbiota alpha-diversity score with adjustment for baseline levels</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Taxonomic richness</measure>
+    <time_frame>42 days (washout)</time_frame>
+    <description>Microbiota alpha-diversity score with adjustment for baseline levels</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Relative abundance of core bacterial taxa</measure>
+    <time_frame>42 days (washout)</time_frame>
+    <description>Relative abundance of taxa present in &gt;40% of baseline samples, with adjustment for baseline levels</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">82</enrollment>
+  <condition>Iron-deficiency</condition>
+  <condition>Microbial Colonization</condition>
+  <condition>Anemia</condition>
+  <arm_group>
+    <arm_group_label>Iron Supplement</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>65.7 mg of iron as ferrous fumarate</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>0 mg of iron</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Ferrous Fumarate</intervention_name>
+    <description>Gelatin capsule containing 200 mg ferrous fumarate and microcrystalline cellulose</description>
+    <arm_group_label>Iron Supplement</arm_group_label>
+    <other_name>Iron Fumarate</other_name>
+    <other_name>ferro-tab</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Gelatin capsule containing microcrystalline cellulose</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Control</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Able to give informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant or breastfeeding.&#xD;
+&#xD;
+          -  Planning on becoming pregnant&#xD;
+&#xD;
+          -  Diagnosed with iron deficiency and/or anaemia in the previous three months&#xD;
+&#xD;
+          -  Taken antibiotics in the past three months&#xD;
+&#xD;
+          -  Taken iron containing supplements in the past three months&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Steven Taylor, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>South Australian Health and Medical Research Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>SAHMRI</name>
+      <address>
+        <city>Adelaide</city>
+        <state>South Australia</state>
+        <zip>5000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>August 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>August 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 2, 2021</study_first_posted>
+  <last_update_submitted>November 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>iron supplements</keyword>
+  <keyword>microbiome</keyword>
+  <keyword>women</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ferrous fumarate</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Outlined below</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Following final data analysis and primary publication</ipd_time_frame>
+    <ipd_access_criteria>Access to study data may be granted, upon review and approval of the Institutional Review Board, investigators, in accordance with South Australian Health and Medical Research Institute Women and Kids 'Guidelines and Agreement for the use of materials in an ancillary study associated with original clinical trials or cohort studies.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

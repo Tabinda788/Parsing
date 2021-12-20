@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7423">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05064618</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CAMCR-016</org_study_id>
+    <secondary_id>jRCT2041210056</secondary_id>
+    <nct_id>NCT05064618</nct_id>
+  </id_info>
+  <brief_title>Investigator-initiated Clinical Trial of MIKE-1</brief_title>
+  <acronym>MIKE-1</acronym>
+  <official_title>Phase I/II Investigator-initiated Clinical Trial of MIKE-1 With Gemcitabine and Nab-paclitaxel Combination Therapy for Unresectable Pancreatic Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nagoya University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Japan Agency for Medical Research and Development</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Nagoya University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the safety and tolerability of Am80（Generic name: Tamibarotene, Development code:&#xD;
+      MIKE-1） in combination with gemcitabine (GEM) and nab-paclitaxel (nab-PTX) in patients with&#xD;
+      unresectable pancreatic cancer and to determine the recommended dose. Efficacy will also be&#xD;
+      exploratively investigated.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Cancer-associated fibroblasts (CAFs) are an important component of the tumor&#xD;
+      microenvironment. The most common notion in the CAF research field has been that CAFs promote&#xD;
+      cancer progression through various mechanisms. Interestingly, however, recent studies have&#xD;
+      revealed that CAFs are heterogeneous and that CAF subsets that suppress cancer progression&#xD;
+      (cancer-restraining CAFs [rCAFs]) must exist in addition to well-characterized&#xD;
+      cancer-promoting CAFs (pCAFs). However, the identity and specific markers of rCAFs have not&#xD;
+      been reported.&#xD;
+&#xD;
+      The investigators recently identified Meflin as a specific marker protein of rCAFs in&#xD;
+      pancreatic and colon cancers. The investigator's studies revealed that rCAFs are similar to a&#xD;
+      small subset of resident fibroblasts, which is consistent with the famous hypothesis proposed&#xD;
+      by Micheal Stoker (University of Glasgow) more than 50 years ago, stating that static normal&#xD;
+      fibroblasts suppress tumor growth. Interestingly, The investigator's lineage tracing&#xD;
+      experiments showed that Meflin-positive rCAFs differentiate into Meflin-negative pCAFs during&#xD;
+      cancer progression. These studies revealed that the tumor stroma is comprised of pCAFs and&#xD;
+      rCAFs, which is analogous to the heterogeneity of tumor-infiltrating immune cells (e.g.,&#xD;
+      protumor regulatory T cells versus antitumor cytotoxic T cells).&#xD;
+&#xD;
+      The identification of the rCAF marker Meflin enabled the investigators to develop new&#xD;
+      strategies to convert or reprogram pCAFs to rCAFs. Using a pharmacological approach, The&#xD;
+      investigators performed a chemical library screen and identified Am80, a synthetic unnatural&#xD;
+      retinoid, as a reagent that effectively converts Meflin-negative pCAFs to Meflin-positive&#xD;
+      rCAFs. Am80 administration improved the sensitivity of pancreatic cancer to&#xD;
+      chemotherapeutics. These data suggested that the conversion of pCAF to rCAFs may represent a&#xD;
+      new strategy for pancreatic cancer treatment.&#xD;
+&#xD;
+      The object of this study is to perform an investigator-initiated clinical study to&#xD;
+      investigate the effect of AM80 on pancreatic cancer with a combination of conventional&#xD;
+      tumoricidal agents including gemcitabine and nab-paclitaxel.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 23, 2021</start_date>
+  <completion_date type="Anticipated">April 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2025</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Groups of participants are assigned to receive interventions based on prior milestones being reached in the study, such as in some dose escalation and adaptive design studies.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Phase I study; DLT (dose-limiting toxicity)</measure>
+    <time_frame>The DLT evaluation period is from Day 1, the start date of study drug administration, to Day 28 of Phase I study.</time_frame>
+    <description>The severity of adverse events will be determined by the investigator based on CTCAE v 5.0.&#xD;
+Grade 4 hematologic toxicity that persists for more than 7 days&#xD;
+Grade 3 or higher non-hematologic toxicity that persists for more than 7 days despite symptomatic treatment&#xD;
+An adverse event that caused the inability to administer both Day 8 and Day 15 of Cycle 1 of GEM or nab-PTX&#xD;
+An adverse event that caused the inability to administer Day 8 of the first cycle of GEM or nab-PTX, resulting in a reduced dose of Day 15</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase II study; response rate (based on RECIST ver1.1)</measure>
+    <time_frame>through phase II study completion,an average of half year.</time_frame>
+    <description>If each subject has measurable disease, tumor shrinkage efficacy determination (CR, PR, SD, PD, NE) will be performed based on RECIST v1.1.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>AE（Adverse events）</measure>
+    <time_frame>All of the clinical trial period (up to 6 cycles, 28 days per cycle)</time_frame>
+    <description>Adverse events will be classified and tabulated in MedDRA/J.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>OS（Overall survival）</measure>
+    <time_frame>The time from the date of first dose of MIKE-1 until date of death from any cause. The cut-off date is the end of post-observation for all patients.</time_frame>
+    <description>The distribution of overall survival will be estimated by the Kaplan-Meier method, the Kaplan-Meier curve will be illustrated, and the median and 95% confidence interval will be calculated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PFS（Progression-free survival）</measure>
+    <time_frame>The time from date of first dose of MIKE-1 to date of first documentation of disease progression or death, whichever occurs. The cut-off date is the end of post-observation for all patients.</time_frame>
+    <description>The distribution of progression-free survival will be estimated by the Kaplan-Meier method, the Kaplan-Meier curve will be illustrated, and the median and 95% confidence interval will be calculated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the blood concentration time curve (AUC)</measure>
+    <time_frame>1, 2, 4, 8, 10, and 24 hours after first dosing in phase I.</time_frame>
+    <description>Calculate summary statistics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peak Plasma Concentration (Cmax)</measure>
+    <time_frame>1, 2, 4, 8, 10, and 24 hours after first dosing in phase I.</time_frame>
+    <description>Calculate summary statistics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Elimination half-life (t1/2)</measure>
+    <time_frame>1, 2, 4, 8, 10, and 24 hours after first dosing in phase I.</time_frame>
+    <description>Calculate summary statistics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clearance (CL)</measure>
+    <time_frame>1, 2, 4, 8, 10, and 24 hours after first dosing in phase I.</time_frame>
+    <description>Calculate summary statistics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean residence time (MRT)</measure>
+    <time_frame>1, 2, 4, 8, 10, and 24 hours after first dosing in phase I.</time_frame>
+    <description>Calculate summary statistics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Volume of distribution (Vds)</measure>
+    <time_frame>1, 2, 4, 8, 10, and 24 hours after first dosing in phase I.</time_frame>
+    <description>Calculate summary statistics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Response rate （Phase I）</measure>
+    <time_frame>All of the clinical trial period (up to 6 cycles, 28 days per cycle)</time_frame>
+    <description>Based on RECIST ver1.1</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">55</enrollment>
+  <condition>Pancreatic Cancer</condition>
+  <arm_group>
+    <arm_group_label>Phase I study; 3+3 Design</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Phase I study; single-center, open-label, uncontrolled, dose-finding study&#xD;
+MIKE-1 (AM80, Tamibarotene) After the DLT assessment period, if there is no evidence of disease progression or unacceptable toxicity to the patient according to RECIST v1.1, the investigational drug in each dose group will continue to be administered orally twice daily after breakfast and dinner for up to 24 weeks.The dose of the study drug will not be reduced or increased in the same subject.&#xD;
+6 mg dose group (level 1).&#xD;
+8 mg dose group (level 2).&#xD;
+4 mg group (level 0). To be considered when two or more cases of DLT occur at level 1.&#xD;
+GEM/nab-PTX (Phase I / II study) GEM (1000mg/m2) and nab-PTX (125mg/m2) will be administered intravenously.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase II study; Single-centre, open-label, single arm, uncontrolled study.</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The dose of MIKE-1 will be fixed at the clinically recommended dose determined in Phase I. MIKE-1 will be administered orally twice daily after breakfast and dinner, and treatment will be continued until the occurrence of intolerable toxicity or disease progression, up to a maximum of six courses, to confirm efficacy and safety (tolerability).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Am80</intervention_name>
+    <description>medicine taken internally</description>
+    <arm_group_label>Phase I study; 3+3 Design</arm_group_label>
+    <arm_group_label>Phase II study; Single-centre, open-label, single arm, uncontrolled study.</arm_group_label>
+    <other_name>Tamibarotene</other_name>
+    <other_name>MIKE-1</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  Inclusion Criteria:&#xD;
+&#xD;
+             - Patients who meet all of the following criteria will be eligible for this study.&#xD;
+             Besides, CTCAE v5.0 will be used to determine the grade of adverse events in this&#xD;
+             study.&#xD;
+&#xD;
+               1. Patients with unresectable pancreatic cancer who are histologically or&#xD;
+                  cytologically diagnosed as adenocarcinoma based on the 7th edition of the&#xD;
+                  Pancreatic Cancer Treatment Protocol and meet the following criteria.&#xD;
+&#xD;
+                  Patients who have not received any anticancer therapy (radiation therapy,&#xD;
+                  chemotherapy, immunotherapy, surgery, or investigational therapy) for this&#xD;
+                  disease.&#xD;
+&#xD;
+               2. Patients who are between 20 and 79 years of age at the time of consent.&#xD;
+&#xD;
+               3. Patients with at least one measurable lesion based on RECIST ver 1.1 in the&#xD;
+                  primary pancreatic lesion confirmed by contrast-enhanced CT at the screening.&#xD;
+&#xD;
+               4. Patients who are expected to survive for at least 12 weeks after the start of&#xD;
+                  treatment.&#xD;
+&#xD;
+               5. Patients who can understand the contents of this study and can give written&#xD;
+                  consent.&#xD;
+&#xD;
+               6. Patients with ECOG PS (Eastern Cooperative Oncology Group Performance Status) of&#xD;
+                  0 or 1&#xD;
+&#xD;
+               7. Patients who meet the following criteria in blood tests within 7 days before&#xD;
+                  enrollment and whose organ functions are preserved (if blood transfusion is used,&#xD;
+                  tests must be performed at intervals of at least 2 weeks afterward)&#xD;
+&#xD;
+                    -  Total bilirubin ≤ upper limit of institutional standard (ULN) x 1.5 (less&#xD;
+                       than or equal to 3.0 mg/dL for patients undergoing ERBD or PTBD)&#xD;
+&#xD;
+                    -  AST (GOT) and ALT (GPT) ≦ ULN × 3 (In the case of abnormal liver function&#xD;
+                       due to malignancy, ≤ ULN × 5)&#xD;
+&#xD;
+                    -  Creatinine ≤ 1.5 mg/dL or&#xD;
+&#xD;
+                    -  Creatinine clearance ≥ 60ml/min If creatinine clearance is not measured, the&#xD;
+                       estimated value should be used.&#xD;
+&#xD;
+                    -  White blood cell count ≥ 3,500/mm3, ≤ 12,000/mm3&#xD;
+&#xD;
+                    -  Neutrophils ≥ 1,500/mm3&#xD;
+&#xD;
+                    -  Platelet count ≥ 100,000/mm3&#xD;
+&#xD;
+                    -  Hemoglobin ≥ 9.0g/dL&#xD;
+&#xD;
+                    -  Prothrombin activity level ≥ 70%&#xD;
+&#xD;
+               8. Outpatients who can go to the hospital.&#xD;
+&#xD;
+               9. Patients who can swallow or continue to take oral medications.&#xD;
+&#xD;
+              10. For women of childbearing potential, patients who can use contraception for at&#xD;
+                  least 30 days before the start of study treatment, during the study period, and&#xD;
+                  for at least 2 years after the end of treatment.&#xD;
+&#xD;
+              11. Patients who can undergo biopsy from pancreatic cancer ①within 28 days before the&#xD;
+                  start of the study treatment and ② 8 weeks after the start of the study treatment&#xD;
+                  (Day 57: acceptable range: ±7 days)&#xD;
+&#xD;
+          -  Exclusion Criteria:&#xD;
+&#xD;
+               1. Patients with any of the following complications Patients with poorly controlled&#xD;
+                  heart disease (congestive heart failure, myocardial infarction, or unstable&#xD;
+                  angina within 1 year before enrollment, arrhythmia requiring treatment, etc.)&#xD;
+                  Poorly controlled diabetes or hypertension Active autoimmune disease requiring&#xD;
+                  systemic administration of steroids or immunosuppression therapy Interstitial&#xD;
+                  pneumonia or pulmonary fibrosis (patients with current grade 2 or higher)&#xD;
+&#xD;
+               2. Patients who have received other clinical trial drugs or products (excluding&#xD;
+                  existing chemotherapeutic agents and placebo drugs) within 4 weeks before&#xD;
+                  enrolment.&#xD;
+&#xD;
+               3. Patients with confirmed brain metastasis (confirmed by head CT or MRI if the&#xD;
+                  patient has symptoms of brain metastasis)&#xD;
+&#xD;
+               4. Patients with ascites or pleural effusion requiring drainage.&#xD;
+&#xD;
+               5. Patients who fall under any of the following HBs antigen positive HCV antibody&#xD;
+                  positive and HCV-RNA positive HIV antibody positive&#xD;
+&#xD;
+               6. Patients with Grade 2 or higher peripheral sensory or motor neuropathy&#xD;
+&#xD;
+               7. Patients with multiple cancers (multiple cancers are defined as simultaneous&#xD;
+                  multiple cancers and metachronous multiple cancers with disease-free survival of&#xD;
+                  5 years or less. lesions equivalent to carcinoma in situ or intramucosal&#xD;
+                  carcinoma that are considered curable by local treatment are not included in&#xD;
+                  multiple cancers)&#xD;
+&#xD;
+               8. Patients who have undergone surgery (excluding diagnostic biopsy and review&#xD;
+                  laparoscopy) within 4 weeks before enrollment.&#xD;
+&#xD;
+               9. Patients with bleeding disorders or coagulation disorders that preclude the safe&#xD;
+                  biopsy under EUS (e.g., significant intratumoral bleeding, coagulation disorders,&#xD;
+                  history of bleeding disorders, or complications).&#xD;
+&#xD;
+              10. Patients with a history of allergy to the trial drug, combination chemotherapy,&#xD;
+                  its additives, or vitamin A products.&#xD;
+&#xD;
+              11. Patients requiring anticoagulant medication.&#xD;
+&#xD;
+              12. Patients with cerebral infarction, pulmonary infarction, other arterial or venous&#xD;
+                  thrombosis or its sequelae with clinical symptoms.&#xD;
+&#xD;
+              13. Patients with gastrointestinal disorders that may affect the absorption of the&#xD;
+                  investigational drug.&#xD;
+&#xD;
+              14. Female patients who are pregnant or breastfeeding (unless breastfeeding is&#xD;
+                  discontinued and not resumed).&#xD;
+&#xD;
+              15. Male patients whose sex partner is a woman who wishes to become pregnant.&#xD;
+&#xD;
+              16. Patients with vitamin A overload.&#xD;
+&#xD;
+              17. Patients receiving vitamin A preparations or regularly using vitamin A-containing&#xD;
+                  supplements (patients can be enrolled if the administration is discontinued at&#xD;
+                  the time of obtaining consent).&#xD;
+&#xD;
+              18. Other patients deemed inappropriate by the investigator or sub-investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>79 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hiroki Kawashima</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Nagoya University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yasuyuki Mizutani</last_name>
+    <phone>+81-52-741-2111</phone>
+    <email>y-mizu@med.nagoya-u.ac.jp</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Toshihisa Tsuruta</last_name>
+    <phone>+81-52-741-2111</phone>
+    <email>ttsuruta@med.nagoya-u.ac.jp</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Nagoya University Hospital</name>
+      <address>
+        <city>Nagoya</city>
+        <state>Aich</state>
+        <zip>466-8560</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yasuyuki Mizutani</last_name>
+      <phone>+81-52-741-2111</phone>
+      <email>y-mizu@med.nagoya-u.ac.jp</email>
+    </contact>
+    <contact_backup>
+      <last_name>Tsuruta Toshihisa</last_name>
+      <phone>+81-52-741-2111</phone>
+      <email>ttsuruta@med.nagoya-u.ac.jp</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Japan</country>
+  </location_countries>
+  <link>
+    <url>https://www.biorxiv.org/content/10.1101/2021.06.29.450327v1</url>
+    <description>Iida T, Mizutani Y (T. Iida, Y. Mizutani contributed equally to this article), Enomoto A et al. Conversion of cancer-associated fibroblasts from pro- to antitumor improves the sensitivity of pancreatic cancer to chemotherapeutics. Biorxiv deposited.</description>
+  </link>
+  <reference>
+    <citation>Mizutani Y, Kobayashi H, Iida T, Asai N, Masamune A, Hara A, Esaki N, Ushida K, Mii S, Shiraki Y, Ando K, Weng L, Ishihara S, Ponik SM, Conklin MW, Haga H, Nagasaka A, Miyata T, Matsuyama M, Kobayashi T, Fujii T, Yamada S, Yamaguchi J, Wang T, Woods SL, Worthley D, Shimamura T, Fujishiro M, Hirooka Y, Enomoto A, Takahashi M. Meflin-Positive Cancer-Associated Fibroblasts Inhibit Pancreatic Carcinogenesis. Cancer Res. 2019 Oct 15;79(20):5367-5381. doi: 10.1158/0008-5472.CAN-19-0454. Epub 2019 Aug 22.</citation>
+    <PMID>31439548</PMID>
+  </reference>
+  <reference>
+    <citation>Kobayashi H, Gieniec KA, Wright JA, Wang T, Asai N, Mizutani Y, Lida T, Ando R, Suzuki N, Lannagan TRM, Ng JQ, Hara A, Shiraki Y, Mii S, Ichinose M, Vrbanac L, Lawrence MJ, Sammour T, Uehara K, Davies G, Lisowski L, Alexander IE, Hayakawa Y, Butler LM, Zannettino ACW, Din MO, Hasty J, Burt AD, Leedham SJ, Rustgi AK, Mukherjee S, Wang TC, Enomoto A, Takahashi M, Worthley DL, Woods SL. The Balance of Stromal BMP Signaling Mediated by GREM1 and ISLR Drives Colorectal Carcinogenesis. Gastroenterology. 2021 Mar;160(4):1224-1239.e30. doi: 10.1053/j.gastro.2020.11.011. Epub 2020 Nov 14. Erratum in: Gastroenterology. 2021 Nov;161(5):1728.</citation>
+    <PMID>33197448</PMID>
+  </reference>
+  <reference>
+    <citation>Stoker MG, Shearer M, O'Neill C. Growth inhibition of polyoma-transformed cells by contact with static normal fibroblasts. J Cell Sci. 1966 Sep;1(3):297-310.</citation>
+    <PMID>4291022</PMID>
+  </reference>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>August 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 1, 2021</study_first_posted>
+  <last_update_submitted>September 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Nagoya University</investigator_affiliation>
+    <investigator_full_name>Hiroki Kawashima</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>Am80</keyword>
+  <keyword>Meflin</keyword>
+  <keyword>Cancer-associated fibroblasts</keyword>
+  <keyword>Tamibarotene</keyword>
+  <keyword>ISLR</keyword>
+  <keyword>Cancer-restraining CAFs</keyword>
+  <keyword>Cancer-promoting CAFs</keyword>
+  <keyword>MIKE-1</keyword>
+  <keyword>Vitamin A</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pancreatic Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

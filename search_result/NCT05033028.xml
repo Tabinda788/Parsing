@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9851">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05033028</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-00340</org_study_id>
+    <nct_id>NCT05033028</nct_id>
+  </id_info>
+  <brief_title>Smartphones for Opiate Addiction Recovery</brief_title>
+  <acronym>SOAR</acronym>
+  <official_title>Smartphones for Opiate Addiction Recovery</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NYU Langone Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>NYU Langone Health</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Treatments for opioid addiction exist, but effectiveness is compromised when subjects use&#xD;
+      illicit opiates during treatment. Reuse rates during treatment can be high, and reducing&#xD;
+      illicit opiate use during treatment has thus recently become a major NIDA policy goal. The&#xD;
+      5-minute battery indicates the numerical probability that a patient will reuse illicit&#xD;
+      opiates within the next 7-10 days.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The primary goal in this mid-scale clinical trial is to test the hypothesis that clinicians&#xD;
+      who use the output of the mobile system to adjust buprenorphine and methadone dosing achieve&#xD;
+      lower opiate reuse rates than physicians who provide care-as-usual. The secondary goal is to&#xD;
+      examine the usability and desirability of this solution for clinicians with an eye to&#xD;
+      usability and large-scale deployment. The third and final goal is to measure the&#xD;
+      cost-effectiveness of this solution from multiple perspectives. If successful it will be&#xD;
+      possible to employ an algorithmic and measurement-based approach to OUD treatment with&#xD;
+      methadone and buprenorphine which reduces reuse rates and relapse rates amongst OUD patients.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2021</start_date>
+  <completion_date type="Anticipated">January 2025</completion_date>
+  <primary_completion_date type="Anticipated">January 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of patients will reduce illicit substance reuse rates with PREDICTIVE-DOSING relative to treatment as usual (TAU).</measure>
+    <time_frame>1 month visit, 3 months visit, 6 months visit</time_frame>
+    <description>This is measured by collecting one salivary drug test every two weeks in addition to any drug testing they may complete as part of their clinical treatment. Once saliva samples are obtained they will be aggregated and sent weekly for analysis by mass spectrometry. The primary outcome from these data will be the number of toxicology tests positive for illicit opioids. These data are count in nature and truncated at both 0 and 12.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To assess the impact of POSTUSE-DOSING on reuse rates relative to TAU</measure>
+    <time_frame>1 month visit, 3 months visit, 6 months visit</time_frame>
+    <description>This will be measured through self reports through the smartphone and assessed by randomly scheduled, remote drug screens with saliva samples.</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">510</enrollment>
+  <condition>Opioid-use Disorder</condition>
+  <arm_group>
+    <arm_group_label>Treatment-as-Usual</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants will receive the same treatment as if they had not joined the study</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Smartphone with dose changes after using</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will have an app installed on their phone and have to complete a brief questionnaire and some days play a 2-4 minute game.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Smartphone with dose changes before using</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will have an app installed on their phone and have to complete a brief questionnaire and some days to play a 2-4 minute game.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Focus group with Study Physicans</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Study physicians asked to participate in a focus group session or 1:1 interviews if unable to attend the focus group during year one of the study and once annually towards the end of years 2, 3, 4, and 5 of the study</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Focus group with Clinicians</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Clinicians asked to participate in a 1:1 interview and a separate focus group at roughly the same time. Prior to the first structured interview with our study team, you will participate in a 1-hour training and familiarization session with the SOAR system using synthetic or training data.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Smartphone app</intervention_name>
+    <description>SOAR (Smartphones for Opioid Addiction Recovery) system (battery + platform) as a tool for adjusting MOUD dosages to reduce treatment dropout.</description>
+    <arm_group_label>Focus group with Clinicians</arm_group_label>
+    <arm_group_label>Focus group with Study Physicans</arm_group_label>
+    <arm_group_label>Smartphone with dose changes after using</arm_group_label>
+    <arm_group_label>Smartphone with dose changes before using</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Patients:&#xD;
+&#xD;
+          -  Meet DSM-5 criteria for opioid-use disorder (heroin and/or prescription opioids);&#xD;
+&#xD;
+          -  Have entered, or expressed a clear intention to enter, an OUD treatment program that&#xD;
+             prescribes either methadone or buprenorphine&#xD;
+&#xD;
+          -  Any gender;&#xD;
+&#xD;
+          -  18 years of age and older;&#xD;
+&#xD;
+          -  Have used opioids other than as specifically prescribed within thirty days prior to&#xD;
+             consent;&#xD;
+&#xD;
+          -  In good-enough general health;&#xD;
+&#xD;
+          -  Capacity to provide written informed consent as assessed by our Subject Comprehension&#xD;
+             Assessment Tool(subjects lacking the ability to consent will not be enrolled) ;&#xD;
+&#xD;
+          -  Able to speak English sufficiently to understand the study procedures and provide&#xD;
+             written informed consent to participate in the study.&#xD;
+&#xD;
+        Study-Physician Participants.&#xD;
+&#xD;
+          -  Licensed MD employed by the respective site, or at a clinical partner of the&#xD;
+             respective site, where they will act as participants and be part of the treatment team&#xD;
+&#xD;
+          -  Currently practicing in the treatment of OUD with either Buprenorphine or Methadone;&#xD;
+&#xD;
+          -  Able to speak, read, and write English fluently and to provide informed consent in&#xD;
+             English&#xD;
+&#xD;
+        Clinician Participants.&#xD;
+&#xD;
+          -  Licensed MSW, NP, or MD; who are not part of any treatment team within the study and&#xD;
+             may be employees of their respective sites or other treatment facilities.&#xD;
+&#xD;
+          -  Currently practicing in the treatment of OUD with either Buprenorphine or Methadone;&#xD;
+&#xD;
+          -  Able to speak, read, and write English fluently and to provide informed consent in&#xD;
+             English&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Patients:&#xD;
+&#xD;
+          -  Serious medical, psychiatric or non-opioid substance use disorder that, in the opinion&#xD;
+             of a study physician, would make study participation hazardous to the participant or&#xD;
+             compromise study findings or would prevent the participant from completing the study.&#xD;
+             Examples include: (a) Disabling or terminal medical illness (e.g., uncompensated heart&#xD;
+             failure, cirrhosis or end-stage liver disease) as assessed by medical history, review&#xD;
+             of systems, physical exam and/or laboratory assessments;&#xD;
+&#xD;
+          -  Severe, untreated or inadequately treated mental disorder (e.g., active psychosis,&#xD;
+             uncontrolled manic-depressive illness) as assessed by history and/or clinical&#xD;
+             interview;&#xD;
+&#xD;
+          -  Current severe alcohol, benzodiazepine, or other depressant or sedative hypnotic use&#xD;
+             likely to require a complicated medical detoxification (routine alcohol and sedative&#xD;
+             detoxifications may be included);&#xD;
+&#xD;
+          -  Suicidal or homicidal ideation that requires immediate attention;&#xD;
+&#xD;
+          -  Presence of pain of sufficient severity as to require ongoing pain management with&#xD;
+             opioids;&#xD;
+&#xD;
+          -  Pending legal action or other reasons that might prevent an individual from completing&#xD;
+             the study.&#xD;
+&#xD;
+          -  Pregnancy as assessed by urine pregnancy testing&#xD;
+&#xD;
+          -  Breastfeeding of infants, as assessed by self-report.&#xD;
+&#xD;
+          -  Prisoners, as defined by OHRP, are excluded from participation in the study.&#xD;
+&#xD;
+          -  Individuals receiving residential court-ordered substance abuse treatment.&#xD;
+&#xD;
+        Study-Physician Participants.&#xD;
+&#xD;
+          -  none&#xD;
+&#xD;
+        Clinician Participants.&#xD;
+&#xD;
+          -  none&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John Rotrosen, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NYU Langone Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Paul Glimcher</last_name>
+    <phone>212-263-8167</phone>
+    <email>Paul.glimcher@nyulangone.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Rutgers University</name>
+      <address>
+        <city>Piscataway</city>
+        <state>New Jersey</state>
+        <zip>08854</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Anna Konova, MD</last_name>
+      <phone>929-390-8905</phone>
+      <email>anna.konova@rutgers.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Anna Konova, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Langone</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Paul Glimcher</last_name>
+      <phone>212-263-8167</phone>
+      <email>paul.glimcher@nyulangone.org</email>
+    </contact>
+    <investigator>
+      <last_name>John Rotrosen, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>August 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>August 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 2, 2021</study_first_posted>
+  <last_update_submitted>September 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Opioid-Related Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data that underlie the results reported in this article, after deidentification (text, tables, figures, and appendices).</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Beginning 9 months and ending 36 months following article publication or as required by a condition of awards and agreements supporting the research.</ipd_time_frame>
+    <ipd_access_criteria>Researchers who provide a methodologically sound proposal. Upon reasonable request. Requests should be directed to Paul.glimcher@nyulangone.org To gain access, data requestors will need to sign a data access agreement.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

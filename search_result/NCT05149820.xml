@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="871">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05149820</url>
+  </required_header>
+  <id_info>
+    <org_study_id>142382</org_study_id>
+    <secondary_id>279737</secondary_id>
+    <nct_id>NCT05149820</nct_id>
+  </id_info>
+  <brief_title>Point of Care RandOmisation Systems for Performing Embedded Comparative Effectiveness Trials Of Routine Treatments</brief_title>
+  <acronym>PROSPECTOR</acronym>
+  <official_title>A Single-Centre Feasibility Study of PROSPECTOR - Point of Care RandOmisation Systems for Performing Embedded Comparative Effectiveness Trials Of Routine Treatments in Critical Care</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University College, London</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University College London Hospitals</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University College, London</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Every day, doctors and nurses make hundreds of decisions about treatments - like when to&#xD;
+      start or stop them, or how frequently to give them. Ideally, decisions are based on gold&#xD;
+      standard evidence from Randomised Controlled Trials (RCTs). Unfortunately, for many&#xD;
+      treatments little or no evidence exists and clinicians must use knowledge and experience to&#xD;
+      decide what is best.&#xD;
+&#xD;
+      As clinicians are all different, this leads to random variation in how treatments are given&#xD;
+      to patients. For example, magnesium is routinely given in intensive care to prevent abnormal&#xD;
+      heart rhythms. There is little evidence supporting this, and clinicians vary in how they&#xD;
+      administer magnesium. Traditional RCTs might be used to examine whether more magnesium is&#xD;
+      better than less magnesium, but this method is inefficient and expensive for investigating&#xD;
+      multiple comparative treatment questions.&#xD;
+&#xD;
+      Clinical trials are becoming more efficient by using existing hospital computer systems to&#xD;
+      run them. However, research teams continue to perform tasks like randomisation manually. For&#xD;
+      questions like magnesium supplementation, which occur daily, this is labour intensive and&#xD;
+      infeasible.&#xD;
+&#xD;
+      Hospital computer systems also possess mechanisms for prompting and alerting clinicians for&#xD;
+      particular decisions, reminding them of best practices, warning them of potential problems.&#xD;
+      These systems may be modified to allow clinicians to randomise patients, under specific&#xD;
+      conditions.&#xD;
+&#xD;
+      The investigators propose to assess whether modified computer prompts can be used to&#xD;
+      highlight the magnesium supplementation decision to clinicians. They would prompt the&#xD;
+      clinician to evaluate the uncertainty around giving or withholding magnesium in that&#xD;
+      instance. If the clinician agrees the optimal decision is unclear, they can choose to&#xD;
+      randomise the patient within a predetermined trial structure. If the clinician knows better,&#xD;
+      they may override the prompt and continue with their preference. In both cases, the system&#xD;
+      learns from the decision and the patient receives optimal care determined by their clinician.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Trial Design:&#xD;
+&#xD;
+      A single-centre, mixed methods, feasibility study, embedded within the Electronic Health&#xD;
+      Record System (EHRS). The study will be conducted on critical care units within University&#xD;
+      College London Hospitals NHS Trust and will involve patients undergoing elective major&#xD;
+      surgery which necessitates postoperative admission to critical care. The study will be&#xD;
+      pragmatic in nature, with minimal disruption to usual care pathways.&#xD;
+&#xD;
+      The study will consist of three phases:&#xD;
+&#xD;
+        1. Feasibility Phase - Simulation guided semi-structured interviews with clinicians.&#xD;
+&#xD;
+        2. Intervention Phase - Deployment of electronic prompts to evaluate candidate clinical&#xD;
+           question.&#xD;
+&#xD;
+        3. Follow Up Phase - Patient and clinician semi-structured interviews.&#xD;
+&#xD;
+      Research Hypothesis:&#xD;
+&#xD;
+      Electronically delivered prompts provide a feasible method of delivering point-of-care&#xD;
+      randomisation for the evaluation of routine treatments not amenable to investigation using&#xD;
+      standard clinical trial designs.&#xD;
+&#xD;
+      Clinical Example Hypothesis:&#xD;
+&#xD;
+      Liberal magnesium supplementation (serum concentration &lt; 1.0 mmol/L) is superior to a&#xD;
+      restrictive supplementation strategy (serum concentration &lt; 0.75 mmol/L) for the prevention&#xD;
+      of Atrial Fibrillation in a general critical care population.&#xD;
+&#xD;
+      Summary of Interventions:&#xD;
+&#xD;
+      This study will compare Nudge and Preference electronic Point-Of-Care Randomisation (ePOCR)&#xD;
+      prompts against their ability to generate compliance with randomised allocations to liberal&#xD;
+      or restrictive magnesium supplementation strategy.&#xD;
+&#xD;
+      Following postoperative admission to the critical care unit, participants will undergo&#xD;
+      randomisation between Nudge or Preference prompts and Liberal or Restrictive magnesium&#xD;
+      supplementation strategies. After the two randomisations steps are complete, both ePOCR&#xD;
+      designs follow the same pathway for activation and deployment to the bedside nurse.&#xD;
+&#xD;
+      Once the EHRS detects a new serum magnesium result has been received, the system will screen&#xD;
+      the participant against exclusion criteria 1-5. Each new result triggers the same screening&#xD;
+      process. If the participant is eligible to proceed, the prompt will activate and display to&#xD;
+      the bedside nurse under two conditions:&#xD;
+&#xD;
+        1. Accessing of the blood test results in the EHRS.&#xD;
+&#xD;
+        2. Accessing the supplemental magnesium prescription within the EHRS. Once the prompt has&#xD;
+           displayed and been acknowledged by the bedside nurse, further activation will be&#xD;
+           suppressed until a new serum magnesium result becomes available. This process will be&#xD;
+           tested in silico prior to deployment to the live EHRS and the results of testing made&#xD;
+           available as part of the study materials.&#xD;
+&#xD;
+      Where additional supplementation is indicated by the prompt, the nurse retains control over&#xD;
+      the dose and frequency of administration, as directed by the standardised prescription. All&#xD;
+      other aspects of postoperative care remain as standard and directed by the clinical team.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2022</start_date>
+  <completion_date type="Anticipated">September 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 2022</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Two stage randomisation process with participants first randomised to receive either Nudge or Preference electronic point of care randomisation prompt design, and then randomised to receive Liberal or Restrictive magnesium supplementation strategy.</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Effectiveness of Electronic Point of Care Randomisation Prompts</measure>
+    <time_frame>Duration of individual participant admission to critical care, or five postoperative days, whichever is sooner</time_frame>
+    <description>The proportion of each design which result in compliance with the randomised allocation by the clinician. We define compliance with the prompt as 1) the appropriate administration of supplemental magnesium, following receiving the electronic prompt, where the measured serum magnesium is less than the randomised threshold OR; 2) the appropriate withholding of supplemental magnesium following prompt deployment, where the measured serum magnesium is greater than the randomised threshold.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Acceptability to critical care clinicians of using the Electronic Point of Care Randomisation prompts assessed by semi-structured interviews</measure>
+    <time_frame>Throughout study duration, maximum 6 months from study start date</time_frame>
+    <description>The acceptability of using electronic point of care randomisation prompts, for the investigation of routine comparative effectiveness research questions like the study example will be assessed using a program of semi-structured interviews. These interviews will be delivered to critical care clinicians who may interact with the prompts. Interview data will be evaluated using a thematic analysis approach to derive an assessment of overall acceptability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinician preferences for type of Electronic Point of Care Randomisation Prompt design assessed by semi-structured interviews</measure>
+    <time_frame>Throughout study duration, maximum 6 months from study start date</time_frame>
+    <description>Critical care clinicians will be invited to express a preference for the design of electronic randomisation prompt having been introduced to both designs. This will be evaluated using a programme of semi-structured interviews which will include simulations of both prompt designs to aid recall. Preference will be asked directly and response displayed as proportion of clinicians preferring each design (Nudge or Preference).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acceptability to patients of using either a Pre-Emptive or Opt-Out model to obtain informed consent for the conduct of Comparative Effectiveness Research, assessed by semi-structured interview.</measure>
+    <time_frame>Throughout study duration, maximum 6 months from study start date</time_frame>
+    <description>Patients will be invited to undertake a semi-structured interview designed to ascertain their thoughts and opinions on each type of consent model. In addition, the interview will invite patients to consider different hypothetical research questions and how acceptable they feel each method of obtaining consent is for each. Interviews will be evaluated using a thematic analysis approach and examples supporting patient viewpoints presented in the results.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Atrial Fibrillation New Onset</condition>
+  <condition>Magnesium Deficiency</condition>
+  <arm_group>
+    <arm_group_label>Nudge Prompt, Liberal Magnesium Strategy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>This group will be randomised to receive the Nudge design of electronic point of care randomisation prompt. The prompt will encourage the clinician to follow a liberal magnesium supplementation strategy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Nudge Prompt, Restrictive Magnesium Strategy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>This group will be randomised to receive the Nudge design of electronic point of care randomisation prompt. The prompt will encourage the clinician to follow a restrictive magnesium supplementation strategy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Preference Prompt, Liberal Magnesium Strategy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>This group will be randomised to receive the Preference design of electronic point of care randomisation prompt. The prompt will encourage the clinician to follow a liberal magnesium supplementation strategy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Preference Prompt, Restrictive Magnesium Strategy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>This group will be randomised to receive the Preference design of electronic point of care randomisation prompt. The prompt will encourage the clinician to follow a restrictive magnesium supplementation strategy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Electronic Point of Care Randomisation tool</intervention_name>
+    <description>Two designs of electronic point of care randomisation tool will be evaluated.</description>
+    <arm_group_label>Nudge Prompt, Liberal Magnesium Strategy</arm_group_label>
+    <arm_group_label>Nudge Prompt, Restrictive Magnesium Strategy</arm_group_label>
+    <arm_group_label>Preference Prompt, Liberal Magnesium Strategy</arm_group_label>
+    <arm_group_label>Preference Prompt, Restrictive Magnesium Strategy</arm_group_label>
+    <other_name>Nudge Prompt Design and Preference Prompt Design</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Magnesium</intervention_name>
+    <description>Liberal Strategy: magnesium supplementation at serum level &lt; 0.75 mmol/L Restrictive Strategy: magnesium supplementation at serum level &lt; 1.0 mmol/L</description>
+    <arm_group_label>Nudge Prompt, Liberal Magnesium Strategy</arm_group_label>
+    <arm_group_label>Nudge Prompt, Restrictive Magnesium Strategy</arm_group_label>
+    <arm_group_label>Preference Prompt, Liberal Magnesium Strategy</arm_group_label>
+    <arm_group_label>Preference Prompt, Restrictive Magnesium Strategy</arm_group_label>
+    <other_name>Liberal and Restrictive Magnesium Supplementation Strategies</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Patients:&#xD;
+&#xD;
+          1. Age 18 years or over.&#xD;
+&#xD;
+          2. Undergoing elective surgery of complexity sufficient to warrant postoperative critical&#xD;
+             care admission (major/complex major surgery)&#xD;
+&#xD;
+          3. Must be able to give written informed consent to participate&#xD;
+&#xD;
+        Clinicians:&#xD;
+&#xD;
+        1. Must be regularly involved in the care of postoperative patients in critical care.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Active treatment for bronchospasm preceding deployment of the electronic prompt,&#xD;
+             defined as patient receiving bronchodilator therapy or Magnesium infusion.&#xD;
+&#xD;
+          2. Any documented allergy or intolerance to any preparation of supplemental Magnesium.&#xD;
+&#xD;
+          3. Serum Magnesium result &gt; 1.5 or &lt; 0.5 mmol/L on blood tests obtained during critical&#xD;
+             care admission .&#xD;
+&#xD;
+          4. Pregnancy&#xD;
+&#xD;
+          5. Atrial Fibrillation on initial arrival to critical care.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Steve K Harris</last_name>
+    <role>Study Director</role>
+    <affiliation>University College London Hospitals</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Matthew G Wilson</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University College, London</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Matthew G Wilson</last_name>
+    <phone>02034567890</phone>
+    <email>matthew.wilson8@nhs.net</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Steve K Harris</last_name>
+    <phone>02034567890</phone>
+    <email>S.harris8@nhs.net</email>
+  </overall_contact_backup>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 8, 2021</study_first_posted>
+  <last_update_submitted>November 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Electronic Health Record Trials</keyword>
+  <keyword>Point of Care Randomisation</keyword>
+  <keyword>Comparative Effectiveness Research</keyword>
+  <keyword>Learning Health Systems</keyword>
+  <keyword>Feasibility Studies</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Atrial Fibrillation</mesh_term>
+    <mesh_term>Magnesium Deficiency</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

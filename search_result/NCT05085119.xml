@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5846">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05085119</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RBHP 2019 GODET 3</org_study_id>
+    <nct_id>NCT05085119</nct_id>
+  </id_info>
+  <brief_title>Validation of the Relationship Between Oxygenation Parameters and ORI™, in Mechanically Ventilated ICU Patients</brief_title>
+  <acronym>FiO2RI</acronym>
+  <official_title>Validation of the Relationship Between Oxygenation Parameters and the Oxygen Reserve Index (ORI™), in Mechanically Ventilated ICU Patients: An Exploratory Pathophysiology Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Clermont-Ferrand</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Clermont-Ferrand</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The ORI™ or Oxygen Reserve Index (Masimo, Irvine, CA, USA) is a non-invasive monitoring&#xD;
+      system for measuring oxygen reserve. It is a digital sensor (almost identical to the SpO2&#xD;
+      sensor) which allows an analysis of the absorption of arterial, venous and capillary&#xD;
+      components. The measured index, unitless, ranges from 0.00 to 1.00 for moderate hyperoxia&#xD;
+      levels: from 100 to 200 mmHg. It can alert the clinician to a drop in oxygen stores via the&#xD;
+      drop in SvO2 before a drop in SpO2 is observed. We propose to carry out a study to elucidate&#xD;
+      correlation between ORI™ and PaO2.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Pulse oximetry or SpO2 is the standard and mandatory monitoring of oxygenation during&#xD;
+      mechanical ventilation of intensive care and operating theatre patients. Its use is based on&#xD;
+      the difference in infrared and red light absorptions of oxyhaemoglobin and reduced&#xD;
+      haemoglobin. The calculation of the absorption percentage takes into account the pulsatility&#xD;
+      of the signal, reflecting the arterial component, while eliminating the continuous signal,&#xD;
+      reflecting the venous component. It is then considered that SpO2 is a reflection of SaO2, or&#xD;
+      arterial oxygen saturation. Oxygen exists in two forms in the arterial circulation: dissolved&#xD;
+      (PaO2) or bound to haemoglobin (SaO2).&#xD;
+&#xD;
+      Because of the sigmoidal shape of the oxyhaemoglobin dissociation curve, SpO2 is a late&#xD;
+      marker of arterial hypoxaemia. Indeed, SpO2 only starts to decrease after a marked drop in&#xD;
+      PaO2.&#xD;
+&#xD;
+      Hypoxaemia is a frequent situation, both in the operating theatre during the period of&#xD;
+      securing the airway, intra-operatively, or post-operatively, after extubation, on episodes of&#xD;
+      alveolar hypoventilation, such as atelectasis. In intensive care units, it can occur in&#xD;
+      injured lungs with various aetiologies (infectious, inflammatory, cardiac, etc). It is an&#xD;
+      independent predictive factor of mortality.&#xD;
+&#xD;
+      Exposure of patients to high hyperoxia (FiO2&gt;0.7), over a long period of time, can lead to&#xD;
+      pulmonary endothelial damage (due to the formation of reactive oxygen species, ROS),&#xD;
+      denitrogenation atelectasis, and possibly a systemic inflammatory cascade. It is currently&#xD;
+      suggested that hyperoxia may also have a haemodynamic impact, with a fall in cardiac output&#xD;
+      and peripheral vasoconstriction, particularly in healthy volunteers and patients with cardiac&#xD;
+      decompensation. However, hyperoxia is a frequent situation during the perioperative period as&#xD;
+      it provides safety and a potential oxygen reserve in case of adverse events: hemodynamic&#xD;
+      degradation, cardiac arrest, extubation...&#xD;
+&#xD;
+      The ORI™ or Oxygen Reserve Index (Masimo, Irvine, CA, USA) is a non-invasive monitoring&#xD;
+      system for measuring oxygen reserve. It is a digital sensor (almost identical to the SpO2&#xD;
+      sensor) which allows an analysis of the absorption of arterial, venous and capillary&#xD;
+      components. The measured index, unitless, ranges from 0.00 to 1.00 for moderate hyperoxia&#xD;
+      levels: from 100 to 200 mmHg. It can alert the clinician to a drop in oxygen stores via the&#xD;
+      drop in SvO2 before a drop in SpO2 is observed.&#xD;
+&#xD;
+      There is little literature on ORI™. A previous study showed a poor correlation between ORI™&#xD;
+      (ranging from 0.24 to 0.55) and PaO2, which ranged from 100 to 150 mmHg, respectively. The&#xD;
+      company, Masimo, has recently made a change in its algorithm, allowing it to re-calibrate its&#xD;
+      sensor. However, no new correlation research has been conducted. We therefore propose to&#xD;
+      carry out a new test phase.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 9, 2021</start_date>
+  <completion_date type="Anticipated">November 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Validation study of a non-invasive sensor-type medical device, with comparison to standard paraclinical parameters, with a stepwise modification test of FIO2, in normo- to moderate hyperoxic conditions.</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>FiO2 steps will be conducted by study investigator. Participants, care providers and outcomes assessor will remain blinded of FiO2 steps.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Correlation between ORI™ and PaO2</measure>
+    <time_frame>There will be nine 10 minutes steps. Measurement will be done during the last minute of each 10 minutes step</time_frame>
+    <description>Correlations will be investigated during the last minute of each 10 minutes FiO2 steps</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between ORI™ and PcvO2</measure>
+    <time_frame>There will be nine 10 minutes steps. Measurement will be done during the last minute of each 10 minutes step</time_frame>
+    <description>Correlations will be investigated during the last minute of each 10 minutes FiO2 steps</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between ORI™ and ScvO2</measure>
+    <time_frame>There will be nine 10 minutes steps. Measurement will be done during the last minute of each 10 minutes step</time_frame>
+    <description>Correlations will be investigated during the last minute of each 10 minutes FiO2 steps</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between ORI™ and SaO2</measure>
+    <time_frame>There will be nine 10 minutes steps. Measurement will be done during the last minute of each 10 minutes step</time_frame>
+    <description>Correlations will be investigated during the last minute of each 10 minutes FiO2 steps</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between ORI™ and SpO2</measure>
+    <time_frame>There will be nine 10 minutes steps. Measurement will be done during the last minute of each 10 minutes step</time_frame>
+    <description>Correlations will be investigated during the last minute of each 10 minutes FiO2 steps</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Intubation</condition>
+  <condition>Mechanical Ventilation</condition>
+  <condition>Intensive Care Unit</condition>
+  <arm_group>
+    <arm_group_label>FiO2 stepwise modifications</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intubation ICU patients will be challenged with stepwise modifications of FiO2. The following steps will be done: 30, 40, 60, 80, 100, 80, 60, 40 and 30%.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Stepwise modifications of FiO2</intervention_name>
+    <description>FiO2 will be increased stepwise from 30 to 100% (40, 60 and 80%), and then decreased with the same FiO2 reverse steps.</description>
+    <arm_group_label>FiO2 stepwise modifications</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients aged over 18 years, admitted in an intensive care unit of the Peri-Operative&#xD;
+             Medicine Pole of the Clermont-Ferrand University Hospital, under invasive mechanical&#xD;
+             ventilation (intubation or tracheotomy), whose FiO2 required to obtain an SpO2 &gt; 95%&#xD;
+             is ≤ 30%, equipped as part of routine care with an arterial catheter and a central&#xD;
+             venous catheter in the superior vena cava territory&#xD;
+&#xD;
+          -  BMI &lt; 30 kg.m-2&#xD;
+&#xD;
+          -  Written consent to participate in the study by the patient or by the trusted person,&#xD;
+             or the relative if he or she is present.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Existence of an underlying pulmonary pathology that may alter oxygen diffusion or&#xD;
+             generate an intra-pulmonary shunt (COPD, emphysema, pneumopathy, ARDS, chronic&#xD;
+             respiratory failure...)&#xD;
+&#xD;
+          -  Uncontrolled haemodynamic instability defined by an increase of more than 20% in&#xD;
+             catecholamine dosages during the last hour, despite optimisation of the blood volume&#xD;
+             according to a pre-established protocol (mini-fluid challenge)&#xD;
+&#xD;
+          -  Patient already included in the study&#xD;
+&#xD;
+          -  Patient's or relative's refusal to participate&#xD;
+&#xD;
+          -  Guardianship or trusteeship patient&#xD;
+&#xD;
+          -  No affiliation to the Social Security system&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Thomas Godet, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital, Clermont-Ferrand</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lise Laclautre</last_name>
+    <phone>+33 4 73 754963</phone>
+    <email>promo_interne_drci@chu-clermontferrand.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Thomas Godet, MD, PhD</last_name>
+    <email>tgodet@chu-clermontferrand.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Clermont-Ferrand University Hospital</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <zip>63000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas Godet, MD, PhD</last_name>
+      <email>tgodet@chu-clermontferrand.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas Godet</last_name>
+      <email>tgodet@chu-clermontferrand.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 20, 2021</study_first_posted>
+  <last_update_submitted>October 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Oxygen administration</keyword>
+  <keyword>Oxygen blood content</keyword>
+  <keyword>ORI</keyword>
+  <keyword>Intensive care unit</keyword>
+  <keyword>ICU</keyword>
+  <keyword>Mechanical ventilation</keyword>
+  <keyword>Intubation</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8848">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05046067</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2019-1189</org_study_id>
+    <secondary_id>NCI-2021-06616</secondary_id>
+    <secondary_id>2019-1189</secondary_id>
+    <nct_id>NCT05046067</nct_id>
+  </id_info>
+  <brief_title>Feasibility Study of Anatomical Modeling for Image Guided Thoracic Surgery</brief_title>
+  <official_title>Feasibility Study of Anatomical Modeling for Image Guided Thoracic Surgery</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>M.D. Anderson Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>M.D. Anderson Cancer Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This clinical trial assesses the feasibility of creating a 3 dimensional (D) model of the&#xD;
+      lung and lung nodule(s) from computed tomography (CT) scan images performed during lung&#xD;
+      surgery. Unlike solid organs (like the kidney, brain, and liver), the lung changes shape&#xD;
+      (they inflate when a person breathe in and collapse when they breathe out). This makes it&#xD;
+      difficult to predict where, exactly, the tumor(s) will be on the lungs during surgery. A 3D&#xD;
+      model may help surgeons better predict where the location of the tumor(s) will be during&#xD;
+      surgery.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVE:&#xD;
+&#xD;
+      I. To assess the feasibility of developing an anatomical model to predict the location of the&#xD;
+      tumor in a deflated lung to assist in guidance during lung surgery.&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. Develop a registration technique to register the tumor onto the 2D/3D optical image&#xD;
+      obtained during surgery.&#xD;
+&#xD;
+      II. Determine the accuracy of mapping major segmental vasculature and bronchial structures&#xD;
+      onto 2D/3D optical images obtained during surgery.&#xD;
+&#xD;
+      OUTLINE:&#xD;
+&#xD;
+      Patients undergo 4 CT scans during standard of care surgery.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 16, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility of anatomical modeling for image guided thoracic surgery</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>The geometrical accuracy of the models for localizing the tumor will be quantified. The study is feasible if tumors for all 10 patients can be located with accuracy of within 1 cm or less. Anatomical modeling for image guided thoracic surgery will be considered feasible if researchers are able to determine the location of the tumor in a deflated lung to within the accuracy required by the surgeon for clinical use.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Lung Neoplasm</condition>
+  <arm_group>
+    <arm_group_label>Diagnostic (CT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients undergo 4 CT scans during standard of care surgery.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Computed Tomography</intervention_name>
+    <description>Undergo CT</description>
+    <arm_group_label>Diagnostic (CT)</arm_group_label>
+    <other_name>CAT</other_name>
+    <other_name>CAT Scan</other_name>
+    <other_name>Computerized Axial Tomography</other_name>
+    <other_name>Computerized Tomography</other_name>
+    <other_name>CT</other_name>
+    <other_name>CT Scan</other_name>
+    <other_name>tomography</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Therapeutic Conventional Surgery</intervention_name>
+    <description>Undergo surgery per standard of care</description>
+    <arm_group_label>Diagnostic (CT)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients must have previous CT images demonstrating a lung mass or masses amenable to&#xD;
+             lung resection (open or minimally invasive)&#xD;
+&#xD;
+          -  Patient is scheduled for surgical resection in a room equipped with intraoperative CT&#xD;
+&#xD;
+          -  Patient must sign informed consent, with risks and benefits of CT imaging explained&#xD;
+&#xD;
+          -  Patients with lung tumors &gt;= 1cm to =&lt; 3 cm based on preoperative CT scan. (Patients&#xD;
+             with lung tumors from &lt; 1 cm or &gt; 3 cm will be reviewed and approved for inclusion on&#xD;
+             an individual assessment by clinical collaborators)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pediatric patients less than 18 years of age&#xD;
+&#xD;
+          -  Patients who have undergone previous ipsilateral thoracic surgery, sclerotherapy, or&#xD;
+             radiation therapy as intraoperative adhesions may limit lung collapse intraoperatively&#xD;
+&#xD;
+          -  Patients who received neoadjuvant immunotherapy&#xD;
+&#xD;
+          -  Women who are pregnant or nursing&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ravi Rajaram</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>M.D. Anderson Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>M D Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ravi Rajaram</last_name>
+      <phone>713-563-4530</phone>
+      <email>rrajaram@mdanderson.org</email>
+    </contact>
+    <investigator>
+      <last_name>Ravi Rajaram</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mdanderson.org</url>
+    <description>MD Anderson Cancer Center Website</description>
+  </link>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>July 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 16, 2021</study_first_posted>
+  <last_update_submitted>September 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

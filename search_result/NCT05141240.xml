@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1530">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05141240</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CLEE011AUS64</org_study_id>
+    <nct_id>NCT05141240</nct_id>
+  </id_info>
+  <brief_title>A Real-world Analysis of Concomitant Medication Use Among Metastatic Breast Cancer Patients Treated With CDK4/6 Inhibitors</brief_title>
+  <official_title>A Real-world Analysis of Concomitant Medication Use Among Metastatic Breast Cancer Patients Treated With CDK4/6 Inhibitors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a retrospective cohort study to assess the real-world analysis of concomitant&#xD;
+      medication use among metastatic breast cancer patients treated with CDK4/6 inhibitors&#xD;
+      utilizing the US Optum research administrative claims database.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a retrospective cohort study utilizing the US Optum research administrative claims&#xD;
+      database. Adult female patients who had HR+/HER2- mBC were identified and included in the&#xD;
+      study. These patients were stratified into three cohorts based on the first CDK4/6i received&#xD;
+      (ribociclib, palbociclib, or abemaciclib).&#xD;
+&#xD;
+        -  Study period: Period during which all relevant medical and pharmacy information in the&#xD;
+           database was retrieved&#xD;
+&#xD;
+        -  Index event identification period: time frame during which index treatment was&#xD;
+           identified&#xD;
+&#xD;
+        -  First CDK4/6i: the date on which patients initiated their first treatment after being&#xD;
+           diagnosed with HR+/HER2- mBC; this date was considered as the index date&#xD;
+&#xD;
+        -  Baseline period: Time frame during which patient characteristics, prior mBC treatments,&#xD;
+           and concomitant treatments received by CDK4/6i-naïve patients were evaluated&#xD;
+&#xD;
+        -  Follow-up period: time frame on and after the index date during which patients'&#xD;
+           treatments and dosing patterns were observed&#xD;
+&#xD;
+      Establishment of baseline period Health plan enrollment in the three months prior to the&#xD;
+      index treatment was included in the baseline period. Patient demographics, clinical&#xD;
+      characteristics, National Cancer Institute (NCI) comorbidity index, concomitant medication&#xD;
+      use that can potentially lead to a DDI, and other BC treatments prior to the index treatment&#xD;
+      were evaluated during this period.&#xD;
+&#xD;
+      Establishment of follow-up period Patients were observed for ≥3 months starting from the&#xD;
+      index date until the end of the study period or continuous enrollment or until the time when&#xD;
+      patients switched to another therapy (including another CDK4/6i), whichever came first.&#xD;
+      Dosing patterns for CDK4/6i were evaluated in the follow-up period. Analyses were conducted&#xD;
+      at key time points of 3, 6, and 12 months&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 15, 2020</start_date>
+  <completion_date type="Actual">June 15, 2020</completion_date>
+  <primary_completion_date type="Actual">June 15, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with a prescription fill of ribociclib, palbociclib, or abemaciclib</measure>
+    <time_frame>Index date (defined as the prescription fill for ribociclib, palbociclib, or abemaciclib for the first time)</time_frame>
+    <description>Distribution of patients with a prescription fill of ribociclib, palbociclib, or abemaciclib at index treatment date will be present by frequency among all patients treated with CDK4/6</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants who took concomitant medications in baseline period, by drug name</measure>
+    <time_frame>Baseline period (3 months)</time_frame>
+    <description>Number of patients taking a concomitant medication/s during baseline period that can potentially lead to a drug-drug interactions (DDI) with a CDK4/6 inhibitor use with each CDK4/6 inhibitor in the follow-up period.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants who took concomitant medications in follow-up period, by drug name</measure>
+    <time_frame>From index date (defined as the prescription fill for ribociclib, palbociclib, or abemaciclib for the first time) to the end of follow-up period (12 months post index date)</time_frame>
+    <description>Number of patients taking a concomitant medication/s during baseline period that can potentially lead to a drug-drug interactions (DDI) with a CDK4/6 inhibitor use with each CDK4/6 inhibitor in the follow-up period.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with no use of concomitant medications</measure>
+    <time_frame>Baseline period (3 months)</time_frame>
+    <description>Adherence to concomitant medications during the baseline period was reported</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with proportion of days covered (PDC) &gt;80%</measure>
+    <time_frame>Baseline period (3 months)</time_frame>
+    <description>Adherence to concomitant medication during the baseline period will be assessed using the proportion of days covered (PDC):&#xD;
+PDC = total days of filled or refilled concomitant Rx in baseline period / total number of days in baseline period</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with proportion of days covered (PDC) ≤80%</measure>
+    <time_frame>Baseline period (3 months)</time_frame>
+    <description>Adherence to concomitant medication during the baseline period will be assessed using the proportion of days covered (PDC):&#xD;
+PDC = total days of filled or refilled concomitant Rx in baseline period / total number of days in baseline period</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of other breast cancer medications used</measure>
+    <time_frame>Baseline period (3 months)</time_frame>
+    <description>Number of other breast cancer medications used in baseline period, by drug class (HR+/Endocrine, Chemotherapy, Other treatments), for breast cancer regimens was reported</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mean starting dose for each CDK4/6</measure>
+    <time_frame>From index date (defined as the prescription fill for ribociclib, palbociclib, or abemaciclib for the first time) to the end of follow-up period (12 months post index date)</time_frame>
+    <description>Distribution of starting dose and mean starting dose for each CDK4/6 was reported to describe dosing and treatment patterns associated with ribociclib, palbociclib, and abemaciclib patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who had any dose change (increase, decrease)</measure>
+    <time_frame>From index date (defined as the prescription fill for ribociclib, palbociclib, or abemaciclib for the first time) to the end of follow-up period (12 months post index date)</time_frame>
+    <description>Number of patients with change in dose by each CDK4/6 inhibitor (ribociclib, palbociclib, and abemaciclib) in the follow-up period was reported</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who had a dose increase</measure>
+    <time_frame>From index date (defined as the prescription fill for ribociclib, palbociclib, or abemaciclib for the first time) to the end of follow-up period (12 months post index date)</time_frame>
+    <description>Number of patients with change in dose by each CDK4/6 inhibitor (ribociclib, palbociclib, and abemaciclib) in the follow-up period was reported</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who had a dose decrease</measure>
+    <time_frame>From index date (defined as the prescription fill for ribociclib, palbociclib, or abemaciclib for the first time) to the end of follow-up period (12 months post index date)</time_frame>
+    <description>Number of patients with change in dose by each CDK4/6 inhibitor (ribociclib, palbociclib, and abemaciclib) in the follow-up period was reported</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants discontinuing each CDK4/6i (ribociclib, palbociclib, or abemaciclib)</measure>
+    <time_frame>From index date (defined as the prescription fill for ribociclib, palbociclib, or abemaciclib for the first time) to the end of follow-up period (12 months post index date)</time_frame>
+    <description>Rate of discontinuation of ribociclib, palbociclib, or abemaciclib in the follow-up period was reported</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median duration of treatment (in months) by each CDK4/6i (ribociclib, palbociclib, or abemaciclib)</measure>
+    <time_frame>From index date (defined as the prescription fill for ribociclib, palbociclib, or abemaciclib for the first time) to the end of follow-up period (12 months post index date)</time_frame>
+    <description>Duration of treatment with ribociclib, palbociclib, or abemaciclib, defined as discontinuation of each index CDK 4/6 treatment during the follow-up period was reported</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Actual">4650</enrollment>
+  <condition>Metastatic Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Ribociclib</arm_group_label>
+    <description>Participants who initiated CDK4/6i therapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Palbociclib</arm_group_label>
+    <description>Participants who initiated CDK4/6i therapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Abemaciclib</arm_group_label>
+    <description>Participants who initiated CDK4/6i therapy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ribiciclib</intervention_name>
+    <description>Participants who initiated CDK4/6i therapy</description>
+    <arm_group_label>Ribociclib</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Palbociclib</intervention_name>
+    <description>Participants who initiated CDK4/6i therapy</description>
+    <arm_group_label>Palbociclib</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Abemaciclib</intervention_name>
+    <description>Participants who initiated CDK4/6i therapy</description>
+    <arm_group_label>Abemaciclib</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Study analyses were conducted among adult women with HR+/HER2- mBC receiving ribociclib,&#xD;
+        palbociclib, or abemaciclib, regardless of the line of therapy. Patients were identified&#xD;
+        from the US Optum Claims Data.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Treated with CDK4/6i from 2015-02-01 to 2019-06-30&#xD;
+&#xD;
+          -  ≥2 claims with a BC diagnosis recorded ≥30 days apart from the index date&#xD;
+&#xD;
+          -  ≥2 claims with an mBC diagnosis, with a time interval between the first BC diagnosis&#xD;
+             date and the first mBC diagnosis date no longer than 30 days&#xD;
+&#xD;
+          -  Female patients aged ≥18 years&#xD;
+&#xD;
+          -  Continuous health plan enrollment for ≥3 months prior to the index date and ≥3 months&#xD;
+             post-index date&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  None&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Adult women with HR+/HER2- mBC</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <role>Study Director</role>
+    <affiliation>Novartis Pharmaceuticals</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Novartis Investigational site</name>
+      <address>
+        <city>East Hanover</city>
+        <state>New Jersey</state>
+        <zip>07936</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.novctrd.com/ctrdweb/trialresult/trialresults/pdf?trialResultId=17880</url>
+    <description>Results for CLEE011AUS64 from the Novartis Clinical Trials Website</description>
+  </link>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>November 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 2, 2021</study_first_posted>
+  <last_update_submitted>December 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Concomitant medication,</keyword>
+  <keyword>drug-drug interaction,</keyword>
+  <keyword>CDK4/6 inihibitor,</keyword>
+  <keyword>HR+/HER2-metastatic breast cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Palbociclib</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

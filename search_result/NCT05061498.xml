@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7662">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05061498</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pacemap-Study</org_study_id>
+    <nct_id>NCT05061498</nct_id>
+  </id_info>
+  <brief_title>Impact of Pacing Output and Cycle Length on QRS Morphology</brief_title>
+  <official_title>Impact of Pacing Output and Cycle Length on QRS Morphology in Ablation of Premature Ventricular Contractions</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universitätsklinikum Köln</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Universitätsklinikum Köln</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Current recommendations for pacemapping are based on expert opinion and animals models.&#xD;
+      Present study sought to evaluate the influence of different parameters of pacemapping on QRS&#xD;
+      morphology. Pacemapping is performed with different cycle length (fixed burst vs. coupling&#xD;
+      interval) and stimulation output (maximum output vs. threshold) and resulting QRS complexes&#xD;
+      are compared to clinical PVC and the standard of care to determine the optimal parameter&#xD;
+      setting in pacemapping.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Pacemapping is a common technique to determine to origin of ventricular ectopy during&#xD;
+      catheter ablation of premature ventricular contractions (PVC). During the pacemapping process&#xD;
+      an electrical pacing stimulus is applied via the ablation catheter and the resulting QRS&#xD;
+      complex is compared the clinical target PVC. The higher the consistency between the&#xD;
+      stimulated QRS complex and the clinical PVC, the nearer the catheter is located to the origin&#xD;
+      of ectopy.&#xD;
+&#xD;
+      Current recommendations for the execution of pacemapping are based on expert opinion and&#xD;
+      animals models. The investigators sought to assess for the first time in a clinical real life&#xD;
+      setting the different parameters for pacemapping (i.e. Cycle length and stimulation output).&#xD;
+      Therefore during the pacemapping process in routine PVC ablation pacing is performed with&#xD;
+      different cycle length (fixed burst vs. coupling interval of PVC) and different electrical&#xD;
+      output (maximum output vs. stimulation threshold). The resulting QRS morphologies are on the&#xD;
+      one hand compared to the ablation target (clinical PVC) and on the other hand to the suggest&#xD;
+      standard of care (Coupling interval at pacing threshold) to determine the optimal setting of&#xD;
+      parameters in pacemapping.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2021</start_date>
+  <completion_date type="Anticipated">November 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Template Matching with clinical PVC</measure>
+    <time_frame>Immediately during PVC ablation. No follow up intended.</time_frame>
+    <description>Different pacing settings are applied in order to determine the optimal Consistency between paced QRS complex and clinical PVC</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>PVC - Premature Ventricular Complex</condition>
+  <condition>Catheter Ablation</condition>
+  <arm_group>
+    <arm_group_label>Additional Pacing maneuvers</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>In all study participants additional pacing maneuvers (cycle lenght and output) are performed</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Additional Pacing maneuvers</intervention_name>
+    <description>In order to determine the optimal setting for pacemapping in all participants additional pacing maneuvers (output and cycle length) are performed</description>
+    <arm_group_label>Additional Pacing maneuvers</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All patients undergoing PVC ablation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  patients &lt;18 years&#xD;
+&#xD;
+          -  patients not able to consent&#xD;
+&#xD;
+          -  pregnancy&#xD;
+&#xD;
+          -  contraindication for PVC ablation&#xD;
+&#xD;
+          -  unavailability of vascular access&#xD;
+&#xD;
+          -  patients with complex congenital heart disease&#xD;
+&#xD;
+          -  expected hemodynamical instability during pacemapping&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jakob Lüker, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Heart Center University of Cologne</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jan-Hendrik van den Bruck, MD</last_name>
+    <phone>+49 22147884895</phone>
+    <email>jan-hendrik.van-den-bruck@uk-koeln.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jakob Lüker, MD</last_name>
+    <phone>+49 221 478 82851</phone>
+    <email>jakob.lueker@uk-koeln.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University Hospital Cologne</name>
+      <address>
+        <city>Cologne</city>
+        <state>NRW</state>
+        <zip>50936</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel Steven</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>May 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 29, 2021</study_first_posted>
+  <last_update_submitted>November 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Catheter ablation of PVC</keyword>
+  <keyword>Pacemapping</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Premature Birth</mesh_term>
+    <mesh_term>Ventricular Premature Complexes</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

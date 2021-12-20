@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2235">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05132062</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IF2740658</org_study_id>
+    <nct_id>NCT05132062</nct_id>
+  </id_info>
+  <brief_title>Mehran 2.0 Risk Score for Prediction of CA-AKI After PCI</brief_title>
+  <official_title>A Contemporary Simple Risk Score for Prediction of Contrast-Associated Acute Kidney Injury After Percutaneous Coronary Intervention Development and Initial Validation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Icahn School of Medicine at Mount Sinai</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Icahn School of Medicine at Mount Sinai</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Consecutive patients having percutaneous coronary intervention (PCI) over a period of 9 years&#xD;
+      at a large tertiary care center with available creatinine measurements both before and within&#xD;
+      48 hours after the procedure were included; patients on chronic dialysis were excluded.&#xD;
+      Patients treated between 2012 and 2017 comprised the derivation cohort (n=14,616) and those&#xD;
+      treated from 2018 to 2020 formed the validation cohort (n=5,606). The primary endpoint is&#xD;
+      contrast-associated acute kidney injury (CA-AKI, defined per Acute Kidney Injury Network&#xD;
+      [AKIN]). In addition, independent predictors of CA-AKI will be derived from multivariate&#xD;
+      logistic regression analysis. Model 1 will include only preprocedural variables, while Model&#xD;
+      2 will also include procedural variables. A weighted integer score based on the effect&#xD;
+      estimate of each independent variable will be used to calculate the final risk score for each&#xD;
+      patient. Impact on 1-year mortality will be also evaluated.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Consecutive patients who underwent PCI at a tertiary hospital (Mount Sinai Hospital, New&#xD;
+      York, NY, USA) between 2012 and 2020 with documented serum creatinine both pre- procedure and&#xD;
+      within 48 hours after PCI were identified from our existing prospectively populated database.&#xD;
+      Only patients who expired within 48 hours after PCI and with pre-existing end-stage renal&#xD;
+      disease requiring dialysis were excluded from the present analysis. CA-AKI was defined&#xD;
+      according to the Acute Kidney Injury Network as an increase by ≥50% or ≥0.3mg/dl within 48&#xD;
+      hours after PCI compared to pre-PCI serum creatinine. Anemia was defined as hemoglobin plasma&#xD;
+      level ≤13 g/dl for men and ≤12 g/dl for women. Chronic kidney disease (CKD) was defined as an&#xD;
+      estimated glomerular filtration rate (eGFR) of ≤60 ml/min/1.73 m2, per the Chronic Kidney&#xD;
+      Disease-Epidemiologic (CKD-EPI) formula. A dedicated data coordinating center performed all&#xD;
+      data management. Prespecified clinical and laboratory demographic information was obtained&#xD;
+      from hospital charts that were reviewed by independent research personnel who were unaware of&#xD;
+      the objectives of the study; accumulated data were then entered prospectively in the&#xD;
+      database. Patients treated between 2012 and 2017 will comprise the derivation cohort&#xD;
+      (n=14,616) and those treated from 2018 to 2020 will form the validation cohort (n=5,606).&#xD;
+      Independent predictors of CA-AKI (defined per Acute Kidney Injury Network) will be derived&#xD;
+      from multivariate logistic regression analysis. Model 1 will include only preprocedural&#xD;
+      variables, while Model 2 will also include procedural variables. A weighted integer score&#xD;
+      based on the effect estimate of each independent variable will be used to calculate the final&#xD;
+      risk score for each patient. Impact on 1-year mortality of CA-AKI occurrence will be also&#xD;
+      evaluated with Cox regression analysis. Multivariable Cox regression analysis will be also&#xD;
+      performed to look for independent association of CA-AKI occurrence with mortality.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 1, 2012</start_date>
+  <completion_date type="Actual">September 1, 2021</completion_date>
+  <primary_completion_date type="Actual">January 2, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of patients developing Contrast-Associated Acute Kidney Injury</measure>
+    <time_frame>48 hours after PCI</time_frame>
+    <description>Contrast-Associated Acute Kidney Injury was defined according to the AKIN as an increase by ≥50% or ≥0.3mg/dl within 48 hours after PCI compared to pre-PCI serum creatinine</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of all-cause death</measure>
+    <time_frame>1 year after PCI</time_frame>
+    <description>Death from all-cause</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">14616</enrollment>
+  <condition>Contrast-induced Nephropathy</condition>
+  <arm_group>
+    <arm_group_label>Patients with CA-AKI occurrence</arm_group_label>
+    <description>Occurrence of CA-AKI as defined by the Acute Kidney Injury Network definition</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients without CA-AKI occurrence</arm_group_label>
+    <description>No occurrence of CA-AKI as defined by the Acute Kidney Injury Network definition</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Percutaneous Coronary Intervention</intervention_name>
+    <description>Percutaneous Coronary Intervention is a catheter based technique widely used to restore coronary vessel patency. It is performed by fluoroscopic guidance and it requires the use of iodinated contrast medium. The use of iodinated contrast media has been historically linked to AKI occurring within days after their administration and typically referred to as CA-AKI. Furthermore, CA-AKI has been associated with long-term impairment of kidney function, need for renal replacement therapy, and subsequent all-cause mortality.</description>
+    <arm_group_label>Patients with CA-AKI occurrence</arm_group_label>
+    <arm_group_label>Patients without CA-AKI occurrence</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with coronary artery disease have rather high prevalence of comorbidities&#xD;
+        associated with increased risk of CA-AKI, and those undergoing PCI may also sustain acute&#xD;
+        hemodynamic disturbances that further raise the risk of CA-AKI. All patients undergoing PCI&#xD;
+        at the Mount Sinai Hospital, New York, NY, have been screened for inclusion in the present&#xD;
+        analysis. No limits were set for age, sex and comorbidities (except for end-stage renal&#xD;
+        disease requiring dyalisis).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  patients undergoing PCI&#xD;
+&#xD;
+          -  patients with documented serum creatinine both pre- procedure and within 48 hours&#xD;
+             after PCI&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  patients who expired within 48 hours after PCI&#xD;
+&#xD;
+          -  patients with pre-existing end-stage renal disease requiring dialysis&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Roxana Mehran, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Icahn School of Medicine at Mount Sinai</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Icahn School of Medicine at Mount Sinai</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Mettler FA Jr, Mahesh M, Bhargavan-Chatfield M, Chambers CE, Elee JG, Frush DP, Miller DL, Royal HD, Milano MT, Spelic DC, Ansari AJ, Bolch WE, Guebert GM, Sherrier RH, Smith JM, Vetter RJ. Patient Exposure from Radiologic and Nuclear Medicine Procedures in the United States: Procedure Volume and Effective Dose for the Period 2006-2016. Radiology. 2020 May;295(2):418-427. doi: 10.1148/radiol.2020192256. Epub 2020 Mar 17.</citation>
+    <PMID>32181730</PMID>
+  </reference>
+  <reference>
+    <citation>Seeliger E, Sendeski M, Rihal CS, Persson PB. Contrast-induced kidney injury: mechanisms, risk factors, and prevention. Eur Heart J. 2012 Aug;33(16):2007-15. doi: 10.1093/eurheartj/ehr494. Epub 2012 Jan 19. Review.</citation>
+    <PMID>22267241</PMID>
+  </reference>
+  <reference>
+    <citation>McDonald JS, McDonald RJ, Williamson EE, Kallmes DF, Kashani K. Post-contrast acute kidney injury in intensive care unit patients: a propensity score-adjusted study. Intensive Care Med. 2017 Jun;43(6):774-784. doi: 10.1007/s00134-017-4699-y. Epub 2017 Feb 17. Erratum in: Intensive Care Med. 2017 Jun;43(6):956.</citation>
+    <PMID>28213620</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 24, 2021</study_first_posted>
+  <last_update_submitted>November 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Icahn School of Medicine at Mount Sinai</investigator_affiliation>
+    <investigator_full_name>Roxana Mehran</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Kidney Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

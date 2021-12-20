@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="6009">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05083000</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TOTORO1</org_study_id>
+    <nct_id>NCT05083000</nct_id>
+  </id_info>
+  <brief_title>Reducing Hypoxia in Patients With Coronavirus Disease (COVID-19) Using Topotecan With Standard of Care</brief_title>
+  <official_title>Phase I Dose-escalation Study of Topotecan in Moderate-severe COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National University Hospital, Singapore</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Christian Medical College, Vellore, India</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National University Hospital, Singapore</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of the phase 1 trial is to identify a dose of topotecan that will be&#xD;
+      safe to take forward into a Phase 2 trial, with no unexpected toxicities or drug-drug&#xD;
+      interactions with standard therapy for COVID-19. The investigators hypothesise that a single&#xD;
+      dose of low-dose Topotecan will blunt the expression of inflammatory genes in patients with&#xD;
+      moderate COVID-19, without cytotoxic side effects.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      4 fixed dosing levels (0.25 -0.5mg) of Topotecan will be evaluated in this trial, using&#xD;
+      sub-cytotoxic doses of Topotecan which are well below typical chemotherapy levels and shown&#xD;
+      not to cause myelosuppression in previously tested populations. The dose escalation will be&#xD;
+      in a standard 3+3 dose escalation design with 0.25 mg increments of Topotecan. The study aims&#xD;
+      to establish the recommended phase 2 dose (RP2D) of Topotecan in hypoxic patients with&#xD;
+      moderate to severe COVID-19.The RP2D is defined as the maximum safe dose at which 3 or more&#xD;
+      patients are found to have clinically relevant concentrations of Topotecan in the blood&#xD;
+      stream, without reaching anti-cancer concentrations in plasma (defined as Area under the&#xD;
+      curve (AUC)&gt;150000) and without causing Grade 2/3/4 neutropenia (CTCAE5).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 16, 2021</start_date>
+  <completion_date type="Anticipated">March 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>The dose escalation will be in a standard 3+3 dose escalation design with 0.25mg increments of Topotecan; it will begin with a single dose 0.25mg for 3 patients-expanded to another 3 if no toxicities are seen. Subsequent dose levels will be 2 doses of 0.25mg, a single dose of 0.5mg and then 2 doses of 0.5mg (maximum of 24 patients).</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximal tolerable dose of Topotecan</measure>
+    <time_frame>24 hours and 14 days from the time of Topotecan administration</time_frame>
+    <description>To determine a maximal dose of Topotecan, at which less than 1 out of 3 patients exhibit anti-cancer concentrations in plasma, or have G2/3/4 neutropenia</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of reduction in the duration of supplemental oxygen requirement in participants</measure>
+    <time_frame>1 week from administration of Topotecan</time_frame>
+    <description>Determine effect of Topotecan on duration of additional oxygen requirements</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of treatment related CTCAE grade 3/4 haematological toxicity</measure>
+    <time_frame>Up to Day 10 from Topotecan administration</time_frame>
+    <description>Dose limiting toxicities will be graded using CTCAE version 5.0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participant with Serious Adverse Events</measure>
+    <time_frame>Within 14 days from Topotecan administration</time_frame>
+    <description>Serious Adverse Events experience by subject after Topotecan administration (related and unrelated).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients requiring ICU care</measure>
+    <time_frame>28 days from Topotecan administration</time_frame>
+    <description>Number of patients requiring intubation/inotropic/vasopressor support</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients requiring mechanical ventilation</measure>
+    <time_frame>28 days from Topotecan administration</time_frame>
+    <description>Number of patients requiring mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to discharge</measure>
+    <time_frame>28 days from Topotecan administration</time_frame>
+    <description>Time to hospital discharge in days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with secondary infections</measure>
+    <time_frame>28 days from Topotecan administration</time_frame>
+    <description>Number of patients with secondary infections</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients who died after enrolment into trial</measure>
+    <time_frame>28 days from Topotecan administration</time_frame>
+    <description>Death from related and unrelated causes</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">24</enrollment>
+  <condition>COVID-19 Respiratory Infection</condition>
+  <arm_group>
+    <arm_group_label>Topotecan</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subject will receive Topotecan as a single dose or 2 consecutive doses given via intravenous (IV). The starting dose level of Topotecan is 0.25mg. Subsequent dose levels will be 2 doses of 0.25mg, a single dose of 0.5mg and then 2 doses of 0.5mg.&#xD;
+Standard of care treatments for COVID-19 will be given together if available as per the following protocol:&#xD;
+IV Dexamethasone 6mg once daily for at least 5 days and not more than 10 days.&#xD;
+IV Remdesivir 200mg loading dose on day 1 followed by 100mg once daily for 4 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Topotecan</intervention_name>
+    <description>Topotecan hydrochloride is a semi-synthetic derivative of camptothecin and is an anti-tumor drug with topoisomerase I-inhibitor activity. It is a well-established chemotherapeutic agent used for cancer treatment.</description>
+    <arm_group_label>Topotecan</arm_group_label>
+    <other_name>Topotecan hydrochloride</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection confirmed by at&#xD;
+             least 1 positive Polymerase Chain Reaction (PCR) test&#xD;
+&#xD;
+          -  Moderate COVID as evidenced by Oxygen saturation &lt;93% on room air (or &lt;88% if prior&#xD;
+             CLD)&#xD;
+&#xD;
+          -  Admission to emergency department for monitoring and/or supportive care:&#xD;
+&#xD;
+          -  The following biochemical markers:&#xD;
+&#xD;
+          -  Absolute neutrophil count (ANC) ≥ 1.5 x 109/L. Platelets ≥ 100 x 109/L, Haemoglobin ≥&#xD;
+             9x 109/L.&#xD;
+&#xD;
+          -  Bilirubin &lt; 1.5 times upper limit of normal (ULN). Alanine aminotransferase (ALT) and&#xD;
+             Aspartate Aminotransferase (AST) &lt; 2.5 times ULN.&#xD;
+&#xD;
+          -  Calculated creatinine clearance of ≥ 30ml/min calculated using the formula of&#xD;
+             Cockcroft and Gault: (140-age) x mass (kg)/)72x creatinine mg/dl); multiple by 0.85 if&#xD;
+             female.&#xD;
+&#xD;
+          -  Laboratory features of cytokine release, as defined by any 1 of the following:&#xD;
+&#xD;
+             i. C-reactive protein (CRP)&gt; 75mg/L ii. Lactate Dehydrogenase (LDH) &gt; ULN iii. D-dimer&#xD;
+             &gt; 1.0 mg/L iv. Ferritin &gt; 500ng/ml v. Elevated Interleukin-6 levels&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients requiring mechanical ventilation&#xD;
+&#xD;
+          -  Any immunosuppressive medication including chemotherapy(excluding steroids)&#xD;
+             administered concurrently or within last 14 days.&#xD;
+&#xD;
+          -  Patients with uncontrolled diabetes mellitus (HbA1C within 1 month &gt;8)&#xD;
+&#xD;
+          -  Pregnancy or Breastfeeding.&#xD;
+&#xD;
+          -  Known allergy to Topotecan. Unconjugated hyperbilirubinemia on a fasting Liver&#xD;
+             Function Test (LFT), which can indicate Gilberts Syndrome.&#xD;
+&#xD;
+          -  Suspected active bacterial, fungal, or other infection in addition to COVID-19.&#xD;
+&#xD;
+          -  Any condition that would, in the opinion of the Investigator, increase the risk of the&#xD;
+             participant&#xD;
+&#xD;
+          -  by participating in the study.&#xD;
+&#xD;
+          -  Inability to provide consent.&#xD;
+&#xD;
+          -  Unable to comply with study procedures.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anand JEYASEKHARAN</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National University Hospital, Singapore</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Anand JEYASEKHARAN</last_name>
+    <phone>+65 6779 5555</phone>
+    <email>anand_jeyasekharan@nuhs.edu.sg</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Anand JEYASEKHARAN</last_name>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Christian Medical College</name>
+      <address>
+        <city>Vellore</city>
+        <state>Tamil Nadu</state>
+        <zip>632004</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ajoy Oommen John</last_name>
+      <phone>+91 7639195315</phone>
+      <email>ajoyoommenjohn@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ashish Singh</last_name>
+      <email>todrashish@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ashish Singh</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>India</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>October 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 19, 2021</study_first_posted>
+  <last_update_submitted>October 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Topotecan</keyword>
+  <keyword>hypoxia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Respiratory Tract Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Topotecan</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

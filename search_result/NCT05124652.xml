@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2805">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05124652</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00009418</org_study_id>
+    <nct_id>NCT05124652</nct_id>
+  </id_info>
+  <brief_title>An Automatically Adjusting Prosthetic Socket for People With Transtibial Amputation</brief_title>
+  <official_title>An Automatically Adjusting Prosthetic Socket for People With Transtibial Amputation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Washington</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Washington</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      People with leg amputations often experience daily changes in the size (volume) of their&#xD;
+      residual limb. These daily changes can cause a prosthesis to fit poorly. They can also cause&#xD;
+      limb problems like pain or skin breakdown. Prosthetic socket systems that accommodate limb&#xD;
+      volume changes can help address these issues, but they require users to make adjustments&#xD;
+      throughout the day. The aim of this research is to create a system that will automatically&#xD;
+      adjust the fit of the socket and create a well-fitting prosthesis for people with leg&#xD;
+      amputations who experience volume fluctuations when using their prosthesis.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 18, 2021</start_date>
+  <completion_date type="Anticipated">June 2027</completion_date>
+  <primary_completion_date type="Anticipated">December 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>All aims will be conducted as randomized control trials and test various developments to the auto adjusting system, with each previous aim informing the next.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Socket Comfort Score</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Participants in Aim 2 and Aim 3 will test various configurations of the auto adjustment algorithm. Socket comfort score will be asked at various time points during testing, and overall changes in this metric will be calculated from the start and end of session.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Integral Absolute Error of Control System</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Calculated error will be measured through each test session, both in and out of lab.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Thermal Recovery Time (TRT)</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>An infrared (IR) camera will measure residual limb thermal recovery time at the beginning and end of testing--following at least 5 minutes of walking.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent change in Limb Fluid Volume</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Participant's limb fluid volume will be measured during the structured in-lab protocol (Aim 2), and changes will be compared against an initial reference point of activity during which no interventions will take place.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Lower Limb Amputation Below Knee (Injury)</condition>
+  <condition>Diurnal Residual Limb Fluid Volume Fluctuation</condition>
+  <arm_group>
+    <arm_group_label>Focus Group Testing</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Focus group testing of key-fob device to control adjusting socket system</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>In-Lab, Crossover Study</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Testing of auto-adjusting algorithm in-lab. Participants will carry out a structured protocol wearing the socket in all modes. Order will be randomly assigned.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Out-of-Lab Crossover Study</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Evaluate socket performance in user free-living environments. Participants will use the prosthesis in all modes by end of study, order will be randomly assigned.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Auto Adjusting Prosthesis</intervention_name>
+    <description>Participants will test the auto adjusting prosthesis. The prosthesis will be able to move up to 3 panels built into the socket walls to expand or tighten the socket's fit. The auto adjustments will take place during periods of sitting, standing, or walking. Manual adjustments will also be possible either via the researcher controlling the prosthesis or via the key fob developed in the first aim.</description>
+    <arm_group_label>In-Lab, Crossover Study</arm_group_label>
+    <arm_group_label>Out-of-Lab Crossover Study</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18 or older (Prosthetists and Prosthesis Users)&#xD;
+&#xD;
+          -  must have certification and regularly treat patients with trans-tibial limb loss in a&#xD;
+             clinical setting (Prosthetists only)&#xD;
+&#xD;
+          -  had a trans-tibial amputation at least 12 months prior (prosthesis users only)&#xD;
+&#xD;
+          -  regularly use a definitive prosthesis with pin lock suspension and few or no pads&#xD;
+             (prosthesis users only)&#xD;
+&#xD;
+          -  self-report experiencing limb volume fluctuation in the past (prosthesis users only)&#xD;
+&#xD;
+          -  have residual limb length of at least 9 cm (prosthesis users, Aim 2 and Aim 3 only)&#xD;
+&#xD;
+          -  walk at least 5 continuous minutes and intermittently at least 1 hour (prosthesis&#xD;
+             users, Aim 2 and Aim 3 only)&#xD;
+&#xD;
+          -  capable of distinguishing socket sizes too large and too small to be tolerated&#xD;
+             (Prosthetists and Prosthesis Users)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Are not certified prosthetists (prosthetists only)&#xD;
+&#xD;
+          -  neuropathy (prosthesis users only)&#xD;
+&#xD;
+          -  reduced skin sensation (prosthesis users only)&#xD;
+&#xD;
+          -  regular use of an assisted device (prosthesis users only)&#xD;
+&#xD;
+          -  sores or skin breakdown on their residual limb (prosthesis users, Aim 2 and Aim 3&#xD;
+             only)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Joan E Sanders, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Washington</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Katheryn Allen, CPO</last_name>
+    <phone>206-390-0228</phone>
+    <email>kate@allyn.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Daniel Ballesteros</last_name>
+    <email>danielb25@uw.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>William H. Foege Hall</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Katheryn Allyn</last_name>
+      <phone>206-390-0228</phone>
+      <email>kate@allyn.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 18, 2021</study_first_posted>
+  <last_update_submitted>November 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Washington</investigator_affiliation>
+    <investigator_full_name>Joan Sanders</investigator_full_name>
+    <investigator_title>Professor: Engineering</investigator_title>
+  </responsible_party>
+  <keyword>amputee</keyword>
+  <keyword>prosthetic</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

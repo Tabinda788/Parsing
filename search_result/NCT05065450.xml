@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7359">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05065450</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202104033</org_study_id>
+    <nct_id>NCT05065450</nct_id>
+  </id_info>
+  <brief_title>Amygdala Memory Enhancement</brief_title>
+  <official_title>Mechanisms of Amygdala-Mediated Memory Enhancement in Humans</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective is to understand how amygdala activation affects other medial temporal lobe&#xD;
+      structures to prioritize long-term memories. The project is relevant to disorders of memory&#xD;
+      and to disorders involving affect and memory, including traumatic brain injury and&#xD;
+      post-traumatic stress disorder.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Direct electrical stimulation (DES) of the basolateral complex of the amygdala (BLA) can&#xD;
+      improve declarative memory, reflecting the role of the BLA in modulating memory processes in&#xD;
+      medial temporal lobe (MTL) regions as a function of emotional arousal. Thus, DES can reveal&#xD;
+      mechanisms of BLA-mediated memory enhancement relevant to human mental health and disease.&#xD;
+      DES of the BLA can be used to interrogate the function of memory circuits, especially how&#xD;
+      neuronal oscillations in the MTL support declarative memory. First, BLA is hypothesized to&#xD;
+      wield the capacity to prioritize long-term retention of information initially encountered&#xD;
+      adjacent in time over days and weeks after encoding. Second, the BLA preferentially projects&#xD;
+      to anterior MTL regions and thus is hypothesized to preferentially modulate memory processes&#xD;
+      in those anatomic regions, processes thought to support memory for non-spatial items more so&#xD;
+      than memory for spatial locations. Third, although emotional arousal, amygdala activity, MTL&#xD;
+      activity, and memory performance are typically correlated, the investigators hypothesize that&#xD;
+      DES will reveal that BLA outputs to other MTL regions cause improved memory performance by&#xD;
+      directly eliciting pro-memory oscillatory states in those networks. The expected outcomes&#xD;
+      represent a significant advancement for the basic science of normal memory function and&#xD;
+      significant movement towards novel therapeutics designed to emulate endogenous mechanisms of&#xD;
+      memory enhancement.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2021</start_date>
+  <completion_date type="Anticipated">November 1, 2027</completion_date>
+  <primary_completion_date type="Anticipated">November 1, 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Free recall memory discriminability index (proportion recalled)</measure>
+    <time_frame>5 years</time_frame>
+    <description>Proportion of items (objects, associations, and scenes) accurately recalled during the delayed recall trial will be compared with and without BLAES for each participant in a within subject design. Subsets of items may be tested after durations up to a month after initial presentation.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Recognition memory discriminability index (proportion recalled)</measure>
+    <time_frame>5 years</time_frame>
+    <description>Proportion of items (objects, associations, and scenes) accurately recognized during the delayed recognition trial will be compared with and without BLAES for each participant in a within subject design. Subsets of items may be tested after durations up to a month after initial presentation.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Location of single pulse evoked potential (SPEP) response to amygdala stimulation</measure>
+    <time_frame>5 years</time_frame>
+    <description>Measured by presence of the evoked potential in different brain subregions (hippocampus, entorhinal cortex, perirhinal cortex, and parahippocampal cortex).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Amplitude of SPEP response to amygdala stimulation</measure>
+    <time_frame>5 years</time_frame>
+    <description>Measured in microvolts.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Latency of SPEP response to amygdala stimulation</measure>
+    <time_frame>5 years</time_frame>
+    <description>Measured in milliseconds.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Local field potential (LFP) of good memory state</measure>
+    <time_frame>5 years</time_frame>
+    <description>Measured by relative power spectral frequency recorded at time of item presentation that predicts accurate subsequent memory performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>LFP of bad memory state</measure>
+    <time_frame>5 years</time_frame>
+    <description>Measured by relative power spectral frequency recorded at the time of item presentation that predicts inaccurate subsequent memory performance</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>Brain Diseases</condition>
+  <condition>Epilepsy</condition>
+  <condition>Memory Disorders</condition>
+  <condition>Traumatic Brain Injury</condition>
+  <condition>Cognitive Impairment</condition>
+  <condition>Post Traumatic Stress Disorder</condition>
+  <arm_group>
+    <arm_group_label>Brain Stimulation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Neurosurgical epilepsy patients that undergo placement of medial temporal electrode for seizure localizations will be recruited. All participants will view a series of images of emotionally-neutral objects on a computer screen. After each item presentation, they will randomly undergo either active-BLAES or sham-stimulation. Over subsequent days, free recall and recognition memory for these items, relative to new distractor items will be tested. Memory for items presented with and without stimulation will be compared. Brain activity recorded in the medial temporal lobe during item presentations will be used to predict subsequent memory. Such good and bad memory states (biomarkers) will be used to perform closed-loop stimulation when bad memory states are detected in order to enhance subsequent memory.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Intracranial Stimulation</intervention_name>
+    <description>Electrodes localized to the BLA will be stimulated with either active-BLAES (0.5-3.5 mA, theta-modulated gamma burst) electrical stimulation for a 1-sec duration immediately following item image presentation or sham-BLAES (zero-amplitude). At later stages of the project, stimulation parameters and timing will be varied and triggered not at random, but by real-time closed-loop analysis of memory biomarkers in the medial temporal lobe.</description>
+    <arm_group_label>Brain Stimulation</arm_group_label>
+    <other_name>Device: ACTIVE basal lateral amygdala electrical stimulation (Active-BLAES)</other_name>
+    <other_name>Device: SHAM basal lateral amygdala electrical stimulation (Sham-BLAES)</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Must be able to understand and speak English.&#xD;
+&#xD;
+          -  Able to provide informed consent.&#xD;
+&#xD;
+          -  Diagnosed with epilepsy.&#xD;
+&#xD;
+          -  Scheduled to undergo long-term intra-cranial video monitoring for seizure onset&#xD;
+             localization.&#xD;
+&#xD;
+          -  Must be implanted with intracranial depth electrodes to the left or right amygdala,&#xD;
+             hippocampus, and parahippocampal/perirhinal cortices.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Unable to understand and speak English.&#xD;
+&#xD;
+          -  Unable to provide informed consent.&#xD;
+&#xD;
+          -  Not diagnosed with epilepsy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>John Evans, RN</last_name>
+    <phone>314-574-8065</phone>
+    <email>johnaevans@wustl.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sophie Church</last_name>
+    <phone>917-699-9097</phone>
+    <email>sophie.church@wustl.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Evans, RN</last_name>
+      <phone>314-574-8065</phone>
+      <email>johnaevans@wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jon T Willie, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Inman CS, Manns JR, Bijanki KR, Bass DI, Hamann S, Drane DL, Fasano RE, Kovach CK, Gross RE, Willie JT. Direct electrical stimulation of the amygdala enhances declarative memory in humans. Proc Natl Acad Sci U S A. 2018 Jan 2;115(1):98-103. doi: 10.1073/pnas.1714058114. Epub 2017 Dec 18.</citation>
+    <PMID>29255054</PMID>
+  </reference>
+  <reference>
+    <citation>Manns JR, Bass DI. The amygdala and prioritization of declarative memories. Curr Dir Psychol Sci. 2016 Aug;25(4):261-265.</citation>
+    <PMID>27721578</PMID>
+  </reference>
+  <reference>
+    <citation>Bass DI, Manns JR. Memory-enhancing amygdala stimulation elicits gamma synchrony in the hippocampus. Behav Neurosci. 2015 Jun;129(3):244-56. doi: 10.1037/bne0000052.</citation>
+    <PMID>26030426</PMID>
+  </reference>
+  <reference>
+    <citation>Bass DI, Nizam ZG, Partain KN, Wang A, Manns JR. Amygdala-mediated enhancement of memory for specific events depends on the hippocampus. Neurobiol Learn Mem. 2014 Jan;107:37-41. doi: 10.1016/j.nlm.2013.10.020. Epub 2013 Nov 8.</citation>
+    <PMID>24211699</PMID>
+  </reference>
+  <reference>
+    <citation>Bass DI, Partain KN, Manns JR. Event-specific enhancement of memory via brief electrical stimulation to the basolateral complex of the amygdala in rats. Behav Neurosci. 2012 Feb;126(1):204-8. doi: 10.1037/a0026462. Epub 2011 Dec 5.</citation>
+    <PMID>22141467</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>August 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 4, 2021</study_first_posted>
+  <last_update_submitted>November 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Brain Injuries</mesh_term>
+    <mesh_term>Brain Injuries, Traumatic</mesh_term>
+    <mesh_term>Brain Diseases</mesh_term>
+    <mesh_term>Memory Disorders</mesh_term>
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Stress Disorders, Traumatic</mesh_term>
+    <mesh_term>Stress Disorders, Post-Traumatic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

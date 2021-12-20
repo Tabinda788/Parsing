@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8922">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05045105</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NP4628</org_study_id>
+    <nct_id>NCT05045105</nct_id>
+  </id_info>
+  <brief_title>Timing of Invasive Intracranial Pressure Monitoring Between Neurosurgeons and Intensive Care Physicians</brief_title>
+  <acronym>TIMING-ICP</acronym>
+  <official_title>Timing of Invasive Intracranial Pressure Monitoring Between Neurosurgeons and Intensive Care Physicians</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Università degli Studi di Brescia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Università degli Studi di Brescia</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Invasive intracranial pressure monitoring takes on essential importance in patients with&#xD;
+      traumatic brain injury and in all cerebral pathologies in which intracranial hypertension is&#xD;
+      the main cause of death.&#xD;
+&#xD;
+      Prolonged Intracranial Hypertension has been related to poor outcome and its occurrence has&#xD;
+      therefore to be assessed as soon as possible.&#xD;
+&#xD;
+      Invasive intracranial pressure monitoring performed by placing an intracerebral catheter is&#xD;
+      currently the gold standard technique for continuous ICP invasive monitoring. This maneuver&#xD;
+      has usually been performed by neurosurgeons, but recently this procedure has more often been&#xD;
+      carried out by intensivists, at the bedside.&#xD;
+&#xD;
+      Management of intracranial pressure handling and treatment is currently achieved by joint&#xD;
+      decisions between neurosurgeons and intensive care physicians, but differences in logistic&#xD;
+      matters and in the executive availability could impact on the dose of intracranial pressure&#xD;
+      to which patient is exposed.&#xD;
+&#xD;
+      The aim of this study is to compare timing of invasive intracranial pressure monitoring&#xD;
+      placement performed by intensive care physicians and neurosurgeons and to detect possible&#xD;
+      differences in the incidence of complications between the two groups.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This perspective, multicentric and observational study will enroll patients at risk for&#xD;
+      developing intracranial hypertension, for whom it is thought invasive ICP monitoring is&#xD;
+      crucial for achieving the most appropriate treatment.&#xD;
+&#xD;
+      Indication to invasive ICP monitoring and its modalities will be set through a joint decision&#xD;
+      between neurosurgeons and intensive care physician, which will be led by clinical and&#xD;
+      instrumental data.&#xD;
+&#xD;
+      This study will be carried out in Intensive Care Unit and in Neurosurgery department.&#xD;
+&#xD;
+      Sample size assessment:&#xD;
+&#xD;
+      Sample size assessment has been performed by Monte Carlo simulation (B=500). Assuming a&#xD;
+      timing decrease (T2-T1) of 20 minutes in the procedure carried out by an intensivist compared&#xD;
+      to a neurosurgeon, with a mean time of 100 minutes, a standard deviation between center and&#xD;
+      intra-center of 10 minutes, 16 centers, each one with the same number of patients and a&#xD;
+      balance 1:1 between the two groups (intensivist:neurosurgeon), a total number of 64 patients&#xD;
+      (32 treated by intensivists and 32 by neurosurgeons), it allows us to evaluate the interest&#xD;
+      effect with a power of at least 95%, and a significance level of 5%.&#xD;
+&#xD;
+      This elevated power has been decided according to the simplicity of the assumed design (same&#xD;
+      number of entities and conditions for center) and not evaluable in his real configuration.&#xD;
+&#xD;
+      Statistical analysis plan:&#xD;
+&#xD;
+      Delta time in the placement of invasive ICP monitoring is assumed as T2-T1, declared in&#xD;
+      minutes.&#xD;
+&#xD;
+      Typology operator (neurosurgeon vs intensivist) impact on delta time will be evaluated&#xD;
+      through a multilevel model elaborated with a linear mixed model. The model will assume the&#xD;
+      center in which the maneuver is carried out as clustering factor. The place where the&#xD;
+      maneuver is carried out (intensive care unit vs operating room) and the confidence in&#xD;
+      performing the procedure (routine vs sporadic, defined as less than 5 times a year) will be&#xD;
+      assumed as covariates.&#xD;
+&#xD;
+      The incidence of complications, valued as a binary variable, will be evaluated through&#xD;
+      logistic model GLMM (generalized linear mixed model) with the organization exposed in the&#xD;
+      dedicated data element.&#xD;
+&#xD;
+      Timings are defined as:&#xD;
+&#xD;
+        -  T0: suspect of pathology at risk for developing intracranial hypertension&#xD;
+&#xD;
+        -  T1: neurointensive and neurosurgical indication to invasive ICP monitoring (it can be&#xD;
+           the time when brain CT is performed or, in the absence of a brain CT, the time at which&#xD;
+           indication to invasive ICP monitoring is stated)&#xD;
+&#xD;
+        -  T2: skin incision at skull for BOLT/EVD placement&#xD;
+&#xD;
+      Place of positioning:&#xD;
+&#xD;
+      The place (intensive care unit or operating room) where the procedure is carried out must be&#xD;
+      declared.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 27, 2021</start_date>
+  <completion_date type="Anticipated">May 3, 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 3, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To compare timing of invasive intracranial pressure monitoring performed by intensive care physicians and neurosurgeons</measure>
+    <time_frame>The time frame, will be from when the suspicion of a potential increase in ICP is given to when the actual skin incision for the insertion of the invasive catheter placement is performed. From indication up to 5 hours.</time_frame>
+    <description>The time frame, which also represents the main outcome of this study, is defined as the time-difference between the moment when indication of invasive ICP monitoring is given and the moment when the skin incision is performed for ICP monitoring placement.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Comparative evaluation of post-procedural complications between intensivists and neurosurgeons</measure>
+    <time_frame>procedure to hospital discharge (in case of malfunction of the catheter, time is up to 12 hours after placement)</time_frame>
+    <description>Comparative evaluation of post-procedural complications (meningitis, catheter-placement related bleedings, wrong placement) between intensivists and neurosurgeons</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of ICU stay</measure>
+    <time_frame>ICU admission to discharge, up to 30 days</time_frame>
+    <description>Length of ICU stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>length of hospital stay</measure>
+    <time_frame>hospital admission to discharge, up to 30 days</time_frame>
+    <description>length of hospital stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>duration of mechanical ventilation</measure>
+    <time_frame>from initiation of mechanical ventilation to weaning from the ventilator, up to 30 days.</time_frame>
+    <description>duration of mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glasgow Outcome Score at 3 months</measure>
+    <time_frame>3 months after the acute event</time_frame>
+    <description>Glasgow Outcome Score</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">64</enrollment>
+  <condition>Intracranial Hypertension</condition>
+  <condition>Timing of Invasive Intracranial Pressure Monitoring</condition>
+  <arm_group>
+    <arm_group_label>ICU physicians</arm_group_label>
+    <description>Intensive Care physicians who will apply the method of invasive insertion of the intracerebral catheter for ICP monitoring</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Neurosurgeons</arm_group_label>
+    <description>Neurosurgeons who will apply the method of invasive insertion of the intracerebral catheter for ICP monitoring</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Time necessary for ICP catheter placement by Intensive Care Physician vs Neurosurgeon following indication</intervention_name>
+    <description>Time necessary for ICP catheter placement by Intensive Care Physician vs Neurosurgeon following indication and complications related to the maneuver between the two cohorts will be evaluated and compared.</description>
+    <arm_group_label>ICU physicians</arm_group_label>
+    <arm_group_label>Neurosurgeons</arm_group_label>
+    <other_name>Complications related to the maneuver between the two cohorts</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All acute brain Injured patients with urgent indication for invasive intracranial pressure&#xD;
+        monitoring&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All patients with acute cerebral pathology with urgent indication to invasive&#xD;
+             intracranial pressure monitoring (intraparenchymal and intraventricular)&#xD;
+&#xD;
+          -  Age greater than or equal to 18 years&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients in whom indication to intraventricular catheter placement is stated for&#xD;
+             reasons other than the need of ICP monitoring (e.g. CSF drainage)&#xD;
+&#xD;
+          -  Patients in whom indication to invasive intracranial pressure monitoring is not an&#xD;
+             urgent request&#xD;
+&#xD;
+          -  Patients in whom a significative coagulation disorder is a contraindication for&#xD;
+             procedure&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Frank Rasulo</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Università degli Studi di Brescia</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Frank A Rasulo</last_name>
+    <phone>+39 3393366290</phone>
+    <email>frank.rasulo@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Giovanni Chiarini</last_name>
+    <phone>+39 3473926790</phone>
+    <email>giovanni.chiarini88@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Ospedale &quot;M. Bufalini&quot;, Intensive Care Unit (U.O. Anestesia e Rianimazione), Neurosurgery Unit (U.O. Neurochirurgia)</name>
+      <address>
+        <city>Cesena</city>
+        <state>Forlì-Cesena</state>
+        <zip>47521</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Emanuele Russo</last_name>
+      <email>lelegaiola@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Socio Sanitaria Territoriale Ovest Milanese (Neurosurgery Unit)</name>
+      <address>
+        <city>Legnano</city>
+        <state>Milano</state>
+        <zip>20025</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Roberto Stefini</last_name>
+      <email>roberto.stefini@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Paola Fassini</last_name>
+      <email>paola.fassini@asst-ovestmi.it</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Papa Giovanni XXIII, Intensive Care Unit (U.O. Anestesia e rianimazione 2), Neurosurgery Unit (U.O. Neurochirurgia)</name>
+      <address>
+        <city>Bergamo</city>
+        <zip>24127</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Paolo Gritti</last_name>
+      <email>grittip@libero.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Spedali Civili di Brescia, Neurosurgery Unit (U.O. Neurochirugia)</name>
+      <address>
+        <city>Brescia</city>
+        <zip>25123</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Antonio Biroli</last_name>
+      <email>biroli.francesco@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Lucio De Maria</last_name>
+      <email>luciodemaria@gmail.com</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Spedali Civili, Neuro Critical Care Unit (U.O. Anestesia e Rianimazione 2)</name>
+      <address>
+        <city>Brescia</city>
+        <zip>25123</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Frank Rasulo</last_name>
+      <email>frank.rasulo@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Giovanni Chiarini</last_name>
+      <phone>+39 3473926790</phone>
+      <email>giovanni.chiarini88@gmail.com</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Sant'Anna e San Sebastiano di Caserta (Neurosurgery Unit)</name>
+      <address>
+        <city>Caserta</city>
+        <zip>81100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Nadia Zarrillo</last_name>
+      <email>nadia.zarrillo@libero.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Sant'Anna di Como, Intensive Care Unit (U.O. Anestesia e Rianimazione 2), Neurosurgery Unit (U.O. Neurochirurgia)</name>
+      <address>
+        <city>Como</city>
+        <zip>22100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Simone Zerbi</last_name>
+      <email>smzerbi@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Policlinico San Martino (Neurosurgery Unit)</name>
+      <address>
+        <city>Genova</city>
+        <zip>16132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Chiara Robba</last_name>
+      <email>kiarobba@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Santa Maria Goretti (Neurosurgery Unit)</name>
+      <address>
+        <city>Latina</city>
+        <zip>04100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Angelo Pompucci</last_name>
+      <email>angelo.pompucci@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale A. Manzoni (Intensive Care Unit and Neurosurgery Unit)</name>
+      <address>
+        <city>Lecco</city>
+        <zip>23900</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Andrea Forastieri</last_name>
+      <email>a.forastieri@asst-lecco.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Civile di Baggiovara (Neurosurgery Unit)</name>
+      <address>
+        <city>Modena</city>
+        <zip>41126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Corrado Iaccarino</last_name>
+      <email>iaccarino.corrado@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Santa Maria di Loreto Nuovo, Intensive Care Unit (U.O.C. di Terapia Intensiva e Rianimazione), Neurosurgery Unit (U.O.C. Neurochirurgia)</name>
+      <address>
+        <city>Napoli</city>
+        <zip>80142</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Roberta Toto</last_name>
+      <email>rtoto@libero.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedale Università Padova (Neurosurgery Unit)</name>
+      <address>
+        <city>Padova</city>
+        <zip>35128</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Marina Munari</last_name>
+      <email>marina.munari@aopd.veneto.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico San Matteo, Intensive Care Unit (U.O. Anestesia e rianimazione 2), Neurosurgery Unit (U.O. Neurochirurgia)</name>
+      <address>
+        <city>Pavia</city>
+        <zip>27100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Danila Radolovich</last_name>
+      <email>iperdany@hotmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico Universitario Agostino Gemelli (Neurosurgery unit)</name>
+      <address>
+        <city>Roma</city>
+        <zip>00168</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Anselmo Caricato</last_name>
+      <email>anselmo.Caricato@unicatt.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Città della Salute e della Scienza, Intensive Care Unit (U.O. Anestesia e Rianimazione), Neurosurgery Unit (U.O. Neurochirurgia)</name>
+      <address>
+        <city>Torino</city>
+        <zip>10126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Maurizio Berardino</last_name>
+      <email>maurizio_berardino@fastwebnet.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Presidio Ospedaliero Universitario Santa Maria della Misericordia, Intensive Care Unit (U.O. Anestesia e Rianimazione), Neurosurgery Unit</name>
+      <address>
+        <city>Udine</city>
+        <zip>33100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Cristian Deana</last_name>
+      <email>deana.cristian@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Universitaria Integrata Verona (Neurosurgery Unit)</name>
+      <address>
+        <city>Verona</city>
+        <zip>37126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Domenico Gelormini</last_name>
+      <email>dgelor@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Marilena Liviero</last_name>
+      <email>marilena.casartelliliviero@aovr.veneto.it</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Balestreri M, Czosnyka M, Hutchinson P, Steiner LA, Hiler M, Smielewski P, Pickard JD. Impact of intracranial pressure and cerebral perfusion pressure on severe disability and mortality after head injury. Neurocrit Care. 2006;4(1):8-13.</citation>
+    <PMID>16498188</PMID>
+  </reference>
+  <reference>
+    <citation>Vik A, Nag T, Fredriksli OA, Skandsen T, Moen KG, Schirmer-Mikalsen K, Manley GT. Relationship of &quot;dose&quot; of intracranial hypertension to outcome in severe traumatic brain injury. J Neurosurg. 2008 Oct;109(4):678-84. doi: 10.3171/JNS/2008/109/10/0678.</citation>
+    <PMID>18826355</PMID>
+  </reference>
+  <reference>
+    <citation>Sheth KN, Stein DM, Aarabi B, Hu P, Kufera JA, Scalea TM, Hanley DF. Intracranial pressure dose and outcome in traumatic brain injury. Neurocrit Care. 2013 Feb;18(1):26-32. doi: 10.1007/s12028-012-9780-3.</citation>
+    <PMID>23055087</PMID>
+  </reference>
+  <reference>
+    <citation>Ko K, Conforti A. Training protocol for intracranial pressure monitor placement by nonneurosurgeons: 5-year experience. J Trauma. 2003 Sep;55(3):480-3; discussion 483-4.</citation>
+    <PMID>14501890</PMID>
+  </reference>
+  <reference>
+    <citation>Ehtisham A, Taylor S, Bayless L, Klein MW, Janzen JM. Placement of external ventricular drains and intracranial pressure monitors by neurointensivists. Neurocrit Care. 2009;10(2):241-7. doi: 10.1007/s12028-008-9097-4.</citation>
+    <PMID>18449808</PMID>
+  </reference>
+  <reference>
+    <citation>Barber MA, Helmer SD, Morgan JT, Haan JM. Placement of intracranial pressure monitors by non-neurosurgeons: excellent outcomes can be achieved. J Trauma Acute Care Surg. 2012 Sep;73(3):558-63; discussion 563-5. doi: 10.1097/TA.0b013e318265cb75.</citation>
+    <PMID>22929484</PMID>
+  </reference>
+  <reference>
+    <citation>Sadaka F, Kasal J, Lakshmanan R, Palagiri A. Placement of intracranial pressure monitors by neurointensivists: case series and a systematic review. Brain Inj. 2013;27(5):600-4. doi: 10.3109/02699052.2013.772238. Epub 2013 Mar 8. Review.</citation>
+    <PMID>23473439</PMID>
+  </reference>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>July 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 16, 2021</study_first_posted>
+  <last_update_submitted>September 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Università degli Studi di Brescia</investigator_affiliation>
+    <investigator_full_name>Dr. Frank Rasulo</investigator_full_name>
+    <investigator_title>Associate Professor in Anesthesiology and Intensive Care</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Intracranial Hypertension</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 30, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/05/NCT05045105/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

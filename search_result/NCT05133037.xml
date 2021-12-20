@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2160">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05133037</url>
+  </required_header>
+  <id_info>
+    <org_study_id>61869</org_study_id>
+    <nct_id>NCT05133037</nct_id>
+  </id_info>
+  <brief_title>Identifying Risk Factors That Predict Onset of Anorexia Nervosa and Bulimia Nervosa</brief_title>
+  <official_title>Identifying Risk Factors That Predict Onset of Anorexia Nervosa and Bulimia Nervosa</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Across the United States, thousands of children and adolescents suffer from eating disorders.&#xD;
+      Among young women alone, an estimated 2 to 4 percent are dealing with anorexia nervosa.&#xD;
+      Anorexia nervosa also has the highest mortality rate of any psychiatric disorder and produces&#xD;
+      a six-fold increased risk for death. Unfortunately, study shows that current treatments are&#xD;
+      only successful with 25 percent of patients and no eating disorder prevention program has&#xD;
+      been found to reduce future onset of anorexia nervosa. The goal of this study is to conduct a&#xD;
+      highly innovative pilot study that will identify risk factors that predict future onset of&#xD;
+      anorexia nervosa and investigate how the risk processes for anorexia nervosa are different&#xD;
+      from the risk processes for bulimia nervosa. The proposed pilot study will:&#xD;
+&#xD;
+        -  Compare 30 healthy adolescent girls at high risk for anorexia nervosa to 30 healthy&#xD;
+           adolescent girls at high risk for bulimia nervosa, and 30 healthy adolescent girls at&#xD;
+           low risk for eating disorder in an effort to document risk processes that are present in&#xD;
+           early adolescence before anorexia nervosa typically emerges.&#xD;
+&#xD;
+        -  Test whether elevations in the hypothesized risk factors predict future onset of&#xD;
+           anorexia nervosa over a four-year follow-up.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Data verification, preliminary analyses, and missing data. Data will be entered twice and&#xD;
+      discrepancies corrected. Preliminary analyses will examine out-of-range values or unusual&#xD;
+      distributions. Reaction time data that are +/-2 SD from the mean will be excluded from&#xD;
+      analyses, following convention. All data will be analyzed regardless of missing follow-up&#xD;
+      data. Missing data will be addressed using maximum likelihood estimation, multiple&#xD;
+      imputation, or Type I and random right censoring. Maximum likelihood procedures, as well as&#xD;
+      multiple imputation, can provide unbiased estimates even in instances of substantial&#xD;
+      attrition (Shafer &amp; Graham, 2002). Multiple imputation procedures will follow best-practice&#xD;
+      recommendations (Graham et al., 2007) and missing values will be imputed using the mice&#xD;
+      package in R (van Buuren &amp; Groothuis-Oudshoorn, 2011). Observed and imputed datasets will be&#xD;
+      compared to ensure they show similar distributions and will be analyzed separately and&#xD;
+      results combined to obtain inferential tests based on average parameter estimates and&#xD;
+      standard errors (Rubin, 2009).&#xD;
+&#xD;
+      Image processing. MR scans will be performed with a 3T GE MR 750 scanner system. Blood&#xD;
+      oxygen-level dependent, echo-planar images (BOLD-EPI) will be acquired with T2*-weighted&#xD;
+      multiband (simultaneous multi-slice) acquisition sequence (TR=2000ms, TE=30ms, flip angle=53,&#xD;
+      multiband factor=4, 2.2mm isotropic voxel size; 64 8x8 axial slices with no gap). Slices will&#xD;
+      be tilted ~30 degrees relative to the AC-PC line. A rear-projection system will present&#xD;
+      visual stimuli and a button box will assess behavioral responses. Timing and delivery of the&#xD;
+      experimental tasks to the stimulus display equipment will be controlled via a MacBook Pro&#xD;
+      using Psychtoolbox software run on MATLAB. Data analysis will be performed primarily using&#xD;
+      Statistical Parametric Mapping 12 (SPM12). We will either rescan participants for whom we&#xD;
+      have poor data or recruit a replacement. Preprocessing will include rigid-body transformation&#xD;
+      (realignment) and coregistration to the first functional image of each run. Images within&#xD;
+      each run will be aligned to the first image of that run, and then aligned to the first image&#xD;
+      from the first run, using a 6-parameter rigid body algorithm in SPM12. The MP-RAGE scan will&#xD;
+      then be skull-stripped (with FSL's brain extraction tool) and normalized to a&#xD;
+      high-resolution, T1-weighted template yielding a set of normalization parameters. Parameters&#xD;
+      will then be applied to all functional and anatomical images, which will then be smoothed&#xD;
+      with a 6-mm smoothing kernel. We considered using age-specific brain template (Wilke et al.,&#xD;
+      2003), however, use in analyses with adolescents did not improve data quality. Statistical&#xD;
+      comparisons will be computed using a general linear model in SPM12 at the subject level, then&#xD;
+      imported to second level random effects models. A Monte Carlo simulation using true&#xD;
+      smoothness will be used to compute voxel-wise and cluster-size thresholds for our data that&#xD;
+      adjust for multiple comparisons to achieve a family-wise Type I error rate of 5%.We will&#xD;
+      control for hunger and menstrual phase. We will correct fMRI scans for motion, scanner, and&#xD;
+      cerebrospinal fluid artifacts using independent component analysis (ICA) denoising (Kelly et&#xD;
+      al., 2010). We will use Artifact Detection Toolbox (ART; Gabrieli Laboratory, McGovern&#xD;
+      Institute for Brain Research, Cambridge MA) to detect spikes in global mean response and&#xD;
+      motion outliers in the functional data. Motion parameters will be included as regressors in&#xD;
+      the design matrix at individual-level analysis. To identify brain regions activated in&#xD;
+      response to exposure to thin women and high-calorie foods, we will contrast fMRI BOLD&#xD;
+      response during the presentation of thin women/high-calorie food images versus images of&#xD;
+      average-weight women/glasses of water.To identify brain regions activated in response to food&#xD;
+      receipt we will contrast BOLD response during receipt of milkshake verses tasteless solution.&#xD;
+      To identify brain regions activated in response to anticipated milkshake receipt we will&#xD;
+      contrast BOLD response during the cue for impending milkshake receipt versus the cue for&#xD;
+      impending tasteless solution receipt. To identify brain activation in response to inhibitory&#xD;
+      control to high-calorie foods, we will contrast successfully inhibited response to no-go&#xD;
+      dessert trials versus no-go vegetable trials.&#xD;
+&#xD;
+      For the delay discounting task, the rate at which the subjective value of a reward decays&#xD;
+      with delay (TD rate) will be assessed through Mazur's (1987) equation: Vd = V/ (1+kD), where&#xD;
+      Vd represents the discounted value at D delay, V is the undiscounted amounted, and k is the&#xD;
+      estimated discounted parameter. High values of k indicate a preference for immediate rewards.&#xD;
+      Vd will be derived by calculating individuals' indifference point -the value of the immediate&#xD;
+      snack reward that is considered as attractive as the 40 units delayed snack reward.&#xD;
+      Indifference points will be calculated for each delay and fit to the hyperbolic model of&#xD;
+      delay discounting rate (k) and then log transformed (lnk).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2021</start_date>
+  <completion_date type="Anticipated">September 2025</completion_date>
+  <primary_completion_date type="Anticipated">September 2025</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline in Diagnosis of Anorexia Nervosa or Bulimia Nervosa follow-up</measure>
+    <time_frame>baseline, 6-months, 1-year, 2-year, 3-year, 4-year follow-up</time_frame>
+    <description>Participants will complete the Eating Disorder Diagnostic Interview, administered by a trained interviewer, assessing for Anorexia Nervosa and Bulimia Nervosa.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Baseline Brain Reward Region Response to tastes, anticipated tastes, and images of high calorie foods predictive power</measure>
+    <time_frame>baseline</time_frame>
+    <description>Adolescents will complete an fMRI food image task where they are shown 20 images of high-calorie foods and 20 images of water. Participants are asked to think about tasting the food or water, respectively. Participants will also complete an fMRI task in which they are alternatively administered a chocolate milkshake and tasteless solution. The investigators will test to see whether baseline brain reward region response predicts future onset of Anorexia Nervosa or Bulimia Nervosa.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Baseline Brain Inhibitory Control and Inhibitory Response to tastes, anticipated tastes, and images of high calorie foods predictive power</measure>
+    <time_frame>baseline</time_frame>
+    <description>Adolescents complete a food go/no-go fMRI task adapted from Batterinket al., 2010 that activates prefrontal inhibitory regions and then an adapted version of the delay discounting of food paradigm from Sellitto et al. (2010) outside the scanner. The investigators will test to see whether baseline brain inhibitory control and inhibitory response predicts future onset of Anorexia Nervosa or Bulimia Nervosa.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Baseline Brain Reward Region Responsivity to Images of the Thin Beauty Ideal predictive power</measure>
+    <time_frame>baseline</time_frame>
+    <description>Adolescents complete an fMRI paradigm in which they are shown images of thin, average-weight, and overweight models and asked to think about the attractive level of each model. The investigators will test whether baseline brain reward region responsivity predicts future onset of Anorexia Nervosa or Bulimia Nervosa.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Baseline Overvaluation of Weight and Shape Predictive Power</measure>
+    <time_frame>baseline</time_frame>
+    <description>Adolescents will complete the eight-item Thin-Ideal Internalization scale with a response scale of 1 = strongly agree to 5 = strongly disagree. The investigators will test to see whether baseline overvaluation of weight and shape predicts future onset of Anorexia Nervosa or Bulimia Nervosa.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Baseline Fear of Becoming Fat Predictive</measure>
+    <time_frame>baseline</time_frame>
+    <description>Ten items from the Fear of Becoming Fat Scale will assess fear of becoming fat with a response scale of 1 = very untrue to 4 = very true. The investigators will test whether baseline fear of becoming fat predicts future onset of Anorexia Nervosa and Bulimia Nervosa.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Baseline differences between cohorts for Brain Reward Region Response to tastes, anticipated tastes, and images of high calorie foods</measure>
+    <time_frame>baseline</time_frame>
+    <description>Adolescents will complete an fMRI food image task where they are shown 20 images of high-calorie foods and 20 images of water. They are asked to think about tasting the food or water, respectively. Participants will also complete an fMRI task in which they are alternatively administered a chocolate milkshake and tasteless solution. The investigators will test to see whether baseline brain reward region response correlates with parental history of Anorexia Nervosa or Bulimia Nervosa.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Baseline differences between cohorts for differences between cohorts for Brain Inhibitory Control and Inhibitory Response to tastes, anticipated tastes, and images of high calorie foods</measure>
+    <time_frame>baseline</time_frame>
+    <description>Adolescents complete a food go/no-go fMRI task adapted from Batterinket al., 2010 that activates prefrontal inhibitory regions and then an adapted version of the delay discounting of food paradigm from Sellitto et al. (2010) outside the scanner. The investigators will test to see whether baseline brain inhibitory control and inhibitory response correlates with parental history of Anorexia Nervosa or Bulimia Nervosa.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Baseline differences between cohorts for Brain Reward Region Responsivity to Images of the Thin Beauty Ideal</measure>
+    <time_frame>baseline</time_frame>
+    <description>Adolescents complete an fMRI paradigm in which they are shown images of thin, average-weight, and overweight models and asked to think about the attractive level of each model. The investigators will test whether baseline brain reward region correlates with parental history of Anorexia Nervosa or Bulimia Nervosa.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Baseline differences between cohorts for Overvaluation of Weight and Shape</measure>
+    <time_frame>baseline</time_frame>
+    <description>Adolescents will complete the eight-item Thin-Ideal Internalization scale with a response scale of 1 = strongly agree to 5 = strongly disagree. The investigators will test to see whether baseline overvaluation of weight and shape correlates with parental history of Anorexia Nervosa or Bulimia Nervosa.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Baseline differences between cohorts for Fear of Becoming Fat</measure>
+    <time_frame>baseline</time_frame>
+    <description>Ten items from the Fear of Becoming Fat Scale will assess fear of becoming fat with a response scale of 1 = very untrue to 4 = very true. The investigators will test whether adolescent baseline fear of becoming fat correlates with parental history of Anorexia Nervosa or Bulimia Nervosa.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>Eating Disorders</condition>
+  <arm_group>
+    <arm_group_label>Adolescent girls between 13-15 years old</arm_group_label>
+    <description>Parental history of eating pathology or no parental history of eating pathology</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Community sample&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Female&#xD;
+&#xD;
+          -  Ages 13 - 15&#xD;
+&#xD;
+          -  Must have biological parental history of AN or BN, or no history of psychiatric&#xD;
+             diagnoses&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Current diagnosis of an Eating Disorder;&#xD;
+&#xD;
+          -  Symptoms of major psychiatric disorders (substance use disorders, conduct disorder,&#xD;
+             attention deficit hyperactive disorder, major depression, bipolar disorder, panic&#xD;
+             disorder, agoraphobia, generalized anxiety disorder);&#xD;
+&#xD;
+          -  Serious medical conditions (diabetes, brain injury, cancer);&#xD;
+&#xD;
+          -  Body Mass Index (BMI) &lt;17.5;&#xD;
+&#xD;
+          -  Any contraindications for MRI (e.g. metal objects/implants in body, irremovable body&#xD;
+             piercings, tattoos or braces, medications that interfere with MRI, history of head&#xD;
+             injury with loss of consciousness, phobia that wouldn't allow them to complete the&#xD;
+             MRI);&#xD;
+&#xD;
+          -  Current regular psychoactive drug use;&#xD;
+&#xD;
+          -  Relevant food allergies;&#xD;
+&#xD;
+          -  Not in age range&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>15 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eric Stice, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Laura Rubino, B.A.</last_name>
+    <phone>650-723-7885</phone>
+    <email>lrubino@stanford.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>May Stern, B.A</last_name>
+    <phone>650-723-7885</phone>
+    <email>mstern1@stanford.edu</email>
+  </overall_contact_backup>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 24, 2021</study_first_posted>
+  <last_update_submitted>November 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Stanford University</investigator_affiliation>
+    <investigator_full_name>Eric Stice</investigator_full_name>
+    <investigator_title>Professor of Psychiatry and Behavioral Sciences</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anorexia</mesh_term>
+    <mesh_term>Bulimia</mesh_term>
+    <mesh_term>Feeding and Eating Disorders</mesh_term>
+    <mesh_term>Anorexia Nervosa</mesh_term>
+    <mesh_term>Bulimia Nervosa</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

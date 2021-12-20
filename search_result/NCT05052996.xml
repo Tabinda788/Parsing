@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8315">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05052996</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GS-US-563-6041</org_study_id>
+    <nct_id>NCT05052996</nct_id>
+  </id_info>
+  <brief_title>Study Evaluating the Safety and Efficacy of Islatravir in Combination With Lenacapavir in Virologically Suppressed People With HIV</brief_title>
+  <official_title>A Phase 2 Randomized, Open-Label, Active-Controlled Study Evaluating the Safety and Efficacy of an Oral Weekly Regimen of Islatravir in Combination With Lenacapavir in Virologically Suppressed People With HIV</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Gilead Sciences</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Merck Sharp &amp; Dohme Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Gilead Sciences</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to evaluate the efficacy of oral weekly islatravir&#xD;
+      (ISL) in combination with lenacapavir (LEN) in virologically suppressed people with HIV (PWH)&#xD;
+      at Week 24.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">October 5, 2021</start_date>
+  <completion_date type="Anticipated">September 2026</completion_date>
+  <primary_completion_date type="Anticipated">August 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of Participants With HIV-1 RNA ≥ 50 Copies/mL at Week 24 as Determined by the US Food and Drug Administration (FDA)-defined Snapshot Algorithm</measure>
+    <time_frame>Week 24</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants With HIV-1 RNA ≥ 50 Copies/mL at Week 12 as Determined by the US FDA-defined Snapshot Algorithm</measure>
+    <time_frame>Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants With HIV-1 RNA ≥ 50 Copies/mL at Week 48 as Determined by the US FDA-defined Snapshot Algorithm</measure>
+    <time_frame>Week 48</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportions of Participants With HIV-1 RNA &lt; 50 copies/mL at Week 12 as Determined by the US FDA-defined Snapshot Algorithm</measure>
+    <time_frame>Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportions of Participants With HIV-1 RNA &lt; 50 copies/mL at Week 24 as Determined by the US FDA-defined Snapshot Algorithm</measure>
+    <time_frame>Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportions of Participants With HIV-1 RNA &lt; 50 copies/mL at Week 48 as Determined by the US FDA-defined Snapshot Algorithm</measure>
+    <time_frame>Week 48</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Clusters of Differentiation 4 (CD4)+ Cell Count at Week 12</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in CD4+ Cell Count at Week 24</measure>
+    <time_frame>Baseline, Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in CD4+ Cell Count at Week 48</measure>
+    <time_frame>Baseline, Week 48</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Experiencing Treatment-Emergent Adverse Events Leading to Study Drug Discontinuation</measure>
+    <time_frame>Up to 5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic (PK) Parameter: Cmax of Islatravir (ISL) and Lenacapavir (LEN)</measure>
+    <time_frame>Day 1 up to Week 36</time_frame>
+    <description>Cmax is defined as the maximum observed concentration of drug.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK Parameter: Tmax of ISL and LEN</measure>
+    <time_frame>Day 1 up to Week 36</time_frame>
+    <description>Tmax is defined as the time (observed time point) of Cmax.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK Parameter: Ctau of ISL and LEN</measure>
+    <time_frame>Day 1 up to Week 36</time_frame>
+    <description>Ctau is defined as the observed drug concentration at the end of the dosing interval.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK Parameter: AUCtau of ISL and LEN</measure>
+    <time_frame>Day 1 up to Week 36</time_frame>
+    <description>AUCtau is defined as concentration of drug over time (the area under the concentration verses time curve over the dosing interval).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK Parameter: t1/2 of ISL and LEN</measure>
+    <time_frame>Day 1 up to Week 36</time_frame>
+    <description>t1/2 is defined as the estimate of the terminal elimination half-life of the drug.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">75</enrollment>
+  <condition>HIV-1 Infection</condition>
+  <arm_group>
+    <arm_group_label>ISL+LEN</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the following for at least 48 weeks:&#xD;
+ISL 40 mg and LEN 600 mg on Days 1 and 2 (loading dose)&#xD;
+ISL 20 mg and LEN 300 mg on Day 8 and every week thereafter</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B/F/TAF</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the following for at least 48 weeks:&#xD;
+bictegravir/emtricitabine/tenofovir alafenamide (B/F/TAF) 50/200/25 mg once daily&#xD;
+After 48 weeks, participants will switch from B/F/TAF to ISL+LEN&#xD;
+ISL 40 mg and LEN 600 mg (loading dose over 2 days)&#xD;
+ISL 20 mg and LEN 300 mg 7 days after the first loading dose and every week thereafter&#xD;
+Participants who do not switch from B/F/TAF to ISL+LEN at Week 48 will be discontinued from the study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ISL</intervention_name>
+    <description>Capsules administered orally without regard to food</description>
+    <arm_group_label>B/F/TAF</arm_group_label>
+    <arm_group_label>ISL+LEN</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>LEN</intervention_name>
+    <description>Tablets administered orally without regard to food</description>
+    <arm_group_label>B/F/TAF</arm_group_label>
+    <arm_group_label>ISL+LEN</arm_group_label>
+    <other_name>GS-6207</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>B/F/TAF</intervention_name>
+    <description>Tablets administered orally without regard to food</description>
+    <arm_group_label>B/F/TAF</arm_group_label>
+    <other_name>Biktarvy®</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:&#xD;
+&#xD;
+          -  Received bictegravir/emtricitabine/tenofovir alafenamide (B/F/TAF) for ≥ 24 weeks at&#xD;
+             screening&#xD;
+&#xD;
+          -  Documented plasma human immunodeficiency virus type 1 (HIV-1) ribonucleic acid (RNA) &lt;&#xD;
+             50 copies/mL (or undetectable HIV-1 RNA level according to the local assay being used&#xD;
+             if the limit of detection is ≥ 50 copies/mL) for ≥ 24 weeks before and at screening&#xD;
+&#xD;
+          -  Plasma HIV-1 RNA &lt; 50 copies/mL at screening&#xD;
+&#xD;
+        Key Exclusion Criteria:&#xD;
+&#xD;
+          -  History of prior virologic failure while receiving treatment for HIV-1&#xD;
+&#xD;
+          -  Prior use of, or exposure to, islatravir (ISL) or lenacapavir (LEN)&#xD;
+&#xD;
+          -  Active, serious infections requiring parenteral therapy &lt; 30 days before randomization&#xD;
+&#xD;
+          -  Active hepatitis B virus (HBV) coinfection, defined as hepatitis B core antibody&#xD;
+             (HBcAb) positive, hepatitis B surface antigen (HBsAg) positive, or HBV&#xD;
+             deoxyribonucleic acid (DNA) positive as determined by the central laboratory&#xD;
+&#xD;
+          -  Active hepatitis C virus (HCV) coinfection, defined as detectable HCV RNA.&#xD;
+&#xD;
+               -  Note: Individuals with prior/inactive HCV infection (defined as undetectable HCV&#xD;
+                  RNA) may be enrolled.&#xD;
+&#xD;
+          -  Any of the following laboratory values at screening&#xD;
+&#xD;
+               -  Creatinine clearance (CLcr) ≤ 30 mL/min according to the Cockcroft-Gault formula&#xD;
+&#xD;
+               -  Clusters of differentiation 4 (CD4) T cells &lt; 200 cells/mm^3&#xD;
+&#xD;
+          -  Individuals of childbearing potential (as defined in protocol) who have a positive&#xD;
+             serum pregnancy test at screening or positive urine and serum pregnancy tests at Day 1&#xD;
+             prior to study drug administration&#xD;
+&#xD;
+          -  Individuals who plan to continue breastfeeding during the study&#xD;
+&#xD;
+        Note: Other protocol defined Inclusion/Exclusion criteria may apply.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gilead Study Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Gilead Sciences</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Ruane Clinical Research Group, Inc</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90036</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mills Clinical Research</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90069</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington Health Institute</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The George Washington University Medical Faculty Associates Inc.</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gary J. Richmond, M.D., P.A.</name>
+      <address>
+        <city>Fort Lauderdale</city>
+        <state>Florida</state>
+        <zip>33316</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Midway Immunology and Research Center</name>
+      <address>
+        <city>Fort Pierce</city>
+        <state>Florida</state>
+        <zip>34982</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Floridian Clinical Research</name>
+      <address>
+        <city>Miami Lakes</city>
+        <state>Florida</state>
+        <zip>33016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Orlando Immunology Center</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University Hospital Midtown Infectious Disease Clinic</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chatham County Health Department</name>
+      <address>
+        <city>Savannah</city>
+        <state>Georgia</state>
+        <zip>31401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northstar Healthcare</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60657</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Community Research Initiative of New England</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02129</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Be Well Medical Center</name>
+      <address>
+        <city>Berkley</city>
+        <state>Michigan</state>
+        <zip>48072</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hennepin Healthcare HCMC</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55415</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Southampton Healthcare, Inc.</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63139</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Huntridge Family Clinic</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ID Care</name>
+      <address>
+        <city>Hillsborough</city>
+        <state>New Jersey</state>
+        <zip>08844</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jacobi Medical Center</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Philadelphia FIGHT Community Health Centers</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Central Texas Clinical Research, LLC</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AIDS Arms Inc</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Crofoot Research Center, INC</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Peter Shalit, M.D.</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Community Health Care</name>
+      <address>
+        <city>Tacoma</city>
+        <state>Washington</state>
+        <zip>98405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.gileadclinicaltrials.com/study/?id=GS-US-563-6041</url>
+    <description>Gilead Clinical Trials Website</description>
+  </link>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>September 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 22, 2021</study_first_posted>
+  <last_update_submitted>December 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

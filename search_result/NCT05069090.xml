@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7079">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05069090</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ANID - COVID0282</org_study_id>
+    <nct_id>NCT05069090</nct_id>
+  </id_info>
+  <brief_title>Effect of COVID-19 Lockdown on Alcohol and Tobacco Use in Two Chilean Universities</brief_title>
+  <official_title>Effect of COVID-19 Lockdown on Alcohol and Tobacco Use in Two Chilean Universities: a Difference-in-difference Analysis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universidad de La Frontera</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Universidad Católica del Norte</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Universidad de La Frontera</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a longitudinal study of participants from two university communities in Chile. The&#xD;
+      primary objective is to examine the effect of a regional lockdown on alcohol and tobacco use,&#xD;
+      using a difference-in-difference analysis to obtain causal estimates of these COVID-19&#xD;
+      policies.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The COVID-19 pandemic is spreading worldwide. Countries have adopted public health and social&#xD;
+      measures that, together with a direct effect of the pandemic, can affect alcohol and tobacco&#xD;
+      use. The most stringent measures are lockdowns and curfews that include statutory&#xD;
+      restrictions on people's mobility. Research to date has shown mixed effects of the COVID-19&#xD;
+      pandemic and lockdowns on alcohol and tobacco use. Importantly, previous studies have not&#xD;
+      been able to differentiate the effects of the pandemic itself with those from lockdown and&#xD;
+      curfew policies. They have also been restricted to countries in Europe, the United States,&#xD;
+      Australia and New Zealand.&#xD;
+&#xD;
+      The study will advance prior knowledge by providing evidence from a country in Latin America,&#xD;
+      one of the worst-hit regions worldwide. Latin America accounts for 8.4% of the global&#xD;
+      population, but 20.3% of the total SARS-COV2 cases and 30.2% of the COVID-19 deaths to date.&#xD;
+      In addition, the study will exploit the variation in lockdown policies in two regions in&#xD;
+      Chile to disentangle the effects of the COVID-19 pandemic with those from a lockdown.&#xD;
+&#xD;
+      The aim of the study is to examine the effect of a regional lockdown on alcohol use in two&#xD;
+      university populations in the Araucanía and Coquimbo regions in Chile. The investigators will&#xD;
+      use a difference-in-difference analysis to obtain causal estimates of these COVID-19&#xD;
+      policies.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 3, 2020</start_date>
+  <completion_date type="Actual">April 30, 2021</completion_date>
+  <primary_completion_date type="Actual">April 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Weekly grams of alcohol use</measure>
+    <time_frame>Last week</time_frame>
+    <description>Consumption of alcohol during the past week measured in grams of pure alcohol</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of heavy episodic drinking in the past month</measure>
+    <time_frame>Last 30 days</time_frame>
+    <description>Frequency of consumption of five or more drinks on a single occasion during the past 30 days [response range 0 to 10 and more times]</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Quantity of cigarettes per day</measure>
+    <time_frame>Last week</time_frame>
+    <description>Average daily consumption of cigarettes during the last week</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">1038</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Students and academics Universidad La Frontera</arm_group_label>
+    <description>The intervention consists of social distancing measures to curb the viral transmission of SARS-CoV-2. The Araucanía region was subject to lockdown in a different moment than the Coquimbo region, creating exogenous variation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Students and academics Universidad Católica del Norte</arm_group_label>
+    <description>The intervention consists of social distancing measures to curb the viral transmission of SARS-CoV-2. The Coquimbo region was subject to lockdown in a different moment than the Araucanía region, creating exogenous variation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Lockdown and other social distancing measures</intervention_name>
+    <description>During the study period, the Chilean Ministry of Health established a five-step process for social distancing measures. These ranged from full lockdown (step 1) to almost no restrictions (step 5). Even under full lockdown, citizens were able to obtain permits for essential activities. Citizens had a maximum of two permits per week and were obtained in a virtual station of the Chilean Police Force (Carabineros de Chile).</description>
+    <arm_group_label>Students and academics Universidad Católica del Norte</arm_group_label>
+    <arm_group_label>Students and academics Universidad La Frontera</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population are students, academics and administrative personnel of two&#xD;
+        universities in Chile&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  People with study rights either at the undergraduate and postgraduate levels by July&#xD;
+             27, 2020 at the Universidad de la Frontera or Universidad Católica del Norte; OR&#xD;
+&#xD;
+          -  Workers with a full-time or part-time contract with either University, including&#xD;
+             academics, administrative and assistant personnel; AND&#xD;
+&#xD;
+          -  Having an email registered in the Human Resource Office of each university&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  People without valid study rights at either university&#xD;
+&#xD;
+          -  People without a working contract with the university&#xD;
+&#xD;
+          -  Not having an email registered at the Human Resource Office&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Francisca Román, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universidad de La Frontera</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Universidad de la Frontera</name>
+      <address>
+        <city>Temuco</city>
+        <state>Araucanía</state>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universidad Católica del Norte</name>
+      <address>
+        <city>Coquimbo</city>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Chile</country>
+  </location_countries>
+  <reference>
+    <citation>Jackson SE, Garnett C, Shahab L, Oldham M, Brown J. Association of the COVID-19 lockdown with smoking, drinking and attempts to quit in England: an analysis of 2019-20 data. Addiction. 2021 May;116(5):1233-1244. doi: 10.1111/add.15295. Epub 2020 Nov 26.</citation>
+    <PMID>33089562</PMID>
+  </reference>
+  <reference>
+    <citation>Winkler P, Formanek T, Mlada K, Kagstrom A, Mohrova Z, Mohr P, Csemy L. Increase in prevalence of current mental disorders in the context of COVID-19: analysis of repeated nationwide cross-sectional surveys. Epidemiol Psychiatr Sci. 2020 Sep 29;29:e173. doi: 10.1017/S2045796020000888.</citation>
+    <PMID>32988427</PMID>
+  </reference>
+  <reference>
+    <citation>Daly M, Robinson E. High-Risk Drinking in Midlife Before Versus During the COVID-19 Crisis: Longitudinal Evidence From the United Kingdom. Am J Prev Med. 2021 Feb;60(2):294-297. doi: 10.1016/j.amepre.2020.09.004. Epub 2020 Nov 21.</citation>
+    <PMID>33234355</PMID>
+  </reference>
+  <reference>
+    <citation>Niedzwiedz CL, Green MJ, Benzeval M, Campbell D, Craig P, Demou E, Leyland A, Pearce A, Thomson R, Whitley E, Katikireddi SV. Mental health and health behaviours before and during the initial phase of the COVID-19 lockdown: longitudinal analyses of the UK Household Longitudinal Study. J Epidemiol Community Health. 2021 Mar;75(3):224-231. doi: 10.1136/jech-2020-215060. Epub 2020 Sep 25.</citation>
+    <PMID>32978210</PMID>
+  </reference>
+  <reference>
+    <citation>Rossow I, Bye EK, Moan IS, Kilian C, Bramness JG. Changes in Alcohol Consumption during the COVID-19 Pandemic-Small Change in Total Consumption, but Increase in Proportion of Heavy Drinkers. Int J Environ Res Public Health. 2021 Apr 16;18(8). pii: 4231. doi: 10.3390/ijerph18084231.</citation>
+    <PMID>33923567</PMID>
+  </reference>
+  <reference>
+    <citation>Vanderbruggen N, Matthys F, Van Laere S, Zeeuws D, Santermans L, Van den Ameele S, Crunelle CL. Self-Reported Alcohol, Tobacco, and Cannabis Use during COVID-19 Lockdown Measures: Results from a Web-Based Survey. Eur Addict Res. 2020;26(6):309-315. doi: 10.1159/000510822. Epub 2020 Sep 22.</citation>
+    <PMID>32961535</PMID>
+  </reference>
+  <reference>
+    <citation>Nordeck CD, Riehm KE, Smail EJ, Holingue C, Kane JC, Johnson RM, Veldhuis CB, Kalb LG, Stuart EA, Kreuter F, Thrul J. Changes in drinking days among United States adults during the COVID-19 pandemic. Addiction. 2021 Jun 22. doi: 10.1111/add.15622. [Epub ahead of print]</citation>
+    <PMID>34159674</PMID>
+  </reference>
+  <reference>
+    <citation>Glowacz F, Schmits E. Psychological distress during the COVID-19 lockdown: The young adults most at risk. Psychiatry Res. 2020 Nov;293:113486. doi: 10.1016/j.psychres.2020.113486. Epub 2020 Sep 25.</citation>
+    <PMID>33007682</PMID>
+  </reference>
+  <reference>
+    <citation>Callinan S, Smit K, Mojica-Perez Y, D'Aquino S, Moore D, Kuntsche E. Shifts in alcohol consumption during the COVID-19 pandemic: early indications from Australia. Addiction. 2021 Jun;116(6):1381-1388. doi: 10.1111/add.15275. Epub 2020 Oct 18.</citation>
+    <PMID>33006789</PMID>
+  </reference>
+  <reference>
+    <citation>Clare PJ, Aiken A, Yuen WS, Upton E, Kypri K, Degenhardt L, Bruno R, McCambridge J, McBride N, Hutchinson D, Slade T, Mattick R, Peacock A. Alcohol use among young Australian adults in May-June 2020 during the COVID-19 pandemic: a prospective cohort study. Addiction. 2021 Dec;116(12):3398-3407. doi: 10.1111/add.15599. Epub 2021 Jun 24.</citation>
+    <PMID>34105838</PMID>
+  </reference>
+  <reference>
+    <citation>Bartlett L, Brady JJR, Farrow M, Kim S, Bindoff A, Fair H, Vickers JC, Sinclair D. Change in modifiable dementia risk factors during COVID-19 lockdown: The experience of over 50s in Tasmania, Australia. Alzheimers Dement (N Y). 2021 May 13;7(1):e12169. doi: 10.1002/trc2.12169. eCollection 2021.</citation>
+    <PMID>34027023</PMID>
+  </reference>
+  <reference>
+    <citation>Bar-Zeev Y, Shauly M, Lee H, Neumark Y. Changes in Smoking Behaviour and Home-Smoking Rules during the Initial COVID-19 Lockdown Period in Israel. Int J Environ Res Public Health. 2021 Feb 17;18(4). pii: 1931. doi: 10.3390/ijerph18041931.</citation>
+    <PMID>33671203</PMID>
+  </reference>
+  <reference>
+    <citation>Bonadio WA, Carron AC, Nelson DB. Serum theophylline concentration in 82 consecutive asthmatic children receiving preadmission theophylline preparation. Pediatr Emerg Care. 1988 Jun;4(2):165.</citation>
+    <PMID>3380750</PMID>
+  </reference>
+  <reference>
+    <citation>Guignard R, Andler R, Quatremère G, Pasquereau A, du Roscoät E, Arwidson P, Berlin I, Nguyen-Thanh V. Changes in smoking and alcohol consumption during COVID-19-related lockdown: a cross-sectional study in France. Eur J Public Health. 2021 Oct 26;31(5):1076-1083. doi: 10.1093/eurpub/ckab054.</citation>
+    <PMID>33826721</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 6, 2021</study_first_posted>
+  <last_update_submitted>October 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universidad de La Frontera</investigator_affiliation>
+    <investigator_full_name>Francisca Roman</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>Alcohol Drinking</keyword>
+  <keyword>Tobacco use</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Epidemiology</keyword>
+  <keyword>Cohort Studies</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Deanonymized data is available upon contact with the Principal Investigator</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Immediately</ipd_time_frame>
+    <ipd_access_criteria>Collaboration agreement between the interested institution and the Universidad de la Frontera</ipd_access_criteria>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 4, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/90/NCT05069090/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8376">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05052203</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202100108</org_study_id>
+    <nct_id>NCT05052203</nct_id>
+  </id_info>
+  <brief_title>Researching the Effects of Sepsis on Quality Of Life, Vitality, Epigenome and Gene Expression During RecoverY From Sepsis</brief_title>
+  <acronym>REQOVERY</acronym>
+  <official_title>Researching the Effects of Sepsis on Quality Of Life, Vitality, Epigenome and Gene Expression During RecoverY From Sepsis (REQOVERY)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hjalmar Bouma</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Medical Center Groningen</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Sepsis is a life-threatening dysregulated immune response to infection associated with&#xD;
+      multi-organ failure and a high mortality rate.While researchers have focused mainly on acute&#xD;
+      sepsis, post-sepsis care of survivors has long been neglected despite the observation that&#xD;
+      many sepsis survivors suffer from debilitating post-sepsis syndrome. This syndrome is&#xD;
+      characterized by frequent hospital readmissions and increased mortality due to persistent&#xD;
+      immune dysfunction, cardiovascular disease, and cognitive impairment, causing poor quality of&#xD;
+      life and a substantial burden on the healthcare system. Disconcertingly, the number of sepsis&#xD;
+      survivors at risk for hospital readmission continues to rise.7 Of the post-sepsis symptoms,&#xD;
+      post-sepsis immunosuppression is perhaps the most clinically important. While sepsis presents&#xD;
+      as an initial phase of hyperinflammation (a &quot;cytokine storm&quot;), it is followed by an&#xD;
+      immunosuppressive phase that is now understood to last weeks to months and predisposes&#xD;
+      survivors to lethal secondary infections and sepsis recurrence. A third of deaths eight years&#xD;
+      post-sepsis are caused by recurrent sepsis.We hypothesize that changes in the transcriptome&#xD;
+      and DNA methylome in immune cells of survivors might be the underlying driver for prolonged&#xD;
+      immunosuppression, and may also be correlated with long-term morbidity and mortality&#xD;
+      post-sepsis, as well as other symptoms of post-sepsis syndrome including PTSD and&#xD;
+      cardiovascular disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">September 28, 2021</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>DNA methylation (epigenetics) using the Illumina MethylationEPIC kit. Changes in DNA methylation at gene promoter/enhancer sites will be correlated through the NetworkAnalyst platform.</measure>
+    <time_frame>baseline versus 3 months follow up</time_frame>
+    <description>The primary objective of the current project is to measure changes in DNA methylation (i.e. epigenetics) of blood leukocytes between sepsis survivors at ED admission and three months after hospital discharge.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Gene expression (transcriptomics/qPCR) will be measured using the Illumina Hi-Seq instrument. Differential gene expression will be correlated through the NetworkAnalyst platform.</measure>
+    <time_frame>baseline versus 3 months follow up</time_frame>
+    <description>The primary objective of the current project is to measure changes in gene expression (i.e. transcriptomics) of blood leukocytes between sepsis survivors at ED admission and three months after hospital discharge.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Nutrition status measured with PS-SGA Short Form and SNAQ form. (both questionnaires)</measure>
+    <time_frame>3 months</time_frame>
+    <description>study the association between epigenetic and transcriptomic signatures in sepsis and survivors with nutrition status. PS-SGA short form looks at weight loss, upper arm circumference, apetite and functionallity. PS-SGA short form scores weight, food intake, symptoms, activities and functionalilyti (nummeric; 0-52).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality. Mortality status will be obtained from the Municipal Personal Records Database (BRP), containing reliable and complete registration all Dutch citizens</measure>
+    <time_frame>1 year</time_frame>
+    <description>study the association between epigenetic and transcriptomic signatures and mortality in sepsis survivors and non-survivors and healthy controls. Mortality will be retrieved from the electronic health records (EHR) from the hospital and municipal registration. The cause of death will be retrieved from the EHR from the hospital, general practitioner and Dutch statistics' office (CBS).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Demographics</measure>
+    <time_frame>3 months</time_frame>
+    <description>To study the association between epigenetic and transcriptomic signatures in sepsis survivors with demographics. Information about demograpics will be retrieved from the electronic health records (EHR) from the hospital.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intoxications</measure>
+    <time_frame>3 months</time_frame>
+    <description>To study the association between epigenetic and transcriptomic signatures in sepsis survivors with intoxications. Information about intoxications will be retrieved from the electronic health records (EHR) from the hospital.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Medication use</measure>
+    <time_frame>3 months</time_frame>
+    <description>To study the association between epigenetic and transcriptomic signatures in sepsis survivors with medication use. Medication use will be retrieved from the electronic health records (EHR) from the hospital, general practitioner and pharmacy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sepsis severity defined with SOFA score</measure>
+    <time_frame>3 months follow up</time_frame>
+    <description>study the association between severity of sepsis and the epigenetic and transcriptomic signatures in sepsis. SOFA scores will be available for patients admitted because of an infection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fatigue assessed with piper fatigue scale</measure>
+    <time_frame>3 months</time_frame>
+    <description>To study the association between epigenetic and transcriptomic signatures in sepsis and survivors with fatigue.Piper Fatigue Scale-12 (PFS-12; 0-10, higher scores reflect more fatigue among four subscales (a) behavior, (b) affect, (c) sensory, (d) cognition)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mood assessed with the Patient Health Questionnaire-2 ( (questionnaire)</measure>
+    <time_frame>3 months</time_frame>
+    <description>To study the association between epigenetic and transcriptomic signatures in sepsis and survivors with mood. Patient Health Questionnaire-2 (PHQ-2; 0-6, higher score corresponds to reduced mental health)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Somatic symptoms (e.g. Patient Health questionnaire-15)</measure>
+    <time_frame>3 months</time_frame>
+    <description>To study the association between epigenetic and transcriptomic signatures in sepsis and survivors with somatic symptoms. Patient Health Questionnaire-15 (PHQ-15; 0-30, minimal-high somatic symptom severity)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Activities of daily living as determined by EQ-5D-5L (if abnormal also Katz-ADL-6)</measure>
+    <time_frame>3 months</time_frame>
+    <description>To study the association between epigenetic and transcriptomic signatures in sepsis and survivors with activities of daily living. EuroQol-5D (EQ5D; simple descriptive profile and a single index value for health status; higher values corresponding with better health) with visual analogue scale (VAS; 0-100, worse-best experienced health). Katz ADL-6 (0-6, fully dependent-independent)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical activity (e.g. Short Questionnaire to Assess Health-Enhancing Activity) (SQUASH) and 'Utrechtse activiteiten lijst' (UAL))</measure>
+    <time_frame>3 months</time_frame>
+    <description>To study the association between epigenetic and transcriptomic signatures in sepsis and survivors with physical activity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Co-morbidity (a.o. Charlson comorbidity index)</measure>
+    <time_frame>3 months</time_frame>
+    <description>To study the association between epigenetic and transcriptomic signatures in sepsis and survivors with comorbidity. Co-morbidity will be retrieved from the electronic health records (EHR) from the hospital, general practitioner and pharmacy. Data will be registered according to the Charlson' co-morbidity index (CCI; 1-2 mild co-morbidity, 3-4 moderate co-morbidity, 5 severe co-morbidity)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vital parameters</measure>
+    <time_frame>At baseline and three months.</time_frame>
+    <description>Heart rate (bpm), blood pressure (mmHg), oxygen saturation (SpO2, SaO2, PaO2), breathing frequency (per min), consciousness (Glasgow coma scale), pain score (VAS), nausea/vomiting (y/n), defecation (y/n), urination (y/n), body weight (kg), length (cm), fluid balance (ml/day).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length-of-stay in hospital/intensive care unit (ICU)</measure>
+    <time_frame>0-3 months</time_frame>
+    <description>Length-of-stay in hospital and on intensive care unit (ICU) in days</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Sepsis</condition>
+  <condition>Infection</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Exposure of interest: study DNA methylation (epigenetics) and gene expression (transcriptomics) of blood leukocytes</intervention_name>
+    <description>The primary objective is to study DNA methylation (epigenetics) and gene expression (transcriptomics) of blood leukocytes between sepsis survivors at ED admission and three months after hospital discharge</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients between 18-85 years old admitted to the emergency department (ED) of the&#xD;
+        University Medical Center Groningen (UMCG) with suspected sepsis according to the sepsis-3&#xD;
+        criteria who survive their ED admission at three months. A control group will compose of&#xD;
+        age and sex-matched ED patients admitted for non-infectious causes. Both the septic&#xD;
+        patients and controls have already been enrolled in the Acutelines study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria sepsis group:&#xD;
+&#xD;
+          -  Adult patients, aged between 18 and 85 years&#xD;
+&#xD;
+          -  Able to provide informed consent themselves or informed consent can be obtained via&#xD;
+             next of kin or legal guardian&#xD;
+&#xD;
+          -  Included in Acutelines, where blood sample was drawn upon ED admission&#xD;
+&#xD;
+          -  Satisfy the Sepsis-3 criteria for sepsis (Figure 2), combined with clinical suspicion&#xD;
+             of infection and/or fever (body temperature &gt; 38.5°C)&#xD;
+&#xD;
+          -  Survive at 3 months post discharge&#xD;
+&#xD;
+          -  Inclusion criteria control group:Adult patients, aged between 18 and 85 years&#xD;
+&#xD;
+          -  Able to provide informed consent themselves or informed consent can be obtained via&#xD;
+             next of kin or legal guardian&#xD;
+&#xD;
+          -  Included in Acutelines, where blood sample was drawn upon ED admission&#xD;
+&#xD;
+          -  Non-infectious reason of admission (specifically syncope, electrolyte disturbance,&#xD;
+             intoxication, gastro-intestinal bleeding)&#xD;
+&#xD;
+        4.3 Exclusion criteria&#xD;
+&#xD;
+        The participants should not meet any of the following exclusion criteria:&#xD;
+&#xD;
+          -  Transfer from another hospital&#xD;
+&#xD;
+          -  Emergency room visit in connection with accidental exposure of bodily material to&#xD;
+             patient (&quot;needle stick injury&quot;)&#xD;
+&#xD;
+          -  Visit an emergency room in connection with organ transplantation&#xD;
+&#xD;
+          -  Discharged home without hospital admittance after ED visit&#xD;
+&#xD;
+          -  Unable to give blood&#xD;
+&#xD;
+          -  Immunosuppressive therapies such as corticosteroids (&gt;10mg) or small molecule immune&#xD;
+             suppressants within the last three months, or biologicals administered within the last&#xD;
+             year&#xD;
+&#xD;
+          -  Radiotherapy or systemic chemotherapy within the last three months&#xD;
+&#xD;
+          -  Known pregnancy; the presence of pregnancy will be verified by asking the potential&#xD;
+             participant&#xD;
+&#xD;
+          -  A hospitalization of more than 21 days&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University Medical Center Groningen</name>
+      <address>
+        <city>Groningen</city>
+        <zip>9700 RB</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>August 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 22, 2021</study_first_posted>
+  <last_update_submitted>October 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University Medical Center Groningen</investigator_affiliation>
+    <investigator_full_name>Hjalmar Bouma</investigator_full_name>
+    <investigator_title>Internist and Research Fellow</investigator_title>
+  </responsible_party>
+  <keyword>Post sepsis syndrome</keyword>
+  <keyword>Epigenetic</keyword>
+  <keyword>Transcriptome</keyword>
+  <keyword>Recovery</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sepsis</mesh_term>
+    <mesh_term>Toxemia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

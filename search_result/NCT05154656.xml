@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="499">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05154656</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2018.611</org_study_id>
+    <nct_id>NCT05154656</nct_id>
+  </id_info>
+  <brief_title>Three-Dimensional T1rho Using Spiral Fast Spin Echo</brief_title>
+  <official_title>Fast Three-Dimensional Black Blood Magnetization Prepared Spiral Fast Spin Echo T1rho Relaxometry for Early Diagnosis of Liver Fibrosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chinese University of Hong Kong</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Chinese University of Hong Kong</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Liver fibrosis is the main feature in early chronic liver diseases. If identified early,&#xD;
+      liver fibrosis is reversible. The current gold standard for diagnosing liver fibrosis is&#xD;
+      invasive liver biopsy. Existing non-invasive methods still have significant limitations.&#xD;
+&#xD;
+      T1rho imaging is a promising non-invasive technology evaluating liver fibrosis. It does not&#xD;
+      require exogenous contrast agent or extra hardware. However, it remains challenging to&#xD;
+      perform T1rho measurements of the liver. The rich blood signal in the liver introduces&#xD;
+      quantification errors of liver parenchyma. The existing black blood MRI technologies are&#xD;
+      based on Cartesian FSE acquisitions, which are not optimal for liver imaging. The residual&#xD;
+      blood signal is often observed which confounds the measurement. Current T1rho measurement of&#xD;
+      the liver is mostly performed in two-dimension. 3D coverage of liver is desirable. However,&#xD;
+      3D T1rho imaging of liver suffers from long scan time due to increased spatial coverage,&#xD;
+      reduced scan time efficiency from motion compensation, and high specific absorption rate&#xD;
+      (SAR).&#xD;
+&#xD;
+      We aim to overcome these challenges by developing 3D T1rho imaging technologies based on&#xD;
+      magnetization prepared spiral FSE acquisition. Compared to Cartesian FSE, Spiral FSE&#xD;
+      traverses k-space more efficiently per unit of time, and has reduced SAR due to significantly&#xD;
+      decreased number of radiofrequency pulses in the echo trains. Spiral acquisition has zero&#xD;
+      gradient moment at the kspace center, which substantially reduces its sensitivity to&#xD;
+      respiratory motion. The residual motion manifests as benign incoherent artifacts in the image&#xD;
+      domain rather than detrimental structured artifacts. Differently to Cartesian FSE, Spiral FSE&#xD;
+      provides flexibility to design and optimize flow-sensitizing gradients throughout the echo&#xD;
+      trains to achieve superior suppression of blood signal. We will evaluate the proposed pulse&#xD;
+      sequences in both healthy controls and patients with liver fibrosis.&#xD;
+&#xD;
+      This project will provide new black blood imaging technologies and a 3D diagnostic tool for&#xD;
+      early detection of liver fibrosis. This will improve clinical outcomes for patients with&#xD;
+      chronic liver disease, and provide a springboard for further development of MRI technology&#xD;
+      for other purposes.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 1, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Analysis of variance (ANOVA) will be performed to compare the measurement between subjects with no fibrosis and subjects with early stage fibrosis</measure>
+    <time_frame>one year</time_frame>
+    <description>Correlations will be calculated to assess the correlation between the disease state determined by histology and the imaging measurements</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Liver Fibrosis</condition>
+  <arm_group>
+    <arm_group_label>patients with early stage of liver fibrosis</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>subjects with no liver fibrosis</arm_group_label>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        60 patients with early stage of liver fibrosis and 60 subjects with no liver fibrosis&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Between age 18 and age 55&#xD;
+&#xD;
+          -  patients with early liver fibrosis&#xD;
+&#xD;
+          -  Informed written consent obtained&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Contraindications to MRI such as the presence of metallic implants, claustrophobia and&#xD;
+             pregnancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Weitian Chen</last_name>
+    <phone>3505 1036</phone>
+    <email>wtchen@cuhk.edu.hk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The Chinese University of Hong Kong, Prince of Wale Hospital</name>
+      <address>
+        <city>Hong Kong</city>
+        <state>Shatin</state>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Weitian Chen</last_name>
+      <phone>3505 1036</phone>
+      <email>wtchen@cuhk.edu.hk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Hong Kong</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>December 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 13, 2021</study_first_posted>
+  <last_update_submitted>December 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Chinese University of Hong Kong</investigator_affiliation>
+    <investigator_full_name>Chen Weitian</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>3D, T1rho, Fast spin echo</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Liver Cirrhosis</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

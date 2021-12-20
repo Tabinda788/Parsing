@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5443">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05090358</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-123</org_study_id>
+    <nct_id>NCT05090358</nct_id>
+  </id_info>
+  <brief_title>Preventing High Blood Sugar in People Being Treated for Metastatic Breast Cancer</brief_title>
+  <official_title>Targeting Insulin Feedback to Enhance Alpelisib (TIFA): A Phase 2 Randomized Control Trial in Metastatic PIK3CA-mutant Hormone-Receptor Positive Breast Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memorial Sloan Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Memorial Sloan Kettering Cancer Center</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study to find out whether a very low carbohydrate diet (ketogenic diet),&#xD;
+      a low carbohydrate diet, or the study drug canagliflozin can prevent high blood sugar and may&#xD;
+      improve the effectiveness of cancer therapy in people who are receiving standard treatment&#xD;
+      with alpelisib and fulvestrant for their metastatic PIK3CA-mutant breast cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 8, 2021</start_date>
+  <completion_date type="Anticipated">October 8, 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 8, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Hyperglycemia-free rate for participants</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>To determine the grade 3/4 hyperglycemia-free rate at 12 weeks, as assessed by the NCI CTCAE v5.0</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">106</enrollment>
+  <condition>Breast Cancer</condition>
+  <condition>Breast Cancer Stage IV</condition>
+  <condition>Metastatic Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Ketogenic Diet</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Postmenopausal women and men with histologically-confirmed, HR-positive, HER2-negative, PIK3CA mutant MBC who have received no more than 1 line of endocrine-based therapy in the metastatic setting will be eligible. Participants on this arm will partake in a ketogenic diet in combination with SOC endocrine therapy (fulvestrant) and PI3K inhibition (alpelisib)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low Carbohydrate Diet</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Postmenopausal women and men with histologically-confirmed, HR-positive, HER2-negative, PIK3CA mutant MBC who have received no more than 1 line of endocrine-based therapy in the metastatic setting will be eligible. Participants on this arm will be assigned to Low Carbohydrate Diet/LCD therapy each in combination with SOC endocrine therapy (fulvestrant) and PI3K inhibition (alpelisib)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SGLT2i Therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Postmenopausal women and men with histologically-confirmed, HR-positive, HER2-negative, PIK3CA mutant MBC who have received no more than 1 line of endocrine-based therapy in the metastatic setting will be eligible. Participants on this arm will be assigned to SGLT2i therapy each in combination with SOC endocrine therapy (fulvestrant) and PI3K inhibition (alpelisib)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Ketogenic Diet</intervention_name>
+    <description>Properly formulated meals will be provided to both diet groups for the first 12 weeks to facilitate compliance in women with metastatic breast cancer prescribed alpelisib. After 12 weeks, subjects on the two dietary arms will be given the option to cross-over to the other diet arm and continue the prescribed dietary formulation. The decision to cross over will be per patient preference.</description>
+    <arm_group_label>Ketogenic Diet</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Low Carbohydrate Diet</intervention_name>
+    <description>Properly formulated meals will be provided to both diet groups for the first 12 weeks to facilitate compliance in women with metastatic breast cancer prescribed alpelisib. After 12 weeks, subjects on the two dietary arms will be given the option to cross-over to the other diet arm and continue the prescribed dietary formulation. The decision to cross over will be per patient preference.</description>
+    <arm_group_label>Low Carbohydrate Diet</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Alpelisib</intervention_name>
+    <description>The recommended dose of PIQRAY is 300 mg (two 150 mg film-coated tablets) taken orally, once daily, with food. Patients should take their dose of PIQRAY at approximately the same time each day.</description>
+    <arm_group_label>Ketogenic Diet</arm_group_label>
+    <arm_group_label>Low Carbohydrate Diet</arm_group_label>
+    <arm_group_label>SGLT2i Therapy</arm_group_label>
+    <other_name>Piqray</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fulvestrant</intervention_name>
+    <description>The recommended dose is 500 mg to be administered intramuscularly into the buttocks slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on days&#xD;
+1, 15, 29 and once monthly thereafter.</description>
+    <arm_group_label>Ketogenic Diet</arm_group_label>
+    <arm_group_label>Low Carbohydrate Diet</arm_group_label>
+    <arm_group_label>SGLT2i Therapy</arm_group_label>
+    <other_name>Faslodex</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Canagliflozin</intervention_name>
+    <description>Canagliflozin is an inhibitor of SGLT2, the transporter responsible for reabsorbing the majority of glucose filtered by the kidney. For the first week of canagliflozin dosing, the dose will be 100 mg. Starting week 2 and onward the dose will be 300 mg and supplied by the site.</description>
+    <arm_group_label>Ketogenic Diet</arm_group_label>
+    <arm_group_label>Low Carbohydrate Diet</arm_group_label>
+    <arm_group_label>SGLT2i Therapy</arm_group_label>
+    <other_name>Invokana</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Histologically confirmed metastatic HR-positive, HER2-negative breast cancer. HR&#xD;
+             positive is defined by ER status &gt;10% immunohistochemical (IHC) staining of any&#xD;
+             intensity. HER2 negativity is defined as the following as per the 2018 American&#xD;
+             Society of&#xD;
+&#xD;
+        Clinical Oncology and College of American Pathologists guidelines:&#xD;
+&#xD;
+          -  IHC score of 0 or 1+ or&#xD;
+&#xD;
+          -  Single-probe average HER2 copy number of &lt;4 signals/cell or&#xD;
+&#xD;
+          -  Dual-probe HER2/CEP17 ratio &lt;2 with an average HER2 copy number of &lt;4 signals/cell or&#xD;
+&#xD;
+          -  IHC 0, 1+, or 2+ and dual-probe HER2/CEP17 ratio ≥2 with an average HER2 copy number&#xD;
+             of &lt;4 signals/cell or&#xD;
+&#xD;
+          -  IHC 0 or 1+ and dual-probe HER2/CEP17 ratio &lt;2 with an average HER2 copy number of ≥6&#xD;
+             signals/cell or&#xD;
+&#xD;
+          -  IHC 0 or 1+ and dual-probe HER2/CEP17 ratio &lt;2 with an average HER2 copy number of ≥4&#xD;
+             and &lt;6 signals/cell.&#xD;
+&#xD;
+               -  Presence of one or more activating PIK3CA mutations in tumor tissue.&#xD;
+&#xD;
+               -  Measurable disease per RECIST v1.1 OR at least one predominantly lytic bone&#xD;
+                  lesion must be present.&#xD;
+&#xD;
+               -  Written informed consent provided&#xD;
+&#xD;
+               -  Female or male ≥18 years of age&#xD;
+&#xD;
+               -  Adequate archived tumor tissue for the analysis of PIK3CA mutational status or&#xD;
+                  evaluable circulating tumor DNA (ctDNA) for analysis of PIK3CA mutation status&#xD;
+&#xD;
+               -  Recurrence or progression of disease during or after endocrine-based therapy&#xD;
+&#xD;
+               -  Eastern Cooperative Oncology Group performance status of 0 or 1.&#xD;
+&#xD;
+               -  Life expectancy ≥6 months.&#xD;
+&#xD;
+               -  Adequate organ and marrow function as defined below:&#xD;
+&#xD;
+          -  Hemoglobin ≥9.0 g/dL (without blood transfusion within 7 days of laboratory test used&#xD;
+             to determine eligibility)&#xD;
+&#xD;
+          -  Absolute neutrophil count ≥1.5 × 109/L (without granulocyte colony stimulating factor&#xD;
+             support within 2 weeks of laboratory test used to determine eligibility)&#xD;
+&#xD;
+          -  Platelet count ≥100 × 109/L (without transfusion within 2 weeks of laboratory test&#xD;
+             used to determine eligibility)&#xD;
+&#xD;
+          -  Total bilirubin (TB) ≤1.0 × institutional upper limit of normal (ULN; Patients with&#xD;
+             known Gilbert's disease who have TB ≤3 × ULN may be enrolled)&#xD;
+&#xD;
+          -  Aspartate transaminase/alanine transaminase ≤2.5 × ULN with normal alkaline&#xD;
+             phosphatase (≤5 × ULN for patients with liver metastases) OR ≤1.5 × ULN in conjunction&#xD;
+             with alkaline phosphatase &gt;2.5 × ULN&#xD;
+&#xD;
+          -  Creatinine ≤1.5 mg/dL.&#xD;
+&#xD;
+               -  Fasting blood glucose ≤140 mg/dL and HbA1c &lt;8% (both criteria have to be met) and&#xD;
+                  not on anti-hyperglycemic medications other than metformin (i.e., metformin is&#xD;
+                  allowable if fasting blood glucose and HbA1c parameters are met).&#xD;
+&#xD;
+               -  Able to swallow oral medication.&#xD;
+&#xD;
+               -  Willing to be randomized to any of the diet arms and able to comply with the&#xD;
+                  protocol for the duration of the study including undergoing treatment and&#xD;
+                  scheduled visits and examinations&#xD;
+&#xD;
+               -  Women must be of postmenopausal status. Postmenopausal status is defined by any&#xD;
+                  one of the following criteria:&#xD;
+&#xD;
+          -  Prior bilateral oophorectomy&#xD;
+&#xD;
+          -  Age ≥60 years&#xD;
+&#xD;
+          -  Age &lt;60 years and amenorrheic for at least 12 months (spontaneous cessation of menses&#xD;
+             for 12 consecutive months or more in the absence of chemotherapy, tamoxifen,&#xD;
+             toremifene, or ovarian suppression) and follicle-stimulating hormone and estradiol&#xD;
+             levels in the postmenopausal range without an alternative cause.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior chemotherapy in the metastatic setting (note prior treatment with CDK4/6&#xD;
+             inhibitors is allowed)&#xD;
+&#xD;
+          -  Currently participating in a study of an investigational agent&#xD;
+&#xD;
+          -  Current participation in a formalized weight loss program or currently consuming a&#xD;
+             ketogenic diet&#xD;
+&#xD;
+          -  Body mass index &lt; 20 kg/m^2&#xD;
+&#xD;
+          -  Known hypersensitivity to alpelisib, fulvestrant, canagliflozin, or to any of the&#xD;
+             excipients of alpelisib or fulvestrant.&#xD;
+&#xD;
+          -  Concurrent malignancy (basal cell carcinoma of the skin, squamous cell carcinoma of&#xD;
+             the skin, or cervical cancer in situ that have undergone curative intent therapy are&#xD;
+             allowed)&#xD;
+&#xD;
+          -  Type 1 diabetes mellitus&#xD;
+&#xD;
+          -  Uncontrolled type 2 diabetes mellitus (hemoglobin A1c ≥8.0)&#xD;
+&#xD;
+          -  Type 2 diabetes mellitus requiring treatment with a sulfonylurea, meglitinide, SGLT2&#xD;
+             inhibitors or insulin.&#xD;
+&#xD;
+          -  Vegetarian or vegan eating habits.&#xD;
+&#xD;
+          -  Allergy or intolerance to egg, gluten, nut or milk protein that would interfere with&#xD;
+             adherence to diet.&#xD;
+&#xD;
+          -  Individuals with impaired decision making capacity&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Neil Iyengar, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Memorial Sloan Kettering Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Neil Iyengar, MD</last_name>
+    <phone>646-888-4714</phone>
+    <email>iyengarn@mskcc.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Komal Jhaveri, MD</last_name>
+    <phone>646-888-5145</phone>
+    <email>jhaverik@mskcc.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Neil Iyengar, MD</last_name>
+      <phone>646-888-4714</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Weill Cornell Medical College (Data Collection &amp; Data Analysis)</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Eleni Andreopoulou, MD</last_name>
+      <phone>646-962-9888</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ohio State University (Data Collection &amp; Data Analysis)</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sagar Sardesai, MD</last_name>
+      <phone>614-293-8000</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mskcc.org</url>
+    <description>Memorial Sloan Kettering Cancer Center</description>
+  </link>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 22, 2021</study_first_posted>
+  <last_update_submitted>October 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>breast cancer</keyword>
+  <keyword>Metastatic Breast Cancer</keyword>
+  <keyword>breast cancer stage IV</keyword>
+  <keyword>PIK3CA-mutant</keyword>
+  <keyword>HR-Positive Breast Cancer</keyword>
+  <keyword>ketogenic diet</keyword>
+  <keyword>canagliflozin</keyword>
+  <keyword>21-123</keyword>
+  <keyword>Memorial Sloan Kettering Cancer Center</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Canagliflozin</mesh_term>
+    <mesh_term>Fulvestrant</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Memorial Sloan Kettering Cancer Center supports the international committee of medical journal editors (ICMJE) and the ethical obligation of responsible sharing of data from clinical trials. The protocol summary, a statistical summary, and informed consent form will be made available on clinicaltrials.gov when required as a condition of Federal awards, other agreements supporting the research and/or as otherwise required. Requests for deidentified individual participant data can be made beginning 12 months after publication and for up to 36 months post publication. Deidentified individual participant data reported in the manuscript will be shared under the terms of a Data Use Agreement and may only be used for approved proposals. Requests may be made to: crdatashare@mskcc.org.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

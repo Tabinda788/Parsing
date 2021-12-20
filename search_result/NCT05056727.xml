@@ -1,0 +1,2493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8029">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05056727</url>
+  </required_header>
+  <id_info>
+    <org_study_id>D9488C00001</org_study_id>
+    <secondary_id>2021-001911-96</secondary_id>
+    <nct_id>NCT05056727</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Effect of Sodium Zirconium Cyclosilicate on Chronic Kidney Disease (CKD) Progression in Participants With CKD and Hyperkalaemia or at Risk of Hyperkalaemia</brief_title>
+  <acronym>STABILIZE-CKD</acronym>
+  <official_title>A Phase 3, International, Randomised, Double-blind, Placebo-controlled Study to Evaluate the Effect of Sodium Zirconium Cyclosilicate on CKD Progression in Participants With CKD and Hyperkalaemia or at Risk of Hyperkalaemia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AstraZeneca</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the effect of Sodium Zirconium Cyclosilicate (SZC),&#xD;
+      as adjunct to ACEi/ARB therapy (lisinopril or valsartan), on slowing CKD progression&#xD;
+      (assessed as the reduction in participant's glomerular filtration rate [eGFR] decline over&#xD;
+      time) in participants with hyperkalaemia or at high risk of hyperkalaemia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase 3, international, randomised withdrawal, double-blind, parallel-group,&#xD;
+      placebo-controlled study, to evaluate the effect of SZC as adjunct to RAASi therapy&#xD;
+      (lisinopril or valsartan) in slowing CKD progression in participants with CKD and&#xD;
+      hyperkalaemia or at risk of hyperkalaemia.&#xD;
+&#xD;
+      Specifically, the study will include participants with hyperkalaemia (S-K &gt; 5.0 to ≤ 6.5&#xD;
+      mmol/L by central laboratory) who are on adequate or limited RAASi therapy due to&#xD;
+      hyperkalaemia, and participants with normokalaemia (S-K ≥ 3.5 to ≤ 5.0 mmol/L by central&#xD;
+      laboratory) who are on limited RAASi therapy due to high risk of hyperkalaemia. High risk of&#xD;
+      hyperkalaemia is defined as (1) participants with a previous medical history or record of&#xD;
+      hyperkalaemia within the prior 24 months who are on limited RAASi therapy despite indication&#xD;
+      in CKD; (2) participants in whom RAASi therapy is indicated in CKD but are on limited RAASi&#xD;
+      therapy and have S-K ≥ 4.7 to ≤ 5.0 mmol/L; and (3) participants in whom RAASi therapy has&#xD;
+      been discontinued or reduced to suboptimal doses because of hyperkalaemia.&#xD;
+&#xD;
+      A participant is expected to be in the study for approximately 28 months, which includes up&#xD;
+      to 13 days for the screening period, 27 months for the intervention period, and 1 week for&#xD;
+      follow-up. The 27-month intervention period of the study consists of 3 phases, an initiation&#xD;
+      phase (up to 72 hours), a run-in phase (3 months/up to Day 90), and a maintenance phase (24&#xD;
+      months/104 weeks).&#xD;
+&#xD;
+      The initial dose of SZC will be administered to participants during the initiation phase. No&#xD;
+      changes will be made to the ACEi or ARB therapy at this stage. As soon as possible after the&#xD;
+      participant is confirmed to be normokalaemic at the end of the initiation phase, the&#xD;
+      participant will enter the run-in phase. Participants will receive open-label SZC and either&#xD;
+      lisinopril or valsartan. The aim of the run-in phase is to increase ACEi or ARB therapy&#xD;
+      stepwise to their maximum doses. After a 3-month run-in period for RAASi dose optimization&#xD;
+      while on SZC, participants will be randomized to SZC or placebo and followed during the&#xD;
+      subsequent 24 months of maintenance phase for efficacy and safety assessments.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 30, 2021</start_date>
+  <completion_date type="Anticipated">January 15, 2025</completion_date>
+  <primary_completion_date type="Anticipated">January 15, 2025</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Total eGFR slope and Chronic eGFR slope</measure>
+    <time_frame>Total slope: from randomisation visit to the end of the maintenance phase at Week 104; Chronic slope: from Week 12 visit to the end of the maintenance phase at Week 104</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time from randomisation to the first occurrence of any component in the composite of: Sustained ≥ 40% decline in eGFR; Onset of ESKD (kidney transplantation, maintenance dialysis, or sustained low eGFR); Death from kidney failure</measure>
+    <time_frame>From randomisation visit to the end of the maintenance phase at Week 104</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time from randomisation to first lisinopril/valsartan dose decrease</measure>
+    <time_frame>From randomisation visit to the end of the maintenance phase at Week 104</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>UACR measurements</measure>
+    <time_frame>From randomisation visit to the end of the maintenance phase at Week 104</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum bicarbonate measurements</measure>
+    <time_frame>From randomisation visit to the end of the maintenance phase at Week 104</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>S-K level classification</measure>
+    <time_frame>From randomisation visit to the end of the maintenance phase at Week 104</time_frame>
+    <description>Normal (3.5-5.0 mmol/L) or non-normal (&lt; 3.5 or &gt; 5.0 mmol/L)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>AEs/SAEs</measure>
+    <time_frame>From screening visit to follow-up visit at Week 105</time_frame>
+    <description>During screening only SAEs will be collected.&#xD;
+Assessments related to AEs cover:&#xD;
+Occurrence/frequency&#xD;
+Relationship to study intervention as assessed by investigator&#xD;
+Intensity&#xD;
+Seriousness&#xD;
+Death&#xD;
+AEs leading to discontinuation of study intervention</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1500</enrollment>
+  <condition>Renal Insufficiency, Chronic</condition>
+  <condition>Hyperkalemia</condition>
+  <arm_group>
+    <arm_group_label>Sodium Zirconium Cyclosilicate (SZC)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SZC 5 g every other day to 15 g once daily + Lisinopril/Valsartan</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo + Lisinopril/Valsartan</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sodium Zirconium Cyclosilicate (SZC)</intervention_name>
+    <description>Powder for oral suspension in a sachet. Unit dose strength: 5 or 10 g SZC. Single dose will consist of 1-3 sachets.&#xD;
+During Initiation Phase:&#xD;
+S-K &gt; 5 to ≤ 6.5 mmol/L (measured by L-Lab): Single dose contains 10 g SZC that should be suspended in 45 mL of water and administered three times daily for up to 72 hours until normokalaemic (S-K 3.5-5.0 mmol/L)&#xD;
+S-K ≥ 3.5 to ≤ 5 mmol/L (measured by L-Lab): Single dose contains 5 g SZC that should be suspended in 45 mL of water and administered once daily for 48 hours.&#xD;
+During Run-in and Maintenance Phases:&#xD;
+- Single dose contains 5 g SZC administered every other day or 5, 10, or 15 g SZC administered once daily that should be suspended in 45 mL of water.</description>
+    <arm_group_label>Sodium Zirconium Cyclosilicate (SZC)</arm_group_label>
+    <other_name>Lokelma TM</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Powder for oral suspension in a sachet. Placebo to match 5 or 10 g. Single dose will consist of 1-3 sachets.&#xD;
+During Maintenance Phase:&#xD;
+- Single dose contains 5 g placebo administered every other day or 5, 10, or 15 g placebo administered once daily that should be suspended in 45 mL of water.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lisinopril</intervention_name>
+    <description>Tablet for oral administration. Unit dose strength: 5 or 20 mg. Dosage level: 5, 10, 20, or 40 mg administered once daily.</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_label>Sodium Zirconium Cyclosilicate (SZC)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Valsartan</intervention_name>
+    <description>Tablet or capsule for oral administration. Unit dose strength: 40 or 160 mg. Dosage level: 40, 80, 160, or 320 mg administered once daily.</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_label>Sodium Zirconium Cyclosilicate (SZC)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Irbesartan</intervention_name>
+    <description>Tablet for oral administration. Unit dose strength: 75, 150 or 300 mg. Dosage level: 75, 150, or 300 mg administered once daily.&#xD;
+The study is designed to use valsartan as the selected ARB therapy adjunct to SZC. However, if an actual shortage of valsartan in a local market jeopardises the ability of participants to enter or continue in the study, valsartan can be temporarily substituted with irbesartan until the shortage of valsartan is resolved.</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_label>Sodium Zirconium Cyclosilicate (SZC)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Capable of giving signed informed consent which includes compliance with the&#xD;
+             requirements and restrictions listed in the ICF and protocol&#xD;
+&#xD;
+          -  Must be ≥ 18 years of age at the time of signing the informed consent. For&#xD;
+             participants &lt; 20 years of age and enrolled in Japan, a written informed consent&#xD;
+             should be obtained from the participant and his or her legally acceptable&#xD;
+             representative&#xD;
+&#xD;
+          -  Must have eGFR ≥ 25 and ≤ 59 mL/min/1.73m2 as calculated by central laboratory&#xD;
+             (CKD-EPI formula) at screening (Visit 1)&#xD;
+&#xD;
+          -  Must have UACR ≥ 200 and ≤ 5000 mg/g as calculated by central laboratory at screening&#xD;
+             (Visit 1)&#xD;
+&#xD;
+          -  Any of the following criteria, a or b, at screening (Visit 1):&#xD;
+&#xD;
+               1. Cohort A: Hyperkalaemia (S-K &gt; 5.0 to ≤ 6.5 mmol/L) as measured by the central&#xD;
+                  laboratory, and on adequate* or limited** RAASi therapy due to hyperkalaemia.&#xD;
+&#xD;
+               2. Cohort B: Normokalaemia (S-K ≥ 3.5 to ≤ 5.0 mmol/L) as measured by the central&#xD;
+                  laboratory and on limited** RAASi therapy due to high risk of hyperkalaemia. High&#xD;
+                  risk of hyperkalaemia is defined as:&#xD;
+&#xD;
+             (i) Participants with a previous medical history or record of hyperkalaemia within the&#xD;
+             prior 24 months, who are on limited** RAASi therapy despite indication in CKD.&#xD;
+&#xD;
+        (ii) Participants in whom RAASi therapy is indicated in CKD, who are on limited** RAASi&#xD;
+        therapy and have S-K ≥ 4.7 to ≤ 5.0 mmol/L.&#xD;
+&#xD;
+        (iii) Participants in whom RAASi therapy has been discontinued or reduced to suboptimal*&#xD;
+        doses because of hyperkalaemia.&#xD;
+&#xD;
+        *Adequate RAASi dose levels are defined in protocol; doses lower than these are considered&#xD;
+        as suboptimal.&#xD;
+&#xD;
+        **Limited RAASi therapy is defined as no or suboptimal RAASi therapy according to dosing&#xD;
+        guidance provided in protocol.&#xD;
+&#xD;
+          -  If on thiazide or loop diuretics, the dose must have been stable for 2 weeks prior to&#xD;
+             screening (Visit 1).&#xD;
+&#xD;
+          -  If on RAASi therapy, the dose must have been stable for one month prior to screening&#xD;
+             (Visit 1) and remain stable during screening.&#xD;
+&#xD;
+          -  If on an SGLT2i treatment, the dose must have been stable for 3 months prior to&#xD;
+             screening (Visit 1).&#xD;
+&#xD;
+          -  Participants must be one-year postmenopausal, surgically sterile, or using one highly&#xD;
+             effective form of birth control (defined as one that can achieve a failure rate of&#xD;
+             less than 1% per year when used consistently and correctly). They should have been&#xD;
+             stable on their chosen method of birth control for a minimum of one month prior to&#xD;
+             screening (Visit 1) and willing to remain on the birth control until one month after&#xD;
+             the last dose of study intervention.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  New York Heart Association class III to IV congestive heart failure at the time of&#xD;
+             screening (Visit 1) or previous history of severe or symptomatic heart failure.&#xD;
+&#xD;
+          -  Myocardial infarction, unstable angina, stroke, or transient ischaemic attack within 3&#xD;
+             months prior to screening (Visit 1).&#xD;
+&#xD;
+          -  Systolic blood pressure ≥ 160 mmHg or diastolic blood pressure ≥ 95 mmHg (confirmed by&#xD;
+             repeated measurement), within 2 weeks prior to screening (Visit 1). Participants may&#xD;
+             be rescreened once blood pressure is controlled.&#xD;
+&#xD;
+          -  QTcF &gt; 550 msec at screening (Visit 1).&#xD;
+&#xD;
+          -  History of QT prolongation associated with other medications that required&#xD;
+             discontinuation of that medication.&#xD;
+&#xD;
+          -  Congenital long QT syndrome.&#xD;
+&#xD;
+          -  Symptomatic or uncontrolled atrial fibrillation despite treatment, or asymptomatic&#xD;
+             sustained ventricular tachycardia. Participants with atrial fibrillation and heart&#xD;
+             rate controlled by medication are permitted.&#xD;
+&#xD;
+          -  Type 1 diabetes mellitus.&#xD;
+&#xD;
+          -  Lupus nephritis or anti neutrophil cytoplasmic antibody-associated vasculitis.&#xD;
+&#xD;
+          -  Change in renal function requiring hospitalisation or dialysis within 3 months prior&#xD;
+             to screening (Visit 1).&#xD;
+&#xD;
+          -  History of renal transplant (or anticipated need for renal transplant during the&#xD;
+             study).&#xD;
+&#xD;
+          -  Severe hepatic impairment, biliary cirrhosis, or cholestasis.&#xD;
+&#xD;
+          -  History of hereditary or idiopathic angioedema.&#xD;
+&#xD;
+          -  Any prior hypersensitivity to ACEi or ARB that in the investigator's judgment&#xD;
+             precludes use of lisinopril and valsartan/irbesartan. Prior hypersensitivity reactions&#xD;
+             to consider include, but are not limited to, development of angioedema, icterus,&#xD;
+             hepatitis, or neutropaenia or thrombocytopaenia requiring treatment modification.&#xD;
+&#xD;
+          -  Known hypersensitivity or previous anaphylaxis to SZC or to components thereof.&#xD;
+&#xD;
+          -  Any condition outside the CV and renal disease area such as, but not limited to,&#xD;
+             malignancy, with a life expectancy of less than 2 years based on investigator´s&#xD;
+             clinical judgment.&#xD;
+&#xD;
+          -  Active malignancy requiring treatment at the time of screening (Visit 1), except for&#xD;
+             successfully treated basal cell or treated squamous cell carcinoma.&#xD;
+&#xD;
+          -  S-K &gt; 6.5 or &lt; 3.5 mmol/L by local laboratory within 1 day prior to the scheduled&#xD;
+             first dose of SZC in the initiation phase.&#xD;
+&#xD;
+          -  Evidence of COVID-19 infection within 2 weeks prior to screening (Visit 1).&#xD;
+&#xD;
+          -  Treated with dual blockade of RAAS (combined use of an ACEi and ARB) within 3 months&#xD;
+             prior to screening (Visit 1).&#xD;
+&#xD;
+          -  Treated with an angiotensin receptor neprilysin inhibitor (ARNI; sacubitril/valsartan&#xD;
+             [Entresto®]) within 3 months prior to screening (Visit 1).&#xD;
+&#xD;
+          -  Treated with an MRA within 3 months prior to screening (Visit 1).&#xD;
+&#xD;
+          -  Treated with aliskiren-containing products with 3 months prior to screening (Visit 1).&#xD;
+&#xD;
+          -  Treated with SPS (eg, Kayexalate, Resonium), CPS (Resonium Calcium), patiromer&#xD;
+             (Veltassa®), or SZC (Lokelma®) within 7 days prior to screening (Visit 1).&#xD;
+&#xD;
+          -  Participation in another clinical study with an investigational product administered&#xD;
+             within one month prior to screening (Visit 1).&#xD;
+&#xD;
+          -  Not willing or not able to change to lisinopril or valsartan/irbesartan, the&#xD;
+             protocol-mandated RAASi study intervention.&#xD;
+&#xD;
+          -  Previous dosing with SZC in the present study.&#xD;
+&#xD;
+          -  Currently pregnant (confirmed with positive pregnancy test at screening [Visit 1]) or&#xD;
+             breastfeeding.&#xD;
+&#xD;
+          -  Judgment by the investigator that the participant is unlikely to comply with study&#xD;
+             procedures, restrictions, and requirements.&#xD;
+&#xD;
+          -  Involvement in the planning and/or conduct of the study (applies to both AstraZeneca&#xD;
+             staff and/or staff at the study site).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>130 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Glenn M. Chertow, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University School of Medicine, Stanford, CA USA</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>AstraZeneca Clinical Study Information Center</last_name>
+    <phone>1-877-240-9479</phone>
+    <email>information.center@astrazeneca.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Canyon Country</city>
+        <state>California</state>
+        <zip>91351</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Granada Hills</city>
+        <state>California</state>
+        <zip>91344</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Northridge</city>
+        <state>California</state>
+        <zip>91324</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>San Dimas</city>
+        <state>California</state>
+        <zip>91773</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Boynton Beach</city>
+        <state>Florida</state>
+        <zip>33435</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Lauderdale Lakes</city>
+        <state>Florida</state>
+        <zip>33313</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33126</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ocoee</city>
+        <state>Florida</state>
+        <zip>34761</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Temple Terrace</city>
+        <state>Florida</state>
+        <zip>33637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Nampa</city>
+        <state>Idaho</state>
+        <zip>83687</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60643</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Flint</city>
+        <state>Michigan</state>
+        <zip>48532</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Saint Clair Shores</city>
+        <state>Michigan</state>
+        <zip>48081</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Columbia</city>
+        <state>Missouri</state>
+        <zip>65201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Great Neck</city>
+        <state>New York</state>
+        <zip>11021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>New Bern</city>
+        <state>North Carolina</state>
+        <zip>28562</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Bethlehem</city>
+        <state>Pennsylvania</state>
+        <zip>18017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Chester</city>
+        <state>Pennsylvania</state>
+        <zip>19013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Arlington</city>
+        <state>Texas</state>
+        <zip>76015</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76164</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77099</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Newport News</city>
+        <state>Virginia</state>
+        <zip>23606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>ARG 1425</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Gotse Delchev</city>
+        <zip>2900</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kozloduy</city>
+        <zip>3320</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Pazardzhik</city>
+        <zip>4400</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Sandanski</city>
+        <zip>2800</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Baotou</city>
+        <zip>014010</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Beijing</city>
+        <zip>100029</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Beijing</city>
+        <zip>100034</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Beijing</city>
+        <zip>100044</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Beijing</city>
+        <zip>100050</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Beijing</city>
+        <zip>100191</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Beijing</city>
+        <zip>100730</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Beijing</city>
+        <zip>102206</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Beijing</city>
+        <zip>102218</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Changchun</city>
+        <zip>130041</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Changsha</city>
+        <zip>410008</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Changsha</city>
+        <zip>410013</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Changsha</city>
+        <zip>430033</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Chengdu</city>
+        <zip>610041</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Chongqing</city>
+        <zip>400010</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Guangzhou</city>
+        <zip>510630</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Guiyang</city>
+        <zip>550002</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Hangzhou</city>
+        <zip>310014</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Hefei</city>
+        <zip>230022</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Hefei</city>
+        <zip>230601</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Hengyang</city>
+        <zip>421001</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Huizhou</city>
+        <zip>516001</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Lanzhou</city>
+        <zip>730000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Lanzhou</city>
+        <zip>730030</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Nanchang</city>
+        <zip>330006</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Nanchang</city>
+        <zip>330006</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Nanjing</city>
+        <zip>210009</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Nanjing</city>
+        <zip>210011</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Nanjing</city>
+        <zip>210029</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ningbo</city>
+        <zip>315010</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Sanya</city>
+        <zip>572000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Shanghai</city>
+        <zip>200025</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Shanghai</city>
+        <zip>200040</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Shanghai</city>
+        <zip>201199</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Shanghai</city>
+        <zip>201210</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Shantou</city>
+        <zip>515041</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Shengyang</city>
+        <zip>110004</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Shenyang</city>
+        <zip>110001</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Shenzhen</city>
+        <zip>518036</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Taiyuan</city>
+        <zip>030012</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Urumqi</city>
+        <zip>830054</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Wenzhou</city>
+        <zip>325027</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Wuhan</city>
+        <zip>430010</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Wuhan</city>
+        <zip>430060</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Wuxi</city>
+        <zip>214023</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Xi'an</city>
+        <zip>710032</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Xi'an</city>
+        <zip>710061</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Xin Xiang</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Xuzhou</city>
+        <zip>221000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Yantai</city>
+        <zip>264000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Yinchuan</city>
+        <zip>750004</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Zhanjiang</city>
+        <zip>524001</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Zhengzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Zhuzhou</city>
+        <zip>412007</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Bari</city>
+        <zip>70124</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Brescia</city>
+        <zip>25123</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Messina</city>
+        <zip>98125</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Parma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Pavia</city>
+        <zip>27100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Piacenza</city>
+        <zip>29100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Roma</city>
+        <zip>00161</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Roma</city>
+        <zip>00168</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>San Giovanni Rotondo</city>
+        <zip>71013</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Verona</city>
+        <zip>37126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Akashi-shi</city>
+        <zip>674-0063</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Amagasaki-shi</city>
+        <zip>660-8550</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Atsugi-shi</city>
+        <zip>243-0035</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Fujisawa-shi</city>
+        <zip>251-8550</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Fukuoka-shi</city>
+        <zip>815-8555</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Hachioji-shi</city>
+        <zip>193-0998</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Hamamatsu-shi</city>
+        <zip>430-0906</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ina-shi</city>
+        <zip>396-8555</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kasugai-shi</city>
+        <zip>486-8510</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kitakyushu-shi</city>
+        <zip>802-8555</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Koga-shi</city>
+        <zip>306-0041</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Koto-ku</city>
+        <zip>136-0075</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kumamoto-shi</city>
+        <zip>861-8520</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kurashiki shi</city>
+        <zip>701 0192</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kurume-shi</city>
+        <zip>830-8543</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Matsumoto-shi</city>
+        <zip>390-1401</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Morioka-shi</city>
+        <zip>020-0066</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Nagano-shi</city>
+        <zip>380-0928</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Nagoya-shi</city>
+        <zip>457-8511</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Nagoya</city>
+        <zip>454-0933</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Neyagawa-shi</city>
+        <zip>572-0015</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Nishinomiya-Shi</city>
+        <zip>662-0918</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Noda-shi</city>
+        <zip>278-8501</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Oita-shi</city>
+        <zip>870-0039</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Osaka-shi</city>
+        <zip>553-0003</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Osaka-shi</city>
+        <zip>558-8558</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Osaka-shi</city>
+        <zip>559-0012</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Sakai-shi,Kita-ku</city>
+        <zip>591-8025</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Sapporo-shi</city>
+        <zip>006-0811</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Sashima-gun</city>
+        <zip>306-0433</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Shinjuku-ku</city>
+        <zip>160-0023</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Shizuoka-shi</city>
+        <zip>422-8527</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Tachikawa-shi</city>
+        <zip>190-8531</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Tsuchiura-shi</city>
+        <zip>300-0028</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Tsuchiura-shi</city>
+        <zip>300-0835</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ueda-shi</city>
+        <zip>386-8610</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Yaizu-shi</city>
+        <zip>425-8505</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Yamagata-shi</city>
+        <zip>990-8533</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Yokohama-shi</city>
+        <zip>236-0004</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Cuauhtemoc</city>
+        <zip>06700</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Culiacán</city>
+        <zip>80230</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>D.F</city>
+        <zip>14000</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Guadalajara</city>
+        <zip>44670</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Mazatlán</city>
+        <zip>82000</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Merida</city>
+        <zip>97070</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Merida</city>
+        <zip>97130</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Mexico</city>
+        <zip>03100</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Mexico</city>
+        <zip>06700</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>San Luis Potosí</city>
+        <zip>78250</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ponce</city>
+        <zip>00717</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Aramil</city>
+        <zip>624002</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>123182</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Perm</city>
+        <zip>614000</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Petrozavodsk</city>
+        <zip>185019</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Rostov-on-Don</city>
+        <zip>344022</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>191167</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>194104</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ufa</city>
+        <zip>450005</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Yaroslavl</city>
+        <zip>150062</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Alicante</city>
+        <zip>03010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>8003</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Marbella</city>
+        <zip>29603</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Santiago de Compostela</city>
+        <zip>15706</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Tenerife</city>
+        <zip>38010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kaohsiung</city>
+        <zip>833</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Keelung</city>
+        <zip>20448</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>New Taipei</city>
+        <zip>23561</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Taipei City</city>
+        <zip>110</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Taipei City</city>
+        <zip>114</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Taipei</city>
+        <zip>10002</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Taoyuan</city>
+        <zip>333</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06230</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06340</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ankara</city>
+        <zip>6230</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34010</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Izmir</city>
+        <zip>35040</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kahramanmaras</city>
+        <zip>46100</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kocaeli</city>
+        <zip>41380</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kyiv</city>
+        <zip>01601</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kyiv</city>
+        <zip>03057</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Vinnytsya</city>
+        <zip>21028</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Zhytomyr</city>
+        <zip>10002</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Hanoi</city>
+        <country>Vietnam</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ho Chi Minh City</city>
+        <zip>70000</zip>
+        <country>Vietnam</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ho Chi Minh</city>
+        <zip>700000</zip>
+        <country>Vietnam</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Bulgaria</country>
+    <country>China</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Mexico</country>
+    <country>Puerto Rico</country>
+    <country>Russian Federation</country>
+    <country>Spain</country>
+    <country>Taiwan</country>
+    <country>Turkey</country>
+    <country>Ukraine</country>
+    <country>United States</country>
+    <country>Vietnam</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 24, 2021</study_first_posted>
+  <last_update_submitted>November 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Renal Insufficiency, Chronic</keyword>
+  <keyword>Chronic Kidney Diseases</keyword>
+  <keyword>Hyperkalemia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Renal Insufficiency, Chronic</mesh_term>
+    <mesh_term>Renal Insufficiency</mesh_term>
+    <mesh_term>Hyperkalemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Valsartan</mesh_term>
+    <mesh_term>Lisinopril</mesh_term>
+    <mesh_term>Irbesartan</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers can request access to anonymized individual patient-level data from AstraZeneca group of companies sponsored clinical trials via the request portal.&#xD;
+All request will be evaluated as per the AZ disclosure commitment:&#xD;
+https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure. Yes, indicates that AZ are accepting requests for IPD, but this does not mean all requests will be shared.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>AstraZeneca will meet or exceed data availability as per the commitments made to the EFPIA Pharma Data Sharing Principles. For details of our timelines, please rerefer to our disclosure commitment at https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure.</ipd_time_frame>
+    <ipd_access_criteria>When a request has been approved AstraZeneca will provide access to the deidentified individual patient-level data in an approved sponsored tool. Signed Data Sharing Agreement (non-negotiable contract for data accessors) must be in place before accessing requested information. Additionally, all users will need to accept the terms and conditions of the SAS MSE to gain access. For additional details, please review the Disclosure Statements at https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure.</ipd_access_criteria>
+    <ipd_url>https://astrazenecagroup-dt.pharmacm.com/DT/Home</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

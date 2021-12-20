@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2491">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05128734</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TMZ-TNBC</org_study_id>
+    <nct_id>NCT05128734</nct_id>
+  </id_info>
+  <brief_title>Temozolomide Monotherapy or in Combination With Olaparib in Patients With Triple Negative Breast Cancer (TNBC)</brief_title>
+  <official_title>A Randomized Phase II Study of Temozolomide Monotherapy or in Combination With Olaparib in Patients With METHYLATED 06-Methylguanine-DNA Methyltransferase (MGMT) Pre-Treated Triple Negative Breast Cancer (TNBC)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AHS Cancer Control Alberta</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AHS Cancer Control Alberta</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized phase II study to evaluate the disease control rate (DCR) of patients&#xD;
+      with metastatic or locally advanced METHYLATED 06-methylguanine-DNA methyltransferase (MGMT)&#xD;
+      with triple-negative breast cancer (TNBC) treated with Temozolomide ± Olaparib. Patients will&#xD;
+      be randomized 1:1 to Treatment Arm 1 (temozolomide treatment) or Arm 2 (temozolomide plus&#xD;
+      olaparib treatment).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background and Rationale:&#xD;
+&#xD;
+      Breast cancer (BC) is the second leading cause of cancer deaths among Canadian women.&#xD;
+      Treatment of BC is based on the expression of estrogen receptor (ER), progesterone receptor&#xD;
+      (PgR), and amplification of human epidermal growth factor receptor 2 (HER2), in conjunction&#xD;
+      with traditional clinical-pathological features such as tumor grade, size, and lymph node&#xD;
+      status. Patients whose tumours lack ER, PgR and show no overexpression of HER2, collectively&#xD;
+      termed triple negative breast cancer (TNBC), account for 15-20% of all BC diagnoses. These&#xD;
+      tumours do not respond to hormone therapy or HER2 targeted agents and are treated instead&#xD;
+      with traditional chemotherapeutic agents, which are non-specific and are associated with&#xD;
+      potentially significant toxicity.&#xD;
+&#xD;
+      The alkylating agent Temozolomide (TMZ) is an oral chemotherapy drug that damages DNA by&#xD;
+      adding methyl groups to the O6- and N7- positions of guanine (O6-meG and N7-meG,&#xD;
+      respectively) and the N3- position of adenine (N3-meA). 06-methylguanine-DNA&#xD;
+      methyltransferase (MGMT) repairs O6- adducts caused by TMZ during DNA replication, resulting&#xD;
+      in cell survival. MGMT expression is commonly decreased in cancer due to promoter methylation&#xD;
+      (mMGMT), leading to enhanced TMZ-induced cell death. MGMT promoter methylation has been noted&#xD;
+      in many human tumours, including BC. Intriguingly, prevalence of mMGMT has been shown to be&#xD;
+      higher in TNBC relative to hormone receptor positive BCs. TMZ has been explored as a&#xD;
+      potential treatment option for BC patients.&#xD;
+&#xD;
+      In normal cells, the protein poly (ADP-ribose) polymerase (PARP) is involved in repairing the&#xD;
+      N7-meG DNA lesions caused by TMZ to ensure cell survival. Although TMZ toxicity is&#xD;
+      predominantly manifested by non-repair of the O6-meG adducts due to low/deficiency of MGMT,&#xD;
+      inhibition of PARP using a PARPi, such as Olaparib, has been shown to enhance TMZ's&#xD;
+      cytotoxicity. When PARP is unable to repair DNA damage, significant replication stress ensues&#xD;
+      that ultimately causes formation of double-strand breaks (DSBs), which can be repaired by&#xD;
+      homologous recombination (HR) to promote cell survival. Critical to the HR repair process,&#xD;
+      and cell survival in the absence of PARP, is a functional BRCA1 and BRCA2. In the absence of&#xD;
+      these proteins, the DSBs caused by replication stress cannot be repaired, resulting in cell&#xD;
+      death. Thus, individuals with germline mutations in BRCA1/2 genes (BRCA-positive) are&#xD;
+      extremely sensitive to PARPi. Approximately 10% of TNBC patients carry a germline BRCA&#xD;
+      mutation and therefore may be eligible for a PARP inhibitor such as olaparib.&#xD;
+&#xD;
+      Recently, early phase trials (clinicaltrials.gov: NCT01009788, NCT01618136, NCT01506609) have&#xD;
+      aimed to evaluate TMZ in combination with a PARPi in BC. The early trials showed promising&#xD;
+      results with Veliparib (PARPi) in combination with Temozolomide, with a 25% objective&#xD;
+      response rate (ORR), with a 50% clinical benefit rate (CBR) seen in BRCA-positive patients;&#xD;
+      however, recent results from the BROCADE study (NCT01506609) found that Veliparib plus TMZ&#xD;
+      was inferior to the other treatment arms evaluated but still showed a CBR of 73%, with 1&#xD;
+      complete and 19 partial responses noted (22% of patients) in BRCA-positive. Importantly, this&#xD;
+      trial did not evaluate mMGMT status in participants' tumour samples. Although not in BC, the&#xD;
+      recent findings that Veliparib in combination to TMZ in glioblastomas found that Veliparib&#xD;
+      significantly enhances the efficacy of TMZ in mMGMT tumours in patient-derived xenograft in&#xD;
+      vivo models, have been incorporated into an ongoing phase II/III clinical trial&#xD;
+      (NCT02152982), with the results still not being reported. Overall, the preclinical research&#xD;
+      findings strongly suggest that TMZ and PARPi combination may benefit BC patients with mMGMT&#xD;
+      tumours. Currently, there are no known clinical trials evaluating TMZ with the only&#xD;
+      clinically approved PARPi's, Olaparib and Talazoparib, in BC.&#xD;
+&#xD;
+      Study Design and Duration:&#xD;
+&#xD;
+      This is a randomized phase II study to evaluate DCR of patients with metastatic or locally&#xD;
+      advanced mMGMT TNBC treated with TMZ ± Olaparib. Patients will be randomized 1:1 to Treatment&#xD;
+      Arm 1 or 2.&#xD;
+&#xD;
+      Arm 1: Temozolomide (Day 1- 21 of 21-day cycles) Arm 2: Temozolomide (Day 1-7 of 21-day&#xD;
+      cycles) plus olaparib (Day 1-7 of 21 day cycles) Duration of treatment: Until disease&#xD;
+      progression, unacceptable toxicity, withdrawal of consent by patient.&#xD;
+&#xD;
+      Duration of study: 5 years; the study will end when either all patients die, or 3 years have&#xD;
+      passed since the last patient started study treatment, whichever comes first.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2022</start_date>
+  <completion_date type="Anticipated">December 1, 2027</completion_date>
+  <primary_completion_date type="Anticipated">April 1, 2027</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Disease Control Rate (DCR)</measure>
+    <time_frame>From the date of first study drug dosing to the date of first documented complete response or partial response or stable disease, whichever came first, assessed up to 5 years.</time_frame>
+    <description>To determine DCR by assessing complete/partial response or stable disease, as per RECIST 1.1 in patients with mMGMT TNBC treated with Temozolomide ± Olaparib.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>From the date of first study drug dosing to the date of first documented disease progression, assessed up to 5 years.</time_frame>
+    <description>To determine progression-free survival (PFS) of patients with mMGMT TNBC treated with Temozolomide ± Olaparib.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>From the date of first study drug dosing to the date of death, assessed up to 5 years.</time_frame>
+    <description>To determine OS by measuring the time interval from the date of the first dose of the study treatment until death due to any cause. Subjects who are still alive will be censored on the date of last contact.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of adverse events in participants treated with Temozolomide ± Olaparib as assessed by CTCAE version 5.0.</measure>
+    <time_frame>From the date of first study drug dosing until the last date of study drug dosing, assessed up to 5 years.</time_frame>
+    <description>To determine the number of adverse events related to Temozolomide ± Olaparib treatment according to National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE), version 5.0, effective November 27, 2017 [Common Terminology Criteria for Adverse Events (CTCAE).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DoR)</measure>
+    <time_frame>From the date of radiographic documentation of complete response or partial response or stable disease to the date of documented progression or death, whichever came first, up to 5 years.</time_frame>
+    <description>To determine the time duration between the radiographic documentation of complete response or partial response or stable disease (whichever is recorded first) until the first date that the progressive disease is documented or death.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Correlative Analyses</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Evaluation of promoter methylation and immunohistochemistry (IHC) targets relevant to MGMT and PARP repair pathways to identify patients most likely to derive benefit from temozolomide ± Olaparib.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Disease control rate in patients with BRCAness phenotype</measure>
+    <time_frame>From the date of first study drug dosing to the date of first documented complete response or partial response or stable disease, whichever came first, assessed up to 5 years.</time_frame>
+    <description>To determine whether tumor BRCAness phenotype is associated with disease control rate in patients with mMGMT TNBC treated with temozolomide ± olaparib.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Progression Free Survival in patients with BRCAness phenotype</measure>
+    <time_frame>From the date of first study drug dosing to the date of first documented disease progression, assessed up to 5 years.</time_frame>
+    <description>To determine whether tumor BRCAness phenotype is associated with progression-free survival in patients with mMGMT TNBC treated with temozolomide ± olaparib.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Overall Survival in patients with BRCAness phenotype</measure>
+    <time_frame>From the date of first study drug dosing to the date of death, assessed up to 5 years.</time_frame>
+    <description>To investigate whether tumour BRCAness phenotype is associated with overall survival in patients with mMGMT TNBC treated with temozolomide ± olaparib.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Duration of Response in patients with BRCAness phenotype</measure>
+    <time_frame>From the date of radiographic documentation of complete response or partial response or stable disease to the date of documented progression or death, whichever came first, up to 5 years.</time_frame>
+    <description>To determine the time duration between the radiographic documentation of complete response or partial response or stable disease (whichever is recorded first) until the first date that the progressive disease is documented or death in patients with BRCAness phenotype.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Breast Cancer Triple Negative</condition>
+  <arm_group>
+    <arm_group_label>Temozolomide Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Temozolomide: 50 mg/m2 daily in cycles of 21 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Temozolomide+Olaparib Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Temozolomide 75 mg/m2 day 1 to day 7 with Olaparib 200 mg BID, oral, day 1 to day 7 in cycles of 21 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Temozolomide</intervention_name>
+    <description>Temozolomidewill be administered orally for 7 days (D) every 21 days until progression of the disease in both arms.</description>
+    <arm_group_label>Temozolomide Arm</arm_group_label>
+    <arm_group_label>Temozolomide+Olaparib Arm</arm_group_label>
+    <other_name>ACH-TEMOZOLOMIDE</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Olaparib</intervention_name>
+    <description>Olaparib will be administered orally twice daily in treatment arm 2.</description>
+    <arm_group_label>Temozolomide+Olaparib Arm</arm_group_label>
+    <other_name>LYNPARZA</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Female or male patients with triple negative breast cancer confirmed by pathology of&#xD;
+             the primary tumour or metastatic biopsy sample. Estrogen receptor (ER) and&#xD;
+             progesterone receptor (PgR) must be ≤2 Allred score by Immunohistochemistry (IHC);&#xD;
+             human epidermal growth factor receptor 2 (HER2) 0 or 1+ by IHC, or 2+ with confirmed&#xD;
+             negativity by in situ hybridization (ISH) assay.&#xD;
+&#xD;
+          -  Available Formalin-Fixed Paraffin-Embedded (FFPE) tumour tissue. If archival tissue is&#xD;
+             not available, the participant will have the option to provide a fresh tumour tissue&#xD;
+             specimen from a newly obtained biopsy. If archival and fresh tissue are not available,&#xD;
+             the participants will be excluded.&#xD;
+&#xD;
+          -  MGMT promoter methylated by clinical assay.&#xD;
+&#xD;
+          -  Prior exposure to anthracyclines and taxanes in adjuvant/neoadjuvant and/or metastatic&#xD;
+             setting.&#xD;
+&#xD;
+          -  At least one line of chemotherapy in the context of metastatic disease.&#xD;
+&#xD;
+          -  ECOG performance status 0 or 1 (Appendix A).&#xD;
+&#xD;
+          -  Age ≥ 18 years old.&#xD;
+&#xD;
+          -  Measurable disease (at least one 1x1 cm or greater lesion evaluable by CT scan and/or&#xD;
+             clinically; i.e., includes clinically evaluable skin metastases). Patients with only&#xD;
+             metastases to the bone are not eligible (See Section 10 Measurement of Effect for the&#xD;
+             evaluation of measurable disease).&#xD;
+&#xD;
+          -  Adequate hematological, renal and hepatic function according to all of the following&#xD;
+             laboratory values (to be performed within 4 weeks prior to start of study treatment):&#xD;
+&#xD;
+               -  Absolute neutrophil count &gt; 1.5 x109/L&#xD;
+&#xD;
+               -  Platelets &gt; 100 x109/L&#xD;
+&#xD;
+               -  Serum creatinine &lt; 1.5 times upper limit of laboratory normal&#xD;
+&#xD;
+               -  Total serum bilirubin &lt; 1.5 times upper limit of laboratory normal&#xD;
+&#xD;
+               -  AST or ALT ≤ 2.5 times upper limit of laboratory normal&#xD;
+&#xD;
+               -  Alkaline phosphatase of ≤ 2.5 times upper limit of laboratory normal&#xD;
+&#xD;
+          -  Each subject must be able to sign an informed consent form prior to enrollment in the&#xD;
+             trial to document their understanding and willingness to participate.&#xD;
+&#xD;
+          -  Subjects must be accessible for treatment and follow-up at one of the participating&#xD;
+             centres.&#xD;
+&#xD;
+          -  Women/men of childbearing potential must have agreed to use a highly effective&#xD;
+             contraceptive method from the start of treatment until 6 months after treatment&#xD;
+             discontinuation. A woman is considered to be of &quot;childbearing potential&quot; if she has&#xD;
+             had menses at any time in the preceding 12 consecutive months. In addition to routine&#xD;
+             contraceptive methods, &quot;effective contraception&quot; also includes heterosexual celibacy&#xD;
+             and surgery intended to prevent pregnancy (or with a side-effect of pregnancy&#xD;
+             prevention) defined as a hysterectomy, bilateral oophorectomy or bilateral tubal&#xD;
+             ligation, or vasectomy/vasectomized partner. However, if at any point a previously&#xD;
+             celibate patient chooses to become heterosexually active during the time period for&#xD;
+             use of contraceptive measures outlined in the protocol, he/she is responsible for&#xD;
+             beginning contraceptive measures.&#xD;
+&#xD;
+          -  Male patients must not donate sperm and/or father a child during treatment with&#xD;
+             temozolomide alone or in combination with olaparib and for at least 6 months after the&#xD;
+             final dose.&#xD;
+&#xD;
+          -  Women of childbearing potential will have a pregnancy test as part of the Pre-Study&#xD;
+             Evaluation within 7 calendar days prior to first study treatment.&#xD;
+&#xD;
+          -  Patients with treated brain metastases are eligible if follow-up brain imaging after&#xD;
+             central nervous system (CNS)-directed therapy shows no evidence of radiographic and/or&#xD;
+             clinical progression and the patient does not require ongoing use of corticosteroids.&#xD;
+             Participants with known history of CNS involvement, should have a brain imaging&#xD;
+             (CT/MRI) at screening.&#xD;
+&#xD;
+          -  Patients with known history or current symptoms of cardiac disease, or history of&#xD;
+             treatment with cardiotoxic agents, should have a clinical risk assessment of cardiac&#xD;
+             function using the New York Heart Association Functional Classification. To be&#xD;
+             eligible for this trial, patients must be &gt;class 2B.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who have received chemotherapy within 4 weeks or radiotherapy to a non-target&#xD;
+             site within 2 weeks prior to entering the study or who have not recovered from adverse&#xD;
+             events from prior anti-cancer therapy (residual toxicities &gt; Grade 1) with the&#xD;
+             exception of alopecia.&#xD;
+&#xD;
+          -  Patients who are receiving any other investigational agents within 3 weeks of signing&#xD;
+             the main informed consent form.&#xD;
+&#xD;
+          -  Patients with a history of other malignancies, except: adequately treated non-melanoma&#xD;
+             skin cancer, curatively treated in-situ cancer of the cervix, or other solid tumours&#xD;
+             curatively treated with no evidence of disease for ≥ 5 years.&#xD;
+&#xD;
+          -  Patients with psychiatric illness/social situations/substance abuse that would limit&#xD;
+             compliance with study requirements.&#xD;
+&#xD;
+          -  Pregnant, breastfeeding women, and subjects unable and/or unwilling to use&#xD;
+             contraception methods.&#xD;
+&#xD;
+          -  Patients with metastatic disease to bone only.&#xD;
+&#xD;
+          -  Prior treatment with Temozolomide or Olaparib.&#xD;
+&#xD;
+          -  Patients who are hypersensitive to any ingredients in the formulation of Olaparib,&#xD;
+             temozolomide or to dacarbazine (DTIC).&#xD;
+&#xD;
+          -  Known BRCA1 or BRCA2 germline mutation(s).&#xD;
+&#xD;
+          -  Patients with HIV, Hepatitis B, or Hepatitis C infection.&#xD;
+&#xD;
+          -  Inclusion of Women and Minorities: There are no exclusions based on gender, race or&#xD;
+             ethnicity in this trial. The intention, therefore, is to recruit subjects from&#xD;
+             racial/ethnic groups in close approximation to the local incidence of the disease in&#xD;
+             these groups.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Don Morris, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Alberta Health Services</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mahsa Alaee, PhD</last_name>
+    <phone>403-476-2878</phone>
+    <email>mahsa.alaee@albertahealthservices.ca</email>
+  </overall_contact>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 22, 2021</study_first_posted>
+  <last_update_submitted>November 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>METHYLATED 06-methylguanine-DNA methyltransferase (MGMT)</keyword>
+  <keyword>Triple-Negative Breast Cancer</keyword>
+  <keyword>TNBC</keyword>
+  <keyword>Temozolomide</keyword>
+  <keyword>Olaparib</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Triple Negative Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Temozolomide</mesh_term>
+    <mesh_term>Olaparib</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

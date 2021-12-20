@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9593">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05036382</url>
+  </required_header>
+  <id_info>
+    <org_study_id>clinical trials_1</org_study_id>
+    <nct_id>NCT05036382</nct_id>
+  </id_info>
+  <brief_title>Factors to Affect the Provision of Health Data of Users Through PHR App</brief_title>
+  <official_title>A Study on Analysis of Factors to Affect the Provision of Health Data of Users Through the Personal Health Management Application</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Seoul National University Bundang Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Seoul National University Bundang Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      An experiment to determine if the incentive message affects people's active health data&#xD;
+      sharing.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Researchers send a weekly message to participants asking them to share their step data on&#xD;
+      their personal health records(PHR) applications. (4months in total)&#xD;
+&#xD;
+      (Baseline, 1month) For the first month, researchers send the same data request message to&#xD;
+      both counties.&#xD;
+&#xD;
+        1. term, 1 month) The researchers added a message saying, 'Incentives are provided for data&#xD;
+           sharing' only to the experimental group.&#xD;
+&#xD;
+        2. term, 1 month) Excludes incentive message for both groups&#xD;
+&#xD;
+        3. term, 1 month) The researchers added a message saying, 'Incentives are provided for data&#xD;
+           sharing' only to the control group.&#xD;
+&#xD;
+             -  For equity in both groups, an incentive message was provided to the control group&#xD;
+                in the last month under the same conditions as the experimental group.&#xD;
+&#xD;
+             -  Only the first 3 months of data were used for the study.&#xD;
+&#xD;
+      Hypothesis&#xD;
+&#xD;
+        -  In 1-term, the number of data sharing in the experimental group is higher than that in&#xD;
+           the control group.&#xD;
+&#xD;
+        -  In 1-term, the number of data sharing in the experimental group is more active than&#xD;
+           baseline period.&#xD;
+&#xD;
+        -  In 2-term, the number of data sharing in the experimental group is still higher than in&#xD;
+           the baseline period.&#xD;
+&#xD;
+        -  Over the next 1 month, the number of sharing in the experimental group was maintained,&#xD;
+           which was still higher than that of the control group.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Anticipated">August 25, 2021</start_date>
+  <completion_date type="Anticipated">October 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Crossover</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Average number of data shares</measure>
+    <time_frame>3 months</time_frame>
+    <description>The average number of steps data sharing between the experimental group and the control group according to the incentive message</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants with increased number of shares compared to baseline-term</measure>
+    <time_frame>3 months</time_frame>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Personal Health Record</condition>
+  <arm_group>
+    <arm_group_label>Experimental Group</arm_group_label>
+    <description>A group that receives an incentive message one month after the start of the experiment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <description>A group that does not receive an incentive message (for equity, incentive messages will be sent in the last month of the experiment)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Steps data observation</intervention_name>
+    <description>Sending more step data from the experimental group that received the incentive message</description>
+    <arm_group_label>Experimental Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        People with smartphones that have no problems installing and using health applications&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults aged 19 to 70&#xD;
+&#xD;
+          -  A person who has no difficulty in installing and using PHR app under study&#xD;
+&#xD;
+          -  A person who has expressed his/her willingness to participate voluntarily&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Children/Adolescents under the age of 18 or Seniors over 71 years of age&#xD;
+&#xD;
+          -  Those who do not have a smartphone or who are not proficient in using a smartphone&#xD;
+&#xD;
+          -  Persons who are uncooperative and difficult to understand the research method due to&#xD;
+             cognitive decline&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Seoul National University Bundang Hospital</name>
+      <address>
+        <city>Gyeonggi-do</city>
+        <state>Bundang-gu, Seongnam-si</state>
+        <zip>13620</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>June 2021</verification_date>
+  <study_first_submitted>August 30, 2021</study_first_submitted>
+  <study_first_submitted_qc>August 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 5, 2021</study_first_posted>
+  <last_update_submitted>August 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>August 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>PHR</keyword>
+  <keyword>Incentive Mechanism</keyword>
+  <keyword>Token Economy</keyword>
+  <keyword>Data Sharing</keyword>
+  <keyword>Lifelog data</keyword>
+  <keyword>RCT</keyword>
+  <keyword>Personal Health Record</keyword>
+  <keyword>Health Mobile app</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

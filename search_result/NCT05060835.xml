@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7713">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05060835</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ONCO-FIRE</org_study_id>
+    <nct_id>NCT05060835</nct_id>
+  </id_info>
+  <brief_title>ONCOlogy-targeted NLP-powered Federated Hyper-archItecture and Data Sharing Framework for Health Data Reusability</brief_title>
+  <acronym>ONCO-FIRE</acronym>
+  <official_title>ONCOlogy-targeted NLP-powered Federated Hyper-archItecture and Data Sharing</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Instituto de Investigacion Sanitaria La Fe</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Karolinska University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University College Cork</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Medical University of Gdansk</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Instituto de Investigacion Sanitaria La Fe</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      ONCO-FIRE proposes to build a novel hyper-architecture and a common data model (CDM) for&#xD;
+      oncology, as well as a rich, modular toolset enabling significantly increased&#xD;
+      interoperability, exploitability, use and reuse of diverse, multi-modal health data available&#xD;
+      in electronic Health Records (EHR) and cancer big data repositories to the benefit of health&#xD;
+      professionals, healthcare providers and researchers; this will eventually lead to more&#xD;
+      efficient and cost-effective health care procedures and workflows that support improved care&#xD;
+      delivery to cancer patients encompassing support for cancer early prediction, diagnosis, and&#xD;
+      follow-up. The applicability, usefulness and usability of the proposed hyper-architecture,&#xD;
+      CDM and toolset for oncology and the high exploitability of health data will be demonstrated&#xD;
+      in diverse data exploitation scenarios related to breast and prostate cancer involving a&#xD;
+      number of Virtual Assistants (VAs) and advanced services offering to health care&#xD;
+      professionals (HCPs), hospital administration/healthcare providers and researchers&#xD;
+      data-driven decision-support and easy navigation across large amounts of cancer-related&#xD;
+      information. Through the above mentioned outcomes and the (meta)data interoperability&#xD;
+      achieved, ONCO-FIRE contributes to the exploitation of large volumes, highly heterogeneous&#xD;
+      (meta)data in EHR and data repositories including imaging data, structured data (e.g.&#xD;
+      demographics, laboratory, pathological data), as well as diverse formats of unstructured&#xD;
+      clinical reports and notes (e.g. text, pdf), including (but not limited to) temporal&#xD;
+      information related to the patient care pathway and genomics data currently &quot;hidden&quot; in&#xD;
+      unstructured medical reports, and more. Importantly, ONCO-FIRE interconnects, following a&#xD;
+      federated approach, large, distributed cancer imaging repositories, currently used for AI&#xD;
+      tools training and validation, with patient registries and EHRs of cancer-related data and&#xD;
+      supports exploitation of relevant unstructured data through novel Natural Language Processing&#xD;
+      (NLP) tools. The ultimate goal is to establish a patient-centric, federated multi-source and&#xD;
+      interoperable data-sharing ecosystem, where healthcare providers, clinical experts, citizens&#xD;
+      and researchers contribute, access and reuse multimodal health data, thereby making a&#xD;
+      significant contribution to the creation of the European Health Data Space.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 2023</start_date>
+  <completion_date type="Anticipated">December 2025</completion_date>
+  <primary_completion_date type="Anticipated">June 2025</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Estimation of Overall survival</measure>
+    <time_frame>Date of start of treatment untill Date of death or last contact/visit, assessed up to 2 years.</time_frame>
+    <description>The lenght (in days) of time form date of start of treatment for a disease that patients is still alive.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Estimation of progression free survival</measure>
+    <time_frame>Date of start treatment until date of progression (measured by increase size in millimeters using radiological images), assessed up to 2 years.</time_frame>
+    <description>The length of time (days) during and after treatment of a disease that a patient lives with the disease but it does not get worse.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Estimation (%) of tumor aggressiveness non-respondents vs respondents to neoadjuvant treatment (breast):</measure>
+    <time_frame>Date of start of treatment until date of ending treatmen, responses will be assessed during the following 6 months after starting treatment in neoadyuvancy unless toxicity or progression has occurred</time_frame>
+    <description>Proportion of patients who have complete response evaluating the target lesion according to Miller/Payne Grading system [Ogston et al., 2003]: 1A. Evaluation of target Tumor: G5 as pathological complete response, no tumor left; G4: more than 90% loss of tumor cells; G3: between 30-90% reduction in tumor cells; G2: loss of tumor &lt;30%; G1: no reduction. 1B: Evaluating the lymph nodes: A: negative; B: lymph nodes with metastasis and without changes by chemotherapy; C: lymph nodes with metastasis with evidence of partial response, D: lymph nodes with changes attributed to response without residual infiltration. 1C: Using images to evaluated radiological response: Size and diameter in millimeters of the target lesion using RM and TC or PET/CT for extension analysis (lymph nodes and metastasis).</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">5000</enrollment>
+  <condition>Breast Cancer</condition>
+  <condition>Prostate Cancer</condition>
+  <arm_group>
+    <arm_group_label>Breast Cancer</arm_group_label>
+    <description>patients diagnosed with breast cancer at any stage.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Prostate cancer</arm_group_label>
+    <description>patients diagnosed with prostate cancer at any stage</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Virtual assistants offering medical recommendations to health care profesionals</intervention_name>
+    <description>the project will interconnect, following a federated approach, large, distributed cancer imaging repositories, currently used for AI tools training and validation, with patient registries and EHRs of cancer-related data and supports exploitation of relevant unstructured data through novel Natural Language Processing (NLP) tools</description>
+    <arm_group_label>Breast Cancer</arm_group_label>
+    <arm_group_label>Prostate cancer</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        patients of breast cancer and prostate cancer&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients of age ≥ 18 years.&#xD;
+&#xD;
+          -  Individuals referred to hospitals for diagnosis and/or treatment of breast cancer or&#xD;
+             prostate cancer, either at first diagnoses, progression, or relapses.&#xD;
+&#xD;
+          -  Availability of radiological images: 2D mammography or 2D synthetic digital&#xD;
+             tomosynthesis, ultrasound, and magnetic resonance for breast cancer; magnetic&#xD;
+             resonance for prostate cancer.&#xD;
+&#xD;
+          -  Availability of pathological report (surgical specimen, including immunohistochemistry&#xD;
+             and genetic information).&#xD;
+&#xD;
+          -  Availability of treatment allocation (neoadjuvant/Adjuvant and Advanced disease):&#xD;
+             (scheme, duration, benefit).&#xD;
+&#xD;
+          -  Availability of treatment response evaluation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient with incomplete or low-quality data (radiological, pathological or clinical)&#xD;
+             In relation to the use of the data already existing in the four AI4HI repositories,&#xD;
+             ONCO-FIRE will not intervene with the inclusion and exclusion criteria of each of the&#xD;
+             four projects and will select those data that fit the ONCO-FIRE research purposes.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Ana Penades-Blasco, M.Ec</last_name>
+    <phone>+34 961245633</phone>
+    <email>ana_penades@iislafe.es</email>
+  </overall_contact>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 20, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 29, 2021</study_first_posted>
+  <last_update_submitted>October 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>N/D</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5873">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05084768</url>
+  </required_header>
+  <id_info>
+    <org_study_id>5210340</org_study_id>
+    <nct_id>NCT05084768</nct_id>
+  </id_info>
+  <brief_title>Dd-cfDNA and Treg in Prediction of Kidney Transplant Acute Rejection</brief_title>
+  <official_title>Integration of Donor-derived Cell-free DNA With HLA-DR+TNFR2+ Regulatory T Cell in the Prediction of Acute Rejection and Graft Function After Kidney Transplantation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Loma Linda University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Loma Linda University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Acute rejection after kidney transplantation should ideally be diagnosed prior to immunologic&#xD;
+      injury in a non-invasive fashion in order to improve long-term graft function. Donor-derived&#xD;
+      cell-free DNA (ddcfDNA) is a promising method to do so as it is elevated prior to acute&#xD;
+      rejection and has good predictive performance especially for antibody-mediated and high&#xD;
+      severity T-cell mediated rejection. Its ability to predict low severity T-cell mediated&#xD;
+      rejection and future graft function remains equivocal. Regulatory T cells (Tregs) are&#xD;
+      essential in transplant tolerance by suppressing effector immune responses. Circulating&#xD;
+      post-transplant highly suppressive HLA-DR+ Tregs were reduced in recipients who developed&#xD;
+      acute rejection. Preliminary results in a cohort including predominantly low severity T-cell&#xD;
+      mediated rejection also showed that pre-transplant circulating highly suppressive TNFR2+&#xD;
+      Tregs were reduced in and could predict acute rejection. Integrating dd-cfDNA with&#xD;
+      HLA-DR+TNFR2+ Treg could improve the predictive performance for acute rejection especially of&#xD;
+      low severity and potentially predict graft function. Plasma dd-cfDNA and HLA-DR+TNFR2+ Tregs&#xD;
+      will be measured in 150 kidney transplant recipients at scheduled intervals during the first&#xD;
+      6 months post-transplant. Predictive accuracy of a model integrating ddcfDNA and&#xD;
+      HLA-DR+TNFR2+ Treg for acute rejection will be tested using ROC curve analysis and&#xD;
+      multivariate logistic regression. Predictive accuracy for 1-year graft function will be&#xD;
+      tested using multivariate linear regression. High predictive performance for acute rejection&#xD;
+      and graft function using a model integrating dd-cfDNA and HLA-DR+TNFR2+ Treg would help&#xD;
+      identify kidney transplant recipients at immunologic risk early on and allow personalization&#xD;
+      of immunosuppression accordingly.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background&#xD;
+&#xD;
+      Despite advances in immunosuppression, 10-year graft survival after kidney transplantation&#xD;
+      has remained stagnant at around 50%. Timely diagnosis of acute rejection in kidney transplant&#xD;
+      recipients is essential for improving long-term graft survival. Clinical suspicion for acute&#xD;
+      rejection currently relies on monitoring elevation in serum creatinine and diagnostic&#xD;
+      confirmation with a kidney allograft biopsy. Serum creatinine elevation, however, is&#xD;
+      non-specific for acute rejection and is detected after significant immunological damage to&#xD;
+      the allograft already happens. Confirmation with a biopsy is invasive, associated with a 1%&#xD;
+      major complication rate, and subjected to inadequate sampling as well as expert reader&#xD;
+      variance. Novel ways to monitor and diagnose acute rejection prior to immunological injury in&#xD;
+      a non-invasive fashion are needed in an effort to improve long-term graft survival after&#xD;
+      kidney transplantation. Cell-free DNA is normally released into the bloodstream when cells&#xD;
+      undergo apoptosis or necrosis. In the context of kidney transplantation and the presence of&#xD;
+      an allograft, donor-derived cell-free DNA (dd-cfDNA) is continuously shed into the&#xD;
+      bloodstream of the recipient as a result of allograft cell turnover and represents a small&#xD;
+      fraction of total cell-free DNA (donor- plus recipient-derived). Dd-cfDNA fraction is&#xD;
+      initially high from ischemia-reperfusion injury and usually decreases to a baseline level 10&#xD;
+      to 14 days after kidney transplantation. Subsequently, episodes of allograft injury such as&#xD;
+      acute rejection leads to an increase in dd-cfDNA fraction into the recipient's bloodstream.&#xD;
+      Using single-nucleotide polymorphisms-based multiplexed polymerase chain reaction technology&#xD;
+      and advanced bioinformatics, plasma dd-cfDNA fraction can now be measured in a kidney&#xD;
+      transplant recipient without the need for prior genotyping of the donor or the recipient.&#xD;
+      Recent studies have demonstrated that plasma dd-cfDNA is a promising novel method to detect&#xD;
+      acute rejection prior to immunological injury in a non-invasive fashion as it is elevated in&#xD;
+      advance and at the time of biopsy-proven acute rejection. A cutoff dd-cfDNA fraction greater&#xD;
+      or equal to 1% was able to predict acute rejection with moderate to good performance in those&#xD;
+      studies with area under the curves (AUCs) varying from 0.59 - 0.97 on receiver operating&#xD;
+      characteristic (ROC) curve analyses. When examining acute rejection by mechanism, dd-cfDNA&#xD;
+      fraction appears to have better predictive performance for antibody-mediated rejection&#xD;
+      (ABMR), while its utility to predict T cell-mediated rejection (TCMR) remains equivocal&#xD;
+      especially when of lower severity (less than Banff 1B). Nevertheless, in lower severity TCMR&#xD;
+      (Banff 1A or subclinical), a dd-cfDNA fraction greater or equal to 0.5% was shown to&#xD;
+      potentially identify kidney transplant recipients at risk for a steeper estimated glomerular&#xD;
+      filtration rate (eGFR) decline, developing de-novo donor specific antibody, and future&#xD;
+      rejection episodes. Despite being approved for clinical use by Medicare, several limitations&#xD;
+      remain with dd-cfDNA in the prediction of acute rejection. First, elevation in dd-cfDNA is&#xD;
+      not rejection-specific as other medical complications such as urinary tract infections,&#xD;
+      systemic infections, and BK virus nephropathy can also increase dd-cfDNA. Secondly,&#xD;
+      predictive performance of dd-cfDNA for TCMR, especially of lower severity, remains equivocal.&#xD;
+      Finally, it is unclear whether early dd-cfDNA fraction after kidney transplantation can&#xD;
+      predict future immunologic graft injuries and function. Novel ways to make dd-cfDNA more&#xD;
+      specific for acute rejection, improve its predictive performance for TCMR, and correlate it&#xD;
+      with future graft function would further improve its clinical utility. Regulatory T cells&#xD;
+      (Tregs) are essential in the induction and maintenance of tolerance in various kidney&#xD;
+      transplant animal models by suppressing effector immune responses. Tregs constitute 5 - 10%&#xD;
+      of CD4+ T cells and are traditionally identified as a homogeneous population with high&#xD;
+      expression of CD25, low expression of CD127, and expression of the master transcription&#xD;
+      factor FoxP3. Recent data, however, indicate that Tregs are more heterogeneous and that&#xD;
+      expression of additional molecules than the traditional CD25, CD127, and FoxP3 influence&#xD;
+      their suppressive functional activity. In human kidney transplantation, posttransplant&#xD;
+      circulating CD4+CD25hiCD127lo/- Tregs were similar between recipients who suffered from acute&#xD;
+      rejection and those that did not. However, high expression of HLA-DR on post-transplant&#xD;
+      circulating Tregs, which identified a population with maximally suppressive functional&#xD;
+      activity, was lower in recipients who suffered from acute rejection. Another molecule&#xD;
+      identifying a Treg population with maximally suppressive functional activity is TNFR2. TNFR2&#xD;
+      mediates the biological function of the pro-inflammatory cytokine TNF-a, which is involved in&#xD;
+      the recruitment and activation of effector T cells during allograft rejection. Interestingly,&#xD;
+      TNFR2 was shown to be preferentially expressed on Tregs as opposed to effector T cells. In&#xD;
+      both murine and human studies, TNF-α signaling via TNFR2+ Tregs increased their survival,&#xD;
+      proliferation, and suppressive functional activity.&#xD;
+&#xD;
+      Preliminary results The investigators previously studied TNFR2+ Tregs in the specific context&#xD;
+      of kidney transplantation. The investigators confirmed in a cohort of kidney transplant&#xD;
+      candidates that expression of TNFR2 on Tregs correlated with suppressive function measured&#xD;
+      via a traditional co-culture assay of Tregs with stimulated effector T cells (r=0.63,&#xD;
+      p&lt;0.01). In a cohort of 76 deceased donor kidney transplant recipients, the investigators&#xD;
+      published on the role of pre-transplant circulating recipient TNFR2+ Tregs in the prediction&#xD;
+      of delayed and slow graft function after kidney transplantation. Since delayed and slow graft&#xD;
+      function are known risk factors for the development of acute rejection after kidney&#xD;
+      transplantation, the investigators then examined the role of pre-transplant circulating&#xD;
+      recipient TNFR2+ Tregs in the prediction of acute rejection in the same cohort of recipients&#xD;
+      in which 75 had available acute rejection data with promising results especially with low&#xD;
+      severity TCMR.&#xD;
+&#xD;
+      Hypotheses&#xD;
+&#xD;
+      Since previous studies and the investigators' preliminary results in a cohort predominantly&#xD;
+      including low severity TCMR suggest a role for HLA-DR+TNFR2+ Tregs in the prediction of acute&#xD;
+      rejection, the investigators hypothesize that integrating it with dd-cfDNA fraction could&#xD;
+      improve specificity and predictive performance for acute rejection, especially TCMR. The&#xD;
+      investigators also hypothesize that measurement of early dd-cfDNA fraction and pretransplant&#xD;
+      HLA-DR+TNFR2+ Tregs could predict future outcomes after kidney transplantation including&#xD;
+      acute rejection and graft function measured by eGFR.&#xD;
+&#xD;
+      Objectives&#xD;
+&#xD;
+        1. Test whether integrating dd-cfDNA fraction with HLA-DR+TNFR2+ Tregs in advance or at the&#xD;
+           time of allograft injury can improve the predictive performance for acute rejection&#xD;
+           after kidney transplantation.&#xD;
+&#xD;
+        2. Test whether integrating dd-cfDNA fraction at 2 weeks post-transplant with&#xD;
+           pre-transplant HLADR+TNFR2+ Tregs can predict future acute rejection episodes and 1-year&#xD;
+           graft function.&#xD;
+&#xD;
+      The investigators will recruit 150 adult kidney transplant recipients with insurance coverage&#xD;
+      for dd-cfDNA fraction measurement.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2021</start_date>
+  <completion_date type="Anticipated">October 1, 2026</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2026</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with biopsy-proven acute rejection graded with the Banff score</measure>
+    <time_frame>1 year</time_frame>
+    <description>TCMR 1A, TCMR 1B, TCMR 2A, TCMR 2B, TCMR 3B, ABMR</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with graft failure based on return to chronic dialysis or death</measure>
+    <time_frame>1 year</time_frame>
+    <description>Return to chronic dialysis, Death</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Acute Rejection of Renal Transplant</condition>
+  <condition>Graft Failure</condition>
+  <arm_group>
+    <arm_group_label>Rejection of kidney transplant</arm_group_label>
+    <description>Diagnostic test: measurement of regulatory T cell and donor-derived cell-free DNA</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No rejection of kidney transplant</arm_group_label>
+    <description>Diagnostic test: measurement of regulatory T cell and donor-derived cell-free DNA</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Donor-derived cell-free DNA</intervention_name>
+    <description>As mentioned previously</description>
+    <arm_group_label>No rejection of kidney transplant</arm_group_label>
+    <arm_group_label>Rejection of kidney transplant</arm_group_label>
+    <other_name>Regulatory T cell</other_name>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Peripheral blood mononuclear cells&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult kidney transplant candidates/recipients&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult kidney transplant candidates/recipients&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age less than 18&#xD;
+&#xD;
+          -  Multi-organ transplants&#xD;
+&#xD;
+          -  Kidney transplant candidates/recipients with HIV&#xD;
+&#xD;
+          -  Kidney transplant candidates/recipients with HCV&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Minh-Tri Nguyen, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Loma Linda University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ryan Evans, CCRP</last_name>
+    <phone>9095583870</phone>
+    <email>rlevans@llu.edu</email>
+  </overall_contact>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 20, 2021</study_first_posted>
+  <last_update_submitted>October 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

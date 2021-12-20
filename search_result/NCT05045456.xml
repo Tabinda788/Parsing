@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8895">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05045456</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AI Watch2</org_study_id>
+    <nct_id>NCT05045456</nct_id>
+  </id_info>
+  <brief_title>Observational Clinical Investigation of EKG Diagnostic Performance of the Apple Watch Augmented With an AI Algorithm</brief_title>
+  <official_title>Investigation Clinique Observationnelle Des Performances de Diagnostic Electrocardiographique de l'Apple Watch (App ECG Version 2.0) augmentée d'un Algorithme d'Intelligence Artificielle</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cardiologs Technologies</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cardiologs Technologies</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This observational prospective clinical investigation will evaluate the performance on an&#xD;
+      Artificial Intelligence (AI) solution interpreting ECG (electrocardiogram) collected from an&#xD;
+      Apple Watch (AI-AW) in the detection of Atrial Fibrillation (AF)&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Each patient hospitalized for ablation or cardioversion and having given consent to&#xD;
+      participate in the clinical investigation will have ECG recordings by Apple Watch performed&#xD;
+      simultaneously with a 12D ECG measurement by a cardiologist before and/or after treatment, in&#xD;
+      accordance with the existing patient monitoring protocol. Similarly, patients attending a&#xD;
+      rhythmology consultation or hospitalized in the cardiology department will have simultaneous&#xD;
+      ECG recordings with an Apple Watch during the scheduled routine 12D ECG recording.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 9, 2021</start_date>
+  <completion_date type="Anticipated">February 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Performance of AF detection</measure>
+    <time_frame>1 day</time_frame>
+    <description>Performance of AF detection by an artificial intelligence (AI) solution interpreting ECG collected via Apple Watches (AI-AW), compared to physician's diagnosis from the 12 leads ECG</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>AW versus AI-AW</measure>
+    <time_frame>1 day</time_frame>
+    <description>Comparison of Apple Watch (AW) and AI-AW AF detection performance</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AI-AW versus AI-12lead</measure>
+    <time_frame>1 day</time_frame>
+    <description>Comparison of the performance of AF detection by AI-AW and AI applied to the 12-lead ECG</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Atrial Fibrillation</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Cardiologs Platform</intervention_name>
+    <description>Two Apple Watch recordings (one recording with the watch on the wrist and one on the left side of the abdomen) interpreted by Cardiologs AI done simultaneously with each 12-lead ECG</description>
+    <other_name>Apple Watch</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        200 participants: patients hospitalized for ablation or cardioversion or in cardiology&#xD;
+        department or patients having cardiac rhythm consultation and who have consented to&#xD;
+        participate to the study&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient aged 22 or older, able and willing to participate in the study&#xD;
+&#xD;
+          -  Patient admitted to hospital for ablation, cardioversion or cardiac&#xD;
+             electrophysiological exploration or who comes for regular rhythmology consultations or&#xD;
+             hospitalized in cardiology department&#xD;
+&#xD;
+          -  Patient who has read the information note and has given his or her consent before any&#xD;
+             procedure related to the study&#xD;
+&#xD;
+          -  Patient affiliated to social security&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant or breastfeeding women&#xD;
+&#xD;
+          -  Patient with a pacemaker, implantable defibrillator or cardiac resynchronisation&#xD;
+             therapy device.&#xD;
+&#xD;
+          -  Subject related to the investigator or any other staff member directly involved in the&#xD;
+             conduct of the study&#xD;
+&#xD;
+          -  Patient incapable of giving consent, minor or adult patient protected by law&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>22 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Laurent Fiorina, Dr</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Institut Cardiologique Paris Sud Hôpital Privé Jacques Cartier</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Audrey Plesse</last_name>
+    <phone>+33142613216</phone>
+    <email>audrey@cardiologs.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Christine Henry</last_name>
+    <phone>+33142613216</phone>
+    <email>christine@cardiologs.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Institut Cardiologique Paris Sud Hôpital Privé Jacques Cartier</name>
+      <address>
+        <city>Massy</city>
+        <zip>91300</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laurent Fiorina, MD</last_name>
+      <phone>+33617422500</phone>
+      <email>laurent_fiorina@yahoo.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 16, 2021</study_first_posted>
+  <last_update_submitted>November 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Atrial Fibrillation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

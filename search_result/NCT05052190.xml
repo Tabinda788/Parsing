@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8377">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05052190</url>
+  </required_header>
+  <id_info>
+    <org_study_id>17-001889-AM-00015</org_study_id>
+    <secondary_id>R01AI135029-04</secondary_id>
+    <nct_id>NCT05052190</nct_id>
+  </id_info>
+  <brief_title>Patient Portal Flu Vaccine Reminders_RCT 4</brief_title>
+  <official_title>Improving Influenza Vaccination Delivery Across a Health System by the Electronic Health Records Patient Portal RCT 4</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, Los Angeles</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, Los Angeles</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This trial is taking place in Los Angeles, CA at clinics within the UCLA Health System.&#xD;
+&#xD;
+      The study design is a 2x2 nested factorial design. Patients will be randomized into 1)&#xD;
+      receiving text based reminder messages, 2) portal-based reminder messages or 3) the control&#xD;
+      group. Patients randomized to the intervention arms will receive reminders if they are due&#xD;
+      for influenza vaccine.&#xD;
+&#xD;
+      Nested within the reminder arms (text or portal), we will have 2 additional components for&#xD;
+      which patients will be randomized separately:&#xD;
+&#xD;
+        -  A direct scheduling link within the reminder letter enabling the patient to schedule an&#xD;
+           influenza vaccine only visit (direct scheduling link vs. no direct scheduling link).&#xD;
+&#xD;
+        -  A pre-appointment reminder, encouraging patients to ask for their influenza vaccine at&#xD;
+           their upcoming appointment (pre-appointment reminder encouraging influenza vaccination&#xD;
+           vs. standard pre-appointment reminder not mentioning influenza vaccination)&#xD;
+&#xD;
+      Despite the Advisory Committee on Immunization Practices (ACIP) recommendation in 2010 that&#xD;
+      all people above 6 months of age should receive an annual flu vaccine, vaccination rates&#xD;
+      remain low: at 6m-4.9 yrs. (70%), 5-17.9 yrs. (56%), 18-64.9 yrs. (38%), and &gt;65 yrs. (63%).&#xD;
+      The investigators will assess the effectiveness of MyChart R/R messages and text R/R messages&#xD;
+      as compared to the standard of care control (no messages).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Sub-optimal vaccination rates are a significant problem in the U.S., despite their&#xD;
+      effectiveness in preventing morbidity and mortality from vaccine-preventable illness. For&#xD;
+      influenza specifically, annual epidemics of influenza cause substantial morbidity in the U.S.&#xD;
+      with up to 40,00-80,000 deaths/year and many hospitalizations, emergency and outpatient&#xD;
+      visits, and significant costs.&#xD;
+&#xD;
+      Reminder/recall (R/R), sent by phone, mail or other modality, can improve child and adult&#xD;
+      influenza vaccination rates. However, the majority of pediatric or adult primary care&#xD;
+      practices do not conduct R/R. Barriers are lack of finances, personnel, and algorithms to&#xD;
+      identify eligible patients.&#xD;
+&#xD;
+      A technological breakthrough that might overcome these barriers involves patient portals--&#xD;
+      secure, web-based communication systems, embedded within electronic health records (EHRs),&#xD;
+      for patients and providers to communicate with each other via email and the internet. Portals&#xD;
+      are used by about half of Americans and half of UCLA patients. Another is text messaging at&#xD;
+      the health system level.&#xD;
+&#xD;
+      This randomized controlled trial will assess the effectiveness of reminders messages sent to&#xD;
+      portal users, encouraging influenza vaccination, on increasing influenza vaccination rates&#xD;
+      within a health system. Patients will be randomized into three groups: 1) one-third of&#xD;
+      patients will receive reminder letters via the portal, 2) one-third will receive reminders&#xD;
+      via text messages sent by the health system and 3) one-third will not receive reminders.&#xD;
+&#xD;
+      Patients in the reminder arms will be further randomized (separately) for two additional&#xD;
+      components: 1) direct appointment scheduling and 2) pre-appointment reminders.&#xD;
+&#xD;
+      Direct scheduling: The convenience of scheduling an appointment for influenza vaccination may&#xD;
+      increase the likelihood that patients receive an influenza vaccination. Patients receiving&#xD;
+      reminders will be randomized to receive one of two types of reminder letters: 1) one half&#xD;
+      will receive flu vaccine reminder letters with a link to the MyChart direct appointment&#xD;
+      scheduling page and 2) one half will receive flu vaccine reminder message without the direct&#xD;
+      appointment scheduling link.&#xD;
+&#xD;
+      Pre-appointment flu reminders: Finally, a missed opportunities for vaccination occurs when&#xD;
+      patients are eligible for vaccination but are not offered a vaccine at their medical&#xD;
+      appointment. Pre-appointment reminders, sent in advance of an upcoming appointment,&#xD;
+      encouraging the patient talk to their doctor about influenza vaccination, may increase the&#xD;
+      likelihood of that patient receiving a vaccine. Patients will be randomized to one of two&#xD;
+      groups: 1) one half will receive modified pre-appointment reminders that mention influenza&#xD;
+      vaccination and 2) one half will receive the standard pre-appointment reminders for an&#xD;
+      upcoming appointment (no mention of influenza vaccination).&#xD;
+&#xD;
+      Interventions that apply Behavioral Economics principles in vaccine promotion messaging can&#xD;
+      increase vaccine receipt. We will include ownership language in the pre-appointment messages.&#xD;
+      Additionally, the convenience of reminders sent via text and with a Direct Appointment&#xD;
+      Schedule link included enables patients to self-schedule a flu vaccine only visit, reducing&#xD;
+      friction for vaccine receipt.&#xD;
+&#xD;
+      For the primary analysis, the primary outcome will be the patient's end of flu season&#xD;
+      vaccination status. Intervention effects will be assessed using mixed effects log-binomial&#xD;
+      models. Models will contain terms for messaging modality (text v. portal v. none),&#xD;
+      pre-appointment reminders (sent v. not sent), and direct scheduling link (included v. not&#xD;
+      included).&#xD;
+&#xD;
+      The R/R text and portal messages (with and without direct scheduling links) and&#xD;
+      pre-appointment reminders and will all begin in October of 2021.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">October 14, 2021</start_date>
+  <completion_date type="Anticipated">April 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <intervention_model_description>Pragmatic comparative effectiveness trial with a standard-of-care control group</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Receipt of the Annual Influenza Vaccine Among Adult Index Patients</measure>
+    <time_frame>6 months</time_frame>
+    <description>Percent of patients with annual influenza vaccination (between 10/1/21 - 4/1/22) among adult index patients. Outcomes will be assessed via vaccine data extraction from the electronic health record and external claims and pharmacy data.&#xD;
+The index patients must also be an active UCLA Health MyChart user (&gt;= 1 login over the last 12 months from 8/1/21, excluding activity on the user's initial profile activation date). Individuals not affiliated with any primary care practice will be excluded from the primary analysis.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Receipt of the Annual Influenza Vaccine Among Pediatric Index Patients</measure>
+    <time_frame>6 months</time_frame>
+    <description>Percent of patients with annual influenza vaccination (between 10/1/21 - 4/1/22) among pediatric index patients. Outcomes will be assessed via vaccine data extraction from the electronic health record and external claims and pharmacy data.&#xD;
+The index patients must also be an active UCLA Health MyChart user (&gt;= 1 login over the last 12 months from 8/1/21, excluding activity on the user's initial profile activation date). Individuals not affiliated with any primary care practice will be excluded from the primary analysis.</description>
+  </primary_outcome>
+  <number_of_arms>9</number_of_arms>
+  <enrollment type="Anticipated">428635</enrollment>
+  <condition>Influenza</condition>
+  <condition>Respiratory Tract Infections</condition>
+  <arm_group>
+    <arm_group_label>Text Message R/R with Direct Appointment Schedule Link</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants in this arm will receive up to 3 R/R messages by text. R/R message will be sent with a Direct Appointment Scheduling link and instructions to make a flu vaccine appointment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Text Message R/R without Direct Appointment Schedule Link</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants in this arm will receive up to 3 R/R messages by text with no link to schedule an appointment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Text Message R/R with Direct Appointment Schedule Link + text Pre-Appointment Reminder</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants in this arm will receive up to 3 R/R messages by text. R/R message will be sent with a Direct Appointment Scheduling link and instructions to make a flu vaccine appointment. Participants will receive a Pre-Appointment Reminder via text when they schedule a visit during the study period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Text Message R/R without Direct Appointment Schedule Link + Text Pre-Appointment Reminder</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants in this arm will receive up to 3 R/R messages by text. R/R message will be sent without a Direct Appointment Scheduling link and instructions to make a flu vaccine appointment. Participants will receive a Pre-Appointment Reminder via text when they schedule a visit during the study period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Portal Message R/R with Direct Appointment Schedule Link</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants in this arm will receive up to 3 R/R messages by portal. R/R message will be sent with a Direct Appointment Scheduling link and instructions to make a flu vaccine appointment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Portal Message R/R without Direct Appointment Schedule Link</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants in this arm will receive up to 3 R/R messages by portal. R/R message will be sent without a Direct Appointment Scheduling link and instructions to make a flu vaccine appointment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Portal Message R/R with Direct Appointment Schedule Link + Portal Pre-Appointment Reminder</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants in this arm will receive up to 3 R/R messages by portal. R/R message will be sent with a Direct Appointment Scheduling link and instructions to make a flu vaccine appointment. Participants will receive a Pre-Appointment Reminder advising them to ask their doctor for the flu vaccine at their upcoming appointment via portal when they schedule a visit during the study period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Portal Message R/R without Direct Appointment Schedule Link + Portal Pre-Appointment Reminder</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants in this arm will receive up to 3 R/R messages by portal. R/R message will be sent without a Direct Appointment Scheduling link and instructions to make a flu vaccine appointment. Participants will receive a Pre-Appointment Reminder advising them to ask their doctor for the flu vaccine at their upcoming appointment via portal when they schedule a visit during the study period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No R/R Message or Pre-Appointment Reminder</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants do not receive any flu vaccine R/R message or Pre-Appointment Reminder advising them to ask their doctor for the flu vaccine at their upcoming appointment during the specified flu season.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Text Message R/R with Direct Appointment Schedule Link</intervention_name>
+    <description>Participants in this arm will receive up to 3 R/R messages by text reminding them to get a flu vaccine with a Direct Appointment Scheduling link and instructions to make a flu vaccine appointment.</description>
+    <arm_group_label>Text Message R/R with Direct Appointment Schedule Link</arm_group_label>
+    <arm_group_label>Text Message R/R with Direct Appointment Schedule Link + text Pre-Appointment Reminder</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Text Message R/R without Direct Appointment Schedule Link</intervention_name>
+    <description>Participants in this arm will receive up to 3 R/R messages by text reminding them to get a flu vaccine without a Direct Appointment Scheduling link and instructions to make a flu vaccine appointment.</description>
+    <arm_group_label>Text Message R/R without Direct Appointment Schedule Link</arm_group_label>
+    <arm_group_label>Text Message R/R without Direct Appointment Schedule Link + Text Pre-Appointment Reminder</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Text Pre-Appointment Reminder</intervention_name>
+    <description>Participants will receive a Pre-Appointment Reminder via text when they schedule a visit during the study period advising them to get the flu vaccine at their upcoming appointment.</description>
+    <arm_group_label>Text Message R/R with Direct Appointment Schedule Link + text Pre-Appointment Reminder</arm_group_label>
+    <arm_group_label>Text Message R/R without Direct Appointment Schedule Link + Text Pre-Appointment Reminder</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Portal Message R/R with Direct Appointment Schedule Link</intervention_name>
+    <description>Participants in this arm will receive up to 3 R/R messages by portal. R/R message will be sent with a Direct Appointment Scheduling link and instructions to make a flu vaccine appointment.</description>
+    <arm_group_label>Portal Message R/R with Direct Appointment Schedule Link</arm_group_label>
+    <arm_group_label>Portal Message R/R with Direct Appointment Schedule Link + Portal Pre-Appointment Reminder</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Portal Message R/R without Direct Appointment Schedule Link</intervention_name>
+    <description>Participants in this arm will receive up to 3 R/R messages by portal. R/R message will be sent without a Direct Appointment Scheduling link and instructions to make a flu vaccine appointment.</description>
+    <arm_group_label>Portal Message R/R without Direct Appointment Schedule Link</arm_group_label>
+    <arm_group_label>Portal Message R/R without Direct Appointment Schedule Link + Portal Pre-Appointment Reminder</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Portal Pre-Appointment Reminder</intervention_name>
+    <description>Participants will receive a Pre-Appointment Reminder via the portal advising them to ask their doctor for the flu vaccine at their upcoming appointment via text when they schedule a visit during the study period.</description>
+    <arm_group_label>Portal Message R/R with Direct Appointment Schedule Link + Portal Pre-Appointment Reminder</arm_group_label>
+    <arm_group_label>Portal Message R/R without Direct Appointment Schedule Link + Portal Pre-Appointment Reminder</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Active Portal Users A patient within the UCLA Health System identified as a primary&#xD;
+             care patient per an internal algorithm&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  A patient within the UCLA Health System not identified as a primary care patient per&#xD;
+             an internal algorithm&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>6 Months</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peter Szilagyi, MPH, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, Los Angeles</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of California LA</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>99095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>August 31, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 22, 2021</study_first_posted>
+  <last_update_submitted>November 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, Los Angeles</investigator_affiliation>
+    <investigator_full_name>Peter G Szilagyi, MD MPH</investigator_full_name>
+    <investigator_title>Executive Vice Chair, Clinical Research, UCLA David Geffen School of Medicine, Dept of Pediatrics, University of California, Los Angeles</investigator_title>
+  </responsible_party>
+  <keyword>Reminder Recall (R/R)</keyword>
+  <keyword>Influenza Vaccine</keyword>
+  <keyword>Electronic Health Record</keyword>
+  <keyword>Text Message</keyword>
+  <keyword>Vaccine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Influenza, Human</mesh_term>
+    <mesh_term>Respiratory Tract Infections</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

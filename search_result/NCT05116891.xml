@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3402">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05116891</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CAN04CLIN004</org_study_id>
+    <nct_id>NCT05116891</nct_id>
+  </id_info>
+  <brief_title>A Phase 1/2 Study of CAN04 in Combination With Different Chemotherapy Regimens in Subjects With Advanced Solid Tumors</brief_title>
+  <official_title>A Phase 1 / 2 Study of CAN04, a Fully Humanized Monoclonal Antibody Against IL1RAP, in Combination With Different Chemotherapy Regimens in Subjects With Advanced Solid Tumours</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cantargia AB</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cantargia AB</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 1/2, open-label, multicentric, non-randomised, parallel-arm study that aims&#xD;
+      to establish the safety, tolerability, and initial efficacy of CAN04 in combination with 3&#xD;
+      SoC chemotherapies (mFOLFOX, DTX, and G/C).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 22, 2021</start_date>
+  <completion_date type="Anticipated">September 6, 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 8, 2023</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Dose Escalation Phase (Phase 1):&#xD;
+mFOLFOX and Gemcitabine/Cisplatin Arm: Subjects with any type of locally advanced or metastatic cancer who have no therapeutic alternatives with proven survival benefit or who are eligible for mFOLFOX or gemcitabine/cisplatin (G/C) backbone chemotherapy as standard of care (SoC) for the next-line treatment.&#xD;
+Docetaxel Arm: Subjects with locally advanced or metastatic non-small cell lung cancer (NSCLC) cancer who have no therapeutic alternative with proven survival benefit or who are eligible for docetaxel (DTX) backbone chemotherapy as SoC for the next-line treatment.&#xD;
+Phase 2: Subjects with locally advanced or metastatic colorectal cancer (mCRC), NSCLC, or biliary tract cancer (BTC) who are eligible for mFOLFOX, DTX, or G/C treatment, respectively.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To assess the safety and tolerability of CAN04 in combination with selected standard hemotherapy regimens and to establish MTD and/or RP2D.</measure>
+    <time_frame>Until 30 days after the last dose of study treatment (EOT visit) in Phase 1</time_frame>
+    <description>Frequency, duration, and severity of AEs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To assess the preliminary efficacy of CAN04 in combination with chemotherapy regimens measured as tumour response.</measure>
+    <time_frame>Until approximately 3 years after last treatment in Phase 2.</time_frame>
+    <description>ORR defined as the percentage of subjects with PR or CR based on RECIST v1.1.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To assess preliminary anti-tumour activity of CAN04 in combination with selected standard chemotherapy regimens.</measure>
+    <time_frame>Every 12 weeks until disease progression or death from any cause in Phase 1.</time_frame>
+    <description>ORR/iORR, PFS/iPFS according to RECIST v1.1/iRECIST 1.1 DCR/iDCR measured as a percentage of subjects with CR/iCR + PR/iPR + SD/iSD ≥16 weeks Duration of response (DOR)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess preliminary anti-tumour activity of CAN04 in combination with selected standard chemotherapy regimens.</measure>
+    <time_frame>Until approximately 3 years after last treatment in Phase 2.</time_frame>
+    <description>iORR, PFS/iPFS according to RECIST v1.1/iRECIST 1.1 DCR/iDCR measured as a percentage of subjects with CR/iCR + PR/iPR + SD/iSD ≥16 weeks Duration of response (DOR) Overall Survival (OS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To further characterise the safety and tolerability of CAN04 in combination with chemotherapy at the MTD/RP2D.</measure>
+    <time_frame>Until 30 days after the last dose of study treatment (EOT visit) in Phase 2.</time_frame>
+    <description>Frequency, duration, and severity of AEs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess preliminary anti-tumour activity of CAN04 in combination with selected standard chemotherapy regimens.</measure>
+    <time_frame>Until 30 days after the last dose of study treatment (EOT visit).</time_frame>
+    <description>Change from baseline upon treatment in serum biomarkers: CEA and CA19-9 (CEA for subjects with CRC; CEA and CA19-9 for subjects with BTC), Changes from baseline upon treatment in ECOG, PS and body weight</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess PK of CAN04 after a single dose and at steady state</measure>
+    <time_frame>From first dose until 30 days after the last dose of study treatment (EOT visit)</time_frame>
+    <description>Serum concentrations of CAN04</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>To evaluate the effect of CAN04 when administered in combination with chemotherapy on subject-reported cancer-related fatigue.</measure>
+    <time_frame>Until 30 days after the last dose of study treatment (EOT visit) in Phase 2</time_frame>
+    <description>Changes upon treatment in Functional Assessment of Chronic Illness Therapy (FACIT)-Fatigue Scores.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>To evaluate the effect of CAN04 when administered in combination with chemotherapy on health-related quality of life.</measure>
+    <time_frame>Until 30 days after the last dose of study treatment (EOT visit) in Phase 2</time_frame>
+    <description>Changes upon treatment in European Organisation for Research and Treatment of Cancer (EORTC) QLQ-C30 scores</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>To assess changes in serum biomarker IL-6 when CAN04 is administered in combination with standard of care chemotherapy.</measure>
+    <time_frame>From first dose until 30 days after the last dose of study treatment (EOT visit).</time_frame>
+    <description>Changes in serum concentration of IL-6.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>To assess changes in serum biomarker IL-8 when CAN04 is administered in combination with standard of care chemotherapy.</measure>
+    <time_frame>From first dose until 30 days after the last dose of study treatment (EOT visit).</time_frame>
+    <description>Changes in serum concentration of IL-8.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>To assess changes in serum biomarker CRP when CAN04 is administered in combination with standard of care chemotherapy.</measure>
+    <time_frame>From first dose until 30 days after the last dose of study treatment (EOT visit).</time_frame>
+    <description>Changes in serum concentration of C-reactive protein (CRP).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>To assesschanges in serum biomarker sILRAP when CAN04 is administered in combination with standard of care chemotherapy.</measure>
+    <time_frame>From first dose until 30 days after the last dose of study treatment (EOT visit).</time_frame>
+    <description>Changes in serum concentration of soluble IL1RAP.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>To assess ADA formation against CAN04.</measure>
+    <time_frame>Until 30 days after the last dose of study treatment (EOT visit).</time_frame>
+    <description>ADA against CAN04</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">165</enrollment>
+  <condition>Advanced Solid Tumors</condition>
+  <condition>Colorectal Cancer</condition>
+  <condition>Non Small Cell Lung Cancer</condition>
+  <condition>Biliary Tract Cancer</condition>
+  <arm_group>
+    <arm_group_label>CAN04 and chemotherapy (mFOLFOX)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>12 cycles for mFOLFOX/CAN04-Each cycle is 2 weeks.mFOLFOX/CAN04 treatment arm: CAN04 and mFOLFOX are administered on Day 1 with a mFOLFOX continuation of regime on Day 2. CAN04 is only administered on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CAN04 and chemotherapy (DTX)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>6 cycles for DTX/CAN04, Cycles are 3 weeks. DTX/CAN04 treatment arm: CAN04 and DTX are administered on Day 1 followed by CAN04 in monotherapy on Day 8.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CAN04 and chemotherapy (G/C)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>8 cycles for G/C/CAN04, Cycles are 3 weeks. G/C/CAN04 treatment arm: CAN04 and G/C are administered on Day 1/Day 8.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CAN04 (nadunolimab)</intervention_name>
+    <description>FULLY HUMANISED MONOCLONAL ANTIBODY AGAINST IL1RAP</description>
+    <arm_group_label>CAN04 and chemotherapy (DTX)</arm_group_label>
+    <arm_group_label>CAN04 and chemotherapy (G/C)</arm_group_label>
+    <arm_group_label>CAN04 and chemotherapy (mFOLFOX)</arm_group_label>
+    <other_name>nadumolimab</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>mFOLFOX</intervention_name>
+    <description>mFOLFOX/CAN04</description>
+    <arm_group_label>CAN04 and chemotherapy (mFOLFOX)</arm_group_label>
+    <other_name>Modified Folfox; Oxaliplatin, 5-fluorouracil (5-FU), leucovorin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>DTX</intervention_name>
+    <description>DTX/CAN04</description>
+    <arm_group_label>CAN04 and chemotherapy (DTX)</arm_group_label>
+    <other_name>Docetaxel</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>G/C</intervention_name>
+    <description>G/C/CAN04</description>
+    <arm_group_label>CAN04 and chemotherapy (G/C)</arm_group_label>
+    <other_name>Gemcitabine and cisplatin</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        PHASE 1 and PHASE 2:&#xD;
+&#xD;
+          -  Subject must be able to understand and sign written informed consent, according to&#xD;
+             local guidelines.&#xD;
+&#xD;
+          -  Subject must be ≥18 years of age at the time of signature of the ICF.&#xD;
+&#xD;
+          -  Subject must have an ECOG PS score of 0 or 1.&#xD;
+&#xD;
+          -  Subject must have adequate organ function, as indicated by the laboratory values in&#xD;
+             the protocol&#xD;
+&#xD;
+          -  Women of childbearing potential must have a negative serum pregnancy test before study&#xD;
+             entry. Women of non-childbearing potential will have had at least 24 continuous months&#xD;
+             of natural (spontaneous) amenorrhea, and an appropriate clinical profile (eg, age&#xD;
+             appropriate, history of vasomotor symptoms), or have had hysterectomy, bilateral&#xD;
+             salpingectomy or bilateral oophorectomy&gt;6 weeks before screening.&#xD;
+&#xD;
+          -  Male or female subjects: Male subjects with female partners of childbearing potential&#xD;
+             and female subjects of childbearing potential are required to use 2 forms of&#xD;
+             acceptable contraception, including 1 barrier method, during their participation in&#xD;
+             the study and for 4 months following last dose CAN04, or whatever is longer for the&#xD;
+             relevant chemotherapies:&#xD;
+&#xD;
+               -  Oxaliplatin: 4 months after the last dose for female subjects and 6 months for&#xD;
+                  male subjects.&#xD;
+&#xD;
+               -  Cisplatin or docetaxel: 6 months after the last dose for male and female&#xD;
+                  subjects.&#xD;
+&#xD;
+          -  Male subjects must also refrain from donating sperm during their participation in the&#xD;
+             study.&#xD;
+&#xD;
+          -  Subjects must not have contraindications according to the approved local summary of&#xD;
+             product characteristics (SmPC) for the respective components of the SoC chemotherapies&#xD;
+             (Applicable for France only).&#xD;
+&#xD;
+        PHASE 1 (Dose Escalation)&#xD;
+&#xD;
+          -  Subject has histologically or cytologically confirmed diagnosis of locally advanced&#xD;
+             cancer or metastatic cancer. Subjects do not need to have measurable disease per&#xD;
+             response evaluation criteria in solid tumours (RECIST) v1.1.&#xD;
+&#xD;
+          -  Subject has a condition where all standard therapeutic options with proven survival&#xD;
+             benefit have been exhausted, refused by the subject, or are contraindicated. OR&#xD;
+             Subject has a condition where 1 of the 3 study regimens (mFOLFOX, DTX, or G/C) is&#xD;
+             considered SoC for the next-line treatment.&#xD;
+&#xD;
+          -  Subject has additional disease characteristics per treatment arm:&#xD;
+&#xD;
+        mFOLFOX Arm: All subjects eligible for mFOLFOX can be enrolled. A maximum of 4 previous&#xD;
+        lines of treatment for metastatic disease is allowed.&#xD;
+&#xD;
+        DTX Arm: Subjects eligible to receive DTX as monotherapy for NSCLC can be enrolled in this&#xD;
+        treatment arm. No more than 2 lines of prior systemic anti-cancer therapies for the&#xD;
+        metastatic disease are allowed.&#xD;
+&#xD;
+        Note: Targeted therapy is not counted as prior therapy.&#xD;
+&#xD;
+        G/C Arm: All subjects eligible for G/C can be enrolled (including first-line treatments).&#xD;
+&#xD;
+        PHASE 2 All treatment arms in Phase 2 (CRC, NSCLC or BTC)&#xD;
+&#xD;
+          -  Subject must have at least 1 measurable lesion as defined by RECIST v1.1. Tumour&#xD;
+             lesions that have been irradiated ≥4 weeks before the start of treatment, and have&#xD;
+             subsequently had documented progression, may be chosen as target lesions in the&#xD;
+             absence of measurable lesions that have not been irradiated.&#xD;
+&#xD;
+        CRC Arm&#xD;
+&#xD;
+          -  Subject has definitive histologically or cytologically confirmed metastatic or locally&#xD;
+             advanced adenocarcinoma of the colon or rectum without possibility of locoregional&#xD;
+             treatment with curative intention or candidate for curative metastasectomy&#xD;
+&#xD;
+          -  Subject has received at least 2 prior lines of therapy for mCRC and have progressed or&#xD;
+             are intolerant to those therapies. If the tumour is microsatellite instability-high,&#xD;
+             it should have progressed on a previous immune CPI unless contraindicated.&#xD;
+&#xD;
+        Applicable for France only: Subjects with KRAS wildtype should be eligible to receive&#xD;
+        mFOLFOX and should have received anti-EGFR therapy unless contraindicated or not available&#xD;
+        for the subject .&#xD;
+&#xD;
+        Note: For subjects who received adjuvant or neoadjuvant chemotherapy and had recurrence&#xD;
+        within 6 months of completion of the adjuvant chemotherapy, the adjuvant therapy is counted&#xD;
+        as the first line of chemotherapy for the metastatic disease.&#xD;
+&#xD;
+        NSCLC Arm&#xD;
+&#xD;
+          -  Subject has histologically or cytologically confirmed squamous or non-squamous NSCLC&#xD;
+             unresectable stage IIIB or stage IV for whom monotherapy DTX treatment is indicated.&#xD;
+&#xD;
+          -  Subject received platinum-based therapy and/or (France: and) a programmed cell death&#xD;
+             protein 1 or programmed death-ligand 1 inhibitor as prior treatment regimens (unless&#xD;
+             contraindicated or such therapy is not available to the subject). Prior CPIs and&#xD;
+             chemotherapy may have been administered alone or in combination. No more than 2 prior&#xD;
+             lines of systemic anti-cancer therapy regimens for the advanced disease are allowed.&#xD;
+             Maintenance treatment after platinum doublet therapy completion is counted as part of&#xD;
+             the same line of treatment.&#xD;
+&#xD;
+        Note: Subjects who received adjuvant or neoadjuvant chemotherapy and had recurrence within&#xD;
+        6 months of completion of the adjuvant chemotherapy are allowed to count the adjuvant&#xD;
+        therapy as the first line of chemotherapy for the recurrent/metastatic disease.&#xD;
+&#xD;
+          -  Subject eligible for mutation-targeted therapies (eg, osimertinib, alectinib,&#xD;
+             crizotinib, larotrectinib, capmatinib, pralsetinib) must have exhausted treatment&#xD;
+             options for targeted therapies available locally&#xD;
+&#xD;
+        BTC Arm&#xD;
+&#xD;
+          -  Subject has histopathological or cytological biliary tract carcinoma (intrahepatic or&#xD;
+             extrahepatic cholangiocarcinoma, gallbladder cancer, or ampullary carcinoma)&#xD;
+             non-resectable, recurrent, or metastatic amenable for G/C treatment indicated as SoC.&#xD;
+&#xD;
+          -  Subject has not received standard systemic anti-cancer therapies for metastatic&#xD;
+             disease.&#xD;
+&#xD;
+        Note: Subjects who received adjuvant or neoadjuvant chemotherapy and had recurrence within&#xD;
+        6 months after completion of the adjuvant chemotherapy are eligible for the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subject has a known or suspected allergy to study drugs (including chemotherapy&#xD;
+             regimens), any of its components.&#xD;
+&#xD;
+          -  Subject has another histologically confirmed cancer different from those described in&#xD;
+             inclusion criteria, except for cervical carcinoma in situ, superficial non-invasive&#xD;
+             bladder tumour, curatively treated stage I non-melanoma skin cancer, or prostate&#xD;
+             cancer subjects curatively treated with surgery or radiation and not receiving&#xD;
+             systemic or androgen deprivation therapy.&#xD;
+&#xD;
+          -  Subject has uncontrolled or significant heart failure defined as New York Heart&#xD;
+             Association Classification III or IV.&#xD;
+&#xD;
+          -  Subjects to receive mFOLFOX or DTX: having peripheral sensory neuropathy Grade ≥2.&#xD;
+&#xD;
+          -  Subject has QT interval corrected using Fridericia's formula (QTcF) &gt;480 msec at&#xD;
+             screening.&#xD;
+&#xD;
+          -  Subjects to receive DTX and CAN04: if they have liver metastases and aspartate&#xD;
+             aminotransferase (AST) and/or ALT &gt;1.5 × upper limit of normal (ULN) concomitant with&#xD;
+             alkaline phosphatase &gt;2.5 × ULN.&#xD;
+&#xD;
+          -  Subject has uncontrolled brain metastases. Subjects are allowed to be enrolled if&#xD;
+             brain metastasis has been previously treated with surgery, and/or stereotactic&#xD;
+             radiosurgery and are considered controlled (controlled by the dose ≤10 mg/day of&#xD;
+             prednisone or equivalent) at the time of the first dose of CAN04. For asymptomatic&#xD;
+             subjects, brain imaging during screening is not required.&#xD;
+&#xD;
+          -  Subject has an active severe infection requiring parenteral antibiotics at the time of&#xD;
+             enrolment or subjects currently receiving oral antibiotics as a continuation of a&#xD;
+             previous course of parenteral antibiotics. Subjects can be enrolled when antibiotic&#xD;
+             treatment is complete and if there are no signs of residual infection. Note: Subjects&#xD;
+             with BTC who required stent placement should have the procedure completed 2 weeks&#xD;
+             before and be free of antibiotics (oral or parenteral) for at least 1 week before&#xD;
+             first treatment administration.&#xD;
+&#xD;
+          -  Subject has a history of autoimmune disease requiring systemic immunosuppressive&#xD;
+             therapy (daily prednisone equivalent doses &gt;10 mg/day).&#xD;
+&#xD;
+          -  Subject is expected to require any other form of systemic or localised anti-neoplastic&#xD;
+             therapy while on study (including maintenance therapy with another agent, radiation&#xD;
+             therapy, and/or surgical resection).&#xD;
+&#xD;
+          -  Subject has had an allogeneic tissue/solid organ transplant.&#xD;
+&#xD;
+          -  Subject received a live vaccination, etanercept, or other tumour necrosis factor-alpha&#xD;
+             inhibitors prior to (within 28 days of first study drug administration) participation&#xD;
+             in this study. For severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)&#xD;
+             vaccines, a wash-out of 2 weeks before first administration of study drug is&#xD;
+             recommended.&#xD;
+&#xD;
+          -  Subject had treatment with systemic anti-cancer treatments, or major surgery within 4&#xD;
+             weeks before the first dose of study drug or 5 half-lives, whichever is shorter.&#xD;
+             Subjects should have recovered from previous treatment toxicity to Grade 1, baseline&#xD;
+             (except alopecia and peripheral neuropathy).&#xD;
+&#xD;
+          -  Subject received radiotherapy ≤4 weeks before the start of treatment (≤2 weeks for&#xD;
+             palliative irradiation to peripheral tumour lesions, other than for example spine or&#xD;
+             pelvis, without increased risk for delayed cytopenias) and has not recovered to Grade&#xD;
+             1 or better from related toxicity of such therapy (except for alopecia).&#xD;
+&#xD;
+          -  Subject has known hepatitis B virus surface antigen seropositive or detectable&#xD;
+             hepatitis C infection viral load. Note: Subjects who have positive hepatitis B core&#xD;
+             antibody or hepatitis B surface antigen antibody can be included but must have an&#xD;
+             undetectable hepatitis B viral load.&#xD;
+&#xD;
+          -  Subjects who test positive for human immunodeficiency virus (HIV) are NOT excluded&#xD;
+             from this study but must meet the following criteria:&#xD;
+&#xD;
+               -  Have cluster of differentiation 4 (CD4)+ T-cell (CD4+) counts ≥350 cells/μL.&#xD;
+&#xD;
+               -  Have not had an opportunistic infection within the past 12 months. Subjects on&#xD;
+                  prophylactic anti-microbials can be included in the study.&#xD;
+&#xD;
+               -  Should be on established anti-retroviral therapy for at least 4 weeks.&#xD;
+&#xD;
+               -  Have an HIV viral load less than 400 copies/mL before enrolment.&#xD;
+&#xD;
+          -  Subject has a known history of any other relevant congenital or acquired&#xD;
+             immunodeficiency other than HIV infection.&#xD;
+&#xD;
+          -  Subject has a history or current evidence of any condition, therapy, or laboratory&#xD;
+             abnormality that might confound the results of the study, interfere with the subject's&#xD;
+             participation for the full duration of the study, or is not in the best interest of&#xD;
+             the subject to participate, in the opinion of the treating investigator.&#xD;
+&#xD;
+          -  Subject has known psychiatric or substance abuse disorders that would interfere with&#xD;
+             cooperation with the requirements of the study.&#xD;
+&#xD;
+          -  Subject has any medical condition, co-morbidity, physical examination finding,&#xD;
+             metabolic dysfunction, or clinical laboratory abnormality that, in the opinion of the&#xD;
+             investigator, renders the subject unsuitable for participation in a clinical study due&#xD;
+             to high safety risks and/or potential to affect interpretation of results of the&#xD;
+             study.&#xD;
+&#xD;
+          -  Subject has known allergy to any of the drugs or excipients in the allocated&#xD;
+             treatment.&#xD;
+&#xD;
+          -  France only: Only subjects in the G/C arm: Subjects who, as per applicable local&#xD;
+             label, due to hearing impairment or ongoing phenytoin administration, have&#xD;
+             contraindication for cisplatin (Applicable in France locations only).&#xD;
+&#xD;
+        mFOLFOX Arm/CRC Arm Exclusion Criteria&#xD;
+&#xD;
+          -  Subjects with clinical laboratory test values at screening below the lower limit of&#xD;
+             normal for any of the following electrolytes: potassium, magnesium, corrected or&#xD;
+             ionised calcium.&#xD;
+&#xD;
+        NOTE: Subjects achieving normal values for these electrolytes with supplements during the&#xD;
+        screening period are allowed at the discretion of the investigator. Serum chemistry&#xD;
+        documenting normal electrolyte values is required prior to each dose of oxaliplatin.&#xD;
+&#xD;
+          -  Subjects with congenital long QT syndrome or a history of ventricular arrhythmias,&#xD;
+             including bradyarrhythmia (&lt;50 beats per minute).&#xD;
+&#xD;
+          -  Subjects with existing uncompensated heart disease: myocardial ischaemia or early (up&#xD;
+             to 4 weeks) post-infarction status, congestive heart failure, left ventricular&#xD;
+             hypertrophy, cardiomyopathy, conduction disorder within 6 months before enrolment.&#xD;
+&#xD;
+          -  Subjects with dihydropyrimidine dehydrogenase (DPD) deficiency or who have been&#xD;
+             treated within 4 weeks of first dose of study treatment with potent DPD inhibitors&#xD;
+             (eg, brivudine, sorivudine). Subjects who previously received 5-FU without toxicity&#xD;
+             that can be correlated with DPD deficiency do not need to be tested&#xD;
+&#xD;
+          -  Subjects with pernicious anaemia or other anaemias due to vitamin B12 deficiency that&#xD;
+             cannot be corrected before the first dose of mFOLFOX.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ignacio Garcia-Ribas, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Cantargia AB</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ignacio Garcia-Ribas, MD, PhD</last_name>
+    <phone>+46 46 2756260</phone>
+    <email>clinicaltrials@cantargia.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>EDOG Institut de Cancerologie de l'Ouest - PPDS</name>
+      <address>
+        <city>Saint-Herblain</city>
+        <state>Boulevard Jacques Monod</state>
+        <zip>44805</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Judith Raimbourg</last_name>
+      <phone>33240679900</phone>
+      <email>mailto:judith.raimbourg@ico.unicancer.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Bergonie</name>
+      <address>
+        <city>Bordeaux Cedex</city>
+        <zip>33076</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sophie Cousin</last_name>
+      <phone>+33 5 56 33 33 33</phone>
+      <email>s.cousin@bordeaux.unicancer.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Eugene Marquis</name>
+      <address>
+        <city>Rennes</city>
+        <zip>35042</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Samuel Le Sourd</last_name>
+      <phone>+33 2 99 25 30 89</phone>
+      <email>s.lesourd@rennes.unicancer.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Vall D'Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Enriqueta Felip, MD</last_name>
+      <email>efelip@vhio.net</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario 12 de Octubre</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rocio Carbonero, MD</last_name>
+      <email>rgcarbonero@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 11, 2021</study_first_posted>
+  <last_update_submitted>November 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Nadunolimab</keyword>
+  <keyword>CAN04</keyword>
+  <keyword>CRC</keyword>
+  <keyword>NSCLC</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Biliary Tract Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leucovorin</mesh_term>
+    <mesh_term>Gemcitabine</mesh_term>
+    <mesh_term>Cisplatin</mesh_term>
+    <mesh_term>Docetaxel</mesh_term>
+    <mesh_term>Fluorouracil</mesh_term>
+    <mesh_term>Oxaliplatin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

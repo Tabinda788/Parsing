@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4074">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05108155</url>
+  </required_header>
+  <id_info>
+    <org_study_id>17011991</org_study_id>
+    <nct_id>NCT05108155</nct_id>
+  </id_info>
+  <brief_title>Regression Discontinuity Design Search for Differences in Mortality and Revision for Fixation Type of THA</brief_title>
+  <official_title>Age-based Cut-off Point as Methodological Approach in Search for Differences in Mortality and Revision for Fixation Type: Cemented Versus Uncemented Total Hip Arthroplasty</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Leiden University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>OLVG</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Dijklander Hospital, Hoorn and Purmerend, The Netherlands</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Radboud University Medical Centre Nijmegen, Nijmegen, the Netherlands</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Erasmus Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Leiden University Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this study is to apply the regression discontinuity design (RD) methodology on&#xD;
+      arthroplasty registry data. The investigators aim to use an age-based cut-off for fixation&#xD;
+      type choice and estimate the causal effect of fixation type on short term mortality and&#xD;
+      revision, using a fuzzy regression discontinuity design.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The optimal method of fixation for primary total hip arthroplasty (THA), cemented or&#xD;
+      uncemented remains unknown. Studying implant survival in both RCT and retrospective study&#xD;
+      design, as measured by the revision rate both gives inconclusive evidence, largely due to&#xD;
+      heterogeneity between patient groups. A network meta-analysis showed similar survival of&#xD;
+      newer uncemented implants compared to the traditional cemented hip implants. In general,&#xD;
+      older patients more frequently have cemented THAs. However, since these elderly patients have&#xD;
+      more comorbidity and might pass away or might be unfit for revision surgery, the likelihood&#xD;
+      of revision will be lower compared with younger patients with an uncemented THAs.&#xD;
+&#xD;
+      In the last decade, there is a trend towards an increased use of uncemented implants in&#xD;
+      Europe, Australia and the United States. This despite the fact that registry data show not&#xD;
+      unequivocal superior outcomes of these uncemented stems. One of the most important&#xD;
+      methodological challenges in observational data, is to determine whether the medical&#xD;
+      intervention under study is causally related to an outcome, rather than simply being&#xD;
+      correlated with another factor that is truly causally related to the outcome under study.&#xD;
+      This is a particular threat as in observational studies comparison groups are typically&#xD;
+      different in more aspects than just treatment type because of non-random treatment&#xD;
+      allocation. Patients are treated in accordance with the preferences of treating physicians,&#xD;
+      rather than because of a coin flip, like in randomized studies. These treatment choices are&#xD;
+      frequently informed by a patient's severity of illness. The treatment may be associated with&#xD;
+      outcome but could be interfered by other factors like disease severity that are causally&#xD;
+      related to outcome. Thus, observational studies assessing the causal effect of treatments are&#xD;
+      at risk of obtaining incorrect results. This type of bias is called confounding by&#xD;
+      indication. Since overall registry data are prone to inclusion bias and the aforementioned&#xD;
+      confounding by indication, a randomised controlled trial (RCT) design to analyse the&#xD;
+      difference in revision rate between these two THA fixation methods could clarify this&#xD;
+      unanswered question. RCTs are the best scientific method for evaluating the efficacy of&#xD;
+      treatment. However, randomised controlled trials may have poor external validity due to&#xD;
+      exclusion of patients not meeting the inclusion criteria. Therefore, complementing any&#xD;
+      evidence on treatment efficacy from randomised controlled trials with that from observational&#xD;
+      studies is valuable. When looking at implant survival an RCT design is also impractical due&#xD;
+      to the relatively long time until revisions (with the risk of revision is as low as 0.5&#xD;
+      percent per year for the first 20 years) occur and thus a large number of patients needed, to&#xD;
+      correct for the heterogeneity between these patients. Furthermore, studying data from the&#xD;
+      Dutch Arthroplasty Registry (LROI), it shows a large variation in clinical practice of type&#xD;
+      of fixation of hip and cup stems between hospitals. When using data from a national registry&#xD;
+      with high completeness and hospital coverage, such as the LROI, regardless of age,&#xD;
+      confounding by indication exists (e.g. large variation in the selection of fixation type) and&#xD;
+      the patient group will be very heterogeneous. Thus, new research methods are warranted to&#xD;
+      isolate the effect of fixation of THA on outcome within registries.&#xD;
+&#xD;
+      Some orthopaedic surgeons and hospitals use an age-based cut-off in the choice for the type&#xD;
+      of fixation of components of the THA. The existence of such simple age-based cut-off&#xD;
+      guidelines for choosing for either a cemented or non-cemented stem and/or cup between&#xD;
+      different hospitals, enables us to analyse the causal effect of fixation on revision in THA.&#xD;
+      In one of the hospitals in the LROI it is known which age dependent cut-off points are used.&#xD;
+      In male patients above the age of 70 years old cement fixation is used, and under the cut-off&#xD;
+      age an uncemented THA is placed. In female patients this cut-off age is set at 65 years of&#xD;
+      age. This age-based cut-off point for assignment of either cemented or uncemented THA offers&#xD;
+      the opportunity for a new quasi-experimental research design while limiting the potential for&#xD;
+      selection bias, and allowing causal inference, namely the regression discontinuity design&#xD;
+      (RD). The RD is a quasi-experimental study design that was first introduced by psychologists&#xD;
+      Thistlethwaite and Campbell, who used the RD to evaluate the impact of National Merit&#xD;
+      Scholarship awards on awardees' careers and attitudes. Since then RD has also been applied in&#xD;
+      politics, psychology, and other areas, but a recent study showed it is underutilized in&#xD;
+      medicine.&#xD;
+&#xD;
+      The RD identifies causal effects by exploiting a treatment assignment practice: the&#xD;
+      assignment of treatment based on whether a patient scores above or below a cut-off point on a&#xD;
+      continuously measured variable, such as blood pressure, cholesterol, CD4 count or in our case&#xD;
+      age. Treatment assignment following such a rule can be either deterministic (every patient on&#xD;
+      the one side of the cut-off value receives the treatment and every patient on the other side&#xD;
+      does not) or probabilistic (the probability of receiving the treatment is higher on the one&#xD;
+      side of the cut-off value than on the other side). The first case is called ''sharp'' RD&#xD;
+      design (SRD) and the second ''fuzzy'' RD design (FRD).&#xD;
+&#xD;
+      The goal of this study is to apply the regression discontinuity design (RD) methodology on&#xD;
+      arthroplasty registry data. The investigators aim to use an age-based cut-off for fixation&#xD;
+      type choice and estimate the causal effect of fixation type on short term mortality and&#xD;
+      revision, using a fuzzy regression discontinuity design.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 2007</start_date>
+  <completion_date type="Actual">December 2019</completion_date>
+  <primary_completion_date type="Actual">December 2019</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>2 Years</target_duration>
+  <primary_outcome>
+    <measure>Number of Participants who die within 90 days after surgery</measure>
+    <time_frame>90 days</time_frame>
+    <description>Mortality after surgery</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants who undergo revision surgery of the treated hip</measure>
+    <time_frame>2 years</time_frame>
+    <description>Number of Participants who undergo revision surgery of the treated hip as recorded in the LROI database.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants who undergo revision surgery of the treated hip</measure>
+    <time_frame>5 years</time_frame>
+    <description>Number of Participants who undergo revision surgery of the treated hip as recorded in the LROI database.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">43789</enrollment>
+  <condition>Hip Osteoarthritis</condition>
+  <arm_group>
+    <arm_group_label>THA</arm_group_label>
+    <description>Patient with primary total hip arthroplasty</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Cemented THA</intervention_name>
+    <description>THA with cement fixation</description>
+    <arm_group_label>THA</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Unemented THA</intervention_name>
+    <description>THA with uncemented / pressfit fixation</description>
+    <arm_group_label>THA</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The data will consist of all the THAs done in the aforementioned period in the 94 hospitals&#xD;
+        who report to the Dutch Arthroplasty Register.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          -  Primary total hip arthroplasty with diagnosis osteoarthritis.&#xD;
+&#xD;
+          -  Placed January 1st 2007 and December 31th 2017&#xD;
+&#xD;
+          -  Patients who are 18 years and older&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Hybrid fixation type (cemented stem and uncemented acetabular component)&#xD;
+&#xD;
+          -  Reverse hybrid fixation type (uncemented stem and cemented acetabular component)&#xD;
+&#xD;
+          -  Metal-on-metal bearing THA&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Leiden University Medical Cente</name>
+      <address>
+        <city>Leiden</city>
+        <state>Zuid Holland</state>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <reference>
+    <citation>Abdulkarim A, Ellanti P, Motterlini N, Fahey T, O'Byrne JM. Cemented versus uncemented fixation in total hip replacement: a systematic review and meta-analysis of randomized controlled trials. Orthop Rev (Pavia). 2013 Mar 15;5(1):e8. doi: 10.4081/or.2013.e8. Print 2013 Feb 22.</citation>
+    <PMID>23705066</PMID>
+  </reference>
+  <reference>
+    <citation>Maloney WJ. National Joint Replacement Registries: has the time come? J Bone Joint Surg Am. 2001 Oct;83(10):1582-5.</citation>
+    <PMID>11679613</PMID>
+  </reference>
+  <reference>
+    <citation>Corbett KL, Losina E, Nti AA, Prokopetz JJ, Katz JN. Population-based rates of revision of primary total hip arthroplasty: a systematic review. PLoS One. 2010 Oct 20;5(10):e13520. doi: 10.1371/journal.pone.0013520. Review.</citation>
+    <PMID>20976011</PMID>
+  </reference>
+  <reference>
+    <citation>Laupacis A, Bourne R, Rorabeck C, Feeny D, Tugwell P, Wong C. Comparison of total hip arthroplasty performed with and without cement : a randomized trial. J Bone Joint Surg Am. 2002 Oct;84(10):1823-8.</citation>
+    <PMID>12377914</PMID>
+  </reference>
+  <reference>
+    <citation>Mäkelä KT, Matilainen M, Pulkkinen P, Fenstad AM, Havelin L, Engesaeter L, Furnes O, Pedersen AB, Overgaard S, Kärrholm J, Malchau H, Garellick G, Ranstam J, Eskelinen A. Failure rate of cemented and uncemented total hip replacements: register study of combined Nordic database of four nations. BMJ. 2014 Jan 13;348:f7592. doi: 10.1136/bmj.f7592.</citation>
+    <PMID>24418635</PMID>
+  </reference>
+  <reference>
+    <citation>Pringle M, Churchill R. Randomised controlled trials in general practice. BMJ. 1995 Nov 25;311(7017):1382-3.</citation>
+    <PMID>8520259</PMID>
+  </reference>
+  <reference>
+    <citation>Trochim WM, Cappelleri JC. Cutoff assignment strategies for enhancing randomized clinical trials. Control Clin Trials. 1992 Jun;13(3):190-212.</citation>
+    <PMID>1320557</PMID>
+  </reference>
+  <reference>
+    <citation>Steiner PM, Kim Y, Hall CE, Su D. Graphical Models for Quasi-experimental Designs. Sociol Methods Res. 2017 Mar;46(2):155-188. doi: 10.1177/0049124115582272. Epub 2015 May 14.</citation>
+    <PMID>30174355</PMID>
+  </reference>
+  <reference>
+    <citation>Moscoe E, Bor J, Bärnighausen T. Regression discontinuity designs are underutilized in medicine, epidemiology, and public health: a review of current and best practice. J Clin Epidemiol. 2015 Feb;68(2):122-33. doi: 10.1016/j.jclinepi.2014.06.021. Review.</citation>
+    <PMID>25579639</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>May 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 4, 2021</study_first_posted>
+  <last_update_submitted>November 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Leiden University Medical Center</investigator_affiliation>
+    <investigator_full_name>Rudolf W Poolman, MD PhD</investigator_full_name>
+    <investigator_title>Prof. dr.</investigator_title>
+  </responsible_party>
+  <keyword>Total Hip Arthorplasty</keyword>
+  <keyword>Fixation</keyword>
+  <keyword>Cemented</keyword>
+  <keyword>Uncemented</keyword>
+  <keyword>Regression discontinuity</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Osteoarthritis, Hip</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tacrine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

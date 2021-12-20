@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8123">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05055492</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1000078377-2</org_study_id>
+    <nct_id>NCT05055492</nct_id>
+  </id_info>
+  <brief_title>The School SPIT Study - Elementary Schools in High COVID-19 Incidence Regions</brief_title>
+  <official_title>The School SPIT Study (Saliva to Promote Improved Testing): A Prospective Evaluation of a Home Saliva Testing Program Implemented With a Stepped-wedge Cluster Randomized Design in Elementary Schools in High SARS-CoV-2 Incidence Regions</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Hospital for Sick Children</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The Hospital for Sick Children</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will conduct an evaluation of a program that is being implemented SickKids /&#xD;
+      Toronto Public Health that provides take-home saliva testing kits in schools. Operationally,&#xD;
+      there is a planned randomization so that all schools have an equitable chance to receive the&#xD;
+      intervention at various time periods during the planned operational roll-out, which will&#xD;
+      require a staggered implementation consistent with the stepped-wedge study design. This study&#xD;
+      will leverage this chance implementation to do a robust evaluation of the public health&#xD;
+      intervention. Schools that are not being rolled out to week one, will begin in the &quot;control&#xD;
+      phase&quot; (testing at an assessment center, primary care or acute care center) and transition to&#xD;
+      the program &quot;intervention phase&quot; (take home saliva kits available at schools) at a randomly&#xD;
+      assigned time (wedge) over a 6-week period with all schools receiving the program by the end&#xD;
+      of the study. The investigators will evaluate the impact of the program on SARS-CoV-2 case&#xD;
+      identification in schools.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective evaluation of a program that is being implemented using a&#xD;
+      stepped-wedge, cluster randomized design.&#xD;
+&#xD;
+      Eligible elementary public schools high SARS-CoV-2 incidence regions (quintiles 4 and 5) in&#xD;
+      Toronto will be randomized. The study will occur over a 7-week period with a minimum of&#xD;
+      one-week of baseline data (control phase - testing at an assessment center, primary care or&#xD;
+      acute care center) and then schools will start the program in a stepwise manner (20&#xD;
+      crossovers per week) with take-home saliva being available to all 120 schools by the end of&#xD;
+      the study period. The primary objective of the study is to assess whether the availability of&#xD;
+      take home saliva kits at schools for symptomatic testing leads to increased diagnosis of&#xD;
+      SARS-CoV-2 cases in the school.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">September 14, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2022</completion_date>
+  <primary_completion_date type="Actual">September 14, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>This is a prospective evaluation of a program that is being implemented using a stepped-wedge, cluster randomized design.</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>SARS-CoV-2 Case identification</measure>
+    <time_frame>Weekly measurement over 7 week study period</time_frame>
+    <description>The number of cases positive for SARS-CoV-2 in a cohort per week per school</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Uptake of take-home saliva kits for testing</measure>
+    <time_frame>Weekly measurement over 7 week study period</time_frame>
+    <description>Frequency of use of take-home saliva kits per week per school</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Impact on timing of test for symptomatic individuals</measure>
+    <time_frame>Over study 7 week study period</time_frame>
+    <description>To assess whether availability of take-home saliva kits at schools leads to earlier testing as measured by duration of symptoms before testing of the symptomatic case</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Impact on Secondary Transmission</measure>
+    <time_frame>Over 7 week study period</time_frame>
+    <description>To assess whether the availability of take-home saliva kits at schools leads to reduced transmission within exposed cohorts as measured by number of secondary cases identified in exposed cohorts</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>SARS-CoV2 Infection</condition>
+  <arm_group>
+    <arm_group_label>Control period</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Schools will start in the control phase (SARS-CoV-2 diagnostic testing at an assessment center, primary care office or acute care center) and transition to the intervention phase at a randomly assigned time point over the course of the study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intervention phase</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Schools will have take home saliva kits available at the school to support SARS-CoV-2 diagnostic testing. Schools will transition to the intervention phase at a randomly assigned time (wedge) over a 6-week period with all schools receiving the program by the end of the study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Take home saliva kits</intervention_name>
+    <description>Saliva kits will be made available at schools for pick up to support symptomatic testing using PCR for students, staff and family members.</description>
+    <arm_group_label>Intervention phase</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Elementary schools will be included in the evaluation if they are:&#xD;
+&#xD;
+          -  Considered an elementary school by the school board&#xD;
+&#xD;
+          -  Open for in-person learning during the study period&#xD;
+&#xD;
+          -  They have at least 200 students&#xD;
+&#xD;
+          -  Offer at least 4 grades&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Schools that are middle schools only, that are not open for in-person learning, have fewer&#xD;
+        than 200 students or are not a complete elementary school (i.e. schools offering&#xD;
+        independent courses, prep schools with 1-2 grades, elementary schools with &lt; 4 grades) will&#xD;
+        be excluded.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>The Hospital for Sick Children</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 1X8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 20, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 24, 2021</study_first_posted>
+  <last_update_submitted>September 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The Hospital for Sick Children</investigator_affiliation>
+    <investigator_full_name>Michelle Science</investigator_full_name>
+    <investigator_title>Principle Investigator</investigator_title>
+  </responsible_party>
+  <keyword>School Testing</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

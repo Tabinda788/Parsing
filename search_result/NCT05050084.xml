@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8539">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05050084</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NRG-GU010</org_study_id>
+    <secondary_id>NCI-2021-08760</secondary_id>
+    <secondary_id>NRG-GU010</secondary_id>
+    <secondary_id>NRG-GU010</secondary_id>
+    <secondary_id>U10CA180868</secondary_id>
+    <nct_id>NCT05050084</nct_id>
+  </id_info>
+  <brief_title>Two Studies for Patients With Unfavorable Intermediate Risk Prostate Cancer Testing Less Intense Treatment for Patients With a Low Gene Risk Score and Testing a More Intense Treatment for Patients With a Higher Gene Risk Score</brief_title>
+  <official_title>Parallel Phase III Randomized Trials of Genomic-Risk Stratified Unfavorable Intermediate Risk Prostate Cancer: De-Intensification and Intensification Clinical Trial Evaluation (GUIDANCE)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NRG Oncology</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>NRG Oncology</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase III trial uses the Decipher risk score to guide intensification (for higher&#xD;
+      Decipher gene risk) or de-intensification (for low Decipher gene risk) of treatment to better&#xD;
+      match therapies to an individual patient's cancer aggressiveness. The Decipher risk score&#xD;
+      evaluates a prostate cancer tumor for its potential for spreading. In patients with low risk&#xD;
+      scores, this trial compares radiation therapy alone to the usual treatment of radiation&#xD;
+      therapy and hormone therapy (androgen deprivation therapy). Radiation therapy uses high&#xD;
+      energy x-rays or particles to kill tumor cells and shrink tumors. Androgen deprivation&#xD;
+      therapy blocks the production or interferes with the action of male sex hormones such as&#xD;
+      testosterone, which plays a role in prostate cancer development. Giving radiation treatment&#xD;
+      alone may be the same as the usual approach in controlling the cancer and preventing it from&#xD;
+      spreading, while avoiding the side effects associated with hormonal therapy. In patients with&#xD;
+      higher Decipher gene risk, this trial compares the addition of darolutamide to usual&#xD;
+      treatment radiation therapy and hormone therapy, to usual treatment. Darolutamide blocks the&#xD;
+      actions of the androgens (e.g. testosterone) in the tumor cells and in the body. The addition&#xD;
+      of darolutamide to the usual treatment may better control the cancer and prevent it from&#xD;
+      spreading.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:&#xD;
+&#xD;
+      I. To determine whether men with National Comprehensive Cancer Network (NCCN) unfavorable&#xD;
+      intermediate risk (UIR) prostate cancer and lower Decipher genomic risk (Decipher score &lt;&#xD;
+      0.40) treated with radiation therapy (RT) alone instead of 6 months androgen deprivation&#xD;
+      therapy (ADT) + RT experience non-inferior rate of distant metastasis. (De-intensification&#xD;
+      study) II. To determine whether men with NCCN UIR prostate cancer who are in the higher&#xD;
+      genomic risk (Decipher score &gt;= 0.40) will have a superior metastasis-free survival through&#xD;
+      treatment intensification with darolutamide added to the standard of RT plus 6 months ADT.&#xD;
+      (Intensification study)&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. To compare overall survival (OS) between the standard of care (RT plus 6 months of ADT)&#xD;
+      and either the de-intensification (RT alone) or intensification (RT plus 6 months of ADT plus&#xD;
+      darolutamide) interventions.&#xD;
+&#xD;
+      II. To compare time to prostate specific antigen (PSA) failure between the standard of care&#xD;
+      (RT plus 6 months of ADT) and either the de-intensification (RT alone) or intensification (RT&#xD;
+      plus 6 months of ADT plus darolutamide) interventions.&#xD;
+&#xD;
+      III. To compare metastasis free survival (MFS) based on conventional imaging between the&#xD;
+      standard of care (RT plus 6 months of ADT) and de-intensification intervention (RT alone).&#xD;
+&#xD;
+      IV. To compare MFS based on either conventional and/or molecular imaging between the standard&#xD;
+      of care (RT plus 6 months of ADT) and either the de-intensification (RT alone) or&#xD;
+      intensification (RT plus 6 months of ADT plus darolutamide) interventions.&#xD;
+&#xD;
+      V. To compare cumulative incidence of locoregional failure based upon conventional imaging&#xD;
+      and/ or biopsy between standard of care (RT plus 6 months of ADT) and either the&#xD;
+      de-intensification (RT alone) or intensification (RT plus 6 months ADT plus darolutamide)&#xD;
+      interventions.&#xD;
+&#xD;
+      VI. To compare cumulative incidence of distant metastasis based upon conventional imaging&#xD;
+      between standard of care (RT plus 6 months of ADT) and intensification intervention (RT plus&#xD;
+      6 months ADT plus darolutamide).&#xD;
+&#xD;
+      VII. To compare cumulative incidence of distant metastasis based upon either conventional&#xD;
+      and/or molecular imaging between standard of care (RT plus 6 months of ADT) and either the&#xD;
+      de-intensification (RT alone) or intensification (RT plus 6 months of ADT plus darolutamide)&#xD;
+      interventions.&#xD;
+&#xD;
+      VIII. To compare prostate cancer-specific mortality between the standard of care (RT plus 6&#xD;
+      months of ADT) and either the de-intensification (RT alone) or intensification (RT plus 6&#xD;
+      months of ADT plus darolutamide) interventions.&#xD;
+&#xD;
+      IX. To compare sexual and hormonal related quality of life, as measured by the Expanded&#xD;
+      Prostate Cancer Index Composite-26 (EPIC), between the standard of care (RT plus 6 months of&#xD;
+      ADT) and either the de-intensification (RT alone) or intensification (RT plus 6 months of ADT&#xD;
+      plus darolutamide) interventions.&#xD;
+&#xD;
+      X. To compare fatigue, as measured by the Patient Reported Outcomes Measurement Information&#xD;
+      System (PROMIS)-Fatigue instrument, between the standard of care (RT plus 6 months of ADT)&#xD;
+      and either the de-intensification (RT alone) or intensification (RT plus 6 months of ADT plus&#xD;
+      darolutamide) interventions.&#xD;
+&#xD;
+      XI. To compare cognition, as measured by the Functional Assessment of Chronic Illness&#xD;
+      Therapy-Cognitive (FACT-Cog) perceived cognitive abilities subscale, between the standard of&#xD;
+      care (RT plus 6 months of ADT) and either the de-intensification (RT alone) or&#xD;
+      intensification (RT plus 6 months of ADT plus darolutamide) interventions.&#xD;
+&#xD;
+      EXPLORATORY OBJECTIVES:&#xD;
+&#xD;
+      I. To compare changes in cardio-metabolic markers, including body mass index, lipids, blood&#xD;
+      glucose, complete blood count (CBC), comprehensive metabolic panel (CMP), and hemoglobin&#xD;
+      (Hgb) A1c, between the standard of care (RT plus 6 months of ADT) and either the&#xD;
+      de-intensification (RT alone) or intensification (RT plus 6 months of ADT plus darolutamide)&#xD;
+      interventions.&#xD;
+&#xD;
+      II. To compare PSA failure-free survival with non-castrate testosterone and no additional&#xD;
+      therapies between the standard of care (RT plus 6 months of ADT) and either the&#xD;
+      de-intensification (RT alone) or intensification (RT plus 6 months of ADT plus darolutamide)&#xD;
+      interventions.&#xD;
+&#xD;
+      III. To compare cumulative incidence of locoregional failure based upon either conventional&#xD;
+      and/or molecular imaging between standard of care (RT plus 6 months of ADT) and either the&#xD;
+      de-intensification (RT alone) or intensification (RT plus 6 months of ADT plus darolutamide)&#xD;
+      interventions.&#xD;
+&#xD;
+      IV. To compare castrate-resistant prostate cancer (CRPC) between the standard of care (RT&#xD;
+      plus 6 months of ADT) and either the de-intensification (RT alone) or intensification (RT&#xD;
+      plus 6 months of ADT plus darolutamide) interventions.&#xD;
+&#xD;
+      V. To compare bowel and urinary function related quality of life, as measured by the Expanded&#xD;
+      Prostate Cancer Index Composite-26 (EPIC), between the standard of care (RT plus 6 months of&#xD;
+      ADT) and either the de-intensification (RT alone) or intensification (RT plus 6 months of ADT&#xD;
+      plus darolutamide) interventions.&#xD;
+&#xD;
+      VI. To compare time to testosterone recovery (defined as a T &gt; 200ng/dL) between the standard&#xD;
+      of care (RT plus 6 months of ADT) and intensification (RT plus 6 months of ADT plus&#xD;
+      darolutamide) interventions.&#xD;
+&#xD;
+      VII. To compare health utilities, as measured by the European Quality of Life Five Dimension&#xD;
+      Five Level Scale (EQ-5D-5L), between the standard of care (RT plus 6 months of ADT) and&#xD;
+      either the de-intensification (RT alone) or intensification (RT plus 6 months of ADT plus&#xD;
+      darolutamide) interventions.&#xD;
+&#xD;
+      VIII. To develop and assess a machine learning/artificial intelligence algorithm for&#xD;
+      radiotherapy planning and/or quality assurance.&#xD;
+&#xD;
+      IX. To perform future translational correlative studies using biological data, Decipher&#xD;
+      results, and clinical outcomes.&#xD;
+&#xD;
+      OUTLINE:&#xD;
+&#xD;
+      DE-INTENSIFICATION STUDY: Patients with Decipher score &lt; 0.40 are randomized to 1 of 2 arms.&#xD;
+&#xD;
+      ARM I: Patients undergo RT using a recognized regimen (2-3 days a week or 5 days a week for&#xD;
+      2-11 weeks) in the absence of disease progression or unacceptable toxicity.&#xD;
+&#xD;
+      ARM II: Patients undergo RT as Arm I. Patients also receive ADT consisting of leuprolide,&#xD;
+      goserelin, buserelin, histrelin, triptorelin, degarelix, or relugolix at the discretion of&#xD;
+      the treating physician, for 6 months in the absence of disease progression or unacceptable&#xD;
+      toxicity. Patients may also receive bicalutamide or flutamide for 0, 30 or 180 days.&#xD;
+&#xD;
+      INTENSIFICATION STUDY: Patients with Decipher score &gt;= 0.40 are randomized to 1 of 2 arms.&#xD;
+&#xD;
+      ARM III: Patients receive treatment as in Arm II.&#xD;
+&#xD;
+      ARM IV: Patients receive RT and ADT as in Arm II. Patients also receive darolutamide orally&#xD;
+      (PO) twice daily (BID). Treatment repeats every 90 days for up to 2 cycles in the absence of&#xD;
+      disease progression or unacceptable toxicity.&#xD;
+&#xD;
+      After completion of study treatment, patients are followed up at 3, 6, 12, 24, 36, 48 and 60&#xD;
+      months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 11, 2021</start_date>
+  <completion_date type="Anticipated">April 30, 2037</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2032</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Distant Metastasis (DM) (De-intensification study)</measure>
+    <time_frame>From randomization to the detection of distant metastasis by conventional imaging, assessed up to 5 years</time_frame>
+    <description>Will be analyzed using competing-risk methods (Gooley 1999) where, in each case, death prior to occurrence of the event in question will be a competing risk.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Metastasis-Free Survival (MFS) (Intensification study)</measure>
+    <time_frame>From randomization until the occurrence of distant metastasis by conventional imaging or death from any cause, assessed up to 5 years</time_frame>
+    <description>MFS will be estimated by the Kaplan-Meier (1958) method and compared between the two treatment arms using a stratified log-rank test (stratified by the randomization stratification factors) at one-sided alpha level of 0.025.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>From randomization to death from any cause, assessed up to 5 years</time_frame>
+    <description>Will be estimated by the Kaplan-Meier method and compared between treatments arms by stratified log-rank test. Cox regression models will also be fit, adjusted for the stratification factors, to estimate hazard ratios, together with 95% confidence intervals.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Prostate Specific Antigen (PSA) failure</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Defined as PSA &gt; 2 ng/ml above the nadir post randomization. Will be analyzed using competing-risk methods (Gooley 1999) where, in each case, death prior to occurrence of the event in question will be a competing risk.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MFS (De-intensification study)</measure>
+    <time_frame>From randomization until the occurrence of distant metastasis by conventional imaging or death from any cause, assessed up to 5 years</time_frame>
+    <description>Will be estimated by the Kaplan-Meier method and compared between treatments arms by stratified log-rank test. Cox regression models will also be fit, adjusted for the stratification factors, to estimate hazard ratios, together with 95% confidence intervals.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MFS including positron emission tomography (PET) imaging</measure>
+    <time_frame>From randomization until the occurrence of distant metastasis by conventional and/or molecular imaging or death from any cause, assessed up to 5 years</time_frame>
+    <description>Will be estimated by the Kaplan-Meier method and compared between treatments arms by stratified log-rank test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Locoregional failure (LRF)</measure>
+    <time_frame>From randomization until local or regional recurrence based upon conventional imaging or biopsy, assessed up to 5 years</time_frame>
+    <description>Will compare cumulative incidence between arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DM including PET imaging</measure>
+    <time_frame>From randomization to the detection of distant metastasis by conventional and/or molecular imaging, assessed up to 5 years</time_frame>
+    <description>Will be analyzed using competing-risk methods (Gooley 1999) where, in each case, death prior to occurrence of the event in question will be a competing risk.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prostate cancer-specific mortality</measure>
+    <time_frame>From randomization until death from prostate cancer, assessed up to 5 years</time_frame>
+    <description>Will be analyzed using competing-risk methods (Gooley 1999) where, in each case death from causes other than prostate cancer as the competing risk.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sexual and hormonal function related quality of life</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Measured by the Expanded Prostate Cancer Index Composite-26 (EPIC-26).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fatigue</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Measured by the Patient Reported Outcomes Measurement Information System (PROMIS)-Fatigue instrument.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognition</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Measured by the Functional Assessment of Chronic illness Therapy-Cognitive (FACT-Cog).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DM (Intensification study)</measure>
+    <time_frame>From randomization to the detection of distant metastasis by conventional imaging, assessed up to 5 years</time_frame>
+    <description>Will be analyzed using competing-risk methods (Gooley 1999) where, in each case, death prior to occurrence of the event in question will be a competing risk.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Locoregional progression</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Defined as defined as recurrence within the pelvis including lymph nodes below the iliac bifurcation, or prostate. Will be analyzed using competing-risk methods (Gooley 1999) where, in each case, death prior to occurrence of the event in question will be a competing risk.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Castrate-resistant prostate cancer (CRPC)</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>CRPC is defined as PSA increase &gt; 25% and more than 2 ng/mL above nadir on study in conjunction with a serum testosterone (T) &lt; 50 ng/mL, confirmed by repeat measurements at least 2 weeks apart. Will be analyzed using competing-risk methods (Gooley 1999) where, in each case, death prior to occurrence of the event in question will be a competing risk.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Bowel and urinary function related quality of life</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Measured EPIC-26. Mixed effect regression models will be fit to compare the changes over time in the domain scores. Covariates will include treatment, time, and treatment-by-time treatment interaction terms.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Cardio-metabolic markers</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Will include body mass index, lipids, blood glucose, complete blood count, comprehensive metabolic panel, and hemoglobin A1c. Mixed effect regression models will be fit to compare the changes over time in the cardio-metabolic markers between treatment groups. Covariates will include treatment, time, and treatment-by-time treatment interaction terms.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>PSA failure-free survival with non-castrate testosterone and no additional therapies</measure>
+    <time_frame>Up to 5 years</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Locoregional failure based upon either conventional or molecular imaging</measure>
+    <time_frame>Up to 5 years</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Health utilities</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Measured by the European Quality of Life Five Dimension Five Level Scale (EQ-5D-5L). ). The bootstrap (Efron 1980) will be performed to obtain standard errors, test for significant differences, and generate 95% confidence intervals.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Time to testosterone recovery</measure>
+    <time_frame>From randomization until T &gt; 200 ng/dL, assessed up to 5 years</time_frame>
+    <description>Will be analyzed using competing-risk methods (Gooley 1999) where, in each case, death prior to occurrence of the event in question will be a competing risk. Changes in quality of life measures will be correlated with changes in testosterone levels.</description>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">2050</enrollment>
+  <condition>Prostate Adenocarcinoma</condition>
+  <arm_group>
+    <arm_group_label>Arm I (RT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients undergo RT using a recognized regimen (2-3 days a week or 5 days a week for 2-11 weeks) in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II (RT, ADT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients undergo RT as Arm I. Patients also receive ADT consisting of leuprolide, goserelin, buserelin, histrelin, triptorelin, degarelix, or relugolix at the discretion of the treating physician, for 6 months in the absence of disease progression or unacceptable toxicity. Patients may also receive bicalutamide or flutamide for 0, 30 or 180 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm III (RT, ADT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive treatment as in Arm II.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm IV (RT, ADT, darolutamide)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive RT and ADT as in Arm II. Patients also receive darolutamide PO BID on days 1-90. Treatment repeats every 90 days for up to 2 cycles in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bicalutamide</intervention_name>
+    <description>Anti-androgen</description>
+    <arm_group_label>Arm II (RT, ADT)</arm_group_label>
+    <arm_group_label>Arm III (RT, ADT)</arm_group_label>
+    <other_name>Casodex</other_name>
+    <other_name>Cosudex</other_name>
+    <other_name>ICI 176,334</other_name>
+    <other_name>ICI 176334</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Buserelin</intervention_name>
+    <description>GnRH agonist</description>
+    <arm_group_label>Arm II (RT, ADT)</arm_group_label>
+    <arm_group_label>Arm III (RT, ADT)</arm_group_label>
+    <arm_group_label>Arm IV (RT, ADT, darolutamide)</arm_group_label>
+    <other_name>6-[O-(1,1-Dimethylethyl)-D-serine]-9-(N-ethyl-L-prolinamide)-10-deglycinamide-luteinizing Hormone-releasing Factor (Pig)</other_name>
+    <other_name>BSRL</other_name>
+    <other_name>Busereline</other_name>
+    <other_name>Etilamide</other_name>
+    <other_name>HOE 766</other_name>
+    <other_name>ICI 123215</other_name>
+    <other_name>S74-6766</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Darolutamide</intervention_name>
+    <description>Anti-androgen</description>
+    <arm_group_label>Arm IV (RT, ADT, darolutamide)</arm_group_label>
+    <other_name>Antiandrogen ODM-201</other_name>
+    <other_name>BAY 1841788</other_name>
+    <other_name>BAY-1841788</other_name>
+    <other_name>BAY1841788</other_name>
+    <other_name>Nubeqa</other_name>
+    <other_name>ODM 201</other_name>
+    <other_name>ODM-201</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Degarelix</intervention_name>
+    <description>GnRH antagonist</description>
+    <arm_group_label>Arm II (RT, ADT)</arm_group_label>
+    <arm_group_label>Arm III (RT, ADT)</arm_group_label>
+    <arm_group_label>Arm IV (RT, ADT, darolutamide)</arm_group_label>
+    <other_name>FE200486</other_name>
+    <other_name>Firmagon</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Flutamide</intervention_name>
+    <description>Anti-androgen</description>
+    <arm_group_label>Arm II (RT, ADT)</arm_group_label>
+    <arm_group_label>Arm III (RT, ADT)</arm_group_label>
+    <other_name>4'-Nitro-3'-trifluoromethylisobutyranilide</other_name>
+    <other_name>Apimid</other_name>
+    <other_name>Cebatrol</other_name>
+    <other_name>Chimax</other_name>
+    <other_name>Cytomid</other_name>
+    <other_name>Drogenil</other_name>
+    <other_name>Euflex</other_name>
+    <other_name>Eulexine</other_name>
+    <other_name>Flucinom</other_name>
+    <other_name>Flucinome</other_name>
+    <other_name>Flugerel</other_name>
+    <other_name>Fluken</other_name>
+    <other_name>Flulem</other_name>
+    <other_name>FLUT</other_name>
+    <other_name>Fluta-Gry</other_name>
+    <other_name>Flutabene</other_name>
+    <other_name>Flutacan</other_name>
+    <other_name>Flutamex</other_name>
+    <other_name>Flutamin</other_name>
+    <other_name>Flutan</other_name>
+    <other_name>Flutaplex</other_name>
+    <other_name>Fugerel</other_name>
+    <other_name>Grisetin</other_name>
+    <other_name>Niftolide</other_name>
+    <other_name>Oncosal</other_name>
+    <other_name>Profamid</other_name>
+    <other_name>Propanamide, 2-Methyl-N-(4-nitro-3-(trifluoromethyl)phenyl)-</other_name>
+    <other_name>Prostacur</other_name>
+    <other_name>Prostadirex</other_name>
+    <other_name>Prostica</other_name>
+    <other_name>Prostogenat</other_name>
+    <other_name>Sch 13521</other_name>
+    <other_name>Tafenil</other_name>
+    <other_name>Tecnoflut</other_name>
+    <other_name>Testotard</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Goserelin</intervention_name>
+    <description>GnRH agonist</description>
+    <arm_group_label>Arm II (RT, ADT)</arm_group_label>
+    <arm_group_label>Arm III (RT, ADT)</arm_group_label>
+    <arm_group_label>Arm IV (RT, ADT, darolutamide)</arm_group_label>
+    <other_name>ICI-118630</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Histrelin</intervention_name>
+    <description>GnRH agonist</description>
+    <arm_group_label>Arm II (RT, ADT)</arm_group_label>
+    <arm_group_label>Arm III (RT, ADT)</arm_group_label>
+    <arm_group_label>Arm IV (RT, ADT, darolutamide)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Leuprolide</intervention_name>
+    <description>GnRH agonist</description>
+    <arm_group_label>Arm II (RT, ADT)</arm_group_label>
+    <arm_group_label>Arm III (RT, ADT)</arm_group_label>
+    <arm_group_label>Arm IV (RT, ADT, darolutamide)</arm_group_label>
+    <other_name>Leuprorelin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Radiation Therapy</intervention_name>
+    <description>Undergo RT</description>
+    <arm_group_label>Arm I (RT)</arm_group_label>
+    <arm_group_label>Arm II (RT, ADT)</arm_group_label>
+    <arm_group_label>Arm III (RT, ADT)</arm_group_label>
+    <arm_group_label>Arm IV (RT, ADT, darolutamide)</arm_group_label>
+    <other_name>Cancer Radiotherapy</other_name>
+    <other_name>ENERGY_TYPE</other_name>
+    <other_name>Irradiate</other_name>
+    <other_name>Irradiated</other_name>
+    <other_name>Irradiation</other_name>
+    <other_name>Radiation</other_name>
+    <other_name>Radiation Therapy, NOS</other_name>
+    <other_name>Radiotherapeutics</other_name>
+    <other_name>Radiotherapy</other_name>
+    <other_name>RT</other_name>
+    <other_name>Therapy, Radiation</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Relugolix</intervention_name>
+    <description>GnRH antagonist</description>
+    <arm_group_label>Arm II (RT, ADT)</arm_group_label>
+    <arm_group_label>Arm III (RT, ADT)</arm_group_label>
+    <arm_group_label>Arm IV (RT, ADT, darolutamide)</arm_group_label>
+    <other_name>N-(4-(1-((2,6-Difluorophenyl)methyl)-5-((dimethylamino)methyl)-1,2,3,4-tetrahydro-3-(6-methoxy-3-pyridazinyl)-2,4-dioxothieno(2,3-d)pyrimidin-6-yl)phenyl)-N'-methoxyurea</other_name>
+    <other_name>Orgovyx</other_name>
+    <other_name>TAK 385</other_name>
+    <other_name>TAK-385</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Triptorelin</intervention_name>
+    <description>GnRH agonist</description>
+    <arm_group_label>Arm II (RT, ADT)</arm_group_label>
+    <arm_group_label>Arm III (RT, ADT)</arm_group_label>
+    <arm_group_label>Arm IV (RT, ADT, darolutamide)</arm_group_label>
+    <other_name>6-D-Tryptophan-LH-RH</other_name>
+    <other_name>6-D-Tryptophanluteinizing Hormone-releasing Factor</other_name>
+    <other_name>AY-25650</other_name>
+    <other_name>CL-118,532</other_name>
+    <other_name>Detryptoreline</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Pathologically (histologically or cytologically) proven diagnosis of adenocarcinoma of&#xD;
+             the prostate within 270 days prior to registration&#xD;
+&#xD;
+          -  Unfavorable intermediate risk prostate cancer, defined as having ALL the following&#xD;
+             bulleted criteria:&#xD;
+&#xD;
+               -  Has at least one intermediate risk factor (IRF):&#xD;
+&#xD;
+                    -  PSA 10-20 ng/mL&#xD;
+&#xD;
+                    -  Clinical stage T2b-c (digital rectal examination [DRE] and/or imaging) by&#xD;
+                       American Joint Committee on Cancer (AJCC) 8th edition&#xD;
+&#xD;
+                    -  Gleason score 7 (Gleason 3+4 or 4+3 [ International Society of Urological&#xD;
+                       Pathology (ISUP) Grade Group 2-3])&#xD;
+&#xD;
+               -  Has ONE or more of the following 'unfavorable' intermediate-risk designators:&#xD;
+&#xD;
+                    -  &gt; 1 immature reticulocyte fraction (IRF)&#xD;
+&#xD;
+                    -  Gleason 4+3=7 (ISUP Grade Group 3)&#xD;
+&#xD;
+                    -  &gt;= 50% of biopsy cores positive&#xD;
+&#xD;
+                         -  Biopsies may include 'sextant' sampling of right/left regions of the&#xD;
+                            prostate, often labeled base, mid-gland and apex. All such 'sextant'&#xD;
+                            biopsy cores should be counted. Men may also undergo 'targeted'&#xD;
+                            sampling of prostate lesions (guided by MRI, ultrasound or other&#xD;
+                            approaches). A targeted lesion that is biopsied more than once and&#xD;
+                            demonstrates cancer (regardless of number of targeted cores involved)&#xD;
+                            should count as a single additional positive core sampled and positive.&#xD;
+                            In cases of uncertainty, count the biopsy sampling as sextant core(s)&#xD;
+&#xD;
+               -  Absence of high-risk features&#xD;
+&#xD;
+          -  Appropriate stage for study entry based on the following diagnostic workup:&#xD;
+&#xD;
+               -  History/physical examination within 120 days prior to registration;&#xD;
+&#xD;
+               -  Negative bone imaging (M0) within 120 days prior to registration; Note: Tc-99m&#xD;
+                  bone scan or sodium fluoride (NaF) positron emission tomography (PET) are&#xD;
+                  allowed. Equivocal bone scan findings are allowed if plain films X-ray, computed&#xD;
+                  tomography (CT) or magnetic resonance imaging (MRI) are negative for metastasis&#xD;
+                  at the concerned site(s). While a negative fluciclovine, choline, or prostate&#xD;
+                  specific membrane antigen (PSMA) PET may be counted as acceptable substitute for&#xD;
+                  bone imaging, any suspicious findings must be confirmed and correlated with&#xD;
+                  conventional imaging (Tc-99m bone scan, NaF PET, CT, X-ray, or MRI) to determine&#xD;
+                  eligibility based on the latter modalities (e.g. M0 based on conventional imaging&#xD;
+                  modalities)&#xD;
+&#xD;
+               -  Clinically negative lymph nodes (N0) as established by conventional imaging&#xD;
+                  (pelvic +/- abdominal CT or MR), within 120 days prior to registration. Patients&#xD;
+                  with lymph nodes equivocal or questionable by imaging are eligible if the nodes&#xD;
+                  are =&lt; 1.0 cm in short axis and/or if biopsy is negative.&#xD;
+&#xD;
+        Note: While a negative fluciclovine, choline, or prostate specific membrane antigen (PSMA)&#xD;
+        PET may be counted as acceptable substitute for pelvic imaging, any suspicious findings&#xD;
+        must be confirmed by conventional imaging (CT, MRI or biopsy). If the findings do not meet&#xD;
+        pathological criteria based on the latter modalities (e.g. node =&lt; 10 mm in short axis,&#xD;
+        negative biopsy), the patient will still be eligible&#xD;
+&#xD;
+          -  Age &gt;= 18&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0-2 within 120 days&#xD;
+             prior to registration&#xD;
+&#xD;
+          -  Non-castrate testosterone level (&gt; 50 ng/dL) within 120 days prior to registration&#xD;
+&#xD;
+          -  Absolute neutrophil &gt;= 1,000 cells/mm^3 (within 120 days prior to registration)&#xD;
+&#xD;
+          -  Hemoglobin &gt;= 8.0 g/dL, independent of transfusion and/or growth factors (within 120&#xD;
+             days prior to registration)&#xD;
+&#xD;
+          -  Platelet count &gt;= 100,000 cells/mm^3 independent of transfusion and/or growth factors&#xD;
+             (within 120 days prior to registration)&#xD;
+&#xD;
+          -  Creatinine clearance (CrCl) &gt;= 30 mL/min estimated by Cockcroft-Gault equation (within&#xD;
+             120 days prior to registration)&#xD;
+&#xD;
+               -  For African American patients specifically whose renal function is not considered&#xD;
+                  adequate by the formula above, an alternative formula that takes race into&#xD;
+                  account (Chronic Kidney Disease Epidemiology Collaboration CKD-EPI formula)&#xD;
+                  should be used for calculating the related estimated glomerular filtration rate&#xD;
+                  (GFR) with a correction factor for African American race creatinine clearance for&#xD;
+                  trial eligibility, where GFR &gt;= 30 mL/min/1.73m^2 will be considered adequate&#xD;
+&#xD;
+          -  Total bilirubin: 1.5 =&lt; institutional upper limit of normal (ULN) (within 120 days&#xD;
+             prior to registration) (Note: In subjects with Gilbert's syndrome, if total bilirubin&#xD;
+             is &gt; 1.5 x ULN, measure direct and indirect bilirubin. If direct bilirubin is less&#xD;
+             than or equal to 1.5 x ULN, subject is eligible)&#xD;
+&#xD;
+          -  Aspartate aminotransferase (AST)(serum glutamic-oxaloacetic transaminase [SGOT]) and&#xD;
+             alanine aminotransferase (ALT)(serum glutamate pyruvate transaminase [SGPT]): =&lt; 2.5 x&#xD;
+             institutional ULN (within 120 days prior to registration)&#xD;
+&#xD;
+          -  Human immunodeficiency virus (HIV)-infected patients on effective anti-retroviral&#xD;
+             therapy with undetectable viral load within 6 months are eligible for this trial;&#xD;
+             Note: HIV testing is not required for eligibility for this protocol&#xD;
+&#xD;
+          -  For patients with evidence of chronic hepatitis B virus (HBV) infection, the HBV viral&#xD;
+             load must be undetectable on suppressive therapy, if indicated.&#xD;
+&#xD;
+               -  Note: Known positive test for hepatitis B virus surface antigen (HBV sAg)&#xD;
+                  indicating acute or chronic infection would make the patient ineligible unless&#xD;
+                  the viral load becomes undetectable on suppressive therapy. Patients who are&#xD;
+                  immune to hepatitis B (anti-Hepatitis B surface antibody positive) are eligible&#xD;
+                  (e.g. patients immunized against hepatitis B)&#xD;
+&#xD;
+          -  For patients with a history of hepatitis C virus (HCV) infection must have been&#xD;
+             treated and cured. For patients with HCV infection who are currently on treatment,&#xD;
+             they are eligible if they have an undetectable HCV viral load&#xD;
+&#xD;
+               -  Note: Known positive test for hepatitis C virus ribonucleic acid (HCV RNA)&#xD;
+                  indicating acute or chronic infection would make the patient ineligible unless&#xD;
+                  the viral load becomes undetectable on suppressive therapy&#xD;
+&#xD;
+          -  The patient or a legally authorized representative must provide study-specific&#xD;
+             informed consent prior to study entry and, for patients treated in the United States&#xD;
+             (U.S.), authorization permitting release of personal health information&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previous radical surgery (prostatectomy) or any form of curative-intent ablation&#xD;
+             whether focal or whole-gland (e.g., cryosurgery, high intensity focused ultrasound&#xD;
+             [HIFU], laser thermal ablation, etc.) for prostate cancer&#xD;
+&#xD;
+          -  Definitive clinical or radiologic evidence of metastatic disease (M1)&#xD;
+&#xD;
+          -  Prior invasive malignancy (except non-melanomatous skin cancer) unless disease free&#xD;
+             for a minimum of 3 years. History of or current diagnosis of hematologic malignancy is&#xD;
+             not allowed&#xD;
+&#xD;
+          -  Prior radiotherapy to the prostate/pelvis region that would result in overlap of&#xD;
+             radiation therapy fields&#xD;
+&#xD;
+          -  Previous bilateral orchiectomy&#xD;
+&#xD;
+          -  Previous hormonal therapy, such as luteinizing hormone-releasing hormone (LHRH)&#xD;
+             agonists (e.g., leuprolide, goserelin, buserelin, triptorelin) or LHRH antagonist&#xD;
+             (e.g. degarelix), anti-androgens (e.g., flutamide, bicalutamide, cyproterone acetate).&#xD;
+             ADT started prior to study registration is not allowed&#xD;
+&#xD;
+          -  Prior use of 5-alpha-reductase inhibitors is allowed, however, it must be stopped&#xD;
+             prior to enrollment on the study with at least a 30 day washout period before baseline&#xD;
+             study PSA measure and registration&#xD;
+&#xD;
+          -  Active testosterone replacement therapy; any replacement therapy must be stopped at&#xD;
+             least 30 days prior to registration&#xD;
+&#xD;
+          -  Severe, active co-morbidity defined as follows:&#xD;
+&#xD;
+               -  Current severe or unstable angina;&#xD;
+&#xD;
+               -  New York Heart Association Functional Classification III/IV (Note: Patients with&#xD;
+                  known history or current symptoms of cardiac disease, or history of treatment&#xD;
+                  with cardiotoxic agents, should have a clinical risk assessment of cardiac&#xD;
+                  function using the New York Heart Association Functional Classification)&#xD;
+&#xD;
+               -  History of any condition that in the opinion of the investigator, would preclude&#xD;
+                  participation in this study&#xD;
+&#xD;
+          -  Inability to swallow oral pills&#xD;
+&#xD;
+          -  High risk features, which includes any of the following:&#xD;
+&#xD;
+               -  Gleason 8-10 [ISUP Grade Group 4-5]&#xD;
+&#xD;
+               -  PSA &gt; 20&#xD;
+&#xD;
+               -  cT3-4 by digital exam OR gross extra-prostatic extension on imaging&#xD;
+                  [indeterminate MRI evidence will not count and the patient will be eligible]&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Neil B Desai</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NRG Oncology</affiliation>
+  </overall_official>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 20, 2021</study_first_posted>
+  <last_update_submitted>September 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Adenocarcinoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leuprolide</mesh_term>
+    <mesh_term>Goserelin</mesh_term>
+    <mesh_term>Triptorelin Pamoate</mesh_term>
+    <mesh_term>Flutamide</mesh_term>
+    <mesh_term>Bicalutamide</mesh_term>
+    <mesh_term>Tryptophan</mesh_term>
+    <mesh_term>Buserelin</mesh_term>
+    <mesh_term>Hormones</mesh_term>
+    <mesh_term>Relugolix</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1833">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05137301</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GenSci-GD-21001</org_study_id>
+    <nct_id>NCT05137301</nct_id>
+  </id_info>
+  <brief_title>Performance of the Diagnostic Value of Bone Age Assessment Software Based on Deep Learning in Chinese Children</brief_title>
+  <official_title>Performance of the Diagnostic Value of Bone Age Assessment Software Based on Deep Learning in Chinese Children</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tongji Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>GeneScience Pharmaceuticals Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Tongji Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      High accuracy and precision bone age assessment is very important for the diagnosis and&#xD;
+      treatment monitoring of various pediatric diseases. The commonly used bone age assessment&#xD;
+      methods include GP atlas, TW3 score and Zhonghua 05. GP method is to compare wrist X-ray&#xD;
+      films with atlas reference X-ray films. Its main disadvantages are strong subjectivity and&#xD;
+      long atlas standard interval. Different from GP method, TW3 method is to grade and score each&#xD;
+      bone, add each epiphyseal score to calculate the total score of bone maturity, and obtain the&#xD;
+      corresponding final bone age value. Although TW3 scoring method is relatively accurate, it is&#xD;
+      complex and time-consuming, and there is great variability among evaluators. In order to&#xD;
+      evaluate bone age more efficiently and accurately, a method based on computer image automatic&#xD;
+      recognition technology can help to overcome these problems.&#xD;
+&#xD;
+      In this study, 1000 children aged 1-18 in 5 hospitals are selected as the research objects.&#xD;
+      After taking bone age films with bone age instrument, the film reading results and evaluation&#xD;
+      time of AI Group, artificial group and standard group are recorded. One month later, the&#xD;
+      artificial group re-analyzes 1000 films with the assistance of AI system, and the evaluation&#xD;
+      time is recorded. Finally, the accuracy and time difference of artificial group, AI Group,&#xD;
+      artificial combined AI Group and standard group are compared.&#xD;
+&#xD;
+      The purpose of this study is to use the most advanced artificial intelligence deep learning&#xD;
+      bone age evaluation software to explore the value of bone age instrument to improve the&#xD;
+      accuracy and diagnostic efficiency of bone age evaluation by pediatricians.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      1. Study subjects: Radiographs of the left wrist of 1000 children aged 1-18 years who&#xD;
+           underwent bone age measurement at 5 hospitals were selected&#xD;
+&#xD;
+        2. Research methods:&#xD;
+&#xD;
+      2.1 general information: name, gender, actual age, height, weight, BMI, race, disease type&#xD;
+      2.2 main instrument: artificial intelligence X-ray bone age instrument 2.3 scanning scheme:&#xD;
+      Left posterior and anterior radiographs 2.4 bone age evaluation method and group 2.4.1 the&#xD;
+      standard group：Tw3-RUS and TW3-CARPAL were used to evaluate the left hand bone age tablets by&#xD;
+      the 5 pediatric doctors designated in the TW3 system training. There was no time limit for&#xD;
+      reading the tablets. The mean value of the evaluation results of the 5 doctors was taken as&#xD;
+      the final reference standard.&#xD;
+&#xD;
+      2.4.2 Grouping of bone age assessment ① artificial group (5 assessors assess bone age&#xD;
+      separately) ② AI Group③ artificial + AI Group (artificial Group assesses bone age with the&#xD;
+      assistance of AI intelligent software assessment) After taking bone age films with bone age&#xD;
+      instrument, the film reading results and evaluation time of AI Group, artificial group and&#xD;
+      standard group are recorded. One month later, the artificial group re-analyzes 1000 films&#xD;
+      with the assistance of AI system, and the evaluation time is recorded. Finally, the accuracy&#xD;
+      and time difference of artificial group, AI Group, artificial combined AI Group and standard&#xD;
+      group are compared.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">July 15, 2022</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>1 Month</target_duration>
+  <primary_outcome>
+    <measure>bone age</measure>
+    <time_frame>one month</time_frame>
+    <description>The mean absolute error (MAE) and root mean square error (RSME) between the evaluation bone age results of different groups</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Endocrine Diseases</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>X-ray bone age instrument</intervention_name>
+    <description>Bone age films were taken by X-ray bone age instrument</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Children aged 1-18 who need bone age assessment&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Children aged 1 to 18 years.&#xD;
+&#xD;
+          2. Clinical diagnosis of requiring bone age examination.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. There are obstructions or implants in the wrist bone, such as metal.&#xD;
+&#xD;
+          2. Poor resolution, which affects the observation of bone characteristics.&#xD;
+&#xD;
+          3. Poor shooting position of the wrist due to various reasons.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>xiumin wang, director</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Shanghai Children's Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>xinran cheng, director</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Chendu Women's and children's central hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>xiaobo chen, director</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Children's Hospital of The Capital Institute of Pediatrics</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>ZE SU, director</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Shenzhen Children's Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Xiaoping Luo, director</last_name>
+    <phone>13387522645</phone>
+    <email>xpluo@tjh.tjmu.edu.cn</email>
+  </overall_contact>
+  <verification_date>June 2021</verification_date>
+  <study_first_submitted>November 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 30, 2021</study_first_posted>
+  <last_update_submitted>November 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Tongji Hospital</investigator_affiliation>
+    <investigator_full_name>Xiaoping Luo</investigator_full_name>
+    <investigator_title>Director of Pediatrics</investigator_title>
+  </responsible_party>
+  <keyword>bone age; TW3; AI</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Endocrine System Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

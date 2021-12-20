@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="510">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05154513</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IMPAACT 2028</org_study_id>
+    <secondary_id>UM1AI068632</secondary_id>
+    <secondary_id>UM1AI068616</secondary_id>
+    <secondary_id>UM1AI106716</secondary_id>
+    <secondary_id>HHSN275201800001I</secondary_id>
+    <nct_id>NCT05154513</nct_id>
+  </id_info>
+  <brief_title>Long-Term Clinical, Immunologic, and Virologic Profiles of Children Who Received Early Treatment for HIV</brief_title>
+  <official_title>Long-Term Clinical, Immunologic, and Virologic Profiles of Children Who Received Early Treatment for HIV</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>International Maternal Pediatric Adolescent AIDS Clinical Trials Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>International Maternal Pediatric Adolescent AIDS Clinical Trials Group</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      IMPAACT 2028 is an observational prospective study to characterize a cohort of early treated&#xD;
+      children who may participate in future research related to HIV remission or cure. Up to&#xD;
+      approximately 250 participants will be in the study for approximately seven years. No&#xD;
+      intervention is provided in the study.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an observational prospective cohort study characterizing and establishing a&#xD;
+      biorepository of early treated children who may participate in future research related to HIV&#xD;
+      remission or cure. Early treatment is defined as treatment with at least three ARV agents&#xD;
+      from at least two classes of ART initiated within 12 weeks of birth. Within the overall study&#xD;
+      population, for descriptive and analysis purposes, children who initiated treatment within 48&#xD;
+      hours of birth will be classified as having received very early treatment. A subset of&#xD;
+      children will have received bNAbs as part of their treatment regimens.&#xD;
+&#xD;
+      Up to approximately 250 children living with HIV who received early treatment in IMPAACT&#xD;
+      network studies or other research studies sponsored by the US National Institutes of Health&#xD;
+      (NIH) will be enrolled and followed semi-annually for up to seven years. Clinical, virologic,&#xD;
+      and immunologic evaluations will be performed semi-annually at each study visit, and&#xD;
+      specimens will be collected for the study's biorepository for future investigations.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">December 15, 2021</start_date>
+  <completion_date type="Anticipated">November 30, 2027</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2027</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical Outcome Measures - Weight measured in kg</measure>
+    <time_frame>At enrollment, at participant study completion (up until 7 years)</time_frame>
+    <description>Median and interquartile range; to characterize long-term clinical profile</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical Outcome Measures - Height measured in cm</measure>
+    <time_frame>At enrollment, at participant study completion (up until 7 years)</time_frame>
+    <description>Median and interquartile range; to characterize long-term clinical profile</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical Outcome Measures - Weight-for-height Z score</measure>
+    <time_frame>At enrollment, at participant study completion (up until 7 years)</time_frame>
+    <description>Median and interquartile range, % of participants with Z scores corresponding to mild, moderate, or severe malnutrition</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical Outcome Measures - Head circumference measured in cm</measure>
+    <time_frame>At birth, 24 months of age</time_frame>
+    <description>Median and interquartile range; to characterize long-term clinical profile</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical Outcome Measures - Head circumference-for-age Z score</measure>
+    <time_frame>At birth, 24 months of age</time_frame>
+    <description>Median and interquartile range; to characterize long-term clinical profile</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical Outcome Measures - Cumulative incidence of WHO clinical Stage 3 or Stage 4 conditions</measure>
+    <time_frame>At enrollment, at participant study completion (up until 7 years)</time_frame>
+    <description>% of patients with outcome; to characterize long-term clinical profile</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical Outcome Measures - Cumulative incidence of medical conditions that required hospitalization, resulted in persistent or significant disability or incapacity, were life threatening, or resulted in death</measure>
+    <time_frame>At enrollment, at participant study completion (up until 7 years)</time_frame>
+    <description>% of patients with outcome; to characterize long-term clinical profile</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical Outcome Measures - Cumulative incidence of other medical conditions of interest</measure>
+    <time_frame>At enrollment, at participant study completion (up until 7 years)</time_frame>
+    <description>% of patients with outcome; to characterize long-term clinical profile</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical Outcome Measures - Cumulative incidence of mortality</measure>
+    <time_frame>At study participant completion (up until 7 years)</time_frame>
+    <description>% of patients with outcome; to characterize long-term clinical profile</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunologic Outcome Measures - CD4+ cell counts and percentages</measure>
+    <time_frame>At enrollment, at participant study completion (up until 7 years)</time_frame>
+    <description>Median and interquartile range; to characterize long-term immunologic profile</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunologic Outcome Measures - CD8+ cell counts and percentages</measure>
+    <time_frame>At enrollment, at participant study completion (up until 7 years)</time_frame>
+    <description>Median and interquartile range; to characterize long-term immunologic profile</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunologic Outcome Measures - HIV-1 antibody status</measure>
+    <time_frame>At enrollment, at participant study completion (up until 7 years)</time_frame>
+    <description>% of participants with negative serostatus</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Virologic Outcome Measures - HIV-1 RNA in plasma</measure>
+    <time_frame>At enrollment, at participant study completion (up until 7 years)</time_frame>
+    <description>% of participants with HIV-1 RNA below the limit of detection of the assay among participants with quantifiable HIV-1 RNA, median and interquartile range</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Virologic Outcome Measures - HIV-1 DNA concentration in PBMCs</measure>
+    <time_frame>At enrollment, at participant study completion (up until 7 years)</time_frame>
+    <description>% of participants with HIV-1 DNA below the limit of detection of the assay among participants with quantifiable HIV-1 DNA, median and interquartile range</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Virologic Outcome Measures - HIV-1 ARV resistance mutations</measure>
+    <time_frame>At enrollment, at participant study completion (up until 7 years)</time_frame>
+    <description>% of participants with resistance mutations</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>HIV Infection</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <description>Children living with perinatally-acquired HIV who received early treatment in IMPAACT network studies or other research studies sponsored by the United States National Institutes of Health.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Cohort 1</intervention_name>
+    <description>No intervention provided in this study</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      The following specimens will be collected: HIV-1 RNA PCR, HIV-1 DNA ddPCR, CD4+ and CD8+ cell&#xD;
+      counts and percentages, HIV-1 antibody, Serum, plasma, and peripheral blood mononuclear cell&#xD;
+      (PBMC) storage, ARV resistance testing if clinically indicated. If child is three years of&#xD;
+      age or older, collect nasopharyngeal and rectal swabs for storage.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Up to approximately 250 children living with HIV who received early treatment in IMPAACT&#xD;
+        network studies or other research studies sponsored by the US National Institutes of Health&#xD;
+        (NIH)&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participated in one of the parent studies&#xD;
+&#xD;
+          -  Confirmed HIV-1 infection based on documented nucleic acid testing of two blood&#xD;
+             samples collected at different time points&#xD;
+&#xD;
+          -  Received early treatment for HIV-1 infection, defined as treatment with at least three&#xD;
+             ARV agents from at least two classes of ART, initiated within 12 weeks of birth&#xD;
+&#xD;
+          -  Based on parent or guardian report at entry, child is expected to be available for at&#xD;
+             least 24 months of follow-up&#xD;
+&#xD;
+          -  Parent or guardian is willing and able to provide written informed consent for child's&#xD;
+             study participation and, when applicable per institutional review board/ethics&#xD;
+             committee (IRB/EC) policies and procedures, child is willing and able to provide&#xD;
+             written assent for study participation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Has any documented or suspected clinically significant medical condition or any other&#xD;
+             condition that, in the opinion of the site investigator, would make participation in&#xD;
+             the study unsafe or otherwise interfere with completing study procedures&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Shaun Barnabas, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Stellenbosch</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Samantha Fry, MD, MMed</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Stellenbosch</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Julia Rosebush, DO, FAAP</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Chicago</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Anne Coletti, MS</last_name>
+    <phone>919.544.7040</phone>
+    <email>acoletti@fhi360.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Shaun Barnabas, MD, PhD</last_name>
+    <phone>27-21-938-4153</phone>
+    <email>barnabas@sun.ac.za</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Southern California (CRS 5048)</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90089</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>James Homans</last_name>
+      <phone>323-865-1585</phone>
+      <email>homans@usc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Yvonne Morales</last_name>
+      <phone>323-865-1561</phone>
+      <email>ytr@usc.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>David Geffen School of Medicine at UCLA (CRS 5112)</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michele Carter, BS, RN</last_name>
+      <phone>310-206-6369</phone>
+      <email>mfcarter@mednet.ucla.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jaime Deville, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University California, San Diego (CRS 4601)</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Megan Loughran</last_name>
+      <phone>858-534-9218</phone>
+      <email>meloughran@ucsd.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Stephen Spector, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado (5052)</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Emily A. Barr</last_name>
+      <phone>720-777-6752</phone>
+      <email>barr.emily@tchden.org</email>
+    </contact>
+    <investigator>
+      <last_name>Elizabeth McFarland, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>5055, South Florida CDTC Fort Lauderdale Clinical Research Site</name>
+      <address>
+        <city>Fort Lauderdale</city>
+        <state>Florida</state>
+        <zip>33316</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Lisa-Gay Robinson</last_name>
+      <phone>954-728-1136</phone>
+      <email>lerobinson@browardhealth.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Florida (5051)</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Saniyyah Mahmoudi, ARNP</last_name>
+      <phone>904-244-5331</phone>
+      <email>saniyyah.Mahmoudi@jax.ufl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Mobeen Rathore, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Miami Pediatric/Perinatal HIV/AIDS (4201)</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Charles Mitchell</last_name>
+      <phone>305-243-2755</phone>
+      <email>cmitchel@med.miami.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Charles D Mitchell, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ann &amp; Robert H Lurie Children's Hospital of Chicago (4001)</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ellen Chadwick</last_name>
+      <phone>312-227-6280</phone>
+      <email>egchadwick@luriechildrens.org</email>
+    </contact>
+    <investigator>
+      <last_name>Ellen Chadwick, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins University NICHD CRS (5092)</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Aleisha Collinson-Streng, RN, BSN</last_name>
+      <phone>443-801-7301</phone>
+      <email>acolli14@jhmi.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Allison Agwu, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Bronx-Lebanon Hospital Center (CRS 5114)</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10457</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Martha Cavallo, CPNP</last_name>
+      <phone>718-960-1010</phone>
+      <email>mcavallo@bronxleb.org</email>
+    </contact>
+    <investigator>
+      <last_name>Murli Purswani, MD, MBChB</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Jude Childrens Research Hosp, Memphis (6501)</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Katherine Knapp</last_name>
+      <phone>901-448-4774</phone>
+      <email>katherine.knapp@stjude.org</email>
+    </contact>
+    <investigator>
+      <last_name>Katherine Knapp, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>3801, Texas Children's Hospital Clinical Research Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mary Paul</last_name>
+      <phone>832-824-1143</phone>
+      <email>mepaul@texaschildrens.org</email>
+    </contact>
+    <investigator>
+      <last_name>Mary Paul, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gaborone CRS 12701</name>
+      <address>
+        <city>Gaborone</city>
+        <country>Botswana</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Gaerolwe Masheto, MD</last_name>
+      <phone>2673975999</phone>
+      <email>gmasheto@bhp.org.bw</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Molepolole Prevention/Treatment Trials CRS 12702</name>
+      <address>
+        <city>Molepolole</city>
+        <country>Botswana</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Gaerolwe Masheto, MD</last_name>
+      <phone>2673975999</phone>
+      <email>gmasheto@bhp.org.bw</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>School of Medicine, University of Minas Gerais - FUNDEP (5073)</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jorge Pinto</last_name>
+      <phone>55-31-3409-9822</phone>
+      <email>jorgeandradepinto@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>5071, Instituto de Puericultura e Pediatria Martagao Gesteira Clinical Research Site</name>
+      <address>
+        <city>Rio De Janeiro</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Cristina Hofer</last_name>
+      <phone>55-21-3148-2255</phone>
+      <email>cbhofer@hucff.ufrj.br</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Geral De Nova Igaucu (5097)</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ivete Gomes</last_name>
+      <phone>55-21-2667-3022</phone>
+      <email>ivetegomes63@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ribeirao Preto Medical School, University of Sao Paulo (5074)</name>
+      <address>
+        <city>Sao Paulo</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Marisa Mussi-Pinhata</last_name>
+      <phone>55-16-3602-2807</phone>
+      <email>mmmpinha@fmrp.usp.br</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Les Centres GHESKIO (30022)</name>
+      <address>
+        <city>Port-au-Prince</city>
+        <country>Haiti</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jean W Pape</last_name>
+      <phone>509-2940-1431</phone>
+      <email>jwpape@gheskio.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>5121, Kenya Medical Research Institute/Walter Reed Project Clinical Research Center Kericho Clinical Research Site</name>
+      <address>
+        <city>Kericho</city>
+        <country>Kenya</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Josphat Kosgei</last_name>
+      <phone>254-522-030-686</phone>
+      <email>josphat.kosgei@usamru-k.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>College of Med. JHU CRS (30301)</name>
+      <address>
+        <city>Blantyre</city>
+        <country>Malawi</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Macpherson Mallewa</last_name>
+      <phone>265-187-5129</phone>
+      <email>mmallewa@medcol.mw</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina Lilongwe (12001)</name>
+      <address>
+        <city>Lilongwe</city>
+        <country>Malawi</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Portia C. Kamthunzi</last_name>
+      <phone>265-1758938</phone>
+      <email>pkamthunzi@unclilongwe.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Soweto IMPAACT CRS (8052)</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Avy Violari</last_name>
+      <phone>27-11-989-9703</phone>
+      <email>violari@mweb.co.za</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>30300, Umlazi Clinical Research Site</name>
+      <address>
+        <city>Durban</city>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Kimesh Naidoo</last_name>
+      <phone>27-31-260-4350</phone>
+      <email>naidook9@ukzn.ac.za</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>8051, Wits RHI Shandukani Research Centre Clinical Research Site</name>
+      <address>
+        <city>Johannesburg</city>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Faeezah Patel</last_name>
+      <phone>27-11-358-5500</phone>
+      <email>fpatel@wrhi.ac.za</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Family Clinical Research Unit (FAM-CRU) CRS (8950)</name>
+      <address>
+        <city>Tygerberg Hills</city>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Shaun Barnabas</last_name>
+      <phone>27-21-938-4153</phone>
+      <email>barnabas@sun.ac.za</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kilimanjaro Christian Medical Centre (5118)</name>
+      <address>
+        <city>Moshi</city>
+        <country>Tanzania</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>James Ngocho</last_name>
+      <phone>255-78-464-0164</phone>
+      <email>jamesngocho08@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Siriraj Hospital Mahidol University CRS (5115)</name>
+      <address>
+        <city>Bangkok</city>
+        <state>Ratchathewi</state>
+        <zip>10700</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Kulkanya Chokephaibulkit</last_name>
+      <phone>66-2-419-7000</phone>
+      <email>kulkanya.cho@mahidol.ac.th</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Chiang Rai Regional Hospital (5116)</name>
+      <address>
+        <city>Chiang Rai</city>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jullapong Achalapong</last_name>
+      <phone>66-81-950-0707</phone>
+      <email>jullapong.achalapong@phpt.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>31798, Baylor-Uganda Clinical Research Site</name>
+      <address>
+        <city>Kampala</city>
+        <country>Uganda</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Adeodata Kekitiinwa</last_name>
+      <phone>256-417-119-200</phone>
+      <email>akekitiinwa@baylor-uganda.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Seke North CRS 30306</name>
+      <address>
+        <city>Chitungwiza</city>
+        <country>Zimbabwe</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Teacler Nematadzira</last_name>
+      <phone>263-772-288-155</phone>
+      <email>tnematadzira@uz-ctrc.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Mary's CRS 30303</name>
+      <address>
+        <city>Chitungwiza</city>
+        <country>Zimbabwe</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Lynda Stranix-Chibanda</last_name>
+      <phone>263-772-246-011</phone>
+      <email>lstranix@uz-ctrc.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Harare Family Care (31890)</name>
+      <address>
+        <city>Harare</city>
+        <country>Zimbabwe</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Mutsa Bwakura-Dangarembizi</last_name>
+      <phone>+263 772 601735</phone>
+      <email>mbwakura@uz-ctrc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Mutsa Bwakura-Dangarembizi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Botswana</country>
+    <country>Brazil</country>
+    <country>Haiti</country>
+    <country>Kenya</country>
+    <country>Malawi</country>
+    <country>South Africa</country>
+    <country>Tanzania</country>
+    <country>Thailand</country>
+    <country>Uganda</country>
+    <country>United States</country>
+    <country>Zimbabwe</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>March 4, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 13, 2021</study_first_posted>
+  <last_update_submitted>December 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>HIV Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data that underlie results in the publication, after deidentification.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Beginning 3 months following publication and available throughout period of funding of the International Maternal Pediatric Adolescent AIDS Clinical Trial (IMPAACT) Network by NIH.</ipd_time_frame>
+    <ipd_access_criteria>With whom? Researchers who provide a methodologically sound proposal for use of the data that is approved by the IMPAACT Network.&#xD;
+For what types of analyses? To achieve aims in the proposal approved by the IMPAACT Network.&#xD;
+By what mechanism will data be made available? Researchers may submit a request for access to data using the IMPAACT &quot;Data Request&quot; form at: https://www.impaactnetwork.org/resources/study-proposals.htm. Researchers of approved proposals will need to sign an IMPAACT Data Use Agreement before receiving the data.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3382">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05117151</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202109061RIND</org_study_id>
+    <nct_id>NCT05117151</nct_id>
+  </id_info>
+  <brief_title>Ability of Hypotension Prediction Index to Predict Hypotension Events in Thoracic Surgery</brief_title>
+  <official_title>Ability of Hypotension Prediction Index to Predict Future Hypotension Events in Each Phase of Thoracic Surgery: an Observational Pilot Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Taiwan University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Taiwan University Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      We design this prospective observational study to exam the ability of hypotension prediction&#xD;
+      index in predicting intraoperative hypotension events in each phase of thoracic surgery&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Hypotension prediction index is a novel introduced monitoring-tool that aims to predict&#xD;
+      hypotension events before their occurence, and has been reported to have superior predictive&#xD;
+      ability than the commonly measured perioperative hemodynamic variables. To date, there is no&#xD;
+      information regarding its ability to predict hypotension events in each phase of thoracic&#xD;
+      surgery.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2021</start_date>
+  <completion_date type="Anticipated">March 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>ability of hypotension prediction index in predicting hypotension events</measure>
+    <time_frame>3 hr</time_frame>
+    <description>to calculate the sensitivity/specificity and AUROC of hypotension prediction index in predicting hypotension events</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ability of dynamic parameters in predicting hypotension events</measure>
+    <time_frame>3 hr</time_frame>
+    <description>to calculate the sensitivity/specificity and AUROC of dynamic parameters in predicting hypotension events</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Perioperative/Postoperative Complications</condition>
+  <arm_group>
+    <arm_group_label>Observation</arm_group_label>
+    <description>monitor intraoperative hypotension prediction index as well as hemodynamic variables to exam the ability in predicting hypotension events of each variable</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>hypotension prediction index</intervention_name>
+    <description>monitor intraoperative hypotension prediction index as well as hemodynamic variables to exam the ability in predicting hypotension events of each variable</description>
+    <arm_group_label>Observation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        adults undergoing scheduled VATS surgery&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  adults undergoing scheduled VATS surgery&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  pregnant women&#xD;
+&#xD;
+          -  patients in intensive care units&#xD;
+&#xD;
+          -  patients with the underlying disease including respiratory failure(FEV1/FVC &lt; 70 % and&#xD;
+             FEV1 &lt; 50%), heart failure(NYHA score =III、IV), kidney failure(eGFR&lt; 60&#xD;
+             ml.min-1.1.73m-2), liver failure&#xD;
+&#xD;
+          -  patients with ongoing infection&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Chun-Yu Wu, Ph.D.</last_name>
+    <role>Study Chair</role>
+    <affiliation>National Taiwan University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Chen-Tse Lee, MD</last_name>
+    <phone>0972653169</phone>
+    <email>lctbrian314@gmail.com</email>
+  </overall_contact>
+  <results_reference>
+    <citation>Monk TG, Bronsert MR, Henderson WG, Mangione MP, Sum-Ping ST, Bentt DR, Nguyen JD, Richman JS, Meguid RA, Hammermeister KE. Association between Intraoperative Hypotension and Hypertension and 30-day Postoperative Mortality in Noncardiac Surgery. Anesthesiology. 2015 Aug;123(2):307-19. doi: 10.1097/ALN.0000000000000756. Erratum in: Anesthesiology. 2016 Mar;124(3):741-2.</citation>
+    <PMID>26083768</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Hatib F, Jian Z, Buddi S, Lee C, Settels J, Sibert K, Rinehart J, Cannesson M. Machine-learning Algorithm to Predict Hypotension Based on High-fidelity Arterial Pressure Waveform Analysis. Anesthesiology. 2018 Oct;129(4):663-674. doi: 10.1097/ALN.0000000000002300.</citation>
+    <PMID>29894315</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wijnberge M, Geerts BF, Hol L, Lemmers N, Mulder MP, Berge P, Schenk J, Terwindt LE, Hollmann MW, Vlaar AP, Veelo DP. Effect of a Machine Learning-Derived Early Warning System for Intraoperative Hypotension vs Standard Care on Depth and Duration of Intraoperative Hypotension During Elective Noncardiac Surgery: The HYPE Randomized Clinical Trial. JAMA. 2020 Mar 17;323(11):1052-1060. doi: 10.1001/jama.2020.0592.</citation>
+    <PMID>32065827</PMID>
+  </results_reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 31, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 31, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 11, 2021</study_first_posted>
+  <last_update_submitted>October 31, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 31, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypotension</mesh_term>
+    <mesh_term>Postoperative Complications</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9801">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05033678</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-04763</org_study_id>
+    <nct_id>NCT05033678</nct_id>
+  </id_info>
+  <brief_title>Implementation of Teledermoscopy and Artificial Intelligence</brief_title>
+  <official_title>Teledermoscopy and Artificial Intelligence: Effects of Implementation in Clinical Practice</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Region Skane</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Lund University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Region Skane</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study has 2 parts. Part 1 will investigate the effects of introducing teledermoscopy in&#xD;
+      clinical practice, more specifically the change in referral patterns, the risk of undetected&#xD;
+      skin cancers and the effect on diagnostic accuracy in general practitioners.&#xD;
+&#xD;
+      Part 2 will investigate how to introduce artificial intelligence (AI) within teledermocsopy.&#xD;
+      In this study the investigators will measure the effect of displaying the results of&#xD;
+      artificial intelligence in different ways and at different time points.&#xD;
+&#xD;
+      Data will be collcted through teledermoscopic referrals, patient records, national registries&#xD;
+      and questionnairs.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study objective:&#xD;
+&#xD;
+        1. Is teledermoscopy an equally safe method as conventional care for skin cancer patients?&#xD;
+&#xD;
+        2. How does teledermoscopy affect current care and organization of skin diseases?&#xD;
+&#xD;
+        3. How should the results of diagnostic algorithms be displayed in real-life health care to&#xD;
+           achieve the proper effect?&#xD;
+&#xD;
+        4. In what stage of the assessment of a skin lesion should the results of a diagnostic&#xD;
+           algorithm be presented to the physician to ensure the highest diagnostic accuracy while&#xD;
+           minimizing risk of undetected skin cancer?&#xD;
+&#xD;
+      Material and methods:&#xD;
+&#xD;
+        1. Study setting Patients scheduled for a skin examination for a suspected skin lesion can&#xD;
+           be recruited, both in dermatology clinics and participating primary care clinics.&#xD;
+&#xD;
+        2. Data acquisition Patient data and images will be collected with the Dermicus®&#xD;
+           application. Participating PCP and dermatologists will also fill in a questionnaire&#xD;
+           about their assessment of the patient. Additional informaiton will be collected from&#xD;
+           medical records, i.e. histopathological diagnoses, and from national registries.&#xD;
+           Questionnaires will be entered in a digital data base using REDCap®.&#xD;
+&#xD;
+      4. Statistical analyses 4.1. In part 1, the number of consultations send to dermatologists&#xD;
+      and for pathological analyses before introduction of teledermoscopy and during the first and&#xD;
+      second year if using teledermoscopy will be analysed. Descriptive statistics will be&#xD;
+      presented and differences between the different time periods will be tested with t-tests and&#xD;
+      paired t-tests.&#xD;
+&#xD;
+      4.2. In part 2, different ways of displaying the results of the artificial intelligence as&#xD;
+      well as feeding the results at different time points will be compared using analyses of&#xD;
+      sensitivity, specificity, and Area under ROC-curve (AUROC). The study will also report the&#xD;
+      impact the results of the artificial intelligence has on the willingness to change a&#xD;
+      diagnosis or a management plan.&#xD;
+&#xD;
+      5. Power set to 0.8 and significance to 0.05. 10% censures. 5.1. Patients recruited to this&#xD;
+      study can be used in several of the sub-studies. The aim of the study is to collect 8000&#xD;
+      patients in total in this study.&#xD;
+&#xD;
+      5.2. To detect a difference in &quot;unimaged skin cancers&quot; between teledermoscopy and&#xD;
+      conventional care of patients 1200 cases and 2400 controls need to be included.&#xD;
+&#xD;
+      5.3. To detect a 10% difference in sensitivity/ specificity of diagnostic ability in PCPs&#xD;
+      before and after working with teledermoscopy 3400 patients need to be included.&#xD;
+&#xD;
+      5.4. To investigate how artificial intelligence should be implemented in clinical care the&#xD;
+      investigators have calculated that 6000 patients are needed to detect a 10% difference in&#xD;
+      sensitivity and specificity in the subgroups.&#xD;
+&#xD;
+      Ethical considerations and data management:&#xD;
+&#xD;
+      Data will be collected using Dermicus®, a CE-certified digital platform and mobile&#xD;
+      application. With the application downloaded on iPhones®, locked for any other uses, the&#xD;
+      history of the patients are registered. Then, by connecting the iPhone to a dermoscope,&#xD;
+      macroscopic and dermoscopic images are captured. All data will be stored on the servers of&#xD;
+      the health care region of Skåne, where the studies are conducted. Patients participating in&#xD;
+      the studies will be tagged with a study code enabling the investigators to extract the data&#xD;
+      from the patients that has agreed to participate in our study. Once a case has been created&#xD;
+      and sent to the data base all information will be deleted from the iPhone®. Additional data&#xD;
+      will also be retrieved from relevant medical records, e.g. histopathological diagnosis, and&#xD;
+      manually registered in an electronic database at a highly secure location (LUSEC/ REDCap&#xD;
+      provided by Lund University) . Data collected from PCP and dermatologists by questionnaires&#xD;
+      will also be registered in this data base by means of electronic surveys (REDCap).&#xD;
+      Information from primary care on total number of visits, referrals to dermatologists and&#xD;
+      referrals to pathology regarding skin lesions will be extracted from patient administrative&#xD;
+      systems. Age- and sex matched controls will be used for the study investigating missed skin&#xD;
+      cancer. These controls will be randomly selected from patients that was referred to a skin&#xD;
+      clinic by paper referral during the same period as the teledermoscopically referred patients&#xD;
+      were gathered. Algorithms for skin cancer diagnosis will be implemented in the web platform&#xD;
+      of Dermicus for the studies of introduction of artificial intelligence. Teledermoscopic&#xD;
+      assessors will be instructed on when and how to use these different tools.&#xD;
+&#xD;
+      Every week the newly entered data will be checked for completeness, and in the case of&#xD;
+      missing data, reminders to participating investigators will be send.&#xD;
+&#xD;
+      Then the data sets are complete, identifiers (such as personal identification number) will be&#xD;
+      replaced by a code kept secure at a different location than the data set. Data will&#xD;
+      thereafter be extracted from the data base to perform statistical analysis.&#xD;
+&#xD;
+      The study is approved by the Swedish Ethical Review Authority and all relevant approvals for&#xD;
+      data extraction and data storage has been obtained.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 16, 2021</start_date>
+  <completion_date type="Anticipated">August 31, 2029</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2029</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>8 Years</target_duration>
+  <primary_outcome>
+    <measure>Effect on referral patterns</measure>
+    <time_frame>2 years</time_frame>
+    <description>Measure how referral patterns are affected by the introduction of teledermoscopy</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Effect on diagnostic accurcay in general practioners</measure>
+    <time_frame>2 years</time_frame>
+    <description>Measuring how the continuous use of teledermoscopy affects the diagnostic accuracy in general practitioners</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Risk of undetected skin cancer</measure>
+    <time_frame>2 years</time_frame>
+    <description>Measuring if the risk of undetected skin cancer increases with the use of teledermoscopy</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Effect on diagnostic accuracy due to different display of artificial intelligence</measure>
+    <time_frame>8 years</time_frame>
+    <description>Measuring if the diagnostic accurcy differs depending on how artificial intelligence is presented to the physician</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Artificial intelligence timing and effect on diagnostic accuracy and willingness to rethink the preliminary diagnosis</measure>
+    <time_frame>8 years</time_frame>
+    <description>Measuring if the diagnostic accuracy and the willingness to reconsider the preliminary diagnosis differs according to when in the process a physician is presented with the results of the artificial intelligence</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">8000</enrollment>
+  <condition>Skin Cancer</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Diagnostic algorithms</intervention_name>
+    <description>Assessors of teledermoscopy will be asked to review the results of artificial intelligence displayed differently and at different time points in their assessment.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients, 15 years or older, seeking care for a suspected skin lesion, or when a&#xD;
+        suspected skin lesion is detected during a visit for another complaint, and it is decided&#xD;
+        to send a teledermoscopic consultation.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Has a skin lesion assessed by a physician during a visit&#xD;
+&#xD;
+          -  The physician decides to create a teledermoscopy referral&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  inability or unwillingness to participate in the study&#xD;
+&#xD;
+          -  the patient is younger than 15 years old&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Asa Ingvar, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of Dermatology, Skane University Hospital, Region Skane, Sweden</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Asa Ingvar, PhD</last_name>
+    <phone>+4646172243</phone>
+    <email>asa.ingvar@skane.se</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Tabelund vardcentral</name>
+      <address>
+        <city>Eslov</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Gabriella Caleres</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Capio vardcentral Helsingborg</name>
+      <address>
+        <city>Helsingborg</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Linda Sundlöf</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Lomma vardcentral</name>
+      <address>
+        <city>Lomma</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mohammad Oskooi</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Department of dermatology, Skane University Hospital</name>
+      <address>
+        <city>Lund</city>
+        <zip>22185</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Helsa/ Kry vårdcentral</name>
+      <address>
+        <city>Lund</city>
+        <zip>22223</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonas Ingvar</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Masen vardcentral</name>
+      <address>
+        <city>Lund</city>
+        <zip>22732</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Henrik Orre</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bokskogen vardcentral</name>
+      <address>
+        <city>Malmö</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jenny Wittrup</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Lideta vardcentral</name>
+      <address>
+        <city>Malmö</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Esther Millar</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sjobo vardcentral</name>
+      <address>
+        <city>Sjobo</city>
+        <zip>27531</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Celestina Wiberg</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Halsomedicinskt center Staffanstorp</name>
+      <address>
+        <city>Staffanstorp</city>
+        <zip>24532</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mette Barth</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Staffastorps vardcentral</name>
+      <address>
+        <city>Staffanstorp</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cecilia Luts</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <verification_date>August 2021</verification_date>
+  <study_first_submitted>August 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>August 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 5, 2021</study_first_posted>
+  <last_update_submitted>September 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Melanoma</keyword>
+  <keyword>non-melanoma skin cancer</keyword>
+  <keyword>teledermoscopy</keyword>
+  <keyword>artificial intelligence</keyword>
+  <keyword>health care organization</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Skin Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

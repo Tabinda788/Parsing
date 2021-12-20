@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3271">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05118594</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ML_LMIC_2021</org_study_id>
+    <nct_id>NCT05118594</nct_id>
+  </id_info>
+  <brief_title>Testing a Precision Psychotherapy System for Low-income Patients</brief_title>
+  <acronym>ML_LMIC</acronym>
+  <official_title>Open-trial to Prospectively Test the Feasibility of a Precision Psychotherapy System for Low-income Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Council of Scientific and Technical Research, Argentina</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Council of Scientific and Technical Research, Argentina</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the feasibility of an evidence-based system to&#xD;
+      recommend core interventions, before the beginning of treatment, to psychotherapists treating&#xD;
+      low-income patients with depressive or anxiety disorders.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      After providing a written inform consent, potential patients will undergo a 2-weeks screening&#xD;
+      period to determine if they meet eligibility criteria. Baseline information (i.e., derived&#xD;
+      from semi-structured intake interviews and baseline clinical measures) from patients who meet&#xD;
+      eligibility criteria and consent to participate in the study, will be use to feed a machine&#xD;
+      learning algorithm, developed in a previous study, to perform individual predictions and&#xD;
+      determine which interventions (i.e., cognitive, behavioral, interpersonal, or&#xD;
+      patient-centered) will be recommended for the individual patient. This recommendation (i.e.,&#xD;
+      about the most personally well-suited intervention for a given patient) will be provided to&#xD;
+      therapists before the beginning of treatment. Patients will be treated with 15 sessions of&#xD;
+      psychotherapy. The investigators will examine the extent to which therapists adhered to the&#xD;
+      recommended interventions as the primary outcome. The investigators will also examine patient&#xD;
+      symptomatic/functional improvement as a secondary outcome.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2026</start_date>
+  <completion_date type="Anticipated">November 2026</completion_date>
+  <primary_completion_date type="Anticipated">November 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Therapists will receive patient-specific treatment recommendations (based on a machine-learning based algorithm developed in a previous study) regarding the most suitable interventions to be used to treat each study patient.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline in Depressive Severity on the Patient Health Questionnaire (PHQ-9) at Week 15</measure>
+    <time_frame>Baseline and Week 15</time_frame>
+    <description>The PHQ-9 is a validated 9-item self-reported measure of depression severity grounded on the diagnostic criteria from the Diagnostic and Statistical Manual of Mental Disorders-IV (DSM-IV), with higher scores representing greater severity. Items are rated on a four-point Likert scale ranging from 0 (&quot;Not at all&quot;) to 3 (&quot;Nearly every day&quot;).&#xD;
+Change= Estimated weekly change from Baseline to Week 15 from a multilevel growth curve model</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from Baseline in Anxiety Severity on the General Anxiety Disorder-7 (GAD-7) at Week 15</measure>
+    <time_frame>Baseline and Week 15</time_frame>
+    <description>The GAD-7 is a self-reported measure that evaluates the overall anxiety severity with seven items rated on a four-point Likert scale ranging from 0 (&quot;Not at all) to 3 (&quot;Nearly every day&quot;). Greater scores represents higher severity.&#xD;
+Change= Estimated weekly change on severity from Baseline to Week 15 from a multilevel growth curve model</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from Baseline in Overall Functioning on the World Health Organization Disability Assessment Schedule (WHODAS) at Week 15</measure>
+    <time_frame>Baseline and Week 15</time_frame>
+    <description>The WHODAS is a validated self-reported measure that evaluates overall functioning with 12 items rated on a five-point Likert scale ranging from 0 (&quot;None&quot;) to 4 (&quot;Extreme&quot;). Greater scores represents higher disability.&#xD;
+Change= Estimated weekly change on severity from Baseline to Week 15 from a multilevel growth curve model</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Average Adherence to the Recommended Interventions on the Multitheoretical List of Therapeutic Interventions (MULTI-30) Across Treatment</measure>
+    <time_frame>Week 1 and Week 15</time_frame>
+    <description>The MULTI-30 is a validated and reliable measure to assessed the adherence to therapeutic interventions in a given session. Items are rated on a 5-point Likert scale ranging from 1 (&quot;Not at all typical to the session&quot;) to 5 (&quot;Very typical to the session&quot;). For the project the investigators will test the following MULTI-30 subscales: Cognitive, Behavioral, Interpersonal, and Person-centered. In this study the investigators will use the therapist version of the MULTI-30.&#xD;
+Average Adherence= Mean Score of the Recommended Interventions Across all the Sessions of the Treatment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Diagnostic Status at Week 15 in the Primary Diagnoses Identified at Baseline with the Mini-International Neuropsychiatric Interview</measure>
+    <time_frame>Baseline and Week 15</time_frame>
+    <description>The MINI is a brief structured diagnostic interview for psychiatric disorders developed based on the Diagnostic and Statistical Manual of Mental Disorders (DSM) and the International Classification of Diseases (ICD) diagnostic criteria. Several studies have positioned the MINI as a highly reliable and valid instrument for determine psychiatric disorders.&#xD;
+Diagnostic Status= Determine if the primary diagnoses remain at Week 15</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">111</enrollment>
+  <condition>Major Depressive Disorder</condition>
+  <condition>Dysthymic Disorder</condition>
+  <condition>Specific Phobia</condition>
+  <condition>Social Anxiety Disorder</condition>
+  <condition>Panic Disorder</condition>
+  <condition>Agoraphobia</condition>
+  <condition>Generalized Anxiety Disorder</condition>
+  <arm_group>
+    <arm_group_label>Pre-treatment recommendations</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Therapists receive automatized feedback at the beginning of the treatments with recommendations regarding the most appropriate interventions to use with their patients based on a machine learning algorithm developed on a previous study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Pre-treatment psychotherapy recommendations</intervention_name>
+    <description>After patients complete an intake evaluation and prior to starting therapy, the assigned therapist will receive automatized feedback that consists of recommendations regarding the most suitable interventions (i.e., cognitive, behavioral, interpersonal or patient-centered) for each individual patients, based on patients' baseline characteristics and a machine learning algorithm developed in a previous study. Besides the interventions recommended, therapist will receive within the system guideline and tutorial videos showing how to deliver adequately the specific interventions recommended.</description>
+    <arm_group_label>Pre-treatment recommendations</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnoses of a depressive disorder (i.e., major depressive disorder or dysthymic&#xD;
+             disorder) or an anxiety disorder (i.e., specific phobia, social anxiety disorder,&#xD;
+             panic disorder, agoraphobia or generalized anxiety disorder) determined with the&#xD;
+             Mini-International Neuropsychiatric Interview (MINI)&#xD;
+&#xD;
+          -  A score of at least two (mild) in any the five items from the depression and anxiety&#xD;
+             domains of the DSM-5 Self-Rated Level 1 Cross-Cutting Symptom Measure-Adult&#xD;
+&#xD;
+          -  A total family income below the poverty index threshold, determined by a Licensed&#xD;
+             Social Worker&#xD;
+&#xD;
+          -  Aged 18 to 65&#xD;
+&#xD;
+          -  Fluency in Spanish language&#xD;
+&#xD;
+          -  Capacity to consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Psychosis&#xD;
+&#xD;
+          -  Mania&#xD;
+&#xD;
+          -  Suicidal ideation with intent and/or plan&#xD;
+&#xD;
+          -  Substance abuse disorders&#xD;
+&#xD;
+          -  History of organic mental disease.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Juan M Gomez Penedo, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Council of Scientific and Technical Research</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Juan M Gomez Penedo, PhD</last_name>
+    <phone>+5491165257053</phone>
+    <email>jmgomezpenedo@gmail.com</email>
+  </overall_contact>
+  <reference>
+    <citation>Solomonov N, McCarthy KS, Gorman BS, Barber JP. The Multitheoretical List of Therapeutic Interventions - 30 items (MULTI-30). Psychother Res. 2019 Jul;29(5):565-580. doi: 10.1080/10503307.2017.1422216. Epub 2018 Jan 16.</citation>
+    <PMID>29336228</PMID>
+  </reference>
+  <reference>
+    <citation>Sheehan DV, Lecrubier Y, Sheehan KH, Amorim P, Janavs J, Weiller E, Hergueta T, Baker R, Dunbar GC. The Mini-International Neuropsychiatric Interview (M.I.N.I.): the development and validation of a structured diagnostic psychiatric interview for DSM-IV and ICD-10. J Clin Psychiatry. 1998;59 Suppl 20:22-33;quiz 34-57. Review.</citation>
+    <PMID>9881538</PMID>
+  </reference>
+  <reference>
+    <citation>Ustün TB, Chatterji S, Kostanjsek N, Rehm J, Kennedy C, Epping-Jordan J, Saxena S, von Korff M, Pull C; WHO/NIH Joint Project. Developing the World Health Organization Disability Assessment Schedule 2.0. Bull World Health Organ. 2010 Nov 1;88(11):815-23. doi: 10.2471/BLT.09.067231. Epub 2010 May 20.</citation>
+    <PMID>21076562</PMID>
+  </reference>
+  <reference>
+    <citation>Kroenke K, Spitzer RL, Williams JB. The PHQ-9: validity of a brief depression severity measure. J Gen Intern Med. 2001 Sep;16(9):606-13.</citation>
+    <PMID>11556941</PMID>
+  </reference>
+  <reference>
+    <citation>Spitzer RL, Kroenke K, Williams JB, Löwe B. A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med. 2006 May 22;166(10):1092-7.</citation>
+    <PMID>16717171</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 12, 2021</study_first_posted>
+  <last_update_submitted>November 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>National Council of Scientific and Technical Research, Argentina</investigator_affiliation>
+    <investigator_full_name>Juan Martin Gomez Penedo</investigator_full_name>
+    <investigator_title>Assistant Researcher</investigator_title>
+  </responsible_party>
+  <keyword>Depressive disorders</keyword>
+  <keyword>Anxiety disorders</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Anxiety Disorders</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder, Major</mesh_term>
+    <mesh_term>Panic Disorder</mesh_term>
+    <mesh_term>Phobia, Social</mesh_term>
+    <mesh_term>Agoraphobia</mesh_term>
+    <mesh_term>Dysthymic Disorder</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>We will share individual participant data (IPD) underlying the results of publications of the project, upon request. Furthermore, following the particular scientific journals' standards, we will share analytic code of published results.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Upon request, we will start sharing IPD 6 months after the publication of the main outcome paper in a peer-reviewed scientific journal. We will maintain our de-identified database indefinitely for potential future requests.</ipd_time_frame>
+    <ipd_access_criteria>For meta-analyses or replications, we will share de-identified IPD, an associated data dictionary, and supporting information to scientific colleagues showing a track record of publications in psychotherapy research following ethical guidelines. We can also share IPD for secondary analyses, grounded on previously agreed collaborations and under a clear establishment of manuscript authorship arrangements.&#xD;
+Requests should be send via email to the PI, Dr. Juan Martín Gómez Penedo (jmgomezpenedo@gmail.com). If the data usage details are unclear or questionable Dr. Gómez Penedo reserves the right to deny individual data share requests.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

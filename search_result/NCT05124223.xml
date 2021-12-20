@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2838">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05124223</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EA2/020/21</org_study_id>
+    <nct_id>NCT05124223</nct_id>
+  </id_info>
+  <brief_title>Analysis of Cardiac Damage Post Infection With SARS-CoV-2 and Post Vaccination Against COVID-19</brief_title>
+  <official_title>Analysis of Cardiac Damage Post Infection With SARS-CoV-2 and Post Vaccination Against COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sebastian Kelle</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>German Heart Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      From May 2020 to May 2021, the investigators retrospectively evaluated clinical cardiac&#xD;
+      magnetic resonance (CMR) examinations performed in patients with suspected cardiac&#xD;
+      involvement post COVID-19. Between May 2021 and August 2021, the investigators evaluated&#xD;
+      patients with suspected cardiac disease after COVID-19 vaccination.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Hospital database for patients that underwent a clinical CMR examination between May 2020 and&#xD;
+      May 2021 for suspected cardiac pathology post COVID-19 were analyzed. For comparison, CMR&#xD;
+      examinations from January until August 2021 were searched for suspected cardiac pathology&#xD;
+      post COVID-19 vaccination. The study complies with the declaration of Helsinki and was&#xD;
+      approved by the ethics committee of the Charité-Universitätsmedizin Berlin (EA2/020/21).&#xD;
+&#xD;
+      CMR Imaging All scans were performed for clinical indications on either a Philips Ingenia 3.0&#xD;
+      T scanner or a Philips Ambition 1.5 T scanner according to recent recommendations for CMR in&#xD;
+      patients post COVID-19. Protocols were adjusted to the clinical scenario but generally&#xD;
+      included standard CINE imaging, T2 STIR edema imaging, basal and medial short axis T2 mapping&#xD;
+      (T2-GraSE) and pre- and post-contrast T1 mapping (MOLLI), and Late-Enhancement-Imaging&#xD;
+      (mDIXON). Vasodilator stress with Regadenosone or Adenosine was performed in patients with&#xD;
+      clinically suspected myocardial ischemia. The Adenosine dose was 0.140 µg/kg/min, with an&#xD;
+      increase to 0.210 µg/kg/min in case of insufficient response. The Regadenosone dose was 200µg&#xD;
+      irrespective of weight, followed by Theophyllin reversal as needed (max. 200mg). The contrast&#xD;
+      agent was 0.1 mmol/kg Gadobutrol (Gadovist®, Bayer AG, Leverkusen, Germany).&#xD;
+&#xD;
+      CMR image analysis Image post-processing and measurements were performed according to recent&#xD;
+      recommendations using dedicated CMR post-processing software (IntelliSpace Portal V11.1,&#xD;
+      Philips, Best, The Netherlands). The diagnosis of 'probable myocarditis' was based on the&#xD;
+      updated Lake Louise Criteria requiring findings of myocardial damage (LGE) and edema (T2 STIR&#xD;
+      or T2 mapping) in a non-ischemic pattern (intramyocardial or subepicardial). Evidence of&#xD;
+      edema without myocardial damage was considered 'possible myocarditis' whereas myocardial&#xD;
+      damage without edema was considered 'subsided myocarditis.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 1, 2020</start_date>
+  <completion_date type="Actual">August 31, 2021</completion_date>
+  <primary_completion_date type="Actual">August 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Acute Myocarditis</measure>
+    <time_frame>January 2020 to August 2021</time_frame>
+    <description>Number of patients with CMR diagnosis of suspected acute myocarditis</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Subsided Myocarditis</measure>
+    <time_frame>January 2020 to August 2021</time_frame>
+    <description>Number of patients with CMR diagnosis of suspected subsided myocarditis</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">131</enrollment>
+  <condition>Myocarditis Acute</condition>
+  <arm_group>
+    <arm_group_label>Post-COVID-19</arm_group_label>
+    <description>From May 2020 to May 2021, we retrospectively examined 104 clinical cardiac magnetic resonance (CMR) examinations performed in patients with suspected cardiac involvement post COVID-19. The mean time from first positive PCR to CMR was 112 +- 76 days. During their COVID-19 disease, 21% of patients required hospitalization, 17% supplemental oxygen and 7% mechanical ventilation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Post-COVID-19-Vaccination</arm_group_label>
+    <description>Between May 2021 and August 2021, we examined 27 patients with suspected cardiac disease after COVID-19 vaccination.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Cardiac MRI</intervention_name>
+    <description>Cardiac MRI was performed as clinically indicated to assess cardiac pathology.</description>
+    <arm_group_label>Post-COVID-19</arm_group_label>
+    <arm_group_label>Post-COVID-19-Vaccination</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Clinical all-comers with suspected cardiac Involvement after COVID-19 or&#xD;
+        COVID-19-vaccination&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Cardiac MRI for suspected cardiac Involvement after COVID-19 or COVID-19-vaccination&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  None&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>German Heart Center Berlin</name>
+      <address>
+        <city>Berlin</city>
+        <zip>13353</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 16, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2021</study_first_posted>
+  <last_update_submitted>November 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>German Heart Institute</investigator_affiliation>
+    <investigator_full_name>Sebastian Kelle</investigator_full_name>
+    <investigator_title>Head of cardiovascular MRI</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>COVID-19-Vaccine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Myocarditis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

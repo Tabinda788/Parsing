@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1908">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05136326</url>
+  </required_header>
+  <id_info>
+    <org_study_id>INT 188/21</org_study_id>
+    <secondary_id>INT 188/21</secondary_id>
+    <nct_id>NCT05136326</nct_id>
+  </id_info>
+  <brief_title>Preoperative Chemoradiotherapy With CApecitabine and Temozolomide in MGMT Silenced, MSS, Locally Advanced RecTal Cancer</brief_title>
+  <acronym>CATARTIC</acronym>
+  <official_title>Multicenter Phase II Study of Preoperative Chemoradiotherapy With CApecitabine Plus Temozolomide in Patients With MGMT Silenced and Microsatellite Stable Locally Advanced RecTal Cancer: the CATARTIC Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fondazione IRCCS Istituto Nazionale dei Tumori, Milano</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Fondazione IRCCS Istituto Nazionale dei Tumori, Milano</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In patients with locally advanced rectal cancer (LARC), preoperative chemo-radiotherapy&#xD;
+      (CTRT) is considered the standard of care. Preoperative CTRT approach often results in a&#xD;
+      significant tumor downstaging and local control, with evidence of complete pathological&#xD;
+      response (pCR) rate of about 15% in high volume institutions. In high-risk LARC a new&#xD;
+      strategy called total neoadjuvant therapy (TNT) has emerged, in which systemic chemotherapy&#xD;
+      with fluorouracil and oxaliplatin (RAPIDO trial) or with the triplet FOLFIRINOX (as was used&#xD;
+      in the PRODIGE 23 study) is incorporated before or after the administration of short-course&#xD;
+      RT or neoadjuvant CTRT and prior to surgery. However, given the fact that TNT may represent&#xD;
+      an overtreatment for a subset of patients, additional therapeutic strategies are warranted to&#xD;
+      improve the outcomes also in patients with lower risk that are not good candidate for a TNT.&#xD;
+&#xD;
+      In the era of personalized medicine, tumor molecular profiling may lead to the identification&#xD;
+      of therapeutic targets for pharmacological intervention potentially useful to enhance&#xD;
+      treatment outcomes.&#xD;
+&#xD;
+      O(6)-methylguanine-DNA-methyltransferase (MGMT) repairs DNA damage induced by alkylating&#xD;
+      agents and MGMT inactivation due to promoter methylation confers enhanced sensitivity to&#xD;
+      alkylating agents such as temozolomide (TMZ).&#xD;
+&#xD;
+      TMZ has modest activity in patients with MGMT-methylated pretreated metastatic colorectal&#xD;
+      cancer and responses are restricted to tumors with complete MGMT loss by immunohistochemistry&#xD;
+      (IHC) and microsatellite stable (MSS) status.&#xD;
+&#xD;
+      Both capecitabine and temozolomide induces deoxythymidine triphosphate thymidine pool&#xD;
+      depletion might induce deoxyribonucleic acid (DNA)-double strand breaks and eventually&#xD;
+      apoptosis in rapidly dividing cells. On the basis of such evidences, there is a strong&#xD;
+      biological and clinical rationale for testing the addition of TMZ to capecitabine-based CTRT&#xD;
+      in patients with MGMT silenced and MSS technically resectable LARC.&#xD;
+&#xD;
+      The aim of this trial is investigating whether the addition of TMZ to standard concurrent&#xD;
+      capecitabine-based long-course chemoradiation may increase pCR rate as compared to historical&#xD;
+      control in patients with locally advanced rectal cancer not candidate to TNT and molecularly&#xD;
+      selected for the presence of MGMT silencing and microsatellite stable status.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Preoperative CTRT (long-course radiotherapy with a recommended dose of 45-50 Gy in 25-28&#xD;
+      fractions plus a boost with a further 5.4 Gy in 3 fractions, and concomitant administration&#xD;
+      of oral capecitabine or continuous intravenous infusions of 5-fluorouracil) is considered the&#xD;
+      standard of care in the management of LARC, based on the significantly better down-staging&#xD;
+      and local control obtained by preoperative CTRT compared with radiotherapy (RT) alone, with a&#xD;
+      consequent reduction of local recurrence rate, and given its superior tolerability profile&#xD;
+      compared with postoperative treatment. Preoperative CTRT approach often results in a&#xD;
+      significant tumor downstaging and local control, with evidence of complete pathological&#xD;
+      response (pCR) rate of about 15% in high volume institutions. In high-risk LARC a new&#xD;
+      strategy called total neoadjuvant therapy (TNT) has emerged, in which systemic chemotherapy&#xD;
+      with fluorouracil and oxaliplatin (RAPIDO trial) or with the triplet FOLFIRINOX (as was used&#xD;
+      in the PRODIGE 23 study) is incorporated before or after the administration of short-course&#xD;
+      RT or neoadjuvant CTRT and prior to surgery. However, given the fact that TNT may represent&#xD;
+      an overtreatment for a subset of patients, additional therapeutic strategies are warranted to&#xD;
+      improve the outcomes also in patients with lower risk that are not good candidate for a TNT.&#xD;
+&#xD;
+      In the era of personalized medicine, tumor molecular profiling may lead to the identification&#xD;
+      of therapeutic targets for pharmacological intervention potentially useful to enhance&#xD;
+      treatment outcomes. About 30-40% of colorectal carcinomas (CRCs) are characterized by the&#xD;
+      promoter methylation of the O(6)-methylguanine-DNA-methyltransferase (MGMT) gene, encoding a&#xD;
+      repair enzyme involved in the elimination of alkyl groups from the O6-position of guanine,&#xD;
+      usually caused by alkylating agents. MGMT defect, due to epigenetic silencing of the MGMT&#xD;
+      gene, may be involved in early steps of colorectal tumor genesis leading to an increase of&#xD;
+      G-to-A transitions and may be associated with enhanced chemosensitivity to alkylating agents&#xD;
+      including dacarbazine and its oral analogue temozolomide (TMZ) - as shown for melanoma and&#xD;
+      glioblastoma. Previous phase II studies showed that TMZ can induce an objective response by&#xD;
+      RECIST criteria in about 10% of heavily pre-treated patients with advanced CRC carrying MGMT&#xD;
+      promoter methylated, as determined by the qualitative assay methylation-specific polymerase&#xD;
+      chain reaction (MSP). To refine patient selection for TMZ therapy, we recently showed how&#xD;
+      digital PCR quantification of MGMT methylation may further refine patient selection, with&#xD;
+      benefit restricted to those with highly hyper-methylated tumors. Moreover, we showed that&#xD;
+      MGMT negative/low expression by immunohistochemistry (IHC) is found in about one third of&#xD;
+      MSP-methylated samples and is associated with increased response rate, since patients with&#xD;
+      retained MGMT expression in their tumors do not benefit from TMZ therapy. Therefore, ongoing&#xD;
+      trials (MAYA [NCT03832621], ARETHUSA [NCT03519412], FLIRT-bev [NCT04689347], ERASE-TMZ&#xD;
+      [EUDRACT:2020-005437-32]) select patients based on lack of MGMT expression assessed by means&#xD;
+      of IHC and presence of MGMT methylation by pyrosequencing or methylBEAMing. Finally, patients&#xD;
+      with microsatellite instability-high (MSI-high) metastatic colorectal cancer (mCRC) are&#xD;
+      intrinsically resistant to TMZ and therefore should be excluded by clinical trials on&#xD;
+      TMZ-based therapies. Based on these data, an assessment of MGMT promoter methylation coupled&#xD;
+      with absent protein expression and of the microsatellite instability status could optimize&#xD;
+      the prediction of response.&#xD;
+&#xD;
+      Finally, previous reports indicate that acquired resistance to TMZ may emerge through the&#xD;
+      induction of a MSI-like phenotype with emergence of MMR gene mutations and elevated tumor&#xD;
+      mutational burden characterized by G&gt;A transitions (signature 8 according to Alexandrov et&#xD;
+      al, Nature 2013). The recently completed MAYA trial (NCT03832621) investigated the&#xD;
+      combination of TMZ with nivolumab and ipilimumab in patients with metastatic and&#xD;
+      chemorefractory disease; however, no data are available on potential synergy between RT and&#xD;
+      TMZ in inducing potential sensitization to immunotherapy of &quot;cold&quot; tumors and translational&#xD;
+      data are required.&#xD;
+&#xD;
+      Both capecitabine and temozolomide induces deoxythymidine triphosphate. Thymidine pool&#xD;
+      depletion might induce deoxyribonucleic acid (DNA)-double strand breaks and eventually&#xD;
+      apoptosis in rapidly dividing cells. On the basis of such evidences, there is a strong&#xD;
+      biological and clinical rationale for testing the addition of TMZ to capecitabine-based CTRT&#xD;
+      in patients with MGMT silenced and MSS technically resectable LARC. Concurrent treatment with&#xD;
+      TMZ during RT followed by adjuvant TMZ is the standard of care for the treatment of malignant&#xD;
+      glioblastomas, showing a survival benefit compared to radiation alone, at the cost of a&#xD;
+      limited additional toxicity. When used together to radiotherapy, TMZ stabilize RT-induced&#xD;
+      double-strand breaks by producing 12-base adducts in DNA, including the cytotoxic lesions&#xD;
+      O6-methylguanine and 3-methyladenine. Therefore, the synergy between RT and TMZ could be of&#xD;
+      particular value in patients with MGMT silenced, MSS rectal cancers candidates for&#xD;
+      preoperative CTRT. Therefore, there is a strong rationale to investigate capecitabine plus&#xD;
+      temozolomide (CAPTEM)-based CTRT in this molecular subgroup.&#xD;
+&#xD;
+      In a phase 1 study, Jeong and colleagues evaluated the dose limiting toxicity (DLT) and the&#xD;
+      recommended dose (RD) of temozolomide when combined with capecitabine as preoperative CTRT in&#xD;
+      patients with molecularly unselected LARC, showing that this treatment strategy is feasible&#xD;
+      and safe. No dose limiting toxicities were observed in patients treated with the highest&#xD;
+      temozolomide dose level tested in the study of 75 mg/m2/day, nor National Cancer Institute&#xD;
+      Common Terminology Criteria for Adverse Event (NCI-CTCAE) grade IV adverse events (AEs) were&#xD;
+      observed. Overall, the most frequent AE reported was nausea, occurring in 77.2% of the 22&#xD;
+      patients treated. The MGMT promoter hypermethylation was detected in the 72.7% of patient&#xD;
+      enrolled. Tumor downstaging of the primary tumor and lymph nodes was observed in 81.8% and&#xD;
+      72.7% of patients, respectively, the R0 resection rate was 90.9% and a pCR of the primary&#xD;
+      tumor (ypT0) was achieved in 31.8% of patients. As expected, the pCR rates were higher in the&#xD;
+      hypermethylated than in the unmethylated MGMT group (37.5% vs 16.7%), although this&#xD;
+      difference did not reach the statistical significance (odds ratio= 0.33; 95% Confidence&#xD;
+      Interval [CI], 0.03-3.58; p=0.616).&#xD;
+&#xD;
+      The aim of this trial is investigating whether the addition of TMZ to standard concurrent&#xD;
+      capecitabine-based long-course chemoradiation may increase pCR rate as compared to historical&#xD;
+      control in patients with locally advanced rectal cancer not candidate to TNT and molecularly&#xD;
+      selected for the presence of MGMT silencing and microsatellite stable status.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2021</start_date>
+  <completion_date type="Anticipated">December 2026</completion_date>
+  <primary_completion_date type="Anticipated">December 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Phase II, multicentre, non-randomized, open-label trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To evaluate the rate of complete pathologic response (pCR)</measure>
+    <time_frame>24 months</time_frame>
+    <description>pCR, defined as complete histological regression with no available tumor cells yT0N0</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To assess the R0 resection rate</measure>
+    <time_frame>24 months</time_frame>
+    <description>R0 defined as the rate of microscopically margin-negative resections</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the tumor downstaging rate</measure>
+    <time_frame>24 months</time_frame>
+    <description>Tumor downstaging rate defined as the rate of reduction in the stage of the tumor as a result of pre-operative therapy, from a more to a less threatening stage at the radiologic assessment after the the end of CTRT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the rate of sphincter preservation</measure>
+    <time_frame>24 months</time_frame>
+    <description>Sphincter preservation rate defined as the percentage of patients with preserved ano-rectal sphincter after surgery</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the rate of local recurrence rate</measure>
+    <time_frame>24 months</time_frame>
+    <description>Local recurrence rate defined as the rate of detectable local disease at follow-up after study treatment completion</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the disease-free survival</measure>
+    <time_frame>The disease-free survival will be evaluated during a follow up of 5 years</time_frame>
+    <description>Disease-free survival defined as the time from the enrollment in the study to the occurrence of disease relapse (local and/or distant) or death from any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the overall survival</measure>
+    <time_frame>The overall survival will be evaluated during a follow up of 5 years</time_frame>
+    <description>Overall survival defined as the time from the enrollment in the study to the occurrence of death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the incidence, nature, and severity of adverse events</measure>
+    <time_frame>24 months</time_frame>
+    <description>Adverse events defined and graded according to the NCI CTCAE v5.0</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">21</enrollment>
+  <condition>Rectal Cancer</condition>
+  <arm_group>
+    <arm_group_label>Catartic: chemoradiotherapy plus temozolomide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>External-beam radiation: 50.4 GY (45 Gy in 25 fractions + Boost 5.4 Gy in 3 fractions over 5 weeks) in association with:&#xD;
+Capecitabine 825 mg/sqm/bid per os (p.o.) 5 days/week for 5 weeks plus Temozolomide 75 mg/sqm p.o. 5 days/week for 5 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>External-beam radiation</intervention_name>
+    <description>External-beam radiation 50.4 GY (45 Gy in 25 fractions + Boost 5.4 Gy in 3 fractions over 5 weeks)</description>
+    <arm_group_label>Catartic: chemoradiotherapy plus temozolomide</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Capecitabine</intervention_name>
+    <description>825 mg/sqm/bid per os (p.o.) 5 days/week for 5 weeks;</description>
+    <arm_group_label>Catartic: chemoradiotherapy plus temozolomide</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Temozolomide</intervention_name>
+    <description>75 mg/sqm p.o. 5 days/week for 5 weeks</description>
+    <arm_group_label>Catartic: chemoradiotherapy plus temozolomide</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Written informed consent to study procedures;&#xD;
+&#xD;
+          -  Willing and able to comply with the protocol;&#xD;
+&#xD;
+          -  Age ≥ 18 years;&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) 0-1;&#xD;
+&#xD;
+          -  Life expectancy of at least 5 years (excluding diagnosis of cancer);&#xD;
+&#xD;
+          -  Histologically confirmed diagnosis of rectal adenocarcinoma, with centrally confirmed&#xD;
+             mismatch repair proficiency (MSS) by PCR, lack of MGMT expression by IHC and MGMT&#xD;
+             promoter methylation by pyrosequencing;&#xD;
+&#xD;
+          -  Locally advanced, resectable disease defined by the presence of at least one of the&#xD;
+             following features:&#xD;
+&#xD;
+               1. Distal tumor margin at &lt;15 cm from the anal verge;&#xD;
+&#xD;
+               2. cT3N0 or cT1-3N1 (with the definition of a clinically positive lymph node being&#xD;
+                  any node ≥ 1 cm);&#xD;
+&#xD;
+               3. Less than four lymph nodes in the mesorectum showing morphological signs on MRI&#xD;
+                  indicating metastatic disease;&#xD;
+&#xD;
+               4. No evidence of enlarged lateral pelvic clinically positive lymph node (&gt; 1 cm);&#xD;
+&#xD;
+               5. No evidence of extramural vascular invasion (EMVI);&#xD;
+&#xD;
+               6. No evidence of metastatic disease by CT scan of the chest and abdomen and total&#xD;
+                  body fluorodeoxyglucose positron emission tomography (FDG-PET)/CT scan;&#xD;
+&#xD;
+               7. No clear indication of involvement of the pelvic side walls by imaging;&#xD;
+&#xD;
+          -  Tumor must be amenable to curative resection (curative resection can include pelvic&#xD;
+             exenteration);&#xD;
+&#xD;
+          -  Hematopoietic: absolute neutrophil count ≥1500/mm3; platelet count ≥ 100,000/mm3;&#xD;
+             haemoglobin level ≥ 10 g/dL;&#xD;
+&#xD;
+          -  Hepatic total bilirubin ≤1.5 time upper limit of normal (ULN); alkaline phosphatase ≤&#xD;
+             2 times ULN; AST and ALT ≤ 2.5 times ULN Serum creatinine ≤ 1.5 × ULN or renal&#xD;
+             creatinine clearance ≥ 50 mL/min according to the Cockcroft-Gault formula (or local&#xD;
+             institutional standard methods);&#xD;
+&#xD;
+          -  Availability of an adequate archival tumor sample (Formalin Fixed Paraffin-embedded&#xD;
+             [FFPE]) for central tissue screening. If the tumor block is not available, a minimum&#xD;
+             of twenty-five (25) 3-micron unstained sections of tumor will be required (5 of those&#xD;
+             on standard non charged slides for immunochemistry, the others on charged slides);&#xD;
+&#xD;
+          -  Male subjects with female partners of childbearing potential must be willing to use&#xD;
+             adequate contraception as approved by the investigator (barrier contraceptive measure&#xD;
+             or oral contraception) contraception starting with the first dose of study therapy,&#xD;
+             through 180 days after the last dose of treatment; Note: Abstinence is acceptable if&#xD;
+             this is the usual lifestyle and preferred contraception for these subject.&#xD;
+&#xD;
+          -  Women of childbearing potential must have a negative blood pregnancy test at the&#xD;
+             baseline visit and must be willing to use an effective means of contraception and to&#xD;
+             continue its use for the duration of the study and for 180 days after the last&#xD;
+             infusion of study treatment. For this trial, women of childbearing potential are&#xD;
+             defined as all women after puberty, unless they are postmenopausal for at least 12&#xD;
+             months, are surgically sterile, or are sexually inactive. Note: Abstinence is&#xD;
+             acceptable if this is the usual lifestyle and preferred contraception for the subject.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Dihydropyrimidine dehydrogenase (DPD) deficiency;&#xD;
+&#xD;
+          -  Previous pelvic RT;&#xD;
+&#xD;
+          -  Any of the following in the 6 months prior to treatment start: myocardial infarction,&#xD;
+             severe/unstable angina, coronary/peripheral artery bypass graft, congestive heart&#xD;
+             failure (≥ New York Heart Association Classification Class II), cerebrovascular&#xD;
+             accident/stroke, transient ischemic attack, serious cardiac arrhythmia requiring&#xD;
+             medication or symptomatic pulmonary embolism;&#xD;
+&#xD;
+          -  Uncontrolled coagulopathy;&#xD;
+&#xD;
+          -  Active infection requiring systemic therapy;&#xD;
+&#xD;
+          -  Infection with human immunodeficiency virus (HIV) plus CD4 cells &lt;200/mm3 or&#xD;
+             AIDS-defining conditions despite HAART;&#xD;
+&#xD;
+          -  Known prior severe hypersensitivity to investigational product or any component in&#xD;
+             its. formulations;&#xD;
+&#xD;
+          -  Lack of upper gastrointestinal tract integrity or malabsorption syndrome; immune&#xD;
+             colitis; active inflammatory bowel disease (i.e., patients requiring current medical&#xD;
+             interventions or who are symptomatic);&#xD;
+&#xD;
+          -  Presence of metastatic disease, recurrent rectal cancer or history of invasive rectal&#xD;
+             malignancy, regardless of disease-free interval;&#xD;
+&#xD;
+          -  Other rectal cancers (i.e., sarcoma, lymphoma, carcinoid, squamous cell or cloacogenic&#xD;
+             carcinoma) or synchronous colon cancer;&#xD;
+&#xD;
+          -  Patients with prior malignancies, including invasive colon cancer, are eligible&#xD;
+             provided they have been disease-free for ≥ 3 years and are deemed by their physician&#xD;
+             to be at low risk for recurrence (patients with effectively treated squamous cell or&#xD;
+             basal cell skin cancer, melanoma in situ, carcinoma in situ of the cervix, or&#xD;
+             carcinoma in situ of the colon or rectum are eligible even if diagnosed less than 3&#xD;
+             years before study enrollment);&#xD;
+&#xD;
+          -  Other severe acute or chronic medical conditions including immune pneumonitis,&#xD;
+             pulmonary fibrosis or psychiatric conditions including recent (within the past year)&#xD;
+             or active suicidal ideation or behavior; or laboratory abnormalities that may increase&#xD;
+             the risk associated with study participation or study treatment administration or may&#xD;
+             interfere with the interpretation of study results and, in the judgment of the&#xD;
+             investigator, would make the patient inappropriate for entry into this study;&#xD;
+&#xD;
+          -  Any concomitant drugs contraindicated for use with the trial drugs according to the&#xD;
+             product information of the pharmaceutical companies;&#xD;
+&#xD;
+          -  Pregnant or lactating women.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Filippo Pietrantonio, MD</last_name>
+    <phone>+39 0223903807</phone>
+    <email>filippo.pietrantonio@istitutotumori.mi.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Federica Morano, MD</last_name>
+    <phone>+39 0223903842</phone>
+    <email>federica.morano@istitutotumori.mi.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Fondazione IRCCS Istituto Nazionale dei Tumori</name>
+      <address>
+        <city>Milan</city>
+        <zip>20133</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Filippo Pietrantonio, MD</last_name>
+      <phone>+39 0223903807</phone>
+      <email>filippo.pietrantonio@istitutotumori.mi.it</email>
+    </contact>
+    <contact_backup>
+      <last_name>Federica Morano, MD</last_name>
+      <phone>+39 0223903842</phone>
+      <email>federica.morano@istitutotumori.mi.it</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Bosset JF, Collette L, Calais G, Mineur L, Maingon P, Radosevic-Jelic L, Daban A, Bardet E, Beny A, Ollier JC; EORTC Radiotherapy Group Trial 22921. Chemotherapy with preoperative radiotherapy in rectal cancer. N Engl J Med. 2006 Sep 14;355(11):1114-23. Erratum in: N Engl J Med. 2007 Aug 16;357(7):728.</citation>
+    <PMID>16971718</PMID>
+  </reference>
+  <reference>
+    <citation>Lorimer PD, Motz BM, Kirks RC, Boselli DM, Walsh KK, Prabhu RS, Hill JS, Salo JC. Pathologic Complete Response Rates After Neoadjuvant Treatment in Rectal Cancer: An Analysis of the National Cancer Database. Ann Surg Oncol. 2017 Aug;24(8):2095-2103. doi: 10.1245/s10434-017-5873-8. Epub 2017 May 22.</citation>
+    <PMID>28534080</PMID>
+  </reference>
+  <reference>
+    <citation>Gérard JP, Conroy T, Bonnetain F, Bouché O, Chapet O, Closon-Dejardin MT, Untereiner M, Leduc B, Francois E, Maurel J, Seitz JF, Buecher B, Mackiewicz R, Ducreux M, Bedenne L. Preoperative radiotherapy with or without concurrent fluorouracil and leucovorin in T3-4 rectal cancers: results of FFCD 9203. J Clin Oncol. 2006 Oct 1;24(28):4620-5.</citation>
+    <PMID>17008704</PMID>
+  </reference>
+  <reference>
+    <citation>Bray F, Ferlay J, Soerjomataram I, Siegel RL, Torre LA, Jemal A. Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin. 2018 Nov;68(6):394-424. doi: 10.3322/caac.21492. Epub 2018 Sep 12. Erratum in: CA Cancer J Clin. 2020 Jul;70(4):313.</citation>
+    <PMID>30207593</PMID>
+  </reference>
+  <reference>
+    <citation>Jemal A, Siegel R, Xu J, Ward E. Cancer statistics, 2010. CA Cancer J Clin. 2010 Sep-Oct;60(5):277-300. doi: 10.3322/caac.20073. Epub 2010 Jul 7. Erratum in: CA Cancer J Clin. 2011 Mar-Apr;61(2):133-4.</citation>
+    <PMID>20610543</PMID>
+  </reference>
+  <reference>
+    <citation>Berardi R, Maccaroni E, Onofri A, Giampieri R, Bittoni A, Pistelli M, Scartozzi M, Pierantoni C, Bianconi M, Cascinu S. Multidisciplinary treatment of locally advanced rectal cancer: a literature review. Part 1. Expert Opin Pharmacother. 2009 Oct;10(14):2245-58. doi: 10.1517/14656560903143776. Review.</citation>
+    <PMID>19640208</PMID>
+  </reference>
+  <reference>
+    <citation>Heald RJ, Ryall RD. Recurrence and survival after total mesorectal excision for rectal cancer. Lancet. 1986 Jun 28;1(8496):1479-82.</citation>
+    <PMID>2425199</PMID>
+  </reference>
+  <reference>
+    <citation>Bosset JF, Calais G, Mineur L, Maingon P, Stojanovic-Rundic S, Bensadoun RJ, Bardet E, Beny A, Ollier JC, Bolla M, Marchal D, Van Laethem JL, Klein V, Giralt J, Clavère P, Glanzmann C, Cellier P, Collette L; EORTC Radiation Oncology Group. Fluorouracil-based adjuvant chemotherapy after preoperative chemoradiotherapy in rectal cancer: long-term results of the EORTC 22921 randomised study. Lancet Oncol. 2014 Feb;15(2):184-90. doi: 10.1016/S1470-2045(13)70599-0. Epub 2014 Jan 17.</citation>
+    <PMID>24440473</PMID>
+  </reference>
+  <reference>
+    <citation>Roh MS, Colangelo LH, O'Connell MJ, Yothers G, Deutsch M, Allegra CJ, Kahlenberg MS, Baez-Diaz L, Ursiny CS, Petrelli NJ, Wolmark N. Preoperative multimodality therapy improves disease-free survival in patients with carcinoma of the rectum: NSABP R-03. J Clin Oncol. 2009 Nov 1;27(31):5124-30. doi: 10.1200/JCO.2009.22.0467. Epub 2009 Sep 21.</citation>
+    <PMID>19770376</PMID>
+  </reference>
+  <reference>
+    <citation>Chen EY, Kardosh A, Nabavizadeh N, Lopez CD. Evolving Treatment Options and Future Directions for Locally Advanced Rectal Cancer. Clin Colorectal Cancer. 2019 Dec;18(4):231-237. doi: 10.1016/j.clcc.2019.06.005. Epub 2019 Jul 2. Review.</citation>
+    <PMID>31377214</PMID>
+  </reference>
+  <reference>
+    <citation>Gérard JP, Azria D, Gourgou-Bourgade S, Martel-Laffay I, Hennequin C, Etienne PL, Vendrely V, François E, de La Roche G, Bouché O, Mirabel X, Denis B, Mineur L, Berdah JF, Mahé MA, Bécouarn Y, Dupuis O, Lledo G, Montoto-Grillot C, Conroy T. Comparison of two neoadjuvant chemoradiotherapy regimens for locally advanced rectal cancer: results of the phase III trial ACCORD 12/0405-Prodige 2. J Clin Oncol. 2010 Apr 1;28(10):1638-44. doi: 10.1200/JCO.2009.25.8376. Epub 2010 Mar 1.</citation>
+    <PMID>20194850</PMID>
+  </reference>
+  <reference>
+    <citation>Aschele C, Cionini L, Lonardi S, Pinto C, Cordio S, Rosati G, Artale S, Tagliagambe A, Ambrosini G, Rosetti P, Bonetti A, Negru ME, Tronconi MC, Luppi G, Silvano G, Corsi DC, Bochicchio AM, Chiaulon G, Gallo M, Boni L. Primary tumor response to preoperative chemoradiation with or without oxaliplatin in locally advanced rectal cancer: pathologic results of the STAR-01 randomized phase III trial. J Clin Oncol. 2011 Jul 10;29(20):2773-80. doi: 10.1200/JCO.2010.34.4911. Epub 2011 May 23.</citation>
+    <PMID>21606427</PMID>
+  </reference>
+  <reference>
+    <citation>Allegra CJ, Yothers G, O'Connell MJ, Beart RW, Wozniak TF, Pitot HC, Shields AF, Landry JC, Ryan DP, Arora A, Evans LS, Bahary N, Soori G, Eakle JF, Robertson JM, Moore DF Jr, Mullane MR, Marchello BT, Ward PJ, Sharif S, Roh MS, Wolmark N. Neoadjuvant 5-FU or Capecitabine Plus Radiation With or Without Oxaliplatin in Rectal Cancer Patients: A Phase III Randomized Clinical Trial. J Natl Cancer Inst. 2015 Sep 14;107(11). pii: djv248. doi: 10.1093/jnci/djv248. Print 2015 Nov. Erratum in: J Natl Cancer Inst. 2016 Apr;108(4). pii: djw057. doi: 10.1093/jnci/djw057. Erratum in: J Natl Cancer Inst. 2018 Jul 1;110(7):794.</citation>
+    <PMID>26374429</PMID>
+  </reference>
+  <reference>
+    <citation>Hüttner FJ, Probst P, Kalkum E, Hackbusch M, Jensen K, Ulrich A, Debus J, Jäger D, Diener MK. Addition of Platinum Derivatives to Fluoropyrimidine-Based Neoadjuvant Chemoradiotherapy for Stage II/III Rectal Cancer: Systematic Review and Meta-Analysis. J Natl Cancer Inst. 2019 Sep 1;111(9):887-902. doi: 10.1093/jnci/djz081.</citation>
+    <PMID>31077329</PMID>
+  </reference>
+  <reference>
+    <citation>Dewdney A, Cunningham D, Tabernero J, Capdevila J, Glimelius B, Cervantes A, Tait D, Brown G, Wotherspoon A, Gonzalez de Castro D, Chua YJ, Wong R, Barbachano Y, Oates J, Chau I. Multicenter randomized phase II clinical trial comparing neoadjuvant oxaliplatin, capecitabine, and preoperative radiotherapy with or without cetuximab followed by total mesorectal excision in patients with high-risk rectal cancer (EXPERT-C). J Clin Oncol. 2012 May 10;30(14):1620-7. doi: 10.1200/JCO.2011.39.6036. Epub 2012 Apr 2.</citation>
+    <PMID>22473163</PMID>
+  </reference>
+  <reference>
+    <citation>Nogué M, Salud A, Vicente P, Arriví A, Roca JM, Losa F, Ponce J, Safont MJ, Guasch I, Moreno I, Ruiz A, Pericay C; AVACROSS Study Group. Addition of bevacizumab to XELOX induction therapy plus concomitant capecitabine-based chemoradiotherapy in magnetic resonance imaging-defined poor-prognosis locally advanced rectal cancer: the AVACROSS study. Oncologist. 2011;16(5):614-20. doi: 10.1634/theoncologist.2010-0285. Epub 2011 Apr 5.</citation>
+    <PMID>21467148</PMID>
+  </reference>
+  <reference>
+    <citation>Zhong X, Wu Z, Gao P, Shi J, Sun J, Guo Z, Wang Z, Song Y. The efficacy of adding targeted agents to neoadjuvant therapy for locally advanced rectal cancer patients: a meta-analysis. Cancer Med. 2018 Mar;7(3):565-582. doi: 10.1002/cam4.1298. Epub 2018 Feb 21.</citation>
+    <PMID>29464874</PMID>
+  </reference>
+  <reference>
+    <citation>Wong SJ, Winter K, Meropol NJ, Anne PR, Kachnic L, Rashid A, Watson JC, Mitchell E, Pollock J, Lee RJ, Haddock M, Erickson BA, Willett CG. Radiation Therapy Oncology Group 0247: a randomized Phase II study of neoadjuvant capecitabine and irinotecan or capecitabine and oxaliplatin with concurrent radiotherapy for patients with locally advanced rectal cancer. Int J Radiat Oncol Biol Phys. 2012 Mar 15;82(4):1367-75. doi: 10.1016/j.ijrobp.2011.05.027. Epub 2011 Jul 19.</citation>
+    <PMID>21775070</PMID>
+  </reference>
+  <reference>
+    <citation>Cercek A, Goodman KA, Hajj C, Weisberger E, Segal NH, Reidy-Lagunes DL, Stadler ZK, Wu AJ, Weiser MR, Paty PB, Guillem JG, Nash GM, Temple LK, Garcia-Aguilar J, Saltz LB. Neoadjuvant chemotherapy first, followed by chemoradiation and then surgery, in the management of locally advanced rectal cancer. J Natl Compr Canc Netw. 2014 Apr;12(4):513-9.</citation>
+    <PMID>24717570</PMID>
+  </reference>
+  <reference>
+    <citation>Petrelli F, Trevisan F, Cabiddu M, Sgroi G, Bruschieri L, Rausa E, Ghidini M, Turati L. Total Neoadjuvant Therapy in Rectal Cancer: A Systematic Review and Meta-analysis of Treatment Outcomes. Ann Surg. 2020 Mar;271(3):440-448. doi: 10.1097/SLA.0000000000003471.</citation>
+    <PMID>31318794</PMID>
+  </reference>
+  <reference>
+    <citation>Bahadoer RR, Dijkstra EA, van Etten B, Marijnen CAM, Putter H, Kranenbarg EM, Roodvoets AGH, Nagtegaal ID, Beets-Tan RGH, Blomqvist LK, Fokstuen T, Ten Tije AJ, Capdevila J, Hendriks MP, Edhemovic I, Cervantes A, Nilsson PJ, Glimelius B, van de Velde CJH, Hospers GAP; RAPIDO collaborative investigators. Short-course radiotherapy followed by chemotherapy before total mesorectal excision (TME) versus preoperative chemoradiotherapy, TME, and optional adjuvant chemotherapy in locally advanced rectal cancer (RAPIDO): a randomised, open-label, phase 3 trial. Lancet Oncol. 2021 Jan;22(1):29-42. doi: 10.1016/S1470-2045(20)30555-6. Epub 2020 Dec 7. Erratum in: Lancet Oncol. 2021 Feb;22(2):e42.</citation>
+    <PMID>33301740</PMID>
+  </reference>
+  <reference>
+    <citation>Esteller M, Toyota M, Sanchez-Cespedes M, Capella G, Peinado MA, Watkins DN, Issa JP, Sidransky D, Baylin SB, Herman JG. Inactivation of the DNA repair gene O6-methylguanine-DNA methyltransferase by promoter hypermethylation is associated with G to A mutations in K-ras in colorectal tumorigenesis. Cancer Res. 2000 May 1;60(9):2368-71.</citation>
+    <PMID>10811111</PMID>
+  </reference>
+  <reference>
+    <citation>Stupp R, Mason WP, van den Bent MJ, Weller M, Fisher B, Taphoorn MJ, Belanger K, Brandes AA, Marosi C, Bogdahn U, Curschmann J, Janzer RC, Ludwin SK, Gorlia T, Allgeier A, Lacombe D, Cairncross JG, Eisenhauer E, Mirimanoff RO; European Organisation for Research and Treatment of Cancer Brain Tumor and Radiotherapy Groups; National Cancer Institute of Canada Clinical Trials Group. Radiotherapy plus concomitant and adjuvant temozolomide for glioblastoma. N Engl J Med. 2005 Mar 10;352(10):987-96.</citation>
+    <PMID>15758009</PMID>
+  </reference>
+  <reference>
+    <citation>Yang AS, Chapman PB. The history and future of chemotherapy for melanoma. Hematol Oncol Clin North Am. 2009 Jun;23(3):583-97, x. doi: 10.1016/j.hoc.2009.03.006. Review.</citation>
+    <PMID>19464604</PMID>
+  </reference>
+  <reference>
+    <citation>Spiegl-Kreinecker S, Pirker C, Marosi C, Buchroithner J, Pichler J, Silye R, Fischer J, Micksche M, Berger W. Dynamics of chemosensitivity and chromosomal instability in recurrent glioblastoma. Br J Cancer. 2007 Mar 26;96(6):960-9. Epub 2007 Mar 6.</citation>
+    <PMID>17342095</PMID>
+  </reference>
+  <reference>
+    <citation>Amatu A, Sartore-Bianchi A, Moutinho C, Belotti A, Bencardino K, Chirico G, Cassingena A, Rusconi F, Esposito A, Nichelatti M, Esteller M, Siena S. Promoter CpG island hypermethylation of the DNA repair enzyme MGMT predicts clinical response to dacarbazine in a phase II study for metastatic colorectal cancer. Clin Cancer Res. 2013 Apr 15;19(8):2265-72. doi: 10.1158/1078-0432.CCR-12-3518. Epub 2013 Feb 19.</citation>
+    <PMID>23422094</PMID>
+  </reference>
+  <reference>
+    <citation>Hochhauser D, Glynne-Jones R, Potter V, Grávalos C, Doyle TJ, Pathiraja K, Zhang Q, Zhang L, Sausville EA. A phase II study of temozolomide in patients with advanced aerodigestive tract and colorectal cancers and methylation of the O6-methylguanine-DNA methyltransferase promoter. Mol Cancer Ther. 2013 May;12(5):809-18. doi: 10.1158/1535-7163.MCT-12-0710. Epub 2013 Feb 26.</citation>
+    <PMID>23443801</PMID>
+  </reference>
+  <reference>
+    <citation>Pietrantonio F, Perrone F, de Braud F, Castano A, Maggi C, Bossi I, Gevorgyan A, Biondani P, Pacifici M, Busico A, Gariboldi M, Festinese F, Tamborini E, Di Bartolomeo M. Activity of temozolomide in patients with advanced chemorefractory colorectal cancer and MGMT promoter methylation. Ann Oncol. 2014 Feb;25(2):404-8. doi: 10.1093/annonc/mdt547. Epub 2013 Dec 29.</citation>
+    <PMID>24379162</PMID>
+  </reference>
+  <reference>
+    <citation>Pietrantonio F, de Braud F, Milione M, Maggi C, Iacovelli R, Dotti KF, Perrone F, Tamborini E, Caporale M, Berenato R, Leone G, Pellegrinelli A, Bossi I, Festinese F, Federici S, Di Bartolomeo M. Dose-Dense Temozolomide in Patients with MGMT-Silenced Chemorefractory Colorectal Cancer. Target Oncol. 2016 Jun;11(3):337-43. doi: 10.1007/s11523-015-0397-2.</citation>
+    <PMID>26538496</PMID>
+  </reference>
+  <reference>
+    <citation>Amatu A, Barault L, Moutinho C, Cassingena A, Bencardino K, Ghezzi S, Palmeri L, Bonazzina E, Tosi F, Ricotta R, Cipani T, Crivori P, Gatto R, Chirico G, Marrapese G, Truini M, Bardelli A, Esteller M, Di Nicolantonio F, Sartore-Bianchi A, Siena S. Tumor MGMT promoter hypermethylation changes over time limit temozolomide efficacy in a phase II trial for metastatic colorectal cancer. Ann Oncol. 2016 Jun;27(6):1062-1067. doi: 10.1093/annonc/mdw071. Epub 2016 Feb 24.</citation>
+    <PMID>26916096</PMID>
+  </reference>
+  <reference>
+    <citation>Calegari MA, Inno A, Monterisi S, Orlandi A, Santini D, Basso M, Cassano A, Martini M, Cenci T, de Pascalis I, Camarda F, Barbaro B, Larocca LM, Gori S, Tonini G, Barone C. A phase 2 study of temozolomide in pretreated metastatic colorectal cancer with MGMT promoter methylation. Br J Cancer. 2017 May 9;116(10):1279-1286. doi: 10.1038/bjc.2017.109. Epub 2017 Apr 20.</citation>
+    <PMID>28427088</PMID>
+  </reference>
+  <reference>
+    <citation>Morano F, Corallo S, Niger M, Barault L, Milione M, Berenato R, Moretto R, Randon G, Antista M, Belfiore A, Raimondi A, Nichetti F, Martinetti A, Battaglia L, Perrone F, Pruneri G, Falcone A, Di Bartolomeo M, de Braud F, Di Nicolantonio F, Cremolini C, Pietrantonio F. Temozolomide and irinotecan (TEMIRI regimen) as salvage treatment of irinotecan-sensitive advanced colorectal cancer patients bearing MGMT methylation. Ann Oncol. 2018 Aug 1;29(8):1800-1806. doi: 10.1093/annonc/mdy197.</citation>
+    <PMID>29860358</PMID>
+  </reference>
+  <reference>
+    <citation>Pietrantonio F, Lobefaro R, Antista M, Lonardi S, Raimondi A, Morano F, Mosconi S, Rimassa L, Murgioni S, Sartore-Bianchi A, Tomasello G, Longarini R, Farina G, Petrelli F, Gori S, Randon G, Corallo S, Pagani F, Guarini V, Palermo F, Martinetti A, Macagno M, Barault L, Perrone F, Tamborini E, Milione M, Di Nicolantonio F, Di Maio M, Fucà G, Di Bartolomeo M, de Braud F. Capecitabine and Temozolomide versus FOLFIRI in RAS-Mutated, MGMT-Methylated Metastatic Colorectal Cancer. Clin Cancer Res. 2020 Mar 1;26(5):1017-1024. doi: 10.1158/1078-0432.CCR-19-3024. Epub 2019 Nov 18.</citation>
+    <PMID>31740551</PMID>
+  </reference>
+  <reference>
+    <citation>Castillo-Martin M, Thin TH, Collazo Lorduy A, Cordon-Cardo C. Immunopathologic Assessment of PTEN Expression. Methods Mol Biol. 2016;1388:23-37. doi: 10.1007/978-1-4939-3299-3_3.</citation>
+    <PMID>27033068</PMID>
+  </reference>
+  <reference>
+    <citation>Ilie MI, Bence C, Hofman V, Long-Mira E, Butori C, Bouhlel L, Lalvée S, Mouroux J, Poudenx M, Otto J, Marquette CH, Hofman P. Discrepancies between FISH and immunohistochemistry for assessment of the ALK status are associated with ALK 'borderline'-positive rearrangements or a high copy number: a potential major issue for anti-ALK therapeutic strategies. Ann Oncol. 2015 Jan;26(1):238-244. doi: 10.1093/annonc/mdu484. Epub 2014 Oct 24.</citation>
+    <PMID>25344360</PMID>
+  </reference>
+  <reference>
+    <citation>Barault L, Amatu A, Bleeker FE, Moutinho C, Falcomatà C, Fiano V, Cassingena A, Siravegna G, Milione M, Cassoni P, De Braud F, Rudà R, Soffietti R, Venesio T, Bardelli A, Wesseling P, de Witt Hamer P, Pietrantonio F, Siena S, Esteller M, Sartore-Bianchi A, Di Nicolantonio F. Digital PCR quantification of MGMT methylation refines prediction of clinical benefit from alkylating agents in glioblastoma and metastatic colorectal cancer. Ann Oncol. 2015 Sep;26(9):1994-1999. doi: 10.1093/annonc/mdv272. Epub 2015 Jun 25.</citation>
+    <PMID>26113646</PMID>
+  </reference>
+  <reference>
+    <citation>Sartore-Bianchi A, Pietrantonio F, Amatu A, Milione M, Cassingena A, Ghezzi S, Caporale M, Berenato R, Falcomatà C, Pellegrinelli A, Bardelli A, Nichelatti M, Tosi F, De Braud F, Di Nicolantonio F, Barault L, Siena S. Digital PCR assessment of MGMT promoter methylation coupled with reduced protein expression optimises prediction of response to alkylating agents in metastatic colorectal cancer patients. Eur J Cancer. 2017 Jan;71:43-50. doi: 10.1016/j.ejca.2016.10.032. Epub 2016 Dec 18.</citation>
+    <PMID>27997874</PMID>
+  </reference>
+  <reference>
+    <citation>Schwartz S, Szeto C, Tian Y, Cecchi F, Corallo S, Calegari MA, Di Bartolomeo M, Morano F, Raimondi A, Fucà G, Martinetti A, De Pascalis I, Martini M, Belfiore A, Milione M, Orlandi A, Barault L, Barone C, de Braud F, Di Nicolantonio F, Benz S, Hembrough T, Pietrantonio F. Refining the selection of patients with metastatic colorectal cancer for treatment with temozolomide using proteomic analysis of O6-methylguanine-DNA-methyltransferase. Eur J Cancer. 2019 Jan;107:164-174. doi: 10.1016/j.ejca.2018.11.016. Epub 2018 Dec 19.</citation>
+    <PMID>30579113</PMID>
+  </reference>
+  <reference>
+    <citation>Germano G, Lamba S, Rospo G, Barault L, Magrì A, Maione F, Russo M, Crisafulli G, Bartolini A, Lerda G, Siravegna G, Mussolin B, Frapolli R, Montone M, Morano F, de Braud F, Amirouchene-Angelozzi N, Marsoni S, D'Incalci M, Orlandi A, Giraudo E, Sartore-Bianchi A, Siena S, Pietrantonio F, Di Nicolantonio F, Bardelli A. Inactivation of DNA repair triggers neoantigen generation and impairs tumour growth. Nature. 2017 Dec 7;552(7683):116-120. doi: 10.1038/nature24673. Epub 2017 Nov 29.</citation>
+    <PMID>29186113</PMID>
+  </reference>
+  <reference>
+    <citation>Fine RL, Gulati AP, Krantz BA, Moss RA, Schreibman S, Tsushima DA, Mowatt KB, Dinnen RD, Mao Y, Stevens PD, Schrope B, Allendorf J, Lee JA, Sherman WH, Chabot JA. Capecitabine and temozolomide (CAPTEM) for metastatic, well-differentiated neuroendocrine cancers: The Pancreas Center at Columbia University experience. Cancer Chemother Pharmacol. 2013 Mar;71(3):663-70. doi: 10.1007/s00280-012-2055-z. Epub 2013 Jan 31.</citation>
+    <PMID>23370660</PMID>
+  </reference>
+  <reference>
+    <citation>Bonnetain F, Bosset JF, Gerard JP, Calais G, Conroy T, Mineur L, Bouché O, Maingon P, Chapet O, Radosevic-Jelic L, Methy N, Collette L. What is the clinical benefit of preoperative chemoradiotherapy with 5FU/leucovorin for T3-4 rectal cancer in a pooled analysis of EORTC 22921 and FFCD 9203 trials: surrogacy in question? Eur J Cancer. 2012 Aug;48(12):1781-90. doi: 10.1016/j.ejca.2012.03.016. Epub 2012 Apr 14.</citation>
+    <PMID>22507892</PMID>
+  </reference>
+  <reference>
+    <citation>Trivedi RN, Almeida KH, Fornsaglio JL, Schamus S, Sobol RW. The role of base excision repair in the sensitivity and resistance to temozolomide-mediated cell death. Cancer Res. 2005 Jul 15;65(14):6394-400.</citation>
+    <PMID>16024643</PMID>
+  </reference>
+  <reference>
+    <citation>Tentori L, Graziani G. Pharmacological strategies to increase the antitumor activity of methylating agents. Curr Med Chem. 2002 Jul;9(13):1285-301. Review.</citation>
+    <PMID>12052167</PMID>
+  </reference>
+  <reference>
+    <citation>Fink D, Aebi S, Howell SB. The role of DNA mismatch repair in drug resistance. Clin Cancer Res. 1998 Jan;4(1):1-6. Review.</citation>
+    <PMID>9516945</PMID>
+  </reference>
+  <reference>
+    <citation>Jeong JH, Hong YS, Park Y, Kim J, Kim JE, Kim KP, Kim SY, Park JH, Kim JH, Park IJ, Lim SB, Yu CS, Kim JC, Kim TW. Phase 1 Study of Preoperative Chemoradiation Therapy With Temozolomide and Capecitabine in Patients With Locally Advanced Rectal Cancer. Int J Radiat Oncol Biol Phys. 2016 Oct 1;96(2):289-295. doi: 10.1016/j.ijrobp.2016.05.009. Epub 2016 May 17.</citation>
+    <PMID>27473815</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 29, 2021</study_first_posted>
+  <last_update_submitted>November 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>locally advanced rectal cancer</keyword>
+  <keyword>temozolomide</keyword>
+  <keyword>MGMT</keyword>
+  <keyword>MSS</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rectal Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Capecitabine</mesh_term>
+    <mesh_term>Temozolomide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>The trial results concerning the primary, secondary and exploratory outcomes will be published according to the standard guidelines. IPD could eventually be requested to the Sponsor and Principal Investigator, who will carefully evaluate the motivated request</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1092">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05146934</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LM2019173</org_study_id>
+    <nct_id>NCT05146934</nct_id>
+  </id_info>
+  <brief_title>The Relationship Between Hormone Sensitivity and Imaging of Idiopathic Interstitial Pneumonia by Artificial Intelligence</brief_title>
+  <acronym>IIP</acronym>
+  <official_title>The Relationship Between Hormone Sensitivity and Imaging of Idiopathic Interstitial Pneumonia by Artificial Intelligence</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Peking University Third Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Peking University Third Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Application of artificial intelligence deep learning algorithm to analyze the relationship&#xD;
+      between hormone sensitivity of idiopathic interstitial pneumonia and imaging features of high&#xD;
+      resolution CT.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Methods: the medical records and chest high-resolution CT images of patients with idiopathic&#xD;
+      interstitial pneumonia admitted to the respiratory department of the Third Hospital of Peking&#xD;
+      University from June 1, 2012 to December 31, 2020 were retrospectively analyzed.Application&#xD;
+      of artificial intelligence deep learning neural convolution network method to create&#xD;
+      recognition technology of different imaging features.Including ground glass, mesh, honeycomb,&#xD;
+      nodule or consolidation, the model was established. IIP patients were divided into hormone&#xD;
+      sensitive group and hormone insensitive group according to whether the use of hormone was&#xD;
+      effective or not.Logistic regression analysis was used to analyze the correlation between&#xD;
+      statistically significant parameters and hormone sensitivity.Artificial intelligence was used&#xD;
+      to establish the correlation model between imaging features and clinical data and hormone&#xD;
+      sensitivity.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 30, 2019</start_date>
+  <completion_date type="Actual">June 30, 2021</completion_date>
+  <primary_completion_date type="Actual">June 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>clinical data and imaging feature ratios in both groups</measure>
+    <time_frame>3-6 months after medication</time_frame>
+    <description>clinical data including ages，gender，symptoms,signs,smoking history,complications,laboratory examination，lung function. Imaging feature including ground-glass opacity, reticulation, honeycomb and consolidation.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>the relationship between imaging feature ratios and hormone sensibility</measure>
+    <time_frame>3-6 months after medication</time_frame>
+    <description>Logistic regression analyzing the relationship between imaging feature ratios and hormone sensibility.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>development of artificial intelligence algorithm model</measure>
+    <time_frame>3-6 months after medication</time_frame>
+    <description>The U-net method of deep learning convolutional neural network (CNN) was used to create the recognition model of different imaging features. Imaging features include ground-glass opacity, reticulation, honeycomb and consolidation. With the area ratio of imaging features of the two groups as the input and hormone efficacy as the output, the correlation model between imaging features and hormone sensitivity was established by using artificial intelligence k nearest neighbor (KNN) algorithm and support vector machine (SVM) algorithm.</description>
+  </other_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">150</enrollment>
+  <condition>Idiopathic Interstitial Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>Hormone sensitive group</arm_group_label>
+    <description>Prednisone, 0.5mg/kgqd, 3-6months</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hormone insensitivity group</arm_group_label>
+    <description>Prednisone, 0.5mg/kgqd, 3-6months</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>high resolution CT</intervention_name>
+    <description>Ground glass，honeycomb，reticulation, consolidation</description>
+    <arm_group_label>Hormone insensitivity group</arm_group_label>
+    <arm_group_label>Hormone sensitive group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        From June 1, 2012 to December 31, 2020, all inpatients with IIP were admitted to the&#xD;
+        respiratory and critical care department of the Third Hospital of Peking University. Total&#xD;
+        patients are 150, 45 patients using hormone, average age 62 years old, 21 male.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Clinical-pathological-radiology diagnosis of idiopathic interstitial pneumonia Hormone&#xD;
+        therapy was used; The follow-up data were complete, and the effect of hormone use could be&#xD;
+        judged.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Lung infection disease; Heart failure; Connective tissue disease; IIP Without hormone&#xD;
+        therapy ; IIP but the follow-up data were incomplete, and the effect of hormone use could&#xD;
+        not be judged.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bei He</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Peking University Third Hospital Respiratory and critical care department</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Peking University Third Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100191</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>June 2021</verification_date>
+  <study_first_submitted>June 30, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 7, 2021</study_first_posted>
+  <last_update_submitted>November 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 7, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Hormone sensitivity</keyword>
+  <keyword>imaging features</keyword>
+  <keyword>artificial intelligence</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Lung Diseases, Interstitial</mesh_term>
+    <mesh_term>Idiopathic Interstitial Pneumonias</mesh_term>
+    <mesh_term>Hamman-Rich Syndrome</mesh_term>
+    <mesh_term>Pulmonary Fibrosis</mesh_term>
+    <mesh_term>Hypersensitivity</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

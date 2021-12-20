@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1457">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05142189</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BNT116-01</org_study_id>
+    <secondary_id>2021-004739-94</secondary_id>
+    <nct_id>NCT05142189</nct_id>
+  </id_info>
+  <brief_title>Clinical Trial Evaluating the Safety, Tolerability and Preliminary Efficacy of BNT116 Alone and in Combinations in Patients With Advanced Non-small Cell Lung Cancer</brief_title>
+  <acronym>LuCa-MERIT-1</acronym>
+  <official_title>LuCa-MERIT-1: First-in-human, Open Label, Phase I Dose Confirmation Trial Evaluating the Safety, Tolerability and Preliminary Efficacy of BNT116 Alone and in Combinations in Patients With Advanced Non-small Cell Lung Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BioNTech SE</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>BioNTech SE</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This First-in-human (FIH) trial for BNT116 aims to establish the safety profile and a safe&#xD;
+      dose for BNT116 monotherapy as well as for BNT116 in combination with cemiplimab or in&#xD;
+      combination with docetaxel in patients with advanced or metastasized non-small cell lung&#xD;
+      cancer (NSCLC). The trial will comprise several cohorts for dose confirmation in monotherapy&#xD;
+      as well as in combinations.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2022</start_date>
+  <completion_date type="Anticipated">May 2027</completion_date>
+  <primary_completion_date type="Anticipated">May 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Occurrence of dose-limiting toxicities (DLTs) during Cycle 1</measure>
+    <time_frame>assessed during the first cycle (21 days)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Occurrence of unsolicited treatment-emergent adverse events (TEAEs) reported by relationship, seriousness, and grade according to National Cancer Institute-Common Terminology Criteria for Adverse Events (NCI-CTCAE) v5.0</measure>
+    <time_frame>up to 27 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall response rate (ORR) defined as the number of patients with complete response (CR) or partial response (PR) as best overall response (BOR)</measure>
+    <time_frame>up to 27 months</time_frame>
+    <description>according to response evaluation criteria in solid tumors (RECIST) v1.1 divided by the number of patients in the efficacy analysis set</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DoR) defined as the time from initial response until first objective tumor progression according to RECIST v1.1</measure>
+    <time_frame>up to 27 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate (DCR) defined as the number of patients with CR or PR or stable disease (SD) as BOR according to RECIST v1.1 divided by the number of patients in the efficacy analysis set</measure>
+    <time_frame>up to 27 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of disease control defined as the time from initial detection of stable disease or response until first objective tumor progression according to RECIST v1.1</measure>
+    <time_frame>up to 27 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS) defined as the time of first trial treatment until the first objective tumor progression according to RECIST v1.1 or death from any cause, whichever occurs first</measure>
+    <time_frame>up to 48 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS) defined as the time of first trial treatment until death from any cause</measure>
+    <time_frame>up to 48 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Non-Small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1 - BNT116 monotherapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2 - BNT116 + cemiplimab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3 - BNT116 + docetaxel</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 4 - BNT116 + cemiplimab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BNT116</intervention_name>
+    <description>intravenous injection</description>
+    <arm_group_label>Cohort 1 - BNT116 monotherapy</arm_group_label>
+    <arm_group_label>Cohort 2 - BNT116 + cemiplimab</arm_group_label>
+    <arm_group_label>Cohort 3 - BNT116 + docetaxel</arm_group_label>
+    <arm_group_label>Cohort 4 - BNT116 + cemiplimab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Cemiplimab</intervention_name>
+    <description>intravenous infusion</description>
+    <arm_group_label>Cohort 2 - BNT116 + cemiplimab</arm_group_label>
+    <arm_group_label>Cohort 4 - BNT116 + cemiplimab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Docetaxel</intervention_name>
+    <description>intravenous infusion</description>
+    <arm_group_label>Cohort 3 - BNT116 + docetaxel</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients must have histologically confirmed unresectable Stage III or metastatic Stage&#xD;
+             IV NSCLC and measurable disease by RECIST v1.1. Note: Patients in Cohort 1 do not have&#xD;
+             to have measurable disease.&#xD;
+&#xD;
+          -  Patients in Cohorts 2 and 4 must be able to tolerate additional anti-PD-1 therapy&#xD;
+             (i.e., did not permanently discontinue anti-programmed death protein 1 (PD-1) /&#xD;
+             programmed death ligand 1 (PD-L1) therapy due to toxicity) and must have recovered to&#xD;
+             stage 1 or 0 from any previous PD-1/PD-L1-related toxicity or be on a stable hormone&#xD;
+             substitute therapy.&#xD;
+&#xD;
+          -  Patients in Cohorts 2 and 3 must have an Eastern Cooperative Oncology Group&#xD;
+             performance status (ECOG-PS) ≤1. Patients in Cohort 1 and 4 with an ECOG-PS of 0-2 are&#xD;
+             eligible.&#xD;
+&#xD;
+        Cohort-specific inclusion criteria:&#xD;
+&#xD;
+        Cohort 1:&#xD;
+&#xD;
+          -  Patients' prior therapy must have included at least a PD-1/PD-L1 inhibitor and a&#xD;
+             platinum-based chemotherapy regimen as well as one other line of systemic therapy&#xD;
+             (except if a patient is not candidate for a platinum-based chemotherapy and/or&#xD;
+             PD-1/PD-L1 inhibitor and/or another line of systemic therapy).&#xD;
+&#xD;
+        Cohort 2:&#xD;
+&#xD;
+          -  Patients must present with PD-L1 expression of tumor proportion score (TPS) ≥50% in&#xD;
+             tumor cells (as determined locally prior to inclusion in this trial).&#xD;
+&#xD;
+          -  Patients must present with progressive disease either&#xD;
+&#xD;
+               1. in the advanced or metastasized stage of NSCLC: while on a PD-1/PD-L1 inhibitor&#xD;
+                  therapy or within 6 months of termination of this treatment as first-line&#xD;
+                  treatment. Or&#xD;
+&#xD;
+               2. be refractory to ongoing adjuvant therapy with a PD-1/PD-L1 inhibitor that has&#xD;
+                  been given for at least 3 months in monotherapy (i.e., after an initial&#xD;
+                  combination therapy) before being enrolled into this trial.&#xD;
+&#xD;
+        Cohort 3:&#xD;
+&#xD;
+          -  Patients' prior therapy must have included at least a PD-1/PD-L1 inhibitor and a&#xD;
+             platinum-based chemotherapy regimen (except if a patient is not candidate for a&#xD;
+             platinum-based chemotherapy and/or PD-1/PD-L1 inhibitor).&#xD;
+&#xD;
+        Cohort 4:&#xD;
+&#xD;
+          -  Patients' who are not candidates for chemotherapy as first-line treatment for the&#xD;
+             advanced or metastasized stage of NSCLC may be enrolled if presenting with PD-L1&#xD;
+             expression: TPS ≥1% in tumor cells.&#xD;
+&#xD;
+        Key Exclusion Criteria:&#xD;
+&#xD;
+          -  Ongoing active systemic treatment against NSCLC.&#xD;
+&#xD;
+          -  Presence of a driver mutation for which approved target therapies are available.&#xD;
+&#xD;
+          -  Ongoing or recent evidence (within the last 5 years) of significant autoimmune disease&#xD;
+             that required treatment with systemic immunosuppressive treatments which may suggest&#xD;
+             risk for immune-related adverse events. Note: Patients with autoimmune-related&#xD;
+             hyperthyroidism, autoimmune-related hypothyroidism who are in remission, or on a&#xD;
+             stable dose of thyroid-replacement hormone, vitiligo, or psoriasis may be included.&#xD;
+&#xD;
+          -  Current evidence of new or growing brain or spinal metastases during screening.&#xD;
+             Patients with leptomeningeal disease are excluded. Patients with known brain or spinal&#xD;
+             metastases may be eligible if they:&#xD;
+&#xD;
+          -  had radiotherapy or another appropriate therapy for the brain or spinal bone&#xD;
+             metastases, AND&#xD;
+&#xD;
+          -  have no neurological symptoms that can be attributed to the current brain lesions, AND&#xD;
+&#xD;
+          -  have stable brain or spinal disease on the computed tomography (CT) or magnetic&#xD;
+             resonance imaging (MRI) scan within 4 weeks before signing the informed consent&#xD;
+             (confirmed by stable lesions on two scans at least 4 weeks apart), AND&#xD;
+&#xD;
+          -  do not require steroid therapy for the treatment of brain or spinal metastases within&#xD;
+             14 d before the first dose of trial treatment. Note: Spinal bone metastases (i.e., of&#xD;
+             the vertebrae) are allowed, unless imminent fracture or cord compression is&#xD;
+             anticipated.&#xD;
+&#xD;
+          -  Systemic immune suppression:&#xD;
+&#xD;
+          -  Current use of chronic systemic steroid medication (≤5 mg/day prednisolone equivalent&#xD;
+             is allowed); patients using physiological replacement doses of prednisone for adrenal&#xD;
+             or pituitary insufficiency are eligible.&#xD;
+&#xD;
+          -  Other clinically relevant systemic immune suppression within the last 3 months before&#xD;
+             trial enrollment.&#xD;
+&#xD;
+          -  Known history of seropositivity for human immunodeficiency virus (HIV) with CD4+&#xD;
+             T-cell (CD4+) counts &lt;350 cells/µL and with a history of acquired immunodeficiency&#xD;
+             syndrome (AIDS)-defining opportunistic infections.&#xD;
+&#xD;
+          -  Prior splenectomy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>BioNTech Responsible Person</last_name>
+    <role>Study Director</role>
+    <affiliation>BioNTech SE</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>BioNTech clinical trials patient information</last_name>
+    <phone>+49 6131 9084</phone>
+    <phone_ext>1919</phone_ext>
+    <email>patients@biontech.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>BioNTech clinical trial information desk</last_name>
+    <phone>+49 6131 9084</phone>
+    <phone_ext>0</phone_ext>
+    <email>info@biontech.de</email>
+  </overall_contact_backup>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 2, 2021</study_first_posted>
+  <last_update_submitted>November 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cancer Vaccine</keyword>
+  <keyword>Non-Small Cell Lung Cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Docetaxel</mesh_term>
+    <mesh_term>Cemiplimab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

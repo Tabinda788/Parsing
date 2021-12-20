@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7613">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05062148</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1904545091</org_study_id>
+    <nct_id>NCT05062148</nct_id>
+  </id_info>
+  <brief_title>Fundamental and Applied Concussion Recovery Modality Research and Development: Applications for the Enhanced Recovery</brief_title>
+  <official_title>Fundamental and Applied Concussion Recovery Modality Research and Development: Applications for the Enhanced Recovery</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>West Virginia University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>West Virginia University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This research is being done to understand the role of different recovery methods in healing&#xD;
+      time after athletic or sports related concussion.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators propose to assess PCS symptoms and how those symptoms are affected by&#xD;
+      Float-REST and PBM therapy in comparison to standard recovery practices. To do this, the&#xD;
+      investigators will operate in four phases.&#xD;
+&#xD;
+      Phase I - Initial Injury: High school aged athletes will be recruited from a WVU clinic in&#xD;
+      the acute phase of the athletes injury. Severe cases such as those with hemorrhaging and&#xD;
+      memory loss will be excluded from the study.&#xD;
+&#xD;
+      Phase II - Pre-intervention: Patients will be randomly assigned using R software&#xD;
+      (https://www.r-project.org) to three groups - Float-REST, PBM, or no intervention. Upon each&#xD;
+      subjects' first visit to Rockefeller Neuroscience Institute (RNI) a brief health&#xD;
+      questionnaire regarding the mechanism of injury will be administered (see below), the&#xD;
+      Rivermead Postconcussive Symptom Inventory (Rivermead), and the pre-intervention testing&#xD;
+      battery. All subjects will be instructed to complete the Rivermead as a daily log on a&#xD;
+      smartphone to monitor symptoms and follow the physician's orders for recovery (limited screen&#xD;
+      time, decreased homework load, etc.). Subjects will also be given a wearable sleep tracking&#xD;
+      device and instructed to wear it each night. Float-REST subjects will be shown the float&#xD;
+      tanks and will be given the opportunity to float for 5-10 minutes to become familiar with the&#xD;
+      sensation. PBM subjects will be shown the PBM bed and be permitted to test the brightness of&#xD;
+      the device. All subjects wishing to test either the PBM or the Float-REST will be required to&#xD;
+      take the SCAT5 Symptom Checklist first and not meet the exclusionary criteria contained in&#xD;
+      the Data Monitoring Plan.&#xD;
+&#xD;
+      Phase III - Intervention: All subjects will return to RNI three times per week. Subjects&#xD;
+      receiving Float-REST will float for 60 minutes, those receiving PBM will undergo a 20-minute&#xD;
+      therapy session, and both will complete the weekly testing (Table 1) afterwards. Subjects in&#xD;
+      the no intervention group will complete the weekly testing only. This will continue until the&#xD;
+      subjects' physicians clear them to return to play. The duration for return to play is an&#xD;
+      outcome measure of interest as it will expectedly vary subject to subject. If a recovery&#xD;
+      intervention is capable of shortening the time an athlete takes to return to competition,&#xD;
+      that particular intervention may be considered an effective strategy for accelerating&#xD;
+      recovery periods after sustaining a sports-related concussion.&#xD;
+&#xD;
+      Phase IV - Post-intervention: Once a subject has been cleared to return to play, the subject&#xD;
+      will come to RNI one final time and complete the post-concussion battery (Table 1). Upon&#xD;
+      completion, all patient's scores will be analyzed using R software&#xD;
+      (https://www.r-project.org). It is expected that those receiving Float-REST and/or PBM will&#xD;
+      have a greater improvement of cognitive scores than those just following physician orders.&#xD;
+&#xD;
+      End of Study: When the physician provides a medical clearance for the athlete to return to&#xD;
+      competition that will subsequently cease further data collection for that individual for this&#xD;
+      study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">September 2021</start_date>
+  <completion_date type="Anticipated">January 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Patients will be randomly assigned using R software (https://www.r-project.org) to three groups - Float-REST, PBM, or no intervention.&#xD;
+All subjects will return to RNI three times per week (intervention visits). Subjects receiving Float-REST will float for 60 minutes, those receiving PBM will undergo a 20-minute therapy session, and both will complete the weekly testing afterwards. Subjects in the no intervention group will complete the weekly testing only. This will continue until the subjects' physicians clear them to return to play.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in sleep patterns as measured by OURA ring</measure>
+    <time_frame>Daily from baseline until the physician clears the subject for return to play, an average of 7-10 days</time_frame>
+    <description>Oura Ring is a connected health device worn on the finger that measures sleep. Sleep summaries per day will be compared.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in depressive state as measured by BDI</measure>
+    <time_frame>At baseline, 3 times per week until return to play, and after the physician clears the subject for return to play, an average of 7-10 days</time_frame>
+    <description>Beck Depression Inventory (BDI) - Self-assessment questionnaire to evaluate depressive state. Made of 21 questions, subjects can be classified from &quot;normal&quot; to extremely depressed</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in symptoms of Post-Concussion Syndrome as measured by SCAT5</measure>
+    <time_frame>At baseline and after the physician clears the subject for return to play, an average of 7-10 days</time_frame>
+    <description>Sport Concussion Assessment Tool 5th edition (SCAT5) - Administered questionnaire consisting of 22 questions describing symptoms the subject may be experiencing, also includes intensity of symptoms. Latter portion includes cognitive evaluations.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in symptoms of Post-Concussion Syndrome as measured by Rivermead</measure>
+    <time_frame>At baseline, daily until return to play, and after the physician clears the subject for return to play, an average of 7-10 days</time_frame>
+    <description>Rivermead Post-Concussion Symptom Inventory (Rivermead) - Administered self-assessment questionnaire (16 questions) used to evaluate severity of physical symptoms associated with TBIs that subjects have experience in the last 24-hours.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in stability and balance as measured by BESS</measure>
+    <time_frame>At baseline and after the physician clears the subject for return to play, an average of 7-10 days</time_frame>
+    <description>Balancing Error Scoring System (BESS) - Objective test to assess static postural stability and balance. Subjects close eyes and perform a single, double, and tandem leg stance for 20 seconds each. Errors in stance are evaluated and tallied, then compared to standard values, more than 10 errors result in failure</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in cognitive effort as measured by Dot Counting</measure>
+    <time_frame>At baseline and after the physician clears the subject for return to play, an average of 7-10 days</time_frame>
+    <description>Dot Counting - Concentration-type task that allows researchers to measure cognitive effort. Lack of effort may be intentional or unintentional and is used to diagnose a multitude of issues such as schizophrenia and dementia</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in anxiety levels as measured by BAI</measure>
+    <time_frame>At baseline, 3 times per week until return to play, and after the physician clears the subject for return to play, an average of 7-10 days</time_frame>
+    <description>BECK ANXIETY INVENTORY (BAI): Self-assessment questionnaire to evaluate anxiety levels. Made of 21 questions, subjects can be classified from low to &quot;potentially worrying&quot; levels of anxiety</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in cognitive ability as measured by WAIS-IV</measure>
+    <time_frame>At baseline and after the physician clears the subject for return to play, an average of 7-10 days</time_frame>
+    <description>WECHSLER ADULT INTELLIGENCE SCALE FOURTH EDITION (WAIS-IV): A type of intelligence test that also evaluates cognitive ability and compares it to a &quot;normbased score.&quot; Includes 10 sub-tests, each evaluating either working memory, verbal comprehension, processing speed or perceptual reasoning</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in visuospatial memory as measured by BVMTR</measure>
+    <time_frame>At baseline and after the physician clears the subject for return to play, an average of 7-10 days</time_frame>
+    <description>BRIEF VISUOSPACIAL MEMORY TEST REVISED (BVMTR): A cognitive evaluation that has subjects memorize a card with multiple shapes/symbols in it for 10 seconds, then requires them to draw that card on a piece of paper with the shapes/symbols in the same locations. A delayed recall may be done as well. Subjects are also asked to identify which 12 shapes/symbols were on the card shown to them</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in auditory processing as measured by PASAT</measure>
+    <time_frame>At baseline and after the physician clears the subject for return to play, an average of 7-10 days</time_frame>
+    <description>PACED AUDITORY SERIAL ADDITION TEST (PASAT): An auditory processing assessment where subjects listen to a pre-recorded voice listing off various numbers in 3 second intervals. The numbers are single digits and must be added to the number said immediately before the new number</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in front brain systems as measured by DKEFS</measure>
+    <time_frame>At baseline and after the physician clears the subject for return to play, an average of 7-10 days</time_frame>
+    <description>DELIS-KAPLAN EXECUTIVE FUNCTION SYSTEM (DKEFS): A game-like assessment used to evaluate the function of the frontal lobe and front brain systems. Approved for both young children and adults, abstract and creative thinking are primarily assessed</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in subjective recovery and stress as measured by SRSS</measure>
+    <time_frame>Daily from baseline until the physician clears the subject for return to play, an average of 7-10 days</time_frame>
+    <description>SUBJECTIVE RECOVERY STRESS STATE (SRSS): An 8 question validated assessment of subjective recovery and stress, containing 4 dimensions in recovery and 4 dimensions in stress</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in state and trait anxiety as measured by Spielberger STAI</measure>
+    <time_frame>3 times per week until the physician clears the subject for return to play, an average of 7-10 days</time_frame>
+    <description>SPIELBERGER STATE TRAIT ANXIETY INVENTORY: Commonly used measure of state and trait anxiety, and done with 20 very brief questions. This measure will be used only for the Float treatment condition, and done before and after each float session allowing the quantification of Float therapy effects on anxiety, which has been widely published in the Float therapy literature</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in brain function as measured by Dynavision</measure>
+    <time_frame>3 times per week until the physician clears the subject for return to play, an average of 7-10 days</time_frame>
+    <description>DYNAVISION: The Dynavision is a programmable light board that can be used to assess reaction time, vision processing speed, eye hand coordination, visual field, and ocular motor performance, and has been used previously for concussion assessment and mitigation</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Traumatic Brain Injury</condition>
+  <condition>Post-Concussion Syndrome</condition>
+  <condition>Concussion, Brain</condition>
+  <arm_group>
+    <arm_group_label>Standard of Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Subjects will follow the standard of care, complete a daily log of symptoms, wear a fitness tracker daily for the length of the study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Float-REST</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects will do Flotation Restricted Environmental Stimulation Therapy, complete a daily log of symptoms, wear a fitness tracker daily for the length of the study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Photobiomodulation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects will do photobiomodulation, complete a daily log of symptoms, wear a fitness tracker daily for the length of the study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Float-REST</intervention_name>
+    <description>Subjects receiving Float-REST will float for 60 minutes three times a week.</description>
+    <arm_group_label>Float-REST</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Photobiomodulation</intervention_name>
+    <description>Subjects receiving photobiomodulation will undergo a 20-minute therapy session three times a week.</description>
+    <arm_group_label>Photobiomodulation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subjects between the ages of 14-17 currently involved in a sport and who sustained&#xD;
+             their concussion while playing said sport will be included.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects experiencing subcranial hemorrhaging, loss of memory, or extended loss of&#xD;
+             consciousness will be excluded&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>14 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Joshua Hagen, PhD</last_name>
+    <phone>(304) 293-5378</phone>
+    <email>joshua.hagen@hsc.wvu.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Rockefeller Neuroscience Institute at West Virginia University</name>
+      <address>
+        <city>Morgantown</city>
+        <state>West Virginia</state>
+        <zip>26505</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joshua Hagen, PhD</last_name>
+      <phone>304-293-5378</phone>
+      <email>joshua.hagen@hsc.wvu.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>January 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 20, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 30, 2021</study_first_posted>
+  <last_update_submitted>September 20, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 20, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>West Virginia University</investigator_affiliation>
+    <investigator_full_name>Joshua Hagen</investigator_full_name>
+    <investigator_title>Director, Human Performance Innovation Center</investigator_title>
+  </responsible_party>
+  <keyword>Photobiomodulation</keyword>
+  <keyword>Flotation Restricted Environmental Stimulation Therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Brain Injuries</mesh_term>
+    <mesh_term>Brain Injuries, Traumatic</mesh_term>
+    <mesh_term>Post-Concussion Syndrome</mesh_term>
+    <mesh_term>Brain Concussion</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

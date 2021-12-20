@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5158">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05094063</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021/03-41</org_study_id>
+    <nct_id>NCT05094063</nct_id>
+  </id_info>
+  <brief_title>Patient Education by Mobile Application</brief_title>
+  <official_title>The Effect of Education Supported by the Mobile Application Given to Patients Undergoing Open Heart Surgery on Postoperative Recovery and Psychological Well-Being of Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Betul Zeynep Yildiz</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ataturk University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Cardiovascular diseases are among the important health problems that cause mortality and&#xD;
+      morbidity both in our country and in the World (Sidar vd 2013). According to the data of the&#xD;
+      Turkish Statistical Institute (2021), circulatory system diseases were the first cause of&#xD;
+      mortality in our country in 2018 with a rate of 38.4%. According to the data of the World&#xD;
+      Health Organization, the disease that causes the most death in the world is ischemic heart&#xD;
+      disease with 16% (World Health Organization,2021).&#xD;
+&#xD;
+      In addition to acute care, the aim of education in patients with cardiovascular surgery is to&#xD;
+      support patients' self-care and post-operative recovery, to enable patients and their&#xD;
+      families to self-manage their care at home, to reduce postoperative complications and&#xD;
+      rehospitalization rates(Akyolcu vd 2017).&#xD;
+&#xD;
+      Training can be delivered using a combination of formats including brochures, online, books,&#xD;
+      audio cassette, videotape, and/or skype (Fredericks &amp; Yau, 2012). Booklets, brochures,&#xD;
+      tele-health, and web design methods were used in the training given to patients who had heart&#xD;
+      surgeries in previous years in our country.&#xD;
+&#xD;
+      In this study, the training booklet to be used in the education to be given to the patients&#xD;
+      will be prepared by the researchers. The content of the prepared training booklet will be&#xD;
+      presented to patients in the form of a mobile application that can run on smart phones with&#xD;
+      Android operating system so that patients can follow it. With this research, it is aimed to&#xD;
+      facilitate access to information and accelerate post-operative recovery. In the future, this&#xD;
+      practice will also contribute to reducing stationery costs.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In this study, the training booklet to be used in the education to be given to the&#xD;
+      participants will be prepared by the researchers. In addition, the content of the prepared&#xD;
+      training booklet will be presented to participants in the form of a mobile application that&#xD;
+      can run on smart phones with Android operating system so that participants can follow it. In&#xD;
+      the content of the mobile application, there will be an interface with the information in the&#xD;
+      booklet and the video narration of the exercises that the participants should do. This&#xD;
+      application will be downloadable through the server and then there will be no internet&#xD;
+      requirement to use the application. The mobile application will be installed on the&#xD;
+      participants' own phones. The participants will be able to adjust the font size in the&#xD;
+      application. The participants will see the titles in the booklet and will reach the&#xD;
+      information by choosing the subject curious about. Participants will also be able to listen&#xD;
+      to the information in the booklet in the form of an audio recording. In addition, reminder&#xD;
+      notifications for medications and exercises will be set for participants in the mobile&#xD;
+      application. In this way, it will be easier for participants to access information, and it&#xD;
+      will be ensured that participants do not forget participants medication hours and that they&#xD;
+      do the exercises participants need to do during the day without forgetting. Every day between&#xD;
+      18.30-20.30, a questionnaire will be sent to the user to evaluate the amount/time of exercise&#xD;
+      participants has applied for that day. Thus, it will be ensured that the answers of the&#xD;
+      participants are sent to the server and the daily follow-up of the participants will be&#xD;
+      carried out. The device will need internet access to send information. The information sent&#xD;
+      will be kept on the database and can be easily processed. However, it will be possible to&#xD;
+      easily access the user's historical information without data confusion. It is planned to&#xD;
+      store the data on MySql (My Structured Query Language) database. If any update is required to&#xD;
+      the application, it will be carried out quickly through the server. After the research, the&#xD;
+      use of the mobile application will be continued and sustainability will be ensured in the&#xD;
+      postoperative recovery and psychological well-being of the participants.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">September 1, 2021</start_date>
+  <completion_date type="Anticipated">February 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>This research was planned as an experimental randomized controlled trial. Randomization will be done using a computer program. With the computer program (www.randomizer.org), the participants will be divided into 2 subgroups (group 1: patient education group; group 2: patient education group not provided). With the randomization program, the order of the experimental and control groups will be provided.</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline in Postoperative Recovery Index (PoRI) at month 3</measure>
+    <time_frame>Baseline and month 3</time_frame>
+    <description>There are 5 sub-dimensions of PoRI; psychological symptoms, physical activities, general symptoms, intestinal symptoms, and craving-desire symptoms. The scores of the items included in the sub-dimensions are summed, their arithmetic average is taken, and the sub-dimension score is determined. A minimum of 1 and a maximum of 5 points can be obtained from the PoRI. High scores from the index reflect more difficulty in post-operative recovery, while low scores indicate that post-operative recovery is easier.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in Psychological Well-Being at month 3</measure>
+    <time_frame>Baseline and month 3</time_frame>
+    <description>Flourishing Scale (FS), which is a psychological well-being scale in Turkish identifies important elements of human function, from positive relationships to feelings of efficacy to having a meaningful and purposeful life. The items of FS are answered between 1 and 7, as I strongly disagree (1) to I strongly agree (7). A minimum of 8 and a maximum of 56 points can be obtained from the FS. A high score indicates that the person has many psychological resources and strengths.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in StateTrait Anxiety Inventory at month 3</measure>
+    <time_frame>Baseline and month 3</time_frame>
+    <description>The scale consists of two parts, the 'state anxiety scale', which is created with the aim of determining the instantaneous feelings, and the 20-item 'trait anxiety scale', which was created to determine the feelings in general. It is a four degree scale ranging from 'Nothing' to 'All'. Scores range from 20 (low anxiety) to 80 (high anxiety).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Open Heart Surgery Patients</condition>
+  <arm_group>
+    <arm_group_label>experimental group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Training will be given to the patients in the experimental group.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>untrained patient group</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>patient education by mobile application</intervention_name>
+    <description>Training will be given to the patients in the experimental group.</description>
+    <arm_group_label>experimental group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  voluntarily accepting to participate in the study&#xD;
+&#xD;
+          -  18 years and over&#xD;
+&#xD;
+          -  Having planned surgery&#xD;
+&#xD;
+          -  Conscious Open&#xD;
+&#xD;
+          -  Coming to the clinic from the intensive care unit after the operation&#xD;
+&#xD;
+          -  Having no vision, hearing and speech problems&#xD;
+&#xD;
+          -  Stable clinical condition&#xD;
+&#xD;
+          -  Able to communicate&#xD;
+&#xD;
+          -  Having a phone with Android operating system (for the experimental group)&#xD;
+&#xD;
+          -  Patients without a psychiatric history&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Cancellation of the operation&#xD;
+&#xD;
+          -  Inability to communicate with the patient&#xD;
+&#xD;
+          -  The patient's desire to withdraw from the study&#xD;
+&#xD;
+          -  Deterioration of the patient's clinical condition&#xD;
+&#xD;
+          -  The patient's inability to use the mobile application&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Ataturk University</name>
+      <address>
+        <city>Erzurum</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <link>
+    <url>https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death</url>
+    <description>WHO internet web site</description>
+  </link>
+  <reference>
+    <citation>Fredericks S, Yau TM. Educational interventions for adults to prevent readmission and complications following cardiovascular surgery. Cochrane Database of Systematic Reviews 2012, Issue 9.</citation>
+  </reference>
+  <reference>
+    <citation>Sidar A , Dedeli Ö, İşkesen Aİ. The Relationship Between Anxiety, Pain Distress and Pain Severity Before and After Open Heart Surgery in Patients Yoğun Bakım Derg, 2013, 4: 1-8.</citation>
+  </reference>
+  <reference>
+    <citation>Akyolcu N, Kanan N, Güler A. Cerrahi Hemşireliği II, 1. Baskı. İstanbul, Nobel Tıp Kitapevleri, 2017: 101-114.</citation>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 26, 2021</study_first_posted>
+  <last_update_submitted>October 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Ataturk University</investigator_affiliation>
+    <investigator_full_name>Betul Zeynep Yildiz</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>open heart surgery</keyword>
+  <keyword>surgical nursing</keyword>
+  <keyword>patient education</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

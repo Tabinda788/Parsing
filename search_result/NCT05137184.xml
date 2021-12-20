@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1842">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05137184</url>
+  </required_header>
+  <id_info>
+    <org_study_id>255159</org_study_id>
+    <secondary_id>2021-000549-42</secondary_id>
+    <nct_id>NCT05137184</nct_id>
+  </id_info>
+  <brief_title>A Comparison of Three Regimens of Acute Pain Management: Methoxyflurane; Intranasal Fentanyl; Intravenous Morphine</brief_title>
+  <acronym>PreMeFen</acronym>
+  <official_title>A Randomized Controlled, Open-label, Non-inferiority, Three Arm Clinical Study to Assess Inhalation of Low-dose Methoxyflurane, Intranasal Fentanyl, and Intravenous Morphine for Acute Pain in the Pre-hospital Setting</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Oslo University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Sykehuset Innlandet HF</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Norwegian Air Ambulance Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Oslo</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Oslo University Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study rationale is to provide evidence for early, safe and effective pain management in&#xD;
+      the ambulance service with non-invasive and fast acting analgesics. Low-dose methoxyflurane&#xD;
+      and intranasal fentanyl are non-invasive medications that are well-suited for use by&#xD;
+      ambulance personnel under difficult pre-hospital settings. This is a randomized, controlled,&#xD;
+      open label, three-arm, non-inferiority, phase 3 drug trial performed in the ambulance&#xD;
+      service. The randomization will be 1:1:1 to the three treatment groups.&#xD;
+&#xD;
+      Patients 18 years or older with acute pain with Numeric Rating Scale (NRS) ≥4 with normal&#xD;
+      physiology and capable of giving informed consent will be included null hypothesis (H0)&#xD;
+      (tested in hierarchic order a-b-c):&#xD;
+&#xD;
+        1. Methoxyflurane regimen is inferior to intranasal fentanyl regimen or&#xD;
+&#xD;
+        2. Methoxyflurane regimen is inferior to IV morphine regimen or&#xD;
+&#xD;
+        3. Intranasal fentanyl regimen is inferior to IV morphine regimen for treating moderate to&#xD;
+           severe pain, measured by reduction in Numeric Rating Scale (NRS) 10 minutes after&#xD;
+           administration.&#xD;
+&#xD;
+      The study duration for each participant will be from ambulance scene arrival to patient&#xD;
+      handover in emergency department.&#xD;
+&#xD;
+      Number of participants: Patient enrolment until successful inclusion of 270 per protocol&#xD;
+      patients.&#xD;
+&#xD;
+      Primary endpoint is change in NRS from before administration (t0) to 10 minutes after start&#xD;
+      of administration (t10).&#xD;
+&#xD;
+      The study intervention is one of the three IMPs:&#xD;
+&#xD;
+        -  Methoxyflurane: 3 ml inhalation, can be repeated once to a total dose of 6 ml.&#xD;
+&#xD;
+        -  Fentanyl intranasal spray: 100 µg IntraNasal, (patients &gt;70 years 50 µg), can be&#xD;
+           repeated to maximum total dose 500 µg IN.&#xD;
+&#xD;
+        -  Morphine hydrochloride intravenous: 0.1 mg/kg IV (patients &gt;70 years or fragile 0.05&#xD;
+           mg/kg IV), can be repeated to a maximum total dose 0.5 mg/kg IV.&#xD;
+&#xD;
+      Rescue analgesia is all analgesics other than the allocated IMP. If rescue medication is&#xD;
+      administered before the assessment of primary endpoint at 10 minutes, the patient will not be&#xD;
+      part of the per-protocol analysis.&#xD;
+&#xD;
+      The hypothesis will be tested and the primary endpoint will be evaluated by the 95%&#xD;
+      confidence limits (95% CI), and a conclusion of non-inferiority will be made if the 95% CI of&#xD;
+      the estimated treatment difference fully lie within the inferiority margin. Non-inferiority&#xD;
+      is determined on the basis of a 1-sided equivalence t test on the per protocol population and&#xD;
+      confirmed, for sensitivity reasons, on the modified intention to treat population.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 12, 2021</start_date>
+  <completion_date type="Anticipated">November 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 2023</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>Masking Statistician</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in pain Numeric Rating Scale after 10 minutes</measure>
+    <time_frame>10 minutes</time_frame>
+    <description>Change in Pain Numeric Rating Scale (minimum 0 and maximum 10, higher is worse) from baseline to 10 minutes after start of IMP administration</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in pain Numeric Rating Scale after 5 minutes</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Change in Pain Numeric Rating Scale (minimum 0 and maximum 10, higher is worse) from baseline to 5 minutes after start of IMP administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in pain Numeric Rating Scale after 20 minutes</measure>
+    <time_frame>20 minutes</time_frame>
+    <description>Change in Pain Numeric Rating Scale (minimum 0 and maximum 10, higher is worse) from baseline to 20 minutes after start of IMP administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in pain Numeric Rating Scale after 30 minutes</measure>
+    <time_frame>30 minutes</time_frame>
+    <description>Change in Pain Numeric Rating Scale (minimum 0 and maximum 10, higher is worse) from baseline to 30 minutes after start of IMP administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for rescue analgesia</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Number of patients with administration of rescue analgesia</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Type of rescue analgesia</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Type of rescue analgesia administered</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dose of rescue analgesia</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Dose of rescue analgesia administered</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Route of administration of rescue analgesia</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Route of administration of rescue analgesia</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time from ambulance arrival to IMP administration</measure>
+    <time_frame>1 hour</time_frame>
+    <description>Time from arrival of ambulance personnel by the patient to administration of IMP</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time from ambulance arrival to 2-point NRS reduction</measure>
+    <time_frame>1 hour</time_frame>
+    <description>Time from ambulance arrival to first measure of a reduction in NRS of 2 points or more</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in level of sedation</measure>
+    <time_frame>30 minutes</time_frame>
+    <description>Change in GCS from baseline to 10 and 30 minutes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in respiration</measure>
+    <time_frame>30 minutes</time_frame>
+    <description>Change in respiratory rate from baseline to 10 and 30 minutes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in blood pressure</measure>
+    <time_frame>30 minutes</time_frame>
+    <description>Change in systolic blood pressure from baseline to 10 and 30 minutes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health Care Personnel Likert Scale</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Likert Scale (1 to 5, higher is better) of health care professional satisfaction at end of mission</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Likert Scale</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Likert Scale (1 to 5, higher is better) of patient satisfaction at end of mission</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Numbers of patients with adverse events in each treatment group</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Registration of adverse events during study period until end of intervention and compare numbers of patient with adverse events in each group</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change in pain Numeric Rating Scale after 10 minutes stratified by diagnosis groups</measure>
+    <time_frame>30 minutes</time_frame>
+    <description>Change in Pain Numeric Rating Scale (minimum 0 and maximum 10, higher is worse) stratified by diagnosis groups</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Need for rescue medication related to painful procedures</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Proportion of patient receiving rescue treatment related to procedures (reposition of fractures, relocation etc)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of vascular cannulation attempts in each patient</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Attempts and success of vascular cannulation access in each patient, stratified by treatment allocation</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Ambulance worker competence influence on change pain Numeric Rating Scale after 10 minutes</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Change in Pain Numeric Rating Scale (minimum 0 and maximum 10, higher is worse) from baseline to 10 minutes after start of IMP administration stratified by ambulance worker competence (educational levels)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Ambulance worker competence influence on patient satisfaction Likert Scale</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Likert Scale (1 to 5, higher is better) of patient satisfaction at end of mission, stratified by ambulance worker competence (educational levels)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in pain Numeric Rating Scale after 10 minutes in acute coronary syndrome patients</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Change in Pain Numeric Rating Scale (minimum 0 and maximum 10, higher is worse) from baseline to 10 minutes after start of IMP administration stratified by the presence of acute coronary syndrome defined by troponin elevation higher than 99 percentile or significant ST-segment elevation on any ECG lead.</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">270</enrollment>
+  <condition>Acute Pain</condition>
+  <condition>Ambulances</condition>
+  <arm_group>
+    <arm_group_label>Methoxyflurane</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>3 ml inhalation Can be repeated once (3 ml) Maximum total dose of 6 ml</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Fentanyl IN</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>100 µg IntraNasal, Patients &gt;70 years: 50 µg IN Can be repeated Maximum total dose 500 µg IN</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Morphine IV</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>0.1 mg/kg Intravenous (IV) Patients ≥ 70 years or fragile: 0.05 mg/kg IV Can be repeated Maximum total dose 0.5 mg/kg IV</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Methoxyflurane</intervention_name>
+    <description>Inhalation of Methoxyflurane</description>
+    <arm_group_label>Methoxyflurane</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fentanyl</intervention_name>
+    <description>Intranasal Fentanyl</description>
+    <arm_group_label>Fentanyl IN</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Morphine hydrochloride</intervention_name>
+    <description>Intravenous Morphine</description>
+    <arm_group_label>Morphine IV</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. ≥ 18 years of age&#xD;
+&#xD;
+          2. Acute moderate to severe pain defined by self-reporting pain ≥4 on NRS&#xD;
+&#xD;
+          3. Capable of giving informed consent&#xD;
+&#xD;
+          4. Normal physiology&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Life-threatening or limb-threatening condition requiring immediate management&#xD;
+&#xD;
+          2. Pregnancy or breastfeeding&#xD;
+&#xD;
+          3. Know allergies, hypersensitivity or serious side effects to opioids or methoxyflurane&#xD;
+             or other excipients&#xD;
+&#xD;
+          4. Head injury or medical conditions with neurological impairment (Glasgow Coma Scale&#xD;
+             (GCS)&lt;14)&#xD;
+&#xD;
+          5. Previous malignant hyperthermia or persons with suspect genetic predisposition for&#xD;
+             malignant hyperthermia&#xD;
+&#xD;
+          6. Massive facial trauma, visible nasal blockage or on-going nose bleeding&#xD;
+&#xD;
+          7. History of severe liver disease with jaundice and scleral icterus&#xD;
+&#xD;
+          8. Dialysis or history of severe renal disease (known chronic kidney failure stage 4 or&#xD;
+             5)&#xD;
+&#xD;
+          9. Mono Amine Oxidase-inhibitors last 14 days (pharmacological treatment of depression,&#xD;
+             Mb Parkinson or narcolepsy)&#xD;
+&#xD;
+         10. Myasthenia gravis&#xD;
+&#xD;
+         11. Use of investigational medicinal product (IMP) analgesics 12 hours prior to inclusion&#xD;
+&#xD;
+         12. Any condition that in the view of the study worker would suggest that the patient is&#xD;
+             unable to comply with study protocol and procedures.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Fridtjof Heyerdahl, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Senior Consultant</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Randi Simensen, MSc</last_name>
+    <phone>+4791378986</phone>
+    <email>randi.simensen@sykehuset-innlandet.no</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lars Ol Fjose, MD</last_name>
+    <phone>+4799591112</phone>
+    <email>lars.olav.fjose@norskluftambulanse.no</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Sykehuset Innlandet</name>
+      <address>
+        <city>Gjøvik</city>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Randi Simensen, Msc</last_name>
+      <phone>+4791378986</phone>
+      <email>randi.simensen@sykehuset-innlandet.no</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Norway</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 30, 2021</study_first_posted>
+  <last_update_submitted>November 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Oslo University Hospital</investigator_affiliation>
+    <investigator_full_name>Fridtjof Heyerdahl</investigator_full_name>
+    <investigator_title>Senior Consultant</investigator_title>
+  </responsible_party>
+  <keyword>Methoxyflurane</keyword>
+  <keyword>Fentanyl</keyword>
+  <keyword>Morphine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acute Pain</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fentanyl</mesh_term>
+    <mesh_term>Morphine</mesh_term>
+    <mesh_term>Methoxyflurane</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

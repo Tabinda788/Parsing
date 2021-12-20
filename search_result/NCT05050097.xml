@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8538">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05050097</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CR108946</org_study_id>
+    <secondary_id>2020-004502-55</secondary_id>
+    <secondary_id>64407564MMY1004</secondary_id>
+    <nct_id>NCT05050097</nct_id>
+  </id_info>
+  <brief_title>A Study of Talquetamab With Other Anticancer Therapies in Participants With Multiple Myeloma</brief_title>
+  <official_title>A Multi-arm Phase 1b Study of Talquetamab With Other Anticancer Therapies in Participants With Multiple Myeloma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Janssen Research &amp; Development, LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Janssen Research &amp; Development, LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to characterize the safety and tolerability of talquetamab when&#xD;
+      administered in different combination regimens and to identify the safe dose(s) of&#xD;
+      talquetamab combination regimens.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 22, 2021</start_date>
+  <completion_date type="Anticipated">November 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 15, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants with Adverse Events (AEs) as a Measure of Safety and Tolerability</measure>
+    <time_frame>Up to 1 year and 10 months</time_frame>
+    <description>An AE is any untoward medical occurrence in a participant participating in a clinical study that does not necessarily have a causal relationship with the pharmaceutical/biological agent under study.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with AEs by Severity</measure>
+    <time_frame>Up to 1 year and 10 months</time_frame>
+    <description>Severity will be graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE) version 5.0. Severity scale ranges from Grade 1 (Mild) to Grade 5 (Death). Grade 1= Mild, Grade 2= Moderate, Grade 3= Severe, Grade 4= Life-threatening, and Grade 5= Death related to AE.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Clinically Significant Abnormalities in Laboratory Parameters</measure>
+    <time_frame>Up to 1 year and 6 months</time_frame>
+    <description>Number of participants with clinically significant abnormalities in laboratory parameters such as hematology and serum chemistry will be reported.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Dose Limiting Toxicity (DLT)</measure>
+    <time_frame>Up to 49 days</time_frame>
+    <description>Number of participants with DLT will be reported. The DLTs are specific adverse events and are defined as any of the following: high grade non-hematologic toxicity of grade 3 or higher, clinical laboratory abnormalities, or hematologic toxicity.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response Rate (ORR)</measure>
+    <time_frame>Up to 1 year and 10 months</time_frame>
+    <description>ORR is defined as the percentage of participants who achieve partial response (PR) or better according to the International Myeloma Working Group (IMWG) 2016 criteria. Response to treatment will be evaluated by the investigator based on IMWG criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Very Good Partial Response (VGPR) or Better Response Rate</measure>
+    <time_frame>Up to 1 year and 10 months</time_frame>
+    <description>VGPR or better response rate is defined as the percentage of participants who achieve a VGPR or better response (stringent complete response [sCR] + complete response [CR] +VGPR) according to the IMWG 2016 criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complete Response (CR) or Better Response Rate</measure>
+    <time_frame>Up to 1 year and 10 months</time_frame>
+    <description>CR or better response rate is defined as the percentage of participants who achieve a CR or better response (sCR+CR) according to the IMWG 2016 criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stringent Complete Response (sCR)</measure>
+    <time_frame>Up to 1 year and 10 months</time_frame>
+    <description>sCR rate is defined as the percentage of participants who achieve an sCR according to the IMWG 2016 criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response</measure>
+    <time_frame>Up to 1 year and 10 months</time_frame>
+    <description>Duration of response is defined as time from the date of initial documentation of a response (PR or better) to the date of first documented evidence of progressive disease, as defined in the IMWG 2016 criteria, or death due to disease progression, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Response</measure>
+    <time_frame>Up to 1 year and 10 months</time_frame>
+    <description>Time to response is defined as the time between date of first dose of study treatment and the first efficacy evaluation at which the participant has met all criteria for PR or better.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Concentration of Talquetamab</measure>
+    <time_frame>Up to 1 year and 10 months</time_frame>
+    <description>Serum samples will be analyzed to determine concentrations of talquetamab.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Concentration of Daratumumab</measure>
+    <time_frame>Up to 1 year and 10 months</time_frame>
+    <description>Serum samples will be analyzed to determine concentrations of daratumumab for treatment regimens B and D.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Anti-Drug Antibodies to Talquetamab</measure>
+    <time_frame>Up to 1 year and 10 months</time_frame>
+    <description>Number of participants with anti-drug antibodies to talquetamab will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Anti-Drug Antibodies to Daratumumab</measure>
+    <time_frame>Up to 1 year and 10 months</time_frame>
+    <description>Number of participants with anti-drug antibodies to daratumumab will be reported for treatment regimens B and D.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Anti-Drug Antibodies to Recombinant Human Hyaluronidase PH20 Enzyme (rHuPH20)</measure>
+    <time_frame>Up to 1 year and 10 months</time_frame>
+    <description>Number of participants with anti-drug antibodies to rHuPH20 will be reported.</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">176</enrollment>
+  <condition>Multiple Myeloma</condition>
+  <arm_group>
+    <arm_group_label>Treatment Regimen A: Talquetamab + Carfilzomib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants assigned to Treatment regimen A will receive talquetamab subcutaneously (SC) in combination with carfilzomib as an intravenous (IV) infusion.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Regimen B: Talquetamab + Daratumumab + Carfilzomib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants assigned to Treatment regimen B will receive talquetamab SC in combination with daratumumab SC and carfilzomib as an IV infusion.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Regimen C: Talquetamab + Lenalidomide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants assigned to Treatment regimen C will receive talquetamab SC in combination with lenalidomide orally.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Regimen D: Talquetamab + Daratumumab + Lenalidomide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants assigned to Treatment regimen D will receive talquetamab SC in combination with daratumumab SC and lenalidomide orally.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Regimen E: Talquetamab + Pomalidomide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants assigned to Treatment regimen E will receive talquetamab SC in combination with pomalidomide orally.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Talquetamab</intervention_name>
+    <description>Talquetamab will be administered subcutaneously.</description>
+    <arm_group_label>Treatment Regimen A: Talquetamab + Carfilzomib</arm_group_label>
+    <arm_group_label>Treatment Regimen B: Talquetamab + Daratumumab + Carfilzomib</arm_group_label>
+    <arm_group_label>Treatment Regimen C: Talquetamab + Lenalidomide</arm_group_label>
+    <arm_group_label>Treatment Regimen D: Talquetamab + Daratumumab + Lenalidomide</arm_group_label>
+    <arm_group_label>Treatment Regimen E: Talquetamab + Pomalidomide</arm_group_label>
+    <other_name>JNJ-64407564</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carfilzomib</intervention_name>
+    <description>Carfilzomib will be administered as an IV infusion.</description>
+    <arm_group_label>Treatment Regimen A: Talquetamab + Carfilzomib</arm_group_label>
+    <arm_group_label>Treatment Regimen B: Talquetamab + Daratumumab + Carfilzomib</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Daratumumab SC</intervention_name>
+    <description>Daratumumab will be administered subcutaneously.</description>
+    <arm_group_label>Treatment Regimen B: Talquetamab + Daratumumab + Carfilzomib</arm_group_label>
+    <arm_group_label>Treatment Regimen D: Talquetamab + Daratumumab + Lenalidomide</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lenalidomide</intervention_name>
+    <description>Lenalidomide will be self-administered orally.</description>
+    <arm_group_label>Treatment Regimen C: Talquetamab + Lenalidomide</arm_group_label>
+    <arm_group_label>Treatment Regimen D: Talquetamab + Daratumumab + Lenalidomide</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pomalidomide</intervention_name>
+    <description>Pomalidomide will be self-administered orally.</description>
+    <arm_group_label>Treatment Regimen E: Talquetamab + Pomalidomide</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Have documented initial diagnosis of multiple myeloma according to International&#xD;
+             Myeloma Working Group (IMWG) diagnostic criteria&#xD;
+&#xD;
+          -  Have measurable disease at screening as defined by at least 1 of the following: a.&#xD;
+             Serum monoclonal protein (M-protein) level greater than or equal to (&gt;=) 1.0 gram per&#xD;
+             deciliter (g/dL); or b. Urine M-protein level &gt;= 200 milligrams (mg)/24 hours; or c.&#xD;
+             Light chain multiple myeloma: Serum immunoglobulin (Ig) free light chain (FLC) &gt;=10&#xD;
+             milligrams per deciliter (mg/dL) and abnormal serum Ig kappa lambda FLC ratio&#xD;
+&#xD;
+          -  Have an Eastern Cooperative Oncology Group (ECOG) performance status score of 0 or 1&#xD;
+             at screening and immediately before the start of study treatment administration&#xD;
+&#xD;
+          -  A woman of childbearing potential must have a negative highly sensitive serum beta&#xD;
+             human chorionic gonadotropin (beta-hCG) pregnancy test at screening and a negative&#xD;
+             urine or serum pregnancy test within 24 hours before the start of study treatment&#xD;
+             administration&#xD;
+&#xD;
+          -  Be willing and able to adhere to the lifestyle restrictions specified in the protocol,&#xD;
+             including adherence to the applicable immunomodulatory drug (IMiD) global Pregnancy&#xD;
+             Prevention Plan (PPP) or local PPP/Risk Evaluation and Mitigation Strategy (REMS)&#xD;
+             program&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Live, attenuated vaccine within 4 weeks before the first dose of study treatment&#xD;
+&#xD;
+          -  Received a cumulative dose of corticosteroids equivalent to &gt;=140 mg of prednisone&#xD;
+             within the 14-day period before the start of study treatment administration&#xD;
+&#xD;
+          -  Active central nervous system (CNS) involvement or exhibition of clinical signs of&#xD;
+             meningeal involvement of multiple myeloma. If either is suspected, brain magnetic&#xD;
+             resonance imaging (MRI) and lumbar cytology are required&#xD;
+&#xD;
+          -  Known to be seropositive for human immunodeficiency virus&#xD;
+&#xD;
+          -  History of stroke or seizure within 6 months prior to the first dose of study&#xD;
+             treatment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Janssen Research &amp; Development, LLC Clinical Trial</last_name>
+    <role>Study Director</role>
+    <affiliation>Janssen Research &amp; Development, LLC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Study Contact</last_name>
+    <phone>844-434-4210</phone>
+    <email>JNJ.CT@sylogent.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Alabama Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Colorado Blood Cancer Institute</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kansas Cancer Center</name>
+      <address>
+        <city>Westwood</city>
+        <state>Kansas</state>
+        <zip>66160</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110-1032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hackensack University Medical Center</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mt. Sinai School of Medicine</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Weill Cornell Medical College</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Levine Cancer Institute</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh Medical Center</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon Research Institute</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Seattle Cancer Care Alliance</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical College Of Wisconsin</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Vincent's Hospital Melbourne</name>
+      <address>
+        <city>Fitzroy</city>
+        <zip>3065</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Alfred Health</name>
+      <address>
+        <city>Melbourne</city>
+        <zip>3004</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gold Coast University Hospital</name>
+      <address>
+        <city>Southport</city>
+        <zip>4215</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wollongong Hospital</name>
+      <address>
+        <city>Wollongong</city>
+        <zip>2500</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cliniques Universitaires St-Luc</name>
+      <address>
+        <city>Brussel</city>
+        <zip>1200</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UZA</name>
+      <address>
+        <city>Edegem</city>
+        <zip>2650</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Gent</name>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Leuven</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Leon Bérard</name>
+      <address>
+        <city>Lyon Cedex 8</city>
+        <zip>69373</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Nantes</name>
+      <address>
+        <city>Nantes Cedex 1</city>
+        <zip>44093</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Bordeaux - Hôpital Haut-Lévêque</name>
+      <address>
+        <city>Pessac cedex</city>
+        <zip>33604</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chu Rennes - Hopital Pontchaillou</name>
+      <address>
+        <city>Rennes</city>
+        <zip>35000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Universitaire du cancer de Toulouse-Oncopole</name>
+      <address>
+        <city>TOULOUSE Cedex 9</city>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UMCG</name>
+      <address>
+        <city>Groningen</city>
+        <zip>9713 GZ</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Maastricht University Medical Centre</name>
+      <address>
+        <city>Maastricht</city>
+        <zip>6229 HX</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UMCU</name>
+      <address>
+        <city>Utrecht</city>
+        <zip>3584 CX</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University College Hospital London</name>
+      <address>
+        <city>London</city>
+        <zip>W1T 7HA</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Christie Nhs Foundation Trust</name>
+      <address>
+        <city>Manchester</city>
+        <zip>M20 4BX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Royal Marsden NHS Trust Sutton</name>
+      <address>
+        <city>Surrey</city>
+        <zip>SM2 5PT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Belgium</country>
+    <country>France</country>
+    <country>Netherlands</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://pam.sylogent.com/cr/CR108946</url>
+    <description>To learn how to participate in this trial please click here.</description>
+  </link>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>September 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 20, 2021</study_first_posted>
+  <last_update_submitted>December 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Myeloma</mesh_term>
+    <mesh_term>Neoplasms, Plasma Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lenalidomide</mesh_term>
+    <mesh_term>Pomalidomide</mesh_term>
+    <mesh_term>Daratumumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The data sharing policy of the Janssen Pharmaceutical Companies of Johnson and Johnson is available at www.janssen.com/clinical-trials/transparency.&#xD;
+As noted on this site, requests for access to the study data can be submitted through Yale Open Data Access (YODA) Project site at yoda.yale.edu</ipd_description>
+    <ipd_url>https://www.janssen.com/clinical-trials/transparency</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7601">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05062304</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DUPLICATE-IMPACT</org_study_id>
+    <nct_id>NCT05062304</nct_id>
+  </id_info>
+  <brief_title>Replication of the IMPACT COPD Trial in Healthcare Claims Data</brief_title>
+  <official_title>Once-Daily Single-Inhaler Triple Versus Dual Therapy in Patients With COPD (IMPACT Trial)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Brigham and Women's Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Investigators are building an empirical evidence base for real world data through large-scale&#xD;
+      replication of randomized controlled trials. The investigators' goal is to understand for&#xD;
+      what types of clinical questions real world data analyses can be conducted with confidence&#xD;
+      and how to implement such studies.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a non-randomized, non-interventional study that is part of the RCT DUPLICATE&#xD;
+      initiative (www.rctduplicate.org) of the Brigham and Women's Hospital, Harvard Medical&#xD;
+      School. It is intended to replicate, as closely as is possible in healthcare insurance claims&#xD;
+      data, the trial listed below/above. Although many features of the trial cannot be directly&#xD;
+      replicated in healthcare claims, key design features, including outcomes, exposures, and&#xD;
+      inclusion/exclusion criteria, were selected to proxy those features from the trial.&#xD;
+      Randomization is also not replicable in healthcare claims data but was proxied through a&#xD;
+      statistical balancing of measured covariates according to standard practice. Investigators&#xD;
+      assume that the RCT provides the reference standard treatment effect estimate and that&#xD;
+      failure to replicate RCT findings is indicative of the inadequacy of the healthcare claims&#xD;
+      data for replication for a range of possible reasons and does not provide information on the&#xD;
+      validity of the original RCT finding.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 13, 2020</start_date>
+  <completion_date type="Actual">July 22, 2021</completion_date>
+  <primary_completion_date type="Actual">July 22, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Annual rate of moderate or severe COPD exacerbations during treatment</measure>
+    <time_frame>To study completion or censoring, up to 32 months</time_frame>
+    <description>Claims-based algorithm: see attached protocol for full definition</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">17281</enrollment>
+  <condition>COPD</condition>
+  <arm_group>
+    <arm_group_label>Fluticasone furoate-vilanterol</arm_group_label>
+    <description>Reference group</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Fluticasone furoate-umeclidinium-vilanterol</arm_group_label>
+    <description>Exposure group</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fluticasone Furoate-Vilanterol Trifenatate</intervention_name>
+    <description>Fluticasone Furoate-Vilanterol Trifenatate dispensing claim is used as the reference group.</description>
+    <arm_group_label>Fluticasone furoate-vilanterol</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Furoate-umeclidinium-vilanterol</intervention_name>
+    <description>Furoate-umeclidinium-vilanterol dispensing claim is used as the exposure group.</description>
+    <arm_group_label>Fluticasone furoate-umeclidinium-vilanterol</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        This study will involve a new user, parallel group, propensity score-matched, retrospective&#xD;
+        cohort study design comparing triple therapy to fluticasone furoate-vilanterol users. The&#xD;
+        patients will be required to have continuous enrollment during a baseline period of 180&#xD;
+        days before initiation of triple therapy or fluticasone furoate-vilanterol (index date). We&#xD;
+        will restrict the analyses to patients with a diagnosis of COPD who have been receiving&#xD;
+        daily maintenance therapy for at least 3 months prior to index date.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Please see https://drive.google.com/drive/folders/1WD618wrywYjEaXzfLTcuK-VCcnb6b-gV for&#xD;
+        full code and algorithm definitions.&#xD;
+&#xD;
+        All patients will be required to have continuous enrollment during a baseline period of 180&#xD;
+        days before initiation of triple therapy or fluticasone furoate-vilanterol (index date).&#xD;
+&#xD;
+        Eligible Cohort Entry Dates:&#xD;
+&#xD;
+        Market availability of fluticasone furoate-umeclidinium-vilanterol in the U.S. for&#xD;
+        management of COPD was approved by FDA on September 18, 2017.&#xD;
+&#xD;
+          -  For Marketscan: September 18, 2017 - December 31, 2018 (end of available data)&#xD;
+&#xD;
+          -  For Optum: September 18, 2017 - June 30, 2020 (end of available data)&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  40 years of age&#xD;
+&#xD;
+          -  Established clinical history of COPD in accordance with the definition by the ATS/ERS&#xD;
+&#xD;
+          -  Receiving daily maintenance treatment for their COPD for at least 3 months prior to&#xD;
+             screening&#xD;
+&#xD;
+          -  A post-bronchodilator FEV1 &lt; 50% predicted normal and a documented history of ≥ 1&#xD;
+             moderate or severe COPD exacerbation in the previous 12 months OR a&#xD;
+             post-bronchodilator 50% ≤FEV1 &lt; 80% predicted normal and a documented history of ≥ 2&#xD;
+             moderate exacerbations or a documented history of ≥1 severe COPD exacerbation&#xD;
+             (hospitalized) in the previous 12 months.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnancy or child bearing potential without acceptable contraceptive method&#xD;
+&#xD;
+          -  Subjects with α1-antitrypsin deficiency as the underlying cause of COPD&#xD;
+&#xD;
+          -  Subjects with active tuberculosis, lung cancer, significant bronchiectasis,&#xD;
+             sarcoidosis, lung fibrosis, pulmonary hypertension, interstitial lung diseases or&#xD;
+             other active pulmonary diseases&#xD;
+&#xD;
+          -  Subjects with lung volume reduction surgery within the 12 months prior to screening&#xD;
+&#xD;
+          -  Immune suppression (e.g. HIV, Lupus) or other risk factors for pneumonia (e.g.&#xD;
+             neurological disorders affecting control of the upper airway, such as Parkinson's&#xD;
+             Disease, Myasthenia Gravis)&#xD;
+&#xD;
+          -  Pneumonia and/or moderate or severe COPD exacerbation that has not resolved at least&#xD;
+             14 days prior to Screening and at least 30 days following the last dose of&#xD;
+             oral/systemic corticosteroids (if applicable). In addition, any subject that&#xD;
+             experiences pneumonia and/or moderate or severe COPD exacerbation during the run-in&#xD;
+             period will be excluded&#xD;
+&#xD;
+          -  Other Respiratory tract infections that have not resolved at least 7 days prior to&#xD;
+             screening&#xD;
+&#xD;
+          -  Unstable liver disease as defined by the presence of ascites, encephalopathy,&#xD;
+             coagulopathy, hypoalbuminemia, esophageal or gastric varices or persistent jaundice,&#xD;
+             cirrhosis, known biliary abnormalities (with the exception of Gilbert's syndrome or&#xD;
+             asymptomatic gallstones). Note: Chronic stable hepatitis B and C are acceptable if the&#xD;
+             subject otherwise meets entry criteria&#xD;
+&#xD;
+          -  Unstable or life threatening cardiac disease: subjects with any of the following at&#xD;
+             Screening (Visit 1) would be excluded: Myocardial infarction or unstable angina in the&#xD;
+             last 6 months&#xD;
+&#xD;
+          -  Unstable or life threatening cardiac arrhythmia requiring intervention in the last 3&#xD;
+             months&#xD;
+&#xD;
+          -  NYHA Class IV Heart failure&#xD;
+&#xD;
+          -  Oxygen therapy: Use of long-term oxygen therapy (LTOT) described as resting oxygen&#xD;
+             therapy &gt;3L/min (Oxygen use less than or equal to 3L/min flow is not exclusionary.)&#xD;
+&#xD;
+          -  Pulmonary rehabilitation: Subjects who have participated in the acute phase of a&#xD;
+             Pulmonary Rehabilitation Program within 4 weeks prior to Screening or subjects who&#xD;
+             plan to enter the acute phase of a Pulmonary Rehabilitation Program during the study.&#xD;
+             Subjects who are in the maintenance phase of a Pulmonary Rehabilitation Program are&#xD;
+             not excluded&#xD;
+&#xD;
+          -  Drug/alcohol abuse: Subjects with a known or suspected history of alcohol or drug&#xD;
+             abuse&#xD;
+&#xD;
+          -  The use of any of the following medications under the given conditions:&#xD;
+&#xD;
+               -  Long term antibiotic use (short term antibiotics are allowed if treating&#xD;
+                  short-term acute infection or short-term exacerbation&#xD;
+&#xD;
+               -  Use of a systemic, oral, or parenteral corticosteroid in the last 30 days (except&#xD;
+                  unless treating COPD exacerbations/pneumonia)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jessica Franklin, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brigham and Women's Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Shirley Wang, PhD, ScM</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brigham and Women's Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02120</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>June 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 20, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 30, 2021</study_first_posted>
+  <last_update_submitted>September 20, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 20, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Brigham and Women's Hospital</investigator_affiliation>
+    <investigator_full_name>Jessica Franklin</investigator_full_name>
+    <investigator_title>Assistant Professor of Medicine</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fluticasone</mesh_term>
+    <mesh_term>Xhance</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>May 14, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/04/NCT05062304/Prot_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

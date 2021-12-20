@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1995">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05135195</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-00925</org_study_id>
+    <nct_id>NCT05135195</nct_id>
+  </id_info>
+  <brief_title>A Virtual Reality Platform Simulating Visual Impairment for Testing of Electronic Travel Aids and Performing Orientation and Mobility Training</brief_title>
+  <official_title>A Virtual Reality Platform Simulating Visual Impairment for Testing of Electronic Travel Aids and Performing Orientation and Mobility Training</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NYU Langone Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>NYU Langone Health</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this study, the study team utilize virtual reality (VR) to simulate visual impairments of&#xD;
+      different types and severity in healthy subjects. The platform implements three of the most&#xD;
+      widespread forms of visual impairment in the United States (US): age-related macular&#xD;
+      degeneration (AMD), diabetic retinopathy (DR), and glaucoma, each with three levels of&#xD;
+      severity, (mild, moderate, and severe). At present, glaucoma is further developed toward a&#xD;
+      multidimensional visual impairment simulation.&#xD;
+&#xD;
+      The platform is utilized: i) to provide a safe, controllable, and repeatable set of&#xD;
+      environments for development and preliminary testing of electronic travel aids (ETAs) in a&#xD;
+      variety of conditions (i.e., using the ETA to navigate in the immersed environment); and ii)&#xD;
+      to equip blind and low vision (BVI) professionals, inclusive of orientation and mobility&#xD;
+      (O&amp;M) instructors, with a controlled, tunable training platform for skill/capacity building,&#xD;
+      assessment, and refinement of O&amp;M techniques, as well as visually impaired trainees with a&#xD;
+      safe and immersive environment to improve their O&amp;M skills and learn novel techniques. Two&#xD;
+      sets of hypothesis-driven experiments are proposed to assess the feasibility of the platform&#xD;
+      with respect to these two objectives.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 24, 2021</start_date>
+  <completion_date type="Anticipated">June 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Average time to complete the trial</measure>
+    <time_frame>1 Day of Intervention</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Average number of obstacle collisions during the trial</measure>
+    <time_frame>1 Day of Intervention</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Average travel time</measure>
+    <time_frame>1 Day of Intervention</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Average distance traveled by the participant</measure>
+    <time_frame>1 Day of Intervention</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Preferred walking speed</measure>
+    <time_frame>1 Day of Intervention</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Orientation</measure>
+    <time_frame>1 Day of Intervention</time_frame>
+    <description>Orientation is measured through the time average of a polarization index, measured as the cosin of the angle between the direction of the instantaneous velocity vector and the straight line linking the instantaneous position of the participant and the following waypoint.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of instances in which the participant stop for more than 2 seconds</measure>
+    <time_frame>1 Day of Intervention</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total time spent during stops of more than 2 seconds</measure>
+    <time_frame>1 Day of Intervention</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Average time it takes to understand how to interact with the system and run the simulation of the bus ride</measure>
+    <time_frame>1 Day of Intervention</time_frame>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">446</enrollment>
+  <condition>Visual Impairment</condition>
+  <condition>Age-Related Macular Degeneration</condition>
+  <condition>Diabetic Retinopathy</condition>
+  <condition>Glaucoma</condition>
+  <arm_group>
+    <arm_group_label>First Set of Experiments</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The anticipated number of participants is 336. All participants have healthy vision.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Second Set of Experiments</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The anticipated number of participants is 100. Of these, 80 participants have healthy vision, and 20 have glaucoma.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>In-House Developed VR Platform - AMD, DR, Glaucoma</intervention_name>
+    <description>Participants will conduct experiments using commercial VR headsets and controllers. Visual impairments will be systematically simulated in VR. There are three visual impairment simulations (AMD, DR, and glaucoma) at three levels of severity (mild, moderate, or severe). Symptoms' simulation tools include a gaussian blur shader, distortion shader, and a culling mask with a gray spot in the middle.</description>
+    <arm_group_label>First Set of Experiments</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>In-House Developed VR Platform - Glaucoma</intervention_name>
+    <description>In the second set of experiments, a multidimensional visual impairment simulation of a single pathology (glaucoma) will be used at three levels of severity (mild, moderate, or severe). The post-processing package to simulate includes glare, difficulty in light, change adaptation, ambient occlusion, visual clutter, and overall blurred effect. The shader graph package will be used to create a distortion localized on assets surfaces only.</description>
+    <arm_group_label>Second Set of Experiments</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria (patients with visual impairment)&#xD;
+&#xD;
+          1. Aged 18-80;&#xD;
+&#xD;
+          2. People with glaucoma of all different levels and etiologies.&#xD;
+&#xD;
+        Inclusion Criteria (healthy controls)&#xD;
+&#xD;
+          1. Aged 18-80;&#xD;
+&#xD;
+          2. Gender neutral: male or female.&#xD;
+&#xD;
+        Exclusion Criteria (patients with visual impairment &amp; healthy controls)&#xD;
+&#xD;
+          1. Significant cognitive dysfunction (score &lt;24 on Folsteins' Mini Mental Status&#xD;
+             Examination)&#xD;
+&#xD;
+          2. Previous neurological illness or psychiatric disorders, or suffer from a heart&#xD;
+             condition or other serious medical conditions&#xD;
+&#xD;
+          3. Significant mobility restrictions; people using walkers and wheelchairs&#xD;
+&#xD;
+          4. Pregnancy&#xD;
+&#xD;
+          5. Elderly&#xD;
+&#xD;
+          6. Seizures (people who previously have had a seizure, loss of awareness, or other&#xD;
+             symptom linked to an epileptic condition)&#xD;
+&#xD;
+          7. Interference with medical devices (the headset and controller(s) may contain magnets&#xD;
+             or components that emit radio waves, which could affect the operation of nearby&#xD;
+             electronics, including cardiac pacemakers, hearing aids, and defibrillators)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John-Ross Rizzo, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NYU Langone Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mahya Beheshti, MD</last_name>
+    <phone>(646) 501 9189</phone>
+    <email>Mahya.beheshti@nyulangone.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>John-Ross Rizzo, MD</last_name>
+    <phone>(646) 501 7828</phone>
+    <email>Johnross.rizzo@nyulangone.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>NYU Langone Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mahya Beheshti, MD</last_name>
+      <email>Mahya.beheshti@nyulangone.org</email>
+    </contact>
+    <investigator>
+      <last_name>John-Ross Rizzo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 26, 2021</study_first_posted>
+  <last_update_submitted>November 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vision Disorders</mesh_term>
+    <mesh_term>Vision, Low</mesh_term>
+    <mesh_term>Macular Degeneration</mesh_term>
+    <mesh_term>Diabetic Retinopathy</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data that underlie the results reported in this article, after deidentification (text, tables, figures, and appendices) will be available upon reasonable request.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Beginning 9 months and ending 36 months following article publication or as required by a condition of awards and agreements supporting the research.</ipd_time_frame>
+    <ipd_access_criteria>The investigator who proposed to use the data will have access to the data upon reasonable request. Requests should be directed to Johnross.rizzo@nyulangone.org. To gain access, data requestors will need to sign a data access agreement.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

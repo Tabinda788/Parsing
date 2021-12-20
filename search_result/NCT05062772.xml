@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7565">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05062772</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-PI085</org_study_id>
+    <nct_id>NCT05062772</nct_id>
+  </id_info>
+  <brief_title>Brain Tumor Intraoperative Ultrasound Database</brief_title>
+  <acronym>BraTioUS-DB</acronym>
+  <official_title>Predicting Overall Survival in Glioblastomas Using Radiomic Features of Intraoperative Ultrasound. A Proposal for the Creation of an International Database of Brain Tumor Ultrasound Images</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital del Río Hortega</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospital del Río Hortega</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Predicting the survival of patients diagnosed with glioblastoma (GBM) is essential to guide&#xD;
+      surgical strategy and subsequent adjuvant therapies. Intraoperative ultrasound (ioUS) is a&#xD;
+      low-cost, versatile technique available in most neurosurgical departments. The images from&#xD;
+      ioUS contain biological information possibly correlated to the tumor's behavior,&#xD;
+      aggressiveness, and oncological outcomes. Today's advanced image processing techniques&#xD;
+      require a large amount of data. Therefore, the investigators propose creating an&#xD;
+      international database aimed to share intraoperative ultrasound images of brain tumors. The&#xD;
+      acquired data must be processed to extract radiomic or texture characteristics from ioUS&#xD;
+      images. The rationale is that ultrasound images contain much more information than the human&#xD;
+      eye can process. Our main objective is to find a relationship between these imaging&#xD;
+      characteristics and overall survival (OS) in GBM. The predictive models elaborated from this&#xD;
+      imaging technique will complement those already based on other sources such as magnetic&#xD;
+      resonance imaging (MRI), genetic and molecular analysis, etc. Predicting survival using an&#xD;
+      intraoperative imaging technique affordable for most hospitals would greatly benefit the&#xD;
+      patients' management.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators plan to carry out a multicentre retrospective study of patients operated&#xD;
+      with GBM diagnosis between January 2018 and January 2020, in order to set the base for future&#xD;
+      prospective collection of patients. All cases with an ioUS study will be included. All&#xD;
+      patients must count with B-mode modality. After an pseudonymization process, the images will&#xD;
+      be uploaded to a private cloud server. Demographic, clinical, conventional radiological, and&#xD;
+      molecular variables (IDH, MGMT) will also be collected. OS will be defined as the time&#xD;
+      elapsed between the histopathological diagnosis and the patient's death. The acquired data&#xD;
+      must be processed to obtain a series of radiomic markers to perform the study. A&#xD;
+      pre-processing stage will be necessary (noise cleaning, despeckling, intensity normalization,&#xD;
+      filtering) to calculate radiomics measurements (histogram, volumetric, shape, texture, etc.).&#xD;
+      In the previous stage, a very high number of radiological features per subject will be&#xD;
+      calculated. Because the number of features is much higher than the data set, to avoid the&#xD;
+      curse of dimensionality, it will be necessary to reduce their number using feature selection&#xD;
+      and extraction techniques (standard in pattern recognition and radiomics) that allow choosing&#xD;
+      those characteristics (or transformations of them) that have greater discriminating power. A&#xD;
+      predictive model of survival will then be elaborated based on the features selected.&#xD;
+&#xD;
+      Hypotheses&#xD;
+&#xD;
+      Intraoperative ultrasound images in B-mode harbour tumor texture features correlated with&#xD;
+      overall survival in glioblastomas.&#xD;
+&#xD;
+      Objectives:&#xD;
+&#xD;
+        -  To determine the relationship between the radiomic features of intraoperative ultrasound&#xD;
+           B-mode and overall survival in glioblastomas.&#xD;
+&#xD;
+        -  Develop a predictive survival model using the texture features with the highest&#xD;
+           discriminatory power.&#xD;
+&#xD;
+        -  Validate the model against an external dataset and compare it with currently available&#xD;
+           predictive models.&#xD;
+&#xD;
+        -  Build a data set that allows exploring various image harmonization techniques that allow&#xD;
+           the reproducibility of our predictions.&#xD;
+&#xD;
+        -  Establish an international cooperation network (BraTioUS-DB) whose objective will be to&#xD;
+           interchange ultrasound images and clinical data of patients operated on for a brain&#xD;
+           tumor prospectively from its creation and start-up.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2021</start_date>
+  <completion_date type="Anticipated">November 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2022</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <target_duration>1 Year</target_duration>
+  <primary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>1 year</time_frame>
+    <description>Overall survival in glioblastoma</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Brain Tumor</condition>
+  <condition>Brain Neoplasms</condition>
+  <condition>Brain Cancer</condition>
+  <condition>Glioma</condition>
+  <condition>Glioblastoma</condition>
+  <arm_group>
+    <arm_group_label>Glioblastoma</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Ultrasound</intervention_name>
+    <description>Intraoperative ultrasound imaging</description>
+    <arm_group_label>Glioblastoma</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The cases that meet the inclusion criteria mentioned in the following section will be&#xD;
+        collected retrospectively to carry out the project's first phase. From January 2018 to&#xD;
+        January 2020, it is estimated that each center can contribute with a minimum of 20 cases.&#xD;
+        Therefore, the total sample size for this phase of the study will be approximately 120&#xD;
+        patients.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult patients operated between January 2018 and January 2020 with a pathological&#xD;
+             diagnosis of WHO grade IV astrocytoma (Glioblastoma).&#xD;
+&#xD;
+          -  Intraoperative ultrasound study that includes B-mode images&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Other histopathological diagnoses. Even though the international database will be&#xD;
+             established in such a way that other tumor types can be included prospectively.&#xD;
+&#xD;
+          -  Artifacts in ultrasound images that make their analysis impossible&#xD;
+&#xD;
+          -  Stereotactic biopsies.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University Hospital Rio Hortega</name>
+      <address>
+        <city>Valladolid</city>
+        <zip>47012</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Santiago Cepeda, MD., PhD.</last_name>
+      <phone>+34651035158</phone>
+      <email>scepedac@saludcastillayleon.es</email>
+    </contact>
+    <investigator>
+      <last_name>Santiago Cepeda, MD., PhD.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sergio García-García, MD., PhD.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Rosario Sarabia, MD., PhD.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ignacio Arrese, MD., PhD.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <link>
+    <url>https://www.neurocirugiariohortega.es</url>
+    <description>Institution Website</description>
+  </link>
+  <reference>
+    <citation>Cepeda S, Sarabia R. Letter to the Editor. Intraoperative ultrasound elastography applied in meningioma surgery. Neurosurg Focus. 2021 May;50(5):E23. doi: 10.3171/2021.1.FOCUS2115.</citation>
+    <PMID>33932930</PMID>
+  </reference>
+  <reference>
+    <citation>Cepeda S, García-García S, Velasco-Casares M, Fernández-Pérez G, Zamora T, Arrese I, Sarabia R. Is There a Relationship between the Elasticity of Brain Tumors, Changes in Diffusion Tensor Imaging, and Histological Findings? A Pilot Study Using Intraoperative Ultrasound Elastography. Brain Sci. 2021 Feb 21;11(2). pii: 271. doi: 10.3390/brainsci11020271.</citation>
+    <PMID>33669989</PMID>
+  </reference>
+  <reference>
+    <citation>Cepeda S, García-García S, Arrese I, Velasco-Casares M, Sarabia R. Acute changes in diffusion tensor-derived metrics and its correlation with the motor outcome in gliomas adjacent to the corticospinal tract. Surg Neurol Int. 2021 Feb 10;12:51. doi: 10.25259/SNI_862_2020. eCollection 2021.</citation>
+    <PMID>33654554</PMID>
+  </reference>
+  <reference>
+    <citation>Cepeda S, García-García S, Arrese I, Fernández-Pérez G, Velasco-Casares M, Fajardo-Puentes M, Zamora T, Sarabia R. Comparison of Intraoperative Ultrasound B-Mode and Strain Elastography for the Differentiation of Glioblastomas From Solitary Brain Metastases. An Automated Deep Learning Approach for Image Analysis. Front Oncol. 2021 Feb 2;10:590756. doi: 10.3389/fonc.2020.590756. eCollection 2020.</citation>
+    <PMID>33604286</PMID>
+  </reference>
+  <reference>
+    <citation>Cepeda S, García-García S, Arrese I, Velasco-Casares M, Sarabia R. Relationship between the overall survival in glioblastomas and the radiomic features of intraoperative ultrasound: a feasibility study. J Ultrasound. 2021 Feb 16. doi: 10.1007/s40477-021-00569-9. [Epub ahead of print]</citation>
+    <PMID>33594589</PMID>
+  </reference>
+  <reference>
+    <citation>Cepeda S, Arrese I, García-García S, Velasco-Casares M, Escudero-Caro T, Zamora T, Sarabia R. Meningioma Consistency Can Be Defined by Combining the Radiomic Features of Magnetic Resonance Imaging and Ultrasound Elastography. A Pilot Study Using Machine Learning Classifiers. World Neurosurg. 2021 Feb;146:e1147-e1159. doi: 10.1016/j.wneu.2020.11.113. Epub 2020 Nov 28.</citation>
+    <PMID>33259973</PMID>
+  </reference>
+  <reference>
+    <citation>Cepeda S, Barrena C, Arrese I, Fernandez-Pérez G, Sarabia R. Intraoperative Ultrasonographic Elastography: A Semi-Quantitative Analysis of Brain Tumor Elasticity Patterns and Peritumoral Region. World Neurosurg. 2020 Mar;135:e258-e270. doi: 10.1016/j.wneu.2019.11.133. Epub 2019 Nov 30.</citation>
+    <PMID>31790843</PMID>
+  </reference>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 30, 2021</study_first_posted>
+  <last_update_submitted>September 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital del Río Hortega</investigator_affiliation>
+    <investigator_full_name>Santiago Cepeda</investigator_full_name>
+    <investigator_title>Principal investigator</investigator_title>
+  </responsible_party>
+  <keyword>glioma</keyword>
+  <keyword>glioblastoma</keyword>
+  <keyword>brain tumor</keyword>
+  <keyword>ultrasound</keyword>
+  <keyword>intraoperative ultrasound</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Glioma</mesh_term>
+    <mesh_term>Brain Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>July 12, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/72/NCT05062772/Prot_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

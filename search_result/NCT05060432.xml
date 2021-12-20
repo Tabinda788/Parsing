@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7744">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05060432</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TIG-006</org_study_id>
+    <nct_id>NCT05060432</nct_id>
+  </id_info>
+  <brief_title>Study of EOS-448 With Standard of Care and/or Investigational Therapies in Participants With Advanced Solid Tumors</brief_title>
+  <acronym>TIG-006</acronym>
+  <official_title>A Multicenter, Open-Label, Phase I/II Study of EOS884448 (EOS-448) in Combination With Standard of Care and/or Investigational Therapies in Participants With Advanced Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>iTeos Belgium SA</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>iTeos Therapeutics</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multicenter, open-label, phase I/II basket study, evaluating the safety,&#xD;
+      tolerability, RP2D, pharmacokinetics, pharmacodynamics and antitumor activity of EOS-448&#xD;
+      combined with standard of care and/or with investigational therapies in participants with&#xD;
+      advanced solid tumors.: EOS-448 will be combined with pembrolizumab, a marketed anti-PD-1&#xD;
+      antibody in one treatment arm and a second treatment arm will evaluate EOS-448 combined with&#xD;
+      inupadenant, an investigational adenosine A2A receptor antagonist.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study will be conducted in multiple staged parts:&#xD;
+&#xD;
+        -  Part 1 consists of two dose finding cohorts evaluating safety and tolerability as well&#xD;
+           as determining the recommended phase 2 dose (RP2D) of EOS-448 combined with&#xD;
+           pembrolizumab (Part 1A) or with inupadenant (Part 1B), in participants with advanced&#xD;
+           solid tumors.&#xD;
+&#xD;
+        -  Part 2 is the expansion part of the study. It will further explore the safety,&#xD;
+           tolerability, anti-tumor activity as well as pharmacokinetics and pharmacodynamics of&#xD;
+           EOS-448 combined with pembrolizumab in participants with PD-L1 positive first line (1L)&#xD;
+           mNSCLC (Part 2A and 2B) or in participants with PD-L1 positive 1L mHNSCC (Part 2C and&#xD;
+           2D) and, of EOS-448 combined with inupadenant in participants with anti-PD-(L)1&#xD;
+           resistant metastatic cutaneous melanoma (Part 2E), treated at the respective&#xD;
+           combinations RP2D.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 6, 2021</start_date>
+  <completion_date type="Anticipated">September 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 2024</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of participants with DLT and Adverse Events</measure>
+    <time_frame>From first study treatment administration through Day 21-28 for DLT / Up to 120 days after the last dose</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Recommended Phase 2 dose (RP2D) of EOS884448 in participants with advanced solid tumors</measure>
+    <time_frame>Up to 48 weeks</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants with Objective Response as determined by Investigator</measure>
+    <time_frame>Until disease progression - Approximately 48 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DOR)</measure>
+    <time_frame>Until disease progression or death - Approximately 48 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate (DCR)</measure>
+    <time_frame>Until disease progression or death - Approximately 48 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free-survival (PFS)</measure>
+    <time_frame>Until disease progression or death - Approximately 48 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean and median Maximum concentration (Cmax) of EOS884448 at each dose level</measure>
+    <time_frame>Up to 48 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants with anti-drug antibodies to EOS884448</measure>
+    <time_frame>Up to 48 weeks</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change from baseline in absolute cell count in the tumor and in peripheral blood</measure>
+    <time_frame>Up to 48 weeks</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Frequency of activation/exhaustion markers in the tumor and in peripheral blood</measure>
+    <time_frame>Up to 48 weeks</time_frame>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">276</enrollment>
+  <condition>Advanced Cancer</condition>
+  <condition>Lung Cancer</condition>
+  <condition>Head and Neck Cancer</condition>
+  <condition>Melanoma</condition>
+  <arm_group>
+    <arm_group_label>Part 1A - EOS-448 + anti-PD1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive EOS-448 and anti-PD1 at every cycle</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1B - EOS-448 + inupadenant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive EOS-448 at every cycle and inupadenant on a ongoing basis</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>EOS-448</intervention_name>
+    <description>Anti-TIGIT monoclonal antibody</description>
+    <arm_group_label>Part 1A - EOS-448 + anti-PD1</arm_group_label>
+    <arm_group_label>Part 1B - EOS-448 + inupadenant</arm_group_label>
+    <other_name>EOS884448</other_name>
+    <other_name>GSK4428859</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Anti-PD1</intervention_name>
+    <description>Anti-PD-1 monoclonal antibody</description>
+    <arm_group_label>Part 1A - EOS-448 + anti-PD1</arm_group_label>
+    <other_name>pembrolizumab</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>inupadenant</intervention_name>
+    <description>A2A receptor antagonist</description>
+    <arm_group_label>Part 1B - EOS-448 + inupadenant</arm_group_label>
+    <other_name>EOS100850</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Provide a signed written informed consent for the trial&#xD;
+&#xD;
+          -  Have measurable disease, per RECIST v1.1&#xD;
+&#xD;
+          -  Have a predicted life expectancy of ≥ 16 weeks&#xD;
+&#xD;
+          -  Have an Eastern Cooperative Oncology Group (ECOG) performance status of Grade 0 or 1.&#xD;
+&#xD;
+          -  Have adequate organ functions&#xD;
+&#xD;
+          -  Part 1 : Have histologically or cytologically confirmed advanced or metastatic solid&#xD;
+             tumor for whom no standard treatment with survival benefit is available&#xD;
+&#xD;
+          -  Part 2 (lung cancer, H&amp;N) Are eligible to receive pembrolizumab monotherapy in first&#xD;
+             line (1L) metastatic setting, as standard of care and according to local treatment&#xD;
+             guidelines.&#xD;
+&#xD;
+          -  Part 2 (lung cancer, H&amp;N) : PD-L1 status positive&#xD;
+&#xD;
+          -  Part 2 (melanoma) : progressed on treatment with an anti-PD-(L)1 monoclonal antibody&#xD;
+             (mAb)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Have received any anti-cancer therapy within 4 weeks prior to the first dose&#xD;
+&#xD;
+          -  Have received a live vaccine within 30 days prior to the first dose&#xD;
+&#xD;
+          -  Have known primary CNS cancer.&#xD;
+&#xD;
+          -  Have known CNS metastases unless previously treated and well controlled for at least 1&#xD;
+             month&#xD;
+&#xD;
+          -  Have concomitant second malignancies unless a complete remission was achieved at least&#xD;
+             2 years before study entry&#xD;
+&#xD;
+          -  Have a history of Grade ≥ 2 pneumonitis, active autoimmune disease, or persistent&#xD;
+             immune-mediated toxicity caused by immune checkpoint inhibitor therapy of Grade ≥ 2&#xD;
+&#xD;
+          -  Have toxicity (except for alopecia) related to prior anti-cancer therapy and/or&#xD;
+             surgery unless the toxicity is either resolved, returned to baseline or Grade 1, or&#xD;
+             deemed irreversible.Have uncontrolled or significant cardiovascular disease&#xD;
+&#xD;
+          -  Part 1 : major surgery within 5 weeks before initiating treatment&#xD;
+&#xD;
+          -  Part 1 : Have received prior radiotherapy within 2 weeks of start of study treatment&#xD;
+&#xD;
+          -  Part 2 (lung cancer, H&amp;N) :Have confirmation that epidermal growth factor receptor&#xD;
+             (EGFR), anaplastic lymphoma kinase (ALK), reactive oxygen species (ROS1) or any other&#xD;
+             genomic aberration approved directed therapy is indicated as primary therapy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Clarisse Truong</last_name>
+    <phone>0032477892186</phone>
+    <email>clarisse.truong@iteostherapeutics.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Olivier De Henau</last_name>
+    <email>olivier.deheneau@iteostherapeutics.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hackensack University Medical Center</name>
+      <address>
+        <city>Bergen</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dr Martin Gutierrez</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>GZA Ziekenhuizen campus Sint-Augustinus</name>
+      <address>
+        <city>Antwerpen</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dr Tom Van Den Mooter</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cliniques universitaires St Luc-UCL</name>
+      <address>
+        <city>Brussels</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dr Jean-Pascal Machiels</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 29, 2021</study_first_posted>
+  <last_update_submitted>September 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Head and Neck Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pembrolizumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

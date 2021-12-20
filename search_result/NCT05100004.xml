@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4701">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05100004</url>
+  </required_header>
+  <id_info>
+    <org_study_id>58808</org_study_id>
+    <nct_id>NCT05100004</nct_id>
+  </id_info>
+  <brief_title>Rapid Acting TMS for Suicide Ideation in Depression</brief_title>
+  <official_title>Rapid Acting Transcranial Magnetic Stimulation for Suicide Ideation in Depression</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study evaluates the effects of an accelerated schedule of theta-burst stimulation,&#xD;
+      termed accelerated intermittent theta-burst stimulation (aiTBS), on the neural networks&#xD;
+      underlying explicit and implicit suicidal cognition in inpatients with major depressive&#xD;
+      disorder.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      We recently developed a form of neuromodulation termed Stanford Neuromodulation Therapy&#xD;
+      (SNT). SNT-induced remission is associated with significant reductions in the functional&#xD;
+      connectivity of the neural network underlying explicit suicidal cognition (between&#xD;
+      sgACC-DMN). This project aims to further elucidate the SNT induced neural network changes&#xD;
+      underlying explicit suicidal cognition.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">October 31, 2021</start_date>
+  <completion_date type="Anticipated">September 2025</completion_date>
+  <primary_completion_date type="Anticipated">September 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Patients will receive either active or sham stimulation to the DLPFC. Patients will be randomized to either condition with a 50:50 chance.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in suicidal ideation as measured by the modified Scale for Suicide Ideation (m-SSI).</measure>
+    <time_frame>At baseline (day 0) and at post-inpatient treatment completion (day 2-7)</time_frame>
+    <description>The modified Scale for Suicide (m-SSI) is an 18-item clinician rated scale that measures suicidal ideation. Each item is scored from 0-3. Scores are summed for 1 total score. Higher scores indicate more severe suicidal ideation. We will assess change in m-SSI scores at the post-inpatient treatment completion (day 2-7).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rates of remission immediately after treatment in the Montgomery-Åsberg Depression Rating Scale (MADRS) score.</measure>
+    <time_frame>At baseline (day 0) and at post-inpatient treatment completion (day 2-7)</time_frame>
+    <description>The Montgomery-Åsberg Depression Rating Scale (MADRS), is a ten item diagnostic questionnaire used to measure the severity of depressive episodes in patients with mood disorders. Higher MADRS score indicates more severe depression, and each item yields a score of 0 to 6. The overall score ranges from 0 to 60.&#xD;
+Remission is defined as MADRS ≤10.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rates of response immediately after treatment in the Montgomery-Åsberg Depression Rating Scale (MADRS) score.</measure>
+    <time_frame>At baseline (day 0) and at post-inpatient treatment completion (day 2-7)</time_frame>
+    <description>The Montgomery-Åsberg Depression Rating Scale (MADRS), is a ten item diagnostic questionnaire used to measure the severity of depressive episodes in patients with mood disorders. Higher MADRS score indicates more severe depression, and each item yields a score of 0 to 6. The overall score ranges from 0 to 60.&#xD;
+Response is defined as a reduction of &gt;/=50% of MADRS baseline score.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Depressive Disorder, Major</condition>
+  <condition>Suicide</condition>
+  <arm_group>
+    <arm_group_label>Left Dorsolateral Prefrontal Cortex (L-DLPFC)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The accelerated theta burst stimulation protocol will be applied to the left dorsolateral prefrontal cortex (DLPFC)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham Stimulation</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Sham (non-active) stimulation will be applied to the left dorsolateral prefrontal cortex (DLPFC) region</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Accelerated Theta Burst Stimulation</intervention_name>
+    <description>Participants who are randomly assigned to this group will receive active iTBS (intermittent theta burst stimulation) to the left DLPFC. Stimulation intensity will be standardized at 90% of resting motor threshold (adjusted for cortical depth).&#xD;
+Stimulation will be delivered using the Magventure Magpro X100 TMS system.</description>
+    <arm_group_label>Left Dorsolateral Prefrontal Cortex (L-DLPFC)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Sham Stimulation</intervention_name>
+    <description>Participants who are randomly assigned to this group will receive sham stimulation to the left DLPFC.&#xD;
+Sham stimulation will be delivered using the Magventure Magpro X100 TMS system.</description>
+    <arm_group_label>Sham Stimulation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age 22-65 year old at the time of screening on voluntary or involuntary hold&#xD;
+&#xD;
+          2. Able to read, understand, and provide written, dated informed consent prior to&#xD;
+             screening. Participants will be deemed likely to comply with study protocol and&#xD;
+             communicate with study personnel about adverse events and other clinically important&#xD;
+             information.&#xD;
+&#xD;
+          3. Diagnosed with Major Depressive Disorder (MDD) or Bipolar Affective Disorder II (BAPD&#xD;
+             II), according to the criteria defined in the Diagnosis and Statistical Manual of&#xD;
+             Mental Disorders, Fifth Edition, Text Revision (DSM-5).&#xD;
+&#xD;
+             Endorse suicidal ideation (score ≥9 on the SSI-M).&#xD;
+&#xD;
+          4. Meet the threshold on the MADRS and HAMD-17 with a total score of &gt;/=20 at baseline.&#xD;
+&#xD;
+          5. Not in a current state of mania (Young Mania Rating Scale) or psychosis (MINI)&#xD;
+&#xD;
+          6. Have to be TMS naive&#xD;
+&#xD;
+          7. In good general health, as ascertained by medical history.&#xD;
+&#xD;
+          8. Scheduled with a psychiatrist&#xD;
+&#xD;
+          9. Access to clinical rTMS after hospital discharge&#xD;
+&#xD;
+         10. If participant is of childbearing potential and not already pregnant, must agree to&#xD;
+             use adequate contraception prior to study and for the duration of study participation.&#xD;
+&#xD;
+         11. No recent use (for the actual depressive episode) of rapid acting antidepressive agent&#xD;
+             (ketamine)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Any abnormalities indicated on previous MRI scans e.g. structural neurological&#xD;
+             condition, more subcortical lesions than would be expected for age, stroke affecting&#xD;
+             stimulated area or connected areas or any other clinically significant abnormality&#xD;
+             that might affect safety, study participation, or confound interpretation of study&#xD;
+             results.&#xD;
+&#xD;
+          2. Metal implant in brain (e.g. deep brain stimulation), cardiac pacemaker, or cochlear&#xD;
+&#xD;
+          3. History of epilepsy/ seizures (including history of withdrawal/ provoked seizures)&#xD;
+&#xD;
+          4. Shrapnel or any ferromagnetic item in the head.&#xD;
+&#xD;
+          5. Pregnancy: The effects of rTMS on the developing human fetus are incipient and still&#xD;
+             uncertain (25). We will not be enrolling pregnant women to this study. Women of&#xD;
+             childbearing potential must agree to use adequate contraception (hormonal / barrier&#xD;
+             method of birth control or abstinence) prior to study entry and for the duration of&#xD;
+             study participation. Females of childbearing-age, will have a pregnancy test prior to&#xD;
+             receiving each rTMS stimulation session. Should a woman become pregnant or suspects&#xD;
+             she is pregnant while participating in this study, she should inform study staff.&#xD;
+&#xD;
+          6. Autism Spectrum disorder&#xD;
+&#xD;
+          7. A diagnosis of obsessive-compulsive disorder (OCD)&#xD;
+&#xD;
+          8. The presence or diagnosis of prominent anxiety disorder, personality disorder, or&#xD;
+             dysthymia&#xD;
+&#xD;
+          9. Any current or past history of any physical condition which in the investigator's&#xD;
+             opinion might put the subject at risk or interfere with study results interpretation.&#xD;
+&#xD;
+         10. Active substance use (&lt;1 week) or intoxication verified by toxicology screen--of&#xD;
+             cocaine, amphetamines, benzodiazepines&#xD;
+&#xD;
+         11. Cognitive impairment (including dementia)&#xD;
+&#xD;
+         12. Current severe insomnia (must sleep a minimum of 5 hours the night before stimulation)&#xD;
+&#xD;
+         13. Current mania or psychosis&#xD;
+&#xD;
+         14. Bipolar Affective Disorder I and primary psychotic disorders.&#xD;
+&#xD;
+         15. Showing symptoms of withdrawal from alcohol or benzodiazepines&#xD;
+&#xD;
+         16. IQ&lt;70&#xD;
+&#xD;
+         17. Parkinsonism or other movement d/o determined by PI to interfere with treatment&#xD;
+&#xD;
+         18. Desirous of getting ECT and previous intolerant exposure to ECT&#xD;
+&#xD;
+         19. Any other indication the PI feels would comprise data&#xD;
+&#xD;
+         20. No access to clinical rTMS after discharge.&#xD;
+&#xD;
+         21. Previous TMS exposure.&#xD;
+&#xD;
+         22. Depth-adjusted aiTBS treatment dose &gt; 65% maximum stimulator output (MSO).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Spiegel, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jean-Marie Batail, MD, PhD</last_name>
+    <phone>650-497-3933</phone>
+    <email>jmbatail@stanford.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Romina Nejad, MS</last_name>
+    <email>rnejad@stanford.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Stanford Hospital</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jean-Marie Batail, MD, PhD</last_name>
+      <phone>650-497-3933</phone>
+      <email>jmbatail@stanford.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Romina Nejad, MSc</last_name>
+      <email>rnejad@stanford.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>David Spiegel, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>George MS, Lisanby SH, Avery D, McDonald WM, Durkalski V, Pavlicova M, Anderson B, Nahas Z, Bulow P, Zarkowski P, Holtzheimer PE 3rd, Schwartz T, Sackeim HA. Daily left prefrontal transcranial magnetic stimulation therapy for major depressive disorder: a sham-controlled randomized trial. Arch Gen Psychiatry. 2010 May;67(5):507-16. doi: 10.1001/archgenpsychiatry.2010.46.</citation>
+    <PMID>20439832</PMID>
+  </reference>
+  <reference>
+    <citation>George MS, Wassermann EM, Williams WA, Callahan A, Ketter TA, Basser P, Hallett M, Post RM. Daily repetitive transcranial magnetic stimulation (rTMS) improves mood in depression. Neuroreport. 1995 Oct 2;6(14):1853-6.</citation>
+    <PMID>8547583</PMID>
+  </reference>
+  <reference>
+    <citation>Pascual-Leone A, Rubio B, Pallardó F, Catalá MD. Rapid-rate transcranial magnetic stimulation of left dorsolateral prefrontal cortex in drug-resistant depression. Lancet. 1996 Jul 27;348(9022):233-7.</citation>
+    <PMID>8684201</PMID>
+  </reference>
+  <reference>
+    <citation>Abdallah CG, Averill LA, Collins KA, Geha P, Schwartz J, Averill C, DeWilde KE, Wong E, Anticevic A, Tang CY, Iosifescu DV, Charney DS, Murrough JW. Ketamine Treatment and Global Brain Connectivity in Major Depression. Neuropsychopharmacology. 2017 May;42(6):1210-1219. doi: 10.1038/npp.2016.186. Epub 2016 Sep 8.</citation>
+    <PMID>27604566</PMID>
+  </reference>
+  <reference>
+    <citation>Liston C, Chen AC, Zebley BD, Drysdale AT, Gordon R, Leuchter B, Voss HU, Casey BJ, Etkin A, Dubin MJ. Default mode network mechanisms of transcranial magnetic stimulation in depression. Biol Psychiatry. 2014 Oct 1;76(7):517-26. doi: 10.1016/j.biopsych.2014.01.023. Epub 2014 Feb 5.</citation>
+    <PMID>24629537</PMID>
+  </reference>
+  <reference>
+    <citation>Green KL, Brown GK, Jager-Hyman S, Cha J, Steer RA, Beck AT. The Predictive Validity of the Beck Depression Inventory Suicide Item. J Clin Psychiatry. 2015 Dec;76(12):1683-6. doi: 10.4088/JCP.14m09391.</citation>
+    <PMID>26717528</PMID>
+  </reference>
+  <reference>
+    <citation>Ballard ED, Reed JL, Szczepanik J, Evans JW, Yarrington JS, Dickstein DP, Nock MK, Nugent AC, Zarate CA Jr. Functional Imaging of the Implicit Association of the Self With Life and Death. Suicide Life Threat Behav. 2019 Dec;49(6):1600-1608. doi: 10.1111/sltb.12543. Epub 2019 Feb 13.</citation>
+    <PMID>30761601</PMID>
+  </reference>
+  <reference>
+    <citation>Tello N, Harika-Germaneau G, Serra W, Jaafari N, Chatard A. Forecasting a Fatal Decision: Direct Replication of the Predictive Validity of the Suicide-Implicit Association Test. Psychol Sci. 2020 Jan;31(1):65-74. doi: 10.1177/0956797619893062. Epub 2019 Dec 11.</citation>
+    <PMID>31825760</PMID>
+  </reference>
+  <reference>
+    <citation>Light SN, Bieliauskas LA, Taylor SF. Measuring change in anhedonia using the &quot;Happy Faces&quot; task pre- to post-repetitive transcranial magnetic stimulation (rTMS) treatment to left dorsolateral prefrontal cortex in Major Depressive Disorder (MDD): relation to empathic happiness. Transl Psychiatry. 2019 Sep 3;9(1):217. doi: 10.1038/s41398-019-0549-8.</citation>
+    <PMID>31481688</PMID>
+  </reference>
+  <reference>
+    <citation>Baeken C, Duprat R, Wu GR, De Raedt R, van Heeringen K. Subgenual Anterior Cingulate-Medial Orbitofrontal Functional Connectivity in Medication-Resistant Major Depression: A Neurobiological Marker for Accelerated Intermittent Theta Burst Stimulation Treatment? Biol Psychiatry Cogn Neurosci Neuroimaging. 2017 Oct;2(7):556-565. doi: 10.1016/j.bpsc.2017.01.001. Epub 2017 Jan 20.</citation>
+    <PMID>29560909</PMID>
+  </reference>
+  <reference>
+    <citation>Downar J, Geraci J, Salomons TV, Dunlop K, Wheeler S, McAndrews MP, Bakker N, Blumberger DM, Daskalakis ZJ, Kennedy SH, Flint AJ, Giacobbe P. Anhedonia and reward-circuit connectivity distinguish nonresponders from responders to dorsomedial prefrontal repetitive transcranial magnetic stimulation in major depression. Biol Psychiatry. 2014 Aug 1;76(3):176-85. doi: 10.1016/j.biopsych.2013.10.026. Epub 2013 Nov 28. Erratum in: Biol Psychiatry. 2014 Sep 1;76(5):430.</citation>
+    <PMID>24388670</PMID>
+  </reference>
+  <reference>
+    <citation>Duprat R, De Raedt R, Wu GR, Baeken C. Intermittent Theta Burst Stimulation Increases Reward Responsiveness in Individuals with Higher Hedonic Capacity. Front Hum Neurosci. 2016 Jun 16;10:294. doi: 10.3389/fnhum.2016.00294. eCollection 2016.</citation>
+    <PMID>27378888</PMID>
+  </reference>
+  <reference>
+    <citation>Schmaal L, van Harmelen AL, Chatzi V, Lippard ETC, Toenders YJ, Averill LA, Mazure CM, Blumberg HP. Imaging suicidal thoughts and behaviors: a comprehensive review of 2 decades of neuroimaging studies. Mol Psychiatry. 2020 Feb;25(2):408-427. doi: 10.1038/s41380-019-0587-x. Epub 2019 Dec 2. Review.</citation>
+    <PMID>31787757</PMID>
+  </reference>
+  <reference>
+    <citation>Gärtner M, Aust S, Bajbouj M, Fan Y, Wingenfeld K, Otte C, Heuser-Collier I, Böker H, Hättenschwiler J, Seifritz E, Grimm S, Scheidegger M. Functional connectivity between prefrontal cortex and subgenual cingulate predicts antidepressant effects of ketamine. Eur Neuropsychopharmacol. 2019 Apr;29(4):501-508. doi: 10.1016/j.euroneuro.2019.02.008. Epub 2019 Feb 26.</citation>
+    <PMID>30819549</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>April 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 29, 2021</study_first_posted>
+  <last_update_submitted>October 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Stanford University</investigator_affiliation>
+    <investigator_full_name>David Spiegel</investigator_full_name>
+    <investigator_title>Professor, Psychiatry and Behavioral Sciences, Stanford School of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>suicidality</keyword>
+  <keyword>neuromodulation</keyword>
+  <keyword>transcranial magnetic stimulation</keyword>
+  <keyword>depression</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Suicide</mesh_term>
+    <mesh_term>Depressive Disorder, Major</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

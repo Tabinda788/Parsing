@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9660">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05035511</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HSEAR20201118003-01</org_study_id>
+    <nct_id>NCT05035511</nct_id>
+  </id_info>
+  <brief_title>A Machine Learning Approach for Predicting tDCS Treatment Outcomes of Adolescents With Autism Spectrum Disorders</brief_title>
+  <official_title>A Machine Learning Approach for Predicting tDCS Treatment Outcomes of Adolescents With Autism Spectrum Disorders</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Hong Kong Polytechnic University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Chinese University of Hong Kong</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The Hong Kong Polytechnic University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Autism spectrum disorder (ASD) is a neurodevelopmental disorder characterized by disturbances&#xD;
+      in communication, poor social skills, and aberrant behaviors. Particularly detrimental are&#xD;
+      the presence of restricted and repetitive stereotyped behaviors and uncontrollable temper&#xD;
+      outbursts over trivial changes in the environment, which often cause emotional stress for the&#xD;
+      children, their families, schools and neighborhood communities.&#xD;
+&#xD;
+      Fundamental to these cognitive and behavioral problems is the disordered cortical&#xD;
+      connectivity and resultant executive dysfunction that underpin the use of effective&#xD;
+      strategies to integrate information across contexts. Brain connectivity problems affect the&#xD;
+      rate at which information travels across the brain. Slow processing speed relates to a&#xD;
+      reduced capacity of executive function to recall and formulate thoughts and actions&#xD;
+      automatically, with the result that autistic children with poor processing speed have great&#xD;
+      difficulty learning or perceiving relationships across multiple experiences. In consequence,&#xD;
+      these children compensate for the impaired ability to integrate information from the&#xD;
+      environment by memorizing visual details or individual rules from each situation. This&#xD;
+      explains why children with autism tend to follow routines in precise detail and show great&#xD;
+      distress over seemingly trivial changes in the environment.&#xD;
+&#xD;
+      To date, there is no known cure for ASD, and the disorder remains a highly disabling&#xD;
+      condition. Recently, a non-invasive brain stimulation technique, transcranial direct current&#xD;
+      Stimulation (tDCS) has shown great promise as a potentially effective and costeffective tool&#xD;
+      for reducing core symptoms such as anxiety, aggression, impulsivity, and inattention in&#xD;
+      patients with autism. This technique has been shown to modify behavior by inducing changes in&#xD;
+      cortical excitability and enhancing connectivity between the targeted brain areas. However,&#xD;
+      not all ASD patients respond to this intervention the same way and predicting the behavioral&#xD;
+      impact of tDCS in patients with ASD remains a clinical challenge. This proposed study thus&#xD;
+      aims to address these challenges by determining whether resting-state EEG and clinical data&#xD;
+      at baseline can be used to differentiate responders from non-responders to tDCS treatment.&#xD;
+      Findings from the study will provide new guidance for designing intervention programs for&#xD;
+      individuals with ASD.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2021</start_date>
+  <completion_date type="Anticipated">December 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in behavioral measures (social communication and restricted repetitive behavior) - Social Responsiveness Scale-2nd edition (SRS-2)</measure>
+    <time_frame>Day 1 of intervention, and 1 day after the last day of intervention (2 time points)</time_frame>
+    <description>SRS-2 is a sensitive measure of social functioning in children that detects even subtle symptoms that are highly related to ASD. It uses a four-point scale and focuses on different aspects of socialization. The total score reflects the clinical effectiveness of tDCS, and higher scores indicate greater symptom severity. It has been shown that SRS-2 is sensitive to detect changes in social communication improvement related to improved cognitive functioning after treatment. After the tDCS outcome recorded immediately after tDCS treatment, participants will be categorized into responders and non-responders based on the percentage of change in the total SRS score (primary outcome). Participants that show reductions of at least 10% in the total SRS scores as compared to baseline scores will be considered responders.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ASD symptomatology - The Autism Diagnostic Interview-Revised (ADI-R)</measure>
+    <time_frame>Day 1 of intervention (1 time point)</time_frame>
+    <description>ADI-R is a semi-structured interview conducted with parents, which consists of detailed questions about early developmental and current functioning of the child. It consists of three scales, Social Interaction, Communication, and Repetitive/Stereotyped Behavior. An autism diagnosis is indicated when scores in all three behavioral areas meet the specified minimum cutoff scores, with higher scores indicating more severe autistic features.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in CANTAB® cognitive tests - Multitasking Test (MTT)</measure>
+    <time_frame>Day 1 of intervention, and 1 day after the last day of intervention (2 time points)</time_frame>
+    <description>Cambridge Neuropsychological Test Automated Battery (CANTAB®) includes computerized tests correlated to neural networks and have demonstrated high sensitivity in detecting changes in neuropsychological performance.&#xD;
+MTT assesses the ability to resolve the interference of task-irrelevant information (stroop-like effect). The test displays an arrow which can appear on either the left or right side of the screen and can point to either the left or right side. In each trial, participants are presented with a cue that indicates which button to press according to two different rules. And the rules that participants have to follow may change from trial to trial in a randomized order. Participant's response latencies and error scores will be measured.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in CANTAB® cognitive tests - Stop Signal Task (SST)</measure>
+    <time_frame>Day 1 of intervention, and 1 day after the last day of intervention (2 time points)</time_frame>
+    <description>SST assesses a participants' motor inhibition of a prepotent response. The participant is required to respond to an arrow stimulus by selecting one of two options, depending on the direction in which the arrow points. If an audio tone is present, the subject must withhold making the response.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in CANTAB® cognitive tests - Emotion Recognition Task (ERT)</measure>
+    <time_frame>Day 1 of intervention, and 1 day after the last day of intervention (2 time points)</time_frame>
+    <description>ERT assesses emotional recognition ability of an individual. The participant is required to determine the emotion of the face displayed from 6 options (i.e. sadness, happiness, fear, anger, disgust or surprise) after viewing the facial features of real individuals for 200 milliseconds.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Neurophysiological measures</measure>
+    <time_frame>Day 1 of intervention, and 1 day after the last day of intervention (2 time points)</time_frame>
+    <description>EEG resting-state theta coherence (4-7.5 Hz) will be computed from EEG signals collected from the 19 electrode positions (Fp1, Fp2, F3, F4, F7, F8, Fz, T3, T4, T5, T6, C3, C4, Cz, P3, P4, Pz, O1, and O2). Four mean coherence values will be computed, including two intra-hemispheric theta coherence values (intra-left frontoposterior: F7-P3, F7-O1, F3-P3, F3-O1; and intra-right frontoposterior: F8-P4, F8-O2, F4-P4, F4-O2); and two inter-hemispheric theta coherence values (inter-frontal: F3-F4, F7-F8, F3-F8, F4-F7; and inter-frontoposterior: F7-P4, F7-O2, F3-P4, F3-O2, F8-P3, F8-O1, F4-P3 and F4-O1). Each coherence value will then be transformed using Fisher's Z-transformation.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>Transcranial Direct Current Stimulation</condition>
+  <condition>Autistic Disorders Spectrum</condition>
+  <condition>Electroencephalography</condition>
+  <condition>Machine Learning</condition>
+  <arm_group>
+    <arm_group_label>Responders vs Non-responders</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>After the tDCS outcome recorded immediately after tDCS treatment, participants will be categorized into responders and non-responders based on the percentage of change in the total SRS score (primary outcome). Participants that show reductions of at least 10% in the total SRS scores as compared to baseline scores will be considered responders.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>tDCS</intervention_name>
+    <description>Active-tDCS over 10 sessions in 2 weeks (once per day, for 10 consecutive working days), while performing the executive function training tasks. Also, participants will complete an online cognitive training program while they receive active tDCS stimulation for 10 training sessions. The training session will last for 20 minutes and the online cognitive training program is comprised of 5 exercises targeting at information processing speed and executive function capacities. Each exercise lasts for approximately 4 minutes, totaling approximately 20 minutes.</description>
+    <arm_group_label>Responders vs Non-responders</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Individuals who are confirmed by a clinical psychologist based on the Diagnostic and&#xD;
+             Statistical Manual of Mental Disorders-5th Ed (DSM-V) criteria of Autism spectrum&#xD;
+             disorder and structured interview with their parents or primary caregivers on their&#xD;
+             developmental history using the Autism Diagnostic Interview-Revised (ADI-R).&#xD;
+&#xD;
+          -  Individuals with intelligence quotient above 60.&#xD;
+&#xD;
+          -  Individuals who demonstrate the ability to comprehend testing and stimulation&#xD;
+             instructions.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Individuals with severe motor dysfunctions that would hinder their participation, and&#xD;
+             those with history of other neurological and psychiatric disorders and head trauma, or&#xD;
+             on psychiatric medication will be excluded from the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>22 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yvonne Han, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Hong Kong Polytechnic University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yvonne Han, PhD</last_name>
+    <phone>2766 7578</phone>
+    <email>yvonne.han@polyu.edu.hk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Melody Chan, BSc</last_name>
+    <email>mei-yan-melody.chan@connect.polyu.hk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>The Hong Kong Polytechnic University</name>
+      <address>
+        <city>Hung Hom</city>
+        <state>Kowloon</state>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Hong Kong</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>August 30, 2021</study_first_submitted>
+  <study_first_submitted_qc>August 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 5, 2021</study_first_posted>
+  <last_update_submitted>September 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The Hong Kong Polytechnic University</investigator_affiliation>
+    <investigator_full_name>Dr Yvonne Han</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Autism Spectrum Disorder</mesh_term>
+    <mesh_term>Autistic Disorder</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

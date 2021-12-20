@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2102">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05133791</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-000866-13</org_study_id>
+    <nct_id>NCT05133791</nct_id>
+  </id_info>
+  <brief_title>NIR Fluorescence Molecular Imaging of ANXV-800CW in RVO Patients</brief_title>
+  <acronym>SIGHT</acronym>
+  <official_title>Near-Infrared Fluorescence Molecular Imaging of ANXV-800CW to Visualize Its Biodistribution in the Eyes of Patients Suffering From Retinal Vein Occlusion</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Medical Center Groningen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Medical Center Groningen</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective is safety, tolerability and feasibility of systemic intravenous&#xD;
+      injection of ANXV-800CW in patients with RVO in three dosing-cohorts in a phase I safety&#xD;
+      study. Secondary objectives are to determine in the pre-mentioned dosing-cohorts the&#xD;
+      pharmacokinetic profile of ANXV-800CW and to determine phosphatidylserine availability as&#xD;
+      measured by flow cytometry in whole blood before and after ANXV-800CW administration.&#xD;
+&#xD;
+      Study design: non-randomized, non-blinded, prospective, mono-center safety/ feasibility dose&#xD;
+      optimization study&#xD;
+&#xD;
+      Study population: Patients referred for (sub-)acute blurred vision with the diagnosis of RVO&#xD;
+      aged 18-85 years, fertile females excluded.&#xD;
+&#xD;
+      Intervention: All patients will undergo a standard of care ophthalmological work-up to&#xD;
+      establish the diagnosis of RVO. In the context of this study, Fluoresceine Angiography (FA)&#xD;
+      will be added to the ophthalmological work-up for all patients. Furthermore, the patients&#xD;
+      will receive a systemic single-dose injection of ANXV-800CW as part of a optimization study,&#xD;
+      followed by NIR retinal fluorescence imaging.&#xD;
+&#xD;
+      Main study parameters/endpoints: The main study parameters studies are safety, tolerability&#xD;
+      and feasibility of near-infrared fluorescent imaging in the retina of patients with RVO&#xD;
+      related to the systemic injection of ANXV-800CW.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 23, 2021</start_date>
+  <completion_date type="Anticipated">January 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>non-randomized, non-blinded, prospective, mono-center safety/ feasibility dose optimization study</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety of near-infrared fluorescent imaging in the retina of patients with RVO related to the systemic injection of ANXV-800CW</measure>
+    <time_frame>1.5 years</time_frame>
+    <description>Safety will be assessed by looking at AEs,SAEs, and SUSARs as identified by a questionnaire, but also by looking at vital signs: blood pressure (mmHg), heart rate (beats per minute), temperature (degrees celsius) respiratory rate (breaths per minute)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tolerability of near-infrared fluorescent imaging in the retina of patients with RVO related to the systemic injection of ANXV-800CW</measure>
+    <time_frame>1.5 years</time_frame>
+    <description>Tolerability will be assessed by looking at AEs,SAEs, and SUSARs as identified by a questionnaire, but also by looking at vital signs: blood pressure (mmHg), heart rate (beats per minute), temperature (degrees celsius) respiratory rate (breaths per minute)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility of near-infrared fluorescent imaging in the retina of patients with RVO related to the systemic injection of ANXV-800CW</measure>
+    <time_frame>1.5 years</time_frame>
+    <description>Fluorescence intensity (Arbitrary Units) will be measured by using the NIR imaging system and the target to background ratio (reported as the mean, SD, and range) will be calculated from fluorescence images</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">16</enrollment>
+  <condition>Retinal Vein Occlusion</condition>
+  <arm_group>
+    <arm_group_label>0.5 mg</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Annexin A5-CW800, 0.5 mg, 1 dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>1.0 mg</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Annexin A5-CW800, 1.0 mg, 1 dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2.0 mg</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Annexin A5-CW800, 2.0 mg, 1 dose</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Annexin A5</intervention_name>
+    <description>Annexin A5 coupled to IRDye800CW as a potential treatment for RVO</description>
+    <arm_group_label>0.5 mg</arm_group_label>
+    <arm_group_label>1.0 mg</arm_group_label>
+    <arm_group_label>2.0 mg</arm_group_label>
+    <other_name>Flurescein Angiography</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Willing to adhere to the prohibitions and restrictions specified in this protocol.&#xD;
+&#xD;
+          -  Capable of giving signed informed consent (voluntarily), indicating that the patient&#xD;
+             understands the purpose and procedures required for the study and is willing to comply&#xD;
+             with the requirements and restrictions listed in the informed consent form and in this&#xD;
+             protocol.&#xD;
+&#xD;
+          -  Patients aged 18-85 years inclusive at moment signing informed consent form.&#xD;
+&#xD;
+          -  Established (sub) acute Retinal Vein Occlusion&#xD;
+&#xD;
+             o Branch retinal vein occlusion (BRVO) or Central retinal vein occlusion (CRVO)&#xD;
+&#xD;
+          -  BMI ≥ 18.0 and ≤ 30.0 kg/m2 and weight at least 50 kg and no more than 100 kg at&#xD;
+             screening.&#xD;
+&#xD;
+          -  Overtly healthy based on medical history, physical findings, vital signs, ECG at the&#xD;
+             time of screening, as judged by the Investigator.&#xD;
+&#xD;
+             o Note: one retest of vital functions and ECG is allowed within the screening window&#xD;
+&#xD;
+          -  No clinically significant laboratory abnormalities as determined by the investigator&#xD;
+&#xD;
+             o Note: one retest of lab tests is allowed within the screening window&#xD;
+&#xD;
+          -  Female patients should fulfil one of the following criteria:&#xD;
+&#xD;
+               -  At least 1 year post-menopausal (amenorrhea &gt;12 months and/or&#xD;
+                  follicle-stimulating hormone &gt;30 mIU/mL) at screening;&#xD;
+&#xD;
+               -  Surgically sterile (bilateral oophorectomy, hysterectomy, or tubal ligation);&#xD;
+&#xD;
+          -  Male subjects who are sexually active with a female partner of childbearing potential&#xD;
+             must agree to the use of an effective method of birth control, and must not donate&#xD;
+             sperm, until 3 months after administration of ANXV-800CW.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        General&#xD;
+&#xD;
+          -  Behavioral or cognitive impairment or psychiatric disease that in the opinion of the&#xD;
+             investigator affects the ability of the patient to understand and cooperate with the&#xD;
+             study protocol&#xD;
+&#xD;
+          -  Deprived of freedom by an administrative or court order or in an emergency setting.&#xD;
+&#xD;
+          -  Insufficient venous access for the study procedures.&#xD;
+&#xD;
+          -  Close affiliation with the investigator; e.g. a close relative of the investigator,&#xD;
+             dependent person (e.g. employee or student), employee of the department of&#xD;
+             Ophthalmology of the UMCG, TRACER or affiliates&#xD;
+&#xD;
+          -  Plasma donation within one month of visit 1 or blood donation of &gt;450 ml during the&#xD;
+             three months prior to visit 1&#xD;
+&#xD;
+          -  Any finding in the medical examinations or medical history giving, in the opinion of&#xD;
+             the Investigator, reasonable suspicion of a disease or condition that makes treatment&#xD;
+             with the investigational drug unadvisable, or that might affect interpretation of the&#xD;
+             results of the study or render the patient at high risk for treatment complications&#xD;
+&#xD;
+          -  Participation in an interventional clinical study within 30 days prior to screening&#xD;
+             visit (visit 1) that involved treatment with any drug (excluding vitamins and&#xD;
+             minerals) or medical device&#xD;
+&#xD;
+          -  Current alcohol/illicit drug abuse or addiction: history or evidence of current drug&#xD;
+             use or addiction (positive urine drug screen for amphetamines, barbiturates,&#xD;
+             benzodiazepines, cannabinoids, cocaine, or opiates) or excessive use of alcohol at&#xD;
+             screening.&#xD;
+&#xD;
+          -  Positive blood for safety: positive blood test on Hepatitis B, Hepatitis C and HIV.&#xD;
+&#xD;
+        Medical conditions&#xD;
+&#xD;
+          -  Previous confirmed COVID19 disease requiring hospital care or positive COVID19 test at&#xD;
+             visit 1.&#xD;
+&#xD;
+          -  Eye disease that significantly interferes with fundus examinations in one or both eyes&#xD;
+&#xD;
+          -  Dilatation of the pupil &lt; 5 mm in the study eye&#xD;
+&#xD;
+          -  Ocular inflammation (including trace or more severe) or conjunctivitis at screening,&#xD;
+             or history of uveitis in either eye&#xD;
+&#xD;
+          -  Only one functional eye&#xD;
+&#xD;
+          -  History of Thromboembolic events or deep venous thrombosis &lt; 6 months of screening&#xD;
+             visit (visit 1)&#xD;
+&#xD;
+          -  Usage of anticoagulant medication (any form)&#xD;
+&#xD;
+          -  Usage of benzodiazepines&#xD;
+&#xD;
+          -  History of significant bleeding (gross haematuria, haemoptysis, gastrointestinal tract&#xD;
+             bleeding)&#xD;
+&#xD;
+          -  Evidence or history of a hypercoagulable state (e.g. shortened APTT).&#xD;
+&#xD;
+          -  Document history of autoimmune disease with anticipated presence of potentially&#xD;
+             pathogenic Annexin A5 antibodies, e.g. antiphospholipid syndrome, systemic lupus&#xD;
+             erythematosus or systemic sclerosis.&#xD;
+&#xD;
+          -  Confirmed thalassemia (e.g sickle cell disease)&#xD;
+&#xD;
+          -  Any history of coronary artery disease or cerebrovascular accident within the last 6&#xD;
+             months.&#xD;
+&#xD;
+          -  Arterial hypotension with systolic blood pressure &lt; 100 or diastolic blood pressure &lt;&#xD;
+             60 mmHg&#xD;
+&#xD;
+          -  Uncontrolled arterial hypertension, defined as systolic blood pressure &gt; 160 mmHg or&#xD;
+             diastolic blood pressure &gt; 100 mmHg&#xD;
+&#xD;
+          -  Cardiac impairment with an estimated LVEF &lt; 35 % Prolonged QTcF (&gt;450 ms), cardiac&#xD;
+             arrhythmias or any clinically significant abnormalities in the resting ECG at the time&#xD;
+             of screening, as judged by the investigator&#xD;
+&#xD;
+          -  History of or a currently active hepatic or biliary disease&#xD;
+&#xD;
+          -  History of or a currently active neurological disease&#xD;
+&#xD;
+          -  eGFR (based on plasma-creatinine) outside of normal range at screening or known renal&#xD;
+             impairment (≤70 mL/min).&#xD;
+&#xD;
+          -  Any abnormalities in the vital signs of the patient, as judged by the investigator, as&#xD;
+             a result of which the patient cannot participate&#xD;
+&#xD;
+          -  Any clinically significant illness, medical/surgical procedure or trauma within 4&#xD;
+             weeks of the administration of IMP.&#xD;
+&#xD;
+          -  Current evidence or history of bacterial, viral or fungal infections within 7 days&#xD;
+             before ANXV-800CW administration as judged by the Investigator.&#xD;
+&#xD;
+             o T &gt; = 38.0°C or lab confirmed viral/bacterial/fungal infection (PCR)) or symptoms&#xD;
+             suggestive of an infection)&#xD;
+&#xD;
+          -  Any planned major surgery within the duration of the study (until visit 3), with the&#xD;
+             exception of any emergency surgeries.&#xD;
+&#xD;
+          -  Any laboratory test which is abnormal, and which is deemed by the Investigator(s) to&#xD;
+             be clinically significant&#xD;
+&#xD;
+          -  A history of anaphylaxis, history of allergic reaction(s), known allergy to one of the&#xD;
+             drugs or excipients administered as part of this study. Mild allergies without&#xD;
+             angio-edema or treatment need can be acceptable if deemed not to be of clinical&#xD;
+             significance (including but not limited to allergy to animals or mild seasonal hay&#xD;
+             fever)&#xD;
+&#xD;
+          -  A history of asthma within the past 10 years, or a current diagnosis of asthma or&#xD;
+             reactive airway disease associated with exercise&#xD;
+&#xD;
+        Prior therapy&#xD;
+&#xD;
+          -  Any prior systemic anti-VEGF treatment or intravitreal (IVT) anti-VEGF treatment in&#xD;
+             the affected eye within a period of 3 months prior to start of the study&#xD;
+&#xD;
+          -  Any prior intraocular steroid injection in the affected eye within a period of 3&#xD;
+             months prior to start of the study&#xD;
+&#xD;
+          -  Any prior grid or focal laser photocoagulation within 500 microns of the foveal center&#xD;
+             or any prior panretinal photocoagulation (PRP) in the affected eye&#xD;
+&#xD;
+          -  Any intraocular eye surgery in the affected eye within a period of 3 months prior to&#xD;
+             start of the study&#xD;
+&#xD;
+          -  Yttrium-Aluminum-Garnet laser treatment performed within 28 days before screening, in&#xD;
+             the affected eye&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Yester Janssen, MD</last_name>
+    <phone>+31615170900</phone>
+    <email>y.f.janssen@umcg.nl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Hendrikus Boersma, PharmD, PhD</last_name>
+    <email>h.h.boersma@umcg.nl</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>UMCG</name>
+      <address>
+        <city>Groningen</city>
+        <zip>9700RB</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yester Janssen, MD</last_name>
+      <phone>+31615170900</phone>
+      <email>y.f.janssen@umcg.nl</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 16, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 24, 2021</study_first_posted>
+  <last_update_submitted>November 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University Medical Center Groningen</investigator_affiliation>
+    <investigator_full_name>H.H. Boersma</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Near Infra red (NIR)</keyword>
+  <keyword>Fluorescence molecular imaging</keyword>
+  <keyword>Annexin A5-800CW</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Retinal Vein Occlusion</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Annexin A5</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

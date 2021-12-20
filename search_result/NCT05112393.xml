@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3748">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05112393</url>
+  </required_header>
+  <id_info>
+    <org_study_id>eGFR MY</org_study_id>
+    <nct_id>NCT05112393</nct_id>
+  </id_info>
+  <brief_title>Development and Validation of Creatinine-Based Estimates of the Glomerular Filtration Rate Equation</brief_title>
+  <official_title>Development and Validation of Creatinine-Based Estimates of the Glomerular Filtration Rate Equation From Chromium EDTA Imaging in the Multi-racial Malaysian Population</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Malaya</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Malaya</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aim to recruit all Electronic Medical Record of patients who underwent for&#xD;
+      51chromium ethylenediamine tetra acetic acid (51Cr-EDTA) imaging at the Nuclear Medicine&#xD;
+      Centre, University Malaya Medical Centre from September 2016 to September 2021. The data that&#xD;
+      collected will be analyzed to develop and validate a new equation to estimate Glomerular&#xD;
+      Filtration Rate that specifically for Malaysian multiracial population.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      List of patients who underwent for 51Cr EDTA imaging at the Nuclear Medicine Centre,&#xD;
+      University Malaya Medical Centre from September 2016 to September 2021 will be obtained from&#xD;
+      relevant department. All patient's Electronic Medical Record (EMR) will be evaluated for&#xD;
+      recruitment into the study.&#xD;
+&#xD;
+      Demographics data of the patients that will be collected include age, gender, height, weight,&#xD;
+      and ethnicity. The clinical data that will be collected include CKD aetiology, background&#xD;
+      comorbidities, and vitals sign and laboratory data includes the renal function test. The&#xD;
+      51Cr- EDTA readings were also recorded.&#xD;
+&#xD;
+      If there are multiple measurements of scans performed, the latest 51Cr-EDTA taken. The renal&#xD;
+      function test must be within three months of when the 51Cr-EDTA imaging was conducted.&#xD;
+&#xD;
+      Patients will be randomized into a development and validation cohort using a random number&#xD;
+      generated in Microsoft Excel. In the development cohort, a new equation will be developed&#xD;
+      using a nonlinear regression model utilizing a generalized least squares algorithm. Internal&#xD;
+      validation will be performed in the validation cohort, by comparing the bias, precision, and&#xD;
+      accuracy of the new equations and the other established equations to the measured GFR.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2021</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">August 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>New equation to estimate GFR that can be used specifically in Malaysian multiracial population</measure>
+    <time_frame>From 1st December 2021 to 31st December 2022</time_frame>
+    <description>New equation that has its own ethnic coefficient that can produce accurate result in Malaysia multiracial population</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Renal Function Disorder</condition>
+  <arm_group>
+    <arm_group_label>Development Cohort</arm_group_label>
+    <description>Half of the data will be randomized into development cohort by using a random number generated in Microsoft Excel. This cohort aim to develop a new estimating Glomerular Filtration Rate (eGFR) equation that produce accurate eGFR specifically in Malaysian multiracial population.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Validation Cohort</arm_group_label>
+    <description>Half of the data will be randomized into development cohort by using a random number generated in Microsoft Excel. This cohort aim to validate the newly developed estimating Glomerular Filtration Rate (eGFR) equation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Development of new estimating Glomerular Filtration Rate (eGFR) equation</intervention_name>
+    <description>Development Cohort:&#xD;
+A new estimating Glomerular Filtration Rate(eGFR) equation will be developed by using a nonlinear regression model utilizing a generalized least squares algorithm.</description>
+    <arm_group_label>Development Cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Validation of new estimating Glomerular Filtration Rate (eGFR) equation</intervention_name>
+    <description>Validation Cohort:&#xD;
+Internal validation will be performed by comparing bias, precision and accuracy of the new equations and the other established equations to the measured GFR.</description>
+    <arm_group_label>Validation Cohort</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Electronic Medical Records of patient scheduled for 51Cr EDTA imaging at the Nuclear&#xD;
+        Medicine Centre, University Malaya Medical Centre from September 2016 to September 2021&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Electronic Medical Records of patient scheduled for 51Cr EDTA imaging at the Nuclear&#xD;
+             Medicine Centre, University Malaya Medical Centre from September 2016 to September&#xD;
+             2021&#xD;
+&#xD;
+          -  Age 16-year-old and above&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Electronic Medical Records of patients with missing data.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ina Ismiarti Shariffuddin</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Malaya</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ina Ismiarti Shariffuddin</last_name>
+    <phone>+10122353134</phone>
+    <email>ismiarti@ummc.edu.my</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University Malaya Medical Centre</name>
+      <address>
+        <city>Kuala Lumpur</city>
+        <zip>59100</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Malaysia</country>
+  </location_countries>
+  <reference>
+    <citation>Diego E, Castro P, Soy D, Poch E, Nicolás JM. Predictive performance of glomerular filtration rate estimation equations based on cystatin C versus serum creatinine values in critically ill patients. Am J Health Syst Pharm. 2016 Feb 15;73(4):206-15. doi: 10.2146/ajhp140852.</citation>
+    <PMID>26843497</PMID>
+  </reference>
+  <reference>
+    <citation>Bragadottir G, Redfors B, Ricksten SE. Assessing glomerular filtration rate (GFR) in critically ill patients with acute kidney injury--true GFR versus urinary creatinine clearance and estimating equations. Crit Care. 2013 Jun 15;17(3):R108. doi: 10.1186/cc12777.</citation>
+    <PMID>23767877</PMID>
+  </reference>
+  <reference>
+    <citation>Cockcroft DW, Gault MH. Prediction of creatinine clearance from serum creatinine. Nephron. 1976;16(1):31-41.</citation>
+    <PMID>1244564</PMID>
+  </reference>
+  <reference>
+    <citation>Levey AS, Bosch JP, Lewis JB, Greene T, Rogers N, Roth D. A more accurate method to estimate glomerular filtration rate from serum creatinine: a new prediction equation. Modification of Diet in Renal Disease Study Group. Ann Intern Med. 1999 Mar 16;130(6):461-70.</citation>
+    <PMID>10075613</PMID>
+  </reference>
+  <reference>
+    <citation>Levey AS, Stevens LA, Schmid CH, Zhang YL, Castro AF 3rd, Feldman HI, Kusek JW, Eggers P, Van Lente F, Greene T, Coresh J; CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration). A new equation to estimate glomerular filtration rate. Ann Intern Med. 2009 May 5;150(9):604-12. Erratum in: Ann Intern Med. 2011 Sep 20;155(6):408.</citation>
+    <PMID>19414839</PMID>
+  </reference>
+  <reference>
+    <citation>Rule AD, Teo BW. GFR estimation in Japan and China: what accounts for the difference? Am J Kidney Dis. 2009 Jun;53(6):932-5. doi: 10.1053/j.ajkd.2009.02.011.</citation>
+    <PMID>19463761</PMID>
+  </reference>
+  <reference>
+    <citation>Matsuo S, Yasuda Y, Imai E, Horio M. Current status of estimated glomerular filtration rate (eGFR) equations for Asians and an approach to create a common eGFR equation. Nephrology (Carlton). 2010 Jun;15 Suppl 2:45-8. doi: 10.1111/j.1440-1797.2010.01313.x. Review.</citation>
+    <PMID>20586948</PMID>
+  </reference>
+  <reference>
+    <citation>Zelnick LR, Leca N, Young B, Bansal N. Association of the Estimated Glomerular Filtration Rate With vs Without a Coefficient for Race With Time to Eligibility for Kidney Transplant. JAMA Netw Open. 2021 Jan 4;4(1):e2034004. doi: 10.1001/jamanetworkopen.2020.34004.</citation>
+    <PMID>33443583</PMID>
+  </reference>
+  <reference>
+    <citation>Matsuo S, Imai E, Horio M, Yasuda Y, Tomita K, Nitta K, Yamagata K, Tomino Y, Yokoyama H, Hishida A; Collaborators developing the Japanese equation for estimated GFR. Revised equations for estimated GFR from serum creatinine in Japan. Am J Kidney Dis. 2009 Jun;53(6):982-92. doi: 10.1053/j.ajkd.2008.12.034. Epub 2009 Apr 1.</citation>
+    <PMID>19339088</PMID>
+  </reference>
+  <reference>
+    <citation>Jeong TD, Lee W, Yun YM, Chun S, Song J, Min WK. Development and validation of the Korean version of CKD-EPI equation to estimate glomerular filtration rate. Clin Biochem. 2016 Jun;49(9):713-719. doi: 10.1016/j.clinbiochem.2016.01.023. Epub 2016 Mar 9.</citation>
+    <PMID>26968101</PMID>
+  </reference>
+  <reference>
+    <citation>Praditpornsilpa K, Townamchai N, Chaiwatanarat T, Tiranathanagul K, Katawatin P, Susantitaphong P, Trakarnvanich T, Kanjanabuch T, Avihingsanon Y, Tungsanga K, Eiam-Ong S. The need for robust validation for MDRD-based glomerular filtration rate estimation in various CKD populations. Nephrol Dial Transplant. 2011 Sep;26(9):2780-5. doi: 10.1093/ndt/gfq815. Epub 2011 Feb 28.</citation>
+    <PMID>21357214</PMID>
+  </reference>
+  <reference>
+    <citation>Assadi M, Eftekhari M, Hozhabrosadati M, Saghari M, Ebrahimi A, Nabipour I, Abbasi MZ, Moshtaghi D, Abbaszadeh M, Assadi S. Comparison of methods for determination of glomerular filtration rate: low and high-dose Tc-99m-DTPA renography, predicted creatinine clearance method, and plasma sample method. Int Urol Nephrol. 2008;40(4):1059-65. doi: 10.1007/s11255-008-9446-4. Epub 2008 Aug 9.</citation>
+    <PMID>18690545</PMID>
+  </reference>
+  <reference>
+    <citation>Liu X, Qiu X, Shi C, Huang H, Huang J, Li M, Lou T. Modified glomerular filtration rate-estimating equations developed in asiatic population for chinese patients with type 2 diabetes. Int J Endocrinol. 2014;2014:521071. doi: 10.1155/2014/521071. Epub 2014 Mar 5.</citation>
+    <PMID>24734043</PMID>
+  </reference>
+  <reference>
+    <citation>Liao Y, Liao W, Liu J, Xu G, Zeng R. Assessment of the CKD-EPI equation to estimate glomerular filtration rate in adults from a Chinese CKD population. J Int Med Res. 2011;39(6):2273-80.</citation>
+    <PMID>22289543</PMID>
+  </reference>
+  <reference>
+    <citation>Ma YC, Zuo L, Zhang CL, Wang M, Wang RF, Wang HY. Comparison of 99mTc-DTPA renal dynamic imaging with modified MDRD equation for glomerular filtration rate estimation in Chinese patients in different stages of chronic kidney disease. Nephrol Dial Transplant. 2007 Feb;22(2):417-23. Epub 2006 Oct 19.</citation>
+    <PMID>17053082</PMID>
+  </reference>
+  <reference>
+    <citation>Madala ND, Nkwanyana N, Dubula T, Naiker IP. Predictive performance of eGFR equations in South Africans of African and Indian ancestry compared with ⁹⁹mTc-DTPA imaging. Int Urol Nephrol. 2012 Jun;44(3):847-55. doi: 10.1007/s11255-011-9928-7. Epub 2011 Mar 5.</citation>
+    <PMID>21373844</PMID>
+  </reference>
+  <reference>
+    <citation>Jalalonmuhali M, Kok Peng N, Soo Kun L. Comparative Performance of Creatinine-Based Estimated Glomerular Filtration Rate Equations in the Malays: A Pilot Study in Tertiary Hospital in Malaysia. Int J Nephrol. 2017;2017:2901581. doi: 10.1155/2017/2901581. Epub 2017 Jun 18.</citation>
+    <PMID>28702264</PMID>
+  </reference>
+  <reference>
+    <citation>Jalalonmuhali M, Lim SK, Md Shah MN, Ng KP. MDRD vs. CKD-EPI in comparison to (51)Chromium EDTA: a cross sectional study of Malaysian CKD cohort. BMC Nephrol. 2017 Dec 13;18(1):363. doi: 10.1186/s12882-017-0776-2.</citation>
+    <PMID>29237422</PMID>
+  </reference>
+  <reference>
+    <citation>Jalalonmuhali M, Elagel SMA, Tan MP, Lim SK, Ng KP. Estimating Renal Function in the Elderly Malaysian Patients Attending Medical Outpatient Clinic: A Comparison between Creatinine Based and Cystatin-C Based Equations. Int J Nephrol. 2018 May 13;2018:3081518. doi: 10.1155/2018/3081518. eCollection 2018.</citation>
+    <PMID>29862077</PMID>
+  </reference>
+  <reference>
+    <citation>Md Ralib A, Mohd Hanafiah FN, Abd Rashid I, Abd Rahim MS, Dzaharudin F, Mat Nor MB. Development and Validation of Creatinine-Based Estimates of the Glomerular Filtration Rate Equation from (99m)Tc-DTPA Imaging in the Malaysian Setting. Int J Nephrol. 2021 Sep 8;2021:3465472. doi: 10.1155/2021/3465472. eCollection 2021.</citation>
+    <PMID>34540290</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 8, 2021</study_first_posted>
+  <last_update_submitted>October 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

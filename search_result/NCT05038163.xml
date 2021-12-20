@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9456">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05038163</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-08-13558</org_study_id>
+    <secondary_id>P30AG034532</secondary_id>
+    <nct_id>NCT05038163</nct_id>
+  </id_info>
+  <brief_title>Are Sugar-Sweetened Beverage Information Labels Well-Targeted</brief_title>
+  <official_title>Are Sugar-Sweetened Beverage Information Labels Well-Targeted: Evidence and Welfare Implications</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Bureau of Economic Research, Inc.</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of California, Berkeley</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Bureau of Economic Research, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      We will study the extent to which soft drink information labels -- designed to curb unhealthy&#xD;
+      consumption -- are well-targeted to the most biased consumers.The study team will deploy&#xD;
+      novel methods for evaluating the targeting properties of information labels via an&#xD;
+      incentive-compatible online shopping experiment. At a high-level, we will ask whether the&#xD;
+      treatment effects of the information labels are concentrated on individuals with the biggest&#xD;
+      self-control problems and with the least knowledge of nutrition. We will first use the&#xD;
+      methodology from Allcott et al. (2019) to estimate the internality for each participant. We&#xD;
+      will then have participants make shopping decisions for soft drinks, first absent any&#xD;
+      information labels and then, for those not in the control group, in the presence of an&#xD;
+      information label. The within-subject design of the soft drinks experiment will allow us to&#xD;
+      estimate how the effects of the labels covary with consumers' internalities, and thus to&#xD;
+      determine whether the labels are well-targeted.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      We will use online ads to recruit people who are shopping online for soda, and direct them to&#xD;
+      a two-stage online Qualtrics experiment. In the first stage (Part I), we will elicit&#xD;
+      subjects' nutritional literacy and self-control for resisting sugary drinks, following the&#xD;
+      methodology of Allcott et al. (2019). Allcott et al. (2019) show that these two measures&#xD;
+      explain 31% of sugary drinks consumption in a nationally-representative sample of&#xD;
+      approximately 20,000 households, after controlling for detailed demographic information and&#xD;
+      elicitations of &quot;tastes&quot; for various types of drinks. Additionally, Allcott et al. (2019)&#xD;
+      demonstrate how these measures can be used to provide an estimate of over-consumption of&#xD;
+      sugary drinks at the individual level. Consequently, the first stage allows us to obtain&#xD;
+      estimates of the internality.&#xD;
+&#xD;
+      A week later, we will recruit participants in the first stage to participate in the second&#xD;
+      stage of the experiment (Part II). We create a time delay to minimize the potential effect of&#xD;
+      the first-stage questions on the second-stage choices. In the second stage, we will first ask&#xD;
+      participants to select their three favorite sugary drinks from a list. We will then ask&#xD;
+      participants to make an initial set of choices between those drinks and sugar-free&#xD;
+      alternatives (e.g., Seagram's Ginger Ale versus 365 Ginger) at various relative prices.&#xD;
+      Specifically, we will elicit their willingness to pay using a multiple price list, as is&#xD;
+      standard in the behavioral economics literature, where consumers answer a series of questions&#xD;
+      about whether they would prefer to buy a sugar-sweetened beverage at price X or a sugar-free&#xD;
+      alternative at price Y. Choices will be incentive-compatible: for each consumer we will honor&#xD;
+      their choice in a randomly selected decision (i.e., we will purchase the chosen package of&#xD;
+      soft drinks for them plus award them any additional money associated with that choice).&#xD;
+&#xD;
+      Following an initial set of choices, we will ask subjects to choose again. In this second set&#xD;
+      of choices, we will randomize whether participants see the soft drink options paired with an&#xD;
+      information label. We will also randomize the types of labels, including: (i) an inflated&#xD;
+      nutrition label that draws attention to the differences in calories and sugar content, (ii)&#xD;
+      the stoplight warning label developed by Grummon, Hall, et al. (2019), and (iii) a graphic&#xD;
+      warning label developed by Donnelly et al. (2018). The control group will instead make the&#xD;
+      same choices without seeing any label. Leveraging the within-subject nature of design, we&#xD;
+      will then estimate how well-targeted each information label is by estimating how the&#xD;
+      subjects' internalities covary with their changes in the prices at which they are willing to&#xD;
+      buy soft drinks after seeing the information label.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 18, 2021</start_date>
+  <completion_date type="Anticipated">December 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Willingness to purchase sugar-sweetened beverage vs. sugar-free alternative</measure>
+    <time_frame>1 week after recruitment (during Part II of the experiment)</time_frame>
+    <description>How much consumers like, or are willing to pay for, sugar-sweetened beverages when compared to a sugar-free alternative. We will elicit this using a multiple price list, as is standard in the behavioral economics literature, where consumers answer a series of questions about whether they would prefer to buy a sugar-sweetened beverage at price X or a sugar-free alternative at price Y. We will measure their willingness to pay once before seeing the information label and again in the presence of the information label.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Willingness to purchase sugar-sweetened beverage vs. sugar-free alternative, among adults aged 65+</measure>
+    <time_frame>1 week after recruitment (during Part II of the experiment)</time_frame>
+    <description>How much older adult consumers like, or are willing to pay for, sugar-sweetened beverages when compared to a sugar-free alternative. We will elicit this using a multiple price list, as is standard in the behavioral economics literature, where consumers answer a series of questions about whether they would prefer to buy a sugar-sweetened beverage at price X or a sugar-free alternative at price Y. We will measure their willingness to pay once before seeing the information label and again in the presence of the information label.</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Willingness to purchase sugar-sweetened beverage vs. sugar-free alternative, by subgroups</measure>
+    <time_frame>1 week after recruitment (during Part II of the experiment)</time_frame>
+    <description>How much different groups of consumers like, or are willing to pay for, sugar-sweetened beverages when compared to a sugar-free alternative. We will elicit this using a multiple price list, as is standard in the behavioral economics literature, where consumers answer a series of questions about whether they would prefer to buy a sugar-sweetened beverage at price X or a sugar-free alternative at price Y. We will measure their willingness to pay once before seeing the information label and again in the presence of the information label.</description>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">3000</enrollment>
+  <condition>Soft Drink Consumption</condition>
+  <condition>Sugar-sweetened Beverages</condition>
+  <condition>Information Labels</condition>
+  <arm_group>
+    <arm_group_label>Control Arm</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>In Part II of the experiment, subjects are not presented with nutrition or warning labels when choosing between beverages.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Nutrition Labels Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In Part II of the experiment, subjects are shown enlarged nutrition labels when choosing between beverages.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Text Warning Labels Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In Part II of the experiment, subjects are shown a warning message about the health risks of sugary beverages when choosing between beverages.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Graphic Warning Labels Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In Part II of the experiment, subjects are shown a graphic warning message about the health risks of sugary beverages when choosing between beverages. The message, for example, could include photos of tooth decay and other negative health outcomes.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Nutrition Facts</intervention_name>
+    <description>The nutritional information label for each beverage is enlarged.</description>
+    <arm_group_label>Nutrition Labels Arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Text Warning</intervention_name>
+    <description>The health risks of sugary beverages are communicated to subjects using words/text and simple images.</description>
+    <arm_group_label>Text Warning Labels Arm</arm_group_label>
+    <other_name>Stoplight Warning</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Graphic Warning</intervention_name>
+    <description>The health risks of sugary beverages are communicated to subjects using a combination of words/text and graphic images/photographs.</description>
+    <arm_group_label>Graphic Warning Labels Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  US resident&#xD;
+&#xD;
+          -  Shopping online for sugar-sweetened beverages&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  n/a&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dmitry Taubinsky, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UC Berkeley and NBER</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>William Morrison, BA</last_name>
+    <phone>603-714-9281</phone>
+    <email>wmorrison@berkeley.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of California, Berkeley</name>
+      <address>
+        <city>Berkeley</city>
+        <state>California</state>
+        <zip>94720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel Cohen</last_name>
+      <email>daniel.m.cohen@berkeley.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Dmitry Taubinsky, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Allcott H, Lockwood BB, Taubinsky D. Regressive Sin Taxes, with an Application to the Optimal Soda Tax. Quarterly Journal of Economics. 2019; 134(3).</citation>
+  </reference>
+  <reference>
+    <citation>Grummon AH, Hall MG, Taillie LS, Brewer NT. How should sugar-sweetened beverage health warnings be designed? A randomized experiment. Prev Med. 2019 Apr;121:158-166. doi: 10.1016/j.ypmed.2019.02.010. Epub 2019 Feb 14.</citation>
+    <PMID>30772370</PMID>
+  </reference>
+  <reference>
+    <citation>Donnelly GE, Zatz LY, Svirsky D, John LK. The Effect of Graphic Warnings on Sugary-Drink Purchasing. Psychol Sci. 2018 Aug;29(8):1321-1333. doi: 10.1177/0956797618766361. Epub 2018 Jun 18.</citation>
+    <PMID>29912624</PMID>
+  </reference>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>August 31, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 8, 2021</study_first_posted>
+  <last_update_submitted>December 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>De-identified IPD will be posted to ClinicalTrials.gov and Open Science Framework within 12 months of the primary completion date or the resulting paper's online publication date, whichever comes first.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Within 12 months of the primary completion date or the resulting paper's online publication date, whichever comes first.</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

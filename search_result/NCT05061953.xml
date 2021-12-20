@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7628">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05061953</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ProgMS</org_study_id>
+    <nct_id>NCT05061953</nct_id>
+  </id_info>
+  <brief_title>Development and Validation of a Novel Functional Eye-Tracking Software Application for Multiple Sclerosis</brief_title>
+  <official_title>Development and Validation of a Novel Functional Eye-Tracking Software Application for Multiple Sclerosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Innodem Neurosciences</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Innodem Neurosciences</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to develop and validate a sensitive and non-invasive eye-tracking software&#xD;
+      application.&#xD;
+&#xD;
+      This study will obtain participant responses to brief cognitive tests designed to evaluate&#xD;
+      several key functions known to be affected by MS and non-invasive eye movement measurements&#xD;
+      in response to visually presented stimuli during specifically designed eye-tracking tests.&#xD;
+      The study data will be used to develop machine learning algorithms and validate a software&#xD;
+      application intended to track the progressive component of multiple sclerosis and associated&#xD;
+      cognitive changes.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 18, 2021</start_date>
+  <completion_date type="Anticipated">October 18, 2027</completion_date>
+  <primary_completion_date type="Anticipated">October 18, 2027</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline in Symbol Digit Modalities Test (SDMT) score at Month 48</measure>
+    <time_frame>Baseline and Month 48</time_frame>
+    <description>The SDMT is used to assess divided attention, visual scanning, tracking and motor speed. Using a reference key, the examinee has 90 seconds to pair specific numbers with given geometric figures. Scoring involves summing the number of correct substitutions within the 90 second interval.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in the Expanded Disability Status Scale (EDSS) score at Month 48</measure>
+    <time_frame>Baseline and Month 48</time_frame>
+    <description>The Expanded Disability Status Scale (EDSS) is a method of quantifying disability in multiple sclerosis and monitoring changes in the level of disability over time. It is widely used in clinical trials and in the assessment of people with MS. The EDSS scale ranges from 0 to 10 in 0.5 unit increments that represent higher levels of disability. Scoring is based on an examination by a neurologist.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in the Brief International Cognitive Assessment for MS (BICAMS) scores at Month 48</measure>
+    <time_frame>Baseline and Month 48</time_frame>
+    <description>The BICAMS is a battery of tests recommended by multiple sclerosis (MS) experts to monitor MS-related cognitive impairment. It includes the Symbol Digit Modalities Test (SDMT), the California Verbal Learning Test-2 (CVLT2) and the Brief Visuospatial Memory Test-Revised (BVMT-R)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in the Multiple sclerosis functional composite (MSFC) scores at Month 48</measure>
+    <time_frame>Baseline and Month 48</time_frame>
+    <description>A clinical trial outcome measure of assessing the severity of multiple sclerosis (MS) primarily. used in research. The score is based on a combination of timed tests of walking, arm function, and cognitive ability. It is a three-part, standardized, quantitative, assessment instrument for use in clinical studies, particularly clinical trials, of MS. The MSFC can produce scores for each of the three individual measures as well as a composite score.</description>
+  </secondary_outcome>
+  <number_of_groups>5</number_of_groups>
+  <enrollment type="Anticipated">162</enrollment>
+  <condition>Multiple Sclerosis</condition>
+  <arm_group>
+    <arm_group_label>EDSS 0-2.0</arm_group_label>
+    <description>Diagnosis of Clinically Isolated Syndrome (CIS), Radiologically Isolated Syndrome (RIS) or Primary Progressive MS (PPMS). An EDSS score between 0 and 2.0.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>EDSS 2.5-4.0</arm_group_label>
+    <description>Diagnosis of Clinically Isolated Syndrome (CIS), Radiologically Isolated Syndrome (RIS) or Primary Progressive MS (PPMS). An EDSS score between 2.5 and 4.0.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>EDSS 4.5-6.0</arm_group_label>
+    <description>Diagnosis of Clinically Isolated Syndrome (CIS), Radiologically Isolated Syndrome (RIS) or Primary Progressive MS (PPMS). An EDSS score between 4.5 and 6.0.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>EDSS 6.5-8.0</arm_group_label>
+    <description>Diagnosis of Clinically Isolated Syndrome (CIS), Radiologically Isolated Syndrome (RIS) or Primary Progressive MS (PPMS). An EDSS score between 6.5 and 8.0.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy Control</arm_group_label>
+    <description>Participant with no evidence or history of significant neurodegenerative disorder affecting brain function.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Eye-Tracking</intervention_name>
+    <description>Eye-tracking technology and algorithms used to successfully capture and track eye movements using an electronic tablet and the embedded camera of the device.</description>
+    <arm_group_label>EDSS 0-2.0</arm_group_label>
+    <arm_group_label>EDSS 2.5-4.0</arm_group_label>
+    <arm_group_label>EDSS 4.5-6.0</arm_group_label>
+    <arm_group_label>EDSS 6.5-8.0</arm_group_label>
+    <arm_group_label>Healthy Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The target sample size for the MS group is 120. Eligible patients will be stratified based&#xD;
+        on their EDSS score. Based on the known distribution of EDSS scores, we will recruit 22 MS&#xD;
+        patients with a score between 0-2, 44 patients with a score between 2.5-4, 44 patients with&#xD;
+        a score between 4.5-6.0, and 22 patients with a score between 6.5-8. Data will also be&#xD;
+        acquired from a control group (n=30) that will be frequency-matched for age.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Able to provide informed consent.&#xD;
+&#xD;
+          -  Aged 18 years or older at the time of enrollment.&#xD;
+&#xD;
+          -  Able to read in either French or English.&#xD;
+&#xD;
+          -  Visual acuity of 20/100 in at least one eye (corrective glasses, contact lenses,&#xD;
+             surgery etc.&#xD;
+&#xD;
+        are permitted)&#xD;
+&#xD;
+        For patients only:&#xD;
+&#xD;
+          -  Confirmed diagnosis of MS with no signs of progressive increase in physical disability&#xD;
+             within the past six months.&#xD;
+&#xD;
+          -  Neurological condition is medically stable during the study visit.&#xD;
+&#xD;
+          -  Expanded Disability Status Scale (EDSS) score 0 - 8.0 at the initial visit.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Evidence or medical history of psychiatric issues, which are known to also affect&#xD;
+             movements and oculomotor control.&#xD;
+&#xD;
+          -  Presence of co-morbid neurological conditions to avoid eye movement anomaly confounds&#xD;
+             (Strabismus, cranial nerve palsy, stroke-causing hemianopsia).&#xD;
+&#xD;
+          -  Diagnosis of macular edema or other pre-existing ocular conditions that would prevent&#xD;
+             a participant from performing the eye movement assessments.&#xD;
+&#xD;
+          -  Recent (less than three months from enrollment) start of, change of dose, or irregular&#xD;
+             use of, new prescription drugs known to influence ocular motor visual function, such&#xD;
+             as benzodiazepines, antipsychotics and anticonvulsants. Occasional use of&#xD;
+             benzodiazepines for medical procedures is permitted, at the investigator's discretion,&#xD;
+             but should not occur within a short time period prior to or during an eye movement&#xD;
+             assessment.&#xD;
+&#xD;
+        For healthy controls only:&#xD;
+&#xD;
+          -  Evidence or history of significant neurodegenerative disorder affecting brain&#xD;
+             function, e.g., multiple sclerosis (MS), Parkinson's disease (PD), amyotrophic lateral&#xD;
+             sclerosis (ALS), Dementia.&#xD;
+&#xD;
+        For MS patients only&#xD;
+&#xD;
+          -  Diagnosis of Clinically Isolated Syndrome (CIS), Radiologically Isolated Syndrome&#xD;
+             (RIS) or Primary Progressive MS (PPMS).&#xD;
+&#xD;
+          -  Patients who are currently experiencing a relapse or who have experienced a relapse&#xD;
+             within the last three months. A relapse is defined as appearance of a new neurological&#xD;
+             abnormality or worsening of previously stable or improving pre-existing neurological&#xD;
+             abnormality, separated by at least 30 days from onset of a preceding clinical&#xD;
+             demyelinating event (McDonald et al. 2001). The abnormality must have been present for&#xD;
+             at least 24 hours and occurred in the absence of fever (&lt; 37.5°C) or known infection.&#xD;
+&#xD;
+          -  Patients who have been undergoing disease-modifying therapy for less than three months&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Genge Partners, Inc.</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H4A 3T4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dylan Sembinelli</last_name>
+      <phone>438-874-8334</phone>
+      <email>dsembinelli@gengepartners.com</email>
+    </contact>
+    <investigator>
+      <last_name>Alex Savariano, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 30, 2021</study_first_posted>
+  <last_update_submitted>November 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Sclerosis</mesh_term>
+    <mesh_term>Sclerosis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

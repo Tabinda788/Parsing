@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="708">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05151939</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IECED-26112021</org_study_id>
+    <nct_id>NCT05151939</nct_id>
+  </id_info>
+  <brief_title>Endoscopic Ultrasound (EUS) Artificial Intelligence Model for Normal Mediastinal and Abdominal Strictures Assessment</brief_title>
+  <official_title>Endoscopic Ultrasound (EUS) Assessment of Normal Mediastinal and Abdominal Organ/Anatomic Strictures Using a Novel Developed Artificial Intelligence Model</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Instituto Ecuatoriano de Enfermedades Digestivas</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Instituto Ecuatoriano de Enfermedades Digestivas</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Therefore, a high number of procedures is necessary to achieve EUS competency, but&#xD;
+      interobserver agreement still varies widely. Artificial intelligence (AI) aided recognition&#xD;
+      of anatomical structures may improve the training process and inter-observer agreement.&#xD;
+      Robles-Medranda et al. developed an AI model that recognizes normal anatomical structures&#xD;
+      during linear and radial EUS evaluations. We pursue to design an external validation of our&#xD;
+      developed AI model, considering an endoscopist expert as the gold standard.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Endoscopic ultrasound (EUS) is a high-skilled procedure with a limited number of facilities&#xD;
+      available for training. Therefore, a high number of procedures is necessary to achieve&#xD;
+      competency. However, the agreement between observers varies widely. Artificial intelligence&#xD;
+      (AI) aided recognition and characterization of anatomical structures may improve the training&#xD;
+      process while improving the agreement between observers. However, developed EUS-AI models&#xD;
+      have been explicitly trained or only with disease samples or for detecting abdominal&#xD;
+      anatomical features.&#xD;
+&#xD;
+      In other fields as Radiation Oncology, developed AI models have been widely used. They must&#xD;
+      recognize in unison healthy and disease strictures throughout any part of the human body&#xD;
+      during the contouring. It avoids unnecessary irradiation of normal tissue. EUS-AI models not&#xD;
+      trained with healthy samples can cause an increase in false-positive cases during real-life&#xD;
+      practice. It implies potential overdiagnosis of abnormal/disease strictures. EUS-AI models&#xD;
+      not trained with samples outside&#xD;
+&#xD;
+      Using an automated machine learning software, Robles-Medranda et al. have previously&#xD;
+      developed a convolutional neuronal networks (CNN) AI model that recognizes the anatomical&#xD;
+      structures during linear and radial EUS evaluations (AI Works, MD Consulting group, Ecuador).&#xD;
+      To the best of our knowledge, this EUS-AI model is the first trained with EUS videos from&#xD;
+      patients without pathologies and, thus, with normal mediastinal and abdominal organ/anatomic&#xD;
+      strictures. In this second stage, we pursue to design an external validation of our developed&#xD;
+      AI model, considering an endoscopist expert as the gold standard.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 1, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 30, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall accuracy of Endoscopic ultrasound (EUS) artificial intelligence (AI) model for identifying normal mediastinal and abdominal organ/anatomic strictures</measure>
+    <time_frame>Three months</time_frame>
+    <description>Overall accuracy features will be calculated: sensitivity, specificity, positive predictive value, negative predictive value, diagnostic accuracy, and observed agreement. In addition, there will be defined the following probabilities:&#xD;
+True-positive (TP): mediastinal/abdominal organ/anatomic stricture recognized by the EUS-AI model. The expert endoscopist previously correctly identified it.&#xD;
+False-positive (FP): mediastinal/abdominal organ/anatomic stricture recognized by the EUS-AI model. The expert endoscopist previously correctly discharged its visualization.&#xD;
+False-negative (FN): mediastinal/abdominal organ/anatomic stricture not recognized by the EUS-AI model. The expert endoscopist previously correctly identified it.&#xD;
+True-negative (TN): mediastinal/abdominal organ/anatomic stricture not recognized by the EUS-AI model. The expert endoscopist previously correctly discharged its visualization.</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Normal Mediastinal and Abdominal Organ/Anatomic Strictures</condition>
+  <arm_group>
+    <arm_group_label>Patients with normal mediastinal and abdominal organ/anatomic strictures</arm_group_label>
+    <description>Adult patients with normal mediastinal and abdominal organ/anatomic strictures after imaging test and EUS assessment due to chronic dyspepsia.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Identification or discharge visualization of mediastinal and abdominal organ/anatomic strictures through Endoscopic ultrasound (EUS) videos by an expert endoscopist</intervention_name>
+    <description>An expert endoscopist will select a dataset of mediastinal and abdominal EUS videos (one per patient). An expert endoscopist will identify or discharge visualization of the following organs correctly: aorta, vertebral spine, aortic arch, trachea, AP window, left kidney, liver, spleen, pancreas body, pancreas tail, coeliac trunk, splenic artery, splenic vein, inferior vena cava, adrenal gland, right kidney, gallbladder, common bile duct, ampulla of Vater, portal vein.</description>
+    <arm_group_label>Patients with normal mediastinal and abdominal organ/anatomic strictures</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Recognition of mediastinal and abdominal organ/anatomic strictures through Endoscopic ultrasound (EUS) videos using artificial intelligence (AI)</intervention_name>
+    <description>Using the same previous dataset of mediastinal and abdominal EUS videos, the EUS-AI model will recognize the following organs: aorta, vertebral spine, aortic arch, trachea, AP window, left kidney, liver, spleen, pancreas body, pancreas tail, coeliac trunk, splenic artery, splenic vein, inferior vena cava, adrenal gland, right kidney, gallbladder, common bile duct, ampulla of Vater, portal vein. Considering each patient (and not data frame videos) as the study unit, a contingency table per each mediastinal and abdominal organ/anatomic stricture will be designed.</description>
+    <arm_group_label>Patients with normal mediastinal and abdominal organ/anatomic strictures</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult patients with normal mediastinal and abdominal organ/anatomic strictures after&#xD;
+        imaging test and EUS assessment due to chronic dyspepsia.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with no history of the thorax and abdominal abnormalities confirmed through&#xD;
+             an imaging test requested for healthcare purposes in the last twelve months (e.g.,&#xD;
+             thorax X-ray and abdominal ultrasound or thorax and abdominal CT)&#xD;
+&#xD;
+          -  Patients who undergo EUS assessment due to chronic dyspepsia.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Morphological alteration on at least one mediastinal and abdominal organ/anatomic&#xD;
+             strictures documented through any imaging test or EUS.&#xD;
+&#xD;
+          -  Uncontrolled coagulopathy, kidney/liver failure, or any comorbidity with a meaningful&#xD;
+             impact on cardiac risk assessment (NHYA III/IV);&#xD;
+&#xD;
+          -  Refuse to participate in the study or to sign corresponding informed consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>79 Years</maximum_age>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Ecuadorian Institute of Digestive Diseases</name>
+      <address>
+        <city>Guayaquil</city>
+        <state>Guayas</state>
+        <zip>090505</zip>
+        <country>Ecuador</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carlos A Robles-Medranda, MD</last_name>
+      <phone>+593989158865</phone>
+      <email>carlosoakm@yahoo.es</email>
+    </contact>
+    <investigator>
+      <last_name>Carlos Robles-Medranda, MD FASGE</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Martha Arevalo-Mora, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Daniel Calle, MD MSc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Miguel Puga-Tejada, MD MSc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Raquel Del Valle Zavala, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Juan Alcivar-Vasquez, MD Msc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Ecuador</country>
+  </location_countries>
+  <reference>
+    <citation>Zhang J, Zhu L, Yao L, Ding X, Chen D, Wu H, Lu Z, Zhou W, Zhang L, An P, Xu B, Tan W, Hu S, Cheng F, Yu H. Deep learning-based pancreas segmentation and station recognition system in EUS: development and validation of a useful training tool (with video). Gastrointest Endosc. 2020 Oct;92(4):874-885.e3. doi: 10.1016/j.gie.2020.04.071. Epub 2020 May 6. Erratum in: Gastrointest Endosc. 2021 Mar;93(3):781.</citation>
+    <PMID>32387499</PMID>
+  </reference>
+  <reference>
+    <citation>Kuwahara T, Hara K, Mizuno N, Haba S, Okuno N, Koda H, Miyano A, Fumihara D. Current status of artificial intelligence analysis for endoscopic ultrasonography. Dig Endosc. 2021 Jan;33(2):298-305. doi: 10.1111/den.13880. Epub 2020 Dec 5. Review.</citation>
+    <PMID>33098123</PMID>
+  </reference>
+  <reference>
+    <citation>Robles-Medranda C, Oleas R, Del Valle R, Mendez JC, Alcívar-Vásquez JM, Puga-Tejada M, Lukashok H. Intelligence for real-time anatomical recognition during endoscopic ultrasound evaluation: a pilot study. Gastrointestinal Endoscopy. 2021; 93(6), AB221. https://doi.org/10.1016/J.GIE.2021.03.491</citation>
+  </reference>
+  <reference>
+    <citation>Udriștoiu AL, Cazacu IM, Gruionu LG, Gruionu G, Iacob AV, Burtea DE, Ungureanu BS, Costache MI, Constantin A, Popescu CF, Udriștoiu Ș, Săftoiu A. Real-time computer-aided diagnosis of focal pancreatic masses from endoscopic ultrasound imaging based on a hybrid convolutional and long short-term memory neural network model. PLoS One. 2021 Jun 28;16(6):e0251701. doi: 10.1371/journal.pone.0251701. eCollection 2021.</citation>
+    <PMID>34181680</PMID>
+  </reference>
+  <reference>
+    <citation>Yao L, Zhang J, Liu J, Zhu L, Ding X, Chen D, Wu H, Lu Z, Zhou W, Zhang L, Xu B, Hu S, Zheng B, Yang Y, Yu H. A deep learning-based system for bile duct annotation and station recognition in linear endoscopic ultrasound. EBioMedicine. 2021 Mar;65:103238. doi: 10.1016/j.ebiom.2021.103238. Epub 2021 Feb 24. Erratum in: EBioMedicine. 2021 Oct 30;73:103650.</citation>
+    <PMID>33639404</PMID>
+  </reference>
+  <reference>
+    <citation>Tonozuka R, Mukai S, Itoi T. The Role of Artificial Intelligence in Endoscopic Ultrasound for Pancreatic Disorders. Diagnostics (Basel). 2020 Dec 24;11(1). pii: E18. doi: 10.3390/diagnostics11010018. Review.</citation>
+    <PMID>33374181</PMID>
+  </reference>
+  <reference>
+    <citation>Marya NB, Powers PD, Chari ST, Gleeson FC, Leggett CL, Abu Dayyeh BK, Chandrasekhara V, Iyer PG, Majumder S, Pearson RK, Petersen BT, Rajan E, Sawas T, Storm AC, Vege SS, Chen S, Long Z, Hough DM, Mara K, Levy MJ. Utilisation of artificial intelligence for the development of an EUS-convolutional neural network model trained to enhance the diagnosis of autoimmune pancreatitis. Gut. 2021 Jul;70(7):1335-1344. doi: 10.1136/gutjnl-2020-322821. Epub 2020 Oct 7.</citation>
+    <PMID>33028668</PMID>
+  </reference>
+  <reference>
+    <citation>Minoda Y, Ihara E, Komori K, Ogino H, Otsuka Y, Chinen T, Tsuda Y, Ando K, Yamamoto H, Ogawa Y. Efficacy of endoscopic ultrasound with artificial intelligence for the diagnosis of gastrointestinal stromal tumors. J Gastroenterol. 2020 Dec;55(12):1119-1126. doi: 10.1007/s00535-020-01725-4. Epub 2020 Sep 11.</citation>
+    <PMID>32918102</PMID>
+  </reference>
+  <reference>
+    <citation>Cazacu IM, Udristoiu A, Gruionu LG, Iacob A, Gruionu G, Saftoiu A. Artificial intelligence in pancreatic cancer: Toward precision diagnosis. Endosc Ultrasound. 2019 Nov-Dec;8(6):357-359. doi: 10.4103/eus.eus_76_19.</citation>
+    <PMID>31854344</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 9, 2021</study_first_posted>
+  <last_update_submitted>December 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Endoscopic ultrasound</keyword>
+  <keyword>Artificial intelligence</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Constriction, Pathologic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

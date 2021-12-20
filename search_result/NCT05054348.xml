@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8211">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05054348</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IO-108-CL-001</org_study_id>
+    <nct_id>NCT05054348</nct_id>
+  </id_info>
+  <brief_title>Dose Escalation Study of IO-108 and IO-108+Pembrolizumab in Solid Tumors</brief_title>
+  <official_title>A Phase 1, Open-Label, Multicenter, Dose-Escalation Study of IO-108 as Monotherapy and in Combination With Pembrolizumab, in Adult Subjects With Advanced Relapsed or Refractory Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Immune-Onc Therapeutics Inc</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Immune-Onc Therapeutics Inc</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To assess safety and tolerability of increasing doses of IO-108 either as monotherapy or in&#xD;
+      combination with pembrolizumab in patients with advanced solid tumors, and select the&#xD;
+      recommended Phase 2 dose (RP2D).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase 1, open-label, multicenter, dose-escalation study of IO-108 as monotherapy&#xD;
+      and in combination with pembrolizumab, in adult subjects with advanced relapsed or refractory&#xD;
+      solid tumors to estimate the maxium tolerated dose (MTD) or maximum administered dose (MAD)&#xD;
+      to select the RP2D, and to study safety, tolerability, pharmacokinetic, pharmacodynamics and&#xD;
+      clinical activity of IO-108 as monotherapy or in combination with pembrolizumab.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 30, 2021</start_date>
+  <completion_date type="Anticipated">November 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 30, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Dose escalation</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of treatment-emergent and serious adverse events in patients treated with IO-108 and IO-108+pembrolizumab</measure>
+    <time_frame>From first dose of IO-108 until the end of treatment which is up to 2 years from the first treatment date</time_frame>
+    <description>safety and tolerability as measured by the incidence of treatment-emergent adverse events and serious adverse events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Determine MTD (maximum tolerated dose) through assessment of dose-limiting toxicities (DLT)</measure>
+    <time_frame>From the first dose of IO-108 until 21 days post-treatment</time_frame>
+    <description>MTD will be determined through observation of pre-determined DLTs in each dose cohort</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximum plasma concentration (Cmax) of IO-108</measure>
+    <time_frame>From the first dose of IO-108 until day 15 post-treatment</time_frame>
+    <description>Characterize the Cmax of IO-108 by successive sampling of blood at pre-specified time points</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Steady state concentration of IO-108</measure>
+    <time_frame>From the second dose of IO-108 until the last treatment which is up to 2 years from the first treatment date</time_frame>
+    <description>Characterize steady state concentration of IO-108 by successive sampling of blood at pre-specified time points</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity of IO-108 and IO-108+pembrolizumab</measure>
+    <time_frame>From the first dose until 30 days after the last treatment</time_frame>
+    <description>Determine the incidence/titer of anti-drug antibodies (ADAs) against IO-108 and pembrolizumab (in combination treatment)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-tumor activity of IO-108 and IO-108+pembrolizumab</measure>
+    <time_frame>From the date of first treatment until the date of first documented progression or date of death from any cause, whichever comes first, assessed up to estimated period of 48 months</time_frame>
+    <description>Determine preliminary rates of response after treatment with IO-108</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Receptor occupancy of IO-108 in IO-108 monotherapy and IO-108+pembrolizumab</measure>
+    <time_frame>From the first dose of IO-108 till 21 days after</time_frame>
+    <description>To assess target engagement via determining Leukocyte Immunoglobulin-Like Receptor subfamily B2 (LILRB2) occupancy by IO-108 in peripheral blood myeloid cells, as expressed by % of target receptor engagement</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">36</enrollment>
+  <condition>Solid Tumor, Adult</condition>
+  <arm_group>
+    <arm_group_label>IO-108 Monotherapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>increasing dose levels of IO-108</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IO-108 + pembrolizumab combination therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>increasing dose levels of IO-108 in combination with a fixed dose of pembrolizumab</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>IO-108</intervention_name>
+    <description>IO-108 given as monotherapy</description>
+    <arm_group_label>IO-108 Monotherapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>IO-108 + pembrolizumab combination therapy</intervention_name>
+    <description>IO-108 and fixed dose pembrolizumab combination therapy</description>
+    <arm_group_label>IO-108 + pembrolizumab combination therapy</arm_group_label>
+    <other_name>IO-108 + Keytruda combination therapy</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients must be ≥18.&#xD;
+&#xD;
+          2. Has any histologically- or cytologically confirmed advanced/metastatic solid tumor by&#xD;
+             pathology report and has received, has been intolerant to, or has been ineligible for&#xD;
+             standard systemic therapy known to confer clinical benefit. Solid tumors of any type&#xD;
+             are eligible for enrollment. Patients with asymptomatic central nervous system (CNS)&#xD;
+             disease may be enrolled.&#xD;
+&#xD;
+          3. Patient has measurable disease by Response Evaluation in Solid Tumors version 1.1&#xD;
+             (RECIST 1.1) as assessed by local site.&#xD;
+&#xD;
+          4. Patients must have an Eastern Cooperative Oncology Group (ECOG) performance status of&#xD;
+             0 to 1.&#xD;
+&#xD;
+          5. Patients must have adequate hepatic function and renal function.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients who previously received a monoclonal antibody therapy targeting LILRB2/&#xD;
+             Immunoglobulin-Like Transcript 4 (ILT4) (including IO-108).&#xD;
+&#xD;
+          2. Patients who received a biologic systemic anti-cancer therapy &lt;4 weeks or 5 half-lives&#xD;
+             prior to their first day of study drug administration, or a small molecule systemic&#xD;
+             anti-cancer therapy or definitive radiotherapy &lt;2 weeks or 5 half-lives prior to their&#xD;
+             first day of study drug administration or have not recovered to National Cancer&#xD;
+             Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) Version 5.0 Grade&#xD;
+             1 or better from any adverse events (AEs) that were due to prior cancer therapeutics.&#xD;
+             Palliative radiation is allowed within 2 weeks of the first day of study drug&#xD;
+             administration.&#xD;
+&#xD;
+          3. Requires systemic corticosteroids at a dose of &gt;10 mg prednisone or the dose&#xD;
+             equivalent to other systemic corticosteroid.&#xD;
+&#xD;
+          4. History of radiation pneumonitis, non-infectious pneumonitis or interstitial lung&#xD;
+             disease.&#xD;
+&#xD;
+          5. Symptomatic CNS spread of tumor.&#xD;
+&#xD;
+          6. History of Grade ≥3 immune-related AEs with any prior immunotherapy.&#xD;
+&#xD;
+          7. Patients with uncontrolled, active infection.&#xD;
+&#xD;
+          8. Patients with known hypersensitivity to any of the components of the IO-108&#xD;
+             formulation or pembrolizumab.&#xD;
+&#xD;
+          9. Active known malignancy with the exception of any of the following:&#xD;
+&#xD;
+               1. Adequately treated basal cell carcinoma, squamous cell carcinoma of the skin, or&#xD;
+                  in situ cervical cancer;&#xD;
+&#xD;
+               2. Low-risk prostate cancer for which observation or hormonal therapy only is&#xD;
+                  indicated;&#xD;
+&#xD;
+               3. Any other malignancy treated with curative intent with the last treatment&#xD;
+                  completed ≥6 months before study initiation (with the exception of hormonal&#xD;
+                  therapies when indicated).&#xD;
+&#xD;
+         10. Patients with New York Heart Association (NYHA) Class III or IV congestive heart&#xD;
+             failure (CHF) or left ventricular ejection fraction (LVEF) &lt;40% by echocardiogram&#xD;
+             (ECHO) or multi-gated acquisition (MUGA) scan ≤28 days prior to Cycle 1 Day 1 (C1D1).&#xD;
+&#xD;
+         11. Any of the following in the previous 6 months: myocardial infarction, congenital long&#xD;
+             QT syndrome, Torsades de pointes, clinically significant arrhythmias (including&#xD;
+             sustained ventricular tachyarrhythmia and ventricular fibrillation), and left anterior&#xD;
+             hemiblock (bifascicular block), unstable angina, coronary/peripheral artery bypass&#xD;
+             graft, symptomatic CHF (NYHA class III or IV), cerebrovascular accident, transient&#xD;
+             ischemic attack, or pulmonary embolism. Patients with asymptomatic right bundle branch&#xD;
+             block or controlled atrial fibrillation are allowed.&#xD;
+&#xD;
+         12. Ongoing cardiac dysrhythmias of Grade 2 or higher per NCI CTCAE, Version 5.0.&#xD;
+&#xD;
+         13. Known active bacterial, viral, and/or fungal infection including hepatitis B (HBV),&#xD;
+             hepatitis C, human immunodeficiency virus (HIV), severe acute respiratory syndrome&#xD;
+             coronavirus 2 (SARS-COV-2) or acquired immunodeficiency syndrome (AIDS)-related&#xD;
+             illness.&#xD;
+&#xD;
+         14. Other severe acute or chronic medical or psychiatric condition or laboratory&#xD;
+             abnormality that may increase the risk associated with study participation or&#xD;
+             investigational product administration or may interfere with the interpretation of&#xD;
+             study results and, in the judgment of the Investigator, would make the patient&#xD;
+             inappropriate for entry into this study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Luke Chung, MD, MPH</last_name>
+    <role>Study Director</role>
+    <affiliation>Immune-Onc Therapeutics</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Luke Chung, MD, MPH</last_name>
+    <phone>+1 3392156509</phone>
+    <email>luke.chung@immuneonc.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Elizabeth Wieland</last_name>
+    <email>elizabeth.wieland@immuneonc.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Florida Cancer Specialists &amp; Research Institute</name>
+      <address>
+        <city>Sarasota</city>
+        <state>Florida</state>
+        <zip>34232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nadya Leniew</last_name>
+      <email>nadya.Leniw@flcancer.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Carolina BioOncology</name>
+      <address>
+        <city>Huntsville</city>
+        <state>North Carolina</state>
+        <zip>28078</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jaelyn Linski</last_name>
+      <phone>980-441-1015</phone>
+      <email>jlinski@carolinabiooncology.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ashley McClain</last_name>
+      <phone>9804411021</phone>
+      <email>amcclain@carolinabiooncology.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>John Powderly, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Cancer Institute</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>503-215-2614</phone>
+      <email>Orcanrsrchstudies@providence.org</email>
+    </contact>
+    <investigator>
+      <last_name>Matthew Taylor, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>MD Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fiona Ouyang</last_name>
+      <phone>713-792-7192</phone>
+      <email>fouyang@mdanderson.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>August 30, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 23, 2021</study_first_posted>
+  <last_update_submitted>December 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>IO-108</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pembrolizumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2302">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05131191</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CT-FFR for in-stent lesion</org_study_id>
+    <nct_id>NCT05131191</nct_id>
+  </id_info>
+  <brief_title>CT-FFR for Coronary In-stent Stenosis Based on ISR-Net Algorithm</brief_title>
+  <official_title>Application of New Algorithm ISR-Net in Measuring CT-FFR of Coronary In-stent Stenosis.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Beijing Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Beijing Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      CT-FFR(CT-derived flow reserve fraction) usually could not been measured accurately for&#xD;
+      in-stent lesions due to the serious interference with the metal structs. ISR-Net is a new&#xD;
+      algorithm in assessing the flow of coronary in-stent stenosis. We compare the CT-FFR value of&#xD;
+      in-stent lesions with the invasive FFR measured by pressure wire to evaluate the accuracy of&#xD;
+      ISR-Net algorithm. The research results are of great significance to solve the bottleneck&#xD;
+      problem of CT-FFR and expand its application scope.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      CT-FFR is an important noninvasive examination to evaluate the function of coronary artery&#xD;
+      disease. It can help clinicians make clinical decisions and reduce patients' invasive&#xD;
+      coronary angiography (ICA). The image quality of coronary CT angiography (CCTA) is the basis&#xD;
+      of CT-FFR measurement. Because metal stents seriously interfere with the imaging of CCTA, it&#xD;
+      is very difficult to measure the CT-FFR value of lesions in stents. However, a large number&#xD;
+      of patients need imaging follow-up evaluation after stenting. In the previous research, the&#xD;
+      investigators creatively invented a new algorithm ISR-Net and conducted a retrospective&#xD;
+      analysis. It is preliminarily proved that the algorithm can more accurately display the&#xD;
+      stenosis lesions in the stent than the previous imaging software, making it possible to&#xD;
+      calculate the CT-FFR of the lesions in the stent. At present, the algorithm has applied for a&#xD;
+      national invention patent. In order to transform to clinical application, further clinical&#xD;
+      verification is needed. This study will evaluate the accuracy of ISR-Net algorithm in&#xD;
+      assessing the function of coronary stent stenosis by carrying out prospective clinical trials&#xD;
+      and taking the blood flow reserve fraction (FFR) measured by pressure wire as the gold&#xD;
+      standard. At the same time, the standard process of CT-FFR measurement of in stent lesions&#xD;
+      was established. The research results are of great significance to solve the bottleneck&#xD;
+      problem of CT-FFR and expand its application scope.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2022</start_date>
+  <completion_date type="Anticipated">June 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To predict the sensitivity, specificity and accuracy of CT-FFR in the functional sense of in stent lesions based on ISR-Net algorithm.</measure>
+    <time_frame>one month</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To predict the functional accuracy of in stent lesions, PPV, NPV and area under ROC curve (AUC)</measure>
+    <time_frame>one month</time_frame>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Coronary Stent Occlusion</condition>
+  <arm_group>
+    <arm_group_label>patients with coronary metal stents implantation</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>CT-FFR measurement</intervention_name>
+    <description>Patients were scanned with ≥ 64 row CT according to standard operating specifications. The software obtains the coronary CT angiography image file through the data communication interface. Based on the image processing algorithm, the centerline and contour of the target vessel can be extracted, and then the target vessel can be reconstructed to obtain the three-dimensional size information of the vessel; Based on hydrodynamics calculation and analysis, the fractional flow reserve (FFR) of each position of the target vessel is measured.</description>
+    <arm_group_label>patients with coronary metal stents implantation</arm_group_label>
+    <other_name>FFRCT</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>invasive FFR</intervention_name>
+    <description>Insert the pressure guide wire into the finger guide tube and push the pressure guide wire until the pressure sensor just comes out of the orifice of guiding catheter; Equalize PD and PA values;Push the pressure guide wire to the distal end of the lesion, and record the measured blood vessel and position;Record the resting Pd / PA of the pressure guide wire;Nitroglycerin and adenosine triphosphate were administered intravenously according to standard catheter laboratory specifications to achieve maximum hyperemia;Record the FFR value of the in-stent lesions.</description>
+    <arm_group_label>patients with coronary metal stents implantation</arm_group_label>
+    <other_name>pressure wire</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients were implanted metal stents previously and had indications for coronary CTA test.&#xD;
+        The CT-FFR for in-stent lesions were evaluated based on Coronary CTA. Patients had the&#xD;
+        indication for invasive coronary angiography would be admitted in Cath lab and perform FFR&#xD;
+        measurement with pressure wire .&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        General Inclusion Criteria:&#xD;
+&#xD;
+          -  Over 18 years old;&#xD;
+&#xD;
+          -  Be able to understand the purpose of the test and sign the informed consent form;&#xD;
+&#xD;
+          -  Previous intracoronary stent implantation;&#xD;
+&#xD;
+          -  According to the comprehensive clinical evaluation, coronary angiography and FFR were&#xD;
+             proposed;&#xD;
+&#xD;
+        CTA image Inclusion Criteria:&#xD;
+&#xD;
+          -  The coronary CT angiography images showed that the reference vessel diameter of the&#xD;
+             stenosis segment in the stent was ≥ 2mm;&#xD;
+&#xD;
+          -  The stenosis degree of coronary stent diameter ≥ 30% and ≤ 90% by visual inspection.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        General exclusion criteria:&#xD;
+&#xD;
+          -  Previous coronary artery bypass grafting (CABG), artificial heart valve implantation,&#xD;
+             pacemaker or implantable defibrillator implantation;&#xD;
+&#xD;
+          -  There are persistent or active symptoms of clinical instability, including acute chest&#xD;
+             pain (sudden onset), cardiogenic shock, unstable blood pressure state (systolic blood&#xD;
+             pressure less than 90 mmHg), severe congestive heart failure (NYHA cardiac function&#xD;
+             grade III or IV) or acute pulmonary edema;&#xD;
+&#xD;
+          -  Acute myocardial infarction occurred within 7 days before enrollment;&#xD;
+&#xD;
+          -  Patients with other severe diseases are not suitable for clinical trials, such as&#xD;
+             complex congenital heart history, sick sinus syndrome, long QT syndrome, severe&#xD;
+             arrhythmia or tachycardia, severe asthma, severe or very severe chronic obstructive&#xD;
+             pulmonary disease, chronic renal function impairment (serum creatinine value &gt; 1.5 mg&#xD;
+             / dL or creatinine clearance rate &lt; 45ml / kg · 1.73m2);&#xD;
+&#xD;
+          -  There are contraindications to the use of disodium adenosine triphosphate;&#xD;
+&#xD;
+          -  Allergic to iodized contrast media;&#xD;
+&#xD;
+          -  Pregnancy or unknown pregnancy status;&#xD;
+&#xD;
+          -  The expected life is less than 2 months;&#xD;
+&#xD;
+          -  There are any other factors that the researchers believe are not suitable for&#xD;
+             inclusion or completion of this study.&#xD;
+&#xD;
+        CTA image exclusion criteria:&#xD;
+&#xD;
+          -  The coronary artery image was obviously misplaced;&#xD;
+&#xD;
+          -  Coronary artery occlusion.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Xue Yu, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Beijing Hospital, National Center of Gerontology</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Xue Yu, MD</last_name>
+    <phone>00861085132266</phone>
+    <phone_ext>2535</phone_ext>
+    <email>yuxuemd@aliyun.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Fusui Ji, MD</last_name>
+    <phone>00861085132266</phone>
+    <phone_ext>2535</phone_ext>
+  </overall_contact_backup>
+  <reference>
+    <citation>Li Z, Zhang J, Xu L, Yang W, Li G, Ding D, Chang Y, Yu M, Kitslaar P, Zhang S, Reiber JHC, Arbab-Zadeh A, Yan F, Tu S. Diagnostic Accuracy of a Fast Computational Approach to Derive Fractional Flow Reserve From Coronary CT Angiography. JACC Cardiovasc Imaging. 2020 Jan;13(1 Pt 1):172-175. doi: 10.1016/j.jcmg.2019.08.003. Epub 2019 Sep 18.</citation>
+    <PMID>31542542</PMID>
+  </reference>
+  <reference>
+    <citation>Tang CX, Liu CY, Lu MJ, Schoepf UJ, Tesche C, Bayer RR 2nd, Hudson HT Jr, Zhang XL, Li JH, Wang YN, Zhou CS, Zhang JY, Yu MM, Hou Y, Zheng MW, Zhang B, Zhang DM, Yi Y, Ren Y, Li CW, Zhao X, Lu GM, Hu XH, Xu L, Zhang LJ. CT FFR for Ischemia-Specific CAD With a New Computational Fluid Dynamics Algorithm: A Chinese Multicenter Study. JACC Cardiovasc Imaging. 2020 Apr;13(4):980-990. doi: 10.1016/j.jcmg.2019.06.018. Epub 2019 Aug 14.</citation>
+    <PMID>31422138</PMID>
+  </reference>
+  <reference>
+    <citation>Coenen A, Kim YH, Kruk M, Tesche C, De Geer J, Kurata A, Lubbers ML, Daemen J, Itu L, Rapaka S, Sharma P, Schwemmer C, Persson A, Schoepf UJ, Kepka C, Hyun Yang D, Nieman K. Diagnostic Accuracy of a Machine-Learning Approach to Coronary Computed Tomographic Angiography-Based Fractional Flow Reserve: Result From the MACHINE Consortium. Circ Cardiovasc Imaging. 2018 Jun;11(6):e007217. doi: 10.1161/CIRCIMAGING.117.007217.</citation>
+    <PMID>29914866</PMID>
+  </reference>
+  <reference>
+    <citation>Ko BS, Cameron JD, Munnur RK, Wong DTL, Fujisawa Y, Sakaguchi T, Hirohata K, Hislop-Jambrich J, Fujimoto S, Takamura K, Crossett M, Leung M, Kuganesan A, Malaiapan Y, Nasis A, Troupis J, Meredith IT, Seneviratne SK. Noninvasive CT-Derived FFR Based on Structural and Fluid Analysis: A Comparison With Invasive FFR for Detection of Functionally Significant Stenosis. JACC Cardiovasc Imaging. 2017 Jun;10(6):663-673. doi: 10.1016/j.jcmg.2016.07.005. Epub 2016 Oct 19.</citation>
+    <PMID>27771399</PMID>
+  </reference>
+  <reference>
+    <citation>Coenen A, Lubbers MM, Kurata A, Kono A, Dedic A, Chelu RG, Dijkshoorn ML, van Geuns RJ, Schoebinger M, Itu L, Sharma P, Nieman K. Coronary CT angiography derived fractional flow reserve: Methodology and evaluation of a point of care algorithm. J Cardiovasc Comput Tomogr. 2016 Mar-Apr;10(2):105-13. doi: 10.1016/j.jcct.2015.12.006. Epub 2015 Dec 18.</citation>
+    <PMID>26747231</PMID>
+  </reference>
+  <reference>
+    <citation>Fuchs A, Kühl JT, Chen MY, Helqvist S, Razeto M, Arakita K, Steveson C, Arai AE, Kofoed KF. Feasibility of coronary calcium and stent image subtraction using 320-detector row CT angiography. J Cardiovasc Comput Tomogr. 2015 Sep-Oct;9(5):393-8. doi: 10.1016/j.jcct.2015.03.016. Epub 2015 Apr 16.</citation>
+    <PMID>26091841</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 23, 2021</study_first_posted>
+  <last_update_submitted>November 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 7, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Beijing Hospital</investigator_affiliation>
+    <investigator_full_name>Xue Yu</investigator_full_name>
+    <investigator_title>project manager</investigator_title>
+  </responsible_party>
+  <keyword>in-stent stenosis</keyword>
+  <keyword>CT derived fractional flow reserve</keyword>
+  <keyword>artificial intelligence</keyword>
+  <keyword>deep learning</keyword>
+  <keyword>image processing</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Constriction, Pathologic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

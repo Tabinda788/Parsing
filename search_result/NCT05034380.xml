@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9747">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05034380</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AcuteExerciseNucleo</org_study_id>
+    <nct_id>NCT05034380</nct_id>
+  </id_info>
+  <brief_title>Epigenetic Effects of a Single Bout of Exercise on Cardiovascular Risk Factors and the Metabolome</brief_title>
+  <official_title>Epigenetic Effects of a Single Bout of Exercise on Cardiovascular Risk Factors and the Metabolome in Lean and Overweight or Obese Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>East Carolina University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Purdue University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Louisiana State University Health Sciences Center Shreveport</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>East Carolina University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine the ability of acute exercise to regulate fat&#xD;
+      metabolism in muscle of overweight and obese people compared to lean people.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      After being informed about the study details and possible risks and benefits, 15&#xD;
+      overweight/obese and 15 lean participants gave written informed consent and were then&#xD;
+      screened and enrolled in the study. All participants then gave a muscle sample and ate a&#xD;
+      calorically controlled breakfast. Participants completed ~1 hour of cycling exercise on a&#xD;
+      stationary bike and gave a second muscle sample 4 hours after eating breakfast.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 14, 2014</start_date>
+  <completion_date type="Actual">March 14, 2016</completion_date>
+  <primary_completion_date type="Actual">October 6, 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>All participants underwent the same exact study protocol on random days throughout the study period.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Investigators conducting molecular analysis were blinded to study samples/groups.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline in skeletal muscle acylcarnitines</measure>
+    <time_frame>Baseline and immediately after acute cycling exercise</time_frame>
+    <description>Metabolomics of skeletal muscle acylcarnitines is used as a measure of mitochondrial function by assessing long, medium and short chain acylcarnitine levels.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in skeletal transcriptome</measure>
+    <time_frame>Baseline and immediately after acute cycling exercise</time_frame>
+    <description>RNA-seq is a method used to quantify changes in all known messenger RNA levels in the genome, giving an assessment of whole genome gene transcription changes.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in skeletal muscle whole genome nucleosome maps</measure>
+    <time_frame>Baseline and immediately after acute cycling exercise</time_frame>
+    <description>MNase-seq is a method used to determine the occupancy/location of nucleosomes throughout the entire genome, supporting evidence of alterations in epigenetic modifications occurring at specific genomic loci that affect nucleosome occupancy/location and possibly gene transcription or silencing.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Glucose</measure>
+    <time_frame>Baseline and immediately after acute cycling exercise</time_frame>
+    <description>Commercially validated and available colorimetric used to determine plasma glucose levels.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Insulin</measure>
+    <time_frame>Baseline and immediately after acute cycling exercise</time_frame>
+    <description>Commercially validated and available ELISAs used to determine plasma insulin levels.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Triglycerides</measure>
+    <time_frame>Baseline and immediately after acute cycling exercise</time_frame>
+    <description>Commercially validated and available colorimetric kits used to determine plasma triglyceride levels.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Free fatty acids</measure>
+    <time_frame>Baseline and immediately after acute cycling exercise</time_frame>
+    <description>Commercially validated and available colorimetric kits used to determine plasma free fatty acid levels.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cholesterol</measure>
+    <time_frame>Baseline and immediately after acute cycling exercise</time_frame>
+    <description>Commercially validated and available colorimetric kits used to determine total cholesterol, HDL, LDL and VLDL levels in plasma.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">30</enrollment>
+  <condition>Obesity</condition>
+  <condition>Type 2 Diabetes</condition>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Acute Exercise</condition>
+  <arm_group>
+    <arm_group_label>Lean</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>males aged 18-30 years with BMI &lt; 25</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Overweight/Obese</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>males aged 18-30 years with BMI &gt;= 25</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Acute exercise</intervention_name>
+    <description>All participants consumed a standardized, high carbohydrate meal (7 kcal/kg; 60% carbohydrate, 25% fat, 15% protein) and completed an exercise testing trial, expending a total of 650 kcal upon completion 4h later.</description>
+    <arm_group_label>Lean</arm_group_label>
+    <arm_group_label>Overweight/Obese</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  healthy males that completed a physical examination with a State Licensed M.D. or D.O.&#xD;
+             within the past 2 years and completed a physical activity readiness questionnaire&#xD;
+             (PARQ), the International Physical Activity Questionnaires (IPAQ) and and a medical&#xD;
+             history questionnaire prior to the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  any participants that had not had a physical examination by a State Licensed M.D. or&#xD;
+             D.O. within the past 2 years&#xD;
+&#xD;
+          -  persons not considered &quot;healthy&quot; (with any previous medical diagnoses) or not&#xD;
+             medically cleared by a M.D. or D.O. to perform physical activity/exercise&#xD;
+&#xD;
+          -  persons who are regularly physically active&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>30 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tara Henagan, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Purdue University, Louisiana State University Medical School at Shreveport</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Purdue University</name>
+      <address>
+        <city>West Lafayette</city>
+        <state>Indiana</state>
+        <zip>47907</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2021</verification_date>
+  <study_first_submitted>September 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 5, 2021</study_first_posted>
+  <last_update_submitted>August 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>August 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>East Carolina University</investigator_affiliation>
+    <investigator_full_name>Jessica Ellis</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

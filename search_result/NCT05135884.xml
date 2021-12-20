@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1942">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05135884</url>
+  </required_header>
+  <id_info>
+    <org_study_id>L-PRESTO</org_study_id>
+    <nct_id>NCT05135884</nct_id>
+  </id_info>
+  <brief_title>Lucerne Fall Risk Prediction Score for Stroke Rehabilitation</brief_title>
+  <acronym>L-PRESTO</acronym>
+  <official_title>Lucerne Fall Risk Prediction Score for Stroke Rehabilitation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Luzerner Kantonsspital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Luzerner Kantonsspital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In Switzerland, every year around 16'000 people suffer a stroke. Stroke represents the third&#xD;
+      most common cause of death in Switzerland and leads to impairments (e.g., motoric, cognitive,&#xD;
+      sensory) resulting in disability. People with disabilities after stroke should have access to&#xD;
+      specialised interprofessional rehabilitation settings.&#xD;
+&#xD;
+      During inpatient rehabilitation, 15-36% of the patients experience one or more falls. It is&#xD;
+      well known that stroke is an important risk factor for falls. On average stroke patients fall&#xD;
+      1.77 times more than the age- and gender-matched controls over 13 months. Falling events&#xD;
+      during inpatient stroke rehabilitation result in an extension of rehabilitation stay of about&#xD;
+      eleven days. Wong et al. (2016) suspect that a reduction in the activity level due to falls,&#xD;
+      fear of falling again as well as changes in discharge conditions could be the reason for this&#xD;
+      extended length of stay. Walsh et al. (2018) demonstrate that patients who fall once within&#xD;
+      the first year after stroke cause € 8'600 and recurrent fallers € 12'700 higher healthcare&#xD;
+      costs.&#xD;
+&#xD;
+      Fall risk factors after stroke are well investigated. Campbell &amp; Matthews (2010) have&#xD;
+      collected multiple factors for falls in inpatient stroke rehabilitation from 1990 to 2009 in&#xD;
+      an integrative review. A newer systematic review points out physical function,&#xD;
+      hemi-attention, and stability as the most important factors for falls in inpatient stroke&#xD;
+      rehabilitation. However, none of the included studies showed a validated prediction model&#xD;
+      with acceptable performance. Hence, further investigations regarding the impact of various&#xD;
+      valid and reliable fall risk assessments at admission in inpatient rehabilitation are needed.&#xD;
+&#xD;
+      The neurorehabilitation team of LUKS systematically assesses the patient's functions and&#xD;
+      activity to design patient-specific, evidence-based rehabilitation. Therefore, a&#xD;
+      population-specific fall risk model based on standardized assessments performed in the&#xD;
+      clinical routine would help to identify patients with a high risk of falling during&#xD;
+      rehabilitation without the need of implementing an existing model with a low performance.&#xD;
+&#xD;
+      Aim of the study The main aim of this study is to establish a multivariable prediction model&#xD;
+      for falls during inpatient rehabilitation in acute and subacute stroke patients admitted to&#xD;
+      the Clinic for Neurology and Neurorehabilitation of the Kantonsspital Luzern (LUKS) in&#xD;
+      Lucerne, Switzerland.&#xD;
+&#xD;
+      The secondary aim is to explore the value of the mini-BESTest as a fall predictor in a&#xD;
+      subgroup consisting of patients who are ambulatory at admission to the Clinic for Neurology&#xD;
+      and Neurorehabilitation.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 1, 2019</start_date>
+  <completion_date type="Actual">September 30, 2021</completion_date>
+  <primary_completion_date type="Actual">September 30, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <target_duration>3 Months</target_duration>
+  <primary_outcome>
+    <measure>Occurance of at least one fall</measure>
+    <time_frame>During inpatient stroke rehabilitation, an average of 6 weeks</time_frame>
+    <description>Event of least one fall (yes/ no) during inpatient stroke rehabilitation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Lucerne ICF Based Multidisciplinary Observational Scale (45-225 points, higher scores being better)</measure>
+    <time_frame>Rehabilitation admission</time_frame>
+    <description>Activities of daily living</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functional Independence Measure (18-126 points, higher scores being better)</measure>
+    <time_frame>Rehabilitation admission</time_frame>
+    <description>Activities of daily living</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Montreal Cognitive Assessment (0-30 points, higher scores being better)</measure>
+    <time_frame>Rehabilitation admission</time_frame>
+    <description>Cognitive function</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Apraxia Screen of Tulia (0-12 points, higher scores being better)</measure>
+    <time_frame>Rehabilitation admission</time_frame>
+    <description>Apraxia</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mini Balance Evaluation Systems Test (0-28 points, higher scores being better)</measure>
+    <time_frame>Rehabilitation admission</time_frame>
+    <description>Balance</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>2-Minute Walk Test (meter, higher scores being better)</measure>
+    <time_frame>Rehabilitation admission</time_frame>
+    <description>Gait speed and walking distance</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Timed up and go (seconds, lower scores being better)</measure>
+    <time_frame>Rehabilitation admission</time_frame>
+    <description>Mobility</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Catherine Bergego Scale (0-30 points, lower scores being better)</measure>
+    <time_frame>Rehabilitation admission</time_frame>
+    <description>Visuospatial function</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Language Screening Test (0-15 points, higher scores being better)</measure>
+    <time_frame>Rehabilitation admission</time_frame>
+    <description>Speech function</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">328</enrollment>
+  <condition>Stroke</condition>
+  <arm_group>
+    <arm_group_label>Cohort</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Standard inpatient stroke rehabilitation</intervention_name>
+    <description>According to Swiss national guidelines and local protocols</description>
+    <arm_group_label>Cohort</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patiets admitted to inpatient neurorehabilitation after an acute stroke&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Acute/ subcute first or recurrent stroke&#xD;
+&#xD;
+          -  Inpatient rehabilitation&#xD;
+&#xD;
+          -  Signed general consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        - Re-rehabilitation due to a chronic stroke&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Janne M. Veerbeek, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Luzerner Kantonsspital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Luzerner Kantonsspital</name>
+      <address>
+        <city>Lucerne</city>
+        <zip>6000</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <reference>
+    <citation>Breisinger TP, Skidmore ER, Niyonkuru C, Terhorst L, Campbell GB. The Stroke Assessment of Fall Risk (SAFR): predictive validity in inpatient stroke rehabilitation. Clin Rehabil. 2014 Dec;28(12):1218-24. doi: 10.1177/0269215514534276. Epub 2014 May 21.</citation>
+    <PMID>24849795</PMID>
+  </reference>
+  <reference>
+    <citation>Campbell GB, Matthews JT. An integrative review of factors associated with falls during post-stroke rehabilitation. J Nurs Scholarsh. 2010 Dec;42(4):395-404. doi: 10.1111/j.1547-5069.2010.01369.x. Epub 2010 Oct 13. Review.</citation>
+    <PMID>21091622</PMID>
+  </reference>
+  <reference>
+    <citation>Flamand-Roze C, Falissard B, Roze E, Maintigneux L, Beziz J, Chacon A, Join-Lambert C, Adams D, Denier C. Validation of a new language screening tool for patients with acute stroke: the Language Screening Test (LAST). Stroke. 2011 May;42(5):1224-9. doi: 10.1161/STROKEAHA.110.609503. Epub 2011 Apr 12.</citation>
+    <PMID>21487118</PMID>
+  </reference>
+  <reference>
+    <citation>Meyer K, Simmet A, Arnold M, Mattle H, Nedeltchev K. Stroke events, and case fatalities in Switzerland based on hospital statistics and cause of death statistics. Swiss Med Wkly. 2009 Feb 7;139(5-6):65-9. doi: smw-12448.</citation>
+    <PMID>19204838</PMID>
+  </reference>
+  <reference>
+    <citation>National Institute for Health and Care Excellence. Stroke rehabilitation in adults. 2013. https://www.nice.org.uk/guidance/cg162/chapter/1-Recommendations#organising-health-and-social-care-for-people-needing-rehabilitation-after-stroke</citation>
+  </reference>
+  <reference>
+    <citation>Nyberg L, Gustafson Y. Patient falls in stroke rehabilitation. A challenge to rehabilitation strategies. Stroke. 1995 May;26(5):838-42.</citation>
+    <PMID>7740577</PMID>
+  </reference>
+  <reference>
+    <citation>Persson CU, Kjellberg S, Lernfelt B, Westerlind E, Cruce M, Hansson PO. Risk of falling in a stroke unit after acute stroke: The Fall Study of Gothenburg (FallsGOT). Clin Rehabil. 2018 Mar;32(3):398-409. doi: 10.1177/0269215517728325. Epub 2017 Sep 11.</citation>
+    <PMID>28891685</PMID>
+  </reference>
+  <reference>
+    <citation>Simpson LA, Miller WC, Eng JJ. Effect of stroke on fall rate, location and predictors: a prospective comparison of older adults with and without stroke. PLoS One. 2011 Apr 29;6(4):e19431. doi: 10.1371/journal.pone.0019431.</citation>
+    <PMID>21559367</PMID>
+  </reference>
+  <reference>
+    <citation>Walsh ME, Horgan NF, Walsh CD, Galvin R. Systematic review of risk prediction models for falls after stroke. J Epidemiol Community Health. 2016 May;70(5):513-9. doi: 10.1136/jech-2015-206475. Epub 2016 Jan 14. Review.</citation>
+    <PMID>26767405</PMID>
+  </reference>
+  <reference>
+    <citation>Walsh ME, Sorensen J, Galvin R, Williams DJ, Harbison JA, Murphy S, Collins R, McCabe DJ, Crowe M, Horgan NF. First year post-stroke healthcare costs and fall-status among those discharged to the community. Eur Stroke J. 2018 Sep;3(3):254-262. doi: 10.1177/2396987318764954. Epub 2018 Mar 15.</citation>
+    <PMID>31008356</PMID>
+  </reference>
+  <reference>
+    <citation>Wong JS, Brooks D, Mansfield A. Do Falls Experienced During Inpatient Stroke Rehabilitation Affect Length of Stay, Functional Status, and Discharge Destination? Arch Phys Med Rehabil. 2016 Apr;97(4):561-566. doi: 10.1016/j.apmr.2015.12.005. Epub 2015 Dec 19.</citation>
+    <PMID>26711169</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 4, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 26, 2021</study_first_posted>
+  <last_update_submitted>November 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Luzerner Kantonsspital</investigator_affiliation>
+    <investigator_full_name>Janne Veerbeek</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

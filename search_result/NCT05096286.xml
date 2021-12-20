@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4987">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05096286</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202110091</org_study_id>
+    <nct_id>NCT05096286</nct_id>
+  </id_info>
+  <brief_title>Simulation-Free Hippocampal-Avoidance Whole Brain Radiotherapy Using Diagnostic MRI-Based and Cone Beam Computed Tomography-Guided On-Table Adaptive Planning in a Novel Ring Gantry Radiotherapy Device</brief_title>
+  <official_title>Feasibility and Safety of Simulation-Free Hippocampal-Avoidance Whole Brain Radiotherapy Using Diagnostic MRI-Based and Cone Beam Computed Tomography-Guided On-Table Adaptive Planning in a Novel Ring Gantry Radiotherapy Device</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Varian Medical Systems</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Hippocampal-avoidance whole brain radiation therapy (HA-WBRT) limits radiation dose to the&#xD;
+      hippocampal-avoidance region while still delivering therapeutic doses of radiation to the&#xD;
+      whole brain. When used in addition to prophylactic memantine, this technique has been shown&#xD;
+      to better preserve cognitive function in patients with brain metastases outside of the&#xD;
+      hippocampal-avoidance region with no difference in intracranial progression-free and overall&#xD;
+      survival. However, HA-WBRT requires considerably longer planning time when compared to&#xD;
+      conventional WBRT (5-10 business days, compared to next-day), and studies have shown that&#xD;
+      brain metastases can grow in as rapidly as one week.&#xD;
+&#xD;
+      A proposed solution for quicker initiation of HA-WBRT is the use of simulation-free radiation&#xD;
+      treatment planning, in which pre-existing diagnostic images are used to generate the&#xD;
+      radiation treatment plan (as opposed to acquiring planning-specific image sets). This will be&#xD;
+      paired with the use of artificial intelligence (AI)-assisted semi-automated planning using&#xD;
+      the FDA-approved treatment planning system called Ethos Therapy. The investigators have&#xD;
+      developed an institutional HA-WBRT auto-planning template, which has been retrospectively&#xD;
+      validated for the creation of plans that are compliant with the gold standard NRG Oncology&#xD;
+      CC001 clinical trial and are dosimetrically comparable to traditional HA-WBRT plans.&#xD;
+      Semi-automated plans will be constructed using diagnostic imaging, which will be refined as&#xD;
+      needed (adjustments for difference in gross head positioning between diagnostic imaging and&#xD;
+      radiation treatment positioning, etc.) while the patient is on the treatment table at&#xD;
+      fraction one using adaptive radiation planning. Adaptive radiotherapy is standard-of-care&#xD;
+      practice for other disease sites.&#xD;
+&#xD;
+      The purpose of this study is to demonstrate the feasibility and safety of a simulation-free&#xD;
+      workflow for HA-WBRT that is AI-assisted and semi-automated.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 31, 2021</start_date>
+  <completion_date type="Anticipated">January 15, 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 15, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Device Feasibility</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility of the simulation-free hippocampal-avoidance whole brain radiotherapy (HA-WBRT) as measured by the successful completion of the simulation-free HA-WBRT workflow through treatment delivery</measure>
+    <time_frame>Through completion of treatment for all enrolled participants (estimated to be 24 months and 2 weeks)</time_frame>
+    <description>-Success will be defined as HA-WBRT plan creation and delivery of fraction 1 using the simulation-free study workflow in one on-table attempt, without having to resort to use of a backup, simulation-based plan in at least 70% of treated patients. Unsuccessful planning and workflow delivery will be defined as multiple attempts for sim-free planning and on-table delivery without creation of a plan meeting planning constraints such that the study workflow is abandoned and a traditional simulation-based planning workflow is used instead.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Intracranial Metastatic Disease From Any Solid Malignancy</condition>
+  <arm_group>
+    <arm_group_label>Simulation-Free Hippocampal-Avoidance Whole Brain Radiotherapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A diagnostic MRI-only, simulation-free plan will be generated from diagnostic brain MRI imaging, using a semi-automated, AI-assisted plan template within the Ethos Therapy system.&#xD;
+The radiation prescription dose twill be 3.0 Gy daily over approximately 2 weeks for a total of 30.0 Gy (10 fractions).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Ethos Therapy</intervention_name>
+    <description>FDA-approved treatment planning system</description>
+    <arm_group_label>Simulation-Free Hippocampal-Avoidance Whole Brain Radiotherapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of intracranial metastatic disease from solid malignancy that is amenable to&#xD;
+             and recommended for treatment with HA-WBRT by the treating physician.&#xD;
+&#xD;
+          -  Patients may have had prior therapy for brain metastasis, including radiosurgery,&#xD;
+             prior whole brain RT, and surgical resection.&#xD;
+&#xD;
+          -  Receipt of a contrast-enhanced brain MRI performed ≤21 days prior to study&#xD;
+             registration&#xD;
+&#xD;
+          -  At least 18 years of age&#xD;
+&#xD;
+          -  Karnofsky performance status ≥ 50&#xD;
+&#xD;
+          -  Able to understand and willing to sign an IRB approved written informed consent&#xD;
+             document (or that of legally authorized representative, if applicable)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant and/or breastfeeding. Women of childbearing potential must have a negative&#xD;
+             pregnancy test within 14 days of study entry. If pregnancy test is not clinically&#xD;
+             indicated as determined by treating physician or protocol principal investigator (PI),&#xD;
+             documentation of this exception is sufficient in lieu of a pregnancy test.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lauren Henke, M.D., M.S.C.I.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lauren Henke, M.D., M.S.C.I.</last_name>
+    <phone>314-747-1786</phone>
+    <email>henke.lauren@wustl.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Lauren Henke, M.D., M.S.C.I.</last_name>
+      <phone>314-747-1786</phone>
+      <email>henke.lauren@wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Lauren Henke, M.D., M.S.C.I</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Kylie Kang, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Francisco Reynoso, Ph.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Alex Price, M.S.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Eric Laugeman, M.S.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Christopher Abraham, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nels Knutson, Ph.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Joseph Dise, M.M.P.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jiayi Huang, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Pamela Samson, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.siteman.wustl.edu</url>
+    <description>Alvin J. Siteman Cancer Center at Barnes-Jewish Hospital and Washington University School of Medicine</description>
+  </link>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 27, 2021</study_first_posted>
+  <last_update_submitted>October 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data that underlies the results reported in the article publication, after deidentification (text, tables, figures, and appendices) may be shared with investigators whose proposed use of the data (for individual participant data meta-analysis) has been approved by an independent review committee identified for this purpose.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>Beginning 9 months and ending 36 months following article publication.</ipd_time_frame>
+    <ipd_access_criteria>Proposals may be submitted up to 36 months following article publication to the principal investigator of the study.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

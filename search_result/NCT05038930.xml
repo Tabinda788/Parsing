@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9397">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05038930</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H-21002728</org_study_id>
+    <nct_id>NCT05038930</nct_id>
+  </id_info>
+  <brief_title>Mobilising Patients With Severe Brain Injury in Intensive Care</brief_title>
+  <acronym>MAWERIC</acronym>
+  <official_title>Mobilising Patients With Severe Brain Injury in Intensive Care</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rigshospitalet, Denmark</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Rigshospitalet, Denmark</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Introduction Patients with severe brain injury are often restricted to bed rest during the&#xD;
+      early period of brain injury which may lead to unwanted secondary complications. There is&#xD;
+      lack of evidence of when to initiate the first mobilisation. The Sara Combilizer® is an easy&#xD;
+      and efficient tool for mobilising patients with severe injuries, including brain injury.&#xD;
+&#xD;
+      Through a randomised cross-over trial the investigators will investigate the impact of early&#xD;
+      mobilisation on patients with severe acquired brain injury caused by traumatic brain injury,&#xD;
+      subarachnoid brain injury or intracranial haematoma.&#xD;
+&#xD;
+      The investigators hypothesise that mobilisation using the Sara Combilizer® does not affect&#xD;
+      partial oxygenation of brain tissue.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The primary purpose of this study is to quantify cerebral oxygenation, when mobilising&#xD;
+      patients with severe brain injury using a Sara Combilizer® to the seated position and during&#xD;
+      passive standing.&#xD;
+&#xD;
+      This study is conducted at the Department of Neurointensive care and Neuroanaesthesiology,&#xD;
+      Rigshospitalet, Copenhagen.&#xD;
+&#xD;
+      Based on the International Conference on harmonisation-Good Clinical Practice guidelines and&#xD;
+      the Danish &quot;Good Clinical Practice&quot; administrative order, a table regarding the&#xD;
+      responsibilities of sponsor/investigators before, during and after the clinical trial, will&#xD;
+      be filled and signed in order to avoid misunderstandings. This table can be found in the&#xD;
+      Trial Master File (TMF) located at the primary investigator's office and the sponsor's&#xD;
+      office.&#xD;
+&#xD;
+      This study is designed as a cross-over study with patients randomly assigned to (1) an&#xD;
+      initial intervention protocol on the first day and with a passive sedentary protocol on the&#xD;
+      second, or (2) an initial passive sedentary protocol on the first day followed by an&#xD;
+      intervention protocol on the second day.&#xD;
+&#xD;
+      Randomisation Included patients will, after stabilisation of ICP, be randomised to start with&#xD;
+      either the intervention or sedentary protocol, with the opposite protocol on the second day.&#xD;
+      A computer-generated randomisation algorithm will be created in REDCap, with age and Glasgow&#xD;
+      Coma Score (GCS) as dichotomised stratification variables. Age will be divided into young (18&#xD;
+      to 60 years) and old (61+ years), and the GCS into severe brain injury (GCS 3-8) and moderate&#xD;
+      to mild injury (GCS 9-15). The following four composite groups of age and GCS will ensure an&#xD;
+      equal distribution of the patients within each stratum.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">October 1, 2021</start_date>
+  <completion_date type="Anticipated">January 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>This study is designed as a cross-over study with patients randomly assigned to (1) an initial intervention protocol on the first day and with a passive sedentary protocol on the second, or (2) an initial passive sedentary protocol on the first day followed by an intervention protocol on the second day.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Single (Investigator)</masking>
+    <masking_description>All analysis will be done by a statistician blinded to the intervention or sedentary protocol. Stored data will be named according to patient ID, assigned a letter according to the protocol and a number according to the measurement phase (e.g. ID1011A2).</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in partial oxygenation of brain tissue (PbtO2)</measure>
+    <time_frame>Head-up tilt PbtO2 (delta between supine and standing values) compared to sedentary PbtO2 (delta by subtracting two values measured with the same duration and distance) measured continuously after 24 and 48 hours from stable intracranial pressure</time_frame>
+    <description>PbtO2 measures the partial pressure of oxygen in the extra-cellular fluid of the brain continuously. Therefore, this value represents the balance between oxygen delivered and consumed and reflects the perfusion of the capillaries in the area of interest.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in mean arterial pressure (MAP)</measure>
+    <time_frame>Head-up tilt MAP (delta between supine and standing values) compared to sedentary MAP (delta by subtracting two values measured with the same duration and distance) measured continuously after 24 and 48 hours from stable intracranial pressure</time_frame>
+    <description>Arterial line</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in heart rate (HR)</measure>
+    <time_frame>Head-up tilt HR (delta between supine and standing values) compared to sedentary HR (delta by subtracting two values measured with the same duration and distance) measured continuously after 24 and 48 hours from stable intracranial pressure</time_frame>
+    <description>Three-lead electrocardiography</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in intracranial pressure (ICP)</measure>
+    <time_frame>Head-up tilt ICP (delta between supine and standing values) compared to sedentary ICP (delta by subtracting two values measured with the same duration and distance) measured continuously after 24 and 48 hours from stable intracranial pressure</time_frame>
+    <description>Electrode placed in the intraparenchymal area</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in middle cerebral artery flow velocity (MCAv)</measure>
+    <time_frame>Head-up tilt MCAv (delta between supine and standing values) compared to sedentary MCAv (delta by subtracting two values measured with the same duration and distance) measured continuously after 24 and 48 hours from stable intracranial pressure</time_frame>
+    <description>Transcranial Doppler sonography using a 2 Megahertz probe.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in microdialysis of cerebrospinal fluid: Glucose level (MDg)</measure>
+    <time_frame>Intervention protocol MDg (delta between supine and standing values) compared to sedentary MDg (calculated by subtracting baseline from after protocol values) measured continuously after 24 and 48 hours from stable intracranial pressure</time_frame>
+    <description>Extracellular brain fluids through a small catheter with a semipermeable membrane.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in microdialysis of cerebrospinal fluid: Lactate/pyruvate level (MDl/p)</measure>
+    <time_frame>Intervention protocol MDl/p (delta between supine and standing values) compared to sedentary MDl/p (calculated by subtracting baseline from after protocol values) measured continuously after 24 and 48 hours from stable intracranial pressure</time_frame>
+    <description>Extracellular brain fluids through a small catheter with a semipermeable membrane.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in cerebral perfusion pressure (CPP)</measure>
+    <time_frame>Head-up tilt CPP (delta between supine and standing values) compared to sedentary CPP (delta by subtracting two values measured with the same duration and distance) measured continuously after 24 and 48 hours from stable intracranial pressure</time_frame>
+    <description>Cerebral perfusion pressure calculated from mean arterial pressure and intracranial pressure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in mean flow index (Mx)</measure>
+    <time_frame>Head-up tilt Mx (delta between supine and standing values) compared to sedentary Mx (delta by subtracting two values measured with the same duration and distance) measured continuously after 24 and 48 hours from stable intracranial pressure</time_frame>
+    <description>Pearson's correlation coefficient from mean flow velocity af the middle cerebral artery measured by transcranial Doppler and the cerebral perfusion pressure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in pressure reactivity index (PRx)</measure>
+    <time_frame>Head-up tilt PRx (delta between supine and standing values) compared to sedentary PRx (delta by subtracting two values measured with the same duration and distance) measured continuously after 24 and 48 hours from stable intracranial pressure</time_frame>
+    <description>Correlation between intracranial pressure and arterial blood pressure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in artial arterial carbon dioxide (PaCO2) levels</measure>
+    <time_frame>Head-up tilt PaCO2 (delta between supine and standing values) compared to sedentary PaCO2 (delta by subtracting two values measured with the same duration and distance) measured continuously after 24 and 48 hours from stable intracranial pressure</time_frame>
+    <description>Blood samples drawn from arterial line</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change in Richmond agitation and sedation scale (RASS)</measure>
+    <time_frame>Head-up tilt RASS (delta between supine and standing values) compared to sedentary RASS (delta by subtracting two values measured with the same duration and distance) measured continuously after 24 and 48 hours from stable intracranial pressure</time_frame>
+    <description>Observational scale to determine the level of sedation and arousal of the patient. Lowest score (-5) is equivalent to coma (deeply sedated) and highest score (4) is equivalent to aggressive (agitated state). A score of 0 is awake and calm (desireable score)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Glasgow coma scale (GCS)</measure>
+    <time_frame>Head-up tilt GCS (delta between supine and standing values) compared to sedentary GCS (delta by subtracting two values measured with the same duration and distance) measured continuously after 24 and 48 hours from stable intracranial pressure</time_frame>
+    <description>Observational scale used to determine the level of arousal in patients with brain injury. The score ranges from 3 (lowest score) equivalent to coma and 15 (highest score) equivalent to normal level of arousal. Three subscores comprises the total score &quot;eye response&quot; (1-4), &quot;verbal response&quot; (1-5) and &quot;motor response&quot; (1-6). A higher score is better</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">22</enrollment>
+  <condition>Brain Injury Traumatic Severe</condition>
+  <condition>Subarachnoid Hemorrhage</condition>
+  <condition>Intracranial Hematoma</condition>
+  <arm_group>
+    <arm_group_label>Intervention protocol</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Phase 1. The patient will be positioned in a supine position for 20 minutes on the Sara Combilizer®. When necessary, the head of the patient can be elevated to a maximum of 30 degrees during the 20 minutes baseline measurements.&#xD;
+Phase 2. The patient will be positioned in a seated position for 10 minutes with the trunk and head elevated to at least 70 degrees.&#xD;
+Phase 3. The patient will be moved to the standing position for 20 minutes with an elevation angle of the Sara Combilizer of at least 70 degrees. If patients become haemodynamically unstable during the seated or standing position, they will be returned to the supine position, and the intervention will be terminated.&#xD;
+Phase 4. The patient is returned to the phase 1 position (supine). Further measurements are made for at least 20 minutes.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sedentary protocol</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The sedentary protocol will follow the same four phases as the intervention protocol only the patient will remain in the supine position on the Sara Combilizer®. Ideally, no interventions will occur during the 70-minute protocol. If medications are given or other interventions are necessary, this will be registered.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Mobilisation using the Sara Combilizer</intervention_name>
+    <description>The mobilisation with the Sara Combilizer, will be done one time either 24 or 48 hours after stable intracranial pressure</description>
+    <arm_group_label>Intervention protocol</arm_group_label>
+    <other_name>Arjo, Malmø, Sweden</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Traumatic brain injury, subarachnoid haemorrhage, intracranial haematoma&#xD;
+&#xD;
+          -  Sedated for at least 48 hours after admission&#xD;
+&#xD;
+          -  Equipment measuring partial brain tissue oxygenation and intracranial pressure&#xD;
+&#xD;
+          -  Understands spoken and written Danish&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Unstable spinal cord injury&#xD;
+&#xD;
+          -  Unstable injury in the lower extremities prohibiting mobilisation&#xD;
+&#xD;
+          -  No consent from nearest relative&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kirsten Møller, Professor</last_name>
+    <role>Study Chair</role>
+    <affiliation>Department of Neuroanaesthesiology, Rigshospitalet</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Christian G Riberholt, Ph.D.</last_name>
+    <phone>+4522648823</phone>
+    <email>christian.riberholt@regionh.dk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Department of Neuroanaesthesiology, Rigshospitalet</name>
+      <address>
+        <city>Copenhagen</city>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christian Riberholt, PhD</last_name>
+      <phone>22648823</phone>
+      <email>christian.riberholt@regionh.dk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>August 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 9, 2021</study_first_posted>
+  <last_update_submitted>September 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rigshospitalet, Denmark</investigator_affiliation>
+    <investigator_full_name>Christian Riberholt</investigator_full_name>
+    <investigator_title>Principal investigator</investigator_title>
+  </responsible_party>
+  <keyword>Acquired brain injury</keyword>
+  <keyword>Early mobilisation</keyword>
+  <keyword>Cerebral oxygenation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Brain Injuries</mesh_term>
+    <mesh_term>Subarachnoid Hemorrhage</mesh_term>
+    <mesh_term>Brain Injuries, Traumatic</mesh_term>
+    <mesh_term>Hemorrhage</mesh_term>
+    <mesh_term>Hematoma</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data will be shared by reasonable request from other researcher. Due to the small number of included patients this will be done in an anonymised way, so that recognising individual patients are not possible.</ipd_description>
+    <ipd_time_frame>Data will be available from december 2022.</ipd_time_frame>
+    <ipd_access_criteria>All requests will be reviewed by the primary investigator and the sponsor.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

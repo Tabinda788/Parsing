@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2650">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05126667</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UID 2762</org_study_id>
+    <nct_id>NCT05126667</nct_id>
+  </id_info>
+  <brief_title>Analysis of Breast-Conserving Surgery Plus Whole-Breast Irradiation Versus Mastectomy</brief_title>
+  <official_title>A Propensity Score-Matched Analysis of Breast-Conserving Surgery Plus Whole-Breast Irradiation Versus Mastectomy in Breast Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>European Institute of Oncology</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>European Institute of Oncology</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a retrospective propensity score-matched analysis of a large institutional cohort of&#xD;
+      patients in order to compare long-term outcomes and clinicopathologic characteristics between&#xD;
+      patients treated with breast conserving surgery or mastectomy for breast cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The aim of the study is to compare long-term outcomes and clinicopathologic characteristics&#xD;
+      between patients treated with breast conserving surgery + whole breast irradiation or&#xD;
+      mastectomy for breast cancer.&#xD;
+&#xD;
+      Recent observations regarding long-term outcomes among patients with early-stage breast&#xD;
+      cancer who underwent breast-conserving surgery plus whole-breast irradiation or mastectomy&#xD;
+      are from a small number of registry-based studies.&#xD;
+&#xD;
+      Therefore, these findings may overestimate differences in survival between the two groups,&#xD;
+      compared with randomized controlled trials conducted in the 1980s.&#xD;
+&#xD;
+      This study performed a propensity score-matched analysis in a cohort of 9710 patients aged&#xD;
+      &lt;70 years who underwent breast conserving surgery + whole breast irradiation or mastectomy&#xD;
+      without external radiotherapy for a first primary breast cancer (pT1-2, N0-3a) at the&#xD;
+      European Institute of Oncology between 2000 and 2008.&#xD;
+&#xD;
+      Patients were matched by propensity score.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 2000</start_date>
+  <completion_date type="Actual">November 2021</completion_date>
+  <primary_completion_date type="Actual">November 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cumulative incidence of ipsilateral breast tumor recurrence</measure>
+    <time_frame>10 years</time_frame>
+    <description>Incidence of ipsilateral breast tumor recurrence in breast conserving surgery group compared to mastectomy group</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cumulative incidence of axillary lymph node recurrence</measure>
+    <time_frame>10 years</time_frame>
+    <description>cumulative incidence of axillary lymph node recurrence in breast conserving surgery group compared to mastectomy group</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cumulative incidence of contralateral breast cancer</measure>
+    <time_frame>10 years</time_frame>
+    <description>Cumulative incidence of contralateral breast cancer in breast conserving surgery group compared to mastectomy group</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate of distant metastasis</measure>
+    <time_frame>10 years</time_frame>
+    <description>Incidence of distant metastasis in breast conserving surgery group compared to mastectomy group</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cumulative incidence of breast cancer specific survival</measure>
+    <time_frame>10 years</time_frame>
+    <description>Cumulative incidence of breast cancer specific survival in breast conserving surgery group compared to mastectomy group</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate of overall survival</measure>
+    <time_frame>10 years</time_frame>
+    <description>Incidence of survival in breast conserving surgery group compared to mastectomy group</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">9710</enrollment>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Breast-conserving surgery</arm_group_label>
+    <description>Patients who underwent breast-conserving surgery plus whole-breast irradiation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mastectomy</arm_group_label>
+    <description>Patients who underwent mastectomy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Breast-conserving surgery</intervention_name>
+    <description>Breast conserving surgery plus whole breast irradiation</description>
+    <arm_group_label>Breast-conserving surgery</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Mastectomy</intervention_name>
+    <description>Breast mastectomy</description>
+    <arm_group_label>Mastectomy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Retrospectively analysis of patients who received treatment for invasive breast cancer at&#xD;
+        the European Institute of Oncology between January 1, 2000, and December 31, 2008.&#xD;
+&#xD;
+        The original cohort comprised 9710 eligible patients with breast cancer, of whom 2289&#xD;
+        (23.6%) underwent breast conserving surgery + whole breast irradiation and 7421 (76.4%)&#xD;
+        underwent mastectomy alone.&#xD;
+&#xD;
+        After propensity score matching, 1970 of the 2289 patients who underwent mastectomy (86.1%)&#xD;
+        were successfully matched to 1970 patients who underwent breast conserving surgery.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  First primary breast cancer&#xD;
+&#xD;
+          -  pT1-2&#xD;
+&#xD;
+          -  pN0-3a&#xD;
+&#xD;
+          -  Surgery performed at European Institute of Oncology between 2000 and 2008&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  pT&gt;=3&#xD;
+&#xD;
+          -  Neoadjuvant treatment&#xD;
+&#xD;
+          -  Presence of metastatic breast disease at the time of admission or within 3 months&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Francesca Magnoni, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>European Institute of Oncology</affiliation>
+  </overall_official>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 19, 2021</study_first_posted>
+  <last_update_submitted>November 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

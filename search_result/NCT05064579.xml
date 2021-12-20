@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7426">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05064579</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP210819</org_study_id>
+    <secondary_id>2021-A00041-40</secondary_id>
+    <nct_id>NCT05064579</nct_id>
+  </id_info>
+  <brief_title>Towards an Algorithmic Approach to Asthma Management: Collaborative Definition of Algorithm Objectives With Families</brief_title>
+  <acronym>COPA</acronym>
+  <official_title>Towards an Algorithmic Approach to Asthma Management: Collaborative Definition of Algorithm Objectives With Families</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Using &quot;big data&quot; and artificial intelligence techniques, it becomes possible to envision&#xD;
+      algorithms for managing childhood asthma on a daily basis.&#xD;
+&#xD;
+      In order to develop such tools, it is necessary to determine with asthma stakeholders&#xD;
+      (children, parents, doctors) the parameters that future algorithms should seek to maximize /&#xD;
+      minimize.&#xD;
+&#xD;
+      The main objective of the study is to quantify the respective importance of each of the goals&#xD;
+      that children with asthma, parents, and their doctors seek to achieve when taking /&#xD;
+      supervising / prescribing a background therapy.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Using &quot;big data&quot; and artificial intelligence techniques, it becomes possible to envision&#xD;
+      algorithms for managing childhood asthma on a daily basis.&#xD;
+&#xD;
+      In order to develop such tools, it is necessary to determine with asthma stakeholders&#xD;
+      (children, parents, doctors) the parameters that future algorithms should seek to maximize /&#xD;
+      minimize.&#xD;
+&#xD;
+      The main objective of the study is to quantify the respective importance of each of the goals&#xD;
+      that children with asthma, parents, and their doctors seek to achieve when taking /&#xD;
+      supervising / prescribing a background therapy.&#xD;
+&#xD;
+      To do this, parents and children fill out a paper questionnaire, which is completed by their&#xD;
+      doctor, when they come to the hospital for consultation, hospitalization, or to perform lung&#xD;
+      function tests.&#xD;
+&#xD;
+      Concerning children and parents, these questionnaires include a part aimed at prioritizing&#xD;
+      each person's objectives and a second part collecting general information regarding their&#xD;
+      characteristics (age, sex, asthma history, etc.).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2021</start_date>
+  <completion_date type="Anticipated">June 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean score attributed to each goal</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Children, their parents (or holders of parental authority), and their doctors will be asked to allocate 20 points to 7 goals they want to prevent with the asthma controller treatment, and another 20 points to 5 goals regarding their treatment modality (more discreet, easier to take, etc). The score for each goal will range from 0 (objective not important to the respondent) to 20 (objective of major importance to the respondent).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of goals between respondents</measure>
+    <time_frame>Day 0</time_frame>
+    <description>For each goal, the correlation of the scores attributed by children, their parents, and their doctors, will be calculated.</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">425</enrollment>
+  <condition>Childhood Asthma</condition>
+  <arm_group>
+    <arm_group_label>Patients with asthma</arm_group_label>
+    <description>Children and adolescents aged 8 to 17 years old with a doctor's diagnosis of asthma and controller asthma treatment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Holders of parental authority</arm_group_label>
+    <description>Holders of parental authority of patients with asthma described in group A</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Doctors</arm_group_label>
+    <description>Doctors caring for patients with asthma described in group A</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaires</intervention_name>
+    <description>Questionnaire in two parts: one part on the objectives related to taking the treatment and the objectives related to the treatment modality and a second part on the general characteristics of each participant and the characteristics of the child's asthma.</description>
+    <arm_group_label>Doctors</arm_group_label>
+    <arm_group_label>Holders of parental authority</arm_group_label>
+    <arm_group_label>Patients with asthma</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants will be recruited in hospitals in the Ile-de-france region&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Minor patients aged 8 years to 17 years and 11 months inclusive with a diagnosis of&#xD;
+             asthma made by a doctor and a basic treatment for asthma&#xD;
+&#xD;
+          -  Holders of parental authority for patients meeting the above criteria&#xD;
+&#xD;
+          -  Doctors caring for children with asthma&#xD;
+&#xD;
+          -  Information and non-opposition of holders of parental authority and minor patients to&#xD;
+             participate in the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Refusal to participate in the study&#xD;
+&#xD;
+          -  Difficulties in French writing and / or speaking&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>8 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Drummond, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assistance Publique - Hôpitaux de Paris</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>David Drummond, MD</last_name>
+    <phone>1 44 49 48 38</phone>
+    <phone_ext>+33</phone_ext>
+    <email>david.drummond@aphp.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Hélène Morel</last_name>
+    <phone>1 44 38 16 53</phone>
+    <phone_ext>+33</phone_ext>
+    <email>helene.morel@aphp.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hôpital Ambroise Paré</name>
+      <address>
+        <city>Boulogne-Billancourt</city>
+        <zip>92100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Grégoire Benoist, MD</last_name>
+      <phone>1 49 09 57 05</phone>
+      <phone_ext>+33</phone_ext>
+      <email>gregoire.benoist@aphp.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Louis Mourier</name>
+      <address>
+        <city>Colombes</city>
+        <zip>92700</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Bogdan Cojocaru, MD</last_name>
+      <phone>1 47 60 60 77</phone>
+      <phone_ext>+33</phone_ext>
+      <email>bogdan.cojocaru@aphp.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Trousseau-Allergologie pédiatrique</name>
+      <address>
+        <city>Paris</city>
+        <zip>75012</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Stéphanie WANIN, MD</last_name>
+      <phone>1 44 73 68 38</phone>
+      <phone_ext>+33</phone_ext>
+      <email>stephanie.wanin@aphp.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Trousseau-Pneumologie pédiatrique</name>
+      <address>
+        <city>Paris</city>
+        <zip>75012</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Harriet Corvol, MD, PhD</last_name>
+      <phone>1 44 73 66 68</phone>
+      <phone_ext>+33</phone_ext>
+      <email>harriet.corvol@aphp.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Necker-Enfants Malades</name>
+      <address>
+        <city>Paris</city>
+        <zip>75015</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Rola Abou Taam, MD</last_name>
+      <phone>1 44 49 48 38</phone>
+      <phone_ext>+33</phone_ext>
+      <email>rola.aboutaam@aphp.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Robert Debré</name>
+      <address>
+        <city>Paris</city>
+        <zip>75019</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Véronique Houdouin, MD, PhD</last_name>
+      <phone>1 71 28 25 53</phone>
+      <phone_ext>+33</phone_ext>
+      <email>veronique.houdouin@aphp.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 1, 2021</study_first_posted>
+  <last_update_submitted>September 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Childhood asthma</keyword>
+  <keyword>Algorithms for managing childhood asthma</keyword>
+  <keyword>Big data</keyword>
+  <keyword>Artificial intelligence</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Asthma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

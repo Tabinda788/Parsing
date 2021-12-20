@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9919">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05032144</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STSA-1002-01</org_study_id>
+    <nct_id>NCT05032144</nct_id>
+  </id_info>
+  <brief_title>The Safety and Tolerability of STSA-1002 Following Intravenous Infusion in Healthy Subjects</brief_title>
+  <official_title>A Randomized,Double-blind,Placebo-controlled,Single-ascending Dose Phase Ⅰa Study to Evaluate the Safety,Tolerability,Pharmacokinetics and Pharmacodynamics of STSA-1002 Following Intravenous Infusion in Healthy Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Staidson (Beijing) Biopharmaceuticals Co., Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Staidson (Beijing) Biopharmaceuticals Co., Ltd</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A randomized,double-blind,placebo-controlled,single-ascending dose phase Ⅰa study to evaluate&#xD;
+      the safety,tolerability,pharmacokinetics and pharmacodynamics of STSA-1002 following&#xD;
+      intravenous infusion in healthy subjects&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 28, 2021</start_date>
+  <completion_date type="Anticipated">March 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of Adverse Events, Clinically Significant Laboratory Abnormalities,Clinically Significant Electrocardiogram Abnormalities, Clinically Significant Vital Signs Abnormalities And Clinically Significant Physical Examination Abnormalities</measure>
+    <time_frame>Day 1 through Day 51</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum plasma concentration(Cmax)</measure>
+    <time_frame>Up to 1200 hours postdose</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area under the plasma concentration-time curve from time 0 to the collection time point of the last measurable concentration(AUC 0-t)</measure>
+    <time_frame>Up to 1200 hours postdose</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area under the plasma concentration-time curve from time 0 to infinity(AUC0-∞)</measure>
+    <time_frame>Up to 1200 hours postdose</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time of maximum concentration(Tmax)</measure>
+    <time_frame>Up to 1200 hours postdose</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Elimination half-life(t1/2)</measure>
+    <time_frame>Up to 1200 hours postdose</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Elimination rate constant of plasma drug concentration in terminal phase(λz)</measure>
+    <time_frame>Up to 1200 hours postdose</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Last measurable concentration(Clast)</measure>
+    <time_frame>Up to 1200 hours postdose</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mean residence time(MRT)</measure>
+    <time_frame>Up to 1200 hours postdose</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clearance(CL)</measure>
+    <time_frame>Up to 1200 hours postdose</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Apparent volume of distribution(Vz)</measure>
+    <time_frame>Up to 1200 hours postdose</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in concentration of free C5a and anti-drug antibody</measure>
+    <time_frame>Up to 1200 hours postdose</time_frame>
+    <description>To evaluate the pharmacodynamics (PD) characteristics and immunogenicity of STSA-1002 in healthy subjects</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in concentration of CH50,IL-6,IL-8,TNF-α,IFN-γ</measure>
+    <time_frame>Up to 1200 hours postdose</time_frame>
+    <description>To evaluate the effect of STSA-1002 on CH50, IL-6, IL-8, TNF-α, IFN-γ</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1:2mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All participants (fasted) received either 2mg/kg of STSA-1002 as a single dose or dose-matched placebo.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2:5mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All participants (fasted) received either 5mg/kg of STSA-1002 as a single dose or dose-matched placebo.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3:10mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All participants (fasted) received either 10mg/kg of STSA-1002 as a single dose or dose-matched placebo.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 4:20mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All participants (fasted) received either 20mg/kg of STSA-1002 as a single dose or dose-matched placebo.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 5:30mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All participants (fasted) received either 30mg/kg of STSA-1002 as a single dose or dose-matched placebo.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>STSA-1002 injection</intervention_name>
+    <description>Intravenous injection</description>
+    <arm_group_label>Cohort 1:2mg/kg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Intravenous injection</description>
+    <arm_group_label>Cohort 1:2mg/kg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>STSA-1002 injection</intervention_name>
+    <description>Intravenous injection</description>
+    <arm_group_label>Cohort 2:5mg/kg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Intravenous injection</description>
+    <arm_group_label>Cohort 2:5mg/kg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>STSA-1002 injection</intervention_name>
+    <description>Intravenous injection</description>
+    <arm_group_label>Cohort 3:10mg/kg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Intravenous injection</description>
+    <arm_group_label>Cohort 3:10mg/kg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>STSA-1002 injection</intervention_name>
+    <description>Intravenous injection</description>
+    <arm_group_label>Cohort 4:20mg/kg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Intravenous injection</description>
+    <arm_group_label>Cohort 4:20mg/kg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>STSA-1002 injection</intervention_name>
+    <description>Intravenous injection</description>
+    <arm_group_label>Cohort 5:30mg/kg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Intravenous injection</description>
+    <arm_group_label>Cohort 5:30mg/kg</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy subjects,aged ≥18 but ≤65，male and female.&#xD;
+&#xD;
+          -  Body mass index:18.0～32.0kg/m²，inclusive.&#xD;
+&#xD;
+          -  Subjects(including their partners) agree to take highly effective contraceptive&#xD;
+             measures during the study,and they have no birth plan or sperm donation plan within&#xD;
+             3months after the end of the study.&#xD;
+&#xD;
+          -  Female and/or male subjects those meet the below criteria:&#xD;
+&#xD;
+        If a female subject of child bearing potential-agrees to use one of the accepted&#xD;
+        contraceptive regimens from at least 30 days prior to the administration of IMP,during the&#xD;
+        study,and for at least 3 months after the administration of IMP. An acceptable method of&#xD;
+        contraception includes one of the following:&#xD;
+&#xD;
+        Abstinence from heterosexual intercourse Hormonal contraceptives(brith control&#xD;
+        pills,injectable/implant/insertable hormonal birth control products, transdermal patch)&#xD;
+        Intrauterine device(with or without hormones) OR agrees to use a double barrier method&#xD;
+        (e.g. condom and spermicide) during the study and for at 3 months after the administration&#xD;
+        of IMP.&#xD;
+&#xD;
+        If a female subject of non-childbearing potential - should be surgically sterile (i.e. has&#xD;
+        undergone complete hysterectomy, bilateral oophorectomy, or tubal ligation/occlusion) or in&#xD;
+        a menopausal state (at least 1 year without menses), as confirmed by Follicle-stimulating&#xD;
+        hormone (FSH) levels (≥ 40 mIU/mL).&#xD;
+&#xD;
+        A male subject that engages in sexual activity that has the risk of pregnancy must agree to&#xD;
+        use a double barrier method (e.g. condom and spermicide) and agree to not donate sperm&#xD;
+        during the study and for at least 90 days after the administration of IMP.&#xD;
+&#xD;
+          -  Medical histories, physical examinations, laboratory examinations and study-related&#xD;
+             examinations and tests of the subjects show normal results or mild abnormalities with&#xD;
+             no clinical significance before enrollment, and the Investigator judges that they are&#xD;
+             eligible.&#xD;
+&#xD;
+          -  Subjects are aware of the risks of the study, and voluntarily participate in the&#xD;
+             clinical study and sign an informed consent form (ICF).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of cardiovascular, respiratory, kidney, liver, metabolism, endocrine,&#xD;
+             gastrointestinal, blood, nerve, skin and mental illness, cancer or other major disease&#xD;
+             that in the judgment of the Investigator might put the subject as risk on this study.&#xD;
+&#xD;
+          -  History of tuberculosis or a recent history of infection within the past 4 weeks.&#xD;
+&#xD;
+          -  History of recurrent infections.&#xD;
+&#xD;
+          -  Presence of clinically significant laboratory values during the screening period, as&#xD;
+             defined by an Investigator.&#xD;
+&#xD;
+          -  Presence of clinically significant vital signs values or of electrocardiogram (ECG)&#xD;
+             abnormalities during the screening period, as defined by an Investigator.&#xD;
+&#xD;
+          -  Subjects who have autoimmune disease or immunodeficiency, or have a family history of&#xD;
+             related diseases.&#xD;
+&#xD;
+          -  Subjects who have allergies, or have or are currently suffering from clinically&#xD;
+             significant atopic allergies, hypersensitivity or allergic reactions, including known&#xD;
+             or suspected clinically relevant hypersensitivity or allergic reactions to certain&#xD;
+             components of the IMP preparation, or a history of allergies to other drugs or&#xD;
+             biological agents.&#xD;
+&#xD;
+          -  Positive screening test results for human immunodeficiency virus (HIV-1/HIV-2)&#xD;
+             antibodies, hepatitis B surface antigen (HBsAg) or hepatitis C antibody (HCVAb).&#xD;
+&#xD;
+          -  Subjects who have received treatment with an investigational drug within 30 days or 5&#xD;
+             times the half-life (whichever is longer) prior to screening or 90 days for biologic&#xD;
+             compounds prior to screening.&#xD;
+&#xD;
+          -  Subjects who have participated in any vaccine clinical study as subjects within 3&#xD;
+             months before enrollment or plan to receive live vaccines during the study period, and&#xD;
+             subjects who have received inactivated vaccines 28 days prior to the IMP&#xD;
+             administration or plan to receive inactivated vaccines within 2 months after the end&#xD;
+             of the study.&#xD;
+&#xD;
+          -  Subjects who have taken drugs that may affect immune function within 6 months before&#xD;
+             screening, have received any monoclonal antibody or biological agent for treatment&#xD;
+             (for any illness) within the previous 3 months, and have previous treatment with any&#xD;
+             prescribed medications (including vaccines) or over-the-counter (OTC) medications&#xD;
+             (including herbal medicines such as St John's Wort, homeopathic preparations,&#xD;
+             vitamins, and minerals) within 7 days prior to IMP administration.&#xD;
+&#xD;
+          -  Subjects whose daily consumption of coffee, tea and/or cola is more than 750 mL or 25&#xD;
+             fl. oz in the last 30 days before enrollment.&#xD;
+&#xD;
+          -  Subjects who have a positive urine alcohol test or urine drug test before enrollment.&#xD;
+&#xD;
+          -  Subjects who have nicotine consumption (e.g., smoking, nicotine patch, nicotine&#xD;
+             chewing gum, or electronic cigarettes) within 3 months prior to screening and&#xD;
+             inability to refrain from nicotine consumption from screening until end of study.&#xD;
+&#xD;
+          -  Female subjects who are pregnant or breastfeeding during the screening period and on&#xD;
+             admission.&#xD;
+&#xD;
+          -  Subjects whose daily consumption of alcohol at the time of screening or at any time&#xD;
+             within the prior 6 months is more than 2 standard drinks, where 1 standard drink = 355&#xD;
+             mL or 12 oz (1 can) of regular-strength (5%) beer; 150 mL or 5 oz wine; 45 mL or 1.5&#xD;
+             oz liquor/spirits (40%).&#xD;
+&#xD;
+          -  History of substance use disorder (within 1 year of screening).&#xD;
+&#xD;
+          -  Subjects who have undergone major surgery within 2 months of screening, or who will&#xD;
+             have elective surgery that will occur during the study period.&#xD;
+&#xD;
+          -  Subjects who have donated either more than approximately 500 mL of blood (exclusive&#xD;
+             plasma donation) within 56 days (8 weeks) prior to screening or any plasma within 7&#xD;
+             days (1 week) prior to screening.&#xD;
+&#xD;
+          -  Subjects with any factors that would, in the Investigator's judgment, preclude them&#xD;
+             from participating in this study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jamie Zhang</last_name>
+    <phone>+86 15811549898</phone>
+    <email>zhangjingmei@staidson.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>AltaSciences Clinical Kansas, Inc</name>
+      <address>
+        <city>Overland Park</city>
+        <state>Kansas</state>
+        <zip>66212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Martin K Kankam</last_name>
+      <phone>913-696-1601</phone>
+      <email>mkankam@altasciences.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>August 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>August 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 2, 2021</study_first_posted>
+  <last_update_submitted>September 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

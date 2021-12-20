@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2129">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05133440</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-213</org_study_id>
+    <nct_id>NCT05133440</nct_id>
+  </id_info>
+  <brief_title>A Study of Stereotactic Body Radiation Therapy and Radium (Ra-223) Dichloride in Prostate Cancer That Has Spread to the Bones</brief_title>
+  <official_title>SAXON-PC: A Phase II Randomized Trial of Stereotactic Body Radiation Therapy (SBRT) And Radium (Ra-223) Dichloride for Oligorecurrent, Non-castrate Resistant Prostate Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memorial Sloan Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Memorial Sloan Kettering Cancer Center</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Participants will either receive treatment with standard SBRT and the study drug Radium&#xD;
+      (Ra-223) dichloride, or standard SBRT alone.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 12, 2021</start_date>
+  <completion_date type="Anticipated">November 12, 2024</completion_date>
+  <primary_completion_date type="Anticipated">November 12, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression Free Survival</measure>
+    <time_frame>1 year</time_frame>
+    <description>The primary outcome is to compare rates of composite PFS between the two treatment arms using bone scan imaging. A patient will be considered to have disease progression if any of the following events occur from the time of protocol randomization to date of last follow-up: a) PSA biochemical progression OR b) Radiographical progression OR c) clinical progression OR d) start of ADT OR e) death from any cause</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">136</enrollment>
+  <condition>Prostate Cancer</condition>
+  <arm_group>
+    <arm_group_label>Experimental Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive two cycles of Radium (Ra-223) dichloride at 55 kBq/kg or 0.00149 mCi/kg or 1.49 uCi/kg every 4 weeks followed 2-3 weeks later by SBRT at a dose of 9 Gy per fraction for 3 fractions (total dose of 27 Gy) to all sites of radiographically apparent metastatic disease.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Arm:</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will receive SBRT at a dose of 9 Gy per fraction for 3 fractions (total dose of 27 Gy) to all sites of radiographically apparent metastatic disease. SBRT fractions can be administered every day or every other day per institutional practice.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Radium dichloride</intervention_name>
+    <description>Two cycles of Radium (Ra-223) dichloride at 55 kBq/kg or 0.00149 mCi/kg or 1.49 uCi/kg every 4 weeks followed 2-3 weeks later by SBRT at a dose of 9 Gy per fraction for 3 fractions (total dose of 27 Gy) to all sites of radiographically apparent metastatic disease. SBRT fractions can be administered every day or every other day per institutional practice. An additional 4 cycles of Radium (Ra-223) dichloride at 55 kBq/kg or 0.00149 mCi/kg or 1.49 uCi/kg every 4 weeks will then be administered, resuming 2-3 weeks after completion of the final fraction of SBRT.</description>
+    <arm_group_label>Control Arm:</arm_group_label>
+    <arm_group_label>Experimental Arm</arm_group_label>
+    <other_name>Ra-223</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>PET Scan</intervention_name>
+    <description>For both arms, the NaF PET will be used to identify discrete osseous lesions which will become index lesions for the study. The simulation scan (either baseline or after 2 cycles of Ra-223) will be used to generate a suitable SBRT radiation plan, per standard practice. If the index lesions are no longer visible after two cycles of Ra-223, we still intend to consolidate the area with radiation. If the lesions are initially radio-occult on the CT and only visible on the NaF PET, we will fuse the pre-treatment NaF PET/CT to the simulation CT after 2 cycles of Ra-223 to delineate the SBRT treatment volumes.</description>
+    <arm_group_label>Control Arm:</arm_group_label>
+    <other_name>NaF PET</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Biopsy proven prostate adenocarcinoma&#xD;
+&#xD;
+          -  ≥ 18 years old&#xD;
+&#xD;
+          -  Primary prostate tumor must have been treated with prior prostatectomy or definitive&#xD;
+             radiotherapy&#xD;
+&#xD;
+          -  Men with prior salvage radiotherapy to the prostate bed and/or locoregional lymph&#xD;
+             nodes are eligible assuming normalization of testosterone&#xD;
+&#xD;
+          -  No clinical evidence of local recurrence by digital rectal examination&#xD;
+&#xD;
+          -  Negative multi-parametric MRI and/or negative biopsy of the prostate (or prostate bed)&#xD;
+             within 2 months of enrollment&#xD;
+&#xD;
+          -  Pre-enrollment imaging (any bone imaging modality per institutional standard of care)&#xD;
+             demonstrates oligometastatic disease with 1-3 discrete metastatic lesions of the bone&#xD;
+             performed within 90 days of study enrollment; screening sodium fluoride PET confirming&#xD;
+             1-3 sites of oligometastatic disease performed within 30 days of enrollment.&#xD;
+&#xD;
+          -  All bony oligometastatic sites must be deemed appropriate to receive 3 fraction SBRT&#xD;
+             to a dose of 9 Gy x 3 at best judgment of treating radiation oncologist&#xD;
+&#xD;
+          -  Prostate specific antigen (PSA) ≥ 0.5 ng/mL but ≤ 50 ng/mL&#xD;
+&#xD;
+          -  Patients may have had prior androgen deprivation therapy (ADT) but must have normal&#xD;
+             testosterone levels (&gt;100 ng/dL) at time of enrollment; patients with baseline low&#xD;
+             testosterone but no ADT exposure are eligible&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status ≤ 2&#xD;
+&#xD;
+          -  Subjects who have not had surgical removal of their prostate and have a partner of&#xD;
+             child bearing potential must agree to use condoms beginning at the signing of the&#xD;
+             consent until at least 6 months after the last dose of study drug. Because of the&#xD;
+             potential side effect on spermatogenesis associated with radiation, female partners of&#xD;
+             childbearing potential must agree to use a highly effective contraceptive method&#xD;
+             during and for 6 months after completing treatment. Examples of highly effective&#xD;
+             contraception options for women include implantable uterine devices (hormonal or&#xD;
+             non-hormonal), oral, patch and parenteral contraceptives (when taken as prescribed).&#xD;
+&#xD;
+          -  Adequate hematological, liver and renal function&#xD;
+&#xD;
+               -  Absolute neutrophil count (ANC) ≥ 1.5 x 10^9/L&#xD;
+&#xD;
+               -  Platelet count ≥ 100 x 10^9/L&#xD;
+&#xD;
+               -  Hemoglobin ≥ 10.0 g/dL&#xD;
+&#xD;
+               -  Total bilirubin level ≤ 1.5 x institutional upper limit of normal (ULN)&#xD;
+&#xD;
+               -  Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ≤ 2.5 x ULN&#xD;
+&#xD;
+               -  Creatinine ≤ 1.5 x ULN with normal creatinine clearance&#xD;
+&#xD;
+               -  Albumin &gt; 25 g/L&#xD;
+&#xD;
+          -  Patient willing and able to comply with the protocol, including follow-up visits and&#xD;
+             examination&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pathological findings consistent with small cell and/or neuroendocrine carcinoma of&#xD;
+             the prostate or any other histology&#xD;
+&#xD;
+          -  Any metastatic site &gt;5 cm in maximum diameter&#xD;
+&#xD;
+          -  Patients with documented castration resistant prostate cancer (CRPC)&#xD;
+&#xD;
+          -  Patients with any form of conventional, metabolic or molecular imaging (including PET&#xD;
+             imaging with PSMA, fluciclovine and/or FDG tracers) within 3 months of enrollment that&#xD;
+             demonstrate more than 3 discrete metastatic lesions&#xD;
+&#xD;
+          -  Patients with evidence of nonpelvic lymph nodal or any visceral metastases&#xD;
+&#xD;
+          -  Patients with evidence of progressing locoregional lymph nodes (prior lymphadenectomy&#xD;
+             or definitive/salvage RT to the pelvic lymph nodes is acceptable assuming no evidence&#xD;
+             of progression)&#xD;
+&#xD;
+          -  Patients with documented or suspected impending significant spinal cord compression&#xD;
+             defined as epidural spinal cord compression (ESCC) grade 2 or higher using the Bilsky&#xD;
+             scale&#xD;
+&#xD;
+          -  Patients with parenchymal brain metastases&#xD;
+&#xD;
+          -  Patient received any other investigational therapeutic agents or other anticancer&#xD;
+             therapeutics within 4 weeks prior to randomization&#xD;
+&#xD;
+          -  Major surgery within 30 days prior to start of study drug&#xD;
+&#xD;
+          -  Any prior systemic therapy with radionuclide agents (e.g., strontium-89, samarium-153,&#xD;
+             rhenium-186, rhenium-188 or Radium (Ra-223) dichloride) for the treatment of bony&#xD;
+             metastases&#xD;
+&#xD;
+          -  Fecal incontinence&#xD;
+&#xD;
+          -  History of another malignancy within the previous 3 years except for the following:&#xD;
+&#xD;
+        adequately treated basal cell or squamous cell skin cancer&#xD;
+&#xD;
+          -  Any other serious illness or medical condition, such as but not limited to:&#xD;
+&#xD;
+               -  Any infection greater than National Cancer Institute Common Terminology Criteria&#xD;
+                  for Adverse Events (NCI-CTCAE) v 5.0 Grade 2&#xD;
+&#xD;
+               -  New York Heart Association (NYHA) Class III or IV heart failure&#xD;
+&#xD;
+               -  Crohn's disease or ulcerative colitis&#xD;
+&#xD;
+               -  Bone marrow dysplasia or myelodysplastic syndrome&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael Zelefsky, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Memorial Sloan Kettering Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Michael Zelefsky, MD</last_name>
+    <phone>2126396802</phone>
+    <email>zelefskm@MSKCC.ORG</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Michael Morris, MD</last_name>
+    <phone>646-422-4469</phone>
+    <email>morrism@MSKCC.ORG</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Colorado (Data Collection Only)</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Tyler Robin, MD, PhD</last_name>
+      <phone>720-848-0100</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Basking Ridge (Limited Protocol Activities)</name>
+      <address>
+        <city>Basking Ridge</city>
+        <state>New Jersey</state>
+        <zip>07920</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Zelefsky, MD</last_name>
+      <phone>212-639-6802</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memoral Sloan Kettering Monmouth (Limited Protocol Activities)</name>
+      <address>
+        <city>Middletown</city>
+        <state>New Jersey</state>
+        <zip>07748</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Zelefsky, MD</last_name>
+      <phone>212-639-6802</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Bergen (Limited Protocol Activities)</name>
+      <address>
+        <city>Montvale</city>
+        <state>New Jersey</state>
+        <zip>07645</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Zelefsky, MD</last_name>
+      <phone>212-639-6802</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Commack (Limited Protocol Activities)</name>
+      <address>
+        <city>Commack</city>
+        <state>New York</state>
+        <zip>11725</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Zelefsky, MD</last_name>
+      <phone>212-639-6802</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Westchester (Limited Protocol Activities)</name>
+      <address>
+        <city>Harrison</city>
+        <state>New York</state>
+        <zip>10604</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Zelefsky, MD</last_name>
+      <phone>212-639-6802</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center (All Protocol Activities)</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Zelefsky, MD</last_name>
+      <phone>212-639-6802</phone>
+    </contact>
+    <investigator>
+      <last_name>Michael Zelefsky, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Associated Medical Professionals (Data collection only)</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Neil Mariados, MD</last_name>
+      <phone>315-478-4185</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic (Data Collection Only)</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Rahul Tendulkar, MD</last_name>
+      <phone>216-444-2200</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mskcc.org</url>
+    <description>Memorial Sloan Kettering Cancer Center</description>
+  </link>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 24, 2021</study_first_posted>
+  <last_update_submitted>November 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Prostate Cancer</keyword>
+  <keyword>SBRT</keyword>
+  <keyword>Non-castrate Resistant Prostate Cancer</keyword>
+  <keyword>Oligorecurrent Prostate Cancer</keyword>
+  <keyword>SAXON-PC</keyword>
+  <keyword>21-213</keyword>
+  <keyword>Memorial Sloan Kettering Cancer Center</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Memorial Sloan Kettering Cancer Center supports the international committee of medical journal editors (ICMJE) and the ethical obligation of responsible sharing of data from clinical trials. The protocol summary, a statistical summary, and informed consent form will be made available on clinicaltrials.gov when required as a condition of Federal awards, other agreements supporting the research and/or as otherwise required. Requests for deidentified individual participant data can be made beginning 12 months after publication and for up to 36 months post publication. Deidentified individual participant data reported in the manuscript will be shared under the terms of a Data Use Agreement and may only be used for approved proposals. Requests may be made to: crdatashare@mskcc.org.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

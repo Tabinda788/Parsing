@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8643">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05048732</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202108112</org_study_id>
+    <nct_id>NCT05048732</nct_id>
+  </id_info>
+  <brief_title>Imaging Apoptosis for Lymphoma Treatment Response</brief_title>
+  <official_title>Imaging Apoptosis for Lymphoma Treatment Response</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>AbbVie</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Apoptosis is a specific form of cell death that leads to clearance of dead cells without&#xD;
+      causing inflammation or injury to normal adjacent tissues. Targeted cancer therapeutics that&#xD;
+      target this pathway for tumor cell death induction are in development, but few specific&#xD;
+      biomarkers of apoptosis are available to assess treatment response. Apoptosis also occurs in&#xD;
+      response to standard combination therapies such as rituximab, cyclophosphamide, doxorubicin,&#xD;
+      vincristine, and prednisolone (R-CHOP) used to treat diffuse large B-cell lymphoma (DLBCL).&#xD;
+      Caspase-3 activation occurs as a result of apoptosis and may be a specific marker of&#xD;
+      apoptosis. Therefore, this study will assess whether 18F-FluorApoTrace (18F-FAT), a caspase-3&#xD;
+      targeted tracer, has a reasonable dosimetry profile and can be used to detect apoptosis in&#xD;
+      patients with newly diagnosed DLBCL being treated with R-CHOP.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 6, 2021</start_date>
+  <completion_date type="Anticipated">August 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2023</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Whole body effective dose (in rems) of a 5 mCi injection of 18F-FAT (Cohort 1 only)</measure>
+    <time_frame>Day 1</time_frame>
+    <description>-The time activity curves will be created using all the scans obtained and integrated to determine organ residence times. This data, plus the counts and volumes from urine collection(s) after tracer injection, will then be used to calculate the dosimetry using OLINDA/EXM v1.1. The calculated residence times will be used with the program OLINDA/EXM for 18F and using the adult human (adult female or male) model to calculate the whole body effective dose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Radiation doses (rems) to critical organs (Cohort 1 only)</measure>
+    <time_frame>Day 1</time_frame>
+    <description>The time activity curves will be created using all the scans obtained and integrated to determine organ residence times. This data, plus the counts and volumes from urine collection(s) after tracer injection, will then be used to calculate the dosimetry using OLINDA/EXM v1.1. The calculated residence times will be used with the program OLINDA/EXM for 18F and using the adult human (adult female or male) model to calculate the individual organ radiation dose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in mean standard uptake value (SUV) (Cohort 2 only)</measure>
+    <time_frame>Through completion of early interim treatment monitoring scan (estimated to be 14 days)</time_frame>
+    <description>-30 minutes and 60 minutes post pre-treatment baseline monitoring scan and 30 minutes and 60 minutes post early interim treatment monitoring scan</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in maximum standard uptake value (SUV) (Cohort 2 only)</measure>
+    <time_frame>Through completion of early interim treatment monitoring scan (estimated to be 14 days)</time_frame>
+    <description>-30 minutes and 60 minutes post pre-treatment baseline monitoring scan and 30 minutes and 60 minutes post early interim treatment monitoring scan</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Distribution volume ratio (DVR) (Cohort 2 only)</measure>
+    <time_frame>Through completion of early interim treatment monitoring scan (estimated to be 14 days)</time_frame>
+    <description>-DVR will be calculated by reference region Logan plot analysis, in the largest (by size) and most FDG-avid (by maximum SUV) lymphoma lesions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in percent positive caspase-3 staining (Cohort 2 only)</measure>
+    <time_frame>Baseline and post-treatment (estimated to be 14 days)</time_frame>
+    <description>Biopsy samples from baseline and post-treatment will be collected. Immunohistochemical analysis will be performed for caspase-3 staining.&#xD;
+The preference for the post-treatment biopsy is for the biopsy to be performed on the same day as 18F-FAT imaging with imaging occurring prior to biopsy (either 2 or 4 days after receiving cycle 1 of R-CHOP). However, due to scheduling conflicts biopsy performed 2-7 days after cycle 1 R-CHOP therapy will be allowed.&#xD;
+The staining intensity will be assessed semi-quantitatively using a four-point scale (No Signal=0, Mild=1, Moderate=2, Strong=3). The percentage of stained cells at each intensity level will also be graded typically as 0 (&lt;5%), 1 (5-25%), 2 (26-50%), 3 (51-75%), and 4 (&gt;75%). The intensity score and percentage of positive cells will be then added to produce the final scores (0-7).</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">21</enrollment>
+  <condition>Diffuse Large B Cell Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1 = Healthy Volunteers</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Healthy volunteers (N=6, three male, three female) will be recruited to undergo a single 18F-FAT PET/CT imaging session for radiation dosimetry estimates.&#xD;
+18F-FAT administration followed by body imaging at 3 time points&#xD;
+0-60 min = multiple quick body scans&#xD;
+120 min post injection = body scan&#xD;
+240 min post injection = body scan</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2a: Newly Diagnosed DLBCL patients being treated with R-CHOP</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>-N= 3 : 18F-FAT imaging session at baseline and Day 2 following Cycle 1 RCHOP</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2b: Newly Diagnosed DLBCL patients being treated with R-CHOP</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>-N=3: 18F-FAT imaging session at baseline and Day 4 following Cycle 1 RCHOP</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2c: Newly Diagnosed DLBCL patients being treated with R-CHOP</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>-N=9: 18F-FAT imaging session at baseline and best time point determined from Cohort 2a and 2b. (2 or 4 days post Cycle 1 RCHOP therapy)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>18F-FluorApoTrace</intervention_name>
+    <description>-The dose of 18F-FluorApoTrace to be given is 5 mCi</description>
+    <arm_group_label>Cohort 1 = Healthy Volunteers</arm_group_label>
+    <arm_group_label>Cohort 2a: Newly Diagnosed DLBCL patients being treated with R-CHOP</arm_group_label>
+    <arm_group_label>Cohort 2b: Newly Diagnosed DLBCL patients being treated with R-CHOP</arm_group_label>
+    <arm_group_label>Cohort 2c: Newly Diagnosed DLBCL patients being treated with R-CHOP</arm_group_label>
+    <other_name>18F-FAT</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria (Healthy Volunteers):&#xD;
+&#xD;
+          -  Adult 18 years of age or older&#xD;
+&#xD;
+          -  No known hematological disorders&#xD;
+&#xD;
+          -  Considered healthy based on assessment by Principal Investigator (PI).&#xD;
+&#xD;
+          -  Able to provide informed consent&#xD;
+&#xD;
+          -  Able to comprehend and willing to follow instructions for study procedures as called&#xD;
+             for by the protocol.&#xD;
+&#xD;
+          -  Capable of lying still and supine within the PET/CT scanner for up to 1 hour at a&#xD;
+             time.&#xD;
+&#xD;
+        Exclusion Criteria (Healthy Volunteers):&#xD;
+&#xD;
+          -  No illicit drug use or other inhaled drug use (including pharmacologic agents,&#xD;
+             recreational agents or illicit drugs) within the past year per self-reporting&#xD;
+             mechanisms.&#xD;
+&#xD;
+          -  No history of claustrophobia or other preventing condition that has previously or&#xD;
+             would interfere with completion of protocol specified imaging sessions.&#xD;
+&#xD;
+          -  Not currently pregnant or nursing: Subject must be surgically sterile (has had a&#xD;
+             documented bilateral oophorectomy and/or documented hysterectomy), postmenopausal&#xD;
+             (cessation of menses for more than 1 year), non-lactating, OR of childbearing&#xD;
+             potential for whom a urine pregnancy test (with the test performed within the 24 hour&#xD;
+             period immediately prior to administration of 18 F-FAT) is negative&#xD;
+&#xD;
+        Inclusion Criteria (Participants with Diffuse Large B Cell Lymphoma):&#xD;
+&#xD;
+          -  Men or women 18 years of age or older&#xD;
+&#xD;
+          -  New diagnosis of diffuse large B cell lymphoma (DLBCL) who will be treated with R-CHOP&#xD;
+&#xD;
+          -  At least one measurable (RECIST 1.1), FDG-avid lesion that is accessible for&#xD;
+             ultrasound guided biopsy.&#xD;
+&#xD;
+          -  Able to provide informed consent&#xD;
+&#xD;
+          -  Able to tolerate standard of care systemic therapy as recommended by referring&#xD;
+             physician(s).&#xD;
+&#xD;
+        Exclusion Criteria (Participants with Diffuse Large B Cell Lymphoma):&#xD;
+&#xD;
+          -  Not currently pregnant or nursing: Subject must be surgically sterile (has had a&#xD;
+             documented bilateral oophorectomy and/or documented hysterectomy), postmenopausal&#xD;
+             (cessation of menses for more than 1 year), non-lactating, OR of childbearing&#xD;
+             potential for whom a urine pregnancy test (with the test performed within the 24 hour&#xD;
+             period immediately prior to administration of 18 F-FAT) is negative&#xD;
+&#xD;
+          -  Not currently enrolled in another study using an investigational drug&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Farrokh Dehdashti, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Farrokh Dehdashti, M.D.</last_name>
+    <phone>314-362-1474</phone>
+    <email>dehdashtif@wustl.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jennifer Frye, CNMT, CCRC</last_name>
+    <phone>314-747-1604</phone>
+    <email>fryej@wustl.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Farrokh Dehdashti, M.D.</last_name>
+      <phone>314-362-1474</phone>
+      <email>dehdashtif@wustl.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jennifer Frye, CNMT, CCRC</last_name>
+      <phone>314-747-1604</phone>
+      <email>fryej@wustl.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Farrokh Dehdashti, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nancy L Bartlett, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Richard Laforest, Ph.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Matthew Schuelke, Ph.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.siteman.wustl.edu</url>
+    <description>Alvin J. Siteman Cancer Center at Barnes-Jewish Hospital and Washington University School of Medicine</description>
+  </link>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>September 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 17, 2021</study_first_posted>
+  <last_update_submitted>December 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

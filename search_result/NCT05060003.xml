@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7777">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05060003</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-x233</org_study_id>
+    <nct_id>NCT05060003</nct_id>
+  </id_info>
+  <brief_title>Tiragolumab Plus Atezolizumab Versus Atezolizumab in the Treatment of Stage II Melanoma Patients Who Are ctDNA-positive Following Resection</brief_title>
+  <official_title>A Phase II Randomized Study of Tiragolumab Plus Atezolizumab Versus Atezolizumab in the Treatment of Stage II Melanoma Patients Who Are ctDNA-positive Following Resection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Genentech, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study's hypothesis is that patients with stage II melanoma who test positive for&#xD;
+      circulating tumor DNA are at a higher risk for recurrence and therefore adjuvant treatment is&#xD;
+      justified. In this study, the blood of consenting and eligible patients will be tested for&#xD;
+      ctDNA and those patients who test positive will be randomized on a 1:1 basis to either&#xD;
+      treatment with atezolizumab and tiragolumab or atezolizumab alone during Stage 1 of the&#xD;
+      study. If at least 3 patients in the atezolizumab + tiragolumab arm are shown to be ctDNA&#xD;
+      negative at C3D1, stage 2 of the study will begin enrollment. Stage 2 consists of 25 patients&#xD;
+      all enrolled to the atezolizumab + tiragolumab arm (no randomization and no atezolizumab&#xD;
+      monotherapy arm).Patients who test negative for ctDNA will be observed off protocol.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 31, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2027</completion_date>
+  <primary_completion_date type="Anticipated">February 28, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>ctDNA clearance rate</measure>
+    <time_frame>Cycle 3 Day 1 (estimated to be 8 weeks)</time_frame>
+    <description>-Defined as the proportion of ctDNA-positive participants having a ctDNA-negative test at Cycle 3 Day 1</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of ctDNA-positive participants having a ctDNA-negative test at two consecutive measures</measure>
+    <time_frame>From baseline to end of treatment (estimated to be 12 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Relapse-free survival (RFS)</measure>
+    <time_frame>Through completion of follow-up (estimated to be 48 months)</time_frame>
+    <description>-Defined as the duration of time from the date of randomization to the date of earliest disease relapse or death, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Distant metastasis-free survival (DMFS)</measure>
+    <time_frame>Through completion of follow-up (estimated to be 48 months)</time_frame>
+    <description>-Defined as as the duration of time from the date of positive ctDNA being confirmed to the date of appearance of a distant metastasis or death, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>Through completion of follow-up (estimated to be 48 months)</time_frame>
+    <description>-Defined as the duration of time from the date of positive ctDNA being confirmed to death from any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of treatment-related grade 3 or greater adverse events</measure>
+    <time_frame>From baseline through 90 days after end of treatment (estimated to be 15 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of treatment discontinuations due to treatment-related adverse events</measure>
+    <time_frame>From start of treatment through completion of treatment (estimated to be 12 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the impact of ctDNA kinetics on relapse-free survival</measure>
+    <time_frame>Through completion of follow-up (estimated to be 48 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the impact of ctDNA kinetics on distant metastasis-free survival</measure>
+    <time_frame>Through completion of follow-up (estimated to be 48 months)</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">244</enrollment>
+  <condition>Stage II Melanoma</condition>
+  <arm_group>
+    <arm_group_label>Arm 1: Atezolizumab + Tiragolumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Atezolizumab is given as an IV infusion every 4 weeks at a dose of 1680 mg over 60 minutes (+/- 15 minutes).&#xD;
+Tiragolumab is given as an IV infusion every 4 weeks at a dose of 840 mg over 60 minutes (+/- 15 minutes).&#xD;
+Treatment can continue for up to 13 cycles.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2: Atezolizumab</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Atezolizumab is given as an IV infusion every 4 weeks at a dose of 1680 mg over 60 minutes (+/- 15 minutes).&#xD;
+Treatment can continue for up to 13 cycles.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Atezolizumab</intervention_name>
+    <description>Atezolizumab is provided by Genentech.</description>
+    <arm_group_label>Arm 1: Atezolizumab + Tiragolumab</arm_group_label>
+    <arm_group_label>Arm 2: Atezolizumab</arm_group_label>
+    <other_name>Tecentriq</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tiragolumab</intervention_name>
+    <description>Tiragolumab is provided by Genentech.</description>
+    <arm_group_label>Arm 1: Atezolizumab + Tiragolumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>ctDNA</intervention_name>
+    <description>Pre-screening/baseline (4-12 weeks after date of surgery), cycle 3 day 1, cycle 6 day 1, cycle 9 day 1, cycle 12 day 1, and end of treatment (optional)</description>
+    <arm_group_label>Arm 1: Atezolizumab + Tiragolumab</arm_group_label>
+    <arm_group_label>Arm 2: Atezolizumab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Surgically resected and histologically/pathologically confirmed stage II cutaneous&#xD;
+             melanoma. No more than 16 weeks may elapse between final surgical resection and&#xD;
+             randomization. Treatment should start only after complete wound healing from the&#xD;
+             surgery.&#xD;
+&#xD;
+          -  Participants must not have been previously treated for melanoma beyond complete&#xD;
+             surgical resection.&#xD;
+&#xD;
+          -  Positive ctDNA test&#xD;
+&#xD;
+          -  At least 18 years of age.&#xD;
+&#xD;
+          -  ECOG performance status ≤ 1&#xD;
+&#xD;
+          -  Normal bone marrow and organ function as defined below:&#xD;
+&#xD;
+               -  Absolute neutrophil count ≥ 1,500/mcL&#xD;
+&#xD;
+               -  Lymphocyte count ≥ 500/mcL&#xD;
+&#xD;
+               -  Platelets ≥ 100,000/mcL&#xD;
+&#xD;
+               -  Hemoglobin ≥ 9.0 g/dL (patients may be transfused to meet this criterion)&#xD;
+&#xD;
+               -  Total bilirubin ≤ 1.5 x IULN or direct bilirubin ≤ IULN for participants with&#xD;
+                  total bilirubin levels &gt; 1.6 x IULN; patients with known Gilbert disease must&#xD;
+                  have total bilirubin ≤ 3 x IULN&#xD;
+&#xD;
+               -  AST(SGOT)/ALT(SGPT) ≤ 2.5 x IULN&#xD;
+&#xD;
+               -  Alkaline phosphatase ≤ 2.5 x IULN&#xD;
+&#xD;
+               -  Creatinine clearance ≥ 45 mL/min by Cockcroft-Gault&#xD;
+&#xD;
+               -  Serum albumin ≥ 2.5 g/dL&#xD;
+&#xD;
+               -  INR or PT ≤ 1.5 x IULN unless participant is receiving anticoagulant therapy as&#xD;
+                  long as PT or aPTT is within therapeutic range of intended use of anticoagulants&#xD;
+&#xD;
+               -  aPTT ≤ 1.5 x IULN unless participant is receiving anticoagulant therapy as long&#xD;
+                  as PT or aPTT is within therapeutic range of intended use of anticoagulants&#xD;
+&#xD;
+          -  The effects of atezolizumab and tiragolumab on the developing human fetus are unknown.&#xD;
+             For this reason, women of childbearing potential and men must agree to use adequate&#xD;
+             contraception (hormonal or barrier method of birth control, abstinence) prior to study&#xD;
+             entry and for the duration of study participation, for 90 days after the final dose of&#xD;
+             tiragolumab, and for 5 months after the final dose of atezolizumab. Should a woman&#xD;
+             become pregnant or suspect she is pregnant while participating in this study, she must&#xD;
+             inform her treating physician immediately. Men treated or enrolled on this protocol&#xD;
+             must also agree to use adequate contraception prior to the study, for the duration of&#xD;
+             the study, and 90 days after completion of the study&#xD;
+&#xD;
+          -  Ability to understand and willingness to sign an IRB approved written informed consent&#xD;
+             document (or that of legally authorized representative, if applicable).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  A history of other malignancy with the exception of malignancies for which all&#xD;
+             treatment was completed at least 2 years before registration and the patient has no&#xD;
+             evidence of disease or malignancies in situ (such as DCIS), basal cell carcinoma, or&#xD;
+             localized cutaneous squamous cell carcinomas.&#xD;
+&#xD;
+          -  Prior systemic therapy for melanoma.&#xD;
+&#xD;
+          -  Currently receiving any other investigational agents.&#xD;
+&#xD;
+          -  A history of allergic reactions attributed to compounds of similar chemical or&#xD;
+             biologic composition to atezolizumab and tiragolumab or other agents used in the&#xD;
+             study.&#xD;
+&#xD;
+          -  Significant cardiovascular disease (such as New York Heart Association Class II or&#xD;
+             greater cardiac disease, myocardial infarction, or cerebrovascular accident) within 3&#xD;
+             months prior to initiation of study treatment, unstable arrhythmia, or unstable&#xD;
+             angina.&#xD;
+&#xD;
+          -  Active or history of autoimmune disease or immune deficiency, including, but not&#xD;
+             limited to, myasthenia gravis, myositis, autoimmune hepatitis, systemic lupus&#xD;
+             erythematosus, rheumatoid arthritis, inflammatory bowel disease, antiphospholipid&#xD;
+             antibody syndrome, Wegener granulomatosis, Sjögren syndrome, Guillain-Barré syndrome,&#xD;
+             or multiple sclerosis, with the exceptions listed below:&#xD;
+&#xD;
+               -  Patients with a history of autoimmune-related hypothyroidism who are on thyroid&#xD;
+                  replacement hormone are eligible for the study.&#xD;
+&#xD;
+               -  Patients with controlled Type 1 diabetes mellitus who are on an insulin regimen&#xD;
+                  are eligible for the study.&#xD;
+&#xD;
+               -  Patients with eczema, psoriasis, lichen simplex chronicus, or vitiligo with&#xD;
+                  dermatologic manifestations only (e.g., patients with psoriatic arthritis are&#xD;
+                  excluded) are eligible for the study provided all of following conditions are&#xD;
+                  met:&#xD;
+&#xD;
+               -  Rash must cover &lt; 10% of body surface area&#xD;
+&#xD;
+                    -  Disease is well controlled at baseline and requires only low-potency topical&#xD;
+                       corticosteroids&#xD;
+&#xD;
+                    -  No occurrence of acute exacerbations of the underlying condition requiring&#xD;
+                       psoralen plus ultraviolet A radiation, methotrexate, retinoids, biologic&#xD;
+                       agents, oral calcineurin inhibitors, or high potency or oral corticosteroids&#xD;
+                       within the previous 12 months&#xD;
+&#xD;
+          -  Active tuberculosis.&#xD;
+&#xD;
+          -  Major surgical procedure within 4 weeks prior to initiation of study treatment, or&#xD;
+             anticipation of need for a major surgical procedure during the study.&#xD;
+&#xD;
+          -  Severe infection within 4 weeks prior to initiation of study treatment, including, but&#xD;
+             not limited to, hospitalization for complications of infection, bacteremia, or severe&#xD;
+             pneumonia, or any active infection that, in the opinion of the investigator, could&#xD;
+             impact patient safety&#xD;
+&#xD;
+          -  Treatment with therapeutic oral or IV antibiotics within 2 weeks prior to initiation&#xD;
+             of study treatment. Patients receiving prophylactic antibiotics (e.g., to prevent a&#xD;
+             urinary tract infection or chronic obstructive pulmonary disease exacerbation) are&#xD;
+             eligible for the study.&#xD;
+&#xD;
+          -  Prior allogeneic stem cell or solid organ transplantation&#xD;
+&#xD;
+          -  Pregnant and/or breastfeeding. Women of childbearing potential must have a negative&#xD;
+             pregnancy test within 14 days of study entry.&#xD;
+&#xD;
+          -  Positive hepatitis B surface antigen (HBsAb) at screening.&#xD;
+&#xD;
+          -  Positive hepatitis C virus (HCV) antibody test at screening (unless followed by a&#xD;
+             negative HCV RNA test).&#xD;
+&#xD;
+          -  Treatment with a live, attenuated vaccine within 4 weeks prior to initiation of study&#xD;
+             treatment, or anticipation of need for such a vaccine during study treatment, within&#xD;
+             90 days after the final dose of tiragolumab, or within 5 months after the final dose&#xD;
+             of atezolizumab&#xD;
+&#xD;
+          -  Current treatment with anti-viral therapy for HBV&#xD;
+&#xD;
+          -  Positive Epstein-Barr virus (EBV) viral capsid antigen immunoglobulin M (IgM) test at&#xD;
+             screening. An EBV PCR test should be performed as clinically indicated to screen for&#xD;
+             acute infection or suspected chronic active infection. Patients with a positive EBV&#xD;
+             PCR test are excluded.&#xD;
+&#xD;
+          -  Prior treatment with CD137 agonists or immune checkpoint blockade therapies, including&#xD;
+             anti-CTLA-4, anti-PD-1, anti-TIGIT, and anti-PD-L1 therapeutic antibodies.&#xD;
+&#xD;
+          -  Treatment with systemic immunostimulatory agents (including, but not limited to,&#xD;
+             interferon and IL-2) within 4 weeks or 5 drug-elimination half-lives (whichever is&#xD;
+             longer) prior to initiation of study treatment.&#xD;
+&#xD;
+          -  Treatment with systemic immunosuppressive medication (including, but not limited to,&#xD;
+             corticosteroids, cyclophosphamide, azathioprine, methotrexate, thalidomide, and&#xD;
+             anti-tumor necrosis factor-α [TNF-α] agents) within 2 weeks prior to initiation of&#xD;
+             study treatment, or anticipation of need for systemic immunosuppressive medication&#xD;
+             during study treatment, with the following exceptions:&#xD;
+&#xD;
+               -  Patients who received acute, low-dose systemic immunosuppressant medication or a&#xD;
+                  one-time pulse dose of systemic immunosuppressant medication (e.g., 48 hours of&#xD;
+                  corticosteroids for a contrast allergy) are eligible for the study&#xD;
+&#xD;
+               -  Patients who received mineralocorticoids (e.g., fludrocortisone), corticosteroids&#xD;
+                  for chronic obstructive pulmonary disease (COPD) or asthma, or low-dose&#xD;
+                  corticosteroids for orthostatic hypotension or adrenal insufficiency are eligible&#xD;
+                  for the study.&#xD;
+&#xD;
+          -  History of severe allergic anaphylactic reactions to chimeric or humanized antibodies&#xD;
+             or fusion proteins&#xD;
+&#xD;
+          -  Patients with HIV are eligible unless their CD4+ T-cell counts are &lt; 350 cells/mcL or&#xD;
+             they have a history of AIDS-defining opportunistic infection within the 12 months&#xD;
+             prior to registration. Concurrent treatment with effective ART according to DHHS&#xD;
+             treatment guidelines is recommended.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>George Ansstas, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>George Ansstas, M.D.</last_name>
+    <phone>314-362-5677</phone>
+    <email>gansstas@wustl.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>City of Hope</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Yan Xing, M.D., Ph.D.</last_name>
+      <phone>626-256-4673</phone>
+    </contact>
+    <investigator>
+      <last_name>Yan Xing, M.D., Ph.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California - San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Adil Daud, M.D.</last_name>
+      <phone>415-353-9900</phone>
+    </contact>
+    <investigator>
+      <last_name>Adil Daud, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Yale School of Medicine</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mario Sznol, M.D.</last_name>
+      <phone>203-200-6622</phone>
+      <email>mario.sznol@yale.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Mario Sznol, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>George Ansstas, M.D.</last_name>
+      <phone>314-362-5677</phone>
+      <email>gansstas@wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>George Ansstas, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>David Chen, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ningying Wu, Ph.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Margaret Callahan, M.D., Ph.D.</last_name>
+      <phone>646-888-5108</phone>
+      <email>callaham@mskcc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Margaret Callahan, M.D., Ph.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon Research Institute</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Meredith McKean, M.D., MPH</last_name>
+      <phone>615-329-7274</phone>
+    </contact>
+    <investigator>
+      <last_name>Meredith McKean, M.D., MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.siteman.wustl.edu</url>
+    <description>Alvin J. Siteman Cancer Center at Barnes-Jewish Hospital and Washington University School of Medicine</description>
+  </link>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 16, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 28, 2021</study_first_posted>
+  <last_update_submitted>September 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 28, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Melanoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Atezolizumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

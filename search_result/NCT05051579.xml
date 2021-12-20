@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8424">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05051579</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18210</org_study_id>
+    <secondary_id>J2A-MC-GZGI</secondary_id>
+    <secondary_id>2021-002805-88</secondary_id>
+    <nct_id>NCT05051579</nct_id>
+  </id_info>
+  <brief_title>A Study of LY3502970 in Participants With Obesity or Overweight With Weight-related Comorbidities</brief_title>
+  <official_title>A Phase 2 Study of Once-Daily LY3502970 Compared With Placebo in Participants Who Have Obesity or Are Overweight With Weight-Related Comorbidities</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eli Lilly and Company</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purpose of the study is to assess the effect of LY3502970 in participants who have&#xD;
+      obesity or are overweight&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 29, 2021</start_date>
+  <completion_date type="Anticipated">September 29, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 29, 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percent Change From Baseline in Body Weight</measure>
+    <time_frame>Baseline, Week 26</time_frame>
+    <description>Percent Change From Baseline in Body Weight</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percent Change From Baseline in Body Weight</measure>
+    <time_frame>Baseline, Week 36</time_frame>
+    <description>Percent Change From Baseline in Body Weight</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Body Weight</measure>
+    <time_frame>Baseline, Week 26</time_frame>
+    <description>Change From Baseline in Body Weight</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Body Weight</measure>
+    <time_frame>Baseline, Week 36</time_frame>
+    <description>Change From Baseline in Body Weight</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Who Achieve ≥5% in Body Weight</measure>
+    <time_frame>Week 26</time_frame>
+    <description>Percentage of Participants Who Achieve ≥5% in Body Weight</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Who Achieve ≥5% in Body Weight</measure>
+    <time_frame>Week 36</time_frame>
+    <description>Percentage of Participants Who Achieve ≥5% in Body Weight</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Who Achieve ≥10% in Body Weight</measure>
+    <time_frame>Week 26</time_frame>
+    <description>Percentage of Participants Who Achieve ≥10% in Body Weight</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Who Achieve ≥10% in Body Weight</measure>
+    <time_frame>Week 36</time_frame>
+    <description>Percentage of Participants Who Achieve ≥10% in Body Weight</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent Change From Baseline in Body Mass Index (BMI)</measure>
+    <time_frame>Baseline, Week 26</time_frame>
+    <description>Percent Change From Baseline in BMI</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent Change From Baseline in BMI</measure>
+    <time_frame>Baseline, Week 36</time_frame>
+    <description>Percent Change From Baseline in BMI</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Waist Circumference</measure>
+    <time_frame>Baseline, Week 26</time_frame>
+    <description>Change From Baseline in Waist Circumference</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Waist Circumference</measure>
+    <time_frame>Baseline, Week 36</time_frame>
+    <description>Change From Baseline in Waist Circumference</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics (PK): Steady State Area Under the Concentration Curve (AUC) of LY3502970</measure>
+    <time_frame>Baseline to Week 36</time_frame>
+    <description>PK: Steady State AUC of LY3502970</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">270</enrollment>
+  <condition>Obesity</condition>
+  <condition>Overweight and Obesity</condition>
+  <arm_group>
+    <arm_group_label>LY3502970 Dose 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive LY3502970 administered orally</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>LY3502970 Dose 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive LY3502970 administered orally</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>LY3502970 Dose 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive LY3502970 administered orally</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>LY3502970 Dose 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive LY3502970 administered orally</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo administered orally</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>LY3502970</intervention_name>
+    <description>Administered orally</description>
+    <arm_group_label>LY3502970 Dose 1</arm_group_label>
+    <arm_group_label>LY3502970 Dose 2</arm_group_label>
+    <arm_group_label>LY3502970 Dose 3</arm_group_label>
+    <arm_group_label>LY3502970 Dose 4</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administered orally</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Have a body mass index (BMI) of ≥30-kilogram square meter (kg/m²)&#xD;
+&#xD;
+          -  Have a BMI ≥27 kg/m² and &lt;30 kg/m² with at least 1 of the following weight-related&#xD;
+             comorbidities eg; [Have hypertension, or dyslipidemia, cardiovascular disease]&#xD;
+&#xD;
+          -  Have had a stable body weight for the 3 months prior to randomization (not more than&#xD;
+             5% body weight gain and/or loss)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Have any prior diagnosis of diabetes&#xD;
+&#xD;
+          -  Have a prior or planned surgical treatment for obesity&#xD;
+&#xD;
+          -  Have obesity induced by other endocrinological disorders or diagnosed monogenetic or&#xD;
+             syndromic forms of obesity&#xD;
+&#xD;
+          -  Have renal impairment measured as estimated glomerular filtration rate (eGFR) &lt;30&#xD;
+             milliliter (mL)/minute (min)/1.73 m²&#xD;
+&#xD;
+          -  Have a history of acute chronic pancreatitis&#xD;
+&#xD;
+          -  Have a history of significant active or unstable Major Depressive Disorder (MDD) or&#xD;
+             other severe psychiatric disorder (for example, schizophrenia, bipolar disorder, or&#xD;
+             other serious mood or anxiety disorder) within the last 2 years Note: Participants&#xD;
+             with MDD or generalized anxiety disorder whose disease state is considered stable for&#xD;
+             the past 2 years and expected to remain stable throughout the course of the study, may&#xD;
+             be considered for inclusion if they are not on excluded medications.&#xD;
+&#xD;
+        Within 3 months prior to screening:&#xD;
+&#xD;
+          -  Have poorly controlled hypertension&#xD;
+&#xD;
+          -  Have history of acute myocardial infarction&#xD;
+&#xD;
+          -  Have history of cerebrovascular accident (stroke)&#xD;
+&#xD;
+          -  Had hospitalization due to congestive heart failure (CHF)&#xD;
+&#xD;
+          -  Have cancer&#xD;
+&#xD;
+          -  Have human immunodeficiency virus (HIV) and/or positive HIV antibodies historically or&#xD;
+             at screening&#xD;
+&#xD;
+          -  Have hepatitis B and/or positive hepatitis B surface antigen&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Call 1-877-CTLILLY (1-877-285-4559) or 1-317-5615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)</last_name>
+    <role>Study Director</role>
+    <affiliation>Eli Lilly and Company</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>There may be multiple sites in this clinical trial 1-877-CTLILLY (1-877-285-4559) or</last_name>
+    <phone>1-317-615-4559</phone>
+    <email>ClinicalTrial.gov@lilly.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Anaheim Clinical Trials, LLC</name>
+      <address>
+        <city>Anaheim</city>
+        <state>California</state>
+        <zip>92801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>(714) 774-7777</phone>
+    </contact>
+    <investigator>
+      <last_name>Amina Zakaria Haggag</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>John Muir Physician Network Research Center</name>
+      <address>
+        <city>Concord</city>
+        <state>California</state>
+        <zip>94520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>925-687-8860</phone>
+    </contact>
+    <investigator>
+      <last_name>Anna Chang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Marin Endocrine Care &amp; Research, Inc.</name>
+      <address>
+        <city>Greenbrae</city>
+        <state>California</state>
+        <zip>94904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>415-461-1585</phone>
+    </contact>
+    <investigator>
+      <last_name>Linda Gaudiani</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UCSD - Altman Clinical and Translational Research Institute (ACTRI)</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>619-742-7979</phone>
+    </contact>
+    <investigator>
+      <last_name>Eduardo Grunvald</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Valley Clinical Trials, Inc.</name>
+      <address>
+        <city>Northridge</city>
+        <state>California</state>
+        <zip>91325</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>818-280-4220</phone>
+    </contact>
+    <investigator>
+      <last_name>Christopher Chow</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Norcal Endocrinology &amp; Internal Medicine</name>
+      <address>
+        <city>San Ramon</city>
+        <state>California</state>
+        <zip>94583</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>707-628-6428</phone>
+    </contact>
+    <investigator>
+      <last_name>Yshay Shlesinger</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Elite Clinical Trials</name>
+      <address>
+        <city>Blackfoot</city>
+        <state>Idaho</state>
+        <zip>83221</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>208-643-0006</phone>
+    </contact>
+    <investigator>
+      <last_name>Gary W Soucie</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rocky Mountain Clinical Research</name>
+      <address>
+        <city>Idaho Falls</city>
+        <state>Idaho</state>
+        <zip>83404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>208-522-6005</phone>
+    </contact>
+    <investigator>
+      <last_name>Carl D Vance</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>StudyMetrix Research</name>
+      <address>
+        <city>Saint Peters</city>
+        <state>Missouri</state>
+        <zip>63303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>636-387-5100</phone>
+    </contact>
+    <investigator>
+      <last_name>Timothy R Smith</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Premier Research</name>
+      <address>
+        <city>Trenton</city>
+        <state>New Jersey</state>
+        <zip>08611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>609-392-6666</phone>
+    </contact>
+    <investigator>
+      <last_name>Jane L. Rohlf</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Lillestol Research</name>
+      <address>
+        <city>Fargo</city>
+        <state>North Dakota</state>
+        <zip>58104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>701-232-7705</phone>
+    </contact>
+    <investigator>
+      <last_name>Michael J Lillestol</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Intend Research, LLC</name>
+      <address>
+        <city>Norman</city>
+        <state>Oklahoma</state>
+        <zip>73069</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>405-701-8999</phone>
+    </contact>
+    <investigator>
+      <last_name>Lisa Connery</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Capital Area Research, LLC</name>
+      <address>
+        <city>Camp Hill</city>
+        <state>Pennsylvania</state>
+        <zip>17011</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>717-441-1725</phone>
+    </contact>
+    <investigator>
+      <last_name>Venkatesh K Nadar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Preferred Primary Care Physicians, Preferred Clinical Research-St. Clair</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15243</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>412-942-0023</phone>
+    </contact>
+    <investigator>
+      <last_name>Raman S Purighalla</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dallas Diabetes Research Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>972-566-7799</phone>
+    </contact>
+    <investigator>
+      <last_name>Julio Rosenstock</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Diabetes and Thyroid Center of Fort Worth</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>817-263-0007</phone>
+    </contact>
+    <investigator>
+      <last_name>Anjanette Tan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Diabetes &amp; Endocrinology, P.A.</name>
+      <address>
+        <city>Round Rock</city>
+        <state>Texas</state>
+        <zip>78681</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>512-334-3505</phone>
+    </contact>
+    <investigator>
+      <last_name>Thomas Blevins</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>National Clinical Research, Inc</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>8046722995</phone>
+    </contact>
+    <investigator>
+      <last_name>John Keith Scott</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Vincent Hospital d/b/a Prevea Health</name>
+      <address>
+        <city>Green Bay</city>
+        <state>Wisconsin</state>
+        <zip>54303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Aliaksandr Trusau</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>C-health Research</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2V 4J2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>4037053636</phone>
+    </contact>
+    <investigator>
+      <last_name>Sue Pedersen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wharton Medical Clinic</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L8L 5G8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Sean Wharton</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Bluewater Clinical Research Group Inc.</name>
+      <address>
+        <city>Sarnia</city>
+        <state>Ontario</state>
+        <zip>N7T 4X3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>5193446612</phone>
+    </contact>
+    <investigator>
+      <last_name>John O'Mahony</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Médical et Professionnel de l'Ouest de Portneuf</name>
+      <address>
+        <city>Saint Marc des Carrières</city>
+        <state>Quebec</state>
+        <zip>G0A 4B0</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Pierre Filteau</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Alpha Recherche Clinique</name>
+      <address>
+        <city>Quebec</city>
+        <zip>G2J 0C4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>418-704-1112</phone>
+    </contact>
+    <investigator>
+      <last_name>Maya Naccache</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>ALPHA Recherche Clinique</name>
+      <address>
+        <city>Quebec</city>
+        <zip>G3K 2P8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>418-847-1112</phone>
+    </contact>
+    <investigator>
+      <last_name>Jérôme Nadeau</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Studium Egeszseghaz Kft</name>
+      <address>
+        <city>Kalocsa</city>
+        <state>Bacs-Kiskun</state>
+        <zip>6300</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>0036305449271</phone>
+    </contact>
+    <investigator>
+      <last_name>Gizella Pap</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Bugát Pál Kórház</name>
+      <address>
+        <city>Gyöngyös</city>
+        <state>Heves</state>
+        <zip>3200</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Annamária Piros</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>DRC Gyógyszervizsgáló Központ</name>
+      <address>
+        <city>Balatonfüred</city>
+        <state>Veszprém</state>
+        <zip>8230</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>3687481616</phone>
+    </contact>
+    <investigator>
+      <last_name>Jozsef Pauer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kanizsai Dorottya Korhaz</name>
+      <address>
+        <city>Nagykanizsa</city>
+        <state>Zala</state>
+        <zip>8800</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>+36209208655</phone>
+    </contact>
+    <investigator>
+      <last_name>Nora Kesmarki</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Szent Margit Rendelőintézet Nonprofit Kft</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1032</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>0036209350860</phone>
+    </contact>
+    <investigator>
+      <last_name>Eleonora Beke</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinexpert Kft.</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1033</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Andrea Filó</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>TRANTOR'99 Bt. Anyagcsere Centrum</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1213</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>+36305983434</phone>
+    </contact>
+    <investigator>
+      <last_name>Ildiko Szatmari</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Strazsahegy Medicina Bt.</name>
+      <address>
+        <city>Budapest</city>
+        <zip>H1171</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>3612570949</phone>
+    </contact>
+    <investigator>
+      <last_name>Miklos Kajetan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Debreceni Egyetem Klinikai Kozpont</name>
+      <address>
+        <city>Debrecen</city>
+        <zip>4032</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>36309657913</phone>
+    </contact>
+    <investigator>
+      <last_name>Denes Pall</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Puerto Rico Medical Research</name>
+      <address>
+        <city>Ponce</city>
+        <zip>00717</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>787 342 6597</phone>
+    </contact>
+    <investigator>
+      <last_name>Jose Angel Santiago</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Research and Cardiovascular Corp.</name>
+      <address>
+        <city>Ponce</city>
+        <zip>00717</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>787-246-8188</phone>
+    </contact>
+    <investigator>
+      <last_name>Jose B. Vazquez-Tanus</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>Hungary</country>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://trials.lillytrialguide.com/en-US/trial/1R7BP1Yw5t6roV3ZWFGzYQ</url>
+    <description>A Study of LY3502970 in Participants With Obesity or Overweight With Weight-related Comorbidities</description>
+  </link>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>September 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 21, 2021</study_first_posted>
+  <last_update_submitted>December 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 7, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Obesity</mesh_term>
+    <mesh_term>Overweight</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Anonymized individual patient level data will be provided in a secure access environment upon approval of a research proposal and a signed data sharing agreement.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Data are available 6 months after the primary publication and approval of the indication studied in the US and European Union (EU), whichever is later. Data will be indefinitely available for requesting.</ipd_time_frame>
+    <ipd_access_criteria>A research proposal must be approved by an independent review panel and researchers must sign a data sharing agreement.</ipd_access_criteria>
+    <ipd_url>https://vivli.org/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

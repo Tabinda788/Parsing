@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5843">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05085158</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EDCTP - TMA2020CDF-3159</org_study_id>
+    <nct_id>NCT05085158</nct_id>
+  </id_info>
+  <brief_title>Pathogen Detection in HIV-infected Children With Non-malarial Febrile Illnesses Using Metagenomic Sequencing</brief_title>
+  <acronym>PHICAMS</acronym>
+  <official_title>Pathogen Detection in HIV-infected Children and Adolescents With Non-malarial Febrile Illnesses Using Metagenomic Next-generation Sequencing Approach in Uganda</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Makerere University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>European and Developing Countries Clinical Trials Partnership (EDCTP)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Makerere University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In Uganda, 130,000 children (0-14 years of age) were living with HIV in 2018. Last year,&#xD;
+      nearly 450 infants acquired HIV every day; most of them during childbirth and these are at&#xD;
+      extremely high risk of dying in the first two years of life from treatable infections which&#xD;
+      present with fever. While fevers are commonly attributed to malaria, most fevers in African&#xD;
+      children are not due to malaria and clinicians are challenged by the similar clinical&#xD;
+      features of wide spectrum of potential aetiologies. The prevalence of treatable causes of&#xD;
+      non-malarial febrile illnesses in children in Africa has been reported to be 45%.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Rapid diagnostic tests (RDTs) for malaria have highlighted the decreasing proportion of&#xD;
+      malaria-attributable illness in endemic areas. Unfortunately, once malaria is excluded, there&#xD;
+      are few accessible diagnostic tools to guide the management of severe febrile illnesses in&#xD;
+      low-resource settings. RDTs for non-malarial tropical infections currently rely on detection&#xD;
+      of host antibodies against a single infectious agent yet their sensitivities and&#xD;
+      specificities are inherently limited. It should be noted that causes of non-malarial febrile&#xD;
+      illnesses (NMFIs) in HIV-infected children in Uganda remains scarce. There's minimal guidance&#xD;
+      on how to manage HIV-infected children with NMFIs. Thus, it is important that other causes of&#xD;
+      fever in African children be better characterized to facilitate optimization of diagnostic&#xD;
+      and therapeutic algorithms.&#xD;
+&#xD;
+      Considering these limitations, there is a pressing need for sensitive&#xD;
+      pathogen-detection-based approaches such as shotgun metagenomics sequencing (sMGS).&#xD;
+      Ultimately, in the near future, integration of whole-genome based approaches such as&#xD;
+      long-read sequencing technologies to tropical fevers is urgently needed to improve management&#xD;
+      of severe and treatable infections especially among the vulnerable groups such as&#xD;
+      HIV-infected children and adolescents presenting with NMFIs.&#xD;
+&#xD;
+      This project aims to utilise sMGS to characterize microbial pathogens in HIV-infected Ugandan&#xD;
+      children and adolescents admitted to Baylor College of Medicine Children's Foundation -&#xD;
+      Uganda with NMFIs and associated clinical presentations or comorbidities.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 1, 2022</start_date>
+  <completion_date type="Anticipated">October 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Prevalence of microbial pathogens in NMFIs HIV-infected children and adolescents</measure>
+    <time_frame>36 months</time_frame>
+    <description>Microbial pathogens in NMFIs HIV-infected children and adolescents in Uganda</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Prevalent comorbidities in NMFIs HIV-infected children and adolescents</measure>
+    <time_frame>36 months</time_frame>
+    <description>Comorbidities in NMFIs HIV-infected children and adolescents in Uganda</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>HIV Infection</condition>
+  <arm_group>
+    <arm_group_label>Group 1</arm_group_label>
+    <description>HIV-infected children with non-malarial febrile illnesses (NMFIs) less than 5 years old</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2</arm_group_label>
+    <description>HIV-infected children and adolescents with non-malarial febrile illnesses (NMFIs) but less than 15 years old</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      A cross-sectional study aims to characterize microbial pathogens in stool specimens of&#xD;
+      non-malarial febrile illnesses (NMFIs) HIV-infected Ugandan children and adolescents&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        HIV-infected Ugandan children and adolescents admitted with non-malarial febrile illnesses&#xD;
+        (NMFIs) to Baylor College of Medicine Children's Foundation - Uganda&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Study population will include a total of 200 (100 who are &lt;5 years and 100 who are 6-to-14&#xD;
+        years, including equal number of female and male study participants) HIV-infected Ugandan&#xD;
+        children and adolescents admitted with non-malarial febrile illnesses (NMFIs) to Baylor&#xD;
+        College of Medicine Children's Foundation - Uganda.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Critically ill patients will not be recruited.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>3 Months</minimum_age>
+    <maximum_age>14 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gerald Mboowa, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Infectious Diseases Institute, Makerere University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Stephen Kanyerezi, MSc</last_name>
+    <phone>+256773104269</phone>
+    <email>kanyerezi30@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Patricia Nabisubi, MSc</last_name>
+    <phone>+256701007476</phone>
+    <email>patricianabisubi6@gmail.com</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Pokharel S, White LJ, Aguas R, Celhay O, Pellé KG, Dittrich S. Algorithm in the Diagnosis of Febrile Illness Using Pathogen-specific Rapid Diagnostic Tests. Clin Infect Dis. 2020 May 23;70(11):2262-2269. doi: 10.1093/cid/ciz665.</citation>
+    <PMID>31313805</PMID>
+  </reference>
+  <results_reference>
+    <citation>Ramesh A, Nakielny S, Hsu J, Kyohere M, Byaruhanga O, de Bourcy C, Egger R, Dimitrov B, Juan YF, Sheu J, Wang J, Kalantar K, Langelier C, Ruel T, Mpimbaza A, Wilson MR, Rosenthal PJ, DeRisi JL. Metagenomic next-generation sequencing of samples from pediatric febrile illness in Tororo, Uganda. PLoS One. 2019 Jun 20;14(6):e0218318. doi: 10.1371/journal.pone.0218318. eCollection 2019.</citation>
+    <PMID>31220115</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Maze MJ, Bassat Q, Feasey NA, Mandomando I, Musicha P, Crump JA. The epidemiology of febrile illness in sub-Saharan Africa: implications for diagnosis and management. Clin Microbiol Infect. 2018 Aug;24(8):808-814. doi: 10.1016/j.cmi.2018.02.011. Epub 2018 Feb 15. Review.</citation>
+    <PMID>29454844</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Decuypere S, Maltha J, Deborggraeve S, Rattray NJ, Issa G, Bérenger K, Lompo P, Tahita MC, Ruspasinghe T, McConville M, Goodacre R, Tinto H, Jacobs J, Carapetis JR. Towards Improving Point-of-Care Diagnosis of Non-malaria Febrile Illness: A Metabolomics Approach. PLoS Negl Trop Dis. 2016 Mar 4;10(3):e0004480. doi: 10.1371/journal.pntd.0004480. eCollection 2016 Mar.</citation>
+    <PMID>26943791</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Pondei, Kemebradikumo, Onyaye E. Kunle-Olowu, and Oliemen Peterside.</citation>
+  </results_reference>
+  <results_reference>
+    <citation>https://www.unaids.org/en/resources/presscentre/featurestories/2019/december/uganda-treating-hiv-positive-children-speed-and-skill</citation>
+  </results_reference>
+  <results_reference>
+    <citation>Miller S, Naccache SN, Samayoa E, Messacar K, Arevalo S, Federman S, Stryke D, Pham E, Fung B, Bolosky WJ, Ingebrigtsen D, Lorizio W, Paff SM, Leake JA, Pesano R, DeBiasi R, Dominguez S, Chiu CY. Laboratory validation of a clinical metagenomic sequencing assay for pathogen detection in cerebrospinal fluid. Genome Res. 2019 May;29(5):831-842. doi: 10.1101/gr.238170.118. Epub 2019 Apr 16.</citation>
+    <PMID>30992304</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Schlaberg R, Chiu CY, Miller S, Procop GW, Weinstock G; Professional Practice Committee and Committee on Laboratory Practices of the American Society for Microbiology; Microbiology Resource Committee of the College of American Pathologists. Validation of Metagenomic Next-Generation Sequencing Tests for Universal Pathogen Detection. Arch Pathol Lab Med. 2017 Jun;141(6):776-786. doi: 10.5858/arpa.2016-0539-RA. Epub 2017 Feb 7.</citation>
+    <PMID>28169558</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Moreira-Silva SF, Zandonade E, Frauches DO, Machado EA, Lopes LI, Duque LL, Querido PP, Miranda AE. Comorbidities in children and adolescents with AIDS acquired by HIV vertical transmission in Vitória, Brazil. PLoS One. 2013 Dec 4;8(12):e82027. doi: 10.1371/journal.pone.0082027. eCollection 2013.</citation>
+    <PMID>24324741</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Gu W, Miller S, Chiu CY. Clinical Metagenomic Next-Generation Sequencing for Pathogen Detection. Annu Rev Pathol. 2019 Jan 24;14:319-338. doi: 10.1146/annurev-pathmechdis-012418-012751. Epub 2018 Oct 24. Review.</citation>
+    <PMID>30355154</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Naccache SN, Federman S, Veeraraghavan N, Zaharia M, Lee D, Samayoa E, Bouquet J, Greninger AL, Luk KC, Enge B, Wadford DA, Messenger SL, Genrich GL, Pellegrino K, Grard G, Leroy E, Schneider BS, Fair JN, Martínez MA, Isa P, Crump JA, DeRisi JL, Sittler T, Hackett J Jr, Miller S, Chiu CY. A cloud-compatible bioinformatics pipeline for ultrarapid pathogen identification from next-generation sequencing of clinical samples. Genome Res. 2014 Jul;24(7):1180-92. doi: 10.1101/gr.171934.113. Epub 2014 Jun 4.</citation>
+    <PMID>24899342</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kalantar KL, Carvalho T, de Bourcy CFA, Dimitrov B, Dingle G, Egger R, Han J, Holmes OB, Juan YF, King R, Kislyuk A, Lin MF, Mariano M, Morse T, Reynoso LV, Cruz DR, Sheu J, Tang J, Wang J, Zhang MA, Zhong E, Ahyong V, Lay S, Chea S, Bohl JA, Manning JE, Tato CM, DeRisi JL. IDseq-An open source cloud-based pipeline and analysis service for metagenomic pathogen detection and monitoring. Gigascience. 2020 Oct 15;9(10). pii: giaa111. doi: 10.1093/gigascience/giaa111.</citation>
+    <PMID>33057676</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Gyarmati P, Kjellander C, Aust C, Song Y, Öhrmalm L, Giske CG. Metagenomic analysis of bloodstream infections in patients with acute leukemia and therapy-induced neutropenia. Sci Rep. 2016 Mar 21;6:23532. doi: 10.1038/srep23532.</citation>
+    <PMID>26996149</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kwak J, Park J. What we can see from very small size sample of metagenomic sequences. BMC Bioinformatics. 2018 Nov 3;19(1):399. doi: 10.1186/s12859-018-2431-8.</citation>
+    <PMID>30390617</PMID>
+  </results_reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 20, 2021</study_first_posted>
+  <last_update_submitted>October 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>shotgun metagenomics</keyword>
+  <keyword>microbial pathogens</keyword>
+  <keyword>non-malarial febrile illnesses</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>HIV Infections</mesh_term>
+    <mesh_term>Hyperthermia</mesh_term>
+    <mesh_term>Fever</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Upon reasonable request to the PI</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

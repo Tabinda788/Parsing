@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5478">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05089903</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UPCC 15121</org_study_id>
+    <secondary_id>849863</secondary_id>
+    <nct_id>NCT05089903</nct_id>
+  </id_info>
+  <brief_title>Breast Cancer Outreach Among Primary Care Patients</brief_title>
+  <official_title>Breast Cancer Outreach Among Primary Care Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Abramson Cancer Center of the University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Abramson Cancer Center of the University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This project aims to evaluate different approaches to increase breast cancer screening among&#xD;
+      primary care patients at Penn Medicine through a centralized screening outreach program. In a&#xD;
+      pragmatic trial, the investigators will evaluate different approaches to increase completion&#xD;
+      of screening among eligible patients, including ordering mammograms in bulk prior to&#xD;
+      outreach, sending personalized text reminders, and endorsing of the communication by the&#xD;
+      primary care provider.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      While mammograms are recommended by guidelines for early detection of breast cancer,&#xD;
+      mammogram rates are significantly lower now than they were prior to the initial COVID-19&#xD;
+      pandemic surge in early 2020. In this project, the investigators will evaluate different ways&#xD;
+      of reaching out to eligible patients to encourage them to participate in breast cancer&#xD;
+      screening. Through letters, texting, and the electronic health record portal (MyPennMedicine&#xD;
+      (MPM)), the investigators will compare mammogram bulk orders, text messaging, and primary&#xD;
+      care provider endorsement to traditional outreach messaging with the goal of increasing&#xD;
+      breast cancer screening uptake.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 31, 2021</start_date>
+  <completion_date type="Anticipated">April 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mammogram Completion in 3 months</measure>
+    <time_frame>3 months</time_frame>
+    <description>Percent of patients that complete a mammogram</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mammogram Completion in 6 months</measure>
+    <time_frame>6 months</time_frame>
+    <description>Percent of patients that complete a mammogram</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Mammogram Positivity Rate</measure>
+    <time_frame>3 months</time_frame>
+    <description>Percent of mammograms that have positive results</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mammogram Completion by Age Groups</measure>
+    <time_frame>3 months</time_frame>
+    <description>Percent of patients that complete a mammogram by age groups</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mammogram Completion by Race/Ethnicity</measure>
+    <time_frame>3 months</time_frame>
+    <description>Percent of patients that complete a mammogram by race/ethnicity</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mammogram Completion by Insurance Type</measure>
+    <time_frame>3 months</time_frame>
+    <description>Percent of patients that complete a mammogram by insurance type</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mammogram Completion by Median Household Income by Zip Code</measure>
+    <time_frame>3 months</time_frame>
+    <description>Percent of patients that complete a mammogram by Median Household Income by zip code</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Positive Mammograms Resulting in Subsequent Care</measure>
+    <time_frame>3 months</time_frame>
+    <description>Percent of patients with a positive mammogram that receive subsequent care</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mammogram Completion by Electronic Patient Portal Status</measure>
+    <time_frame>3 months</time_frame>
+    <description>Percent of patients that complete a mammogram by electronic patient portal status</description>
+  </other_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">32235</enrollment>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>No Order</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No Order + Text (NO+T)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Bulk Order (BO)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Bulk Order + Text (BO+T)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Clinician Endorsement (CE)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Clinician Endorsement + Text (CE+T)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard Messaging (SM)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard Messaging (SM+T)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Bulk Order</intervention_name>
+    <description>A mammogram order will be placed using bulk order technology in the EHR in advance of outreach for all patients.</description>
+    <arm_group_label>Bulk Order (BO)</arm_group_label>
+    <arm_group_label>Bulk Order + Text (BO+T)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Texting</intervention_name>
+    <description>In addition to outreach, patients will receive text messaging with information regarding the importance of screening, how to schedule a mammogram, and locations available for mammography.</description>
+    <arm_group_label>Bulk Order + Text (BO+T)</arm_group_label>
+    <arm_group_label>Clinician Endorsement + Text (CE+T)</arm_group_label>
+    <arm_group_label>No Order + Text (NO+T)</arm_group_label>
+    <arm_group_label>Standard Messaging (SM+T)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Clinician Endorsement</intervention_name>
+    <description>Outreach informing patients that they are overdue for a mammogram will be signed by the patient's primary care provider.</description>
+    <arm_group_label>Clinician Endorsement (CE)</arm_group_label>
+    <arm_group_label>Clinician Endorsement + Text (CE+T)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>No Bulk Order</intervention_name>
+    <description>The outreach will ask patients to contact their PCP's office in order to have a mammogram order placed on their behalf.</description>
+    <arm_group_label>No Order</arm_group_label>
+    <arm_group_label>No Order + Text (NO+T)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Standard Endorsement</intervention_name>
+    <description>Patient's will receive outreach from the practice informing them that they are overdue for a mammogram.</description>
+    <arm_group_label>Standard Messaging (SM)</arm_group_label>
+    <arm_group_label>Standard Messaging (SM+T)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Women ages 40-74&#xD;
+&#xD;
+          2. Followed by Primary Care with a Penn Medicine PCP listed and at least one visit in the&#xD;
+             last 2 years&#xD;
+&#xD;
+          3. Health Maintenance due (default biannual screening starting at age 50 or edit modifier&#xD;
+             based on input by clinician)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Currently scheduled for a mammogram&#xD;
+&#xD;
+          2. History of bilateral mastectomy&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>74 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Shivan Mehta, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pennsylvania</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Catherine Reitz, MPH</last_name>
+    <phone>561-302-7893</phone>
+    <email>catherine.reitz@pennmedicine.upenn.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Caitlin McDonald, MPH</last_name>
+    <phone>267-566-4956</phone>
+    <email>cmcdona@pennmedicine.upenn.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Penn Medicine</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 20, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 22, 2021</study_first_posted>
+  <last_update_submitted>October 20, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 20, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Abramson Cancer Center of the University of Pennsylvania</investigator_affiliation>
+    <investigator_full_name>Shivan Mehta</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Mammography</keyword>
+  <keyword>Preventive Screening</keyword>
+  <keyword>Population Health</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

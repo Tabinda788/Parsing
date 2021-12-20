@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1544">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05141058</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TONI</org_study_id>
+    <nct_id>NCT05141058</nct_id>
+  </id_info>
+  <brief_title>T CELL THERAPY OPPOSING NOVEL COVID-19 INFECTION IN IMMUNOCOMPROMISED PATIENTS</brief_title>
+  <acronym>TONI</acronym>
+  <official_title>T CELL THERAPY OPPOSING NOVEL COVID-19 INFECTION IN IMMUNOCOMPROMISED PATIENTS</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Children's National Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Children's National Research Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open label, phase I dose-escalation study to evaluate the safety of&#xD;
+      coronavirus-specific T cell (CST) therapy for prevention of SARS-CoV-2 infection in&#xD;
+      immunocompromised patients following hematopoietic stem cell transplantation (HSCT).&#xD;
+&#xD;
+      Participants will receive donor-derived CSTs for prevention of SARS-CoV-2 infection after&#xD;
+      HSCT (≥28 days and &lt;4 months after HSCT).&#xD;
+&#xD;
+      In this dose escalation trial, three doses (1x107/m2, 2x107/m2, and 4x107/m2) will be tested&#xD;
+      for safety, with study arms for adult (≥18 years of age and &lt;80 years) HSCT recipients (Arm&#xD;
+      A) and pediatric (≥12 years of age and &lt;18 years) HSCT recipients (Arm B), and defined dose&#xD;
+      escalations in each study arm. The study agent will be assessed for safety (stopping rules&#xD;
+      defined) and antiviral activity.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The primary purpose of this phase I study is to assess the safety of administering&#xD;
+      donor-derived CSTs in immunocompromised participants for prevention of SARS-CoV-2 infection.&#xD;
+      Related and unrelated donors of participants who are at risk of SARS-CoV-2 infection will be&#xD;
+      enrolled for screening and production of CSTs from peripheral blood. Following product&#xD;
+      manufacturing, participants who have undergone HSCT will receive donor-derived CSTs for&#xD;
+      prevention of SARS-CoV-2 infection.&#xD;
+&#xD;
+      This will be a dose escalation study with separate study arms for adult (Arm A) and pediatric&#xD;
+      (Arm B) recipients of HSCT who are at risk of SARS-CoV-2 infection. Participants who have&#xD;
+      undergone HSCT and test negative for SARS-CoV-2 infection will be enrolled and receive one&#xD;
+      dose of CST product derived from their HSCT donor for prophylaxis. Participants aged ≥18&#xD;
+      years and &lt;80 years will be enrolled on Arm A and participants who are ≥12 years of age and&#xD;
+      &lt;18 years of age will be enrolled on Arm B. Investigators will test three doses: 1x107 /m2,&#xD;
+      2x107 /m2, and 4x107 /m2. At least 3 adult participants (Arm A) will be enrolled at each dose&#xD;
+      level before pediatric participants (Arm B) are enrolled. At each dose level, treatment of&#xD;
+      the first two adult participants enrolled at that dose level will be staggered at least 28&#xD;
+      days apart and each will be followed for the 45-day safety monitoring period to assess safety&#xD;
+      and efficacy. Once the third adult participant on any given dose level has completed their&#xD;
+      45-day safety monitoring period and the safety and efficacy data is reviewed and approved by&#xD;
+      the FDA, then adult participants can be escalated to the next dose level and pediatric&#xD;
+      participants can start enrollment at the dose level completed by the adult participants. If&#xD;
+      participants show evidence of safety and at least 2 of 3 have evidence of antiviral immune&#xD;
+      reconstitution against SARS-CoV-2, investigators will enroll pediatric participants at that&#xD;
+      dose level following FDA approval.&#xD;
+&#xD;
+      Additionally, infusion of pediatric participants enrolled at each dose level will be&#xD;
+      staggered at least 28 days apart, and all enrolled participants will be followed for 45 days&#xD;
+      for safety monitoring after CST infusion.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 19, 2021</start_date>
+  <completion_date type="Anticipated">December 15, 2027</completion_date>
+  <primary_completion_date type="Anticipated">November 1, 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of grade ≥3 infusion-related Adverse Events (AEs)</measure>
+    <time_frame>Within 45 days of CST infusion</time_frame>
+    <description>Number of patients with grade ≥3 infusion-related AEs at 45 days of following CST infusion.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of acute Graft Vs Host Disease (aGVHD) grade ≥3</measure>
+    <time_frame>Within 45 days of CST infusion</time_frame>
+    <description>Number of patients with aGVHD grade ≥3 within 45 days of CST infusion.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of Systemic Inflammatory Response Syndrome (SIRS) or CRS</measure>
+    <time_frame>Within 45 days of CST infusion</time_frame>
+    <description>Number of patients with systemic Inflammatory Response Syndrome (SIRS) or CRS</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of Multi-System Inflammatory Syndrome (MIS)</measure>
+    <time_frame>Within 45 days of CST infusion</time_frame>
+    <description>Number of patients with MIS</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 antiviral immunity using intracellular flow cytometry</measure>
+    <time_frame>At 45 days following CST infusion</time_frame>
+    <description>Participant serum and PBMCs will be monitored for COVID-19 virus specific T cell activity at 45 days following CST infusion by phenotypic and functional studies including ELIspot with appropriate viral specific peptide mixtures and available HLA-restricted epitope peptides, intracellular cytokine staining, serum cytokine profiling and/or other assays as they become available for immune profiling purposes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 antiviral immunity using intracellular ELIspot assays</measure>
+    <time_frame>At 45 days following CST infusion</time_frame>
+    <description>Participant serum and PBMCs will be monitored for COVID-19 virus specific T cell activity at 45 days following CST infusion by phenotypic and functional studies including ELIspot with appropriate viral specific peptide mixtures and available HLA-restricted epitope peptides, intracellular cytokine staining, serum cytokine profiling and/or other assays as they become available for immune profiling purposes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Persistence of infused CSTs</measure>
+    <time_frame>Within 12 months</time_frame>
+    <description>Persistence of infused T cells will be monitored using deep sequencing to track the TCRB repertoire in the participant peripheral blood</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antiviral Activity</measure>
+    <time_frame>Within 12 months</time_frame>
+    <description>Antiviral activity will be assessed by measurement of SARS-CoV-2 viral load by screening RT-PCR from oral/salivary samples or from respiratory samples for any participant who develops a positive SARS-CoV-2 RT-PCR post CST infusion</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">24</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <arm_group>
+    <arm_group_label>Prevention of SARS-CoV-2 infection in immunocompromised adult patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In this dose escalation trial, donor derive coronavirus-specific T cell (CST) (three doses, 1x107/m2, 2x107/m2, and 4x107/m2) will be tested for safety, with study arms for adult (≥18 years of age and &lt;80 years) HSCT recipients (Arm A)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Prevention of SARS-CoV-2 infection in immunocompromised pediatric patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In this dose escalation trial, donor derive coronavirus-specific T cell (CST) (three doses, 1x107/m2, 2x107/m2, and 4x107/m2) will be tested for safety, with study arms for pediatric (≥12 years of age and &lt;18 years) HSCT recipients (Arm B).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Coronavirus-specific T cell (CST)</intervention_name>
+    <description>Participants will receive donor-derived CSTs for prevention of SARS-CoV-2 infection after HSCT (≥28 days and &lt;4 months after hematopoietic stem cell transplantation (HSCT).</description>
+    <arm_group_label>Prevention of SARS-CoV-2 infection in immunocompromised adult patients</arm_group_label>
+    <arm_group_label>Prevention of SARS-CoV-2 infection in immunocompromised pediatric patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Participant Inclusion Criteria for CST Infusion:&#xD;
+&#xD;
+        We will enroll participants who are ≥28 days and &lt;4 months post allogeneic HSCT and are at&#xD;
+        risk of developing SARS-CoV-2 infection.&#xD;
+&#xD;
+          1. For receipt of CSTs derived from an HSCT donor under Arm A:&#xD;
+&#xD;
+             a. Patients aged ≥18 years and &lt;80 years who were recipients of prior myeloablative or&#xD;
+             non-myeloablative allogeneic HSCT using either bone marrow or peripheral blood stem&#xD;
+             cells or single or double cord blood ≥28 days and &lt;4 months ago who are at risk of&#xD;
+             SARS-CoV-2 infection..&#xD;
+&#xD;
+          2. For receipt of CSTs derived from an HSCT donor under Arm B:&#xD;
+&#xD;
+             a. Patients aged ≥12 years and &lt;18 years who were recipients of prior myeloablative or&#xD;
+             non-myeloablative allogeneic HSCT using either bone marrow or peripheral blood stem&#xD;
+             cells or single or double cord blood ≥28 days and &lt;4 months ago who are at risk of&#xD;
+             SARS-CoV-2 infection.&#xD;
+&#xD;
+          3. Have evidence of primary engraftment following HSCT (defined by ANC ≥500/mm3 for three&#xD;
+             consecutive measurements on different days, respectively)&#xD;
+&#xD;
+          4. Participants receiving steroids for treatment of GVHD or for other reasons, dosage&#xD;
+             must have been tapered to &lt;0.5 mg/kg/day of prednisone (or equivalent) at least 7 days&#xD;
+             prior to infusion.&#xD;
+&#xD;
+          5. Karnofsky/Lansky score &gt;70.&#xD;
+&#xD;
+          6. ≥12 years to &lt;80 years of age at enrollment.&#xD;
+&#xD;
+          7. Absolute neutrophil count (ANC) ≥500/ul.&#xD;
+&#xD;
+          8. Hemoglobin ≥8.0g/dl (level can be achieved with transfusion).&#xD;
+&#xD;
+          9. Platelets ≥20 K/ul (level can be achieved with transfusion) *.&#xD;
+&#xD;
+         10. Bilirubin ≤2x upper limit normal.&#xD;
+&#xD;
+         11. Aspartate transaminase (AST) ≤2.5x upper limit of normal.&#xD;
+&#xD;
+         12. Alanine transaminase (ALT) ≤2.5x upper limit of normal.&#xD;
+&#xD;
+         13. Cystatin C with estimated GFR &gt;60mL/min/1.73m2 (calculated via the CKD-EPI 2012&#xD;
+             equation).&#xD;
+&#xD;
+         14. Pulse oximetry of ≥92% on room air for at least 7 days prior to infusion.&#xD;
+&#xD;
+         15. Age appropriate mean arterial pressure without the use of vasopressors.&#xD;
+&#xD;
+         16. Negative pregnancy test in female participant of childbearing age.&#xD;
+&#xD;
+         17. Male and female participants of childbearing age must use highly effective birth&#xD;
+             control measures or practice abstinence.&#xD;
+&#xD;
+         18. Written informed consent and/or signed assent line from participant, parent or&#xD;
+             guardian.&#xD;
+&#xD;
+        Donor Inclusion Criteria:&#xD;
+&#xD;
+          1. Donors for allogeneic (i.e. HLA matched or mismatched related or unrelated) stem cell&#xD;
+             transplants who have fulfilled eligibility as per FDA regulations outlined in 21 CFR&#xD;
+             1271 subpart C. This includes that donors have been deemed in good health by donor&#xD;
+             physician based on physical examination and laboratory testing. If a donor has been&#xD;
+             chosen for the transplant based on urgent medical need that same donor will also be&#xD;
+             used for CST generation provided that there are no new reasons for ineligibility since&#xD;
+             the stem cell collection.&#xD;
+&#xD;
+          2. Donor or guardian of pediatric donor capable of providing informed consent.&#xD;
+&#xD;
+          3. 2 to 80 years of age.&#xD;
+&#xD;
+          4. Female donors of childbearing age must have a negative pregnancy test and not be&#xD;
+             lactating.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Participants Exclusion Criteria for CST Infusion:&#xD;
+&#xD;
+          1. Participants receiving biological or immunosuppressive monoclonal antibodies targeting&#xD;
+             T cells within 28 days prior to CST infusion, including ATG, Alemtuzumab, Basiliximab,&#xD;
+             Tociluzimab, Brentuximab, or other medications under this category as determined by&#xD;
+             the investigators.&#xD;
+&#xD;
+             a. If alemtuzumab has been received within 6 weeks prior to CST infusion, plasma&#xD;
+             levels should be obtained to ensure drug clearance (≤0.16 pg/ml).&#xD;
+&#xD;
+          2. Participants who have received donor lymphocyte infusion (DLI), chimeric antigen&#xD;
+             receptor T cell infusion, or other experimental cellular therapies within 28 days&#xD;
+             prior to CST infusion.&#xD;
+&#xD;
+          3. Participants who have received ruxolitinib or other JAK inhibitors within 7 days prior&#xD;
+             to CST infusion.&#xD;
+&#xD;
+          4. Participants with uncontrolled or progressing infections or active infections causing&#xD;
+             fever (temperature ≥38.1°C). Uncontrolled infections are defined as bacterial, fungal,&#xD;
+             or viral infections (including HIV and Hep B and C) with either clinical signs of&#xD;
+             worsening despite standard therapy that may be attributed to the uncontrolled&#xD;
+             infection. Progressing infection is defined as hemodynamic instability, worsening&#xD;
+             physical signs, or radiographic findings attributable to infection.&#xD;
+&#xD;
+               1. For bacterial infections, participants must be receiving definitive therapy and&#xD;
+                  have no signs of progressing infection within 7 days prior to CST infusion.&#xD;
+&#xD;
+               2. For fungal infections, participants must be receiving definitive systemic&#xD;
+                  anti-fungal therapy and have no signs of progressing infection within 7 days&#xD;
+                  prior to CST infusion.&#xD;
+&#xD;
+          5. Participants with unexplained fever (temperature ≥38.1°C) within 7 days prior to CST&#xD;
+             infusion.&#xD;
+&#xD;
+          6. Participants with evidence of active SARS-CoV-2 infection based on SARS-CoV-2 RT-PCR&#xD;
+             positivity.&#xD;
+&#xD;
+          7. Participants with fever (temperature ≥38.1°C) in the past 7 days.&#xD;
+&#xD;
+          8. Participants with hypotension (systolic blood pressure &lt;90 mmHg or mean arterial blood&#xD;
+             pressure &lt;55 mmHg in participants &lt;14 years of age or &lt;60 mmHg in participants ≥14&#xD;
+             years of age).&#xD;
+&#xD;
+          9. Participants with pulse pressure &gt;40 mmHg.&#xD;
+&#xD;
+         10. Participants with respiratory rate &gt;20 breaths per minute.&#xD;
+&#xD;
+         11. Participants with heart rate ≥120 beats per minute.&#xD;
+&#xD;
+         12. Participants with uncontrolled hypertension as defined by systolic blood pressure&#xD;
+             &gt;99th percentile for age (children &lt;18 years), and systolic blood pressure ≥130 mmHg&#xD;
+             or diastolic blood pressure ≥80 mmHg (participants ≥18 years).&#xD;
+&#xD;
+         13. Participants with metabolic instability.&#xD;
+&#xD;
+         14. Pediatric participants with modified Ross heart failure Class II disease and adult&#xD;
+             participants with NYHA Class II disease.&#xD;
+&#xD;
+         15. Participants with advanced pulmonary disease as defined by requirement for&#xD;
+             supplemental oxygen or positive pressure ventilation due to pulmonary disease. (This&#xD;
+             includes participants with active interstitial lung disease (ILD)/pneumonitis,&#xD;
+             advanced pulmonary disease, a history of ILD/pneumonitis requiring treatment with&#xD;
+             systemic steroids or a baseline oxygen requirement).&#xD;
+&#xD;
+         16. Participants with neurological or psychiatric disorders that would, in the opinion of&#xD;
+             the investigators, place them at increased risk of harm, impact the investigator's&#xD;
+             abilities to screen for adverse events in the subject, or impair the subject's ability&#xD;
+             to provide informed consent.&#xD;
+&#xD;
+         17. Participants receiving checkpoint inhibitors within the previous 3 months prior to CST&#xD;
+             infusion, including nivolumimab, pembroluzimab, or other related medications.&#xD;
+&#xD;
+         18. Participants with proven or suspected MIS (in both adults and children) based on the&#xD;
+             CDC definition and investigator judgement.&#xD;
+&#xD;
+         19. Participants who are breastfeeding.&#xD;
+&#xD;
+         20. Participants who have received live vaccines within 30 days, or any SARS-CoV-2 vaccine&#xD;
+             in the past 28 days prior to enrollment.&#xD;
+&#xD;
+         21. Participants with any other unrelated medical conditions that would impact the&#xD;
+             participant's safety in the opinions of the investigators.&#xD;
+&#xD;
+         22. Participants anticipated to need a blood transfusion within 48 hours of CST infusion.&#xD;
+&#xD;
+         23. Participants unwilling to utilize effective contraception during the study period (if&#xD;
+             applicable)&#xD;
+&#xD;
+        Donor Exclusion Criteria:&#xD;
+&#xD;
+          1. Donation of cells would pose a physical or psychological risk to the donor.&#xD;
+&#xD;
+          2. Prior or current complicated course of COVID-19, including but not limited to MIS,&#xD;
+             CRS, or thromboembolic complications based on investigator judgement.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Susan Conway, MD</last_name>
+    <phone>202-476-5845</phone>
+    <email>sconway@childrensnational.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Fahmida Hoq, MBBS</last_name>
+    <phone>202-476-3634</phone>
+    <email>fhoq@childrensnational.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Children's National Hospital</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Susan Conway, MD</last_name>
+      <phone>202-476-5845</phone>
+      <email>sconway@childrensnational.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Michael Keller, MD</last_name>
+      <phone>202-476-5843</phone>
+      <email>mkeller@childrensnational.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Susan Coway, Md</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Michael Keller, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 2, 2021</study_first_posted>
+  <last_update_submitted>November 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infections</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

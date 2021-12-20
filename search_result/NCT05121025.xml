@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3084">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05121025</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21/1552</org_study_id>
+    <nct_id>NCT05121025</nct_id>
+  </id_info>
+  <brief_title>Pathogen-microbiome Interaction During Helicobacter Pylori Infection</brief_title>
+  <acronym>PREDICTHP</acronym>
+  <official_title>Pathogen-microbiome Interaction in Human Response and Disease-outcome During Infection and Colonization With Helicobacter Pylori</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital Freiburg</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital Freiburg</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Helicobacter pylori affects the gut microbiome in ways that are only partially understood. In&#xD;
+      which patients H. pylori causes severe disease and in whom it merely colonizes, possibly even&#xD;
+      with beneficial effects, is not understood. The investigators are pursuing the hypothesis&#xD;
+      that changes in the gut microbiome that can be easily measured in stool have such predictive&#xD;
+      value.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Helicobacter pylori colonizes the stomach of about half of the world's population, including&#xD;
+      about 20-30% of adults in Germany. In some cases, this colonization can lead to chronic&#xD;
+      inflammation of the gastric mucosa, which can lead to various serious diseases such as ulcer&#xD;
+      disease and gastric cancer. It has been reported several times in the literature that&#xD;
+      Helicobacter pylori infection negatively affects the human intestinal flora and can lead to&#xD;
+      microbial imbalance (dysbiosis). Recent studies, mostly from mouse models, reveal new roles&#xD;
+      and interactions of the microbiome: host immune response may influence bacterial activity;&#xD;
+      bacterial metabolites may determine microbiome functions. Differences in the microbiome were&#xD;
+      also found between Helicobacter pylori-infected patients and were associated with treatment&#xD;
+      success. On the other hand, beneficial microbial symbiosis may prevent intestinal&#xD;
+      inflammation. The reasons for these differences in the microbiome of Helicobacter&#xD;
+      pylori-infected patients, which may also contribute to treatment failure, remain to be&#xD;
+      investigated. Therefore, this project aims to investigate how Helicobacter pylori affects the&#xD;
+      bacteria and fungi of the human gastrointestinal microbiome and how the suspected microbial&#xD;
+      imbalance may influence treatment success. In this project, The investigators aim to answer&#xD;
+      the question of how these newly discovered mechanisms alter the course of human H. pylori&#xD;
+      infection. The investigators will analyze H. pylori itself in colonized patients and&#xD;
+      asymptomatic individuals (whole genome sequencing), determine the immune response of the&#xD;
+      carrier (RNA expression in lymphocytes), and composition of the gut microbiome (DNA&#xD;
+      sequencing) and activity (RNA expression in the bacteria/fungi and identification of&#xD;
+      metabolites). Using bioinformatics approaches, particularly machine learning, The&#xD;
+      investigators will determine the parameters that predict disease progression and eradication&#xD;
+      success. The results will provide important decision support for H. pylori-infected patients.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2022</start_date>
+  <completion_date type="Anticipated">December 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Helicobacter pylori microbiome and immune signatures</measure>
+    <time_frame>12-18 Months</time_frame>
+    <description>The diversity of the gut microbial species of patients and controls as well as transcriptomic signatures of blood immune cells will be assessed and compared to conclude specisifc signatures that are associated with the disease and carrier status. These signatures will be analyzed to identify specific bacterial and immune biomarkers that can be used as a screening tool for Helicobacter pylori infection.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Helicobacter pylori eradication control</measure>
+    <time_frame>12-24 Months</time_frame>
+    <description>Patients with positive gastric biopsy for Helicobacter pylori will be assessed for successful eradication after treatment, and the eradication success will be compared with the patients' microbial signatures to identify specific gut microbial signatures that are associated with treatment outcome.</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">180</enrollment>
+  <condition>Helicobacter Pylori Infection</condition>
+  <arm_group>
+    <arm_group_label>Helicobacter pylori patients</arm_group_label>
+    <description>Patients with gastric biposies which was positive for Helicobacter pylori in culture</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Helicobacter pylori asymptomatic carriers</arm_group_label>
+    <description>Healthy controls who are positive for Helicobacter pylori antigen in stool and have no symptoms of gastritis</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy controls</arm_group_label>
+    <description>Healthy controls who are negative for Helicobacter pylori antigen in stool and have no symptoms of gastritis</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Analysis of gut microbiome and immune signatures</intervention_name>
+    <description>The investigators will analyse the microbiome composition (16S rDNA-sequencing and metagenomics), microbiome activity (RNA-sequencing of stool bacteria and metabolite sampling) and immune cell activity (leukocyte RNA-sequencing) of all study groups.</description>
+    <arm_group_label>Healthy controls</arm_group_label>
+    <arm_group_label>Helicobacter pylori asymptomatic carriers</arm_group_label>
+    <arm_group_label>Helicobacter pylori patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients of full age who are capable of giving consent and from whom gastric biopsies,&#xD;
+        stool, and whole blood/serum will be obtained for diagnostic purposes (to exclude&#xD;
+        Helicobacter pylori infection), irrespective of the clinical picture. The indication for&#xD;
+        specimen collection is made by the treating clinical physician independent of the study.&#xD;
+        Patients should be informed about the study by the treating clinician concurrently with&#xD;
+        being informed about the risk of biopsy collection. Healthy volunteers will be invited to&#xD;
+        donate stool and blood for H. pylori diagnostics.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Patients: -&#xD;
+&#xD;
+          -  Male and female patients aged ≥ 18 years.&#xD;
+&#xD;
+          -  Specimens from patients undergoing tissue sampling, stool, and blood to rule out&#xD;
+             Helicobacter pylori infection&#xD;
+&#xD;
+          -  Written informed consent from patients.&#xD;
+&#xD;
+        Volunteer subjects: -&#xD;
+&#xD;
+          -  Male and female (non-pregnant) volunteers between the ages of 18-65 years.&#xD;
+&#xD;
+          -  Written informed consent from volunteers.&#xD;
+&#xD;
+          -  No acute medical conditions&#xD;
+&#xD;
+          -  No regular medication use, and no antibiotic use in the last 4 weeks.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Patients: -&#xD;
+&#xD;
+          -  Minor patients&#xD;
+&#xD;
+          -  Patients not capable of giving consent&#xD;
+&#xD;
+          -  Samples without sufficient residual material after standard diagnostic procedures&#xD;
+&#xD;
+          -  Samples from patients who have not given consent for testing&#xD;
+&#xD;
+        Volunteer subjects: -&#xD;
+&#xD;
+          -  Subjects not capable of giving consent&#xD;
+&#xD;
+          -  Subjects with acute illnesses&#xD;
+&#xD;
+          -  Subjects older than 65 or younger than 18 years of age.&#xD;
+&#xD;
+          -  Pregnant women&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Mohamed Tarek Badr, M.D.</last_name>
+    <phone>00497612036585</phone>
+    <email>mohamed.tarek.badr@uniklinik-freiburg.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Anne Lichtenegger</last_name>
+    <phone>00497612036585</phone>
+    <email>anne.sophie.lichtenegger@uniklinik-freiburg.de</email>
+  </overall_contact_backup>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2021</study_first_posted>
+  <last_update_submitted>November 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University Hospital Freiburg</investigator_affiliation>
+    <investigator_full_name>Mohamed Tarek Badr</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Helicobacter Pylori</keyword>
+  <keyword>Metagenomics</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infections</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Helicobacter Infections</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

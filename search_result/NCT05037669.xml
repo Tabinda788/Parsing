@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9494">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05037669</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UPCC 27419</org_study_id>
+    <nct_id>NCT05037669</nct_id>
+  </id_info>
+  <brief_title>Programmed Allogeneic CRISPR-edited T Cells Engineered to Express Anti-CD19 Chimeric Antigen Receptor (PACE CART19) in Patients With Relapsed Or Refractory CD19+ Leukemia and Lymphoma</brief_title>
+  <official_title>Phase I Trial of Programmed Allogeneic CRISPR-edited T Cells (PACE) Gene Edited to Eliminate Endogenous TCR, HLA-class I and HLA-class II and Engineered to Express Anti-CD19 Chimeric Antigen Receptor (PACE CART19) in Patients With Relapsed Or Refractory CD19+ Leukemia and Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase I trial to assess the safety and feasibility of administering&#xD;
+      pre-manufactured allogeneic T cells from healthy donors expressing CD19-targeting chimeric&#xD;
+      antigen receptors lacking expression of HLA class I, HLA class II molecules and endogenous&#xD;
+      TCR through CRISPR-mediated genome-editing of beta-2 microglobulin, CIITA and T cell receptor&#xD;
+      alpha chain, respectively. These cells are called PACE CART19 cells.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2022</start_date>
+  <completion_date type="Anticipated">January 2038</completion_date>
+  <primary_completion_date type="Anticipated">January 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Frequency and severity of adverse events</measure>
+    <time_frame>28 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time from consent to first PACE CART19 infusion.</measure>
+    <time_frame>12 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The number of subjects consented and treated and the number of subjects consented but never treated will be described.</measure>
+    <time_frame>12 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response Rate (ORR)</measure>
+    <time_frame>12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Best Overall Response (BOR)</measure>
+    <time_frame>12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Event-free survival (EFS)</measure>
+    <time_frame>12 Months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DOR)</measure>
+    <time_frame>12 Months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Kinetics of expansion, persistence and homing to marrow and other organs of infused cells by quantitative PCR.</measure>
+    <time_frame>12 Months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Kinetics of expansion, persistence and homing to marrow and other organs of infused cells by flow cytometry.</measure>
+    <time_frame>12 Months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Systemic soluble immune factors in serum before and after treatment, and during CRS.</measure>
+    <time_frame>12 Months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Polychromatic flow cytometry-based assessment of leukemia and B cells, extent and duration of leukemic response</measure>
+    <time_frame>12 Months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Use of Next-Generation Immunoglobulin heavy chain Sequencing (NGIS) to quantitate presence or absence of malignant B cells</measure>
+    <time_frame>12 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">36</enrollment>
+  <condition>Acute Lymphoblastic Leukemia</condition>
+  <condition>Chronic Lymphocytic Leukemia</condition>
+  <condition>Non Hodgkin Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Cohort A: Acute Lymphoblastic Leukemia (ALL)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Adult patients aged &gt;18 with relapsed or refractory B cell malignancies - Acute Lymphoblastic Leukemia (ALL)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort B: Chronic Lymphocytic Leukemia (CLL) + Non-Hodgkin's Lymphoma (NHL)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Adult patients aged &gt;18 with relapsed or refractory B cell malignancies - Chronic Lymphocytic Leukemia (CLL) and Non-Hodgkin's Lymphoma (NHL).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>PACE CART19</intervention_name>
+    <description>PACE CART19 cells are allogeneic T cells transduced with a lentiviral vector to express an anti-CD19 scFv TCRz:41BB and electroporated to temporarily express the CRISPR/Cas9 RNA system resulting in beta-2 microglobulin (B2M), Class II Major Histocompatibility Complex Transactivator (CIITA) and TCR-α chain (TRAC) targeted disruption. PACE CART19 cells will be administered by IV infusion.</description>
+    <arm_group_label>Cohort A: Acute Lymphoblastic Leukemia (ALL)</arm_group_label>
+    <arm_group_label>Cohort B: Chronic Lymphocytic Leukemia (CLL) + Non-Hodgkin's Lymphoma (NHL)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Signed informed consent form&#xD;
+&#xD;
+          2. Documentation of CD19 expression on malignant cells&#xD;
+&#xD;
+             a. ALL/CLL: At time of most recent relapse b. NHL: Within 6 months of&#xD;
+             physician-investigator confirmation of eligibility as long as there has been no&#xD;
+             intervening CD19 directed therapy since expression confirmed. Results outside of this&#xD;
+             window may be used, if there is no accessible tumor site and the subject did not&#xD;
+             receive intervening CD19 directed therapy since CD19 expression was confirmed.&#xD;
+&#xD;
+          3. Patients with relapsed disease after prior autologous or allogeneic SCT must meet the&#xD;
+             following criteria:&#xD;
+&#xD;
+             a. Have no active GVHD and require no immunosuppression b. Are more than 6 months from&#xD;
+             transplant at the time of physician-investigator confirmation of eligibility&#xD;
+&#xD;
+          4. Adequate organ function defined as:&#xD;
+&#xD;
+               1. Creatinine ≤ 1.6 mg/dl&#xD;
+&#xD;
+               2. ALT/AST ≤ 3x upper limit of normal range&#xD;
+&#xD;
+               3. Direct bilirubin ≤2.0 mg/dl, unless the subject has Gilbert's syndrome (≤3.0&#xD;
+                  mg/dl)&#xD;
+&#xD;
+               4. Must have a minimum level of pulmonary reserve defined as ≤ Grade 1 dyspnea,&#xD;
+                  pulse oxygen &gt; 92% on room air, and DLCO ≥ 40% (corrected for anemia)&#xD;
+&#xD;
+               5. Left Ventricle Ejection Fraction (LVEF) ≥ 40% confirmed by ECHO/MUGA&#xD;
+&#xD;
+          5. Evidence of active disease. This could include circulating disease in the blood,&#xD;
+             disease in the bone marrow by standard morphology (or by MRD testing for ALL&#xD;
+             patients), or measurable disease per Lugano Criteria (NHL patients).&#xD;
+&#xD;
+          6. Male or female age ≥ 18 years.&#xD;
+&#xD;
+          7. ECOG Performance Status that is either 0 or 1.&#xD;
+&#xD;
+          8. Subjects of reproductive potential must agree to use acceptable birth control methods.&#xD;
+&#xD;
+          9. Disease-specific criteria:&#xD;
+&#xD;
+             a. Cohort A i. Patients with relapsed or refractory B cell ALL which meets one of the&#xD;
+             following criteria:&#xD;
+&#xD;
+          1. Relapsed or refractory B cell ALL with 2nd or greater relapse or refractory to 1st&#xD;
+             salvage as defined by:&#xD;
+&#xD;
+             a. Recurrent disease in the blood or bone marrow identified morphologically, by&#xD;
+             immunohistochemistry or by Flow cytometry.&#xD;
+&#xD;
+             b. Patients with extramedullary relapse only (no bone marrow involvement) will be&#xD;
+             eligible if disease response can be assessed radiographically, OR&#xD;
+&#xD;
+          2. Refractory B cell ALL as defined by:&#xD;
+&#xD;
+             a. Failure to achieve remission (&lt;5% bone marrow blasts) after 2 cycles of induction&#xD;
+             chemotherapy b. Patients that achieve morphologic remission but remain MRD+ after ≥2&#xD;
+             cycles of induction chemotherapy, OR&#xD;
+&#xD;
+          3. Ph+ relapsed or refractory B cell ALL that is intolerant to or have failed a tyrosine&#xD;
+             kinase inhibitor therapy containing regimen.&#xD;
+&#xD;
+        ii. Patients with prior or current history of CNS3 disease* will be eligible only if CNS&#xD;
+        disease is responsive to therapy (at infusion, must meet criteria in Section 5.2) 1. *CNS&#xD;
+        disease definitions70:&#xD;
+&#xD;
+        a. CNS1 - no blasts seen on cytocentrifuge (CNS negative); b. CNS2 - total nucleated cell&#xD;
+        count &lt;5x106/L, but blasts seen on cytocentrifuge; c. CNS3 - total nucleated cell count&#xD;
+        5x106/L with blasts on cytocentrifuge and/or signs of CNS leukemia (i.e. cranial nerve&#xD;
+        palsy).&#xD;
+&#xD;
+        b. Cohort B (CLL) i. Patients must have relapsed/refractory disease after at least 2 prior&#xD;
+        lines of appropriate therapy, AND ii. Patients must have previously received, or be&#xD;
+        intolerant to an approved BTK inhibitor and venetoclax; unless a BTK inhibitor or&#xD;
+        venetoclax is contraindicated.&#xD;
+&#xD;
+        c. Cohort B (NHL)- With one of the following diagnoses: i. Diffuse Large B-cell Lymphoma&#xD;
+&#xD;
+          1. Patients with any of the following histologies:&#xD;
+&#xD;
+               1. Diffuse large B-cell lymphoma (DLBCL), NOS&#xD;
+&#xD;
+             i. Germinal center B-cell type ii. Activated B-cell type b. Primary cutaneous DLBCL,&#xD;
+             leg type c. Primary mediastinal (thymic) large B-cell lymphoma d. ALK+ large B-cell&#xD;
+             lymphoma e. High-grade B-cell lymphoma, with MYC and BCL2 and/or BCL6 rearrangements&#xD;
+             (i.e. &quot;Double or Triple Hit&quot;) f. High-grade B-cell lymphoma, NOS&#xD;
+&#xD;
+          2. Patients must have relapsed after, or be ineligible for, prior CAR T cell therapy, and&#xD;
+             meet one of the following criteria:&#xD;
+&#xD;
+               1. Relapsed/refractory disease after at least 2 prior lines of appropriate therapy&#xD;
+                  and are ineligible for autologous stem cell transplant or commercial CAR T cell&#xD;
+                  therapy.&#xD;
+&#xD;
+               2. Relapse/refractory disease after autologous SCT.&#xD;
+&#xD;
+               3. Relapsed/refractory disease after allogeneic SCT. ii. Large cell transformation&#xD;
+                  of CLL (Richter's transformation)&#xD;
+&#xD;
+        1. Patients must be primary refractory or received at least 1 prior line of treatment.&#xD;
+&#xD;
+        iii. Follicular lymphoma 1. Patients who have received at least 2 prior lines of&#xD;
+        appropriate therapy (not including single agent monoclonal antibody therapy), AND 2.&#xD;
+        Progressed within 2 years after second or higher line of therapy. iv. Mantle cell lymphoma&#xD;
+&#xD;
+          1. Patients must have either failed or be ineligible for standard of care Tecartus™&#xD;
+             (brexucabtagene autoleucel) or other investigational CAR T cell product; and&#xD;
+&#xD;
+          2. Patients must also meet one of the following criteria:&#xD;
+&#xD;
+               1. Relapsed/refractory disease after at least 2 prior lines of appropriate therapy,&#xD;
+                  including a BTK inhibitor. Single-agent monoclonal antibody therapy does not&#xD;
+                  count towards prior lines of therapy.&#xD;
+&#xD;
+               2. Relapsed/refractory disease after prior autologous SCT.&#xD;
+&#xD;
+               3. Relapsed/refractory disease after prior allogeneic SCT..&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Active hepatitis B, active hepatitis C, or other active, uncontrolled infection.&#xD;
+&#xD;
+          2. Class III/IV cardiovascular disability according to the New York Heart Association&#xD;
+             Classification.&#xD;
+&#xD;
+          3. Clinically apparent arrhythmia or arrhythmias who are not stable on medical management&#xD;
+             within two weeks of physician-investigator confirmation of eligibility.&#xD;
+&#xD;
+          4. Active acute or chronic GVHD requiring systemic therapy.&#xD;
+&#xD;
+          5. Dependence on systemic steroids or immunosuppressant medications. For additional&#xD;
+             details regarding use of steroid and immunosuppressant medications.&#xD;
+&#xD;
+          6. Receipt of immune checkpoint inhibitors within 4 months prior to&#xD;
+             physician-investigator confirmation of eligibility.&#xD;
+&#xD;
+          7. CNS3 disease that is progressive on therapy, or with CNS parenchymal lesions.&#xD;
+&#xD;
+          8. Pregnant or nursing (lactating) women.&#xD;
+&#xD;
+          9. Patients with a known history or prior diagnosis of optic neuritis or other&#xD;
+             immunologic or inflammatory disease affecting the central nervous system, and&#xD;
+             unrelated to their cancer or previous cancer treatment.&#xD;
+&#xD;
+         10. Active autoimmune disease requiring systemic immunosuppressive treatment equivalent to&#xD;
+             ≥ 10mg of prednisone. Patients with autoimmune neurologic diseases (such as MS) will&#xD;
+             be excluded.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Noelle Frey, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pennsylvania</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Abramson Cancer Center Clinical Trials Service</last_name>
+    <phone>8552160098</phone>
+    <email>PennCancerTrials@emergingmed.com</email>
+  </overall_contact>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>August 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>August 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 8, 2021</study_first_posted>
+  <last_update_submitted>November 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Precursor Cell Lymphoblastic Leukemia-Lymphoma</mesh_term>
+    <mesh_term>Leukemia, Lymphocytic, Chronic, B-Cell</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="6172">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05080881</url>
+  </required_header>
+  <id_info>
+    <org_study_id>D18144</org_study_id>
+    <nct_id>NCT05080881</nct_id>
+  </id_info>
+  <brief_title>Noninvasive Monitor of Vascular Volume Fluid Shifts</brief_title>
+  <official_title>Noninvasive Monitor of Vascular Volume Fluid Shifts</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dartmouth-Hitchcock Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Dartmouth-Hitchcock Medical Center</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Blood volume measurements are a critical step in the emergency care of trauma patients. The&#xD;
+      typical approach to this is to rely on historical information, physical examination and&#xD;
+      metrics such as heart rate. There is currently no good real-time measure to track blood&#xD;
+      volume. This study investigates the use of phonocardiography (listening to the sounds made by&#xD;
+      the heart) to track changes in central blood volume.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Blood draw subjects:&#xD;
+&#xD;
+      Participation in this study group may last up to 60 minutes. Participants will begin with a&#xD;
+      brief medical exam to determine eligibility. This will include a review of any history of&#xD;
+      cardiovascular disease and of medications. Prior to a scheduled blood draw, eligible&#xD;
+      participates will have physiological measurements taken, which may include phonocardiographic&#xD;
+      measurements, cardiac output, plethysmography (volume changes), multifrequency bioimpedance,&#xD;
+      thoracic impedance, heart rate, blood pressure, pulse oximetry, continuous non-invasive&#xD;
+      hematocrit measurement, and respiration. The phonocardiographic measurements may be taken&#xD;
+      with both a commercial and a custom-built device. These are all non-invasive measurements.&#xD;
+      After 15 minutes of baseline measurements, a blood draw will proceed normally while the&#xD;
+      physiological measurements continue. After the participant is finished donating blood, the&#xD;
+      participant will be asked to stay in place for an additional 15 minutes to continue to&#xD;
+      collect physiological data. Participants are asked not to eat or drink during the 15 minutes&#xD;
+      as this will provide better data collection. The information collected as data for this study&#xD;
+      includes: information about medical history, body measurements, and physiological&#xD;
+      measurements.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 20, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 20, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in cardiac cycle time intervals</measure>
+    <time_frame>Through study completion; 3 hours</time_frame>
+    <description>Cardiac systolic and diastolic times</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in phonographic characteristics - amplitude</measure>
+    <time_frame>Through study completion; 3 hours</time_frame>
+    <description>Size of cardiac systolic and diastolic heart tones</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in phonographic characteristics - frequency</measure>
+    <time_frame>Through study completion; 3 hours</time_frame>
+    <description>Frequency content of cardiac tones</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Blood Loss</condition>
+  <arm_group>
+    <arm_group_label>Blood draw</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All blood draw subjects will have baseline data collected over 15 minutes. The participants with then donate blood. For 15 minutes after the blood donation, the participant will stay in place and will continue to have data collected.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>phonocardiographic measurement: InnoVital Systems</intervention_name>
+    <description>The instrument consists of one or more low-profile microphones in plastic housings with nitrile or silicon diaphragms. These sensors convert heart sounds into analog signals that will be acquired by the BIOPAC data acquisition system.</description>
+    <arm_group_label>Blood draw</arm_group_label>
+    <other_name>InnoVital Systems</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>phonocardiographic measurement: ThinkLabs StethOne</intervention_name>
+    <description>This device senses heart sounds and may be listened to using headphones and converted to an analog signal and saved using the BIOPAC data acquisition system.</description>
+    <arm_group_label>Blood draw</arm_group_label>
+    <other_name>ThinkLabs StethOne</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>physiological measurements: BIOPAC</intervention_name>
+    <description>Non-invasive blood pressure, electrocardiogram, heart rate, respiratory rate, and leg circumference - This is a commercially available device used regularly in health care settings to monitor continual blood pressure and heart rate.</description>
+    <arm_group_label>Blood draw</arm_group_label>
+    <other_name>BIOPAC</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>physiological measurements: Masimo Radical-7</intervention_name>
+    <description>A commercially available device for pulse oximetry and continuous non-invasive hematocrit measurement.</description>
+    <arm_group_label>Blood draw</arm_group_label>
+    <other_name>Masimo Radical-7</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>physiological measurements: CoVa Monitoring System 2</intervention_name>
+    <description>This device will be used for thoracic bioimpedance and other physiological measures. This is a commercially available device. It also measures ECG, heart rate, heart rate variability, estimated stroke volume, and estimated cardiac output. The study team may measure either while body bioimpedance or thoracic bioimpedance.</description>
+    <arm_group_label>Blood draw</arm_group_label>
+    <other_name>CoVa Monitoring System 2</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Thoracic impedance</intervention_name>
+    <description>Thoracic impedance is measured using the Starling device (https://usstarling.baxter.com/starling-system). Baxter uses a series of proprietary algorithms to infer stroke volume and cardiac output from thoracis impedance. Calculated values will be recorded, but the main variable that will be recorded is simply the temporal profile of thoracic impedance during the manipulations in each group (changing lower body negative pressure or therapeutic phlebotomy).</description>
+    <arm_group_label>Blood draw</arm_group_label>
+    <other_name>Baxter</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Lower Body Negative Pressure (LBNP) participants:&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  In generally good health&#xD;
+&#xD;
+          -  Free of systemic diseases&#xD;
+&#xD;
+          -  No contraindications to LBNP exposure.&#xD;
+&#xD;
+          -  No prior history of cardiovascular disease&#xD;
+&#xD;
+          -  Normal resting systolic blood pressure (SBP, 100-140 mm Hg) and diastolic blood&#xD;
+             pressure (DBP, 60-90 mm Hg).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Individuals who, after lying supine for five minutes, show a greater than 10 mm Hg&#xD;
+             drop in systolic pressure or a greater than 20 beats/minute increase in heart rate&#xD;
+             with standing during pre-enrollment evaluation&#xD;
+&#xD;
+        Blood draw participants:&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  In generally good health&#xD;
+&#xD;
+          -  Free of systemic diseases&#xD;
+&#xD;
+          -  No current or prior history of cardiovascular disease or cardiovascular reactive drugs&#xD;
+&#xD;
+          -  Blood donors through the DHMC blood donation center&#xD;
+&#xD;
+          -  Healthy volunteers&#xD;
+&#xD;
+          -  People who are taking part in another study where about 500 ml of blood is being drawn&#xD;
+&#xD;
+          -  Therapeutic phlebotomy patients (hemochromatosis or polycythemia vera patients)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>49 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>James C Leiter, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Dartmouth-Hitchcock Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>James C Leiter, M.D.</last_name>
+    <phone>802 952-9454</phone>
+    <email>james.c.leiter@dartmouth.edu</email>
+  </overall_contact>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 4, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 18, 2021</study_first_posted>
+  <last_update_submitted>November 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Dartmouth-Hitchcock Medical Center</investigator_affiliation>
+    <investigator_full_name>James C. Leiter</investigator_full_name>
+    <investigator_title>Principal Investigator, Professor of Molecular and Systems Biology</investigator_title>
+  </responsible_party>
+  <keyword>phonocardiographic measurements</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hemorrhage</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

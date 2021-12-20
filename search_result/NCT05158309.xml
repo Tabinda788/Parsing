@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="218">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05158309</url>
+  </required_header>
+  <id_info>
+    <org_study_id>N-20190057</org_study_id>
+    <nct_id>NCT05158309</nct_id>
+  </id_info>
+  <brief_title>Measuring and Modulating Changes in EEG Resting State Functional Connectivity During Short-term and Long-term Pain</brief_title>
+  <official_title>Aalborg University, Aalborg, Denmark</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Aalborg University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Danish National Research Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>European Commission</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Aalborg University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background and aims: Experimental prolonged pain models can shed more light on the cortical&#xD;
+      mechanisms involved in the transition from acute to chronic pain including changes in resting&#xD;
+      state functional connectivity (rsFC). This experiment aimed at examining the effect of&#xD;
+      24-hour-capsaicin application on the rsFC of the default mode network (DMN), a prominent&#xD;
+      network in the dynamic pain connectome.&#xD;
+&#xD;
+      Methods: Electroencephalographic (EEG) rsFC measured by Granger causality was acquired at&#xD;
+      baseline, 1-hour, and 24-hour following the initial patch application (placebo or capsaicin).&#xD;
+      After 24 hours, the patch was cooled down then heated up to assess rsFC changes in response&#xD;
+      to pain relief and facilitation. Pain was induced using a topical capsaicin patch (or placebo&#xD;
+      as control) on the right forearm and assessed on a 0-10 numerical rating scale (NRS).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 31, 2021</start_date>
+  <completion_date type="Actual">November 6, 2021</completion_date>
+  <primary_completion_date type="Actual">November 6, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Participants experienced both experimental (capsaicin) condition and placebo conditions. Due to the long-lasting effects of capsaicin after 24 hours of application, placebo condition always preceded the capsaicin condition.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in resting state functional connectivity (rsFC)</measure>
+    <time_frame>rsFC is assessed at 5 time points for each condition (capsaicin or placebo): baseline, 1 hour, 24 hours, 24 hours, cooling at 24hours, and heating at 24 hours.</time_frame>
+    <description>rsFC is assessed using Granger causality (GC)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Subjective pain intensity</measure>
+    <time_frame>Intensity is assessed at 5 time points for each condition (capsaicin or placebo): baseline, 1 hour, 24 hours, cooling at 24hours, and heating at 24 hours.</time_frame>
+    <description>Intensity rated by the participants on a numerical rating scale (NRS)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Pain sensitivity</measure>
+    <time_frame>Sensitivity is assessed at 3 time points for each condition (capsaicin or placebo): baseline, 1 hour, 24 hours, and 24 hours.</time_frame>
+    <description>As shown by quantitative sensory testing including thermal and mechanical thresholds.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">24</enrollment>
+  <condition>Prolonged Pain, EEG, Resting State Functional Connectivity</condition>
+  <arm_group>
+    <arm_group_label>Capsaicin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Capsaicin condition: in this condition participants received pain using a (5x10 cm) 8% topical capsaicin patch on the volar part of the dominant right forearm.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo condition: participants received no pain.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>8% Capsaicin patch</intervention_name>
+    <description>Cutaneous pain was induced using a (5x10 cm) 8% topical capsaicin patch (transdermal patch, 'Qutenza', Astellas) on the volar part of the dominant right forearm (5 cm from the wrist) of each participant.</description>
+    <arm_group_label>Capsaicin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>placebo patch</intervention_name>
+    <description>A transparent patch with no formulation or effect but the same size of the capsaicin patch was applied to the same location.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Healthy men and women, age 19-44, right-handed (assessed using the Edinburgh Handedness&#xD;
+        Inventory, speak and understand English.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Chili allergies&#xD;
+&#xD;
+          2. History of chronic pain or current acute pain&#xD;
+&#xD;
+          3. Present or previous neurologic such as epilepsy, Alzheimer disease, dementia, stroke,&#xD;
+             migraine and other headache disorders, multiple sclerosis, Parkinson's disease,&#xD;
+             neuroinfections, brain tumours and head trauma.&#xD;
+&#xD;
+          4. Present or previous musculoskeletal disorders such muscle/tendon strain, ligament&#xD;
+             sprain tension,tendonitis, degenerative disc disease, mechanical back syndrome, and&#xD;
+             ruptured/herniated disc.&#xD;
+&#xD;
+          5. Present or previous mental illnesses such as depression, bipolar disorder, and&#xD;
+             schizophrenia.&#xD;
+&#xD;
+          6. Pregnancy&#xD;
+&#xD;
+          7. Current use of medications that may affect the trial (e.g. pain relieving medication&#xD;
+             and anti-inflammatory medication)&#xD;
+&#xD;
+          8. Using hair products that may interfere with EEG conductance such as gel, except for&#xD;
+             shampoo, prior to the trial.&#xD;
+&#xD;
+          9. Drug addiction defined as the use of cannabis, opioids or other drugs&#xD;
+&#xD;
+         10. Consumption of alcohol, caffeine, or tobacco 6 hours before the experimental onset&#xD;
+&#xD;
+         11. Lack of ability to cooperate -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>44 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Thomas Graven-Nielsen, DMSc, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Aalborg University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Aalborg University, Department of Health Sciences and technology</name>
+      <address>
+        <city>Aalborg</city>
+        <zip>9220</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>December 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 15, 2021</study_first_posted>
+  <last_update_submitted>December 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Aalborg University</investigator_affiliation>
+    <investigator_full_name>Najah Al Hajri</investigator_full_name>
+    <investigator_title>PhD student</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Capsaicin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>No personal data will be shared</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

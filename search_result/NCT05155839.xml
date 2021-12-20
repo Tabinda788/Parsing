@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="408">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05155839</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MRG001-001</org_study_id>
+    <nct_id>NCT05155839</nct_id>
+  </id_info>
+  <brief_title>Safety and Preliminary Efficacy Study of MRG001 in Patients With Non-Hodgkin Lymphoma (NHL)</brief_title>
+  <official_title>An Open-label, Multicenter, First-in-human, Phase I Dose-escalation and Expansion Clinical Study to Assess the Safety, Tolerability, Pharmacokinetics and Preliminary Efficacy of MRG001 in Patients With CD20-positive Relapsed or Refractory B-cell Non-Hodgkin Lymphoma (NHL)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanghai Miracogen Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Shanghai Miracogen Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study consists of two parts. Phase Ia is a dose escalation study to determine the&#xD;
+      maximum tolerated dose (MTD) and recommended phase II dose (RP2D) of MRG001. Phase Ib is a&#xD;
+      dose expansion study to assess the preliminary efficacy of MRG001 in patients with&#xD;
+      CD20-positive relapsed or refractory B-cell NHL at the confirmed RP2D. The safety,&#xD;
+      tolerability, pharmacokinetic (PK) and immunogenicity of MRG001 will be evaluated in both&#xD;
+      parts.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 25, 2019</start_date>
+  <completion_date type="Anticipated">October 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Adverse Events (AEs)</measure>
+    <time_frame>Baseline to 90 days after the last dose of study treatment.</time_frame>
+    <description>Any reaction, side effect, or untoward event that occurs during the course of the clinical trial whether or not the event is considered related to the study drug.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum Tolerated Dose (MTD)</measure>
+    <time_frame>DLT will be evaluated during the first treatment cycle (Day 1-21).</time_frame>
+    <description>The highest dose confirmed wherein ≤ 1/6 of patients in a treatment cohort experiences a dose-limiting toxicity (DLT) within 21 days after the first dose of study treatment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Recommended Phase II Dose (RP2D)</measure>
+    <time_frame>Baseline to study completion (up to 15 months).</time_frame>
+    <description>The dose level of MRG001 recommended for further phase II clinical studies.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter: Concentration-time curve</measure>
+    <time_frame>Baseline to 90 days after the last dose of study treatment.</time_frame>
+    <description>Plot of drug concentration changing with time after drug administration.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity</measure>
+    <time_frame>Baseline to 30 days after the last dose of study treatment</time_frame>
+    <description>The proportion of patients with positive ADA immunogenicity results.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate (ORR)</measure>
+    <time_frame>Baseline to study completion (up to 15 months)</time_frame>
+    <description>ORR is defined as the proportion of subjects with CR and PR.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DoR)</measure>
+    <time_frame>Baseline to study completion (up to 15 months)</time_frame>
+    <description>DoR is defined as the duration from the initial recording of objective disease response to the first onset of tumor progression, or death of any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate (DCR)</measure>
+    <time_frame>Baseline to study completion (up to 15 months)</time_frame>
+    <description>DCR is defined as the percentage of patients who achieve CR, PR, and stable disease (SD) after treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>Baseline to study completion (up to 15 months)</time_frame>
+    <description>PFS is defined as the duration from the start of treatment to the onset of tumor progression or death of any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Baseline to study completion (up to 15 months)</time_frame>
+    <description>OS is defined as the duration from the start of treatment to death of any cause.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">108</enrollment>
+  <condition>Relapsed or Refractory B-cell Non-Hodgkin Lymphoma (NHL)</condition>
+  <arm_group>
+    <arm_group_label>MRG001</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All patients in Phase Ia (dose escalation) and Phase Ib (dose expansion) will be administrated MRG001 on Day 1 of every 3 weeks (21-day cycle).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>MRG001</intervention_name>
+    <description>Administrated intravenously</description>
+    <arm_group_label>MRG001</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Voluntarily participates in the clinical study; Fully understands and informed of this&#xD;
+             study, and provides written informed consent; Willing to follow and have the ability&#xD;
+             to complete all trial procedures.&#xD;
+&#xD;
+          2. Aged 18 to 75 (including 18 and 75), male or female.&#xD;
+&#xD;
+          3. Patients with histopathologically confirmed relapsed/refractory B-cell non-Hodgkin&#xD;
+             lymphoma.&#xD;
+&#xD;
+          4. Relapsed or refractory disease after standard of care treatment with anti-CD20&#xD;
+             antibodies.&#xD;
+&#xD;
+          5. Patients must have at least one measurable lesion without prior local therapy&#xD;
+             according to Lugano 2014 criteria.&#xD;
+&#xD;
+          6. The score of ECOG for performance status is 0 or 1.&#xD;
+&#xD;
+          7. Patients without severe hematopoietic, liver and kidney dysfunction.&#xD;
+&#xD;
+          8. Expected survival time ≥ 3 months.&#xD;
+&#xD;
+          9. Prior anti-tumor treatment-related AEs (NCI CTCAE v5.0 Criteria) have recovered to ≤&#xD;
+             Grade 1.&#xD;
+&#xD;
+         10. Negative blood pregnancy test for women of childbearing potential within 7 days prior&#xD;
+             to the first dose of study drug. Patients of childbearing potential should agree to&#xD;
+             use effective contraception from signing the ICF until 3 months after the last dose of&#xD;
+             study drug.&#xD;
+&#xD;
+         11. The score of left ventricular ejection fraction (LVEF) is &gt; 50%.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Positive hepatitis B surface antigen (HBsAg), or negative HBsAg with a peripheral&#xD;
+             blood hepatitis B virus DNA copy number greater than the upper limit of normal;&#xD;
+             positive hepatitis C virus (HCV) antibody and positive HCV RNA at screening. Patients&#xD;
+             with a history of clinically significant non-viral hepatitis and cirrhosis.&#xD;
+&#xD;
+          2. Positive human immunodeficiency virus (HIV) antibody.&#xD;
+&#xD;
+          3. Any active infection requiring systemic therapy occurred within 2 weeks before&#xD;
+             enrollment.&#xD;
+&#xD;
+          4. Suspected or confirmed central nervous system invasion of NHL.&#xD;
+&#xD;
+          5. Allergic constitution or known hypersensitivity to rituximab or other anti-CD20&#xD;
+             monoclonal antibodies and their components, or hypersensitivity to any component of&#xD;
+             MRG001.&#xD;
+&#xD;
+          6. Patients with uncontrolled or significant cardiovascular disease.&#xD;
+&#xD;
+          7. History of severe pulmonary disease.&#xD;
+&#xD;
+          8. Received anti-CD20 antibodies or CAR-T therapy within 3 months before enrollment.&#xD;
+&#xD;
+          9. Received blood transfusion, erythropoietin (EPO), granulocyte colony-stimulating&#xD;
+             factor (G-CSF), granulocyte-macrophage colony-stimulating factor (GM-CSF) and other&#xD;
+             drugs that may affect hemogram within 14 days before enrollment.&#xD;
+&#xD;
+         10. Current use of potent CYP3A4 inhibitors or inducers.&#xD;
+&#xD;
+         11. History of allogeneic stem cell transplantation or organ transplantation, or have&#xD;
+             received autologous stem cell transplantation within 3 months prior to screening, or&#xD;
+             plan to undergo stem cell transplantation.&#xD;
+&#xD;
+         12. Suffered from other malignancies within the last 5 years.&#xD;
+&#xD;
+         13. Major surgery within 6 weeks prior to enrollment or planned major surgery within the&#xD;
+             first 12 weeks after receiving study drug.&#xD;
+&#xD;
+         14. Patients who are receiving any approved or investigational anti-tumor treatment with&#xD;
+             radiotherapy, chemotherapy, Chinese patent medicine or Chinese herbal medicine within&#xD;
+             28 days before enrollment; or have received small molecule targeted therapy within 28&#xD;
+             days before enrollment or within 5 half-lives (whichever is shorter); or participated&#xD;
+             in any approved or investigational anti-tumor treatment with antibodies or CAR-T&#xD;
+             within 3 months before enrollment; or received any other investigational study&#xD;
+             treatment within 28 days before enrollment.&#xD;
+&#xD;
+         15. Received any vaccine within 28 days prior to enrollment or will receive any vaccine&#xD;
+             within 6 months after the last dose of study drug.&#xD;
+&#xD;
+         16. Requires treatment with glucocorticoids or other immunosuppressive agents for a&#xD;
+             certain condition within 14 days prior to enrollment.&#xD;
+&#xD;
+         17. An acute oncolytic reaction may occur at the discretion of the investigator.&#xD;
+&#xD;
+         18. Inability to complete protocol-specified study visits and study drug administration.&#xD;
+&#xD;
+         19. Women during pregnancy or lactation; men and women of childbearing potential who are&#xD;
+             unwilling to take prescribed appropriate contraceptive measures.&#xD;
+&#xD;
+         20. Other conditions inappropriate for participation in this clinical trial at the&#xD;
+             discretion of the investigator.&#xD;
+&#xD;
+         21. Malignant lymphoma with pathological transformation.&#xD;
+&#xD;
+         22. High-grade B-cell lymphoma.&#xD;
+&#xD;
+         23. Patient's Body Mass Index ≤ 17 kg/m2.&#xD;
+&#xD;
+         24. Patients with underlying medical conditions that, in the judgment of the investigator,&#xD;
+             might increase the risk of receiving study drug or might affect the safety assessment&#xD;
+             of the study drug.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jun Zhu, Doctor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Peking University Cancer Hospital &amp; Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Yuqing Song, Doctor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Peking University Cancer Hospital &amp; Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Program Director, Master</last_name>
+    <phone>86-21-61637960</phone>
+    <phone_ext>8050</phone_ext>
+    <email>clinicaltrials@miracogen.com.cn</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Beijing Friendship Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100050</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zhao Wang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Peking University Cancer Hospital &amp; Institute</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100142</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jun Zhu, Doctor</last_name>
+      <email>zhujun3346@163.com.cn</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fujian Cancer Hospital</name>
+      <address>
+        <city>Fuzhou</city>
+        <state>Fujian</state>
+        <zip>350014</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yu Yang, Doctor</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sun Yat-sen University Cancer Hospital</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510075</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Qingqing Cai, Doctor</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Guangdong Provincial People's Hospital</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510080</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wenyu Li, Doctor</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Zhujiang Hospital of Southern Medical University</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510280</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yuhua Li, Doctor</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Harbin First Hospital</name>
+      <address>
+        <city>Harbin</city>
+        <state>Heilongjiang</state>
+        <zip>150010</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jun Ma, Doctor</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Henan Cancer Hospital</name>
+      <address>
+        <city>Zhengzhou</city>
+        <state>Henan</state>
+        <zip>450003</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keshu Zhou, Doctor</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of China Medical University</name>
+      <address>
+        <city>Shenyang</city>
+        <state>Liaoning</state>
+        <zip>110001</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xiaojing Yan, Doctor</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Shengjing Hospital of China Medical University</name>
+      <address>
+        <city>Shenyang</city>
+        <state>Liaoning</state>
+        <zip>110004</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zhuogang Liu, Doctor</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Shanghai East Hospital</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200120</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ye Guo, Doctor</last_name>
+      <email>pattrickguo@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Zhejiang Cancer Hospital</name>
+      <address>
+        <city>Hangzhou</city>
+        <state>Zhejiang</state>
+        <zip>310005</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Haiyan Yang, Doctor</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>December 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 14, 2021</study_first_posted>
+  <last_update_submitted>December 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>MRG001</keyword>
+  <keyword>Antibody Drug Conjugate (ADC)</keyword>
+  <keyword>CD20</keyword>
+  <keyword>Non-Hodgkin lymphoma (NHL)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="6016">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05082909</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21HH6936</org_study_id>
+    <nct_id>NCT05082909</nct_id>
+  </id_info>
+  <brief_title>Addition of Probenecid to Penicillin-V Therapy</brief_title>
+  <acronym>ADDPROPEN</acronym>
+  <official_title>Addition of Probenecid to Penicillin-V Therapy: an Open Label, Cross-over Study in Healthy Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Imperial College London</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Imperial College London</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to build on previous work characterising the PK of penicillin-V to explore&#xD;
+      the potential impact of probenecid on PK-PD target attainment. Achievement of the aims of&#xD;
+      this study would provide data to support the design of experimental studies exploring the&#xD;
+      clinical impact of probenecid on treatment outcomes and also provide a rationale for&#xD;
+      exploration of probenecid's effects on a larger number of beta-lactam antibiotics.&#xD;
+&#xD;
+      Hypothesis: Addition of probenecid to oral phenoxymethylpenicillin (penicillin-V) has a&#xD;
+      clinically relevant effect on pharmacokinetic-pharmacodynamic (PK-PD) target attainment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Participants will be screened and consented to attend Imperial College Clinical Research&#xD;
+      Facility (CRF) at Hammersmith Hospital on two study visits, at least 7 days apart. For one&#xD;
+      visit (randomised), participants will be required to take penicillin-V only. For their other&#xD;
+      visit, they will take penicillin-V plus probenecid at standard recommended dose. Prior to the&#xD;
+      study visits, participants may be required to have taken 36-hours of penicillin +/-&#xD;
+      probenecid, documenting this in a dosing diary. On arrival at the CRF, the participant will&#xD;
+      take an observed dose of penicillin +/- probenecid. They will undergo blood draw via needle&#xD;
+      phlebotomy or a cannula (participant choice) at 45 and 180 minutes post the observed. Samples&#xD;
+      will be spun down and frozen at -80oC. They will subsequently be analysed using an in-house&#xD;
+      HPLC-MS/MS methodology to determine total and free-unbound drug concentration.&#xD;
+&#xD;
+      For analysis, data from this study will be pooled with rich PK data from a prior study that&#xD;
+      assessed plasma concertation of penicillin-V in healthy volunteers. Pmetrics in R will be&#xD;
+      used to model the data looking to explore the effect of probenecid on clearance of&#xD;
+      free-penicillin-V. Probability of target attainment for streptococci species will also be&#xD;
+      estimated to evaluate the potential clinical impact of the addition of probenecid to routine&#xD;
+      penicillin-V use. Rich PK data for intravenous benzylpenicillin will be used to estimate&#xD;
+      PK-PD target attainment and PTAs for intravenous formulations, allowing direct comparison of&#xD;
+      oral and IV regimes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2021</start_date>
+  <completion_date type="Anticipated">October 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 2022</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Randomised, cross-over study</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Measurement of total and unbound penicillin-V concentration</measure>
+    <time_frame>45 minutes post an observed dose.</time_frame>
+    <description>Measurement of blood concentration at 45 minutes post dose with and without probenecid.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of total and unbound penicillin-V concentration</measure>
+    <time_frame>180 minutes post an observed dose.</time_frame>
+    <description>Measurement of blood concentration at 180 minutes post dose with and without probenecid.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Measurement of total and unbound probenecid concentration</measure>
+    <time_frame>45 minutes post an observed dose.</time_frame>
+    <description>Measurement of blood concentration at 45 minutes post observed penicillin-V dose with and without probenecid.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Measurement of total and unbound probenecid concentration</measure>
+    <time_frame>180 minutes post an observed dose.</time_frame>
+    <description>Measurement of blood concentration at 180 minutes post observed penicillin-V dose with and without probenecid.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Infection, Bacterial</condition>
+  <arm_group>
+    <arm_group_label>Penicillin alone</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Penicillin orally at dose of either 250mg, 500mg, 750mg QDS for 36 hours.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Penicillin plus probenecid</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Penicillin orally at dose of either 250mg, 500mg, 750mg QDS for 36 hours.&#xD;
+PLUS&#xD;
+Probenecid 500mg QDS for 36 hours.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Probenecid</intervention_name>
+    <description>Addition of 500mg QDS to oral penicillin.</description>
+    <arm_group_label>Penicillin alone</arm_group_label>
+    <arm_group_label>Penicillin plus probenecid</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult healthy volunteers (&gt;18 years old).&#xD;
+&#xD;
+          -  Previously taken penicillin-based antibiotics without allergic response.&#xD;
+&#xD;
+          -  Estimated Glomerular Filtration Rate (eGFR) &gt; 90.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Lacking capacity to consent.&#xD;
+&#xD;
+          -  Documented allergy to penicillin, other beta-lactam antibiotics, or probenecid.&#xD;
+&#xD;
+          -  History of G6PD Deficiency.&#xD;
+&#xD;
+          -  Known blood dyscrasias.&#xD;
+&#xD;
+          -  Anaemia (Hb &lt; 12g/dL female, 13g/dL males).&#xD;
+&#xD;
+          -  Abnormal liver function (ALT, AST, ALP or bilirubin &gt; ULN).&#xD;
+&#xD;
+          -  eGFR &lt; 90.&#xD;
+&#xD;
+          -  Pregnant or likely to become pregnant during study period.&#xD;
+&#xD;
+          -  Breastfeeding women.&#xD;
+&#xD;
+          -  Symptoms consistent with active infection.&#xD;
+&#xD;
+          -  History of gout or uric acid kidney stones.&#xD;
+&#xD;
+          -  Taking regular medication that may interact with probenecid including, but not limited&#xD;
+             to methotrexate, lorazepam, acetaminophen, oral hypoglycaemic medication, sulfa&#xD;
+             containing drugs, non-steroidal anti-inflammatory drugs.&#xD;
+&#xD;
+          -  History of evidence of any medical, neurological, or psychological condition that&#xD;
+             would expose the subject to an undue risk of a significant adverse event or interfere&#xD;
+             with study assessments during the course of the trial as determined by the clinical&#xD;
+             judgement of the investigator.&#xD;
+&#xD;
+          -  Recent involvement in other research (within prior 3 months).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Timothy Rawson, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Imperial College London</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Timothy Rawson, PhD</last_name>
+    <phone>0208 383 3231</phone>
+    <email>tmr07@ic.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Richard Wilson</last_name>
+    <email>r.wilson@imperial.ac.uk</email>
+  </overall_contact_backup>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 19, 2021</study_first_posted>
+  <last_update_submitted>October 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Penicillin</keyword>
+  <keyword>Probenecid</keyword>
+  <keyword>Pharmacokinetics</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bacterial Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Probenecid</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data will be shared upon reasonable request with appropriate permissions in place.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>The protocol will be available from commencement of study. The clinical study report will be published within 12 months of completion of the study.</ipd_time_frame>
+    <ipd_access_criteria>Access via the study principle investigator or online publications.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

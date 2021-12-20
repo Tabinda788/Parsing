@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="6127">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05081466</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HRA 17/YH/0144</org_study_id>
+    <nct_id>NCT05081466</nct_id>
+  </id_info>
+  <brief_title>Diet and Hip Fracture Risk in the United Kingdom Women's Cohort</brief_title>
+  <official_title>Associations Between Diet and Hip Fracture Incidence in the United Kingdom Women's Cohort</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Leeds</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Leeds</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Hip fracture is a common serious injury in older women that reduces quality of life and can&#xD;
+      lead to premature death. In the United Kingdom, hip fractures are estimated to account for&#xD;
+      1.5 million hospital bed days used per year due to long hospitalisation and rehabilitation&#xD;
+      periods post-surgery, costing the National Health Service over £1 billion per year. Diet can&#xD;
+      affect bone health and risk of hip fracture, with varying risks in women on specific diets,&#xD;
+      and specific foods and nutrients playing more important roles than others. Vegetarians may be&#xD;
+      at a greater risk of hip fracture than meat-eaters, and those who don't consume enough&#xD;
+      protein could be at a greater risk than those with adequate intakes. This research aims to&#xD;
+      investigate which dietary factors (and in what quantities) might predispose United Kingdom&#xD;
+      women to a greater risk of hip fracture, and which factors may be protective. The purpose of&#xD;
+      this study is to better understand the role of diet in reducing hip fracture risk in United&#xD;
+      Kingdom women. The research will use existing dietary and lifestyle data from the United&#xD;
+      Kingdom Women's Cohort Study and hospital records of hip fractures.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background: Hip fracture is an increasingly prevalent global health condition that increases&#xD;
+      morbidity and mortality. Previous observational studies have shown potential for risk&#xD;
+      reduction through diet modification, but associations between many dietary factors and hip&#xD;
+      fracture incidence are uncertain, and evidence in United Kingdom populations is limited.&#xD;
+      Therefore, this study aims to assess associations between diet and hip fracture incidence in&#xD;
+      the United Kingdom Women's Cohort.&#xD;
+&#xD;
+      Research plan and methods: The investigators will utilise dietary and lifestyle data from the&#xD;
+      United Kingdom Women's Cohort which recruited 35,372 middle-aged women between 1995-1998.&#xD;
+      This data has been linked with Hospital Episode Statistics to provide hip fracture data of&#xD;
+      participants.&#xD;
+&#xD;
+      Cox regression models will be applied to explore potential associations between dietary&#xD;
+      factors and hip fracture incidence. Dietary factors will be modelled both as categorical and&#xD;
+      continuous so that models can be fit comparing the risk of hip fracture between categories of&#xD;
+      intakes and per increment increase in exposure intake (linear dose-response). Cubic splines&#xD;
+      will be used to model non-linear associations for dietary intake of fruits, vegetables, tea,&#xD;
+      and coffee since previous research has suggested possible non-linear associations for these&#xD;
+      variables.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">January 15, 1995</start_date>
+  <completion_date type="Anticipated">January 31, 2022</completion_date>
+  <primary_completion_date type="Actual">March 13, 2019</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Hip fracture incidence (first)</measure>
+    <time_frame>age when the completed questionnaire was returned (1995-1998) until age at event, death, or end of study period (19 Mar 2019)</time_frame>
+    <description>Incidence of first hip fracture ascertained from linkage to Hospital Episode Statistics (HES) data</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">35372</enrollment>
+  <condition>Hip Fracture (First Incidence of)</condition>
+  <arm_group>
+    <arm_group_label>United Kingdom Women's Cohort</arm_group_label>
+    <description>United Kingdom Women's Cohort Study. No interventions are to be administered in this observational prospective cohort study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Dietary pattern</intervention_name>
+    <description>(regular meat-eater, occasional meat-eater, fish-eater, vegetarian, and vegan)</description>
+    <arm_group_label>United Kingdom Women's Cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Fruit and vegetable intake</intervention_name>
+    <description>Intake of fruits, vegetables, fruits and vegetables combined from food frequency questionnaire</description>
+    <arm_group_label>United Kingdom Women's Cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Meat intake</intervention_name>
+    <description>Red meat, poultry, processed meat from food frequency questionnaire</description>
+    <arm_group_label>United Kingdom Women's Cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Fish intake</intervention_name>
+    <description>Intake of fish from food frequency questionnaire</description>
+    <arm_group_label>United Kingdom Women's Cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Egg intake</intervention_name>
+    <description>Intake of eggs from food frequency questionnaire</description>
+    <arm_group_label>United Kingdom Women's Cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Dairy intake</intervention_name>
+    <description>Intake of dairy products from food frequency questionnaire</description>
+    <arm_group_label>United Kingdom Women's Cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Tea intake</intervention_name>
+    <description>Intake of tea (drink) from food frequency questionnaire</description>
+    <arm_group_label>United Kingdom Women's Cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Coffee intake</intervention_name>
+    <description>Intake of coffee (caffeinated or decaffeinated) from food frequency questionnaire</description>
+    <arm_group_label>United Kingdom Women's Cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Tea and coffee intake</intervention_name>
+    <description>Combined intake of tea and coffee from food frequency questionnaire</description>
+    <arm_group_label>United Kingdom Women's Cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Protein intake</intervention_name>
+    <description>Estimated intake of protein, derived from food frequency questionnaire</description>
+    <arm_group_label>United Kingdom Women's Cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Calcium intake</intervention_name>
+    <description>Estimated intake of calcium, derived from food frequency questionnaire</description>
+    <arm_group_label>United Kingdom Women's Cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Vitamin D intake</intervention_name>
+    <description>Estimated intake of vitamin D, derived from food frequency questionnaire and any recorded supplemental intake</description>
+    <arm_group_label>United Kingdom Women's Cohort</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The UK Women's cohort profile is published here: [https://doi.org/10.1093/ije/dyv173].&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Female&#xD;
+&#xD;
+          -  Ages 35 - 69 years at time of recruitment&#xD;
+&#xD;
+          -  Able to provide informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Male&#xD;
+&#xD;
+          -  Not a resident of England&#xD;
+&#xD;
+          -  Unable to link dietary and lifestyle data with hospital episode data&#xD;
+&#xD;
+          -  Missing covariate data&#xD;
+&#xD;
+          -  Hip fracture or osteoporosis prevalence before or on the date of recruitment&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>36 Years</minimum_age>
+    <maximum_age>69 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University of Leeds</name>
+      <address>
+        <city>Leeds</city>
+        <state>West Yorkshire</state>
+        <zip>LS2 9JT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 18, 2021</study_first_posted>
+  <last_update_submitted>October 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Leeds</investigator_affiliation>
+    <investigator_full_name>Darren Greenwood</investigator_full_name>
+    <investigator_title>Senior Lecturer in Biostatistics</investigator_title>
+  </responsible_party>
+  <keyword>Nutrition</keyword>
+  <keyword>Fracture</keyword>
+  <keyword>Cohort study</keyword>
+  <keyword>Epidemiology</keyword>
+  <keyword>Osteoporosis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fractures, Bone</mesh_term>
+    <mesh_term>Hip Fractures</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vitamin D</mesh_term>
+    <mesh_term>Calcium</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 4, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/66/NCT05081466/SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

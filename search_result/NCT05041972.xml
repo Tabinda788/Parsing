@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9163">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05041972</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACE-Pan Tumor-02</org_study_id>
+    <nct_id>NCT05041972</nct_id>
+  </id_info>
+  <brief_title>ARX788 in Selected HER2-mutated or HER2-amplified Solid Tumors (ACE-Pan Tumor-02)</brief_title>
+  <official_title>A Global Phase 2 Study to Evaluate the Efficacy and Safety of ARX788 for Selected HER2-mutated or HER2-amplified Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ambrx, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ambrx, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A Global Phase 2 Study to Evaluate the Efficacy and Safety of ARX788 for Selected&#xD;
+      HER2-mutated or HER2-amplified Solid Tumors (ACE-Pan tumor-02)&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study will enroll subjects with HER2-mutated or HER2-amplified locally advanced or&#xD;
+      metastatic solid tumor cancers whose prior standard of care therapies have failed. This&#xD;
+      basket trial will evaluate ARX788 across multiple cancer populations, as defined by HER2&#xD;
+      genetic biomarkers&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2021</start_date>
+  <completion_date type="Anticipated">December 2024</completion_date>
+  <primary_completion_date type="Anticipated">November 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Objective response rate (ORR)</measure>
+    <time_frame>2 years</time_frame>
+    <description>The confirmed objective response rate (ORR) of ARX788 by blinded independent central review (BICR) based on RECIST 1.1 in Cohorts 1-5.&#xD;
+The ORR is defined as the number of subjects with a best overall response (BOR) of complete response (CR) or partial response (PR) divided by the number of response evaluable subjects</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response</measure>
+    <time_frame>2 years</time_frame>
+    <description>DOR is defined as the time between the date of first response and the date of disease progression or death, whichever occurs first, will be computed for subjects with a BOR of CR or PR.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Best Overall Response (BOR)</measure>
+    <time_frame>2 years</time_frame>
+    <description>BOR is defined as the best response recorded from the start of the treatment until disease progression/recurrence (taking as reference for progressive disease the smallest measurements recorded since the treatment started).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate (DCR)</measure>
+    <time_frame>2 years</time_frame>
+    <description>DCR is defined as the proportion of complete response (CR), partial response (PR), and stable disease (SD) rates.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>2 years</time_frame>
+    <description>PFS is defined as the time between date of first dose of study therapy and date of progression or death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>2 years</time_frame>
+    <description>Overall survival (OS) is defined as the time from first dose of study therapy to the date of death (any cause).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Response (TTR)</measure>
+    <time_frame>2 years</time_frame>
+    <description>Time to response (TTR) is defined as the time from the start of treatment to the first objective tumor response</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum serum concentration (Cmax) for ARX788, total antibody, and metabolites</measure>
+    <time_frame>Cycle 1 and Cycle 3 (each cycle is 28 days)</time_frame>
+    <description>Pharmacokinetic parameter maximum serum concentration (Cmax) for ARX788, total antibody, and metabolites.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Trough concentration (Ctrough) for ARX788, total antibody, and metabolites</measure>
+    <time_frame>Cycle 1 and Cycle 3 (each cycle is 28 days)</time_frame>
+    <description>Pharmacokinetic parameter trough concentration (Ctrough) for ARX788, total antibody, and metabolites.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of anti-drug antibodies (ADAs)</measure>
+    <time_frame>2 years</time_frame>
+    <description>Incidence of anti-drug antibodies (ADAs) following intravenous administration of ARX788 in participants with HER2-mutated or HER2-amplified locally advanced or metastatic solid tumors.</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>HER2 Mutation-Related Tumors</condition>
+  <condition>HER2 Amplified Solid Tumors</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1: HER2 Mutated Non-Small Cell Lung Cancer (NSCLC)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intervention: Drug: ARX788</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2: HER2 Mutation Breast Cancer</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intervention: Drug: ARX788</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Exploratory Cohort A: Other HER2-Mutated tumors</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intervention: Drug: ARX788</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3: HER2 Amplification Biliary Tract Cancer (BTC)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intervention: Drug: ARX788</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 4 HER2 Amplification Colorectal (CRC), Ovarian Endometrial, NSCLC, and other solid tumors</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intervention: Drug: ARX788</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 5: HER2 Mutation or HER2 Amplification Solid Tumors</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intervention: Drug: ARX788</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ARX788</intervention_name>
+    <description>ARX788 will be administered by intravenous (IV) infusion every 4 weeks (Q4W).</description>
+    <arm_group_label>Cohort 1: HER2 Mutated Non-Small Cell Lung Cancer (NSCLC)</arm_group_label>
+    <arm_group_label>Cohort 2: HER2 Mutation Breast Cancer</arm_group_label>
+    <arm_group_label>Cohort 3: HER2 Amplification Biliary Tract Cancer (BTC)</arm_group_label>
+    <arm_group_label>Cohort 4 HER2 Amplification Colorectal (CRC), Ovarian Endometrial, NSCLC, and other solid tumors</arm_group_label>
+    <arm_group_label>Cohort 5: HER2 Mutation or HER2 Amplification Solid Tumors</arm_group_label>
+    <arm_group_label>Exploratory Cohort A: Other HER2-Mutated tumors</arm_group_label>
+    <other_name>ADC</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18 years and older&#xD;
+&#xD;
+          -  Life expectancy &gt; 3 months&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Performance Status ≤ 1&#xD;
+&#xD;
+          -  HER2 status must be determined from a local Clinical Laboratory Improvement Amendments&#xD;
+             (CLIA) or equivalent-certified laboratory.&#xD;
+&#xD;
+          -  Cohort 1, Cohort 2, and Explanatory Cohort A: HER2 mutated subjects with pre-specified&#xD;
+             HER2 activating mutation. Subjects with HER2 mutations in NSCLC (Cohort 1), breast&#xD;
+             cancer (Cohort 2), and other solid tumors (Cohort A) who have not received prior HER2&#xD;
+             antibody drug conjugate (ADC) treatment are eligible.&#xD;
+&#xD;
+          -  Cohort 3: Subjects with HER2 amplifications in biliary tract cancers (BTC) who have&#xD;
+             not received prior HER2 ADC treatment are eligible.&#xD;
+&#xD;
+          -  Cohort 4: Subjects with HER2 amplifications in colorectal cancer (CRC), ovarian,&#xD;
+             endometrial, NSCLC and other solid tumors who have not received prior HER2 ADC&#xD;
+             treatment are eligible.&#xD;
+&#xD;
+          -  Cohort 5 HER2 mutation or HER2 amplification: subjects with HER2 mutated or amplified&#xD;
+             tumors and have been previously treated with HER2 ADC are eligible.&#xD;
+&#xD;
+          -  Subjects who are resistant or refractory to previous standard care of treatment.&#xD;
+&#xD;
+          -  Subjects with stable brain metastases.&#xD;
+&#xD;
+          -  Adequate organ functions.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Any subject who meets any of the following criteria is excluded from the study:&#xD;
+&#xD;
+          -  For Cohort 4: breast and gastric/GEJ cancer are excluded.&#xD;
+&#xD;
+          -  Prior history of interstitial lung disease, pneumonitis, or other clinically&#xD;
+             significant lung disease within 12 months.&#xD;
+&#xD;
+          -  History of ocular events, or any current ongoing active ocular infections.&#xD;
+&#xD;
+          -  Exposure to any other investigational or commercial anticancer agents or therapies&#xD;
+             administered with the intention to treat malignancy within 14 days before the first&#xD;
+             dose of ARX788.&#xD;
+&#xD;
+          -  Clinically significant surgical intervention (excluding diagnostic biopsy) within 21&#xD;
+             days of the first dose of ARX788.&#xD;
+&#xD;
+          -  Radiotherapy administered less than 21 days prior to the first dose of ARX788, or&#xD;
+             localized palliative radiotherapy administered less than 7 days prior to the first&#xD;
+             dose of ARX788, or radiotherapy-induced toxicity of Grade 2 or greater based on&#xD;
+             NCI-CTCAE v 5.0.&#xD;
+&#xD;
+        There are additional inclusion and exclusion criteria. The study center will determine if&#xD;
+        criteria for participation are met.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Global Trial Lead</last_name>
+    <role>Study Director</role>
+    <affiliation>Ambrx, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Trial Inquiry</last_name>
+    <phone>858-875-2400</phone>
+    <email>ACEPan02trialinquiry@ambrx.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ambrx Study Director</last_name>
+  </overall_contact_backup>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 13, 2021</study_first_posted>
+  <last_update_submitted>October 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>HER2 Mutation</keyword>
+  <keyword>HER2 Amplification</keyword>
+  <keyword>Non-Small Cell Lung Cancer (NSCLC)</keyword>
+  <keyword>Colorectal (CRC)</keyword>
+  <keyword>Biliary Tract Cancer (BTC)</keyword>
+  <keyword>Breast Cancer</keyword>
+  <keyword>Other Solid Tumors</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>De-identified individual participant data (IPD) and applicable supporting clinical trial documents may be available after the studies for which the medicine and indication have received marketing approval in European Union (EU) and United States (US) or regulatory submissions in all regions are not planned and after the primary study results have been accepted for publication.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

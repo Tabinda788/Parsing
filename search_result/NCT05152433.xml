@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="670">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05152433</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202101E-BRAiN</org_study_id>
+    <secondary_id>CIV-21-01-035629</secondary_id>
+    <nct_id>NCT05152433</nct_id>
+  </id_info>
+  <brief_title>Evidence-Based Robot-Assistant in Neurorehabilitation</brief_title>
+  <acronym>E-BRAiN</acronym>
+  <official_title>E-BRAiN - Evidence-Based Robot-Assistant in Neurorehabilitation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Medicine Greifswald</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>BDH-Klinik Greifswald</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Medicine Greifswald</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to investigate the efficacy, acceptability, and safety of the&#xD;
+      therapeutic system E-BRAiN for the treatment of stroke-related impairments.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This randomized controlled trial, RCT with cross-over design sequentially allocates&#xD;
+      participants with stroke-related impairment to both a two week course of conventional&#xD;
+      rehabilitation therapy and a two week course of therapy using the therapy system E-BRAiN&#xD;
+      (purpose-built therapy system using a socially interactive humanoid robot); participants are&#xD;
+      randomly allocated to the sequences &quot;conventional =&gt; robot&quot; or &quot;robot =&gt; conventional&quot;.&#xD;
+      Stroke survivors with one of the target syndromes, i.e. mild arm paresis, or moderate to&#xD;
+      severe arm paresis, or visuospatial neglect are invited to participate.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 4, 2021</start_date>
+  <completion_date type="Anticipated">September 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change scores over two weeks for the standardised primary outcome measure</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Change scores are difference scores for assessments taken two weeks apart. Changes scores are based on standardised outcome measures. Assessment scores for each measure (see below) are standardised using the known variance in stroke survivor populations for the respective measure.&#xD;
+The following assessments will be used for standardised outcome measures:&#xD;
+Nine-Hole-Peg-Test, NHPT (finger dexterity) and Box-and-Block Test, BBT (gross manual dexterity) (for participants with mild arm paresis); Fugl Meyer, Arm motor score, FM Arm (selective arm and hand movement capacity) (participants with moderate to severe arm paresis); Neglect-Test, NET (spatial visual attention) (participants with visual neglect).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Drop-out rate</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Drop-outs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Goal attainment</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Goal attainment Scale (GAS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change scores over two weeks for &quot;Motivation for therapy&quot;</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Change scores are difference scores for assessments taken two weeks apart with Visual Analogue Scales (VAS) for motivational factors (Min 0, Max 100)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change scores over two weeks for &quot;Emotional distress&quot;</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Change scores are difference scores for assessments taken two weeks apart with the Hospital Anxiety and Depression Scale (HADS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Work alliance</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Assessment of the perceived work alliance for the period of two weeks prior using the Work Alliance Inventory (WAI)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Adverse events documentation for the period of two weeks</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Type and frequency of neurorehabilitation therapy received</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Therapy documentation for the period of two weeks</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Stroke</condition>
+  <condition>Paresis</condition>
+  <condition>Neglect, Hemispatial</condition>
+  <arm_group>
+    <arm_group_label>Conventional therapy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Length of period: 2 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Therapy assisted by a humanoid robot (E-BRAiN)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Length of period: 2 weeks Fixed dose: 10 therapy sessions with E-BRAiN</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>E-BRAiN therapy</intervention_name>
+    <description>The therapy system E-BRAiN is a purpose-built therapy system using a socially interactive humanoid robot and provides individualised therapy for arm rehabilitation based on the evidence-based therapies arm basis training, arm ability training, or mirror therapy for arm rehabilitation (paresis) or neurovisual training (neglect).</description>
+    <arm_group_label>Therapy assisted by a humanoid robot (E-BRAiN)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Conventional therapy</intervention_name>
+    <description>Conventional therapy specifies the neurorehabilitation therapy as applied as regular treatment.</description>
+    <arm_group_label>Conventional therapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age at study entry ≥ 18 years&#xD;
+&#xD;
+          -  Stroke (ischemic stroke, non-traumatic intracerebral haemorrhage, subarachnoidal&#xD;
+             haemorrhage)&#xD;
+&#xD;
+          -  Incomplete arm paresis (Motricity Index, arm score &gt;1 [Min] and &lt; 100 [Max]) or&#xD;
+&#xD;
+          -  Visuospatial neglect (clinical signs and NET subtest &quot;star cancellation&quot; score &lt; 50)&#xD;
+&#xD;
+          -  Candidate able to consent and provides informed consent or&#xD;
+&#xD;
+          -  legal representative provides informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant or breast feeding&#xD;
+&#xD;
+          -  Obliged to live in an institution by law or public authority&#xD;
+&#xD;
+          -  With case presentation arm paresis: another condition that causes arm paresis is&#xD;
+             present&#xD;
+&#xD;
+          -  With case presentation visuospatial neglect: another condition that causes a relevant&#xD;
+             visual-perceptual deficit that cannot be compensated is present; exception: homonymous&#xD;
+             visual field deficits are not an exclusion criterion&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Thomas Platz, Prof.Dr.med.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Head, Neurorehabilitation Research Group</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Stefan Engeli, Prof.Dr.</last_name>
+    <phone>+49-3834-86</phone>
+    <phone_ext>5633</phone_ext>
+    <email>stefan.engeli@med.uni-greifswald.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Franziska Schuster, Dr.rer.nat.</last_name>
+    <phone>+49-3834 86</phone>
+    <phone_ext>7420</phone_ext>
+    <email>franziska.schuster@med.uni-greifswald.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Universitätsmedizin Greifswald</name>
+      <address>
+        <city>Greifswald</city>
+        <zip>17475</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas Platz, Prof.Dr.med.</last_name>
+      <phone>+49-3834 871</phone>
+      <phone_ext>490</phone_ext>
+      <email>thomas.platz@uni-greifswald.de</email>
+    </contact>
+    <investigator>
+      <last_name>Ann Loiuse Pedersen, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>BDH-Klinik Greifswald</name>
+      <address>
+        <city>Greifswald</city>
+        <zip>17491</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas Platz, Prof.Dr.med.</last_name>
+      <phone>+49-3835-871</phone>
+      <phone_ext>490</phone_ext>
+      <email>t.platz@bdh-klinik-greifswald.de</email>
+    </contact>
+    <investigator>
+      <last_name>Ann Louise Pedersen</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <link>
+    <url>http://www.ebrain-science.de/en/home/</url>
+    <description>Research web site</description>
+  </link>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>November 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 9, 2021</study_first_posted>
+  <last_update_submitted>December 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Paresis</mesh_term>
+    <mesh_term>Perceptual Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

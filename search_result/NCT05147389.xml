@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1057">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05147389</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IECED-11032021</org_study_id>
+    <nct_id>NCT05147389</nct_id>
+  </id_info>
+  <brief_title>Artificial Intelligence for Digital Cholangioscopy Neoplasia Diagnosis</brief_title>
+  <official_title>Clinical Validation of an Artificial Intelligence Software for Digital Cholangioscopy Diagnosis: an Observational Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Instituto Ecuatoriano de Enfermedades Digestivas</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The Methodist Hospital Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Sao Paulo</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Vrije Universiteit Brussel</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Advanced Endoscopy Research, Robert Wood Johnson Medical School Rutgers University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Baylor Saint Luke's Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Universitair Ziekenhuis Brussel</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Instituto Ecuatoriano de Enfermedades Digestivas</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Digital single-operator cholangioscopy (DSOC) findings achieve high diagnostic accuracy for&#xD;
+      neoplastic bile duct lesions. To date, there is not a universally accepted DSOC&#xD;
+      classification. Endoscopists' Intra and interobserver agreements vary widely.&#xD;
+      Cholangiocarcinoma (CCA) assessment through artificial intelligence (AI) tools is almost&#xD;
+      exclusively for intrahepatic CCA (iCCA). Therefore, more AI tools are necessary for assessing&#xD;
+      extrahepatic neoplastic bile duct lesions.&#xD;
+&#xD;
+      In Ecuador, the investigators have recently proposed an AI model to classify bile duct&#xD;
+      lesions during real-time DSOC, which accurately detected malignancy patterns. This research&#xD;
+      pursues a clinical validation of our AI model for distinguishing between neoplastic and&#xD;
+      non-neoplastic bile duct lesions, compared with high DSOC experienced endoscopists.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Distinguishing neoplastic from non-neoplastic bile duct lesions is a challenge for&#xD;
+      clinicians. Magnetic resonance (MR) and biopsy guided by endoscopic retrograde&#xD;
+      cholangiopancreatography (ERCP) reached a negative predictive value (NPV) around 50%. On the&#xD;
+      other hand, Digital single-operator cholangioscopy (DSOC) findings achieve high diagnostic&#xD;
+      accuracy for neoplastic bile duct lesions. DSOC could be even better than DSOC-guided biopsy,&#xD;
+      which is inconclusive in some cases. However, to date, there is no universally accepted DSOC&#xD;
+      classification for that purpose. Also, endoscopists' Intra and interobserver agreements vary&#xD;
+      widely. Therefore, a more reproducible system is still needed.&#xD;
+&#xD;
+      With interesting results, Cholangiocarcinoma (CCA) assessment through artificial intelligence&#xD;
+      (AI) tools has been developed based on imaging radiomics. Nevertheless, CCA AI resources are&#xD;
+      almost exclusively for intrahepatic CCA (iCCA), with an endoscopic technique. Therefore, more&#xD;
+      AI tools are necessary for assessing extrahepatic neoplastic bile duct lesions. Perihilar&#xD;
+      (pCCA) and distal (dCCA) cholangiocarcinoma as the most typical neoplastic bile duct lesions.&#xD;
+      Both represent 50-60% and 20-30% of all CCA, including secondary malignancies by local&#xD;
+      extension (hepatocarcinoma, gallbladder, and pancreas cancer).&#xD;
+&#xD;
+      A recent Portuguese proof-of-concept study developed an AI tool based on convolutional&#xD;
+      neuronal networks (CNNs). It let to differentiate between malignant from benign bile duct&#xD;
+      lesions or normal tissue with very high accuracy. Still, it needs more external validation,&#xD;
+      including endoscopists' Intra and interobserver agreement comparison. In Ecuador, the&#xD;
+      investigators recently proposed an AI model to classify bile duct lesions during real-time&#xD;
+      DSOC, which has been able to detect malignancy pattern in all cases.&#xD;
+&#xD;
+      This research pursues a clinical validation of our AI model for distinguishing between&#xD;
+      neoplastic and non-neoplastic bile duct lesions, compared with six endoscopists with high&#xD;
+      DSOC experience.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">October 1, 2020</start_date>
+  <completion_date type="Anticipated">December 1, 2021</completion_date>
+  <primary_completion_date type="Actual">October 1, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>1 Year</target_duration>
+  <primary_outcome>
+    <measure>Neoplastic bile duct diagnosis confirmation after one year follow-up</measure>
+    <time_frame>One year</time_frame>
+    <description>Cases will be first followed up during one year to confirm or discard neoplastic bile duct lesions. A definite diagnosis of neoplastic bile duct lesion will be based on DSOC-guided biopsy specimen or findings from further indicated procedures, including brush cytology fluoroscopy-guided, endoscopic ultrasound-guided tissue sampling, surgical samples, and even imaging test in the context of a more impaired patient. Finally, the agreement between one-year follow-up (gold standard) vs. AI model and DSOC endoscopist experts' classification will be verified through a 2 x 2 contingency table.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">170</enrollment>
+  <condition>Common Bile Duct Neoplasms</condition>
+  <condition>Non-Neoplastic Bile Duct Disorder</condition>
+  <arm_group>
+    <arm_group_label>Neoplastic bile duct lesions</arm_group_label>
+    <description>This group is confirmed by DSOC videos from patients with DSOC-confirmed neoplastic bile duct lesions, coming from each participating group. Each DSOC video corresponds to a complete DSOC procedure in a single patient. The neoplastic bile duct criteria are in accordance with the two following tools: the Robles-Medranda et al and the Mendoza classification. A further follow will be necessary to confirm neoplastic bile duct lesion and the type: pCCA or dCCA, local extension of iCCA, hepatocarcinoma mixed CCA/hepatocarcinoma, gallbladder cancer, pancreas cancer, or any other neoplastic bile duct lesion. Based on follow-up, videos from patients with confirmed non-neoplastic bile duct lesions will be re-assessed and re-classified or finally excluded by an expert blinded to clinical records and who do not participate in videos classification.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non-neoplastic bile duct lesions</arm_group_label>
+    <description>This group is confirmed by DSOC videos from patients with DSOC-confirmed non-neoplastic bile duct lesions, coming from each participating group. Each DSOC video corresponds to a complete DSOC procedure in a single patient. The non-neoplastic bile duct criteria are in accordance with the two following tools: the Robles-Medranda et al and the Mendoza classification. A further follow will be necessary to confirm non-neoplastic bile duct lesion and the type, when available: acute or chronic cholangitis secondary to stones or parasite's location, autoimmune cholestatic liver diseases as autoimmune sclerosant cholangitis, and primary biliary cholangitis. Based on follow-up, videos from patients with confirmed neoplastic bile duct lesions will be re-assessed and re-classified or finally excluded by an expert blinded to clinical records and who do not participate in videos classification.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>AI model classification</intervention_name>
+    <description>AIWorks is an artificial intelligence model for real-time cholangioscopic detection of neoplastic and non-neoplastic bile duct lesions. It allows you to choose using a video file or a USB camera input as the detection source. Once the input source has been selected, the software performs real-time detection by surrounding the area of interest (i.e., the area with malignancy features) inside a bounding box. All detections made are displayed on the right side of the screen and can also be reviewed afterwards.</description>
+    <arm_group_label>Neoplastic bile duct lesions</arm_group_label>
+    <arm_group_label>Non-neoplastic bile duct lesions</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>DSOC endoscopist experts' classification</intervention_name>
+    <description>Six endoscopists with high DSOC expertise will observe and classify a set of videos among neoplastic or non-neoplastic bile duct lesions following a Bernoulli distribution; blinded to clinical records and should have never attended said patients.&#xD;
+Gastroenterologists from each center, with non-DSOC responsibility, will select DSOC videos and corresponding baseline data. DSOC videos and data will be gathered in one set. Each video represents a full DSOC for a single patient. The patient will be the unit of this study.&#xD;
+The neoplastic bile duct criteria are in accordance with the Robles-Medranda et al and the Mendoza classifications (ie. Irregular mucosa surface, Tortuous and dilated vascularity, Irregular nodulations, Polyps, Ulceration, Honeycomb pattern, etc.). The experts will assess neoplastic bile duct by presence or absence of disaggregated criteria. Likewise, by Boolean logical operators, the statistical software will compute disaggregated answers.</description>
+    <arm_group_label>Neoplastic bile duct lesions</arm_group_label>
+    <arm_group_label>Non-neoplastic bile duct lesions</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult patients with indication of DSOC.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients referred to our center with an indication of DSOC due to suspicion of CBD&#xD;
+             tumor or indeterminate CBD stenosis.&#xD;
+&#xD;
+          -  Patients who authorized for recording DSOC procedure for this study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any clinical condition which makes DSOC inviable.&#xD;
+&#xD;
+          -  Patients with more than one DSOC.&#xD;
+&#xD;
+          -  Low quality of recorded DSOC videos, even for AI model as for the expert endoscopists.&#xD;
+&#xD;
+          -  Lost on a one-year follow-up after DSOC.&#xD;
+&#xD;
+          -  Disagreement between DSOC findings vs. one-year follow-up, even after re-assessment of&#xD;
+             respective DSOC videos.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>79 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Carlos Robles-Medranda</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ecuadorian Institute of Digestive Diseases</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Advanced Endoscopy Research, Robert Wood Johnson Medical School Rutgers University</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor Saint Luke's Medical Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Houston Methodist Hospital</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Advanced Interventional Endoscopy, Universitair Ziekenhuis Brussel (UZB)/Vrije Universiteit Brussel (VUB)</name>
+      <address>
+        <city>Brussels</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Serviço de Endoscopía Gastrointestinal do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo</name>
+      <address>
+        <city>São Paulo</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Carlos Robles-Medranda</name>
+      <address>
+        <city>Guayaquil</city>
+        <state>Guayas</state>
+        <zip>090505</zip>
+        <country>Ecuador</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Brazil</country>
+    <country>Ecuador</country>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Kahaleh M, Gaidhane M, Shahid HM, Tyberg A, Sarkar A, Ardengh JC, Kedia P, Andalib I, Sethi A, Gan SI, Suresh S, Makar M, Bareket R, Slivka A, Widmer JL, Jamidar PA, Alkhiari R, Oleas R, Kim D, Robles-Medranda CA, Raijman I. Digital single-operator cholangioscopy interobserver study using a new classification: the Mendoza Classification (with video). Gastrointest Endosc. 2021 Aug 31. pii: S0016-5107(21)01605-9. doi: 10.1016/j.gie.2021.08.015. [Epub ahead of print]</citation>
+    <PMID>34478737</PMID>
+  </reference>
+  <reference>
+    <citation>Sethi A, Tyberg A, Slivka A, Adler DG, Desai AP, Sejpal DV, Pleskow DK, Bertani H, Gan SI, Shah R, Arnelo U, Tarnasky PR, Banerjee S, Itoi T, Moon JH, Kim DC, Gaidhane M, Raijman I, Peterson BT, Gress FG, Kahaleh M. Digital Single-operator Cholangioscopy (DSOC) Improves Interobserver Agreement (IOA) and Accuracy for Evaluation of Indeterminate Biliary Strictures: The Monaco Classification. J Clin Gastroenterol. 2020 Feb 7. doi: 10.1097/MCG.0000000000001321. [Epub ahead of print]</citation>
+    <PMID>32040050</PMID>
+  </reference>
+  <reference>
+    <citation>Kahaleh M, Raijman I, Gaidhane M, Tyberg A, Sethi A, Slivka A, Adler DG, Sejpal D, Shahid H, Sarkar A, Martins F, Boumitri C, Burton S, Bertani H, Tarnasky P, Gress F, Gan I, Ardengh JC, Kedia P, Arnelo U, Jamidar P, Shah RJ, Robles-Medranda C. Digital Cholangioscopic Interpretation: When North Meets the South. Dig Dis Sci. 2021 Mar 30. doi: 10.1007/s10620-021-06961-z. [Epub ahead of print]</citation>
+    <PMID>33783691</PMID>
+  </reference>
+  <results_reference>
+    <citation>Saraiva MM, Ribeiro T, Ferreira JPS, Boas FV, Afonso J, Santos AL, Parente MPL, Jorge RN, Pereira P, Macedo G. Artificial intelligence for automatic diagnosis of biliary stricture malignancy status in single-operator cholangioscopy: a pilot study. Gastrointest Endosc. 2021 Sep 8. pii: S0016-5107(21)01619-9. doi: 10.1016/j.gie.2021.08.027. [Epub ahead of print]</citation>
+    <PMID>34508767</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Robles-Medranda C, Oleas R, Sánchez-Carriel M, Olmos JI, Alcívar-Vásquez J, Puga-Tejada M, Baquerizo-Burgos J, Icaza I, Pitanga-Lukashok H. Vascularity can distinguish neoplastic from non-neoplastic bile duct lesions during digital single-operator cholangioscopy. Gastrointest Endosc. 2021 Apr;93(4):935-941. doi: 10.1016/j.gie.2020.07.025. Epub 2020 Jul 22.</citation>
+    <PMID>32707155</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Robles-Medranda C, Valero M, Soria-Alcivar M, Puga-Tejada M, Oleas R, Ospina-Arboleda J, Alvarado-Escobar H, Baquerizo-Burgos J, Robles-Jara C, Pitanga-Lukashok H. Reliability and accuracy of a novel classification system using peroral cholangioscopy for the diagnosis of bile duct lesions. Endoscopy. 2018 Nov;50(11):1059-1070. doi: 10.1055/a-0607-2534. Epub 2018 Jun 28.</citation>
+    <PMID>29954008</PMID>
+  </results_reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 7, 2021</study_first_posted>
+  <last_update_submitted>November 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 7, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Artificial Intelligence</keyword>
+  <keyword>Cholangioscopy</keyword>
+  <keyword>Neoplasia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bile Duct Neoplasms</mesh_term>
+    <mesh_term>Common Bile Duct Neoplasms</mesh_term>
+    <mesh_term>Bile Duct Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

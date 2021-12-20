@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4730">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05099627</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21SM7167</org_study_id>
+    <nct_id>NCT05099627</nct_id>
+  </id_info>
+  <brief_title>Machine Learning Diagnosis and Prediction for Cervical Myelopathy</brief_title>
+  <acronym>MCM</acronym>
+  <official_title>A Point-of-care Machine Learning Model and Scoring System for the Early Diagnosis and Prediction of Treatment Outcome in Patients With Cervical Myelopathy: an Ambispective Cohort Study.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Imperial College Healthcare NHS Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Imperial College Healthcare NHS Trust</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      DESIGN: Ambispective cohort study (retrospective + prospective). AIMS: The overall aim of&#xD;
+      this research study is to create two predictive machine learning models that are based on&#xD;
+      radiological, clinical and biochemical variables, which allows spine surgeons to diagnose CSM&#xD;
+      earlier and more accurately, as well as allowing them to give patients highly individualised&#xD;
+      and accurate predictive information regarding treatment outcomes.&#xD;
+&#xD;
+      OUTCOME MEASURES: For the prospective arm of the study the independent variables will be&#xD;
+      patient characteristics, clinical, radiological and biochemical markers. Dependent variables&#xD;
+      are mJOA and JOACMEQ scores. For the retrospective arm of the study the independent variables&#xD;
+      will be patient characteristics, co-morbidities and symptomology, outcome variable will be&#xD;
+      radiological confirmation on cervical myelopathy.&#xD;
+&#xD;
+      POPULATION: Patients with cervical myelopathy over 18 years old (19 years and above&#xD;
+      included), treated at Imperial College NHS Healthcare Trust for CM with full capacity to&#xD;
+      consent and assessed for cervical myelopathy symptoms at Community MSK Hounslow and Richmond&#xD;
+      Community Healthcare NHS Trust (catchment area of ICHT neurosurgery).&#xD;
+&#xD;
+      ELIGIBILITY: Over 18 years old, with full capacity to consent. TREATMENT: Cervical myelopathy&#xD;
+      diagnosis and/or conservative and/or surgical management of disease DURATION: 18 months&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      1. INTRODUCTION&#xD;
+&#xD;
+           1.1 BACKGROUND&#xD;
+&#xD;
+           Cervical spondylotic myelopathy (CSM) is a pathology of the spinal cord that culminates&#xD;
+           in progressive compression of the cervical spinal cord. It is one of the most common&#xD;
+           causes of spinal cord pathology globally and can result in significant detrimental&#xD;
+           effects to quality of life of patients (Merali et al., 2019). The current gold standard&#xD;
+           treatment for CSM is surgical decompression, which restores function and improves&#xD;
+           quality of life; however surgical decompression does not benefit all patients. Given&#xD;
+           this dichotomy, it is evident that it is pivotal to correctly identify patients suitable&#xD;
+           for surgery, to spare unsuitable patients from unnecessary risks of surgery. Spine&#xD;
+           surgeons must analyse vast amounts of patient data, including radiological and clinical&#xD;
+           parameters, to correctly stratify patients. However, it remains elusive how each&#xD;
+           parameter should be weighted and whether all predictive parameters have been identified.&#xD;
+           Furthermore, it is pivotal for the diagnosis of CSM to be made as early as possible, as&#xD;
+           surgical outcomes have been reported to be significantly improved if diagnosed at an&#xD;
+           early disease stage compared to a late stage. performed in earlier stages during the&#xD;
+           course of CSM was reported to be more successful when compared with later stage (Baron &amp;&#xD;
+           Young, 2007). Radiological parameters that can aid in early detection have been&#xD;
+           identified, including diffusion tensor imaging and increased density of MRI T2-weighted&#xD;
+           images, however these parameters have been shown to have low sensitivities (15-65%) and&#xD;
+           have been yielded with conventional, non-deep-learning statistical methods, which are&#xD;
+           highly likely to have missed salient parameters due to inherent statistical limitations.&#xD;
+           Machine learning is the current statistical gold standard for data modelling and&#xD;
+           analysis. It combines computer science and statistics to yield maximal predictive&#xD;
+           accuracy. Recently, machine learning has been increasingly and successfully applied to&#xD;
+           medical and surgical research to predict disease and treatment outcomes for various&#xD;
+           condition, yielding superior results to conventional statistical methods. To continue,&#xD;
+           besides radiological signs, some clinical signs such as Hoffman's sign have been&#xD;
+           identified to aid in early diagnosis of cervical myelopathy (Denno &amp; Meadows, 1991),&#xD;
+           however the findings on clinical predictors are sparse and the question remains how they&#xD;
+           compare to radiological and biochemical biomarkers and whether there are unidentified&#xD;
+           clinical predictors. Merali et al. used a machine learning model to combine clinical and&#xD;
+           biochemical parameters to create a holistic predictive model, but they failed to include&#xD;
+           radiological parameters, as well as primarily focusing on treatment outcome rather than&#xD;
+           early diagnosis. Hence, this study aims to fill the gap in the literature and analyse&#xD;
+           all pivotal patient data, namely radiological, biochemical and clinical, to detect novel&#xD;
+           and weigh existing predictors relevant for early cervical myelopathy diagnosis and&#xD;
+           treatment outcome, as well as disease progress stratification.&#xD;
+&#xD;
+           Three recent studies have looked at machine learning in the context of CSM. Firstly,&#xD;
+           Merali et al. (2019) investigated the use of machine learning in predicting surgical&#xD;
+           outcomes in patients with CSM. Their model performed well, however it did not consider&#xD;
+           any radiological imaging, which is a significant limitation to this study, as imaging&#xD;
+           gives pivotal clues particularly for early diagnosis of CSM. Moreover, while creating a&#xD;
+           machine learning model, the authors failed to create a tool for clinicians to use which&#xD;
+           is based on the machine learning model. The second study, also by Merali et al. (2021)&#xD;
+           applied machine learning to radiological imaging for detection of CSM pathology. The&#xD;
+           model again performed reasonably well, however only confirmed CSM patients were&#xD;
+           included, which is an immense limitation. It is pivotal to include early-stage CSM&#xD;
+           patients to analyse how the machine learning model performs compared to conventional&#xD;
+           methods in terms of prediction, and whether it can aid in early detection. Moreover,&#xD;
+           both studies were retrospective in nature, meaning that no comparison between machine&#xD;
+           learning model and conventional methods would have been possible. Hopkins et al. (2019)&#xD;
+           analysed the use of machine learning in the diagnosis, rather than prediction, of CSM.&#xD;
+           However, an important limitation of this study is that he only used radiological&#xD;
+           imaging, completely neglecting clinical and biochemical parameters. In fact, Merali et&#xD;
+           al. (2019) also completely neglected biochemical parameters in their analysis.&#xD;
+           Potentially, this is an important unexplored variable in the pathogenesis and diagnosis&#xD;
+           of CSM which must be explored. To conclude, studies have looked at machine learning to&#xD;
+           diagnose and make prediction in CSM, however they have severe limitations only looking&#xD;
+           at fragments of the diagnostic pathway. To that end, given that the diagnosis, and&#xD;
+           predictions regarding CSM disease progression and treatment outcome share a multitude of&#xD;
+           the exact same variables, it is logical, and necessary to analyse them together, rather&#xD;
+           than in separate studies. Moreover, it is necessary to include radiological, but also&#xD;
+           clinical and biochemical variables to achieve a near-optimal machine learning model, as&#xD;
+           these are the tools a clinician would also have access to base his diagnoses and&#xD;
+           predictions. Hence, this study will examine radiological-clinical-biochemical variables&#xD;
+           with machine learning in the context of diagnosis, as well as predictions on disease&#xD;
+           progression and treatment outcomes. Next, all studies failed to examine the use of&#xD;
+           machine learning for early diagnosis. As early diagnosis is pivotal to enhance treatment&#xD;
+           outcome, this is a huge gap in the literature, which this research study aims to fill,&#xD;
+           by focusing on variables that aid early detection of CSM via inclusion of mild CSM&#xD;
+           cases. Ultimately, none of the studies have used patient-based QOL assessment (i.e.&#xD;
+           JOACMEQ) as outcome variable which might be more important than mJOA.&#xD;
+&#xD;
+           In summary The limitations of studies on the topic of CSM and prediction of treatment&#xD;
+           outcome so far have been that they only used mJOA as outcome variable, instead of using&#xD;
+           the patient-based JOACMEQ. This is a huge limitation, as ultimately only the patient can&#xD;
+           subjectively assess and evaluate outcome of the treatment. As to the topic of early&#xD;
+           diagnosis of CSM, there have been no studies who explored this topic whatsoever.&#xD;
+&#xD;
+           1.2 RATIONALE FOR CURRENT STUDY&#xD;
+&#xD;
+           AIMS&#xD;
+&#xD;
+           The overall aim of this research study is to create two predictive machine learning&#xD;
+           models that are based on radiological, clinical and biochemical variables, which allows&#xD;
+           spine surgeons to diagnose CSM earlier and more accurately, as well as allowing them to&#xD;
+           give patients highly individualised and accurate predictive information regarding&#xD;
+           treatment outcomes.&#xD;
+&#xD;
+           HYPOTHESES&#xD;
+&#xD;
+           There are unidentified patient characteristics, biochemical, radiological and clinical&#xD;
+           parameters that could aid in early diagnosis and treatment prediction of cervical&#xD;
+           myelopathy when combined with already known biomarkers. These patterns can be identified&#xD;
+           and weighted with supervised and unsupervised machine learning, as well as multivariate&#xD;
+           linear regression. Subsequently, the machine learning model can be trained with nested&#xD;
+           cross-validation to achieve optimal fit, while avoiding overfitting, to predict cervical&#xD;
+           myelopathy diagnosis.. Ultimately, a point-of-care tool can be developed for GPs and&#xD;
+           spine surgeons to aid in early detection of cervical myelopathy, and treatment outcome&#xD;
+           prediction of patients with cervical myelopathy. The machine learning predictions&#xD;
+           regarding treatment outcome and disease progression are hypothesised to be significantly&#xD;
+           more accurate than clinicians' current predictive ability.&#xD;
+&#xD;
+           RISKS AND BENEFITS&#xD;
+&#xD;
+           Risks: Potential discomfort during examination. This will be mitigated by asking for&#xD;
+           pain prior to examination and using gentle examination techniques. Potential&#xD;
+           inconvenience will be mitigated by finding a time that is convenient for the patient.&#xD;
+&#xD;
+           Benefit: In case of recurrence of their symptoms after surgery, our machine learning&#xD;
+           model and algorithm can help their treating neurosurgeons to diagnose recurrence of&#xD;
+           cervical myelopathy at an early stage and predict more accurately if they will benefit&#xD;
+           from surgery again, or if they would benefit from conservative management instead.&#xD;
+&#xD;
+           Patients will not receive any payments, reimbursement of expenses or any other benefits&#xD;
+           or incentives for taking part in this research, not any personal payment over and above&#xD;
+           normal salary, or any other benefits or incentives, and the Chief Investigator or any&#xD;
+           other investigator/collaborator does not have any direct personal involvement (e.g.&#xD;
+           financial, share holding, personal relationship etc.) in the organisations sponsoring or&#xD;
+           funding the research that may give rise to a possible conflict of interest.&#xD;
+&#xD;
+           Research participants will not receive any payments, reimbursement of expenses or any&#xD;
+           other benefits or incentives for taking part in this research.&#xD;
+&#xD;
+        2. STUDY OBJECTIVES&#xD;
+&#xD;
+      OBJECTIVES&#xD;
+&#xD;
+      Early diagnosis of CSM&#xD;
+&#xD;
+        1. To identify early clinical predictors of cervical myelopathy diagnosis based on&#xD;
+           individual patient-reported symptoms by using a retrospective questionnaire, and&#xD;
+           possibly retrospective analysis of biochemical, radiological and clinical data by means&#xD;
+           of pattern detection with machine learning, or alternatively multivariate linear&#xD;
+           regression.&#xD;
+&#xD;
+        2. To convert the findings of machine learning model or multivariate regression analysis&#xD;
+           into a scoring system or machine learning tool that can be used clinically to score&#xD;
+           patients into non-likely, moderately likely or high-likely to have CSM groups to aid&#xD;
+           early clinical diagnosis and prevent unnecessary use of imaging.&#xD;
+&#xD;
+      Treatment outcome prediction of CSM&#xD;
+&#xD;
+        1. To prospectively follow a cohort of CSM patients collecting as many relevant clinical,&#xD;
+           biochemical and radiological independent variables as possible, as well as using the&#xD;
+           JOACMEQ questionnaire and mJOA before, as outcome variables. The relationship of&#xD;
+           independent and outcome variables will be analysed by means of conventional methods and&#xD;
+           machine learning.&#xD;
+&#xD;
+        2. To build and train a machine learning model to accurately predict treatment outcome in&#xD;
+           diagnosed patients.&#xD;
+&#xD;
+        3. To use the machine learning model as base to design a scoring tool or point-of-care&#xD;
+           algorithm that can be used clinically to score patients into non-likely, moderately&#xD;
+           likely or high-likely to be CSM surgery responders to aid appropriate management of CSM&#xD;
+           patients.&#xD;
+&#xD;
+      3. STUDY DESIGN&#xD;
+&#xD;
+      Type of study: Non-randomised prospective and retrospective cohort study Duration:&#xD;
+      Prospective: Observations at pre-treatment, post-treatment at 3 months and 6 months (minimum&#xD;
+      18 months).&#xD;
+&#xD;
+      Retrospective: Minimum last 2 years. Patient number: Approximately 300 (100 prospective, 200&#xD;
+      retrospective patients).&#xD;
+&#xD;
+      This sample was determined based on estimations of cervical myelopathy patients at Imperial&#xD;
+      College NHS Healthcare Trust in the past for prospective study. 100 cervical myelopathy&#xD;
+      patient treated at Imperial College NHS Healthcare Trust in the following 18 months minimum&#xD;
+      for prospective arm, as well as 100 patients treated in last 2 years minimum in ICHT, and 100&#xD;
+      patients with negative diagnosis from a single Community MSK team from Hounslow and Richmond&#xD;
+      Community Healthcare NHS Trust, which is in the catchment area of Imperial College Healthcare&#xD;
+      NHS Trust Neurosurgery. Given the machine learning approach, this sample size may seem too&#xD;
+      small to retain accuracy (as comprehensively explained here:&#xD;
+      https://www.fharrell.com/post/ml-sample-size/ ) , however appropriate measures have been&#xD;
+      taken to ensure high accuracy while avoiding overfitting. For machine learning it has been&#xD;
+      shown that nested cross-validation (NCV) is not affected by bias due to small sample sizes,&#xD;
+      in fact it does not linearly positively or negatively respond to sample size changes,&#xD;
+      remaining very accurate and robust (Vabalas et al., 2019). Hence, we will be using NCV.&#xD;
+      Additionally, the sample size of n=100, and n=200 respectively, is further strengthened by&#xD;
+      the high number of characteristic features (250+ for the prospective study, 10-50 for the&#xD;
+      [depending on CMSK data cleanliness] see both questionnaires), which is significantly&#xD;
+      positively influential on model accuracy (Vabalas et al. 2019) Data metrics: Information&#xD;
+      gathered through clinical examination and questionnaires performed retrospectively over the&#xD;
+      phone, pre-operation and at 3- and 6-months post-operation. The questionnaire &quot;Cervical&#xD;
+      myelopathy treatment outcome questionnaire&quot; attached records information relating to&#xD;
+      co-morbidities and symptomology. The examination will be a thorough neurological examination&#xD;
+      in addition to a focused cardiovascular examination. Biochemical blood markers from existing&#xD;
+      blood markers or from GP records, which have been or would have been performed regardless of&#xD;
+      this trial. Radiological findings will be taken from routine MRI and cervical spine X-rays&#xD;
+      performed as part of the CSM diagnostic work-up The retrospective questionnaire &quot;CSM early&#xD;
+      diagnosis questionnaire&quot; contains all the questions which will be collected retrospectively&#xD;
+      via telephone. Furthermore patients from the community MSK team, those diagnosed with CM&#xD;
+      eventually and those examined for CM query, their clinical, biochemical and radiological data&#xD;
+      from the local SystemOne Databases will be collected for analysis and comparison.&#xD;
+&#xD;
+      model will be converted into a web-based point-of-care treatment outcome prediction tool&#xD;
+      using the Shiny packet in R. Data and all appropriate documentation will be stored as per&#xD;
+      Trust policy, including the follow-up period.&#xD;
+&#xD;
+      3.1 STUDY OUTCOME MEASURES The mJOA score and JOACMEQ score are the outcome measures for the&#xD;
+      prospective arm of the study. Good response to surgery is a 1-point improvement in mJOA score&#xD;
+      at 3 and 6 months. Radiological confirmation of cervical myelopathy is the outcome measure&#xD;
+      for the retrospective arm.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 31, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>JOACMEQ questionnaire</measure>
+    <time_frame>31 October 2021 till 31 October 2022</time_frame>
+    <description>For prospective arm.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>mJOA questionnaire</measure>
+    <time_frame>31 October 2021 till 31 October 2022</time_frame>
+    <description>For prospective arm.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>&quot;Cervical myelopathy treatment outcome questionnaire&quot;</measure>
+    <time_frame>31 October 2021 till 31 October 2022</time_frame>
+    <description>For prospective arm. The will be measured using physical examination, taking a medical history, questionnaire results and data extraction from medical records. There will be no invasive interventions added by this study.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>&quot;CSM early diagnosis questionnaire&quot;</measure>
+    <time_frame>31 October 2021 - 31 October 2019 (retrospective)</time_frame>
+    <description>For retrospective arm. See attached questionnaire.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Nurick score</measure>
+    <time_frame>31 October 2021 - 31 October 2019 (retrospective)</time_frame>
+    <description>For retrospective arm. Using the patients radiological imaging data, diagnosis yielded using the Nurick Score.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>DOR (diagnostic odds ratio)</measure>
+    <time_frame>31 October 2022 till 31 December 2022</time_frame>
+    <description>The diagnostic efficiency of health care provider using our machine learning model and scoring tool for CM and not using our tools in diagnosing cervical myelopathy will be calculated using true negative, false negative, true positives, false positive diagnoses, to ultimately calculate and compare the logDOR (logarithmic diagnostic odds ratio) of both groups.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Cervical Myelopathy</condition>
+  <arm_group>
+    <arm_group_label>Prospective cohort study arm</arm_group_label>
+    <description>The questionnaire &quot;Cervical myelopathy treatment outcome questionnaire&quot; attached records information relating to co-morbidities and symptomology. The examination will be a thorough neurological examination in addition to a focused cardiovascular examination. Biochemical blood markers from existing blood markers or from GP records, which have been or would have been performed regardless of this trial. Radiological findings will be taken from routine MRI and cervical spine X-rays performed as part of the CSM diagnostic work-up.&#xD;
+The mJOA score and JOACMEQ score are the outcome measures for the prospective arm of the study. Good response to surgery is a 1-point improvement in mJOA score at 3 and 6 months.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Retrospective cohort study arm</arm_group_label>
+    <description>The retrospective questionnaire &quot;CSM early diagnosis questionnaire&quot; contains all the questions which will be collected retrospectively via telephone. Furthermore patients from the community MSK team, those diagnosed with CM eventually and those examined for CM query, their clinical, biochemical and radiological data from the local SystemOne Databases will be collected for analysis and comparison.&#xD;
+Radiological confirmation of cervical myelopathy is the outcome measure for the retrospective arm.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>The questionnaire &quot;Cervical myelopathy treatment outcome questionnaire&quot;</intervention_name>
+    <description>Information gathered through clinical examination and questionnaires performed retrospectively over the phone, pre-operation and at 3- and 6-months post-operation. The questionnaire &quot;Cervical myelopathy treatment outcome questionnaire&quot; attached records information relating to co-morbidities and symptomology. The examination will be a thorough neurological examination in addition to a focused cardiovascular examination. Biochemical blood markers from existing blood markers or from GP records, which have been or would have been performed regardless of this trial. Radiological findings will be taken from routine MRI and cervical spine X-rays performed as part of the CSM diagnostic work-up</description>
+    <arm_group_label>Prospective cohort study arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>The retrospective questionnaire &quot;CSM early diagnosis questionnaire&quot;</intervention_name>
+    <description>To identify early clinical predictors of cervical myelopathy diagnosis based on individual patient-reported symptoms by using a questionnaire and patient characteristics as well as co-morbities, as well as clinical examination findings provided by community musculoskeletal teams.</description>
+    <arm_group_label>Retrospective cohort study arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>JOACMEQ questionnaire and mJOA</intervention_name>
+    <description>Used for prospective cohort via telephone at 3, 6 and 12-months post-operatively to assess treatment outcomes.</description>
+    <arm_group_label>Prospective cohort study arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Over 18 years old. Patients with cervical myelopathy over 18 years old (19 years and above&#xD;
+        included), treated at Imperial College NHS Healthcare Trust for CM with full capacity to&#xD;
+        consent and assessed for cervical myelopathy symptoms at Community MSK Hounslow and&#xD;
+        Richmond Community Healthcare NHS Trust (catchment area of ICHT neurosurgery).Full capacity&#xD;
+        to consent.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Over 18 years old. Treated at Imperial College NHS Healthcare Trust and/or Community MSK&#xD;
+        Hounslow and Richmond Community Healthcare NHS Trust for cervical myelopathy.&#xD;
+&#xD;
+        Full capacity to consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Children and adolescents. Patients with HIV, CJD and Hepatitis.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Santhosh G. Thavarajasingam, BSc</last_name>
+    <role>Study Director</role>
+    <affiliation>Imperial College London</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mahmoud El-Khatib, BSc</last_name>
+    <role>Study Chair</role>
+    <affiliation>Imperial College London</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mark Rea, BSc</last_name>
+    <role>Study Chair</role>
+    <affiliation>Imperial College London</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Diana Keeling, BSc Msc</last_name>
+    <role>Study Chair</role>
+    <affiliation>Community MSK Hounslow and Richmond Community Healthcare NHS Trust</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Salvatore Russo, FRCS</last_name>
+    <phone>+44 7883088997</phone>
+    <email>salvatore.russo@nhs.net</email>
+  </overall_contact>
+  <results_reference>
+    <citation>Baron EM, Young WF. Cervical spondylotic myelopathy: a brief review of its pathophysiology, clinical course, and diagnosis. Neurosurgery. 2007 Jan;60(1 Supp1 1):S35-41. Review.</citation>
+    <PMID>17204884</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Hopkins BS, Weber KA 2nd, Kesavabhotla K, Paliwal M, Cantrell DR, Smith ZA. Machine Learning for the Prediction of Cervical Spondylotic Myelopathy: A Post Hoc Pilot Study of 28 Participants. World Neurosurg. 2019 Jul;127:e436-e442. doi: 10.1016/j.wneu.2019.03.165. Epub 2019 Mar 25.</citation>
+    <PMID>30922901</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Merali ZG, Witiw CD, Badhiwala JH, Wilson JR, Fehlings MG. Using a machine learning approach to predict outcome after surgery for degenerative cervical myelopathy. PLoS One. 2019 Apr 4;14(4):e0215133. doi: 10.1371/journal.pone.0215133. eCollection 2019.</citation>
+    <PMID>30947300</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Merali Z, Wang JZ, Badhiwala JH, Witiw CD, Wilson JR, Fehlings MG. A deep learning model for detection of cervical spinal cord compression in MRI scans. Sci Rep. 2021 May 18;11(1):10473. doi: 10.1038/s41598-021-89848-3.</citation>
+    <PMID>34006910</PMID>
+  </results_reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 29, 2021</study_first_posted>
+  <last_update_submitted>October 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Spinal Cord Diseases</mesh_term>
+    <mesh_term>Bone Marrow Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>There will be no IPD.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

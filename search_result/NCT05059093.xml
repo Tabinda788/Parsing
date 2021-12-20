@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7847">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05059093</url>
+  </required_header>
+  <id_info>
+    <org_study_id>U1111-1268-5186</org_study_id>
+    <nct_id>NCT05059093</nct_id>
+  </id_info>
+  <brief_title>Developing and Testing AI Models for Fetal Biometry and Amniotic Volume Assessment in Fetal Ultrasound Scans.</brief_title>
+  <official_title>Developing and Testing Deep Learning Models for Fetal Biometry and Amniotic Volume Assessment in Routine Fetal Ultrasound Scans</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Deepecho</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Centre Hospitalier Universitaire Ibn Rochd</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hassan II University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Mohammed VI University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Mohammed V Souissi University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Deepecho</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Routine fetal ultrasound scan during the second trimester of the pregnancy is a low-cost,&#xD;
+      noninvasive screening modality that has been proven to lower fetal mortality by up to 20%.&#xD;
+      One of the critical elements of this exam is the measurement of fetal biometric parameters,&#xD;
+      which are the head circumference (HC), biparietal diameter (BPD), abdominal circumference&#xD;
+      (AC), and femur length (FL) measured on biometry standard planes. Those standard planes are&#xD;
+      taken according to quality standards first described by Salomon et al. and used as the&#xD;
+      guidelines of the International Society of Ultrasound in Obstetrics and Gynecology (ISUOG).&#xD;
+      The biometric parameters extracted from them are essential to diagnose fetal growth&#xD;
+      restriction (FGR), the world's first cause of perinatal fetal mortality.&#xD;
+&#xD;
+      Such measurements and image quality assessment are time-consuming tasks that are prone to&#xD;
+      inter and intraobserver variability depending on the level of skill of the sonographer or the&#xD;
+      physician performing the exam.&#xD;
+&#xD;
+      Amniotic fluid (AF) volume assessment is also an essential step in routine screening scans&#xD;
+      allowing the diagnosis of oligo or hydramnios, both associated with increased fetal mortality&#xD;
+      rates.&#xD;
+&#xD;
+      The AF is measured by two main &quot;semi-quantitative&quot; techniques: Amniotic Fluid Index (AFI) and&#xD;
+      the single deepest pocket (SDP). The latter is more specific as it lowers the overdiagnosis&#xD;
+      of oligo-amnios without any impact on mortality or morbidity and is easier to perform for the&#xD;
+      sonographer (only one measurement versus four in the case of the AFI technique). However, AF&#xD;
+      assessment remains a time-consuming and poorly reproducible task.&#xD;
+&#xD;
+      Attempts to automate such biometric measurements and AF volume assessment have been made&#xD;
+      using Artificial Intelligence (AI) and deep learning (DL) tools. Studies showed excellent&#xD;
+      results &quot;in silico,&quot; reaching up to 98 %, 95%, 93 % dice score coefficients for HC, AC, and&#xD;
+      FL measurements and 89 % DSC for AFI measurements. However, they were all conducted&#xD;
+      retrospectively without validation on prospectively acquired images.&#xD;
+&#xD;
+      Reviews and experts have stressed the need for quality peer-reviewed prospective studies to&#xD;
+      assess AI tools' performance with real-world data. Their performance is expected to be worse&#xD;
+      and to reflect better their use in the clinical workflow.&#xD;
+&#xD;
+      This study aims to develop DL models to automate HC, BPD, AC, and FL measurements and AF&#xD;
+      volume assessment from retrospectively acquired data and test their performances to those of&#xD;
+      clinicians and experts on prospective real-world fetal US scans.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The DL models will be trained, validated, and tested on the retrospectively acquired data&#xD;
+      first. This data will consist of fetal US images gathered in the participating medical&#xD;
+      centers after patient-level anonymization. The ground truth for the models will consist of&#xD;
+      annotations made by radiologists and obstetricians for classification and segmentation&#xD;
+      purposes. The DL models will be trained to perform the following tasks:&#xD;
+&#xD;
+        -  Detection of the following standard planes as described in the ISUOG guidelines:&#xD;
+           transthalamic, transventricular, transcerebellar, abdominal, and femoral planes on video&#xD;
+           loops.&#xD;
+&#xD;
+        -  Image quality scoring according to the ISUOG guidelines of the transthalamic, abdominal&#xD;
+           and femoral planes.&#xD;
+&#xD;
+        -  Fetal cranium, abdomen, and femur segmentation to measure HC, BPD AC, and FL.&#xD;
+&#xD;
+        -  Detection of AF pockets.&#xD;
+&#xD;
+        -  Segmentation of AF pockets and extraction of pockets depth in order to evaluate the SDP&#xD;
+           measurement&#xD;
+&#xD;
+      Physicians will be asked to save additional images and video loops additional to their&#xD;
+      routine screening in the prospective examinations:&#xD;
+&#xD;
+        -  Eight images: transthalamic, abdominal, and femoral standard planes with and without&#xD;
+           calipers, SDP with and without calipers.&#xD;
+&#xD;
+        -  Four video loops up to five seconds each:&#xD;
+&#xD;
+             -  A cephalic loop encompassing the transcerebellar, transthalamic, and&#xD;
+                transventricular planes.&#xD;
+&#xD;
+             -  An abdominal loop going from the four-chamber view of the heart to a cross-section&#xD;
+                of the kidneys and back.&#xD;
+&#xD;
+             -  A femoral loop with the probe parallel to the sagittal axis of the femur sweeping&#xD;
+                from side to side.&#xD;
+&#xD;
+             -  A whole amniotic cavity loop, with the probe perpendicular to the ground applying&#xD;
+                as little pressure as possible on the patient's abdomen, sweeping from the uterine&#xD;
+                fundus to the cervix, once or twice depending on the volume of the amniotic cavity.&#xD;
+&#xD;
+      The clinicians performing the exam in &quot;real-time&quot;(RT clinicians), the panel of experts, and&#xD;
+      the DL models will review the prospective examinations.&#xD;
+&#xD;
+      The SDP measurement extracted by the AF pocket detection and segmentation models will be&#xD;
+      directly compared to the value measured by the RT clinicians.&#xD;
+&#xD;
+      Then, the image quality of planes selected by the RT clinicians and the model will be scored&#xD;
+      by the panel of experts.&#xD;
+&#xD;
+      The segmentation task will be evaluated in a tripartite fashion: the model, the RT&#xD;
+      clinicians, and the panel will all segment the same images.&#xD;
+&#xD;
+      To assess inter-observer agreement, 10% of the images will be randomly selected and reviewed&#xD;
+      by two independent reviewers from the panel.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 25, 2021</start_date>
+  <completion_date type="Anticipated">November 25, 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 25, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall accuracy for the biometric parameters measurement and amniotic fluid volume assessment</measure>
+    <time_frame>up to 20 weeks</time_frame>
+    <description>Mean Absolute Error between the model's HC, BPD, AC, FL, and SDP measurements (in mm), the RT clinician's, and the panel's</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Image quality</measure>
+    <time_frame>Up to 20 weeks</time_frame>
+    <description>Overall model's and RT clinician's image quality score assessed by the panel following the ISUOG standards on fetal ultrasound assessment of Biometry and Growth</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Small-for-Gestational-Age fetus detection accuracy, sensitivity and specificity</measure>
+    <time_frame>Up to 20 weeks</time_frame>
+    <description>Overall models' diagnostic accuracy, sensitivity, and specificity at detecting Small-for-Gestational-Age fetuses compared to RT clinicians</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oligohydramnios and polyhydramnios detection accuracy, sensitivity, and specificity</measure>
+    <time_frame>Up to 20 weeks</time_frame>
+    <description>Overall models' diagnostic accuracy, sensitivity, and specificity at detecting oligohydramnios and polyhydramnios compared to RT clinicians</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">387</enrollment>
+  <condition>Small for Gestational Age Infant</condition>
+  <condition>Fetal Growth Restriction</condition>
+  <condition>Oligohydramnios</condition>
+  <condition>Polyhydramnios</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Classification and segmentation deep learning models</intervention_name>
+    <description>Models that will be trained on retrospectively acquired data and run on the prospectively acquired data to extract biometric parameters and amniotic volume estimation.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Pregnant women from 18 years onwards scheduled for a routine fetal ultrasound scan&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Single or multiple viable pregnancies with a gestational age of 14 weeks or more as&#xD;
+             dated on a first trimester US scan with the crown-rump length (CRL) measurement or&#xD;
+             grossly estimated from the last menstrual period (LMP).&#xD;
+&#xD;
+          -  Routine programmed US scan.&#xD;
+&#xD;
+          -  Patient's consent is obtained.&#xD;
+&#xD;
+          -  Patient over 18 years old.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Emergency indication for the fetal ultrasound&#xD;
+&#xD;
+          -  Major morphological malformations that do not allow proper measurement of the cranium,&#xD;
+             abdominal or lower limb, for example, anencephaly, omphalocele, lower limb phocomelia.&#xD;
+&#xD;
+          -  Fetal death.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Saad Slimani, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Centre Hospitalier Universitaire Ibn Rochd de Casablanca</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Saad Slimani, M.D.</last_name>
+    <phone>+212661054053</phone>
+    <email>saadslimani@outlook.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Elhoussine Bouyakhf, PhD.</last_name>
+    <phone>00212661225628</phone>
+    <email>bouillac.lhou@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Centre de Radiologie Abou Madi</name>
+      <address>
+        <city>Casablanca</city>
+        <zip>20100</zip>
+        <country>Morocco</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Cheikh Khalifa</name>
+      <address>
+        <city>Casablanca</city>
+        <zip>20100</zip>
+        <country>Morocco</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire Ibn Rochd</name>
+      <address>
+        <city>Casablanca</city>
+        <zip>20100</zip>
+        <country>Morocco</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Saad Slimani, M.D.</last_name>
+      <phone>00212661054053</phone>
+      <email>saad.slimani@deepecho.io</email>
+    </contact>
+    <contact_backup>
+      <last_name>Dalal Laoudiyi, M.D.</last_name>
+      <phone>00212612060038</phone>
+      <email>laoudiyi@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Saad Slimani, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Dalal Loudiyi, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Amine Lamrissi, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire Hassan II Fes</name>
+      <address>
+        <city>Fes</city>
+        <country>Morocco</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Abdelaziz Banani, M.D.</last_name>
+      <phone>+212664476705</phone>
+      <email>bananiabdelaziz@yahoo.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Abdelaziz Banani, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire Mohammed VI Oujda</name>
+      <address>
+        <city>Oujda</city>
+        <country>Morocco</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Hanane Saadi, M.D.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Hanane Saadi, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Morocco</country>
+  </location_countries>
+  <link>
+    <url>https://www.isuog.org/resource/isuog-practice-guidelines_ultrasound-assessment-of-fetal-biometry-and-growth-pdf.html</url>
+    <description>Ultrasound assessment of fetal biometry and growth ISUOG Guidelines</description>
+  </link>
+  <reference>
+    <citation>Grytten J, Skau I, Sørensen R, Eskild A. Does the Use of Diagnostic Technology Reduce Fetal Mortality? Health Serv Res. 2018 Dec;53(6):4437-4459. doi: 10.1111/1475-6773.12721. Epub 2018 Jan 19.</citation>
+    <PMID>29349772</PMID>
+  </reference>
+  <reference>
+    <citation>Salomon LJ, Alfirevic Z, Berghella V, Bilardo C, Hernandez-Andrade E, Johnsen SL, Kalache K, Leung KY, Malinger G, Munoz H, Prefumo F, Toi A, Lee W; ISUOG Clinical Standards Committee. Practice guidelines for performance of the routine mid-trimester fetal ultrasound scan. Ultrasound Obstet Gynecol. 2011 Jan;37(1):116-26. doi: 10.1002/uog.8831.</citation>
+    <PMID>20842655</PMID>
+  </reference>
+  <reference>
+    <citation>Gaudineau A. [Prevalence, risk factors, maternal and fetal morbidity and mortality of intrauterine growth restriction and small-for-gestational age]. J Gynecol Obstet Biol Reprod (Paris). 2013 Dec;42(8):895-910. doi: 10.1016/j.jgyn.2013.09.013. Epub 2013 Nov 9. Review. French.</citation>
+    <PMID>24216305</PMID>
+  </reference>
+  <reference>
+    <citation>Sarris I, Ioannou C, Chamberlain P, Ohuma E, Roseman F, Hoch L, Altman DG, Papageorghiou AT; International Fetal and Newborn Growth Consortium for the 21st Century (INTERGROWTH-21st). Intra- and interobserver variability in fetal ultrasound measurements. Ultrasound Obstet Gynecol. 2012 Mar;39(3):266-73. doi: 10.1002/uog.10082.</citation>
+    <PMID>22535628</PMID>
+  </reference>
+  <reference>
+    <citation>Tashfeen K, Hamdi IM. Polyhydramnios as a predictor of adverse pregnancy outcomes. Sultan Qaboos Univ Med J. 2013 Feb;13(1):57-62. Epub 2013 Feb 27.</citation>
+    <PMID>23573383</PMID>
+  </reference>
+  <reference>
+    <citation>Morris RK, Meller CH, Tamblyn J, Malin GM, Riley RD, Kilby MD, Robson SC, Khan KS. Association and prediction of amniotic fluid measurements for adverse pregnancy outcome: systematic review and meta-analysis. BJOG. 2014 May;121(6):686-99. doi: 10.1111/1471-0528.12589. Epub 2014 Feb 7. Review.</citation>
+    <PMID>24738894</PMID>
+  </reference>
+  <reference>
+    <citation>Kehl S, Schelkle A, Thomas A, Puhl A, Meqdad K, Tuschy B, Berlit S, Weiss C, Bayer C, Heimrich J, Dammer U, Raabe E, Winkler M, Faschingbauer F, Beckmann MW, Sütterlin M. Single deepest vertical pocket or amniotic fluid index as evaluation test for predicting adverse pregnancy outcome (SAFE trial): a multicenter, open-label, randomized controlled trial. Ultrasound Obstet Gynecol. 2016 Jun;47(6):674-9. doi: 10.1002/uog.14924.</citation>
+    <PMID>26094600</PMID>
+  </reference>
+  <reference>
+    <citation>Sande JA, Ioannou C, Sarris I, Ohuma EO, Papageorghiou AT. Reproducibility of measuring amniotic fluid index and single deepest vertical pool throughout gestation. Prenat Diagn. 2015 May;35(5):434-9. doi: 10.1002/pd.4504. Epub 2015 Mar 28.</citation>
+    <PMID>25297394</PMID>
+  </reference>
+  <reference>
+    <citation>Li Y, Zhang Z, Dai C, Dong Q, Badrigilan S. Accuracy of deep learning for automated detection of pneumonia using chest X-Ray images: A systematic review and meta-analysis. Comput Biol Med. 2020 Aug;123:103898. doi: 10.1016/j.compbiomed.2020.103898. Epub 2020 Jul 14. Review.</citation>
+    <PMID>32768045</PMID>
+  </reference>
+  <reference>
+    <citation>Dhar R, Falcone GJ, Chen Y, Hamzehloo A, Kirsch EP, Noche RB, Roth K, Acosta J, Ruiz A, Phuah CL, Woo D, Gill TM, Sheth KN, Lee JM. Deep Learning for Automated Measurement of Hemorrhage and Perihematomal Edema in Supratentorial Intracerebral Hemorrhage. Stroke. 2020 Feb;51(2):648-651. doi: 10.1161/STROKEAHA.119.027657. Epub 2019 Dec 6.</citation>
+    <PMID>31805845</PMID>
+  </reference>
+  <reference>
+    <citation>Sekhar A, Biswas S, Hazra R, Sunaniya AK, Mukherjee A, Yang L. Brain tumor classification using fine-tuned GoogLeNet features and machine learning algorithms: IoMT enabled CAD system. IEEE J Biomed Health Inform. 2021 Jul 29;PP. doi: 10.1109/JBHI.2021.3100758. [Epub ahead of print]</citation>
+    <PMID>34324425</PMID>
+  </reference>
+  <reference>
+    <citation>Kim HP, Lee SM, Kwon JY, Park Y, Kim KC, Seo JK. Automatic evaluation of fetal head biometry from ultrasound images using machine learning. Physiol Meas. 2019 Jul 1;40(6):065009. doi: 10.1088/1361-6579/ab21ac.</citation>
+    <PMID>31091515</PMID>
+  </reference>
+  <reference>
+    <citation>Sobhaninia Z, Rafiei S, Emami A, Karimi N, Najarian K, Samavi S, Reza Soroushmehr SM. Fetal Ultrasound Image Segmentation for Measuring Biometric Parameters Using Multi-Task Deep Learning. Annu Int Conf IEEE Eng Med Biol Soc. 2019 Jul;2019:6545-6548. doi: 10.1109/EMBC.2019.8856981.</citation>
+    <PMID>31947341</PMID>
+  </reference>
+  <reference>
+    <citation>Cho HC, Sun S, Min Hyun C, Kwon JY, Kim B, Park Y, Seo JK. Automated ultrasound assessment of amniotic fluid index using deep learning. Med Image Anal. 2021 Apr;69:101951. doi: 10.1016/j.media.2020.101951. Epub 2021 Jan 7.</citation>
+    <PMID>33515982</PMID>
+  </reference>
+  <reference>
+    <citation>Kelly CJ, Karthikesalingam A, Suleyman M, Corrado G, King D. Key challenges for delivering clinical impact with artificial intelligence. BMC Med. 2019 Oct 29;17(1):195. doi: 10.1186/s12916-019-1426-2.</citation>
+    <PMID>31665002</PMID>
+  </reference>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 28, 2021</study_first_posted>
+  <last_update_submitted>September 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 28, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Deep Learning</keyword>
+  <keyword>Artificial Intelligence</keyword>
+  <keyword>Fetal Ultrasound</keyword>
+  <keyword>Fetal Biometry</keyword>
+  <keyword>Amniotic Fluid Volume Measurement</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fetal Growth Retardation</mesh_term>
+    <mesh_term>Oligohydramnios</mesh_term>
+    <mesh_term>Polyhydramnios</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Investigators plan to communicate findings primarily through original research papers and through participation in scientific meetings. In addition, the investigators will communicate with the general public through the media. The inclusion of co-authors will follow the ICMJE recommendations for scientific publications. Access to the study data might be granted to academic researchers but not to the general public.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Immediately the following publication, 12 months following article publication</ipd_time_frame>
+    <ipd_access_criteria>Review purposes only. Proposal should be directed to saad.slimani@deepecho.io. To gain access, data requestors will need to sign a data access agreement.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

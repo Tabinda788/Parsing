@@ -1,0 +1,3222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8756">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05047263</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21177</org_study_id>
+    <secondary_id>2021-000421-27</secondary_id>
+    <nct_id>NCT05047263</nct_id>
+  </id_info>
+  <brief_title>A Trial to Learn How Well Finerenone Works and How Safe it is in Adult Participants With Non-diabetic Chronic Kidney Disease</brief_title>
+  <acronym>FIND-CKD</acronym>
+  <official_title>A Randomized, Double-blind, Placebo-controlled, Parallel-group, Multicenter Phase 3 Study to Investigate the Efficacy and Safety of FInerenone, in Addition to Standard of Care, on the Progression of Kidney Disease in Patients With Non-Diabetic Chronic Kidney Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bayer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bayer</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Researchers are looking for a better way to treat people who have non-diabetic chronic kidney&#xD;
+      disease (non-diabetic CKD). The trial treatment, finerenone, is being developed to help&#xD;
+      people who have long lasting kidney disease, also known as chronic kidney disease (CKD). It&#xD;
+      works by blocking a certain hormone called aldosterone that causes injury and inflammation in&#xD;
+      the heart and kidney which is known to play a role in CKD.&#xD;
+&#xD;
+      In this trial, the researchers want to learn if finerenone helps to slow down the worsening&#xD;
+      of the participants' non-diabetic CKD compared to a placebo. A placebo looks like a trial&#xD;
+      treatment but does not have any medicine in it. The trial will include about 1,580 men and&#xD;
+      women who are at least 18 years old.&#xD;
+&#xD;
+      The participants will take finerenone or a placebo once a day as tablets by mouth. All of the&#xD;
+      participants will also continue to take their current medicine for their CKD. The&#xD;
+      participants will be in the trial for up to about 50 months.&#xD;
+&#xD;
+      During the trial, the doctors will collect blood and urine samples and check the&#xD;
+      participants' health. The participants will also answer questions about how they are feeling&#xD;
+      and what adverse events they are having. An adverse event is a medical problem that happens&#xD;
+      during the trial. Doctors keep track of all adverse events that happen in trials, even if&#xD;
+      they do not think the adverse events might be related to the trial treatments.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 21, 2021</start_date>
+  <completion_date type="Anticipated">December 8, 2025</completion_date>
+  <primary_completion_date type="Anticipated">November 4, 2025</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean rate of change as measured by the total slope of eGFR from baseline to Month-32.</measure>
+    <time_frame>From baseline to month 32</time_frame>
+    <description>eGFR: Estimated glomerular filtration rate</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to the composite of kidney failure, sustained eGFR decline of &gt;= 57%, heart failure hospitalization or Cardiovascular (CV) death</measure>
+    <time_frame>Up to end of study visit (up to approximately 49 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to the composite of kidney failure or sustained eGFR decline of &gt;= 57%</measure>
+    <time_frame>Up to end of study visit (up to approximately 49 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to the composite to heart failure hospitalization or CV death</measure>
+    <time_frame>Up to end of study visit (up to approximately 49 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with Treatment-emergent adverse events (TEAEs), Treatment-emergent serious adverse events (TESAEs) and Adverse events of special interest (AESI)</measure>
+    <time_frame>Up to approximately 50 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1580</enrollment>
+  <condition>Non-diabetic Chronic Kidney Disease</condition>
+  <arm_group>
+    <arm_group_label>Finerenone (BAY94-8862)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive finerenone.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive placebo.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Finerenone (BAY94-8862)</intervention_name>
+    <description>Tablet, 10 mg or 20 mg, once daily (OD), oral</description>
+    <arm_group_label>Finerenone (BAY94-8862)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Tablet, once daily, oral</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  A clinical diagnosis of chronic kidney disease and:&#xD;
+&#xD;
+               -  Urine albumin/creatinine ratio (UACR) of ≥ 200 but ≤ 3500 mg/g and estimated&#xD;
+                  glomerular filtration rate (eGFR) ≥ 25 but &lt; 90 mL/min/1.73m^2 at screening, and&#xD;
+&#xD;
+               -  Documentation of albuminuria/proteinuria in the participant's medical records at&#xD;
+                  least 3 months prior to screening.&#xD;
+&#xD;
+          -  Stable and maximum tolerated labeled dose of an Angiotensin-converting enzyme&#xD;
+             inhibitor (ACEI) or Angiotensin receptor blocker (ARB) for at least 4 weeks prior to&#xD;
+             screening&#xD;
+&#xD;
+          -  K+ ≤ 4.8 mmol/L at screening&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Established diagnosis of Type 1 or 2 Diabetes mellitus, or HbA1c ≥ 6.5% (48 mmol/mol)&#xD;
+&#xD;
+          -  Autosomal dominant or autosomal recessive polycystic kidney disease&#xD;
+&#xD;
+          -  Lupus nephritis or anti-neutrophilic cytoplasmic autoantibody (ANCA) -associated&#xD;
+             vasculitis or any other primary or secondary kidney disease requiring&#xD;
+             immunosuppressive therapy within 6 months prior to screening&#xD;
+&#xD;
+          -  Symptomatic heart failure with reduced ejection fraction with class 1A indication for&#xD;
+             Mineralocorticoid receptor antagonists (MRAs)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Bayer Clinical Trials Contact</last_name>
+    <phone>(+)1-888-84 22937</phone>
+    <email>clinical-trials-contact@bayer.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>California Institute of Renal Research - Chula Vista</name>
+      <address>
+        <city>Chula Vista</city>
+        <state>California</state>
+        <zip>91910</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>California Institute of Renal Research, Inc. - El Centro</name>
+      <address>
+        <city>El Centro</city>
+        <state>California</state>
+        <zip>92243</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Balboa Nephrology Medical Group</name>
+      <address>
+        <city>Poway</city>
+        <state>California</state>
+        <zip>92064</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>North America Research Institute</name>
+      <address>
+        <city>San Dimas</city>
+        <state>California</state>
+        <zip>91773</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Hospital</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nephrology and Hypertension Associates, P.C.</name>
+      <address>
+        <city>Middlebury</city>
+        <state>Connecticut</state>
+        <zip>06762</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yale University | Nephrology Clinical Research</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chase Medical Research, LLC</name>
+      <address>
+        <city>Waterbury</city>
+        <state>Connecticut</state>
+        <zip>06708</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Kidney Physicians</name>
+      <address>
+        <city>Boca Raton</city>
+        <state>Florida</state>
+        <zip>33431</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University School of Medicine</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Southeastern Clinical Research Institute, LLC</name>
+      <address>
+        <city>Augusta</city>
+        <state>Georgia</state>
+        <zip>30904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Central Georgia Kidney Specialist</name>
+      <address>
+        <city>Macon</city>
+        <state>Georgia</state>
+        <zip>31201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University Feinberg School of Medicine</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Chicago | Hypertension Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research by Design, LLC</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60643</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Iowa Hospitals &amp; Clinics</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kansas</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Kansas</state>
+        <zip>66160</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kansas Nephrology Research Institute, LLC</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67214</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Northwest Louisiana Nephrology</name>
+      <address>
+        <city>Shreveport</city>
+        <state>Louisiana</state>
+        <zip>71101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Univ School Med|Div of Nephr-JHUSOM</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tufts Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Renal and Transplant Associates of New England, PC</name>
+      <address>
+        <city>Springfield</city>
+        <state>Massachusetts</state>
+        <zip>01107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>InterMed Consultants</name>
+      <address>
+        <city>Edina</city>
+        <state>Minnesota</state>
+        <zip>55435</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Mississippi Medical Center</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Consultants</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of New Mexico</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87131</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mountain Kidney &amp; Hypertension Associates</name>
+      <address>
+        <city>Asheville</city>
+        <state>North Carolina</state>
+        <zip>28801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UNC Eastowne Medical Office Building</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27514</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>East Carolina University</name>
+      <address>
+        <city>Greenville</city>
+        <state>North Carolina</state>
+        <zip>27834</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>W. G. (Bill) Hefner VA Medical Center</name>
+      <address>
+        <city>Salisbury</city>
+        <state>North Carolina</state>
+        <zip>28144</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Eastern Nephrology Associates - Wilmington</name>
+      <address>
+        <city>Wilmington</city>
+        <state>North Carolina</state>
+        <zip>28401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Louis Stokes Cleveland VA Medical Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Univ Hosp | UH Cleve MC - Div of Neph &amp; Hyper Res</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic | Urological and Kidney Department</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Northeast Clinical Research Center, LLC</name>
+      <address>
+        <city>Bethlehem</city>
+        <state>Pennsylvania</state>
+        <zip>18017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Geisinger Medical Center</name>
+      <address>
+        <city>Danville</city>
+        <state>Pennsylvania</state>
+        <zip>17822</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Temple University Hospital</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Medical Research, LLC</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>South Carolina Clinical Research, LLC</name>
+      <address>
+        <city>Orangeburg</city>
+        <state>South Carolina</state>
+        <zip>29118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Knoxville Kidney Center</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37923</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University Medical Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Office of Dr. James E. Race, MD</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MedResearch, Inc.</name>
+      <address>
+        <city>El Paso</city>
+        <state>Texas</state>
+        <zip>79902-4672</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DaVita Clinical Research - Houston</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77054</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Texas Health Science Center | Div of Nephrology</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Advancement Center, PLLC</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78212-4740</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kidney Specialists of North Houston</name>
+      <address>
+        <city>Shenandoah</city>
+        <state>Texas</state>
+        <zip>77384</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Utah Kidney Research Institute</name>
+      <address>
+        <city>S. Salt Lake</city>
+        <state>Utah</state>
+        <zip>84115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tidewater Kidney Specialists</name>
+      <address>
+        <city>Chesapeake</city>
+        <state>Virginia</state>
+        <zip>23320</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nephrology Associates of Northern Virginia Inc.</name>
+      <address>
+        <city>Fairfax</city>
+        <state>Virginia</state>
+        <zip>22033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mendez Center for Clinical Research, LLC</name>
+      <address>
+        <city>Woodbridge</city>
+        <state>Virginia</state>
+        <zip>22192</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Health &amp; Services</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99204-2307</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Asociación de Fomento y Sala de Primeros Auxilios</name>
+      <address>
+        <city>Berazategui</city>
+        <state>Buenos Aires</state>
+        <zip>B1837</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Investigaciones Clínicas</name>
+      <address>
+        <city>Mar del Plata</city>
+        <state>Buenos Aires</state>
+        <zip>B7600FZ0</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Investigaciones Metabólicas</name>
+      <address>
+        <city>Buenos Aires</city>
+        <state>Ciudad Auton. De Buenos Aires</state>
+        <zip>C1056ABJ</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Investigaciones Clínicas</name>
+      <address>
+        <city>Caba</city>
+        <state>Ciudad Auton. De Buenos Aires</state>
+        <zip>C1018DES</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Medico Ce. Re.Ca</name>
+      <address>
+        <city>San Luis</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Investigaciones Clinicas del Litoral</name>
+      <address>
+        <city>Santa Fe</city>
+        <zip>S3000FWO</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Concord Repatriation General Hospital</name>
+      <address>
+        <city>Concord</city>
+        <state>New South Wales</state>
+        <zip>2139</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St George Hospital</name>
+      <address>
+        <city>Kogarah</city>
+        <state>New South Wales</state>
+        <zip>2217</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wollongong Hospital</name>
+      <address>
+        <city>Wollongong</city>
+        <state>New South Wales</state>
+        <zip>2500</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Melbourne Renal Research Group</name>
+      <address>
+        <city>Reservoir</city>
+        <state>Victoria</state>
+        <zip>3073</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sunshine Hospital</name>
+      <address>
+        <city>St. Albans</city>
+        <state>Victoria</state>
+        <zip>3021</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Eastern Health Integrated Renal Service</name>
+      <address>
+        <city>Box Hill</city>
+        <zip>3128</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Center ''4Life''</name>
+      <address>
+        <city>Burgas</city>
+        <zip>8000</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MHAT St. Ivan Rilski</name>
+      <address>
+        <city>Gorna Oryahovitsa</city>
+        <zip>5100</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Center Hera - Montana</name>
+      <address>
+        <city>Montana</city>
+        <zip>3400</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Spec Hosp for Active Treatm in Cardiology Sv Georgi Pernik</name>
+      <address>
+        <city>Pernik</city>
+        <zip>2300</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Diagnostic Consulting Center XX</name>
+      <address>
+        <city>Sofia</city>
+        <zip>1618</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Center ''Nevromedics''</name>
+      <address>
+        <city>Veliko Tarnovo</city>
+        <zip>5600</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Bengbu Medical College</name>
+      <address>
+        <city>Bengbu</city>
+        <state>Anhui</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Second Hospital of Anhui medical university</name>
+      <address>
+        <city>Hefei</city>
+        <state>Anhui</state>
+        <zip>230601</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Xiamen University</name>
+      <address>
+        <city>Xiamen</city>
+        <state>Fujian</state>
+        <zip>361003</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Lanzhou University Second Hospital</name>
+      <address>
+        <city>Lanzhou</city>
+        <state>Gansu</state>
+        <zip>730030</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Foshan First People's Hospital</name>
+      <address>
+        <city>Foshan</city>
+        <state>Guangdong</state>
+        <zip>528000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Suspended</status>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Guangzhou University of TCM</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510405</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Jinan University</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Affiliated Hospital of Guizhou Medical University</name>
+      <address>
+        <city>Guiyang</city>
+        <state>Guizhou</state>
+        <zip>550004</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wuhan Integrated TCM &amp; Western Medicine Hospital</name>
+      <address>
+        <city>Wuhan</city>
+        <state>Hubei</state>
+        <zip>430022</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Puai Hospital,Tongji Medical College, Huazhong Univ Sci&amp;Tech</name>
+      <address>
+        <city>Wuhan</city>
+        <state>Hubei</state>
+        <zip>430034</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Renmin Hosp., Wuhan Univ.</name>
+      <address>
+        <city>Wuhan</city>
+        <state>Hubei</state>
+        <zip>430040</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Baotou Medical College</name>
+      <address>
+        <city>Baotou</city>
+        <state>Inner Mongolia</state>
+        <zip>014010</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>1st Peopl's Hosp of Changzhou 3rd Affil Hosp of Soochow Univ</name>
+      <address>
+        <city>Changzhou</city>
+        <state>Jiangsu</state>
+        <zip>213003</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Huai'an First People's Hospital, Nanjing Medical University</name>
+      <address>
+        <city>Huai'An</city>
+        <state>Jiangsu</state>
+        <zip>223300</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Zhongda Hospital Southeast University</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <zip>210009</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Jiangsu Province Hospital of Medicine</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <zip>210029</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Taizhou People's Hospital</name>
+      <address>
+        <city>Taizhou</city>
+        <state>Jiangsu</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of NanChang University</name>
+      <address>
+        <city>Nanchang</city>
+        <state>Jiangxi</state>
+        <zip>330006</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Jiangxi PingXiang people's Hospital</name>
+      <address>
+        <city>Pingxiang</city>
+        <state>Jiangxi</state>
+        <zip>337055</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Second Hospital of Jilin University</name>
+      <address>
+        <city>Changchun</city>
+        <state>Jilin</state>
+        <zip>130000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Siping Central Hospital</name>
+      <address>
+        <city>Siping</city>
+        <state>Jilin</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Dalian Medical University</name>
+      <address>
+        <city>Dalian</city>
+        <state>Liaoning</state>
+        <zip>116011</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>General Hospital of Ningxia Medical University</name>
+      <address>
+        <city>Yinchuan</city>
+        <state>Ningxia</state>
+        <zip>750004</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Xi'an Jiaotong University</name>
+      <address>
+        <city>Xi'an</city>
+        <state>Shanxi</state>
+        <zip>710061</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SichuanAcademyofMedicalSciences&amp;SichuanProvincialPeople'sHos</name>
+      <address>
+        <city>Chengdu</city>
+        <state>Sichuan</state>
+        <zip>610072</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sichuan University West China Hospital</name>
+      <address>
+        <city>Chengdu</city>
+        <state>Sichuan</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Xinjiang Medical University</name>
+      <address>
+        <city>Urumchi</city>
+        <state>Xinjiang</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hwa Mei Hospital, University of Chinese Academy Sciences</name>
+      <address>
+        <city>Ningbo</city>
+        <state>Zhejiang</state>
+        <zip>31510</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Wenzhou Medical Univ (New)</name>
+      <address>
+        <city>Wenzhou</city>
+        <state>Zhejiang</state>
+        <zip>325000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Beijing Anzhen Hospital, Capital Medical University</name>
+      <address>
+        <city>Beijing</city>
+        <zip>100029</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>China-Japan Friendship Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <zip>100029</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chinese PLA General Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <zip>100853</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Beijing Tsinghua Changgung Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Daping Hospital, 3rd Affil Hosp. 3rd Military Med Univ PLA</name>
+      <address>
+        <city>Chongqing</city>
+        <zip>400042</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Zhongshan Hospital, Fudan University</name>
+      <address>
+        <city>Shanghai</city>
+        <zip>200032</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Xinhua Hos Affiliated to SH Jiaotong Uni School of Medicine</name>
+      <address>
+        <city>Shanghai</city>
+        <zip>200092</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Fifth People's Hospital of Shanghai,Fudan University</name>
+      <address>
+        <city>Shanghai</city>
+        <zip>200240</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Central Hospital of Minhang District, Shanghai</name>
+      <address>
+        <city>Shanghai</city>
+        <zip>201199</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tianjin Union Medicine Centre (People's Hospital of Tianjin)</name>
+      <address>
+        <city>Tianjin</city>
+        <zip>300121</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MUDr.Petr Bucek s.r.o.</name>
+      <address>
+        <city>Frydek-Mistek</city>
+        <zip>738 01</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CTC Hodonin sro</name>
+      <address>
+        <city>Hodonin</city>
+        <zip>69501</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vseobecna fakultni nemocnice v Praze</name>
+      <address>
+        <city>Praha 2</city>
+        <zip>12808</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vseobecna fakultni nemocnice v Praze</name>
+      <address>
+        <city>Praha 2</city>
+        <zip>12808</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nefrologicka ambulance</name>
+      <address>
+        <city>Praha 4</city>
+        <zip>140 00</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nefromed s.r.o.</name>
+      <address>
+        <city>Praha 6</city>
+        <zip>160 00</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vestra Clinics s.r.o.</name>
+      <address>
+        <city>Rychnov nad Kneznou</city>
+        <zip>516 01</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nemocnice Znojmo</name>
+      <address>
+        <city>Znojmo</city>
+        <zip>669 02</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rigshospitalet, Dept Nefrology</name>
+      <address>
+        <city>Copenhagen</city>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sydvestjysk Sygehus Esbjerg</name>
+      <address>
+        <city>Esbjerg</city>
+        <zip>6700</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Herlev Hospital</name>
+      <address>
+        <city>Herlev</city>
+        <zip>2730</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Holbæk Sygehus</name>
+      <address>
+        <city>Holbæk</city>
+        <zip>4300</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Holstebro Hospital</name>
+      <address>
+        <city>Holstebro</city>
+        <zip>DK-7500</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Odense, Dept Renal Medicine</name>
+      <address>
+        <city>Odense C</city>
+        <zip>5000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>General Hospital of Arta</name>
+      <address>
+        <city>Arta</city>
+        <zip>47100</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>HIPPOKRATION General Hospital of Athens</name>
+      <address>
+        <city>Athens</city>
+        <zip>115 27</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>LAIKO General Hospital of Athens</name>
+      <address>
+        <city>Athens</city>
+        <zip>11527</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University General Hospital of Patras | Nephrology Clinic</name>
+      <address>
+        <city>Patra</city>
+        <zip>26504</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PAPANIKOLAOU General Hospital Thessaloniki</name>
+      <address>
+        <city>Pilea Chortiatis</city>
+        <zip>57010</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Papageorgiou General Hospital of Thessaloniki</name>
+      <address>
+        <city>Thessaloniki</city>
+        <zip>56403</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Queen Mary Hospital</name>
+      <address>
+        <city>Hong Kong</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Margaret Hospital</name>
+      <address>
+        <city>Lai Chi Kok</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Prince of Wales Hospital</name>
+      <address>
+        <city>Shatin</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tung Wah Hospital</name>
+      <address>
+        <city>Sheung Wan</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Max Super Speciality Hospital, Saket</name>
+      <address>
+        <city>New Delhi</city>
+        <state>Delhi</state>
+        <zip>110017</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>All India Institute of Medical Sciences</name>
+      <address>
+        <city>New Delhi</city>
+        <state>Delhi</state>
+        <zip>110029</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Shalby Hospital</name>
+      <address>
+        <city>Ahmedabad</city>
+        <state>Gujar?t</state>
+        <zip>380054</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Noble Hospital</name>
+      <address>
+        <city>Hadapsar</city>
+        <state>Maharashtra</state>
+        <zip>411013</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>P. D. Hinduja Hospital and Medical Research Centre</name>
+      <address>
+        <city>Mumbai</city>
+        <state>Maharashtra</state>
+        <zip>400016</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Institute of Post-Graduate Medical Education and Research</name>
+      <address>
+        <city>Kolkata</city>
+        <state>West Bengal</state>
+        <zip>700020</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Osmania General Hospital</name>
+      <address>
+        <city>Telangana</city>
+        <zip>500012</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Assuta Ashdod</name>
+      <address>
+        <city>Ashdod</city>
+        <zip>7747629</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Barzilai Medical Center</name>
+      <address>
+        <city>Ashkelon</city>
+        <zip>7830604</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Soroka University Medical Center</name>
+      <address>
+        <city>Beer Sheva</city>
+        <zip>8410101</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rambam Health Corporation</name>
+      <address>
+        <city>Haifa</city>
+        <zip>3109601</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Meir Medical Center</name>
+      <address>
+        <city>Kfar Saba</city>
+        <zip>4428164</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Health Corporation of Galilee Medical Center</name>
+      <address>
+        <city>Nahariya</city>
+        <zip>2210001</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clalit Health Services Rabin Medical Center-Beilinson Campus</name>
+      <address>
+        <city>Petah Tikva</city>
+        <zip>4941492</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chaim Sheba Medical Center</name>
+      <address>
+        <city>Ramat Gan</city>
+        <zip>5262000</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kaplan Medical Center</name>
+      <address>
+        <city>Rehovot</city>
+        <zip>7610001</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Baruch Padeh Medical Center, Poriya</name>
+      <address>
+        <city>Tiberias</city>
+        <zip>1528001</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Shamir Medical Center (Assaf Harofeh)</name>
+      <address>
+        <city>Zerifin</city>
+        <zip>7030000</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Grande Ospedale Metropolitano Bianchi-Melacrino-Morelli</name>
+      <address>
+        <city>Reggio Calabria</city>
+        <state>Calabria</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>A.O.U. Luigi Vanvitelli</name>
+      <address>
+        <city>Napoli</city>
+        <state>Campania</state>
+        <zip>80138</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>A.O.U. di Bologna Policlinico S.Orsola Malpighi</name>
+      <address>
+        <city>Bologna</city>
+        <state>Emilia-Romagna</state>
+        <zip>40138</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>A.O.U. di Modena - Policlinico</name>
+      <address>
+        <city>Modena</city>
+        <state>Emilia-Romagna</state>
+        <zip>41100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>A.O.U. di Parma</name>
+      <address>
+        <city>Parma</city>
+        <state>Emilia-Romagna</state>
+        <zip>43126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AUSL-IRCCS di Reggio Emilia</name>
+      <address>
+        <city>Reggio Emilia</city>
+        <state>Emilia-Romagna</state>
+        <zip>42123</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Ricerche Farmacologiche Mario Negri IRCCS</name>
+      <address>
+        <city>Bergamo</city>
+        <state>Lombardia</state>
+        <zip>24020</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ASST Ovest Milanese</name>
+      <address>
+        <city>Milano</city>
+        <state>Lombardia</state>
+        <zip>20025</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ASST Monza</name>
+      <address>
+        <city>Monza Brianza</city>
+        <state>Lombardia</state>
+        <zip>20832</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IRCCS Istituti Clinici Scientifici Maugeri SpA SB</name>
+      <address>
+        <city>Pavia</city>
+        <state>Lombardia</state>
+        <zip>27100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>A.O. Cannizzaro</name>
+      <address>
+        <city>Catania</city>
+        <state>Sicilia</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chubu Rosai Hospital</name>
+      <address>
+        <city>Nagoya</city>
+        <state>Aichi</state>
+        <zip>455-8530</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Daido Clinic</name>
+      <address>
+        <city>Nagoya</city>
+        <state>Aichi</state>
+        <zip>457-8511</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nagoya City University Hospital</name>
+      <address>
+        <city>Nagoya</city>
+        <state>Aichi</state>
+        <zip>467-8602</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kainan Hospital</name>
+      <address>
+        <city>Yatomi</city>
+        <state>Aichi</state>
+        <zip>498-8502</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Juntendo University Urayasu Hospital</name>
+      <address>
+        <city>Urayasu</city>
+        <state>Chiba</state>
+        <zip>279-0021</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Iizuka Hospital</name>
+      <address>
+        <city>Iizuka</city>
+        <state>Fukuoka</state>
+        <zip>820-8505</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kokura Memorial Hospital</name>
+      <address>
+        <city>Kitakyushu</city>
+        <state>Fukuoka</state>
+        <zip>802-8555</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JCHO Kyushu Hospital</name>
+      <address>
+        <city>Kitakyushu</city>
+        <state>Fukuoka</state>
+        <zip>806-8501</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kizawa Memorial Hospital</name>
+      <address>
+        <city>Minokamo</city>
+        <state>Gifu</state>
+        <zip>505-8503</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kobe University Hospital</name>
+      <address>
+        <city>Kobe</city>
+        <state>Hyogo</state>
+        <zip>650-0017</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hyogo Prefectural Nishinomiya Hospital</name>
+      <address>
+        <city>Nishinomiya</city>
+        <state>Hyogo</state>
+        <zip>662-0918</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JA Toride Medical Center</name>
+      <address>
+        <city>Toride</city>
+        <state>Ibaraki</state>
+        <zip>302-0022</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tsuchiura Kyodo General Hospital</name>
+      <address>
+        <city>Tsuchiura</city>
+        <state>Ibaraki</state>
+        <zip>300-0028</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kanazawa University Hospital</name>
+      <address>
+        <city>Kanazawa</city>
+        <state>Ishikawa</state>
+        <zip>920-8641</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Kanazawa Medical Center</name>
+      <address>
+        <city>Kanazawa</city>
+        <state>Ishikawa</state>
+        <zip>920-8650</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Iwate Prefectural Central Hospital</name>
+      <address>
+        <city>Morioka</city>
+        <state>Iwate</state>
+        <zip>020-0066</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hiratsuka Kyosai Hospital</name>
+      <address>
+        <city>Hiratsuka</city>
+        <state>Kanagawa</state>
+        <zip>254-8502</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tokai University Hospital</name>
+      <address>
+        <city>Isehara</city>
+        <state>Kanagawa</state>
+        <zip>259-1193</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Marianna University School of Medicine Hospital</name>
+      <address>
+        <city>Kawasaki</city>
+        <state>Kanagawa</state>
+        <zip>216-8511</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saiseikai Yokohamashi Nanbu Hospital</name>
+      <address>
+        <city>Yokohama</city>
+        <state>Kanagawa</state>
+        <zip>234-0054</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yokohama City University Hospital</name>
+      <address>
+        <city>Yokohama</city>
+        <state>Kanagawa</state>
+        <zip>236-0004</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yokohama Sakae Kyosai Hospital</name>
+      <address>
+        <city>Yokohama</city>
+        <state>Kanagawa</state>
+        <zip>247-8581</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Matsumoto City Hospital</name>
+      <address>
+        <city>Matsumoto</city>
+        <state>Nagano</state>
+        <zip>390-1401</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Shinshu University Hospital</name>
+      <address>
+        <city>Matsumoto</city>
+        <state>Nagano</state>
+        <zip>390-8621</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Japanese Red Cross Society Suwa Hospital</name>
+      <address>
+        <city>Suwa</city>
+        <state>Nagano</state>
+        <zip>392-8510</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kawasaki Medical School Hospital</name>
+      <address>
+        <city>Kurashiki</city>
+        <state>Okayama</state>
+        <zip>701-0192</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Osaka Rosai Hospital</name>
+      <address>
+        <city>Sakai</city>
+        <state>Osaka</state>
+        <zip>591-8025</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saitama Medical University Hospital</name>
+      <address>
+        <city>Irima-gun</city>
+        <state>Saitama</state>
+        <zip>350-0495</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Seirei Hamamatsu General Hospital</name>
+      <address>
+        <city>Hamamatsu</city>
+        <state>Shizuoka</state>
+        <zip>430-8558</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Juntendo University Hospital</name>
+      <address>
+        <city>Bunkyo-ku</city>
+        <state>Tokyo</state>
+        <zip>113-8431</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Tokyo Hospital</name>
+      <address>
+        <city>Bunkyo-ku</city>
+        <state>Tokyo</state>
+        <zip>113-8655</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tokyo Metropolitan Tama Medical Center</name>
+      <address>
+        <city>Fuchu</city>
+        <state>Tokyo</state>
+        <zip>183-8524</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nihon University Itabashi Hospital</name>
+      <address>
+        <city>Itabashi-ku</city>
+        <state>Tokyo</state>
+        <zip>173-8610</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tokyo Medical University Hospital</name>
+      <address>
+        <city>Shinjuku-ku</city>
+        <state>Tokyo</state>
+        <zip>160-0023</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Yamanashi Hospital</name>
+      <address>
+        <city>Chuo</city>
+        <state>Yamanashi</state>
+        <zip>409-3898</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fukuoka Wajiro Hospital</name>
+      <address>
+        <city>Fukuoka</city>
+        <zip>811-0213</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fukuoka University Hospital</name>
+      <address>
+        <city>Fukuoka</city>
+        <zip>814-0180</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Japanese Red Cross Kumamoto Hospital</name>
+      <address>
+        <city>Kumamoto</city>
+        <zip>861-8520</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nara Prefecture General Medical Center</name>
+      <address>
+        <city>Nara</city>
+        <zip>630-8581</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saga-Ken Medical Centre Koseikan</name>
+      <address>
+        <city>Saga</city>
+        <zip>840-8571</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Japanese Red Cross Saitama Hospital</name>
+      <address>
+        <city>Saitama</city>
+        <zip>330-8553</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yonsei University Wonju Christian Hospital</name>
+      <address>
+        <city>Wonju</city>
+        <state>Gang''weondo</state>
+        <zip>26426</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hallym University Sacred Heart Hospital</name>
+      <address>
+        <city>Anyang-si</city>
+        <state>Gyeonggido</state>
+        <zip>14068</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dongguk University Hospital</name>
+      <address>
+        <city>Goyang-si</city>
+        <state>Gyeonggido</state>
+        <zip>10326</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Inje University Ilsan Paik Hospital</name>
+      <address>
+        <city>Goyang-si</city>
+        <state>Gyeonggido</state>
+        <zip>411-706</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Bundang Cha Hospital</name>
+      <address>
+        <city>Seongnam-si</city>
+        <state>Gyeonggido</state>
+        <zip>13496</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Catholic University of Korea, Incheon St.Mary's Hospital</name>
+      <address>
+        <city>Incheon</city>
+        <state>Incheon Gwang''yeogsi</state>
+        <zip>21431</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <state>Seoul Teugbyeolsi</state>
+        <zip>03080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chung Nam National University Hospital</name>
+      <address>
+        <city>Daejeon</city>
+        <zip>35015</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Korea University Ansan Hospital</name>
+      <address>
+        <city>Gyeonggi-do</city>
+        <zip>425-707</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Severance Hospital, Yonsei University Health System</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03722</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kyung Hee University Hospital at Gangdong</name>
+      <address>
+        <city>Seoul</city>
+        <zip>05278</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Samsung Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06351</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Boramae Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>07061</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kangnam Sacred Heart Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>07441</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Sultan Abdul Halim</name>
+      <address>
+        <city>Kedah</city>
+        <zip>08000</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Kuala Lumpur</name>
+      <address>
+        <city>Kuala Lumpur</city>
+        <zip>50586</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Malaya Medical Centre</name>
+      <address>
+        <city>Kuala Lumpur</city>
+        <zip>59100</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Tengku Ampuan Afzan</name>
+      <address>
+        <city>Pahang</city>
+        <zip>25100</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Raja Permaisuri Bainun</name>
+      <address>
+        <city>Perak</city>
+        <zip>30450</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Seri Manjung</name>
+      <address>
+        <city>Perak</city>
+        <zip>32040</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Pulau Pinang</name>
+      <address>
+        <city>Pulau Pinang</city>
+        <zip>10450</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Selayang</name>
+      <address>
+        <city>Selangor</city>
+        <zip>68100</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro para el Desarrollo de la Medicina y de Asistencia Méd</name>
+      <address>
+        <city>Culiacán</city>
+        <state>Sinaloa</state>
+        <zip>80230</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sociedad de Metabolismo y Corazón S.C. ( SOMECO)</name>
+      <address>
+        <city>Puerto de Veracruz</city>
+        <state>Veracruz</state>
+        <zip>91900</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Consultorios de Medicina Especializada del Sector Privado</name>
+      <address>
+        <city>Aguascalientes</city>
+        <zip>20124</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>First City Clinical Hospital n.a. E.E. Volosevich</name>
+      <address>
+        <city>Arkhangelsk</city>
+        <zip>163001</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chelyabinsk City Clinical Hospital ¿6</name>
+      <address>
+        <city>Chelyabinsk</city>
+        <zip>454017</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Izhevsk City Clinical Hospital #9</name>
+      <address>
+        <city>Izhevsk</city>
+        <zip>426063</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kemerovo Regional Clinical Hospital</name>
+      <address>
+        <city>Kemerovo</city>
+        <zip>650066</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>City clinical hospital n.a. V.V. Vinogradov</name>
+      <address>
+        <city>Moscow</city>
+        <zip>117292</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>1st Moscow State Medical University n.a. I.M.Sechenov</name>
+      <address>
+        <city>Moscow</city>
+        <zip>119991</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>City Hospital #52</name>
+      <address>
+        <city>Moscow</city>
+        <zip>123182</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>City Clinical Hospital of Emergency Care #1</name>
+      <address>
+        <city>Omsk</city>
+        <zip>644112</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Perm Regional Hospital for War Veterans</name>
+      <address>
+        <city>Perm</city>
+        <zip>614097</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rostov State Medical University</name>
+      <address>
+        <city>Rostov-on-Don</city>
+        <zip>344022</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Limited liability company &quot;MK-Med&quot;</name>
+      <address>
+        <city>Saint-Petersburg</city>
+        <zip>197082</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saratov City Clinical Hospital #9</name>
+      <address>
+        <city>Saratov</city>
+        <zip>410030</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>City clinical hospital #40</name>
+      <address>
+        <city>Sestroretsk</city>
+        <zip>197706</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Voronezh Regional Clinical Consultancy-Diagnostic Center</name>
+      <address>
+        <city>Voronezh</city>
+        <zip>394018</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>LLC Yaroslavl dialysis center</name>
+      <address>
+        <city>Yaroslavl</city>
+        <zip>150062</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Complexo Hospitalario Universitario de Ferrol</name>
+      <address>
+        <city>Ferrol</city>
+        <state>A Coruña</state>
+        <zip>15405</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Univ. Bellvitge | Nefrología</name>
+      <address>
+        <city>L'Hospitalet de Llobregat</city>
+        <state>Barcelona</state>
+        <zip>08907</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Principe de Asturias</name>
+      <address>
+        <city>Alcalá de Henares</city>
+        <state>Madrid</state>
+        <zip>28805</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ciutat Sanitària i Universitaria de la Vall d'Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Ramón y Cajal</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>H Univ. 12 de Octubre | Nefrología</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínico Univ. Valencia | Nefrología</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Dr. Peset</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46017</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari i Politècnic La Fe</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46026</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Changhua Christian Hospital</name>
+      <address>
+        <city>Changhua</city>
+        <zip>50006</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chang Gung Memorial Hospital Kaohsiung</name>
+      <address>
+        <city>Kaohsiung</city>
+        <zip>833</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Far Eastern Memorial Hospital</name>
+      <address>
+        <city>New Taipei City</city>
+        <zip>220</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>China Medical University Hospital</name>
+      <address>
+        <city>Taichung</city>
+        <zip>40447</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Taichung Veterans General Hospital</name>
+      <address>
+        <city>Taichung</city>
+        <zip>40705</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Taiwan University Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <zip>100</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Taipei Medical University Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <zip>110</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chang Gung Memorial Hospital at Linkou</name>
+      <address>
+        <city>Taoyuan</city>
+        <zip>33305</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Australia</country>
+    <country>Bulgaria</country>
+    <country>China</country>
+    <country>Czechia</country>
+    <country>Denmark</country>
+    <country>Greece</country>
+    <country>Hong Kong</country>
+    <country>India</country>
+    <country>Israel</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Malaysia</country>
+    <country>Mexico</country>
+    <country>Russian Federation</country>
+    <country>Spain</country>
+    <country>Taiwan</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 17, 2021</study_first_posted>
+  <last_update_submitted>November 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Kidney Diseases</mesh_term>
+    <mesh_term>Renal Insufficiency, Chronic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Availability of this study's data will later be determined according to Bayer's commitment to the EFPIA/PhRMA &quot;Principles for responsible clinical trial data sharing&quot;. This pertains to scope, timepoint and process of data access. As such, Bayer commits to sharing upon request from qualified researchers patient-level clinical trial data, study-level clinical trial data, and protocols from clinical trials in patients for medicines and indications approved in the US and EU as necessary for conducting legitimate research. This applies to data on new medicines and indications that have been approved by the EU and US regulatory agencies on or after January 01, 2014. Interested researchers can use www.clinicalstudydatarequest.com to request access to anonymized patient-level data and supporting documents from clinical studies to conduct research. Information on the Bayer criteria for listing studies and other relevant information is provided in the Study sponsors section of the portal.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

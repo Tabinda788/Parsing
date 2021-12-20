@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1605">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05140265</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-351</org_study_id>
+    <nct_id>NCT05140265</nct_id>
+  </id_info>
+  <brief_title>De-identified UNMH EEG Corpus Database Creation With Fully De-identified Clinical Information</brief_title>
+  <official_title>The Creation of a Pilot Database of EEG Recordings and de- Identified Medical Records From Patients Internally Referred Within the UNMH Comprehensive Epilepsy Center</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of New Mexico</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of New Mexico</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This proposal outlines the steps required for the creation of a pilot database of EEG&#xD;
+      recordings and de-identified medical records from patients internally referred within the&#xD;
+      UNMH Comprehensive Epilepsy Center. The UNMH EEG Corpus would be the first database of its&#xD;
+      kind. Other public databases contain either patient EEG signals or medical records, but&#xD;
+      without both kinds of information, it is impossible to relate pre-treatment neurobiomarkers&#xD;
+      with post-treatment prognosis. The database will also contain information that can improve&#xD;
+      seizure localization based off of scalp and intracranial EEG, and the requisite data for the&#xD;
+      creation of algorithms that forecast seizure activity; a development that could ultimately&#xD;
+      lead to novel responsive neural stimulation procedures that suppress seizures before they&#xD;
+      begin.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Retrospective De-identified EEG and Clinical Database Creation:&#xD;
+&#xD;
+      The proposed database (UNMH EEG corpus) will be created in stages and designed to increase in&#xD;
+      complexity and functionality given future funding and tool development. The initial scope for&#xD;
+      this project includes the construction of a relational database that links patient&#xD;
+      demographic data (medical records, EEG study number, date of birth) which will be linked to&#xD;
+      the study number. This list will be kept for 6 years from the completion of study and will be&#xD;
+      stored in locked office cabinet as a paper form (source documentation) and password protected&#xD;
+      computer in locked office (electronic version). Then, the rest of the data collection will&#xD;
+      include algorithmically de-identified clinical reports (e.g. progress notes), recording&#xD;
+      meta-data (e.g. montage configuration), and de-identified clinical EEG with only study number&#xD;
+      without PHI. Future work beyond the scope of this pilot project will involve: annotating the&#xD;
+      EEG trace with the timing and type of seizure (or artifact), extracting medication history&#xD;
+      from the patient records, standardizing notes on treatment history and outcome, review that&#xD;
+      ePHI has been removed, and dissemination. A full patient assessment can also include MRI, MEG&#xD;
+      and PET scans and a final database should also include these valuable images. The creation of&#xD;
+      the pilot UNMH EEG corpus will focus on the subset of patients internally referred within&#xD;
+      UNMH for whom an EEG was performed, a treatment was provided, and a follow up assessment&#xD;
+      occurred. This inclusion criteria will guarantee that the minimum data is present to&#xD;
+      statistically relate pre-treatment EEG with post-treatment prognosis.&#xD;
+&#xD;
+      Collection of De-identified Data Retrospectively:&#xD;
+&#xD;
+      Time Frame: 1) from current up to August 8, 2007 when Nihon Kodhen Neuroworkbench was started&#xD;
+      at UNM, 2) From the start of study, each year, we will add previous year's de-identified data&#xD;
+      to the database until the last dataset of 2027. For example, in January to Februrary 2023, we&#xD;
+      will add 2022 data to the database. We will add previous year's data to the database until&#xD;
+      2028 with the last dataset till 2027.&#xD;
+&#xD;
+      We will generate randomized de-identified study number by computer programing. We will create&#xD;
+      the secure table of de-identified study number to link patient's PHI (medical record number,&#xD;
+      EEG study number, Date of Birth). This table will be stored in the locked cabinet in PIs'&#xD;
+      office. Also, the electronic version will be stored in HSC password protected computer under&#xD;
+      HSC IT secured drive with only access by PIs and study coordinator.&#xD;
+&#xD;
+      Once the study number is generated, all the de-identified data will be stored under the study&#xD;
+      number so that no PHI is present in any of research data.&#xD;
+&#xD;
+      We will only extract the data from the patients who are 18 years or older at the time of EEG&#xD;
+      obtained. We will exclude any vulnerable groups or information. Please see below for&#xD;
+      inclusion and exclusion criteria. Children under age of 18 years old will be excluded. Since,&#xD;
+      there is no informed consent or direct interaction with the patient in this retrospective&#xD;
+      data analysis, the patient of any particular ethnic/ racial/ primary language will not be&#xD;
+      screened nor targeted. Also, there will be no particular exclusion for Spanish speaking&#xD;
+      patients for the above reason.&#xD;
+&#xD;
+      We will all de-identify EEG data from the clinical EEG database (i.e. Neuroworkbench of Nihon&#xD;
+      Kodhen EEG system) and import these to password protected secure study server in PI's HSC IT&#xD;
+      secured drive domain. There will be no video data of EEG since video of patient can be easily&#xD;
+      identify the patient's information.&#xD;
+&#xD;
+      Clinical Information: each patient's Neurology notes (History and Physical, Neurology&#xD;
+      Progress Note, Neurology Consultation Note, Neurology Clinic note, Neurology Discharge&#xD;
+      Summary, Neurodiagnostic Report of EEG results, Neuroimaging studies (brain MRI, brain PET,&#xD;
+      brain MEG), and Patient's Medication List of Anti-seizure medication (ASM) will be pulled.&#xD;
+      These clinical documentations will be de-identified (removing all PHI) and linked to the&#xD;
+      study number. After the de-identification and link to study number, the clinical information&#xD;
+      will be stored in password protected secure study server with de-identified EEG data. While&#xD;
+      we are creating automated de-identification method, we will manually extract the data and&#xD;
+      manually de-identify them. Once the automated process is established, we will also perform&#xD;
+      quality check with manual and automated process comparison.&#xD;
+&#xD;
+      Specifically, all data (the EEG-BIDS files, the SQL database, and the Excel sheet) will be&#xD;
+      stored on an internal hard drive within a UNM HSC IT managed desktop PC, physically located&#xD;
+      in Dr. Sam McKenzie's office in Rm 209A in RGFH. The PC is on the UNM HSC network and the&#xD;
+      computer runs the UNM HSC mirror of Windows 10. The room is always locked and the PC requires&#xD;
+      password log in.&#xD;
+&#xD;
+      We will use the EEG-BIDS file format to store all data and organize the database. This file&#xD;
+      format specifies a path structure tree with particular nomenclature (Figure 1). Each patient&#xD;
+      is assigned a directory containing subdirectories for each session and data modality. For&#xD;
+      non-identifying details about the patient demographics and recording details, information&#xD;
+      will be saved in two file types: a *.tsv file for data values and a *.json file for&#xD;
+      descriptive metadata. EEG files with de-identification will be downsampled to 250 Hz, for&#xD;
+      hard drive storage efficacy, and saved into the European Data Format. Also accompanying the&#xD;
+      EDF EEG file will be a 'coordinates' file which specifies the location of anatomical&#xD;
+      landmarks used for montage placement. Another 'events' file will contain annotations of&#xD;
+      events observed by clinicians in the EEG. This data will be imported from the original Nihon&#xD;
+      Kohden annotated dataset using the Python MNE toolbox1.&#xD;
+&#xD;
+      Within this file structure we will also save text files with de-identified clinical notes&#xD;
+      imported from Cerner Millennium detailing medication, diagnosis, treatment, and prognosis.&#xD;
+      Non-identifying patient data will additionally be stored in a SQL database with a randomized&#xD;
+      patient identifier.&#xD;
+&#xD;
+      An Excel sheet will store random patient identification number (used in the EEG-BIDS file and&#xD;
+      in the SQL database) and the corresponding patient identifying number for subsequent&#xD;
+      re-identification if needed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">October 11, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2030</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2028</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>UNMH EEG Corpus</measure>
+    <time_frame>2007-2027</time_frame>
+    <description>Fully de-identified database creation matching between EEG and clinical data for adult patients of 18 years or older who underwent EEG study at UNMH from 2007 till 2027</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">20000</enrollment>
+  <condition>De-identified EEG and Clinical Database</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients of18 years old or older who has had EEG done at University of New Mexico with&#xD;
+        Nihon Kohden Neuroworkbench from 2007 till 2027.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  We will screen with UNMH EEG database, Nihon Kohden Neuroworkbench first. After&#xD;
+             meeting all the inclusion and exclusion criteria, we will access the Cerner Powerchart&#xD;
+             (UNMH EMR) for the rest of the clinical information.&#xD;
+&#xD;
+          -  18 years old or older. If the patient's age is over 89, we will aggregated them to age&#xD;
+             90 or older so that the patient cannot be identified. Also, all the EEG data will be&#xD;
+             de-identified and only show the year of the study performed instead of the exact study&#xD;
+             date to reduce the risk of identification. Of note, we perform over few thousands of&#xD;
+             EEG studies per year and it will be almost impossible to identify the patient based on&#xD;
+             the study year.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Children under age of 18 years old will be excluded.&#xD;
+&#xD;
+          -  Mismatched patients between EEG database and EMR&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University of New Mexico Health Science</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>November 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 1, 2021</study_first_posted>
+  <last_update_submitted>November 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Once the automated de-identified database between EEG and clinical information is successfully established at UNMH, we will consider to share such fully de-identified data with a broader research community. However, this second stage is not established yet.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

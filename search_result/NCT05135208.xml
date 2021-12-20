@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1994">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05135208</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CT_2021</org_study_id>
+    <nct_id>NCT05135208</nct_id>
+  </id_info>
+  <brief_title>Radiation Dose Optimization in CT Using Automatic Patient Positioning.</brief_title>
+  <official_title>Effect of Automated Patient Positioning in CT Using a 3D Camera on Organ Dose - A Comparison of Manual Positioning by the Radiology Assistant and Intelligent Camera Positioning.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dr. Panagiota Manava</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Paracelsus Medical University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the effect on radiation dose using intelligent camera positioning in comparison&#xD;
+      to manual positioning by the radiology assistant.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The positioning of the patient at the beginning of every CT examination has an major&#xD;
+      influence on the image quality and especially on the respective effective patient dose in the&#xD;
+      CT scan. If the patient position is closer to the X-ray tube, the patient dose increases&#xD;
+      significantly and if the vertical patient position is chosen too far away from the X-ray&#xD;
+      tube, the applied dose decreases, but also the image quality.&#xD;
+&#xD;
+      In a retrospective observational study, patients were examined on the CT scanner Somatom&#xD;
+      X.Cite and divided into two groups, one group was with intelligent camera positioning and the&#xD;
+      other with manual positioning.&#xD;
+&#xD;
+      The patients received their CT scan at the Institute Radiology and Nuclear Medicine at the&#xD;
+      Nuremberg North Hospital strictly according to the clinical indication and without influence&#xD;
+      of the study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 1, 2021</start_date>
+  <completion_date type="Anticipated">May 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Effective dose</measure>
+    <time_frame>10 months</time_frame>
+    <description>the absorbed dose to different organs of the body</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">3600</enrollment>
+  <condition>Radiation Dosage</condition>
+  <arm_group>
+    <arm_group_label>experimental group</arm_group_label>
+    <description>patients positioned with 3D camera</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>control group</arm_group_label>
+    <description>patients positioned by experienced radiology assistants</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        patients of a primary care clinic&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Only patients with a clinical indication for a CT Scan&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        renal insufficiency, manifest hyperthyroidism and pregnancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael M. Lell, Prof. Dr.</last_name>
+    <role>Study Director</role>
+    <affiliation>Department of Radiology and Nuclear Medicine, Klinikum Nuernberg, Paracelsus Medical University, Germany</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Panagiota Manava, Dr. med.</last_name>
+    <phone>0049911398114930</phone>
+    <email>Panagiota.Manava@klinikum-nuernberg.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Vera Boehm</last_name>
+    <email>boehm.vera@klinikum-nuernberg.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Institute of Radiology and Nuclear Medicine</name>
+      <address>
+        <city>Nuremberg</city>
+        <state>Bavaria</state>
+        <zip>90419</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Panagiota Manava, Dr.</last_name>
+      <phone>+49 911 398 114930</phone>
+      <email>panagiota.manava@klinikum-nuernberg.de</email>
+    </contact>
+    <contact_backup>
+      <last_name>Michael M. Lell, Prof. Dr.</last_name>
+      <phone>+49 911 398 2540</phone>
+      <email>michael.lell@klinikum-nuernberg.de</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <reference>
+    <citation>Booij R, Budde RPJ, Dijkshoorn ML, van Straten M. Accuracy of automated patient positioning in CT using a 3D camera for body contour detection. Eur Radiol. 2019 Apr;29(4):2079-2088. doi: 10.1007/s00330-018-5745-z. Epub 2018 Oct 10.</citation>
+    <PMID>30306328</PMID>
+  </reference>
+  <reference>
+    <citation>Kaasalainen T, Palmu K, Reijonen V, Kortesniemi M. Effect of patient centering on patient dose and image noise in chest CT. AJR Am J Roentgenol. 2014 Jul;203(1):123-30. doi: 10.2214/AJR.13.12028.</citation>
+    <PMID>24951205</PMID>
+  </reference>
+  <reference>
+    <citation>Saltybaeva N, Schmidt B, Wimmer A, Flohr T, Alkadhi H. Precise and Automatic Patient Positioning in Computed Tomography: Avatar Modeling of the Patient Surface Using a 3-Dimensional Camera. Invest Radiol. 2018 Nov;53(11):641-646. doi: 10.1097/RLI.0000000000000482.</citation>
+    <PMID>29762259</PMID>
+  </reference>
+  <reference>
+    <citation>Marsh RM, Silosky MS. The effects of patient positioning when interpreting CT dose metrics: A phantom study. Med Phys. 2017 Apr;44(4):1514-1524. doi: 10.1002/mp.12137. Epub 2017 Mar 17.</citation>
+    <PMID>28133763</PMID>
+  </reference>
+  <reference>
+    <citation>Dane B, O'Donnell T, Liu S, Vega E, Mohammed S, Singh V, Kapoor A, Megibow A. Radiation dose reduction, improved isocenter accuracy and CT scan time savings with automatic patient positioning by a 3D camera. Eur J Radiol. 2021 Mar;136:109537. doi: 10.1016/j.ejrad.2021.109537. Epub 2021 Jan 12.</citation>
+    <PMID>33454459</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 26, 2021</study_first_posted>
+  <last_update_submitted>November 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Paracelsus Medical University</investigator_affiliation>
+    <investigator_full_name>Dr. Panagiota Manava</investigator_full_name>
+    <investigator_title>Dr. med. Panagiota Manava, MD</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

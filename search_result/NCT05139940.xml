@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1630">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05139940</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Google AI</org_study_id>
+    <nct_id>NCT05139940</nct_id>
+  </id_info>
+  <brief_title>Validation of Artificial Intelligence Enabled TB Screening and Diagnosis in Zambia</brief_title>
+  <official_title>Validation of Artificial Intelligence Enabled TB Screening and Diagnosis in Zambia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre for Infectious Disease Research in Zambia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre for Infectious Disease Research in Zambia</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Tuberculosis (TB) is a global epidemic and for many years has remained a major cause of death&#xD;
+      throughout the developing world. Zambia is among the top 30 TB/HIV high burden countries.&#xD;
+      Chest X-ray (CXR) is recommended as a triaging test for TB, and a diagnostic aid when&#xD;
+      available. However, many high-burden settings lack access to experienced radiologists capable&#xD;
+      of interpreting these images, resulting in mixed sensitivity, poor specificity, and large&#xD;
+      inter-observer variation. In recognition of this challenge, the World Health Organization has&#xD;
+      recommended the use of automated systems that utilize artificial intelligence (AI) to read&#xD;
+      CXRs for screening and triaging for TB. In this study, we primarily evaluate the performance&#xD;
+      of our AI algorithm for TB, and secondarily for Abnormal/Normal.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 22, 2021</start_date>
+  <completion_date type="Anticipated">November 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pilot Group to calibrate the operating points for AI algorithms</measure>
+    <time_frame>2 months</time_frame>
+    <description>1. Operating point selection for TB AI algorithm and Abnormal/Normal AI algorithm on CXRs for outcomes listed in Main Cross Sectional Group.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Main Cross Sectional Group</measure>
+    <time_frame>7 months</time_frame>
+    <description>1. TB AI algorithm sensitivity and specificity in detecting active TB on CXR compared to panel of radiologists</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Main Cross Sectional Group:</measure>
+    <time_frame>7 months</time_frame>
+    <description>1. TB AI algorithm sensitivity and specificity in detecting active TB compared to World Health Organisation (WHO) performance guidelines of 90% sensitivity and 70% specificity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Main Cross Sectional Group</measure>
+    <time_frame>7 months</time_frame>
+    <description>2. Abnormal/Normal AI algorithm sensitivity and specificity compared to 90% sensitivity and 50% specificity.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">2432</enrollment>
+  <condition>Tuberculosis</condition>
+  <arm_group>
+    <arm_group_label>Pilot Group to calibrate the operating points for AI algorithms (Estimated Enrollment up to 500)</arm_group_label>
+    <description>Diagnostic Test: TB AI algorithm performance in detecting active TB.&#xD;
+Diagnostic Test: TB diagnosis from sputum and urine (Smear microscopy, Xpert MTB RIF/ultra, Lipoarabinomannan (LAM) and mycobacterial culture)&#xD;
+Diagnostic Test: Abnormal/Normal AI algorithm to detect abnormal/normal CXRs.&#xD;
+Diagnostic Test: Radiologist evaluation of CXRs for active TB, abnormal/normal.&#xD;
+Diagnostic Test: Labs: Hemoglobin level, HIV status, CD4 count.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Main Cross Sectional Group (Estimated Enrollment 1932 minus the volume in pilot)</arm_group_label>
+    <description>Diagnostic Test: TB AI algorithm performance in detecting active TB.&#xD;
+Diagnostic Test: TB diagnosis from sputum and urine (Smear microscopy, Xpert MTB RIF/ultra, Lipoarabinomannan (LAM) and mycobacterial culture)&#xD;
+Diagnostic Test: Abnormal/Normal AI algorithm to detect abnormal/normal CXRs.&#xD;
+Diagnostic Test: Radiologist evaluation of CXRs for active TB, abnormal/normal.&#xD;
+Diagnostic Test: Labs: Hemoglobin level, HIV status, CD4 count.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study will be conducted from Chainda South Clinic, Chawama and Kanyama General&#xD;
+        Hospitals. These facilities are selected based on existing access to digital radiography.&#xD;
+        Participants will be drawn from patients attending these health facilities for:&#xD;
+&#xD;
+          -  Health services&#xD;
+&#xD;
+          -  TB households of those who are close contacts of TB households within the catchment&#xD;
+             area of these facilities&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants who are 18 years and older with a known HIV status or are willing to&#xD;
+             undergo HIV testing if unknown HIV status and meet the following criteria will be&#xD;
+             included in the study:&#xD;
+&#xD;
+               -  Presumptive TB patients defined as having any of the following:&#xD;
+&#xD;
+                  ○ Cough, Weight loss, Night sweats, Fever&#xD;
+&#xD;
+               -  Household /close TB contacts regardless of symptoms&#xD;
+&#xD;
+               -  Newly diagnosed HIV regardless of symptoms.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Individuals who do meet the above inclusion criteria will be excluded. In addition,&#xD;
+             individuals with history of TB treatment within 365 days prior to enrolment will be&#xD;
+             excluded.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Monde Muyoyeta, MBChB,PhD</last_name>
+    <phone>+260966765615</phone>
+    <email>monde.muyoyeta@cidrz.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Hope Mwanungwi, MSc</last_name>
+    <phone>+260966933970</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Chainda South Health Facility</name>
+      <address>
+        <city>Lusaka</city>
+        <zip>10101</zip>
+        <country>Zambia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chawama first level hospital</name>
+      <address>
+        <city>Lusaka</city>
+        <zip>10101</zip>
+        <country>Zambia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kanyama First Level Hospital</name>
+      <address>
+        <city>Lusaka</city>
+        <zip>10101</zip>
+        <country>Zambia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Zambia</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 1, 2021</study_first_posted>
+  <last_update_submitted>November 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Screening</keyword>
+  <keyword>Diagnosis</keyword>
+  <keyword>Artificial Intelligence</keyword>
+  <keyword>Chest X-ray</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tuberculosis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

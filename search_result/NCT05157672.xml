@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="267">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05157672</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18686</org_study_id>
+    <secondary_id>U54AT008909</secondary_id>
+    <nct_id>NCT05157672</nct_id>
+  </id_info>
+  <brief_title>Evaluating the Pharmacokinetics and Drug Interaction Potential of the Botanical Dietary Supplement Cinnamon</brief_title>
+  <official_title>Evaluating the Pharmacokinetics and Drug Interaction Potential of the Botanical Dietary Supplement Cinnamon</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington State University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Center for Complementary and Integrative Health (NCCIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Office of Dietary Supplements (ODS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Washington State University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate a well-characterized, commercially available&#xD;
+      cinnamon dietary supplement as a precipitant of pharmacokinetic interactions with CYP2A6&#xD;
+      substrates in healthy volunteers. Nicotine gum will be used as the CYP2A6 probe drug (i.e.,&#xD;
+      positive control) and letrozole as a high-impact object drug. Results will be used to inform&#xD;
+      future research on the potential use of cinnamon as a smoking cessation agent, as well as the&#xD;
+      clinical impact on pharmacotherapeutic regimens involving letrozole in cancer patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Cinnamon is used worldwide as both an additive and a botanical dietary supplement, the latter&#xD;
+      of which ranked within the 30 top-selling herbal supplements in 2020. Cinnamon is added to a&#xD;
+      variety of products, ranging from foods (e.g., breakfast cereals, baked goods) to fragrances&#xD;
+      and essential oils, to improve taste or smell. As a dietary supplement, cinnamon is commonly&#xD;
+      used to lower blood sugar and reduce inflammation. Cinnamon contains the abundant component,&#xD;
+      cinnamaldehyde (CA), a phenylpropanoid that emanates the flavor and scent of cinnamon.&#xD;
+      Research by Harrelson and colleagues has shown CA to inhibit the drug metabolizing enzyme&#xD;
+      cytochrome P450 (CYP) 2A6 in a time-dependent manner. That is, CYP2A6 metabolizes CA to a&#xD;
+      reactive intermediate that destroys the enzyme. Such substrates are also referred to as&#xD;
+      &quot;suicide substrates&quot;. This type of enzyme inhibition is similar to that of grapefruit juice,&#xD;
+      which contains furanocoumarins that are time-dependent inhibitors of CYP3A in the intestine,&#xD;
+      leading to numerous potential adverse interactions with drugs metabolized by CYP3A. Unlike&#xD;
+      competitive inhibitors, time-dependent inhibitors inactivate the enzyme permanently,&#xD;
+      requiring de novo synthesis of the enzyme. As such, drug interactions with time-dependent&#xD;
+      inhibitors can last for several days.&#xD;
+&#xD;
+      Relative to CYP3A, the list of clinically relevant CYP2A6 substrates is very short. However,&#xD;
+      two critical substrates include nicotine and the anticancer agent letrozole. Using an in&#xD;
+      vitro-to-in vivo extrapolation approach, CA was predicted to increase the area under the&#xD;
+      plasma concentration vs. time curve (AUC) of both substrates by 4- to 5-fold exceeding the&#xD;
+      FDA recommended cutoff (1.25) These compelling observations prompted this clinical study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 16, 2021</start_date>
+  <completion_date type="Anticipated">June 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2022</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Nicotine area under the concentration vs. time curve (AUC) ratio (exposure/baseline)</measure>
+    <time_frame>0-12 hours</time_frame>
+    <description>Ratio of the AUC of nicotine in the presence to absence of cinnamon.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cinnamon constituent area under the concentration vs. time curve (AUC)</measure>
+    <time_frame>0-48 hours</time_frame>
+    <description>AUC of cinnamon constituents</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cinnamon constituent maximum concentration (Cmax)</measure>
+    <time_frame>0-48 hours</time_frame>
+    <description>Cmax of cinnamon constituents</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cinnamon constituent half-life</measure>
+    <time_frame>0-48 hours</time_frame>
+    <description>Time to reach one-half of the concentration of cinnamon constituents</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cinnamon renal clearance</measure>
+    <time_frame>0-24 hours</time_frame>
+    <description>Renal clearance of cinnamon constituents</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Letrozole area under the concentration vs. time curve (AUC) ratio (exposure/baseline)</measure>
+    <time_frame>0-240 hours</time_frame>
+    <description>Ratio of the AUC of letrozole in the presence to absence of cinnamon.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Nicotine and letrozole maximum concentration (Cmax) ratio (treatment/control)</measure>
+    <time_frame>0-240 hours</time_frame>
+    <description>Ratio of the Cmax of nicotine or letrozole in the presence to absence of cinnamon.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Nicotine and letrozole half-life ratio (treatment/control)</measure>
+    <time_frame>0-240 hours</time_frame>
+    <description>Ratio of the time to reach one-half of the concentration of nicotine or letrozole in the presence to absence of cinnamon.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Nicotine and letrozole renal clearance ratio (treatment/control)</measure>
+    <time_frame>0-24 hours</time_frame>
+    <description>Ratio of the renal clearance of nicotine or letrozole in the presence to absence of cinnamon.</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">22</enrollment>
+  <condition>Interaction Drug Food</condition>
+  <arm_group>
+    <arm_group_label>Cinnamon</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Arm 1 will consist of administration of a single dose of cinnamon (2 g) with water by mouth to 6 subjects (3 biological men, 3 biological women). Blood will be drawn from 0-48 hours. Urine will be collected from 0-24 hours. The subjects may or may not elect to participate in Arms 2-5. If they do, a washout of at least 7 days will occur between Arm 1 administration of cinnamon and the Arm 2 administration of nicotine.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Nicotine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Arm 2 will consist of administration of a single dose of nicotine gum (2 mg) to 16 subjects (8 biological men, 8 biological women). If these subjects participated in Arm 1, they will have completed a washout of 7 days since administration of cinnamon before starting Arm 2. Blood and urine will be collected from 0-12 hours relative to nicotine administration. Participants will undergo a washout of at least 4 days before beginning Arm 3.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Letrozole</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Arm 3 will consist of administration of a single oral dose of letrozole (2.5 mg) to the same 16 subjects. Blood and urine will be collected from 0-240 hours and 0-24 hours, respectively, relative to letrozole administration. Participants will undergo a washout of at least 14 days before beginning Arm 4.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cinnamon and Nicotine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The same 16 subjects will self-administer the cinnamon product (2 g) three times daily for five consecutive days. On the sixth day, subjects will be administered cinnamon (2 g) and nicotine gum (2 mg). Cinnamon will be administered two additional times. Blood and urine will be collected from 0-12 hours relative to nicotine administration. Participants will undergo a washout of at least 4 days before beginning Arm 5.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cinnamon and Letrozole</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The same 16 subjects will self-administer the cinnamon product (2 g) three times daily for five consecutive days. On the sixth day, subjects will be administered cinnamon (2 g) and letrozole (2.5 mg). Cinnamon will be administered two additional times. Blood and urine will be collected from 0-240 hours and 0-24 hours, respectively, relative to letrozole administration.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Cinnamon (2 g)</intervention_name>
+    <description>oral capsules, 2 g</description>
+    <arm_group_label>Cinnamon</arm_group_label>
+    <arm_group_label>Cinnamon and Letrozole</arm_group_label>
+    <arm_group_label>Cinnamon and Nicotine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nicotine gum (2.5 mg)</intervention_name>
+    <description>gum, 2.5 mg</description>
+    <arm_group_label>Cinnamon and Nicotine</arm_group_label>
+    <arm_group_label>Nicotine</arm_group_label>
+    <other_name>Nicorette</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Letrozole (2.5 mg)</intervention_name>
+    <description>tablet, 2.5 mg</description>
+    <arm_group_label>Cinnamon and Letrozole</arm_group_label>
+    <arm_group_label>Letrozole</arm_group_label>
+    <other_name>Femara</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Biological men and women, aged from 18-64 years and healthy&#xD;
+&#xD;
+          -  Not taking any medications (prescription and non-prescription) or dietary/herbal&#xD;
+             supplements known to alter the pharmacokinetics of either study drug or cinnamon&#xD;
+             constituents&#xD;
+&#xD;
+          -  Willing to abstain from consuming dietary/herbal supplements and citrus juices for&#xD;
+             several weeks&#xD;
+&#xD;
+          -  Willing to abstain from consuming caffeinated beverages or other caffeine-containing&#xD;
+             products the evening before and morning of the first day of a study arm&#xD;
+&#xD;
+          -  Willing to abstain from consuming any alcoholic beverages for one day prior to any&#xD;
+             study day, during the 14-hour inpatient days, and for the outpatient visit(s)&#xD;
+             following the 14-hour visit&#xD;
+&#xD;
+          -  Willing to use an acceptable method of contraception that does not include oral&#xD;
+             contraceptive pills or patches (such as abstinence, copper IUD, condom)&#xD;
+&#xD;
+          -  Have the time to participate&#xD;
+&#xD;
+          -  Written informed consent (and assent when applicable) obtained from subject or&#xD;
+             subject's legal representative and ability for the subject to comply with the&#xD;
+             requirements of the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Under the age of 18 or 65+ years&#xD;
+&#xD;
+          -  Any current major illness or chronic illness such as (but not limited to) kidney&#xD;
+             disease, hepatic disease, diabetes mellitus, hypertension, coronary artery disease,&#xD;
+             chronic obstructive pulmonary disease, cancer, or HIV/AIDS&#xD;
+&#xD;
+          -  History of anemia or any other significant hematologic disorder&#xD;
+&#xD;
+          -  History of drug or alcohol addiction or major psychiatric illness&#xD;
+&#xD;
+          -  Pregnant or nursing&#xD;
+&#xD;
+          -  History of allergy to cinnamon, letrozole, or nicotine&#xD;
+&#xD;
+          -  Taking concomitant medications, both prescription and non-prescription (including&#xD;
+             dietary supplements/herbal products), known to alter the pharmacokinetics of either&#xD;
+             study drug or cinnamon constituents&#xD;
+&#xD;
+          -  Presence of a condition or abnormality that, in the opinion of the Investigator, would&#xD;
+             compromise the safety of the patient or the quality of the data&#xD;
+&#xD;
+          -  Recreational drug use such as amphetamines, benzodiazepines, cocaine, marijuana, MDMA,&#xD;
+             opioids, and PCP&#xD;
+&#xD;
+          -  History of intolerance to cinnamon&#xD;
+&#xD;
+          -  Out-of-range clinical laboratory value that the study physician considers&#xD;
+             participation in the study a health risk&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>64 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Mary F Paine, RPh, PhD</last_name>
+    <phone>509-358-7759</phone>
+    <email>mary.paine@wsu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Deena L Hadi, BS</last_name>
+    <phone>425-359-5470</phone>
+    <email>deena.hadi@wsu.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Washington State University College of Pharmacy and Pharmaceutical Sciences</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mary F Paine, RPh, PhD</last_name>
+      <phone>509-358-7759</phone>
+      <email>mary.paine@wsu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Mary F Paine, RPh, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Matthew Layton, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>John White, PharmD, PA-C</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Smith T, Majid F, Eckl V, and Reynolds CM (2021) Herbal Supplement Sales in US Increase by Record-Breaking 17.3% in 2020. HerbalGram 131:52-65.</citation>
+  </reference>
+  <reference>
+    <citation>Leach MJ, Kumar S. Cinnamon for diabetes mellitus. Cochrane Database Syst Rev. 2012 Sep 12;(9):CD007170. doi: 10.1002/14651858.CD007170.pub2. Review.</citation>
+    <PMID>22972104</PMID>
+  </reference>
+  <reference>
+    <citation>Chan J, Oshiro T, Thomas S, Higa A, Black S, Todorovic A, Elbarbry F, Harrelson JP. Inactivation of CYP2A6 by the Dietary Phenylpropanoid trans-Cinnamic Aldehyde (Cinnamaldehyde) and Estimation of Interactions with Nicotine and Letrozole. Drug Metab Dispos. 2016 Apr;44(4):534-43. doi: 10.1124/dmd.115.067942. Epub 2016 Feb 5.</citation>
+    <PMID>26851241</PMID>
+  </reference>
+  <reference>
+    <citation>Espiritu MJ, Chen J, Yadav J, Larkin M, Pelletier RD, Chan JM, Gc JB, Natesan S, Harrelson JP. Mechanisms of Herb-Drug Interactions Involving Cinnamon and CYP2A6: Focus on Time-Dependent Inhibition by Cinnamaldehyde and 2-Methoxycinnamaldehyde. Drug Metab Dispos. 2020 Oct;48(10):1028-1043. doi: 10.1124/dmd.120.000087. Epub 2020 Aug 12.</citation>
+    <PMID>32788161</PMID>
+  </reference>
+  <reference>
+    <citation>FDA (2020) Drug Interactions: Relevant Regulatory Guidance and Policy Documents</citation>
+  </reference>
+  <reference>
+    <citation>Paine MF, Shen DD, McCune JS. Recommended Approaches for Pharmacokinetic Natural Product-Drug Interaction Research: a NaPDI Center Commentary. Drug Metab Dispos. 2018 Jul;46(7):1041-1045. doi: 10.1124/dmd.117.079962. Epub 2018 May 7.</citation>
+    <PMID>29735755</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>December 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 15, 2021</study_first_posted>
+  <last_update_submitted>December 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>pharmacokinetics</keyword>
+  <keyword>transporters</keyword>
+  <keyword>interaction</keyword>
+  <keyword>cinnamon</keyword>
+  <keyword>letrozole</keyword>
+  <keyword>nicotine</keyword>
+  <keyword>cinnamaldehyde</keyword>
+  <keyword>cinnamomum verum</keyword>
+  <keyword>natural product</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Letrozole</mesh_term>
+    <mesh_term>Nicotine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

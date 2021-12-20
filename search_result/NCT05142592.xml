@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1426">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05142592</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IPG7236-001</org_study_id>
+    <nct_id>NCT05142592</nct_id>
+  </id_info>
+  <brief_title>IPG7236 in Patients With Advanced Solid Tumors</brief_title>
+  <official_title>A Phase 1 Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Preliminary Anti-tumor Activity of IPG7236 Administered Orally as a Single Agent in Patients With Advanced Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nanjing Immunophage Biotech Co., Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Nanjing Immunophage Biotech Co., Ltd</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 1, Multi-center, Non-randomized, Open-label, Dose-escalation, and Dose&#xD;
+      Expansion Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Preliminary&#xD;
+      Anti-tumor Activity of IPG7236 Administered Orally as a Single Agent in Patients with&#xD;
+      Advanced Solid Tumors.&#xD;
+&#xD;
+      The study will include a dose escalation phase (Part 1) and a dose expansion phase (Part 2).&#xD;
+      Each part will consist of a screening period of up to 28 days, a treatment period, an end of&#xD;
+      treatment visit and a safety follow-up of approximately 30 days after the last dose. IPG7236&#xD;
+      will be given on an empty stomach (either one hour before or two hours after a meal) twice&#xD;
+      daily (approximately every 12 hours) in continuous 28-day cycles.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 15, 2021</start_date>
+  <completion_date type="Anticipated">March 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 9, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Occurrence of all adverse events</measure>
+    <time_frame>Up to 33 days</time_frame>
+    <description>Evaluation of adverse events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum tolerated dose (MTD）</measure>
+    <time_frame>Up to 33 days</time_frame>
+    <description>MTD will be defined as the maximum dose level at which no more than 1 of 3 participants experience a dose-limiting toxicity (DLT) within the first 33days of multiple dosing.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase II dose (RP2D)</measure>
+    <time_frame>Up to 33 days</time_frame>
+    <description>The number and proportion of patients experiencing at least 1 dose-limiting toxicity (DLT) will be used as the primary measure to evaluate the RP2D of IPG7236</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Disease Control Rate(DCR)</measure>
+    <time_frame>up to 1 year(anticipated)</time_frame>
+    <description>Disease Control Rate(DCR) will be determined based on the Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximum plasma concentration（Cmax）</measure>
+    <time_frame>Up to 33 days</time_frame>
+    <description>Pharmacokinetic (PK) parameters after a single oral dose of IPG7236</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Cmax (tmax)</measure>
+    <time_frame>Up to 33 days</time_frame>
+    <description>Pharmacokinetic (PK) parameters after a single oral dose of IPG7236</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the serum concentration-time curve (AUC[0-t]</measure>
+    <time_frame>Up to 33 days</time_frame>
+    <description>Pharmacokinetic (PK) parameters after a single oral dose of IPG7236</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the serum concentration-infinity curve AUC[0-infinity]</measure>
+    <time_frame>Up to 33 days</time_frame>
+    <description>Pharmacokinetic (PK) parameters after a single oral dose of IPG7236</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Apparent terminal phase half-life (t1/2)</measure>
+    <time_frame>Up to 33 days</time_frame>
+    <description>Pharmacokinetic (PK) parameters after a single oral dose of IPG7236</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response Rate (ORR)</measure>
+    <time_frame>up to 1 year(anticipated)</time_frame>
+    <description>the proportion of patients with complete response (CR) and partial response (PR)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DoR)</measure>
+    <time_frame>up to 1 year(anticipated)</time_frame>
+    <description>the time from the date when the measurement criteria were met for complete or partial response (whichever occurred first) until the date of the first observed Progression Disease or death as a result of any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>up to 1 year(anticipated)</time_frame>
+    <description>the time the patient is enrolled to the date of any recorded disease progression or the death of any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Progression(TTP)</measure>
+    <time_frame>up to 1 year(anticipated)</time_frame>
+    <description>the time from clinical remission to disease progression.</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">196</enrollment>
+  <condition>Safety Issues</condition>
+  <condition>Tolerability</condition>
+  <condition>Pharmacokinetics</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1~6 subjects in this cohort will receive IPG7236 50 mg bid orally.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>3~6 subjects in this cohort will receive IPG7236 100 mg bid orally.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>3~6 subjects in this cohort will receive IPG7236 150 mg bid orally.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>3~6 subjects in this cohort will receive IPG7236 200 mg bid orally.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 5</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>3~6 subjects in this cohort will receive IPG7236 250 mg bid orally.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 6</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>3~6 subjects in this cohort will receive IPG7236 300 mg bid orally.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>IPG7236</intervention_name>
+    <description>The IPG7236 drug product is supplied as oral tablet dosage form, containing two strengths: 25 mg and 100 mg, respectively, which contain IPG7236.</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_label>Cohort 4</arm_group_label>
+    <arm_group_label>Cohort 5</arm_group_label>
+    <arm_group_label>Cohort 6</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. A written informed consent must be signed prior to performing any study procedures.&#xD;
+&#xD;
+          2. Male or females 18 years or older.&#xD;
+&#xD;
+          3. Diagnosis of advanced or recurrent, histologically or cytologically confirmed, a solid&#xD;
+             malignancy that is either metastatic or unresectable.&#xD;
+&#xD;
+               -  Part 1 Dose Escalation: all solid tumor types.&#xD;
+&#xD;
+               -  Part 2 Dose Expansion: the following tumor types are tentatively planned for&#xD;
+                  expansion. It may be modified based on the results from the dose escalation&#xD;
+                  phase.&#xD;
+&#xD;
+                    -  Renal cancer&#xD;
+&#xD;
+                    -  Triple-negative breast cancer&#xD;
+&#xD;
+                    -  Head and neck cancer&#xD;
+&#xD;
+                    -  Melanoma&#xD;
+&#xD;
+          4. Subjects must have failed established standard medical anti-cancer therapies for a&#xD;
+             given tumor type or have been intolerant to such therapy, or in the opinion of the&#xD;
+             Investigator have been considered ineligible for standard therapies on medical&#xD;
+             grounds.&#xD;
+&#xD;
+          5. Subjects must demonstrate measurable disease, per Response Evaluation Criteria in&#xD;
+             Solid Tumors (RECIST) v1.1.&#xD;
+&#xD;
+          6. Subjects must have a life expectancy of ≥ 3 months.&#xD;
+&#xD;
+          7. Subjects must have an Eastern Cooperative Oncology Group(ECOG) performance status&#xD;
+             score of 0 to 1.&#xD;
+&#xD;
+          8. Subjects must have adequate hematologic and organ function as indicated by the&#xD;
+             following laboratory values&#xD;
+&#xD;
+               1. Hematologic&#xD;
+&#xD;
+                    -  Absolute neutrophil count (ANC) ≥ 1.5 × 109/L.&#xD;
+&#xD;
+                    -  Platelet count ≥ 100×109/L&#xD;
+&#xD;
+                    -  Hemoglobin ≥ 9 g/dL (subjects that required transfusion or growth factor&#xD;
+                       need to demonstrate stable hemoglobin for 7 days of 9 g/dL)&#xD;
+&#xD;
+               2. Renal&#xD;
+&#xD;
+                  • Estimated glomerular filtration rate（eGFR ）≥ 50 mL/min OR serum creatinine ≤&#xD;
+                  1.5 × upper limit of normal (ULN).&#xD;
+&#xD;
+               3. Hepatic&#xD;
+&#xD;
+                    -  Aspartate aminotransferase levels ≤ 3 ×ULN (if liver metastases are present,&#xD;
+                       ≤ 5× ULN)&#xD;
+&#xD;
+                    -  Alanine aminotransferase levels ≤ 2.5 × ULN (if liver metastases are&#xD;
+                       present, ≤ 5×ULN).&#xD;
+&#xD;
+                    -  Bilirubin ≤ 1.5 × ULN&#xD;
+&#xD;
+               4. Coagulation • Prothrombin time and activated partial thromboplastin time ≤ 1.5 ×&#xD;
+                  ULN&#xD;
+&#xD;
+          9. Subjects must be able to swallow and retain orally administered medication.&#xD;
+&#xD;
+         10. Patients must be willing and able to comply with all scheduled visits, treatment,&#xD;
+             laboratory tests, be able to take oral medication, and other requirements of the study&#xD;
+&#xD;
+         11. Female patients of child-bearing potential must have a negative pregnancy test.&#xD;
+&#xD;
+         12. Female patient who is of child-bearing potential is eligible to participate but must&#xD;
+             use an acceptable form of birth control method, including abstinence, hormonal&#xD;
+             contraception for at least 3 months in combination with a barrier method, intrauterine&#xD;
+             device (placement at least 3 months prior to screening), diaphragm with spermicide,&#xD;
+             cervical cap, condoms with contraceptive gel/foam /cream, or surgical sterilization&#xD;
+             (tubal ligation at least 6 months prior to screening) or partner who had a vasectomy&#xD;
+             at least 6 months prior to screening&#xD;
+&#xD;
+         13. Male patient with a female partner of child-bearing potential is eligible to&#xD;
+             participate but must be either documented to be surgically sterile (vasectomy),&#xD;
+             practicing complete abstinence for 90 days after study drug administration, or using&#xD;
+             two adequate forms of highly effective contraception (together with the female&#xD;
+             partner), one of which should be a physical barrier method, for 90 days after the&#xD;
+             study drug administration.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subjects with primary malignancy of the central nervous system or malignancies related&#xD;
+             to human immunodeficiency virus (HIV) or solid organ transplant.&#xD;
+&#xD;
+          2. Subjects who have not recovered from all toxic effects from prior antitumor therapy or&#xD;
+             surgical procedures, defined as toxicities (other than alopecia) not yet resolved to&#xD;
+             Grade ≤ 1 according to NCI CTCAE v5.0.&#xD;
+&#xD;
+          3. Subjects with recent prior therapy defined as&#xD;
+&#xD;
+               1. Any investigational or Food and Drug Administration (FDA)-approved anti-cancer&#xD;
+                  drug within 14 days or 5 half-lives, whichever is longer, prior to the first dose&#xD;
+                  of study drug.&#xD;
+&#xD;
+               2. Any radiotherapy, chemotherapy, targeted therapy or immunotherapy within 14 days&#xD;
+                  or major surgery within 28 days or anti-neoplastic antibody or&#xD;
+                  nitrosoureas/mitomycin C within 42 days prior to the first dose of study drug&#xD;
+&#xD;
+          4. Subjects with any uncontrollable diseases (e.g., severe mental, neurological,&#xD;
+             cardiovascular, respiratory, and other systemic diseases) or obvious active infections&#xD;
+             that may affect the clinical study.&#xD;
+&#xD;
+          5. Subjects with positive Coronavirus disease（COVID）-19 PCR tests (patients who recovered&#xD;
+             from COVID-19 but have positive COVID-19 PCR tests may be included at the judgment of&#xD;
+             the Investigator)&#xD;
+&#xD;
+          6. Subjects who have received the live or attenuated vaccine within 4 weeks prior to&#xD;
+             study treatment or intend to receive a live or attenuated vaccine during the study&#xD;
+&#xD;
+          7. Presence of hepatitis B surface antigen (HBsAg) or positive hepatitis C antibody test&#xD;
+             result at screening or within 3 months prior to the first dose of study treatment.&#xD;
+             History of known HIV infection.&#xD;
+&#xD;
+             Note:&#xD;
+&#xD;
+               1. Subjects with positive Hepatitis C antibody due to prior resolved disease can be&#xD;
+                  enrolled only if a confirmatory negative Hepatitis C RNA polymerase chain&#xD;
+                  reaction (PCR) is obtained.&#xD;
+&#xD;
+               2. Subjects with well-controlled HIV may be enrolled if all the following criteria&#xD;
+                  are met:&#xD;
+&#xD;
+                    -  must be stable on their anti-retroviral regimen, and participants must be&#xD;
+                       healthy from an HIV perspective&#xD;
+&#xD;
+                    -  Participants must have a cluster of differentiation 4（CD4） count of greater&#xD;
+                       than 250 cells/micro litre（mcL ）over the past 6 months on this same&#xD;
+                       anti-retroviral regimen and must not have had a CD4 count &lt; 200 cells/mcL&#xD;
+                       over the past 2 years unless it was deemed related to THE CANCER AND/OR&#xD;
+                       CHEMOTHERAPY-induced bone marrow suppression&#xD;
+&#xD;
+                       - For patients who have received chemotherapy in the past 6 months, a CD4&#xD;
+                       count &lt; 250 cells/mcL during chemotherapy is permitted as long as viral&#xD;
+                       loads were undetectable during this same chemotherapy&#xD;
+&#xD;
+                    -  Participants must have an undetectable viral load and a CD4 count &gt;= 250&#xD;
+                       cells/mcL within 7 days of enrollment&#xD;
+&#xD;
+                    -  Participants must not be currently receiving prophylactic therapy for an&#xD;
+                       opportunistic infection and must not have had an opportunistic infection&#xD;
+                       within the past 6 months. HIV-infected patients should be monitored every 12&#xD;
+                       weeks for viral load and CD4 counts&#xD;
+&#xD;
+          8. Previous malignant disease (other than the target malignancy to be investigated in&#xD;
+             this trial) within the last 3 years. Subjects with a history of cervical carcinoma in&#xD;
+             situ, superficial or non-invasive bladder cancer or basal cell or squamous cell cancer&#xD;
+             in situ previously treated with curative intent may be included at the judgment of the&#xD;
+             Investigator.&#xD;
+&#xD;
+          9. Subjects with symptomatic or untreated leptomeningeal or brain metastases or spinal&#xD;
+             cord compression. Note: Subjects previously treated for these conditions that have had&#xD;
+             stable central nervous system (CNS) disease (verified with consecutive imaging&#xD;
+             studies) for &gt;1 month, are asymptomatic and off corticosteroids, or are on a stable&#xD;
+             dose of corticosteroids for at least 1 month prior to study Day 1 are permitted. The&#xD;
+             stability of brain metastases must be confirmed with imaging. The subject treated with&#xD;
+             gamma knife therapy can be enrolled 2 weeks post-procedure as long as there are no&#xD;
+             post procedure complications or the subject is stable.&#xD;
+&#xD;
+         10. Subjects with active upper digestive tract ulcer or other disorders that can affect&#xD;
+             drug absorption, distribution, metabolism or clearance.&#xD;
+&#xD;
+         11. Subjects with a marked baseline prolongation of QT/corrected QT interval（QTc） interval&#xD;
+             (e.g., repeated demonstration of a QTc interval &gt;480 milliseconds (CTCAE grade 1)&#xD;
+             using Fridericia QT correction formula.&#xD;
+&#xD;
+         12. Subjects using concomitant medications known to prolong the QT/QTc interval.&#xD;
+&#xD;
+         13. Pregnancy or breastfeeding female; Female patients must be surgically sterile or be&#xD;
+             postmenopausal, or must agree to the use of effective contraception during the period&#xD;
+             of therapy. All female patients with reproductive potential must have a negative&#xD;
+             pregnancy test (serum or urine) prior to enrollment. Male patients must be surgically&#xD;
+             sterile or must agree to use effective contraception during the period of therapy. The&#xD;
+             definition of effective contraception will be based on the judgment of the principal&#xD;
+             investigator or a designated associate.&#xD;
+&#xD;
+         14. Subjects who are unable to comply with study and follow-up procedures&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Zhang Qi</last_name>
+    <phone>13074800770</phone>
+    <email>qzhang@immunophage.com.cn</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>NEXT Oncology</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>12221</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andrae Vandross, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 2, 2021</study_first_posted>
+  <last_update_submitted>December 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

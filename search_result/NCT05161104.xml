@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05161104</url>
+  </required_header>
+  <id_info>
+    <org_study_id>K2021-10-001</org_study_id>
+    <nct_id>NCT05161104</nct_id>
+  </id_info>
+  <brief_title>A Multicenter Cross-sectional Study of Cardiac Ultrasound Phenotypes in Patients With Sepsis</brief_title>
+  <official_title>A Multicenter Cross-sectional Study of Cardiac Ultrasound Phenotypes in Patients With Sepsis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fujian Provincial Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Fujian Provincial Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The heart, one of the most important organs for oxygen supply and consumption, is frequently&#xD;
+      involved in sepsis, i.e. septic cardiomyopathy, also known as septic myocardial suppression.&#xD;
+      The occurrence of septic myocardial suppression increases mortality in septic patients.&#xD;
+      Recent studies have found that left ventricular hyperdynamic state (EF &gt; 70%) is associated&#xD;
+      with intra-ICU mortality in septic patients, possibly because it reflects unresolved vascular&#xD;
+      paralysis from sepsis . For septic myocardial suppression, there is still a lack of uniform&#xD;
+      criteria for diagnosis, but it is well established that the cardiac ultrasound phenotype of&#xD;
+      septic myocardial suppression can be left ventricular systolic insufficiency (LVSD), left&#xD;
+      ventricular diastolic insufficiency (LVDD), right ventricular insufficiency (RVD), diffuse&#xD;
+      ventricular insufficiency, and mixed ventricular insufficiency. According to incomplete&#xD;
+      statistics, the prevalence of LVSD ranges from 12 to 60%, the prevalence of LVDD is higher,&#xD;
+      20% to 79%, and the prevalence of RVD varies from 30% to 55%. However, based on the current&#xD;
+      understanding of septic myocardial suppression, the relationship between each staging and its&#xD;
+      prognosis is unclear, and echocardiography can rapidly identify septic myocardial suppression&#xD;
+      and guide the classification of septic myocardial suppression to further optimize the&#xD;
+      diagnosis and treatment process of sepsis, especially to avoid over-resuscitation during&#xD;
+      fluid resuscitation and perform reverse resuscitation in a timely manner to improve patient&#xD;
+      prognosis and reduce hospitalization time. The aim of this study is to classify and evaluate&#xD;
+      the prognosis of patients with different septic cardiac ultrasound phenotypes in multiple&#xD;
+      centers across China by measuring the right and left heart systolic and diastolic indices by&#xD;
+      echocardiography, recording the baseline conditions and clinical indices of patients, and&#xD;
+      combining them with the prognosis.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">November 23, 2021</start_date>
+  <completion_date type="Anticipated">November 23, 2025</completion_date>
+  <primary_completion_date type="Anticipated">November 23, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Crossover</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>in-hospital mortality</measure>
+    <time_frame>From date of randomization until the date of first documented progression or date of death from any cause, whichever came first, assessed up to 12 months</time_frame>
+    <description>Number of patient deaths divided by the total number</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>28-day mortality</measure>
+    <time_frame>From patient admission to day 28</time_frame>
+    <description>Number of patient deaths within 28 days divided by the total number</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>length of stay in the ICU</measure>
+    <time_frame>days from patient transfer to ICU to transfer out，an average of 1 week</time_frame>
+    <description>Total number of days from patient transfer to ICU to transfer out of ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>number of days of mechanical ventilation</measure>
+    <time_frame>Days the patient was mechanically ventilated until the cessation of mechanical ventilation，an average of 1 week</time_frame>
+    <description>Total number of days the patient was mechanically ventilated until the cessation of mechanical ventilation</description>
+  </secondary_outcome>
+  <number_of_groups>6</number_of_groups>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Cardiac Ultrasound Phenotypes</condition>
+  <condition>Septic Myocardial Suppression</condition>
+  <condition>Hyperdynamic State Left Ventricular Function in Sepsis Patients</condition>
+  <condition>Outcome</condition>
+  <arm_group>
+    <arm_group_label>left ventricular systolic dysfunction(LVSD)</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>left ventricular diastolic dysfunction(LVDD)</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>right ventricular dysfunction(RVD)</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>diffuse ventricular dysfunction</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>hyperdynamic state left ventricular function</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Normal</arm_group_label>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients with sepsis or septic shock who conform to Sepsis 3.0 diagnostic criteria and&#xD;
+        were more than or equal to 18 years of age who were admitted to each center were included.&#xD;
+        Sepsis was defined as an increase of ≥2 points from baseline in sequential organ failure&#xD;
+        assessment (SOFA) score due to infection; septic shock was defined as persistent&#xD;
+        hypotension on top of sepsis, requiring vasoactive drugs to maintain a mean arterial&#xD;
+        pressure(MAP) ≥65 mmHg and a blood lactate level &gt;2 mmol/L despite adequate fluid&#xD;
+        resuscitation.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - All patients with sepsis or septic shock who conform to Sepsis 3.0 diagnostic criteria&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients with preexisting chronic heart disease such as cardiomyopathy, chronic&#xD;
+             pulmonary heart disease, severe cardiac valve disease, coronary heart disease,&#xD;
+             congenital heart disease, pericardial disease, etc. and with cardiac function ≥ grade&#xD;
+             III (NYHA classification) prior to sepsis.&#xD;
+&#xD;
+          2. End-stage malignancies.&#xD;
+&#xD;
+          3. Severe trauma.&#xD;
+&#xD;
+          4. Pregnancy.&#xD;
+&#xD;
+          5. Patients for whom transthoracic echocardiography data are not available.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Fujian Provincial Hospital</name>
+      <address>
+        <city>Fuzhou</city>
+        <state>Fujian</state>
+        <zip>350000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 16, 2021</study_first_posted>
+  <last_update_submitted>December 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Fujian Provincial Hospital</investigator_affiliation>
+    <investigator_full_name>Xiuling Shang</investigator_full_name>
+    <investigator_title>Clinical Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sepsis</mesh_term>
+    <mesh_term>Toxemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

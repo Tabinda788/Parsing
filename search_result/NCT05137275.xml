@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1835">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05137275</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IBR854</org_study_id>
+    <nct_id>NCT05137275</nct_id>
+  </id_info>
+  <brief_title>Study of Anti-5T4 CAR-raNK Cell Therapy in Locally Advanced or Metastatic Solid Tumors</brief_title>
+  <official_title>Dose Escalation and Extension Study to Evaluate the Safety, Tolerability, and Initial Efficacy of Anti-5T4 CAR-raNK Cell Therapy in Locally Advanced or Metastatic Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanghai East Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Shanghai East Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a multicenter, open-label, investigator-initiated trial (IIT), divided into&#xD;
+      dose escalation (Part A) and dose extension (Part B) phases to evaluate the safety,&#xD;
+      tolerability, pharmacokinetics (PK), pharmacokinetics (PD) and initial efficacy of conjugated&#xD;
+      antibody redirecting ready-to-use allogeneic NK (CAR-raNK) cells that target trophoblast&#xD;
+      glycoprotein (5T4) in patients with locally advanced or metastatic solid tumors.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Part A is a dose escalation study to evaluate maximum toxic dose (MTD) and/or RP2D which&#xD;
+      adopts the 3+3 dose escalation design protocol. The dose is respectively 2.0 × 10^9 live&#xD;
+      cells and 3.0 × 10^9 live cells (if the safety of dose group with 3.0 × 10^9 live cells is&#xD;
+      still good, the Safety Monitoring Committee (SMC) will co-decide whether to continue the dose&#xD;
+      escalation and the specific dose based on the obtained data on safety, efficacy, and PK), and&#xD;
+      the administration is performed on day 1 and day 3 of each cycle (21 days). 3-6 subjects will&#xD;
+      be enrolled at every dose level. The first and second subjects in the same group shall be&#xD;
+      enrolled at an interval of at least 2 weeks, for the purpose of ensuring their safety. Only&#xD;
+      when the dose-limiting toxicity (DLT) of all subjects in the previous dose group was observed&#xD;
+      can the enrollment of the next dose group get started. Part B is the dose extension study.&#xD;
+      After recommended phase II dose (RP2D) is determined in Part A, the SMC will discuss whether&#xD;
+      to conduct the Part B study. This stage will be carried out in different tumor types with&#xD;
+      high expression of 5T4 antigen, and 20 to 30 subjects will be enrolled in each tumor type,&#xD;
+      and all subjects will receive anti-5T4 CAR-raNK cell therapy at RP2D level. Every 21 days is&#xD;
+      one cycle, and the administration is performed on day 1 and day 3 of each cycle.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 24, 2021</start_date>
+  <completion_date type="Anticipated">August 2022</completion_date>
+  <primary_completion_date type="Anticipated">August 2022</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Part A: Incidence of dose limiting toxicity (DLTs)</measure>
+    <time_frame>From day1 to day 21</time_frame>
+    <description>To evaluate the safety, tolerability, and determine the RP2D of Anti-5T4 CAR-raNK Cells</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part A: Number of Adverse Events (AEs)</measure>
+    <time_frame>From day 1 to day 90 after the last dose</time_frame>
+    <description>To evaluate the safety of Anti-5T4 CAR-raNK Cells</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part B: Objective response rate (ORR)</measure>
+    <time_frame>Up to 1 year after infusion</time_frame>
+    <description>To determine the anti-tumor effectivity of Anti-5T4 CAR-raNK Cells</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part B: Disease control rate (DCR)</measure>
+    <time_frame>Up to 1 year after infusion</time_frame>
+    <description>To determine the anti-tumor effectivity of Anti-5T4 CAR-raNK Cells</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part B: Duration of remission (DOR)</measure>
+    <time_frame>Up to 1 year after infusion</time_frame>
+    <description>To determine the anti-tumor effectivity of Anti-5T4 CAR-raNK Cells</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part B: Progression-free survival (PFS)</measure>
+    <time_frame>Up to 1 year after infusion</time_frame>
+    <description>To determine the anti-tumor effectivity of Anti-5T4 CAR-raNK Cells</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part B: Overall survival (OS)</measure>
+    <time_frame>Up to 1 year after infusion</time_frame>
+    <description>To determine the anti-tumor effectivity of Anti-5T4 CAR-raNK Cells</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The number of CAR-raNK cells</measure>
+    <time_frame>From day1 to day 21</time_frame>
+    <description>Blood samples will be collected at specified time points to detect the number of CAR raNK cells in peripheral blood</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cytokine release</measure>
+    <time_frame>From day1 to day 21</time_frame>
+    <description>Blood samples will be collected at specified time points to detect serum Blood samples will be collected at specified time points to detect the cytokine (IL-1β, IL-2, IL-4, IL-6, IL-10, IFN-γ, hsCRP) concentration (pg/mL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lymphocyte subtype</measure>
+    <time_frame>From day1 to day 21</time_frame>
+    <description>Blood samples will be collected at specified time points to analyze the lymphocyte subtypes (CD3, CD4, CD8, CD19, CD56).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-CAR antibodies</measure>
+    <time_frame>From day1 to day 21</time_frame>
+    <description>Blood samples will be collected at specified time points to detect anti-CAR(anti-5T4 mAb) antibodies</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">136</enrollment>
+  <condition>Locally Advanced or Metastatic Solid Tumors</condition>
+  <arm_group>
+    <arm_group_label>Anti-5T4 CAR-raNK Cells</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Anti-5T4 CAR-raNK Cells</intervention_name>
+    <description>In the 3+3 dose escalation study, the minimum initial dose is 2.0 × 10^9 cells and then escalate to 3.0× 10^9 cells. Every 21 days is one cycle, and intravenous infusion is performed on day 1 and day 3 of each cycle. In dose extension study, the initial dose will be determined by RP2D determined by the results of dose escalation study, and the other intervention methods are consistent.</description>
+    <arm_group_label>Anti-5T4 CAR-raNK Cells</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          1. Subjects volunteer to participate in this clinical study, are fully aware of the study&#xD;
+             and have signed the Informed Consent Form (ICF). Subjects are willing to follow and&#xD;
+             able to complete all trial procedures.&#xD;
+&#xD;
+          2. Age: adult at the age of 18-80 (both inclusive), female or male. Patients with&#xD;
+             advanced malignant solid tumors, histologically or cytologically confirmed, who had&#xD;
+             failed standard therapy, or had no standard therapy, or were not eligible for standard&#xD;
+             therapy at this stage; Part B: Patients with specific primary tumor types, including:&#xD;
+&#xD;
+               -  Cohort 1: Non-small cell lung cancer with disease progression or intolerance&#xD;
+                  after at least two systemic therapies; For patients with known epidermal growth&#xD;
+                  factor receptor (EGFR)-sensitive mutations, anaplastic lymphoma kinase (ALK) gene&#xD;
+                  fusion, or other driver gene positivity, progression must be followed by&#xD;
+                  appropriate targeted therapy.&#xD;
+&#xD;
+               -  Cohort 2: Breast cancer, negative for progesterone receptor (PR), estrogen&#xD;
+                  receptor (ER), and human epidermal growth factor receptor-2 (HER2), treated with&#xD;
+                  at least one systemic chemotherapy agent.&#xD;
+&#xD;
+               -  Cohort 3: Cervical cancer with disease progression or intolerance after at least&#xD;
+                  two systemic therapies.&#xD;
+&#xD;
+               -  Cohort 4: Colorectal cancer with disease progression or intolerance after at&#xD;
+                  least two systemic therapies.&#xD;
+&#xD;
+               -  Cohort 5: Renal clear cell carcinoma with disease progression or intolerance&#xD;
+                  after at least two systemic therapies and renal non-clear cell carcinoma with&#xD;
+                  progression or intolerance after one systemic therapy.&#xD;
+&#xD;
+               -  Cohort 6: Mesothelioma with progression or intolerance after at least two&#xD;
+                  systemic therapies.&#xD;
+&#xD;
+          3. Eastern Cooperative Oncology Group (ECOG) score ≤1 and expected survival time &gt; 3&#xD;
+             months.&#xD;
+&#xD;
+          4. (Part A) According to RECIST v1.1, there is at least one assessable tumor lesion;&#xD;
+             (Part B) According to RECIST v1.1, there is at least one measurable tumor lesion (a&#xD;
+             lesion within the field of previous radiation cannot be targeted unless there is&#xD;
+             radiographic evidence of progression or persistence after 3 months of radiation).&#xD;
+&#xD;
+          5. Organ function during screening should meet the following criteria:&#xD;
+&#xD;
+          6. Hematologic system (no blood transfusion or hematopoietic stimulator treatment within&#xD;
+             14 days)&#xD;
+&#xD;
+               -  Absolute neutrophil count (ANC) ≥1.5×109/L&#xD;
+&#xD;
+               -  Platelet (PLT) ≥75×109/L&#xD;
+&#xD;
+               -  Hemoglobin (Hb) ≥85g/L&#xD;
+&#xD;
+               -  Hepatic function&#xD;
+&#xD;
+               -  Total bilirubin (TBIL) ≤1.5×ULN&#xD;
+&#xD;
+               -  Alanine aminotransferase (ALT) ≤3×ULN;&#xD;
+&#xD;
+               -  Patients with liver metastasis or liver cancer: ≤5×ULN&#xD;
+&#xD;
+               -  Aspartate aminotransferase (AST) ≤3×ULN;&#xD;
+&#xD;
+               -  Patients with liver metastasis or liver cancer: ≤5×ULN Renal function&#xD;
+&#xD;
+               -  Creatinine (Cr) ≤1.5× ULN&#xD;
+&#xD;
+               -  Creatinine clearance (Ccr) (to be calculated only when Cr &gt; 1.5× ULN) &gt;&#xD;
+                  -50ml/min/1.73m2 (Cockcroft-Gault formula) Coagulation function&#xD;
+&#xD;
+               -  Activated partial thrombin time (APTT) ≤1.5×ULN&#xD;
+&#xD;
+               -  International normalized ratio (INR) ≤1.5×ULN&#xD;
+&#xD;
+          7. Subjects of reproductive age and their partners should agree to have no family&#xD;
+             planning and to use effective contraceptive methods (hormonal or barrier methods or&#xD;
+             abstinence, etc.) for 6 months from signing the ICF until the last dose of the study&#xD;
+             drug is administered; women of reproductive age must have a negative serological&#xD;
+             pregnancy test 7 days prior to their first use of the study drug.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Have received systemic antitumor therapy, including chemotherapy, immunotherapy, and&#xD;
+             radical radiotherapy, within 4 weeks prior to their first use of the study drug. The&#xD;
+             following special cases should be assessed separately:&#xD;
+&#xD;
+               -  The time of the last treatment of nitrosourea or mitomycin C is less than 6 weeks&#xD;
+                  before the first use of the study drug;&#xD;
+&#xD;
+               -  The time of last treatment of fluorouracil and small-molecule targeted drugs is&#xD;
+                  less than 2 weeks or 5 half-lives of the drug (whichever was longer) after the&#xD;
+                  first use of the study drug;&#xD;
+&#xD;
+               -  The time of the last treatment of the traditional Chinese medicine with&#xD;
+                  anti-tumor indications was less than 2 weeks after the first use of the study&#xD;
+                  drug.&#xD;
+&#xD;
+          2. Have participated in other clinical trials and received any unmarketedinvestigational&#xD;
+             drug or treatment within 4 weeks prior to first use of the study drug.&#xD;
+&#xD;
+          3. Any prior adoptive cellular immunotherapy.&#xD;
+&#xD;
+          4. Have undergone major organ surgery (excluding needle biopsy) or had significant trauma&#xD;
+             within 4 weeks prior to their first use of the study drug, or required elective&#xD;
+             surgery during the study period.&#xD;
+&#xD;
+          5. Have received systemic glucocorticoids (prednisone&gt; 10 mg/ day or an equivalent dose&#xD;
+             of another drug of the same class) or other immunosuppressants within 14 days prior to&#xD;
+             initial use of the study drug. The exceptions are: local, ocular, intraarticular,&#xD;
+             intranasal, and inhaled glucocorticoids; short-term use of glucocorticoids for&#xD;
+             prophylaxis (e.g., to prevent contrast allergy).&#xD;
+&#xD;
+          6. Have received live, attenuated, adenovirus, or messenger ribonucleic acid (mRNA)&#xD;
+             vaccines within 4 weeks prior to initial use of the study drug, or plan to receive&#xD;
+             these vaccines during the study period.&#xD;
+&#xD;
+          7. Have used immunomodulatory drugs, including but not limited to thymosin,&#xD;
+             interleukin-2, interferon, etc., within 14 days prior to their first use of study&#xD;
+             drugs.&#xD;
+&#xD;
+          8. Patients with active infection who currently require intravenous anti-infective&#xD;
+             therapy.&#xD;
+&#xD;
+          9. Active hepatitis b (HBsAg positive and hepatitis b virus (HBV) DNA&#xD;
+&#xD;
+         10. Patients with a known history of human immunodeficiency virus (HIV) infection, or&#xD;
+             other acquired, congenital immunodeficiency disease, or a history of organ&#xD;
+             transplantation.&#xD;
+&#xD;
+         11. Have active autoimmune diseases or have had autoimmune diseases that are likely to&#xD;
+             recur (e.g., systemic lupus erythematosus, rheumatoid arthritis, inflammatory bowel&#xD;
+             disease, autoimmune thyroid disease, vasculitis, psoriasis, etc.). Except in the&#xD;
+             following cases: type 1 diabetes that was well controlled with hormone replacement&#xD;
+             therapy, hypothyroidism, skin conditions that did not require systemic therapy (e.g.,&#xD;
+             vitiligo), and other conditions that were well controlled and that the investigator&#xD;
+             determined were less likely to recur (e.g., childhood asthma in remission).&#xD;
+&#xD;
+         12. Have a history of serious cardiovascular and cerebrovascular diseases, including but&#xD;
+             not limited to:&#xD;
+&#xD;
+               -  There are serious cardiac rhythm or conduction abnormalities, such as ventricular&#xD;
+                  arrhythmia, and Ⅱ-Ⅲ degree atrioventricular block, which need clinical&#xD;
+                  intervention;&#xD;
+&#xD;
+               -  The mean QT interval (QTcF) corrected by Fridericia method was &gt; 480ms;&#xD;
+&#xD;
+               -  Acute coronary syndrome, congestive heart failure, aortic dissection, stroke, or&#xD;
+                  other grade 3 or above cardiovascular and cerebrovascular events occurring within&#xD;
+                  6 months before the first administration;&#xD;
+&#xD;
+               -  Patients with heart failure or left ventricular ejection fraction (LVEF) &lt; 50% in&#xD;
+                  the New York Heart Association (NYHA) classification ≥II;&#xD;
+&#xD;
+               -  Hypertension beyond clinical control.&#xD;
+&#xD;
+         13. Previous or current interstitial lung disease (except local interstitial pneumonia&#xD;
+             induced by radiotherapy).&#xD;
+&#xD;
+         14. Adverse effects of previous antineoplastic therapy have not returned to CTCAE grade&#xD;
+             5.0 ≤1 (except for toxicity that the investigator determined to be of no safety risk,&#xD;
+             such as alopecia, grade 2 peripheral neurotoxicity, and hypothyroidism stabilized by&#xD;
+             hormone replacement therapy).&#xD;
+&#xD;
+         15. Cerebral parenchymal metastasis or meningeal metastasis with clinical symptoms were&#xD;
+             deemed unsuitable for inclusion by the investigator.&#xD;
+&#xD;
+         16. Had received immunotherapy and developed grade ≥3 immune-related adverse events&#xD;
+             (irAE).&#xD;
+&#xD;
+         17. The third interstitial effusion, which could not be controlled clinically, was judged&#xD;
+             by the investigator to be unsuitable for inclusion.&#xD;
+&#xD;
+         18. (Extension phase) had other malignant tumors in the past 5 years, excluding skin basal&#xD;
+             cell carcinoma, ductal carcinoma in situ and cervical carcinoma in situ with a radical&#xD;
+             surgery.&#xD;
+&#xD;
+         19. Pregnant or lactating women.&#xD;
+&#xD;
+         20. Have a history of alcohol or drug abuse.&#xD;
+&#xD;
+         21. Mental disorder or poor compliance.&#xD;
+&#xD;
+         22. The investigator considered that the subjects had a history of other serious systemic&#xD;
+             diseases or other reasons that made them unsuitable for the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jin Li, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Shanghai East Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jin Li, PhD</last_name>
+    <phone>13761222111</phone>
+    <email>lijin@csco.org.cn</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Shanghai East Hospital</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <reference>
+    <citation>Gras Navarro A, Björklund AT, Chekenya M. Therapeutic potential and challenges of natural killer cells in treatment of solid tumors. Front Immunol. 2015 Apr 29;6:202. doi: 10.3389/fimmu.2015.00202. eCollection 2015. Review.</citation>
+    <PMID>25972872</PMID>
+  </reference>
+  <reference>
+    <citation>Franks SE, Wolfson B, Hodge JW. Natural Born Killers: NK Cells in Cancer Therapy. Cancers (Basel). 2020 Jul 31;12(8). pii: E2131. doi: 10.3390/cancers12082131. Review.</citation>
+    <PMID>32751977</PMID>
+  </reference>
+  <reference>
+    <citation>Griffiths RW, Gilham DE, Dangoor A, Ramani V, Clarke NW, Stern PL, Hawkins RE. Expression of the 5T4 oncofoetal antigen in renal cell carcinoma: a potential target for T-cell-based immunotherapy. Br J Cancer. 2005 Sep 19;93(6):670-7.</citation>
+    <PMID>16222313</PMID>
+  </reference>
+  <reference>
+    <citation>Shaw DM, Embleton MJ, Westwater C, Ryan MG, Myers KA, Kingsman SM, Carroll MW, Stern PL. Isolation of a high affinity scFv from a monoclonal antibody recognising the oncofoetal antigen 5T4. Biochim Biophys Acta. 2000 Dec 15;1524(2-3):238-46.</citation>
+    <PMID>11113573</PMID>
+  </reference>
+  <reference>
+    <citation>Redchenko I, Harrop R, Ryan MG, Hawkins RE, Carroll MW. Identification of a major histocompatibility complex class I-restricted T-cell epitope in the tumour-associated antigen, 5T4. Immunology. 2006 May;118(1):50-7.</citation>
+    <PMID>16630022</PMID>
+  </reference>
+  <reference>
+    <citation>Stern PL, Harrop R. 5T4 oncofoetal antigen: an attractive target for immune intervention in cancer. Cancer Immunol Immunother. 2017 Apr;66(4):415-426. doi: 10.1007/s00262-016-1917-3. Epub 2016 Oct 18. Review.</citation>
+    <PMID>27757559</PMID>
+  </reference>
+  <reference>
+    <citation>Liu E, Marin D, Banerjee P, Macapinlac HA, Thompson P, Basar R, Nassif Kerbauy L, Overman B, Thall P, Kaplan M, Nandivada V, Kaur I, Nunez Cortes A, Cao K, Daher M, Hosing C, Cohen EN, Kebriaei P, Mehta R, Neelapu S, Nieto Y, Wang M, Wierda W, Keating M, Champlin R, Shpall EJ, Rezvani K. Use of CAR-Transduced Natural Killer Cells in CD19-Positive Lymphoid Tumors. N Engl J Med. 2020 Feb 6;382(6):545-553. doi: 10.1056/NEJMoa1910607.</citation>
+    <PMID>32023374</PMID>
+  </reference>
+  <reference>
+    <citation>Xia H, Wang Y, Sun HL, Gao LY, Cao Y, Zaongo SD, Zeng RN, Wu H, Zhang MJ, Ma P. Safety and efficacy of allogeneic natural killer cell immunotherapy on human immunodeficiency virus type 1 immunological non-responders: a brief report. Chin Med J (Engl). 2020 Dec 5;133(23):2803-2807. doi: 10.1097/CM9.0000000000001189.</citation>
+    <PMID>33273328</PMID>
+  </reference>
+  <reference>
+    <citation>Nagai K, Harada Y, Harada H, Yanagihara K, Yonemitsu Y, Miyazaki Y. Highly Activated Ex Vivo-expanded Natural Killer Cells in Patients With Solid Tumors in a Phase I/IIa Clinical Study. Anticancer Res. 2020 Oct;40(10):5687-5700. doi: 10.21873/anticanres.14583.</citation>
+    <PMID>32988894</PMID>
+  </reference>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>November 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 30, 2021</study_first_posted>
+  <last_update_submitted>December 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Shanghai East Hospital</investigator_affiliation>
+    <investigator_full_name>Jin Li</investigator_full_name>
+    <investigator_title>Director</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

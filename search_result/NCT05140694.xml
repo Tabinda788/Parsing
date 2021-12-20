@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1572">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05140694</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MAFLD_empa_dula</org_study_id>
+    <nct_id>NCT05140694</nct_id>
+  </id_info>
+  <brief_title>Effect of Empagliflozin and Dulaglutide on MAFLD in Patients With T2D</brief_title>
+  <official_title>A Randomized, Active-comparator Controlled, Parallel-group Study, to Evaluate the Effect of Empagliflozin and Dulaglutide on MAFLD in Patients With Type 2 Diabetes Mellitus</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Seoul National University Bundang Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Seoul National University Bundang Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The co-administration of SGLT2 inhibitor and GLP-1 receptor agonist would be safe and&#xD;
+      effective on glycemic control in subjects with type 2 diabetes mellitus and MAFLD better than&#xD;
+      empagliflozin or dulaglutide alone.&#xD;
+&#xD;
+      The SGLT2 inhibitor and GLP-1 receptor agonist would be safe and effective on fatty liver&#xD;
+      disease in subjects with type 2 diabetes mellitus and MAFLD.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2024</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes of HbA1c level</measure>
+    <time_frame>baseline, week 12, week 24</time_frame>
+    <description>HbA1c level, patients achieving the target level</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes of CAP score</measure>
+    <time_frame>baseline, week 24</time_frame>
+    <description>Controlled Attenuation Parameter (CAP) score by transient elastography</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes of LSM score</measure>
+    <time_frame>baseline, week 24</time_frame>
+    <description>Liver stiffness measurement (LSM) score by transient elastography</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes of noninvasive liver fibrosis markers</measure>
+    <time_frame>baseline, week 12, week 24</time_frame>
+    <description>Noninvasive liver fibrosis markers will be calculated at baseline and at the end of the study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes of body weight and body composition</measure>
+    <time_frame>baseline, week 24</time_frame>
+    <description>Body composition by bioelectrical impedance will be measured at baseline and at the end of the study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes of lipid levels</measure>
+    <time_frame>baseline, week 12, week 24</time_frame>
+    <description>Cholesterol level will be measured at all visit days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes of ketone levels</measure>
+    <time_frame>baseline, week 12, week 24</time_frame>
+    <description>Ketone level will be measured at all visit days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes of bone health</measure>
+    <time_frame>baseline, week 12, week 24</time_frame>
+    <description>parathyroid hormone, 25-hydroxylated vitamin will be measured at all visit days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes of liver parenchyma by ultrasonography</measure>
+    <time_frame>baseline, week 24</time_frame>
+    <description>improvement or deterioration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes of liver function parameters</measure>
+    <time_frame>baseline, week 12, week 24</time_frame>
+    <description>Liver enzymes, albumin will be measured at all visit days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes of liver fibrosis biomarkers</measure>
+    <time_frame>baseline, week 24</time_frame>
+    <description>Type IV collagen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes of inflammation biomarker</measure>
+    <time_frame>baseline, week 24</time_frame>
+    <description>high-sensitivity CRP</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes of urine markers</measure>
+    <time_frame>baseline, week 12, week 24</time_frame>
+    <description>Urinalysis will be performed at all visit days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes of gut microbiota</measure>
+    <time_frame>baseline, week 24</time_frame>
+    <description>gut microbiota composition, microbiota related to metabolic dysfunction</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">156</enrollment>
+  <condition>Metabolic-associated Fatty Liver Disease</condition>
+  <condition>Type 2 Diabetes</condition>
+  <arm_group>
+    <arm_group_label>Empagliflozin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Empagliflozin 10mg p.o. once daily (available to control over ~25mg)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dulaglutide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dulaglutide 0.75mg s.c. once weekly (available to control over ~1.5mg)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Empagliflozin and Dulagludie</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Empagliflozin 10mg p.o. once daily and dulaglutide 0.75mg s.c. once weekly</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Empagliflozin</intervention_name>
+    <description>Empagliflozin 10 mg p.o. once daily (available to control over ~25mg)</description>
+    <arm_group_label>Empagliflozin</arm_group_label>
+    <other_name>Jardiance</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dulaglutide</intervention_name>
+    <description>Dulaglutide 0.75mg s.c. once a week (available to control over ~1.5mg)</description>
+    <arm_group_label>Dulaglutide</arm_group_label>
+    <other_name>Trulicity</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Empagliflozin and Dulaglutide</intervention_name>
+    <description>Empagliflozin 10 mg p.o. once daily with Dulaglutide 0.75mg s.c. once weekly</description>
+    <arm_group_label>Empagliflozin and Dulagludie</arm_group_label>
+    <other_name>Jardiance and Trulicity</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. age 20 or over&#xD;
+&#xD;
+          2. uncontrolled HbA1c (7~10%) with metformin and/or sulfonylurea&#xD;
+&#xD;
+          3. Hepatic steatosis estimated by Fibroscan (CAP ≥258 dB/m)&#xD;
+&#xD;
+          4. MAFLD: presence of any conditions&#xD;
+&#xD;
+               1. Overweight or obese: BMI ≥23 kg/m2 (Asian)&#xD;
+&#xD;
+               2. Metabolic dysregulation: at least of two of following criteria&#xD;
+&#xD;
+                    -  Waist circumference: ≥90/80 cm in men and women (Asian)&#xD;
+&#xD;
+                    -  Blood pressure ≥130/85 mmHg or drug treatment&#xD;
+&#xD;
+                    -  Plasma triglycerides ≥150 mg/dL or drug treatment&#xD;
+&#xD;
+                    -  Plasma HDL-cholesterol &lt;40/50 mg/dL for men and women or drug treatment&#xD;
+&#xD;
+                    -  Prediabetes (i.e. fasting glucose levels 100 to 125 mg/dL or 2-hour&#xD;
+                       post-load glucose levels 140 to 199 mg/dL or HbA1c 5.7% to 6.4%&#xD;
+&#xD;
+                    -  HOMA-insulin resistance score ≥2.5&#xD;
+&#xD;
+                    -  Plasma high-sensitivity CRP &gt;2 mg/L&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Significant alcohol consumption&#xD;
+&#xD;
+          2. Other competing causes for hepatic steatosis: viral hepatitis, drug-induced hepatitis,&#xD;
+             autoimmune hepatitis, hemochromatosis, Wilson's disease, alpha1 anti-trypsin&#xD;
+             deficiency, Celiac disease, Overt hypothyroidism, other secondary causes&#xD;
+&#xD;
+          3. Type 1 diabetes mellitus&#xD;
+&#xD;
+          4. medication usage within 3 months: vitamin E, PUFA, UDCA, fish oil, SGLT2 inhibitors,&#xD;
+             GLP1-RAs, TZDs&#xD;
+&#xD;
+          5. Severe organ dysfunction&#xD;
+&#xD;
+               1. liver damage: AST/ALT &gt;x5 UNL, albumin &lt;3.2, platelet &lt;60k, Child-Pugh-Turcotte&#xD;
+                  stage B or C&#xD;
+&#xD;
+               2. kidney damage: serum creatinine ≥2.0 mg/dL or eGFR &lt;50 mL/min/1.72m2&#xD;
+&#xD;
+          6. Hepatocellular carcinoma, active tumor, or metastasis&#xD;
+&#xD;
+          7. End-stage liver disease&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Soo Lim, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Seoul National University Bundang Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Soo Lim, MD, PhD</last_name>
+    <phone>+82-31-787-7035</phone>
+    <email>limsoo@snu.ac.kr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Minji Sohn, PhD</last_name>
+    <phone>+82-31-787-8443</phone>
+    <email>rainbowmjs@naver.com</email>
+  </overall_contact_backup>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>April 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 1, 2021</study_first_posted>
+  <last_update_submitted>November 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Seoul National University Bundang Hospital</investigator_affiliation>
+    <investigator_full_name>Soo Lim</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Liver Diseases</mesh_term>
+    <mesh_term>Fatty Liver</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Empagliflozin</mesh_term>
+    <mesh_term>Dulaglutide</mesh_term>
+    <mesh_term>Immunoglobulin Fc Fragments</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

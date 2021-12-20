@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4082">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05108051</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ZSP1273-20-05</org_study_id>
+    <nct_id>NCT05108051</nct_id>
+  </id_info>
+  <brief_title>Study to Investigate the Potential Drug-Drug Interaction Between ZSP1273 and Oseltamivir</brief_title>
+  <official_title>A Phase 1, Open-Label, Three-Period, Single-center Study to Assess the Pharmacokinetic Interactions Between ZSP1273 and Oseltamivir in Healthy Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Guangdong Raynovent Biotech Co., Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Guangdong Raynovent Biotech Co., Ltd</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the drug-drug interaction between ZSP1273 and oseltamivir, the pharmacokinetic&#xD;
+      characteristics and safety of ZSP1273 and oseltamivir in healthy subjects, so as to provide a&#xD;
+      basis for the design of administration regimen in subsequent clinical trials.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">November 19, 2020</start_date>
+  <completion_date type="Actual">March 17, 2021</completion_date>
+  <primary_completion_date type="Actual">March 17, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Plasma pharmacokinetics</measure>
+    <time_frame>pre-dose and up to 72hours post-dose</time_frame>
+    <description>Tmax</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Plasma pharmacokinetics</measure>
+    <time_frame>pre-dose and up to 72hours post-dose</time_frame>
+    <description>t1/2</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Plasma pharmacokinetics</measure>
+    <time_frame>pre-dose and up to 72hours post-dose</time_frame>
+    <description>Cmax</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Plasma pharmacokinetics</measure>
+    <time_frame>pre-dose and up to 72hours post-dose</time_frame>
+    <description>AUC0-∞</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Plasma pharmacokinetics</measure>
+    <time_frame>pre-dose and up to 72hours post-dose</time_frame>
+    <description>CL/F</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of treatment-emergent adverse events (TEAEs) and Serious Adverse Events(SAE)</measure>
+    <time_frame>up to 37days</time_frame>
+    <description>TEAEs will be summarized displaying the number of TEAEs along with the number and percentage of participants with at least one TEAE according to: Number of AEs, Severity and relation to study drug.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">36</enrollment>
+  <condition>Drug-drug Interaction</condition>
+  <arm_group>
+    <arm_group_label>sequence 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Period 1: study of ZSP1273's pharmacokinetics at steady state； Period 2: study of Oseltamivir's pharmacokineticsat at steady state； Period 3: study of ZSP1273's pharmacokinetics under Oseltamivir at steady state.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>sequence 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Period 1: study of Oseltamivir's pharmacokineticsat at steady state; Period 2: study of ZSP1273's pharmacokinetics under Oseltamivir at steady state; Period 3: study of ZSP1273's pharmacokinetics at steady state.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>sequence 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Period 1: study of ZSP1273's pharmacokinetics under Oseltamivir at steady state; Period 2: study of ZSP1273's pharmacokinetics at steady state; Period 3: study of Oseltamivir's pharmacokineticsat at steady state.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ZSP1273</intervention_name>
+    <description>ZSP1273 tablets 600mg administered orally once daily</description>
+    <arm_group_label>sequence 1</arm_group_label>
+    <arm_group_label>sequence 2</arm_group_label>
+    <arm_group_label>sequence 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Oseltamivir</intervention_name>
+    <description>Oseltamivir 75mg administered orally twice daily</description>
+    <arm_group_label>sequence 1</arm_group_label>
+    <arm_group_label>sequence 2</arm_group_label>
+    <arm_group_label>sequence 3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Males and female subjects between 18-45 years (Both inclusive);&#xD;
+&#xD;
+          -  Body weight is no less than 50kg in males and no less than 45kg in females.Body mass&#xD;
+             index (BMI) 18~26 kg/m2 (Both inclusive); BMI is determined by the following equation:&#xD;
+             BMI = weight/height2 (kg/m2);&#xD;
+&#xD;
+          -  Subjects (including partners) are willing to voluntarily use effective contraception&#xD;
+             from screening to 3 months after the last study drug administration.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Known history of allergic constitution (multiple drugs especially with ZSP1273 or&#xD;
+             oseltamivir and its preparation of the main ingredient allergy, food allergy);&#xD;
+&#xD;
+          -  Subjects who donated blood or bleeding profusely(&gt; 450 mL)in the 3 months preceding&#xD;
+             study screening;&#xD;
+&#xD;
+          -  History or presence of any disease or condition known to increase the risk of&#xD;
+             bleeding, eg.hemorrhoids, acute gastritis or gastric and duodenal ulcer, etc;&#xD;
+&#xD;
+          -  Use of any prescription or over-the-counter (OTC) medications, vitamins and herbal&#xD;
+             within 14 days prior to screening;&#xD;
+&#xD;
+          -  Concomitant therapy with any drugs with known hepatic enzyme-inducing or inhibiting&#xD;
+             agents that may change the activity of drug metabolic enzymes ，is intended to be taken&#xD;
+             in combination 28 days prior to screening or during the study period；&#xD;
+&#xD;
+          -  Participated in another clinical research study or received any investigational&#xD;
+             products within 3 months prior to dosing;&#xD;
+&#xD;
+          -  Presence of clinically significant abnormalities in ECG , QTcB&gt;450ms in males,or&#xD;
+             QTcB&gt;470ms in females;&#xD;
+&#xD;
+          -  Any of the following diseases (including but not limited to gastrointestinal, renal,&#xD;
+             liver, neurological, hematological, endocrine, tumor, pulmonary, immune, psychiatric&#xD;
+             or cardiovascular and cerebrovascular diseases) that are clinically significant in&#xD;
+             clinical laboratory examination or other clinical findings within 6 months prior to&#xD;
+             screening;&#xD;
+&#xD;
+          -  Breast-feeding women or those with positive pregnancy test results;&#xD;
+&#xD;
+          -  Subjects who should not be included in the study in the opinion of the Investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Guangdong Provincial Hospital of Chinese Medicine</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 4, 2021</study_first_posted>
+  <last_update_submitted>October 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Oseltamivir</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

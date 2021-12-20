@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1008">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05148026</url>
+  </required_header>
+  <id_info>
+    <org_study_id>3732</org_study_id>
+    <nct_id>NCT05148026</nct_id>
+  </id_info>
+  <brief_title>Regional Citrate Anticoagulation for RRT During V-V ECMO</brief_title>
+  <acronym>ARTECMO</acronym>
+  <official_title>Regional Citrate Anticoagulation for Continuous Renal Replacement Therapy During Veno-venous ECMO: a Crossover Randomized Controlled Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Milano Bicocca</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Milano Bicocca</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Anticoagulation is an essential component of all extracorporeal therapies. Currently&#xD;
+      locoregional citrate anticoagulation is the recommended technique for continuous renal&#xD;
+      replacement therapy (CRRT).&#xD;
+&#xD;
+      However, low clearance of citrate restricts its use to blood flow up to 150 mL/min,&#xD;
+      preventing its use in ECMO.&#xD;
+&#xD;
+      Renal replacement therapy (RRT) is commonly provided to ECMO patients with AKI. In presence&#xD;
+      of systemic heparinization for ECMO, additional anticoagulation for the CRRT circuit (i.e.&#xD;
+      RCA) is usually not employed.&#xD;
+&#xD;
+      Nevertheless, thrombosis occurs more frequently in the CRRT circuit than the oxygenator&#xD;
+      because of the slower blood flow.&#xD;
+&#xD;
+      The aim of this prospective, cross-over study is to assess, in patients undergoing CRRT&#xD;
+      during veno-venous ECMO (vv-ECMO), the efficacy and safety of adding regional citrate&#xD;
+      anticoagulation (RCA) for CRRT circuit anticoagulation.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 14, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of CRRT circuit clotting according to anticoagulation regimen</measure>
+    <time_frame>According to the manufacturer recommendation elective RRT circuit replacement will be performed after 72 hours of circuit life.</time_frame>
+    <description>Rate of clotting in the intervention group (RCA+UFH) vs controls (UFH). I.e. : did the circuit clot in its 72h life?</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>CRRT circuit &quot;survival&quot; analysis</measure>
+    <time_frame>According to the manufacturer recommendation elective RRT circuit replacement will be performed after 72 hours of circuit life.</time_frame>
+    <description>&quot;Circuit life&quot; of RRT circuits in the intervention group (RCA+UFH) vs controls (UFH), comparison between groups will be performed as time to event(clotting) by log-rank test and described by the kaplan meier approach. Circuit replacement for other reasons (e.g. transfer to radiology to undergo a CT scan) will be right censored</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of platelets count, D-dimers, fibrinogen</measure>
+    <time_frame>72 hours for each circuit</time_frame>
+    <description>Comparison of lab values of blood sampled during intervention (RCA+UFH) vs control (UFH). Values will be compared as absolute value and as a difference compared to each circuit baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of citrate anticoagulation side-effects</measure>
+    <time_frame>72 hours for each circuit</time_frame>
+    <description>Total to ionized calcium ratio (marker of citrate accumulation), rate of hypersodiemia and alkalosis will be compared between intervention (RCA+UFH) and control (UFH)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the anticoagulation effects of UFH and RCA</measure>
+    <time_frame>72 hours for each circuit</time_frame>
+    <description>TEG analysis of blood samples with UFH vs UFH+RCA effect will be compared. Specifically, TEG R-time will be compared in blood sampled from circuit anti-coagulated with RCA+UFH vs UFH only</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>ARDS, Human</condition>
+  <condition>Acute Kidney Injury</condition>
+  <arm_group>
+    <arm_group_label>Anticoagulation sequence 1 (UFH+ RCA)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>UFH+ RCA first</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Anticoagulation sequence 2 (UFH)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>UFH first</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Unfractionated heparin + RCA first</intervention_name>
+    <description>Patients are randomized to receive this sequence of anticoagulation regimens: UFH+RCA / UFH / UFH+RCA / UFH / UFH+RCA / UFH</description>
+    <arm_group_label>Anticoagulation sequence 2 (UFH)</arm_group_label>
+    <other_name>Start with CVVHD, BF 100-120 ml/min, dialysate 2000 ml/h, RCA + systemic anticoagulation</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Unfractionated heparin first</intervention_name>
+    <description>Patients are randomized to receive this sequence of anticoagulation regimens: UFH / UFH+RCA / UFH / UFH+RCA / UFH / UFH+RCA</description>
+    <arm_group_label>Anticoagulation sequence 1 (UFH+ RCA)</arm_group_label>
+    <other_name>Start with CVVHD, BF 200 ml/h, dialysate 2000 ml/h, systemic anticoagulation only</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients admitted in ICU&#xD;
+&#xD;
+          -  V-V ECMO support for acute respiratory failure&#xD;
+&#xD;
+          -  CRRT therapy for acute kidney injury&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Pre-existing coagulation disorders&#xD;
+&#xD;
+          -  Contraindication to heparin or citrate anticoagulation&#xD;
+&#xD;
+          -  Moribund patients&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Marco Giani</last_name>
+    <phone>+390392333666</phone>
+    <email>marco.giani@unimib.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>ASST MONZA-Rianimazione Generale</name>
+      <address>
+        <city>Monza</city>
+        <zip>20900</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marco Giani</last_name>
+      <phone>+39 0392333666</phone>
+      <email>marco.giani@unimib.it</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <results_reference>
+    <citation>Zarbock A, Küllmar M, Kindgen-Milles D, Wempe C, Gerss J, Brandenburger T, Dimski T, Tyczynski B, Jahn M, Mülling N, Mehrländer M, Rosenberger P, Marx G, Simon TP, Jaschinski U, Deetjen P, Putensen C, Schewe JC, Kluge S, Jarczak D, Slowinski T, Bodenstein M, Meybohm P, Wirtz S, Moerer O, Kortgen A, Simon P, Bagshaw SM, Kellum JA, Meersch M; RICH Investigators and the Sepnet Trial Group. Effect of Regional Citrate Anticoagulation vs Systemic Heparin Anticoagulation During Continuous Kidney Replacement Therapy on Dialysis Filter Life Span and Mortality Among Critically Ill Patients With Acute Kidney Injury: A Randomized Clinical Trial. JAMA. 2020 Oct 27;324(16):1629-1639. doi: 10.1001/jama.2020.18618.</citation>
+    <PMID>33095849</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Giani M, Scaravilli V, Stefanini F, Valsecchi G, Rona R, Grasselli G, Bellani G, Pesenti AM, Foti G. Continuous Renal Replacement Therapy in Venovenous Extracorporeal Membrane Oxygenation: A Retrospective Study on Regional Citrate Anticoagulation. ASAIO J. 2020 Mar;66(3):332-338. doi: 10.1097/MAT.0000000000001003.</citation>
+    <PMID>31045918</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Shum HP, Kwan AM, Chan KC, Yan WW. The use of regional citrate anticoagulation continuous venovenous hemofiltration in extracorporeal membrane oxygenation. ASAIO J. 2014 Jul-Aug;60(4):413-8. doi: 10.1097/MAT.0000000000000085.</citation>
+    <PMID>24727536</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Schilder L, Nurmohamed SA, Bosch FH, Purmer IM, den Boer SS, Kleppe CG, Vervloet MG, Beishuizen A, Girbes AR, Ter Wee PM, Groeneveld AB; CASH study group. Citrate anticoagulation versus systemic heparinisation in continuous venovenous hemofiltration in critically ill patients with acute kidney injury: a multi-center randomized clinical trial. Crit Care. 2014 Aug 16;18(4):472. doi: 10.1186/s13054-014-0472-6.</citation>
+    <PMID>25128022</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Stucker F, Ponte B, Tataw J, Martin PY, Wozniak H, Pugin J, Saudan P. Efficacy and safety of citrate-based anticoagulation compared to heparin in patients with acute kidney injury requiring continuous renal replacement therapy: a randomized controlled trial. Crit Care. 2015 Mar 18;19:91. doi: 10.1186/s13054-015-0822-z.</citation>
+    <PMID>25881975</PMID>
+  </results_reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 8, 2021</study_first_posted>
+  <last_update_submitted>November 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Milano Bicocca</investigator_affiliation>
+    <investigator_full_name>Marco Giani</investigator_full_name>
+    <investigator_title>Research Collaborator</investigator_title>
+  </responsible_party>
+  <keyword>Extracorporeal Membrane Oxygenation</keyword>
+  <keyword>Acute Kidney Injury</keyword>
+  <keyword>ARDS</keyword>
+  <keyword>Renal Replacement Therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome</mesh_term>
+    <mesh_term>Acute Kidney Injury</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heparin</mesh_term>
+    <mesh_term>Calcium heparin</mesh_term>
+    <mesh_term>Dialysis Solutions</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

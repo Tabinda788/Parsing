@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2688">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05126173</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DERM-006</org_study_id>
+    <nct_id>NCT05126173</nct_id>
+  </id_info>
+  <brief_title>DERM US and EU Validation Study</brief_title>
+  <official_title>A Clinical Validation Study to Demonstrate the Effectiveness of an Artificial Intelligence Algorithm (DERM) to Identify Skin Cancer in Patients Undergoing a Skin Biopsy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Skin Analytics Limited</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Skin Analytics Limited</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims establish the effectiveness of Image Analysing Algorithm (DERM) to identify&#xD;
+      melanoma, Squamous Cell Carcinoma (SCC) and Basal Cell Carcinoma (BCC) when used to analyse&#xD;
+      dermoscopic images of skin lesions within the US and European population.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 15, 2021</start_date>
+  <completion_date type="Anticipated">May 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Sensitivity of DERM to detect &quot;Malignant conditions&quot;</measure>
+    <time_frame>Through study completion, on average of 1 day</time_frame>
+    <description>Sensitivity of DERM to detect Melanoma, SCC and BCC combined</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Specificity of DERM to detect Malignant conditions.</measure>
+    <time_frame>Through study completion, on average of 1 day</time_frame>
+    <description>Specificity of DERM to detect Melanoma, SCC and BCC combined</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Sensitivity of DERM to detect Melanoma</measure>
+    <time_frame>Through study completion, on average of 1 day</time_frame>
+    <description>Sensitivity of DERM to detect Melanoma</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Specificity of DERM to detect Melanoma</measure>
+    <time_frame>Through study completion, on average of 1 day</time_frame>
+    <description>Specificity of DERM to detect Melanoma</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sensitivity of DERM to detect Squamous Cell Carcinoma</measure>
+    <time_frame>Through study completion, on average of 1 day</time_frame>
+    <description>Sensitivity of DERM to correctly classify SCC</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Specificity of DERM to detect Squamous Cell Carcinoma</measure>
+    <time_frame>Through study completion, on average of 1 day</time_frame>
+    <description>Specificity of DERM to correctly classify SCC</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sensitivity of DERM to detect Basal Cell Carcinoma</measure>
+    <time_frame>Through study completion, on average of 1 day</time_frame>
+    <description>Sensitivity of DERM to correctly classify BCC</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Specificity of DERM to detect Basal Cell Carcinoma</measure>
+    <time_frame>Through study completion, on average of 1 day</time_frame>
+    <description>Specificity of DERM to correctly classify BCC</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Accuracy of mole/not mole algorithm</measure>
+    <time_frame>Through study completion, on average of 1 day</time_frame>
+    <description>Accuracy of mole/not mole algorithm</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Diagnostic accuracy measures</measure>
+    <time_frame>Through study completion, on average of 1 day</time_frame>
+    <description>AUROC, sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV) etc. of DERM to detect melanoma, SCC, BCC, premalignant, and benign conditions grouped and individually</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Probability that the most probable lesion label DERM returns matches the lesion diagnosis</measure>
+    <time_frame>Through study completion, on average of 1 day</time_frame>
+    <description>Probability that the alternative classification label DERM that returns, matches the lesion diagnosis</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>The impact of patient characteristics on the diagnostic accuracy of DERM</measure>
+    <time_frame>Through study completion, on average of 1 day</time_frame>
+    <description>Such as sex, age, and Fitzpatrick skin type</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>The impact of lesions characteristic on the diagnostic accuracy of DERM</measure>
+    <time_frame>Through study completion, on average of 1 day</time_frame>
+    <description>Such as location, size, growth, stage and sub-type</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>AUROC of DERM to identify malignant conditions for each individual camera / lens type</measure>
+    <time_frame>Through study completion, on average of 1 day</time_frame>
+    <description>AUROC of DERM to identify malignant conditions for each individual camera / lens type</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Concordance of DERM results by each individual camera / lens type</measure>
+    <time_frame>Through study completion, on average of 1 day</time_frame>
+    <description>Concordance of DERM results by each individual camera / lens type</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Strength of association between correct classification and acceptance/rejection status of images</measure>
+    <time_frame>Through study completion, on average of 1 day</time_frame>
+    <description>Strength of association between correct classification and acceptance/rejection status of images</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>AUROC of DERM when macro images are used both to train the algorithm and as test images</measure>
+    <time_frame>Through study completion, on average of 1 day</time_frame>
+    <description>AUROC of DERM when macro images are used both to train the algorithm and as test images</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Correlation between clinician assessment of likelihood of skin cancer with histopathology diagnosis</measure>
+    <time_frame>Through study completion, on average of 1 day</time_frame>
+    <description>Correlation between clinician assessment of likelihood of skin cancer with histopathology diagnosis</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Percentage of images taken that are rejected by the IQ check (MoleNotMole + Image Quality), where a second image is successfully taken</measure>
+    <time_frame>Through study completion, on average of 1 day</time_frame>
+    <description>Percentage of images taken that are rejected by the IQ check (MoleNotMole + Image Quality), where a second image is successfully taken</description>
+  </other_outcome>
+  <enrollment type="Anticipated">1200</enrollment>
+  <condition>Malignant Skin Melanoma T0</condition>
+  <condition>Basal Cell Carcinoma</condition>
+  <condition>Squamous Cell Carcinoma</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Deep Ensemble for the Recognition of Malignancy (DERM)</intervention_name>
+    <description>An AI-based diagnosis support tool</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients attending a dermatology clinic with at least one skin lesion that will be biopsied&#xD;
+        due to a suspicion of skin cancer will be eligible for the study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Willing and able to give informed consent for participation in the study,&#xD;
+&#xD;
+          -  Male or Female, aged 18 years or above,&#xD;
+&#xD;
+          -  Have at least one suitable skin lesion that will be biopsied due to a suspicion of&#xD;
+             skin cancer,&#xD;
+&#xD;
+        To be suitable for inclusion, a skin lesion must NOT have ANY of the following limitations:&#xD;
+&#xD;
+        located on an anatomical site of different skin structure: palms of hands or soles of feet&#xD;
+        (acral lesion), mucosal surfaces (lips and eyes) or under nail (ungal lesion), a diameter&#xD;
+        greater than the diameter of the dermoscopic lenses, located on an anatomical site&#xD;
+        unsuitable for photographing, including on surface of genitals and hair-bearing areas, has&#xD;
+        been previously biopsied, excised, treated or otherwise traumatised, located in an area of&#xD;
+        visible scarring or tattooing.&#xD;
+&#xD;
+        - In the Investigator's opinion, able and willing to comply with all study requirements.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any other significant disease or disorder which, in the opinion of the Investigator,&#xD;
+             may either put the participant at risk because of participation in the study, or may&#xD;
+             influence the result of the study, or the participant's ability to participate in the&#xD;
+             study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Clinical Research Director</last_name>
+    <phone>+44 020 8064 1967</phone>
+    <email>support@skinanalytics.co.uk</email>
+  </overall_contact>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 18, 2021</study_first_posted>
+  <last_update_submitted>November 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Basal Cell</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

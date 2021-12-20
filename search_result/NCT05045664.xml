@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8879">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05045664</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-000362-15</org_study_id>
+    <nct_id>NCT05045664</nct_id>
+  </id_info>
+  <brief_title>Early Stage Follicular LymphOma and RadioTherapy PLUS Anti-CD20 Antibody</brief_title>
+  <acronym>FORTplus</acronym>
+  <official_title>Early Stage Follicular LymphOma and RadioTherapy PLUS Anti-CD20 Antibody</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Heidelberg University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Heidelberg University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The MIR study proved the effect of Rituximab in combination with a localized irradiation&#xD;
+      given in a standard dose. Together with the TROG 99.03 trial, this led to the recommendation&#xD;
+      of using this combined approach in early stage nodal follicular lymphoma. The GAZAI study is&#xD;
+      currently looking for the effect of a low dose radiotherapy of 2x2 Gy in combination with&#xD;
+      Obinutuzumab. The combination seems to show a high CR rate based on the 50% of the patients.&#xD;
+      This is in contrast to the FORT trial, which showed an inferiority of the 4 Gy dose compared&#xD;
+      to the standard dose (24 Gy) in terms of response and progression free survival.&#xD;
+&#xD;
+      The goal of the FORTplus trial is to prove (1) the non-inferiority of LDRT (4Gy) in a&#xD;
+      combined approach with an anti-CD20-antibody. In case of non-inferiority, a possible (2)&#xD;
+      superiority of the Obinutuzumab + LDRT should be tested against Rituximab + standard dose&#xD;
+      using the same test set.&#xD;
+&#xD;
+      The radiation dose can significantly be reduced to 16% of the standard dose if (1) is&#xD;
+      confirmed. Knowing the data of the FORT trial, this would have a significant influence on the&#xD;
+      treatment of the disease worldwide even if the difference in the CR rate at week 18 is not as&#xD;
+      high as currently in the historical comparison expected.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2029</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2026</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Controlled, open, randomised, 2 parallel groups, multi-centre, national, treatment phase III trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Morphologic complete response</measure>
+    <time_frame>Week 18</time_frame>
+    <description>Rate of morphologic complete response based on CT scan in patients with initially remaining lymphoma</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Metabolic complete response</measure>
+    <time_frame>week 18</time_frame>
+    <description>Rate of metabolic complete response based on FDG PET in patients with initially remaining lymphoma</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Morphologic response</measure>
+    <time_frame>Month 6</time_frame>
+    <description>Morphologic CR in patients with initially remaining lymphoma</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PFS</measure>
+    <time_frame>2 years</time_frame>
+    <description>Progression-free survival (PFS) of each treatment arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Toxicity</measure>
+    <time_frame>until month 30</time_frame>
+    <description>Toxicity (NCI-CTC criteria, version 5) of all patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>2 years</time_frame>
+    <description>Overall survival (OS) of each treatment arm</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Early Stage Follicular Lymphoma WHO Grade 1/2 or 3a</condition>
+  <arm_group>
+    <arm_group_label>Standard</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Standard dose (24 Gy) involved site radiotherapy plus Rituximab</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>ow-dose (4 Gy) involved site radiotherapy in combination with Obinutuzumab</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Standard</intervention_name>
+    <description>12 x 2 Gy involved site radiotherapy plus Rituximab</description>
+    <arm_group_label>Standard</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Experimental</intervention_name>
+    <description>2 x2 Gy involved site radiotherapy plus Obinutuzumab</description>
+    <arm_group_label>Experimental</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard</intervention_name>
+    <description>Rituximab with 12 x 2 Gy involved site radiotherapy</description>
+    <arm_group_label>Standard</arm_group_label>
+    <other_name>Rituximab</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Experimental</intervention_name>
+    <description>Obinutuzumab with 2 x2 Gy involved site radiotherapy</description>
+    <arm_group_label>Experimental</arm_group_label>
+    <other_name>Obinutuzumab</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  • Centrally reviewed CD20-positive follicular lymphoma grade 1/2 or 3a based on WHO&#xD;
+             classification (2008)&#xD;
+&#xD;
+               -  Untreated (radiation-, chemo- or immunotherapy) nodal follicular lymphoma&#xD;
+                  (including involvement of Waldeyer´s ring)&#xD;
+&#xD;
+               -  Age: ≥18 years&#xD;
+&#xD;
+               -  ECOG: 0-2&#xD;
+&#xD;
+               -  Stage: clinical stage I or II (Ann Arbor classification) based on FDG-PET Staging&#xD;
+&#xD;
+               -  Risk profile: Largest diameter of the lymphoma ≤ 7 cm (sectional images)&#xD;
+&#xD;
+               -  Written informed consent and willingness to cooperate during the course of the&#xD;
+                  trial&#xD;
+&#xD;
+               -  Adequate bone marrow capacity: ANC ≥ 1.5 x 103/ml, thrombocytes ≥ 100000 x 10&#xD;
+                  3/ml, hemoglobin ≥ 10 g/dL&#xD;
+&#xD;
+               -  Capability to understand the intention and the consequences of the clinical trial&#xD;
+&#xD;
+               -  Adequate contraception for men and women of child-bearing age during therapy and&#xD;
+                  18 months thereafter&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Extra nodal manifestation of follicular lymphoma&#xD;
+&#xD;
+          -  Secondary cancer in the patient's medical history (exclusion: basalioma, spinalioma,&#xD;
+             melanoma in situ, bladder cancer T1a, non-metastasized solid tumor in constant&#xD;
+             remission, which was diagnosed &gt;3 years ago)&#xD;
+&#xD;
+          -  Serious disease interfering with a regular therapy according to the study protocol,&#xD;
+             e.g: congenital or acquired immune-deficiency syndromes, active infections including&#xD;
+             viral hepatitis, uncontrolled concomitant diseases including significant&#xD;
+             cardiovascular or pulmonary disease&#xD;
+&#xD;
+          -  Severe psychiatric disease&#xD;
+&#xD;
+          -  Pregnancy / lactation&#xD;
+&#xD;
+          -  Known hypersensitivity against Obinutuzumab or Rituximab drugs with similar chemical&#xD;
+             structure or any other additive of the pharmaceutical formula of the study drug&#xD;
+&#xD;
+          -  Active hepatitis B infection (inactive hepatitis B infections require additional&#xD;
+             prophylactic anti-viral medication for 1 year (e.g. Lamivudin, Entecavir, Tenofovir)&#xD;
+&#xD;
+          -  Participation in another interventional trial or follow-up period of a competing trial&#xD;
+             which can influence the results of this current trial&#xD;
+&#xD;
+          -  Creatinine &gt; 1.5 times the upper limit of normal (ULN) (unless creatinine clearance&#xD;
+             normal), or calculated creatinine clearance &lt; 40 mL/min&#xD;
+&#xD;
+          -  AST or ALT &gt; 2.5 × ULN&#xD;
+&#xD;
+          -  Total bilirubin ≥ 1.5 × ULN&#xD;
+&#xD;
+          -  INR &gt; 1.5 × ULN&#xD;
+&#xD;
+          -  PTT or aPTT &gt; 1.5 × the ULN&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Klaus Herfarth, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Heidelberg University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Klaus Herfarth, MD</last_name>
+    <phone>+496221568202</phone>
+    <email>klaus.herfarth@med.uni-heidelberg.de</email>
+  </overall_contact>
+  <reference>
+    <citation>König L, Dreyling M, Dürig J, Engelhard M, Hohloch K, Viardot A, Witzens-Harig M, Kieser M, Klapper W, Pott C, Herfarth K. Therapy of nodal Follicular Lymphoma (WHO grade 1/2) in clinical stage I/II using response adapted Involved Site Radiotherapy in combination with Obinutuzumab (Gazyvaro) - GAZAI Trial (GAZyvaro and response adapted Involved-site Radiotherapy): a study protocol for a single-arm, non-randomized, open, national, multi-center phase II trial. Trials. 2019 Aug 30;20(1):544. doi: 10.1186/s13063-019-3614-y.</citation>
+    <PMID>31470902</PMID>
+  </reference>
+  <reference>
+    <citation>Hoskin PJ, Kirkwood AA, Popova B, Smith P, Robinson M, Gallop-Evans E, Coltart S, Illidge T, Madhavan K, Brammer C, Diez P, Jack A, Syndikus I. 4 Gy versus 24 Gy radiotherapy for patients with indolent lymphoma (FORT): a randomised phase 3 non-inferiority trial. Lancet Oncol. 2014 Apr;15(4):457-63. doi: 10.1016/S1470-2045(14)70036-1. Epub 2014 Feb 24.</citation>
+    <PMID>24572077</PMID>
+  </reference>
+  <results_reference>
+    <citation>Herfarth K, Borchmann P, Schnaidt S, Hohloch K, Budach V, Engelhard M, Viardot A, Engenhart-Cabillic R, Keller U, Reinartz G, Eich HT, Witzens-Harig M, Hess CF, Dörken B, Dürig J, Wiegel T, Hiddemann W, Hoster E, Pott C, Dreyling M. Rituximab With Involved Field Irradiation for Early-stage Nodal Follicular Lymphoma: Results of the MIR Study. Hemasphere. 2018 Nov 30;2(6):e160. doi: 10.1097/HS9.0000000000000160. eCollection 2018 Dec.</citation>
+    <PMID>31723798</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Hoskin P, Popova B, Schofield O, Brammer C, Robinson M, Brunt AM, Madhavan K, Illidge T, Gallop-Evans E, Syndikus I, Clifton-Hadley L, Kirkwood AA. 4 Gy versus 24 Gy radiotherapy for follicular and marginal zone lymphoma (FoRT): long-term follow-up of a multicentre, randomised, phase 3, non-inferiority trial. Lancet Oncol. 2021 Mar;22(3):332-340. doi: 10.1016/S1470-2045(20)30686-0. Epub 2021 Feb 1.</citation>
+    <PMID>33539729</PMID>
+  </results_reference>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>August 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 16, 2021</study_first_posted>
+  <last_update_submitted>September 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Heidelberg University</investigator_affiliation>
+    <investigator_full_name>Klaus Herfarth, MD</investigator_full_name>
+    <investigator_title>Vice Chair, Department of Radiation Oncology</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Follicular</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Obinutuzumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

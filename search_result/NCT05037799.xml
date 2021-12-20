@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9484">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05037799</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RUBY-DOSE</org_study_id>
+    <nct_id>NCT05037799</nct_id>
+  </id_info>
+  <brief_title>Dose Optimization for Rubidium PET Imaging in Patients With Known or Suspected Ischemic Heart Disease</brief_title>
+  <acronym>RUBY-DOSE</acronym>
+  <official_title>Optimization of Image Quality for Myocardial Perfusion Imaging With Rubidium-82 PET in Patients With Known or Suspected Ischemic Heart Disease (RUBY-DOSE)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ottawa Heart Institute Research Corporation</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Jubilant DraxImage Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Ottawa Heart Institute Research Corporation</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Selection of the appropriate administered activity for each patient's body habitus is very&#xD;
+      important to obtain diagnostic image quality. Current SPECT imaging guidelines suggest &quot;…an&#xD;
+      effort to tailor the administered activity to the patient's habitus and imaging equipment&#xD;
+      should be made… [however] strong evidence supporting one particular weight-based dosing&#xD;
+      scheme does not exist.&quot; An increase in body weight leads to higher fractions of attenuated&#xD;
+      and scattered photons, resulting in lower quality PET images for a given injected activity.&#xD;
+      Weight-based tracer dosing is commonly recommended as a solution in whole-body PET imaging&#xD;
+      with F-18-FDG. In contrast, Rb-82 PET imaging has traditionally been performed using a single&#xD;
+      dose (e.g. 40 mCi) administered for all patients but this is known to result in lower&#xD;
+      count-density and image quality in larger patients. This effect can be mitigated to some&#xD;
+      degree by administration of Rb-82 activity as a proportion of body weight while maintaining&#xD;
+      accuracy for the detection of disease.&#xD;
+&#xD;
+      The objective of this project is to determine whether Rb-82 activity administered as a&#xD;
+      squared function of patient weight (quadratic dosing) can standardize PET myocardial&#xD;
+      perfusion image quality over a wide range of body weights.&#xD;
+&#xD;
+      Sequential patients referred for dipyridamole stress Rb-82 PET perfusion imaging at the&#xD;
+      University of Ottawa Heart Institute. Patients will be divided into 4 weight groups to&#xD;
+      determine if there are significance differences in image quality or accuracy of injected&#xD;
+      Rb-82 activity between patients.&#xD;
+&#xD;
+      Twelve (12) patients will be recruited in each of the 4 weight groups (3 in each 10 kg&#xD;
+      interval) to uniformly sample the full range of patient weights from 30 to 190 kg. Based on&#xD;
+      the previous oncology PET literature image quality is not expected to change as a function of&#xD;
+      weight, i.e. SNR and CNR will be proportional to weight0 (no weight-dependence) with&#xD;
+      quadratic dosing of Rb-82. Two operators will perform the PET image analysis as described&#xD;
+      above.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background Selection of the appropriate administered activity for each patient's body habitus&#xD;
+      is very important to obtain diagnostic image quality. Current SPECT imaging guidelines&#xD;
+      suggest &quot;…an effort to tailor the administered activity to the patient's habitus and imaging&#xD;
+      equipment should be made… [however] strong evidence supporting one particular weight-based&#xD;
+      dosing scheme does not exist.&quot; [Henzlova JNC 2016]. An increase in body weight leads to&#xD;
+      higher fractions of attenuated and scattered photons, resulting in lower quality PET images&#xD;
+      for a given injected activity [Cherry 2004, Ghanem JNMT 2011]. Weight-based tracer dosing is&#xD;
+      commonly recommended as a solution in whole-body PET imaging with F-18-FDG [Masuda JNM 2009,&#xD;
+      Boellaard EJNMMI 2010]. In contrast, Rb-82 PET imaging has traditionally been performed using&#xD;
+      a single dose (e.g. 40 mCi) administered for all patients [Tout NMC 2012] but this is known&#xD;
+      to result in lower count-density and image quality in larger patients. This effect can be&#xD;
+      mitigated to some degree by administration of Rb-82 activity as a proportion of body weight&#xD;
+      while maintaining accuracy for the detection of disease [Kaster JNC 2012].&#xD;
+&#xD;
+      The most recent European Association of Nuclear Medicine (EANM) guidelines recommend Rb-82&#xD;
+      dosing for 3D PET imaging at 10 MBq/kg [Sciagrà EJNMMI 2020] although the American Society of&#xD;
+      Nuclear Cardiology (ASNC) still accepts the use of a single dose ranging from 740 to 1110 MBq&#xD;
+      (20-40 mCi) depending on the PET-CT device sensitivity [Dilsizian JNC 2016]. The ASNC lower&#xD;
+      limit of 740 MBq may not allow adequate dose reduction in very small or pediatric patients,&#xD;
+      and conversely the upper limit of 1480 MBq may not allow adequate image quality in the&#xD;
+      largest patients. For whole body FDG PET, weight-based dosing as a linear function of patient&#xD;
+      weight (MBq/kg) still does not result in uniform image quality across all patients [Nagaki&#xD;
+      JNMT 2011]. Recent oncology PET studies have suggested the dose of F-18-FDG be administered&#xD;
+      as a quadratic function of weight [de Groot EJNMMI Res 2013] and demonstrated that uniform&#xD;
+      quality of PET images can be maintained across a wide range of patient weights [Musarudin&#xD;
+      IJNM 2019].&#xD;
+&#xD;
+      Our center has for many years used weight-based dosing as a linear function of body weight&#xD;
+      (9-10 MBq/kg) to reduce variations of image quality depending on body habitus, and to reduce&#xD;
+      detector saturation during the tracer first-pass for accurate blood flow quantification&#xD;
+      [Renaud JNM 2017a]. Despite this approach, larger patients still suffer from reduced counts&#xD;
+      and image quality [Renaud JNM 2017b].&#xD;
+&#xD;
+      Objective To determine whether Rb-82 activity administered as a squared function of patient&#xD;
+      weight (quadratic dosing) can standardize PET myocardial perfusion image quality over a wide&#xD;
+      range of body weights.&#xD;
+&#xD;
+      Primary Hypothesis&#xD;
+&#xD;
+        1. Rb-82 PET perfusion image quality is consistent across a wide range of patient body&#xD;
+           sizes when using quadratic dosing of Rb-82.&#xD;
+&#xD;
+           Secondary Hypothesis&#xD;
+&#xD;
+        2. Administered activity of Rb-82 is consistently accurate over a wide range of injected&#xD;
+           doses prescribed from 100 to 3500 MBq.&#xD;
+&#xD;
+      Patient Population&#xD;
+&#xD;
+      Sequential patients referred for dipyridamole stress Rb-82 PET perfusion imaging at the&#xD;
+      University of Ottawa Heart Institute. Patients will be divided into 4 weight groups to&#xD;
+      determine if there are significance differences in image quality or accuracy of injected&#xD;
+      Rb-82 activity between patients with:&#xD;
+&#xD;
+      i. 30kg ≤ Weight &lt; 70kg ii. 70kg ≤ Weight &lt; 110kg iii. 110kg ≤ Weight &lt; 150kg iv. 150kg ≤&#xD;
+      Weight &lt; 190kg Because patients referred to uOHI generally fall within the lower 3 groups,&#xD;
+      initial subjects will be identified in the highest weight group, and then those nearest in&#xD;
+      time within the 3 lower weight groups to avoid bias over time.&#xD;
+&#xD;
+      Image Analysis Methods ECG-gated stress PET images will be identified from patients referred&#xD;
+      for Rb-82 MPI on a Siemens Vision 600 PET-CT scanner. Myocardium signal will be measured as&#xD;
+      the maximum activity in the left ventricle (LVMAX) at end-diastole (ED). Corresponding&#xD;
+      background signal and noise will be measured as the left atrium blood cavity mean and&#xD;
+      standard deviation (BLMEAN and BLSD). Image quality will be assessed as myocardium&#xD;
+      signal-to-noise ratio (SNR = LVMAX / BLSD) and myocardium-to-blood contrast-to-noise ratio&#xD;
+      (CNR = (LVMAX - BLMEAN) / BLSD).&#xD;
+&#xD;
+      Statistical Analysis Twelve (12) patients will be recruited in each of the 4 weight groups (3&#xD;
+      in each 10 kg interval) to uniformly sample the full range of patient weights from 30 to 190&#xD;
+      kg. Based on the previous oncology PET literature [de Groot EJNMMI Res 2013] image quality is&#xD;
+      not expected to change as a function of weight, i.e. SNR and CNR will be proportional to&#xD;
+      weight0 (no weight-dependence) with quadratic dosing of Rb-82. Two operators will perform the&#xD;
+      PET image analysis as described above. Measurements of LVMAX, BLMEAN, BLSD, SNR and CNR will&#xD;
+      be compared between operators using Bland-Altman and Box-plot analyses. The mean values&#xD;
+      between operators will be used in the final analyses of weight-based effects. SNR and CNR&#xD;
+      will be fit to power functions of patient weight Beta, and the Beta coefficients will be&#xD;
+      compared against the expected value of zero. If the primary hypothesis is true, then the Beta&#xD;
+      coefficients will not be significantly different from zero (P&gt;0.05) indicating that image&#xD;
+      quality is not significantly affected by patient weight. N=12 subjects per group is&#xD;
+      sufficient to detect an effect-size equal to the within-group standard deviation (α=0.05,&#xD;
+      β=0.03) using single-factor ANOVA.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 1, 2021</start_date>
+  <completion_date type="Anticipated">April 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2025</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <target_duration>1 Day</target_duration>
+  <primary_outcome>
+    <measure>Rubidium PET image quality</measure>
+    <time_frame>During the participant scan</time_frame>
+    <description>Stress gated signal-to-noise ratio measured in the left ventricle myocardium and blood cavity</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rubidium activity accuracy</measure>
+    <time_frame>During the participant scan</time_frame>
+    <description>Percent difference in the administered rubidium dose activity compared to the prescribed activity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rubidium timing accuracy</measure>
+    <time_frame>During the participant scan</time_frame>
+    <description>Percent difference in the administered rubidium dose timing compared to the prescribed timing</description>
+  </secondary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">48</enrollment>
+  <condition>Ischemic Heart Disease</condition>
+  <arm_group>
+    <arm_group_label>Group 1</arm_group_label>
+    <description>body-weight &lt; 50kg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2</arm_group_label>
+    <description>50 kg ≤ body-weight &lt; 100 kg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3</arm_group_label>
+    <description>100 kg ≤ body-weight &lt; 150 kg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 4</arm_group_label>
+    <description>150 kg ≤ body-weight &lt; 200 kg</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rb-82 Radioisotope</intervention_name>
+    <description>Quadratic dosing: Rubidium-82 activity prescribed as a squared function of body-weight instead of linear function of body-weight or fixed activity independent of body-weight</description>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_label>Group 2</arm_group_label>
+    <arm_group_label>Group 3</arm_group_label>
+    <arm_group_label>Group 4</arm_group_label>
+    <other_name>PET perfusion imaging</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Male/female participants, 18 years of age or older, referred for dipyridamole stress Rb-82&#xD;
+        PET perfusion imaging at the University of Ottawa Heart Institute.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients referred to the University of Ottawa Heart Institute for clinically indicated&#xD;
+             dipyridamole stress, Rb-82 PET myocardial perfusion imaging (MPI) for diagnosis or&#xD;
+             risk stratification for myocardial ischemia.&#xD;
+&#xD;
+          -  at least 18 years of age.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with contraindications to dipyridamole stress PET MPI including: 1) severe&#xD;
+             reactive airway disease; 2) less than 3 days post-MI/ACS presentation; 3) unstable&#xD;
+             crescendo angina; 4) high-grade AV block; 5) allergy to dipyridamole or theophyllines;&#xD;
+             6) caffeine within 24 hours; 7) theophyllines within 48 hours; 8) severe&#xD;
+             claustrophobia; and 9) those who may be pregnant.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rob deKemp, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ottawa Heart Institute Research Corporation</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Linda M Garrard, RN BScN</last_name>
+    <phone>613-696-7000</phone>
+    <phone_ext>14192</phone_ext>
+    <email>lgarrard@ottawaheart.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Ottawa Heart Institute</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1Y 4W7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Linda M Garrard, RN, BScN</last_name>
+      <phone>613-696-7000</phone>
+      <phone_ext>14192</phone_ext>
+      <email>lgarrard@ottawaheart.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Rob deKemp, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Rob S. Beanlands, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <reference>
+    <citation>de Groot EH, Post N, Boellaard R, Wagenaar NR, Willemsen AT, van Dalen JA. Optimized dose regimen for whole-body FDG-PET imaging. EJNMMI Res. 2013 Aug 12;3(1):63. doi: 10.1186/2191-219X-3-63.</citation>
+    <PMID>23938036</PMID>
+  </reference>
+  <reference>
+    <citation>Boellaard R, Delgado-Bolton R, Oyen WJ, Giammarile F, Tatsch K, Eschner W, Verzijlbergen FJ, Barrington SF, Pike LC, Weber WA, Stroobants S, Delbeke D, Donohoe KJ, Holbrook S, Graham MM, Testanera G, Hoekstra OS, Zijlstra J, Visser E, Hoekstra CJ, Pruim J, Willemsen A, Arends B, Kotzerke J, Bockisch A, Beyer T, Chiti A, Krause BJ; European Association of Nuclear Medicine (EANM). FDG PET/CT: EANM procedure guidelines for tumour imaging: version 2.0. Eur J Nucl Med Mol Imaging. 2015 Feb;42(2):328-54. doi: 10.1007/s00259-014-2961-x. Epub 2014 Dec 2.</citation>
+    <PMID>25452219</PMID>
+  </reference>
+  <reference>
+    <citation>Koopman D, van Osch JA, Jager PL, Tenbergen CJ, Knollema S, Slump CH, van Dalen JA. Technical note: how to determine the FDG activity for tumour PET imaging that satisfies European guidelines. EJNMMI Phys. 2016 Dec;3(1):22. doi: 10.1186/s40658-016-0158-z. Epub 2016 Sep 29.</citation>
+    <PMID>27682837</PMID>
+  </reference>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 8, 2021</study_first_posted>
+  <last_update_submitted>September 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Rubidium-82 PET</keyword>
+  <keyword>Myocardial Perfusion Imaging</keyword>
+  <keyword>diagnostic accuracy</keyword>
+  <keyword>weight based dosing</keyword>
+  <keyword>image enhancement</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Diseases</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Ischemia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

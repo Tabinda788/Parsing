@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="140">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05159323</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SYSEC-KY-KS-2021-182</org_study_id>
+    <nct_id>NCT05159323</nct_id>
+  </id_info>
+  <brief_title>Quantitative Assessment of Diffusion Spectrum Imaging in Breast Cancer</brief_title>
+  <official_title>Quantitative Parameters of Diffusion Spectrum Imaging: Correlation With Histopathologic Characteristics in Patients With Breast Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Xiang Zhang</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This project intends to prospectively collect patients with suspected breast malignant tumors&#xD;
+      by ultrasound or mammography. After routine MRI scanning, all patients underwent diffusion&#xD;
+      spectrum imaging (DSI) sequence scanning. The inclusion criteria were as follows: (1) breast&#xD;
+      cancer was confirmed by surgery or biopsy. (2) pathologically diagnosis of estrogen receptor&#xD;
+      (ER), progesterone receptor (PR), human epidermal growth factor 2 (HER-2), Ki-67, and&#xD;
+      lymphatic vessel invasion (LVI) status in breast cancer. (3) routine MRI and DSI scans were&#xD;
+      performed within one week before the pathologic examination. The exclusion criteria were as&#xD;
+      follows: (1) patients who had received treatment before DSI scanning; (2) patients who&#xD;
+      underwent breast tumor biopsy within two weeks before DSI image acquisition; (3) pathology&#xD;
+      results of breast masses were other diseases besides breast cancer. (4) post-processing of&#xD;
+      DSI data cannot be performed due to poor image quality, such as motion artifacts.&#xD;
+&#xD;
+      Breast MRI data were collected on a 3T MR scanner (Magnetom skyra, Siemens Healthcare,&#xD;
+      Erlangen, Germany). All participants used standardized breast MRI scanning schemes, including&#xD;
+      T2 weighted imaging (T2WI), T1 weighted imaging (T1WI), diffusion-weighted imaging (DWI),&#xD;
+      DSI, and contrast dynamic enhancement (DCE). A total of 22 GSI quantitative parameters were&#xD;
+      derived from NeudiLab software that is based on the open-source platform DIPY (diffusion&#xD;
+      imaging in Python, http://nipy.org/dipy). The correlation between DSI quantitative parameters&#xD;
+      and pathological indexes (i.e., ER, PR, HER-2, Ki-67, and LVI) was evaluated by Spearman&#xD;
+      correlation analysis. The independent predictors of GSI quantitative parameters for different&#xD;
+      pathologic characteristics discrimination in breast cancer were determined by the logistic&#xD;
+      regression analysis. The predictive performance of DSI quantitative parameters for difference&#xD;
+      pathologic classifications was assessed by the receiver operating characteristic (ROC) curves&#xD;
+      and their respective area under the curves (AUCs).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 20, 2021</start_date>
+  <completion_date type="Anticipated">August 19, 2022</completion_date>
+  <primary_completion_date type="Anticipated">August 19, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pathologic characteristic</measure>
+    <time_frame>Up to 2 months</time_frame>
+    <description>Estrogen receptor (ER) status of breast cancer</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pathologic characteristic</measure>
+    <time_frame>Up to 2 months</time_frame>
+    <description>Progesterone receptor (PR) status of breast cancer</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Pathologic characteristic</measure>
+    <time_frame>Up to 2 months</time_frame>
+    <description>Human epidermal growth factor 2 (HER-2) status of breast cancer</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pathologic characteristic</measure>
+    <time_frame>Up to 2 months</time_frame>
+    <description>Ki-67 status of breast cancer</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pathologic characteristic</measure>
+    <time_frame>Up to 2 months</time_frame>
+    <description>Lymphatic vessel invasion (LVI) status of breast cancer</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">64</enrollment>
+  <condition>Breast Carcinoma; Magnetic Resonance Imaging; Diffusion Spectrum Imaging</condition>
+  <arm_group>
+    <arm_group_label>Diffusion Spectrum Imaging</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All participants accept diffusion spectrum imaging, the quantitative parameters of the diffusion spectrum imaging are obtained. The quantitative parameters are compared in different subgroups based on the pathologic examination results.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Diffusion Spectrum Imaging</intervention_name>
+    <description>A novel diffusion-based magnetic resonance imaging method</description>
+    <arm_group_label>Diffusion Spectrum Imaging</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Breast cancer was confirmed by surgery or biopsy.&#xD;
+&#xD;
+          2. Pathologically diagnosis of estrogen receptor (ER), progesterone receptor (PR), human&#xD;
+             epidermal growth factor 2 (HER-2), Ki-67, and lymphatic vessel invasion (LVI) status&#xD;
+             in breast cancer.&#xD;
+&#xD;
+          3. Routine MRI and DSI scans were performed within one week before the pathologic&#xD;
+             examination.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients who had received treatment before DSI scanning.&#xD;
+&#xD;
+          2. Patients who underwent breast tumor biopsy within two weeks before DSI image&#xD;
+             acquisition.&#xD;
+&#xD;
+          3. Pathology results of breast masses were other diseases besides breast cancer.&#xD;
+&#xD;
+          4. Post-processing of DSI data cannot be performed due to poor image quality, such as&#xD;
+             motion artifacts.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Xiang Zhang, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sun Yat-sen University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Li Ling, Ph.D.</last_name>
+    <phone>+86-20-81336505</phone>
+    <email>sys_iit@163.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Department of Radiology, Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510120</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jun Shen, M.D.</last_name>
+      <phone>+86-20-81338253</phone>
+      <email>shenjun@mail.sysu.edu.cn</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>November 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 16, 2021</study_first_posted>
+  <last_update_submitted>December 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University</investigator_affiliation>
+    <investigator_full_name>Xiang Zhang</investigator_full_name>
+    <investigator_title>Department of Radiology</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

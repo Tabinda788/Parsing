@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5530">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05089227</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AUDIA PHRCI 2019</org_study_id>
+    <nct_id>NCT05089227</nct_id>
+  </id_info>
+  <brief_title>Efficacy of Prolonged Anticoagulation for Primary Prevention of Venous Thromboembolic Disease in Autoimmune Hemolytic Anemia: a Prospective, Phase II, Randomized, Multicenter Study</brief_title>
+  <acronym>API-AHAI</acronym>
+  <official_title>Efficacy of Prolonged Anticoagulation for Primary Prevention of Venous Thromboembolic Disease in Autoimmune Hemolytic Anemia: a Prospective, Phase II, Randomized, Multicenter Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire Dijon</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire Dijon</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Autoimmune hemolytic anemia (AIHA) is a rare autoimmune disease (incidence &lt;1/100,000&#xD;
+      population) responsible for the destruction of red blood cells by the host immune system,&#xD;
+      notably through the action of autoantibodies.&#xD;
+&#xD;
+      Apart from complications related to anemia, the occurrence of venous thromboembolism (VTE) in&#xD;
+      this population is frequent, estimated at 20-27%. The risk of VTE is highest during the&#xD;
+      period of hemolysis, especially during the first 3 months after the diagnosis of AIHA. This&#xD;
+      risk is 7.5 [4.7; 12.0] times greater than in the general population. No clinical predictive&#xD;
+      factor for VTE was identified and the usual factors (cancer, previous VTE, bed rest &gt;3 days,&#xD;
+      surgery, age &gt;70 years, heart or respiratory failure, myocardial infarction, stroke, obesity,&#xD;
+      hormone replacement therapy) were not considered. Several biological risk factors have been&#xD;
+      suggested (depth of anemia, bilirubin level, leukocyte count, antiphospholipid antibodies)&#xD;
+      but have not been confirmed in other studies.&#xD;
+&#xD;
+      AIHA is therefore a risk factor for VTE in its own right, and the National Diagnostic and&#xD;
+      Care Protocol (NDCP) recommends the implementation of VTE prevention during acute hemolysis&#xD;
+      (Grade C). However, the value of this prophylaxis has never been prospectively evaluated and&#xD;
+      its duration is empirical. In practice, low-molecular-weight heparin (LMWH) is generally used&#xD;
+      during &quot;flare-ups&quot; of AIHA (diagnosis and relapse) in hospitalized patients, but is rarely&#xD;
+      continued beyond the hospital phase when VTE also occurs in ambulatory patients.&#xD;
+&#xD;
+      Thus, we hypothesize that prolonged preventive anticoagulation during the 12-week risk period&#xD;
+      following diagnosis or relapse of AIHA could decrease the incidence of VTE.&#xD;
+&#xD;
+      In orthopedic surgery, this strategy has been proven to decrease VTE from 50% to 10-15%. In&#xD;
+      certain high-risk medical situations, prolonged prophylaxis with apixaban has been shown to&#xD;
+      decrease the occurrence of VTE from 10.2% to 4.2% in solid cancers4 and from 4-11% to 2% in&#xD;
+      myeloma.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2021</start_date>
+  <completion_date type="Anticipated">May 2025</completion_date>
+  <primary_completion_date type="Anticipated">May 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Occurrence of clinical venous thromboembolic events (deep vein thrombosis (DVT) and pulmonary embolism (PE))</measure>
+    <time_frame>24 weeks after randomization</time_frame>
+    <description>defined by the presence of DVT confirmed by venous Doppler and/or PE confirmed by thoracic angioscan or ventilation/perfusion lung scintigraphy.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">72</enrollment>
+  <condition>Prolonged Anticoagulation</condition>
+  <condition>Venous Thromboembolic Disease</condition>
+  <condition>Autoimmune Hemolytic Anemia</condition>
+  <arm_group>
+    <arm_group_label>&quot;intervention&quot; group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>&quot;standard&quot; group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>treatment &quot;intervention&quot;</intervention_name>
+    <description>for a total of 12 weeks, prophylactic heparin therapy during hospitalization followed by prophylactic oral anticoagulation with apixaban</description>
+    <arm_group_label>&quot;intervention&quot; group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>treatment &quot;standard&quot;</intervention_name>
+    <description>during hospitalization prophylactic heparin therapy followed by management without prophylactic anticoagulation.</description>
+    <arm_group_label>&quot;standard&quot; group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>biological assessment</intervention_name>
+    <description>CBC, reticulocytes, haptoglobin, LDH, bilirubin</description>
+    <arm_group_label>&quot;intervention&quot; group</arm_group_label>
+    <arm_group_label>&quot;standard&quot; group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient aged ≥ 18 years&#xD;
+&#xD;
+          -  Patient with a diagnosis of primary or secondary autoimmune hemolytic anemia (AIHA)&#xD;
+             (infections, hematologic diseases, systemic diseases), according to the following&#xD;
+             criteria:&#xD;
+&#xD;
+          -  Hemoglobin &lt;12 g/dL&#xD;
+&#xD;
+          -  and decreased haptoglobin (&lt;0.4 g/L)&#xD;
+&#xD;
+          -  and positive direct antiglobulin test (direct Coombs test) (IgG +/- C3d)&#xD;
+&#xD;
+          -  Patient is treatment-naive for disease or relapse&#xD;
+&#xD;
+          -  Patient with an estimated life expectancy of more than 6 months&#xD;
+&#xD;
+          -  Patient who provided free, written and informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with immediate symptomatic VTE, confirmed by appropriate complementary&#xD;
+             examinations (venous Doppler of the lower limbs, thoracic angioscanner or pulmonary&#xD;
+             scintigraphy).&#xD;
+&#xD;
+          -  Patients on curative anticoagulation (venous thromboembolic disease, atrial&#xD;
+             fibrillation)&#xD;
+&#xD;
+          -  Patient on dual antiaggregation treatment&#xD;
+&#xD;
+          -  Patient with active bleeding&#xD;
+&#xD;
+          -  Patient with a known condition or lesion at risk of bleeding&#xD;
+&#xD;
+          -  Patient with ischemic stroke with hemorrhagic transformation within 6 months prior to&#xD;
+             inclusion&#xD;
+&#xD;
+          -  Patient with a contraindication to apixaban:&#xD;
+&#xD;
+          -  Known hypersensitivity to the molecule or to any of the excipients,,&#xD;
+&#xD;
+          -  thrombocytopenia &lt;100 G/L,&#xD;
+&#xD;
+          -  kidney failure (glomerular filtration rate &lt; 30 ml/min/1.73m²)&#xD;
+&#xD;
+          -  Active liver disease (liver failure defined as Factor V &lt;50% or INR &gt;1.5, ALT&#xD;
+             elevation &gt;2 times the upper limit of normal or conjugated/direct bilirubin elevation&#xD;
+             &gt;1.5 times the upper limit of normal)&#xD;
+&#xD;
+          -  Patients receiving concomitant CYP3A4 inducers (rifampin, phenytoin, carbamazepine,&#xD;
+             phenobarbital, St. John's Wort) or CYP3A4 inhibitors (azole antifungals, HIV protease&#xD;
+             inhibitors), if these therapies cannot be discontinued or modified&#xD;
+&#xD;
+          -  Patients with a contraindication to enoxaparin:&#xD;
+&#xD;
+          -  allergy to the drug&#xD;
+&#xD;
+          -  history of heparin-induced thrombocytopenia&#xD;
+&#xD;
+          -  Patient with cold agglutinin-related AHAI (C3d-positive ADT alone with identification&#xD;
+             of cold agglutinins)&#xD;
+&#xD;
+          -  Patient with severe disorders of hemostasis:&#xD;
+&#xD;
+          -  hypofibrinogenemia &lt; 2 g/L,&#xD;
+&#xD;
+          -  disseminated intravascular coagulation (APTT prolongation&gt;1.2, and PT&lt;50%, and&#xD;
+             thrombocytopenia&lt;100 G/L, and D-Dimer &gt;500 µg/L)&#xD;
+&#xD;
+          -  hemophilia&#xD;
+&#xD;
+          -  Patient whose clinical condition requires hospitalization in an intensive care unit&#xD;
+&#xD;
+          -  Patient who has already participated in the study&#xD;
+&#xD;
+          -  Patient not affiliated to national health insurance&#xD;
+&#xD;
+          -  Patient under legal protection (curatorship, guardianship)&#xD;
+&#xD;
+          -  Patient subject to a measure of legal protection&#xD;
+&#xD;
+          -  Pregnant, parturient or breastfeeding women&#xD;
+&#xD;
+          -  Patient with physiological capacity to procreate (having had her first menstrual&#xD;
+             period and not menopausal and not presenting permanent sterility (hysterectomy,&#xD;
+             bilateral salpingectomy, bilateral oophorectomy)) and unable to have effective&#xD;
+             contraception (i.e., provided by an estrogen-progestin oral contraceptive or&#xD;
+             progestogen, a contraceptive implant, an intrauterine device or a tubal ligation)&#xD;
+&#xD;
+          -  Patient of legal age who is unable to provide consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Sylvain AUDIA</last_name>
+    <phone>03.80.29.34.32</phone>
+    <phone_ext>+33</phone_ext>
+    <email>sylvain.audia@chu-dijon.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Chu Dijon Bourgogne</name>
+      <address>
+        <city>Dijon</city>
+        <zip>21000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sylvain AUDIA</last_name>
+      <phone>03.80.29.34.32</phone>
+      <phone_ext>+33</phone_ext>
+      <email>sylvain.audia@chu-dijon.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 22, 2021</study_first_posted>
+  <last_update_submitted>October 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Thromboembolism</mesh_term>
+    <mesh_term>Anemia</mesh_term>
+    <mesh_term>Anemia, Hemolytic</mesh_term>
+    <mesh_term>Anemia, Hemolytic, Autoimmune</mesh_term>
+    <mesh_term>Hemolysis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

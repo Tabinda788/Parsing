@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3613">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05114148</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NL74751.041.21</org_study_id>
+    <nct_id>NCT05114148</nct_id>
+  </id_info>
+  <brief_title>Individualized Dosimetry for Holmium-166-radioembolization in Patients With Unresectable Hepatocellular Carcinoma</brief_title>
+  <acronym>iHEPAR</acronym>
+  <official_title>Individualized Dosimetry for Holmium-166-radioembolization in Patients With Unresectable Hepatocellular Carcinoma; a Multi-center, Interventional, Non-randomized, Non-comparative, Open Label, Early Phase II Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UMC Utrecht</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Erasmus Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Terumo Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>UMC Utrecht</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patients with hepatocellular carcinoma often die from intrahepatic disease because current&#xD;
+      treatment options are limited. Local treatment using 166Ho-radioembolization (166Ho-RE)&#xD;
+      offers a safe and effective treatment. Because 166Ho-microspheres are used as a scout dose&#xD;
+      for treatment simulaton and for the actual treatment itself, a tailored approach can be used.&#xD;
+      This concept has proven to be more predictive than the 90Y-radioembolization concept (current&#xD;
+      standard-of-care), which is a based on a surrogate scout dose (i.e. 99mTc-MAA). A personal&#xD;
+      treatment plan may be used for 166Ho-radioembolization to optimize efficacy, based on scout&#xD;
+      dose distribution. However, individualized treatment planning inherently leads to treatment&#xD;
+      doses that deviate from the currently approved 'one-size-fits-all' approach (i.e. 60 Gy&#xD;
+      average absorbed dose for all patients). Therefore, safety of individualized 166Ho-RE will be&#xD;
+      evaluated first to validate safety and confirm safety thresholds. These thresholds will be&#xD;
+      used in subsequent randomized controlled studies.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The presented study proposal is a sequel study after a successful completion of the HEPAR&#xD;
+      Primary study (all patients were treated, last follow-up visit planned for August 2020). In&#xD;
+      the HEPAR Primary study, all treatments were planned using one compartment modeling, which&#xD;
+      included the target volume without distinction between tumor and non-tumor compartments. Each&#xD;
+      patient was treated with an average absorbed dose of 60 Gy in the target volume. In some&#xD;
+      patients this treatment approach resulted in a high tumor and low normal liver absorbed dose,&#xD;
+      in others this resulted in the opposite. No distinction was made because thresholds for a&#xD;
+      safe normal liver and effective tumor absorbed dose were not known, since HEPAR Primary was&#xD;
+      the first clinical study on 166Ho-RE in HCC. The study confirmed safety of a 60 Gy average&#xD;
+      absorbed dose and gave insights in the previously unknown thresholds for a safe normal liver&#xD;
+      and effective tumor absorbed dose.&#xD;
+&#xD;
+      The primary hypothesis of the iHEPAR study is that dosimetry-based individualized treatment&#xD;
+      planning is at least as safe as standard of care one compartment treatment planning, used in&#xD;
+      HEPAR Primary, but with the potential of improved treatment outcomes. One compartment&#xD;
+      modeling has the inherent risk of under- or over-dosing. Dosimetry-based individualized&#xD;
+      treatment planning aims for an effective tumor absorbed dose, while keeping the non-tumor&#xD;
+      absorbed dose within safety limits. So far, only one compartment modeling was established as&#xD;
+      a safe and effective treatment approach in 166Ho-RE. This phase II study aims to evaluate the&#xD;
+      safety and efficacy of dosimetry-based individualized 166Ho-RE in HCC. This data will be used&#xD;
+      for the design of future randomized controlled trials.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2021</start_date>
+  <completion_date type="Anticipated">November 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">November 1, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Multi-center, interventional, treatment, non-randomized, open label, non-comparative, early clinical safety study. The study is a collaboration between UMC Utrecht and Erasmus MC Rotterdam.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of unacceptable toxicity.</measure>
+    <time_frame>6 months</time_frame>
+    <description>For this study, unacceptable toxicity is defined as the occurrence of RE-induced liver disease, defined as a total bilirubin increase grade 3 or higher according to the CTCAE version 4.03, in combination with ascites and low albumin, in the absence of disease progression. Any (suspected unexpected) serious adverse event of (suspected unexpected) serious device effect that is possibly, probably or definitely related to study treatment will also be regarded unacceptable toxicity.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of respons</measure>
+    <time_frame>6 months</time_frame>
+    <description>Efficacy as a secondary endpoint will be based on the modified RECIST (mRECIST) response evaluation criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-tumor effect (alfa-fetoprotein).</measure>
+    <time_frame>6 months</time_frame>
+    <description>Tumor marker changes will be expressed as a percentage of the pre-treatment values.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The correlation between tumor absorbed dose in Gy and rate of response according to modified RECIST.</measure>
+    <time_frame>6 months</time_frame>
+    <description>Response will be measured according to modified RECIST.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The correlation between non-tumor liver absorbed dose in Gy and rate of unacceptable toxicity.</measure>
+    <time_frame>6 months</time_frame>
+    <description>For this study, unacceptable toxicity is defined as the occurrence of RE-induced liver disease, defined as a total bilirubin increase grade 3 or higher according to the CTCAE version 4.03, in combination with ascites and low albumin, in the absence of disease progression. Any (suspected unexpected) serious adverse event of (suspected unexpected) serious device effect that is possibly, probably or definitely related to study treatment will also be regarded unacceptable toxicity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EORTC Quality of Life questionnaire number C30</measure>
+    <time_frame>6 months</time_frame>
+    <description>The questionnaire specific manual will be used for assessment and analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EORTC Quality of Life questionnaire number HCC18</measure>
+    <time_frame>6 months</time_frame>
+    <description>The questionnaire specific manual will be used for assessment and analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Brief Pain Inventory questionnaire number BPI-SF</measure>
+    <time_frame>6 months</time_frame>
+    <description>The questionnaire specific manual will be used for assessment and analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of regional liver function</measure>
+    <time_frame>3 months</time_frame>
+    <description>To evaluate overall and regional liver function as measured by hepatobiliary scintigraphy using 99mTc-mebrofenin SPECT/CT, pre- and post-radioembolization.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Hepatocellular Carcinoma Non-resectable</condition>
+  <arm_group>
+    <arm_group_label>Holmium-166 radioembolization</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Individualized holmium-166 radioembolization will be performed via a catheter during angiography. Dosimetry-based treatment planning will be individualized based on Q-Suite™ software.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Holmium-166 radioembolization</intervention_name>
+    <description>Individualized 166Ho-RE will be performed via a catheter during angiography. Dosimetry-based treatment planning will be individualized based on Q-Suite™ software.</description>
+    <arm_group_label>Holmium-166 radioembolization</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        In order to be eligible to participate in this study, a subject must meet all of the&#xD;
+        following criteria:&#xD;
+&#xD;
+          1. Patients must have given written informed consent.&#xD;
+&#xD;
+          2. Female or male aged 18 years and over.&#xD;
+&#xD;
+          3. Diagnosis of HCC established according to the Netherlands HCC guideline criteria (in&#xD;
+             line with American AASLD criteria): nodule &gt;1 cm in a patient at risk for HCC, with&#xD;
+             combination of arterial hypervascularity and venous or delayed phase wash-out on&#xD;
+             multiphase CT-scan or MRI-scan.2, 4 LR-5 and LR- 4 based on Liver Imaging Reporting&#xD;
+             and Data System can be included based on discretion of the principal investigator.&#xD;
+&#xD;
+          4. No curative treatment options (resection, transplant, or in case of solitary tumor &lt;5&#xD;
+             cm, RFA).&#xD;
+&#xD;
+          5. Life expectancy of at least 6 months.&#xD;
+&#xD;
+          6. ECOG Performance status 0-1 (Table 2).&#xD;
+&#xD;
+          7. Liver-dominant disease (maximum 5 lung nodules all ≤1.0 cm, solitary clinically stable&#xD;
+             adrenal metastasis, and mesenteric or portal lymph nodes all ≤2.0 cm are accepted).&#xD;
+&#xD;
+          8. Child-Pugh class A5-6 or B7.&#xD;
+&#xD;
+          9. At least one measurable liver lesion according to the modified RECIST criteria.(26)&#xD;
+&#xD;
+         10. Negative pregnancy test for women of childbearing potential. Female patients of&#xD;
+             childbearing potential should use a highly effective acceptable method of&#xD;
+             contraception (oral contraceptives, barrier methods, approved contraceptive implant,&#xD;
+             long-term injectable contraception, intrauterine device or tubal ligation) or should&#xD;
+             be more than 1 year postmenopausal or surgically sterile during their participation in&#xD;
+             this study (from the time they sign the consent form), to prevent pregnancy.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        A potential subject who meets any of the following criteria will be excluded from&#xD;
+        participation in this study:&#xD;
+&#xD;
+          1. Evidence of significant extrahepatic disease (MRI-scan liver and multiphase abdominal&#xD;
+             CT as well as a thoracic CT are routinely performed at screening).&#xD;
+&#xD;
+          2. Hepatic radiation therapy within the last 4 weeks before the start of study therapy.&#xD;
+&#xD;
+          3. Previous or current treatment with RE. Previous treatment with TACE, surgery, RFA, and&#xD;
+             previous or current treatment with sorafenib are allowed.&#xD;
+&#xD;
+          4. Major surgery within 4 weeks or incompletely healed surgical incision before starting&#xD;
+             study therapy.&#xD;
+&#xD;
+          5. Serum bilirubin &gt;34.2 micromole/L (2 mg/dL).&#xD;
+&#xD;
+          6. Glomerular filtration rate &lt;35 ml/min.&#xD;
+&#xD;
+          7. Non-correctable INR &gt;1.5 in case of femoral approach (as opposed to radial).&#xD;
+&#xD;
+          8. Leukocytes &lt;2 109/l and/or platelet count &lt;50 109/l.&#xD;
+&#xD;
+          9. Significant cardiac event (e.g. myocardial infarction, superior vena cava (SVC)&#xD;
+             syndrome, New York Heart Association (NYHA) classification of heart disease ≥2) within&#xD;
+             3 months before entry, or presence of cardiac disease that in the opinion of the&#xD;
+             investigator increases the risk of ventricular arrhythmia.&#xD;
+&#xD;
+         10. Pregnancy or breastfeeding.&#xD;
+&#xD;
+         11. Patients suffering from psychic disorders that make a comprehensive judgment&#xD;
+             impossible, such as psychosis, hallucinations and/or depression.&#xD;
+&#xD;
+         12. Patients who are declared incapacitated.&#xD;
+&#xD;
+         13. Previous enrollment in the present study.&#xD;
+&#xD;
+         14. Male patients who are not surgically sterile or do not use an acceptable method of&#xD;
+             contraception during their participation in this study (from the time they sign the&#xD;
+             consent form), to prevent pregnancy in a partner.&#xD;
+&#xD;
+         15. Evidence of untreated, clinically significant grade 3 portal hypertension (i.e. large&#xD;
+             varices at oesophago-gastro-duodenoscopy). In these cases, therapy with non-selective&#xD;
+             beta-blocker (propranolol) or rubber band ligation should be instituted according to&#xD;
+             accepted guidelines. In case of small varices, prophylactic propranolol is advised.&#xD;
+&#xD;
+         16. Portal vein thrombosis (tumor and/or bland) of the main branch (diagnosed on contrast&#xD;
+             enhanced transaxial images). Involvement of the right or left portal vein branches and&#xD;
+             more distal is accepted.&#xD;
+&#xD;
+         17. Untreated active hepatitis. In case of detectable viral HBV load, appropriate&#xD;
+             treatment should be instituted.&#xD;
+&#xD;
+         18. Transjugular intrahepatic portosystemic shunt (TIPS).&#xD;
+&#xD;
+         19. Body weight over 150 kg (because of maximum table load).&#xD;
+&#xD;
+         20. Severe allergy for intravenous contrast used (Visipaque®)(because of CT evaluation,&#xD;
+             pre-treatment angiography and treatment angiography).&#xD;
+&#xD;
+         21. Lung shunt &gt;30 Gy, as calculated using scout dose SPECT/CT. Uncorrectable extrahepatic&#xD;
+             deposition of scout dose activity. Activity in the falciform ligament, portal lymph&#xD;
+             nodes and gallbladder is accepted.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 9, 2021</study_first_posted>
+  <last_update_submitted>October 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>UMC Utrecht</investigator_affiliation>
+    <investigator_full_name>Marnix Lam</investigator_full_name>
+    <investigator_title>Professor of Nuclear Medicine</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Hepatocellular</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

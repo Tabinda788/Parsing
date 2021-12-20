@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8012">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05056948</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UW 20-848</org_study_id>
+    <nct_id>NCT05056948</nct_id>
+  </id_info>
+  <brief_title>Artificial Intelligence Designed Single Tooth Dental Prostheses</brief_title>
+  <official_title>Artificial Intelligence in Prosthodontics - Design of Maxillary Single-tooth Dental Prostheses</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The University of Hong Kong</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University Grants Committee, Hong Kong</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The University of Hong Kong</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Tooth loss is common and as consequence deteriorate patient's health and quality-of-life.&#xD;
+      Dental prostheses aim to restore patients' appearance and functions by replacement of missing&#xD;
+      teeth. The occlusal morphology and 3D position of the healthy natural teeth should be adopted&#xD;
+      by the dental prostheses (biomimetic). Despite computer-assisted design (CAD) software are&#xD;
+      available for designing dental prostheses, considerable clinical time are still required to&#xD;
+      fit the dental prostheses into patients' occlusion (teeth-to-teeth relationship). Teeth of an&#xD;
+      individual subjects are genetically controlled and exposed to mostly identical oral&#xD;
+      environment, therefore the occlusal morphology and 3D position of teeth are inter-related. It&#xD;
+      is hypothesized that artificial intelligence (AI) can automated designing the single-tooth&#xD;
+      dental prostheses from the features of remaining dentition.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Objectives:&#xD;
+&#xD;
+        1. To compare four deep-learning methods/algorithms in interpreting and learning of the&#xD;
+           features of 3D models;&#xD;
+&#xD;
+        2. To compare the AI system with maxillary tooth model alone to maxillary and mandibular&#xD;
+           (antagonist) models;&#xD;
+&#xD;
+        3. To compare the occlusal morphology and 3D position of the single-tooth dental prostheses&#xD;
+           designed by trained AI and by dental technicians.&#xD;
+&#xD;
+      Methods:&#xD;
+&#xD;
+      First, investigators will collect 200 maxillary dentate teeth models as training models. AI&#xD;
+      will learn the relationship between individual teeth and rest of the dentition using the 3D&#xD;
+      Generative Adversarial Network (GAN) by following deep-learning methods/algorithms:&#xD;
+&#xD;
+      Group 1) Voxel-based; Group 2) View-based; Group 3) Point-based; and Group 4) Fusion methods.&#xD;
+      Investigators will collect another 100 maxillary models that serve as validation models.&#xD;
+      Investigators will remove a tooth (act as control) in each model. Then investigators will&#xD;
+      evaluate these deep learning algorithms in predicting the occlusal morphology and 3D position&#xD;
+      of single-missing tooth.&#xD;
+&#xD;
+      Second, investigators will evaluate the need of antagonist model in predicting the occlusal&#xD;
+      morphology and 3D position of single-missing tooth in 100 validation models:&#xD;
+&#xD;
+      Group i) maxillary model only and Group ii) with antagonist model using the tested&#xD;
+      deep-learning algorithm in objective (1).&#xD;
+&#xD;
+      Third, investigators will analyze the geometric morphometric and 3D position of dental&#xD;
+      prostheses designed by:&#xD;
+&#xD;
+      Group a) the trained AI system; Group b) dental technicians on the physical models; and Group&#xD;
+      c) dental technicians using CAD software. Investigators will compare these teeth to the&#xD;
+      corresponding natural teeth (control) in 100 validation models.&#xD;
+&#xD;
+      Furthermore, investigators will analyze the time required for tooth design in these groups as&#xD;
+      secondary outcome.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 1, 2021</start_date>
+  <completion_date type="Anticipated">May 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>3D position of tooth</measure>
+    <time_frame>Outcome will be measured when 25% of training models were studied by AI, up to 6 months</time_frame>
+    <description>The center of a tooth automatically determined by computer</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>3D position of tooth</measure>
+    <time_frame>Outcome will be measured when 50% of training models were studied by AI, up to 12 months</time_frame>
+    <description>The center of a tooth automatically determined by computer</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>3D position of tooth</measure>
+    <time_frame>Outcome will be measured when 75% of training models were studied by AI, up to 18 months</time_frame>
+    <description>The center of a tooth automatically determined by computer</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>3D position of tooth</measure>
+    <time_frame>Outcome will be measured after the whole training, which AI was trained of 100% of all models, up to 24 months</time_frame>
+    <description>The center of a tooth automatically determined by computer</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Occlusal morphology of tooth</measure>
+    <time_frame>Outcome will be measured when 25% of training models were studied by AI, up to 6 months</time_frame>
+    <description>The cusps (highest point) and the fossa (lowest point) of the occlusal surface</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Occlusal morphology of tooth</measure>
+    <time_frame>Outcome will be measured when 50% of training models were studied by AI, up to 12 months</time_frame>
+    <description>The cusps (highest point) and the fossa (lowest point) of the occlusal surface</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Occlusal morphology of tooth</measure>
+    <time_frame>Outcome will be measured when 75% of training models were studied by AI, upto 18 months</time_frame>
+    <description>The cusps (highest point) and the fossa (lowest point) of the occlusal surface</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Occlusal morphology of tooth</measure>
+    <time_frame>Outcome will be measured after the whole training, which AI was trained of 100% of all models, upto 24 months</time_frame>
+    <description>The cusps (highest point) and the fossa (lowest point) of the occlusal surface</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time spent in laboratory design and in clinical deliver of denture prostheses</measure>
+    <time_frame>Outcome will be measured after the whole training, which AI was trained of 100% of all models, upto 24 months</time_frame>
+    <description>Time (in minutes) spend in a) design and b) deliver of dental prostheses</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Dental Prosthesis</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <description>Original 3D maxillary teeth model from subjects who fulfill inclusion/exclusion criteria</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Test</arm_group_label>
+    <description>3D maxillary teeth model from subjects who fulfill inclusion/exclusion criteria.&#xD;
+The right first molar (FDI number 16) will be removed in the computer and then designed by artificial intelligence (AI) system&#xD;
+AI system will be trained by&#xD;
+different algorithms such as Group 1) Voxel-based; Group 2) View-based; Group 3) Point-based; and Group 4) Fusion methods&#xD;
+Group i) maxillary model only and Group ii) with antagonist model</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>artificial intelligence (AI) computer assisted design (CAD)</intervention_name>
+    <description>Maxillary right first molar will be removed in the computer and will be designed by artificial intelligence system</description>
+    <arm_group_label>Test</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        -  Patients attended/attending Prince Philip Dental Hospital&#xD;
+&#xD;
+          -  Dental undergraduate students from the Faculty of Dentistry, The University of Hong&#xD;
+             Kong&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subjects with sufficient dentition present for the determination of the upper occlusal&#xD;
+             plane&#xD;
+&#xD;
+          -  Subjects with more than 12 occluding pairs and stable intercuspal position&#xD;
+&#xD;
+          -  Subjects with teeth restorations that did not grossly alter its morphology&#xD;
+&#xD;
+          -  Subjects who did not undergo orthodontic treatment and/or did not have teeth that&#xD;
+             rotated more than 45 degrees and/or displaced more than 1.5 mm&#xD;
+&#xD;
+          -  Subjects who are of Cantonese descent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects with periodontal disease whereby there is pathological tooth migration and&#xD;
+             alteration of occlusal plane.&#xD;
+&#xD;
+          -  Subjects who are under the age of 18 and unable to give consent.&#xD;
+&#xD;
+          -  Subjects with extensive teeth restorations that affect the morphology.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Walter Lam, BDS, MDS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The University of Hong Kong</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Walter Lam, BDS, MDS</last_name>
+    <phone>+852-2859-0306</phone>
+    <email>retlaw@hku.hk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Prince Philip Dental Hospital</name>
+      <address>
+        <city>Sai Ying Pun</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Walter Lam, BDS, MDS</last_name>
+      <phone>28590306</phone>
+      <email>retlaw@hku.hk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Hong Kong</country>
+  </location_countries>
+  <reference>
+    <citation>Chow TW, Clark RK, Cooke MS. The orientation of the occlusal plane in Cantonese patients. J Dent. 1986 Dec;14(6):262-5.</citation>
+    <PMID>3468151</PMID>
+  </reference>
+  <reference>
+    <citation>Chow TW, Clark RK, Cooke MS. Errors in mounting maxillary casts using face-bow records as a result of an anatomical variation. J Dent. 1985 Dec;13(4):277-82.</citation>
+    <PMID>3866768</PMID>
+  </reference>
+  <reference>
+    <citation>Lam WY, Hsung RT, Choi WW, Luk HW, Pow EH. A 2-part facebow for CAD-CAM dentistry. J Prosthet Dent. 2016 Dec;116(6):843-847. doi: 10.1016/j.prosdent.2016.05.013. Epub 2016 Jul 28.</citation>
+    <PMID>27475920</PMID>
+  </reference>
+  <reference>
+    <citation>Lam WYH, Hsung RTC, Choi WWS, Luk HWK, Cheng LYY, Pow EHN. A clinical technique for virtual articulator mounting with natural head position by using calibrated stereophotogrammetry. J Prosthet Dent. 2018 Jun;119(6):902-908. doi: 10.1016/j.prosdent.2017.07.026. Epub 2017 Sep 29.</citation>
+    <PMID>28969919</PMID>
+  </reference>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 27, 2021</study_first_posted>
+  <last_update_submitted>September 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The University of Hong Kong</investigator_affiliation>
+    <investigator_full_name>Dr. Walter Y.H. Lam</investigator_full_name>
+    <investigator_title>Clinical Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>Artificial Intelligence</keyword>
+  <keyword>Machine Learning</keyword>
+  <keyword>Deep Neural Network</keyword>
+  <keyword>Generative Adversarial Network (GAN)</keyword>
+  <keyword>Biomimetics</keyword>
+  <keyword>Dental Prostheses</keyword>
+  <keyword>Prosthodontic Treatment</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>There is no IPD sharing plan yet</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9975">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05031416</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00273925</org_study_id>
+    <secondary_id>P50MH115842</secondary_id>
+    <nct_id>NCT05031416</nct_id>
+  </id_info>
+  <brief_title>Developing and Pilot Testing a Remote Smoking Cessation Digital Therapeutic for Individuals With Serious Mental Illness</brief_title>
+  <official_title>Developing and Pilot Testing a Remote Smoking Cessation Digital Therapeutic for Individuals With Serious Mental Illness</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a pilot randomized clinical trial testing an implementation intervention to support&#xD;
+      delivery of a smoking cessation app tailored to the needs of those individuals with SMI who&#xD;
+      at community mental health programs.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Learn to Quit (LTQ), an evidence-based smoking cessation app tailored to the needs of&#xD;
+      individuals with serious mental illness (SMI) that demonstrated promising smoking cessation&#xD;
+      outcomes in a recent pilot randomized controlled trial (R00 DA037276). In parallel, several&#xD;
+      trials demonstrated that widely available social media platforms can be effectively utilized&#xD;
+      to enhance the effects of standard of care evidence-based smoking cessation treatments. Both&#xD;
+      approaches capitalize on highly scalable digital technologies, and are therefore likely to&#xD;
+      have population level impact. Drawing from these two separate programs of research, the&#xD;
+      central premise of this proposal is that LTQ, a stand-alone smoking cessation app tailored to&#xD;
+      patients with SMI, can be enhanced with peer-support delivered on social media. Therefore,&#xD;
+      this proposal seeks to develop and asses the acceptability and feasibility of LTQ-Connect --&#xD;
+      the integration of the evidence-based smoking cessation app, LTQ, with social support&#xD;
+      delivered via social media -- to boost the efficacy and community reach of digital&#xD;
+      therapeutics tailored for patients with SMI. To achieve this goal, we will:&#xD;
+&#xD;
+      (1) determine the ideal design requirements of an LTQ-Connect integration among smokers with&#xD;
+      SMI, and (2) investigate the feasibility of LTQ-Connect in a single group pilot trial. Both&#xD;
+      interventions will be combined with nicotine replacement therapy, a safe and widely available&#xD;
+      medication.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2022</start_date>
+  <completion_date type="Anticipated">June 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Self reported social support</measure>
+    <time_frame>13 weeks</time_frame>
+    <description>An adapted version of Online Social Support (OSS) scale for smokers will be used to evaluate self-reported social support from online smoking cessation treatment (LTQapp + Facebook group) The OSS scale is a 14 item scale with choices - 1 disagree a lot, to 4 agree a lot. Scale range 14- 56 with higher score indicating better outcome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>App Usability</measure>
+    <time_frame>13 weeks</time_frame>
+    <description>The System Usability Scale (SUS) is a 10-item scale used to evaluate usability of the LTQ-Connect app. Choices range from 1 strongly disagree, to 5 Strongly agree. Scale range 10-50 with higher score indicating more agreement.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of user Interactions with the Learn to Quit (LTQ) app</measure>
+    <time_frame>13 weeks</time_frame>
+    <description>Google Analytics will be used to extract number of daily app interactions and duration of engagement with LTQ app.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Duration of user Interactions with the Learn to Quit (LTQ) app</measure>
+    <time_frame>13 weeks</time_frame>
+    <description>Google Analytics will be used to extract daily duration of interactions with LTQ app in minutes.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>User Engagement with Facebook groups - Posts</measure>
+    <time_frame>13 weeks</time_frame>
+    <description>The Facebook API will be used to extract number of Facebook posts.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>User Engagement with Facebook groups - Comments</measure>
+    <time_frame>13 weeks</time_frame>
+    <description>The Facebook application programming interface (API) will be used to extract number of Facebook comments.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>User Engagement with Facebook groups - Likes</measure>
+    <time_frame>13 weeks</time_frame>
+    <description>The Facebook API will be used to extract number of Facebook likes.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>User Engagement with Facebook groups - Content</measure>
+    <time_frame>13 weeks</time_frame>
+    <description>The Facebook API will be used to extract engagement content of Facebook posts, comments, and 'likes.'</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in number of cigarettes smoked per day</measure>
+    <time_frame>Week 5, Week 9, and Week 13</time_frame>
+    <description>The Smoking timeline follow-back (TLFB) will be used to estimate the number of cigarettes per day</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Psychiatric Functioning</measure>
+    <time_frame>Week 5, Week 9, and Week 13</time_frame>
+    <description>The Brief Symptom Inventory (BSI) assesses distress participants are experiencing. The BSI is a 13 item scale with choices 0=not at all, to 4= Extremely. A higher score indicates more distress. Score range 0-52.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">25</enrollment>
+  <condition>Smoking Cessation</condition>
+  <arm_group>
+    <arm_group_label>Consumers who smoke at outpatient community mental health clinic</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Consumers with serious mental illness who attend outpatient community mental health clinic will participate in a smoking cessation with the LTQ application and nicotine replacement therapy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>LTQ</intervention_name>
+    <description>The investigators will test the LTQ-Connect application and a standard 10-week course of nicotine replacement therapy (NRT) nicotine patches, and Facebook groups, which will run for a total of 3 months with research study participants</description>
+    <arm_group_label>Consumers who smoke at outpatient community mental health clinic</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Must be a mental health consumer at Johns Hopkins Bayview Adult Psychiatry Program&#xD;
+&#xD;
+          -  A regular smoker who is willing to quit&#xD;
+&#xD;
+          -  Own a smart cell phone&#xD;
+&#xD;
+          -  Willing to participate&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Women who report being pregnant or have the intention to become pregnant in the 3&#xD;
+             months&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gail Daumit</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Joseph Gennusa</last_name>
+    <phone>410-281-1130</phone>
+    <email>jgennus1@jhmi.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Johns Hopkins University School of Medicine</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2021</verification_date>
+  <study_first_submitted>August 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>August 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 1, 2021</study_first_posted>
+  <last_update_submitted>December 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Mental Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

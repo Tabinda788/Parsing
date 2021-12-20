@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9168">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05041907</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VIR21001</org_study_id>
+    <nct_id>NCT05041907</nct_id>
+  </id_info>
+  <brief_title>Finding Treatments for COVID-19: A Trial of Antiviral Pharmacodynamics in Early Symptomatic COVID-19 (PLATCOV)</brief_title>
+  <acronym>PLATCOV</acronym>
+  <official_title>Finding Treatments for COVID-19: A Phase 2 Multi-centre Adaptive Platform Trial to Assess Antiviral Pharmacodynamics in Early Symptomatic COVID-19 (PLATCOV)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Oxford</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Oxford</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The trial will develop and validate a platform for quantitative assessment of antiviral&#xD;
+      effects in low-risk patients with high viral burdens and uncomplicated COVID-19. In this&#xD;
+      randomised open label, controlled, group sequential adaptive platform trial, we will assess&#xD;
+      the performance of three distinct types of intervention relative to control (no treatment):&#xD;
+&#xD;
+      A: potentially effective repurposed antiviral drugs;&#xD;
+&#xD;
+      B: Positive control: we will initially include the REGN-COV2 (monoclonal antibody cocktail);&#xD;
+      and later:&#xD;
+&#xD;
+      C: any future small molecule drugs that pass phase 1 testing.&#xD;
+&#xD;
+      PLATCOV study is funded by ACT-Accelerator Therapeutics Partnership through the Wellcome&#xD;
+      Trust. The grant reference number is 223195/Z/21/Z&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The platform trial will assess drugs with potential SARS-CoV-2 antiviral activity of three&#xD;
+      general types:&#xD;
+&#xD;
+      A. Repurposed potential antiviral drugs (initially from: hydroxychloroquine, ivermectin,&#xD;
+      lopinavir-ritonavir, miglustat, remdesivir, nitazoxanide, nebulised unfractionated heparin&#xD;
+      (UFH), favipiravir)&#xD;
+&#xD;
+      Repurposed drugs are already recommended in some countries. Showing that they do not have a&#xD;
+      significant antiviral activity is as important as showing that they do.&#xD;
+&#xD;
+      B. Positive control: monoclonal antibody initially&#xD;
+&#xD;
+      Monoclonal antibodies are vulnerable to viral escape mutations. Tracking their performance&#xD;
+      over time is important to characterise the impact and inform the therapeutics of mutant&#xD;
+      SARS-CoV-2 strains. Monoclonal antibodies are expensive and cannot be produced at large scale&#xD;
+      currently, but this may change in the near future.&#xD;
+&#xD;
+      C. Novel small molecule drugs that have gone through phase 1 testing&#xD;
+&#xD;
+      Each site will include a negative control arm consisting of patients not receiving any study&#xD;
+      drug except for antipyretics- paracetamol.&#xD;
+&#xD;
+      At any given time in the study, it is possible that not all intervention arms are available.&#xD;
+      Randomisation ratios will be uniform across all available treatment arms of type A and B and&#xD;
+      the control arm in each site. Once interventions of type C (novel drugs) are added to the&#xD;
+      platform, response adaptive randomisation will apply (&quot;pick the winner&quot;).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 30, 2021</start_date>
+  <completion_date type="Anticipated">August 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of viral clearance for repurposed drugs</measure>
+    <time_frame>Days 0-7</time_frame>
+    <description>Change in the gradient of the slope of the semi-logarithmic plot of quantitative viral load in serial oropharyngeal swabs versus time for patients in a treatment arm, compared with patients not receiving study drug, i.e. negative control</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate of viral clearance of positive control (monoclonal antibodies) over time relative to the negative control</measure>
+    <time_frame>Days 0-7</time_frame>
+    <description>Change in the gradient of the slope of the semi-logarithmic plot of quantitative viral load in serial oropharyngeal swabs versus time for patients in a treatment arm, compared with patients not receiving study drug, i.e. negative control</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate of viral clearance for small novel molecule drugs</measure>
+    <time_frame>Days 0-7</time_frame>
+    <description>Change in the gradient of the slope of the semi-logarithmic plot of quantitative viral load in serial oropharyngeal swabs versus time for patients in a treatment arm, compared with patients not receiving study drug, i.e. negative control</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Viral kinetic levels in early COVID-19 disease</measure>
+    <time_frame>Days 0-7</time_frame>
+    <description>Change in the gradient of the slope of the semi-logarithmic plot of quantitative viral load in serial oropharyngeal swabs versus time for patients in a treatment arm, compared with patients not receiving study drug, i.e. negative control</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of antiviral treatment arms that show a positive signal (&gt;90% probability of &gt;5% acceleration in viral clearance)</measure>
+    <time_frame>Days 0-7</time_frame>
+    <description>Change in the gradient of the slope of the semi-logarithmic plot of quantitative viral load in serial oropharyngeal swabs versus time for patients in a treatment arm, compared with patients not receiving study drug, i.e. negative control</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rates of viral clearance by treatment arm, as compared against REGN-COV2 (monoclonal antibody cocktail)</measure>
+    <time_frame>Days 0-7</time_frame>
+    <description>Change in the gradient of the slope of the semi-logarithmic plot of quantitative viral load in serial oropharyngeal swabs versus time for patients in a treatment arm, compared with patients not receiving study drug, i.e. negative control</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Rates of hospitalisation by treatment arm</measure>
+    <time_frame>Days 0-28</time_frame>
+    <description>Number of hospitalisations up to Day 28 in a treatment arm with an increased rate of viral clearance compared with the negative control i.e. patients not receiving study drug</description>
+  </other_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">750</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Positive control (monoclonals)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Favipiravir</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ivermectin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Remdesivir</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Negative control group</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Favipiravir</intervention_name>
+    <description>Favipiravir 1800mg BD D0 and 800mg BD for a further 6/7.</description>
+    <arm_group_label>Favipiravir</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Monoclonal antibodies</intervention_name>
+    <description>Monoclonal antibodies: 1,200mg casirivimab/ 1,200mg imdevimab given once on D0</description>
+    <arm_group_label>Positive control (monoclonals)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ivermectin</intervention_name>
+    <description>Ivermectin 600micrograms/kg/day for 7/7.</description>
+    <arm_group_label>Ivermectin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>No treatment</intervention_name>
+    <description>No treatment (except antipyretics- paracetamol)</description>
+    <arm_group_label>Negative control group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Remdesivir</intervention_name>
+    <description>Remdesivir 200mg D0 and 100mg for a further 4/7.</description>
+    <arm_group_label>Remdesivir</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient understands the procedures and requirements and is willing and able to give&#xD;
+             informed consent for full participation in the study.&#xD;
+&#xD;
+          -  Previously healthy adults, male or female, aged 18 to 50 years at time of consent with&#xD;
+             early symptomatic COVID-19&#xD;
+&#xD;
+          -  SARS-CoV-2 positive by lateral flow antigen test&#xD;
+&#xD;
+          -  Symptoms of COVID-19 (including fever, or history of fever) for less than 4 days (96&#xD;
+             hours).&#xD;
+&#xD;
+          -  Oxygen saturation ≥96% measured by pulse-oximetry at time of screening.&#xD;
+&#xD;
+          -  Able to walk unaided and unimpeded in ADLs&#xD;
+&#xD;
+          -  Agrees and is able to adhere to all study procedures, including availability and&#xD;
+             contact information for follow-up visits&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        The patient may not enter the study if ANY of the following apply:&#xD;
+&#xD;
+          -  Taking any concomitant medications or drugs (see appendix 4)†&#xD;
+&#xD;
+          -  Presence of any chronic illness/ condition requiring long term treatment, or other&#xD;
+             significant comorbidity (e.g. diabetes, obesity but see appendix 4 for the full list)&#xD;
+&#xD;
+          -  Laboratory abnormalities discovered at screening (see appendix 4)&#xD;
+&#xD;
+          -  For females: pregnancy, actively trying to become pregnant, or lactation&#xD;
+&#xD;
+          -  Contraindication to taking, or known hypersensitivity reaction to any of the proposed&#xD;
+             therapeutics (see appendix 4)&#xD;
+&#xD;
+          -  Currently participating in another COVID-19 therapeutic or vaccine trial&#xD;
+&#xD;
+          -  Evidence of pneumonia (although imaging is NOT required)&#xD;
+&#xD;
+               -  healthy women on the oral contraceptive pill are eligible to join the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>William Schilling, MD</last_name>
+    <phone>+662 203 6333</phone>
+    <email>william@tropmedres.ac</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Nicholas J White, Prof.</last_name>
+    <phone>+662 203 6333</phone>
+    <email>nickw@tropmedres.ac</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Faculty of Tropical Medicine, Mahidol University</name>
+      <address>
+        <city>Bangkok</city>
+        <zip>10400</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Weerapong Phumratanaprapin, MD</last_name>
+      <email>weerapong.phu@mahidol.ac.th</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Thailand</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 13, 2021</study_first_posted>
+  <last_update_submitted>October 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Phase 2</keyword>
+  <keyword>Antiviral Pharmacodynamics</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ivermectin</mesh_term>
+    <mesh_term>Remdesivir</mesh_term>
+    <mesh_term>Favipiravir</mesh_term>
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>With patient's consent, clinical data and results from blood analyses stored in the database may be shared according to the terms defined in the MORU data sharing policy with other researchers to use in the future.&#xD;
+Data generated from this study will adhere to the 2016 &quot;Statement on data sharing in public health emergencies&quot;(https://wellcome.ac.uk/press-release/statement-data-sharing-public-health-emergencies).</ipd_description>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>after the main paper has been published</ipd_time_frame>
+    <ipd_access_criteria>MORU Data Sharing Policy https://www.tropmedres.ac/units/moru-bangkok/bioethics-engagement/data-sharing.&#xD;
+The criteria for authorship will be consistent with the international guidelines (http://www.icmje.org/#author).</ipd_access_criteria>
+    <ipd_url>http://wellcome.ac.uk/press-release/statement-data-sharing-public-health-emergencies</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

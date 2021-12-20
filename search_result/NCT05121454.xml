@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3051">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05121454</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0406-21-TLV</org_study_id>
+    <nct_id>NCT05121454</nct_id>
+  </id_info>
+  <brief_title>Validation of Serenno CUO and IAP Measuring Device</brief_title>
+  <official_title>Validation of an Automatic Continuous Urine Output (CUO) and Intra-Abdominal Pressure (IAP) Measuring Device</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tel-Aviv Sourasky Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Tel-Aviv Sourasky Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Serenno Medical Automatic Urine Output measuring device is intended to measure volumetric&#xD;
+      flow rate (total volume and rate) of urine produced per minute over long periods by a patient&#xD;
+      with a urinary catheter as well as high resolution IAP via bladder pressure (IBP). The device&#xD;
+      comprises a control unit located near the bed, and a disposable unit connected between the&#xD;
+      catheter and the urine collection tube/bag. The disposable unit is connected to the control&#xD;
+      unit with a tube.&#xD;
+&#xD;
+      Frequent and accurate Intra-Abdominal Pressure measurements facilitate management of critical&#xD;
+      care patients, yet this parameter is normally measured manually, intermittently, and&#xD;
+      inaccurately. Automating IAP measurement will increase responsiveness, reduce workload, and&#xD;
+      potentially improve outcomes. The investigators goal is to validate the accuracy urinary&#xD;
+      catheter estimates of IAP compared to the gold standard during the application of a wide&#xD;
+      range of pressures controlled by a validated closed-loop insufflation reference.&#xD;
+&#xD;
+      Primary Objective:&#xD;
+&#xD;
+      The study objective is to evaluate the accuracy of the Serenno Medical IAP measurements in&#xD;
+      patients with indwelling urinary catheters vs. the gold standard - the Foley Manometer&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The system which is the subject of the current study comprises two connected parts, the&#xD;
+      controller and the disposable.The disposable is a special pressure sensing fluid pump&#xD;
+      connected serially between the catheter and urine bag. The pump is operated by controlled air&#xD;
+      pressures sent via three tubes from the controller. The pump operates in strokes, with each&#xD;
+      stroke passing exactly 1ml of fluid from the input port which is connected to the catheter in&#xD;
+      the patients' bladder, to the output port, which is connected via a long tube to the urine&#xD;
+      collection container (bag or other). Since each stroke of the pump is known and constant, and&#xD;
+      the monitor is counting and timing the strokes both current urine production rate, flow rate&#xD;
+      and cumulative urine volume over any period can be measured. The pump is also unique in that&#xD;
+      its design allows the controller to measure the fluid pressure at both the input port, as&#xD;
+      well as in the output port allowing automatic high resolution Intra-Abdominal pressure&#xD;
+      monitoring in parallel and without interrupting the Urine Output monitoring.&#xD;
+&#xD;
+      Ongoing pressure monitoring and supporting algorithm remove the need to manually fill and&#xD;
+      empty the bladder and avoid interrupting urine output monitoring. The method also delivers&#xD;
+      multiple per-hour IAP measurements and is able to show trends to correlate to patient angle&#xD;
+      and condition.&#xD;
+&#xD;
+      Urine pumping eliminates all problems associated with existing systems and methods for&#xD;
+      measuring urine output. The volume measurement is accurate since it is measured in a&#xD;
+      &quot;digital&quot; format, by calculating of number of fixed bolus units transferred. Dependent loop&#xD;
+      and tube related accumulation are avoided since the pump passes a fixed volume of urine, no&#xD;
+      matter how it is distributed in the drain tube. Similarly, urine composition, temperature,&#xD;
+      production rate, specific weight are irrelevant to the pumping accuracy, as well as&#xD;
+      patient/bed motions and vibrations.&#xD;
+&#xD;
+      The controller operates the pump in a cyclic fashion. First, it measures the urine pressure&#xD;
+      inside the patients' bladder, as it is expressed as the pressure in the pump input port. A&#xD;
+      positive pressure of a few mmHg indicates that there is a minimal volume of urine in the&#xD;
+      bladder (and also indicate IAP). The controller then runs the pump for a single cycle,&#xD;
+      removing 1cc of urine from the bladder and repeating the pressure measurement and pump&#xD;
+      operation until the pressure at the input port drops back to zero - indicating an empty&#xD;
+      bladder, then stops. This process repeats for the duration of use. UO is calculated by the&#xD;
+      number of cycles and time of each divided by the relevant timeframe, normally cc/h.Providing&#xD;
+      a continuous fully automated and accurate method to measure IAP could be important in several&#xD;
+      clinical setups. Current reference methods for IAP measurement are intermittent and&#xD;
+      cumbersome. They are affected by body position, zero reference, and highly user dependent.&#xD;
+&#xD;
+      Study design allows a large range of pressure levels assessed simultaneously between the&#xD;
+      study device and the gold standard.&#xD;
+&#xD;
+      The study population is a good representation of the target population, being sedated in the&#xD;
+      supine position.&#xD;
+&#xD;
+      Subjects will be recruited in the pre-operative period by the study staff. b. Study Duration&#xD;
+      (per subject and total):&#xD;
+&#xD;
+      33 patients (3 pilot patients) Durations from study device connection to removal during the&#xD;
+      OR procedure. Estimated 15 minutes.&#xD;
+&#xD;
+      Total study duration is estimated as 12 months from its initiation. c. Study procedure:&#xD;
+      Screening Subjects will be screened according to eligibility criteria. The investigator will&#xD;
+      explain to the patient the nature of the study, its purpose, the procedures involved, the&#xD;
+      expected duration, the potential risks and benefits involved and any discomfort it may&#xD;
+      entail. The patients will be informed that participation in the study is voluntary, that the&#xD;
+      participants may withdraw from the study at any time and that withdrawal of consent will not&#xD;
+      affect his/her subsequent medical treatment (if any) or relationship with the treating&#xD;
+      physician.&#xD;
+&#xD;
+      System set up, initiate data collection and follow up.&#xD;
+&#xD;
+      A sealed envelope containing a set of 5 computer-generated random pressure insufflation&#xD;
+      targets will be opened. This will be used for stage 9.&#xD;
+&#xD;
+      A new and sterile study device disposable pump will be used for each patient (study device).&#xD;
+&#xD;
+      A new and sterile IAP Foley Manometer will be used for each patient. The Foley Manometer will&#xD;
+      be positioned so it is visible, stationary and it's zero point is at the same level as&#xD;
+      required in the device installation requirements at the level of the bladder.&#xD;
+&#xD;
+      The study device Controller unit will be cleaned per OR procedures between uses (study&#xD;
+      device).&#xD;
+&#xD;
+      If catheter is installed in the OR (as part of the OR requirements) it should not be drained&#xD;
+      to a bag and immediately connected to the Foley Manometer The investigator or study staff in&#xD;
+      the OR will connect the study device and IAP Foley Manometer to the patient urine line,&#xD;
+      noting the date and time.&#xD;
+&#xD;
+      If needed for the IAP Foley Manometer reading and/or study device a fluid bolus of 25cc will&#xD;
+      be introduced and recorded.&#xD;
+&#xD;
+      If needed, the battery of the device will be replaced as needed. Data storage card from the&#xD;
+      device will be backed up between uses.&#xD;
+&#xD;
+      An investigator or study staff will perform a series of intermittent measurements using the&#xD;
+      Foley Manometer (manual IAP measurement) while the surgeon is changing the insufflation&#xD;
+      pressures to the preselected random targets, all between 8-25 mmHg. Each level will be&#xD;
+      maintained for a duration of 30 seconds.&#xD;
+&#xD;
+      The study device will measure and save ongoing IAP during the process, measurements gathered&#xD;
+      by the study device will not be visible once measurements have started and can only be&#xD;
+      retrieved from the device memory during analysis. Urine Output functions will be turned off.&#xD;
+&#xD;
+      After the set of measurements, the study device disposable unit and the manometer unit will&#xD;
+      be disconnectedNote: Disconnection of the patient from the study device control unit is&#xD;
+      considered as study termination.&#xD;
+&#xD;
+      The surgical procedure will resume as normal.&#xD;
+&#xD;
+      Study termination: system removal and documentation&#xD;
+&#xD;
+        1. The investigator in the OR will disconnect the study device and IAP Foley Manometer from&#xD;
+           the patient urine line.&#xD;
+&#xD;
+        2. The disconnected equipment will be sealed in a bio-hazard bag marked with the subject&#xD;
+           study number and returned to Serenno as soon as possible. After inspection it will be&#xD;
+           destroyed at the responsibility of Serenno.&#xD;
+&#xD;
+        3. The SD card carrying the patients' data will be removed from the controller, marked with&#xD;
+           the subject study number,. A new, blank SD card will be inserted in the controller in&#xD;
+           preparation for the next patient.&#xD;
+&#xD;
+        4. The controller can be used with the next patient after cleaning and disinfection per the&#xD;
+           OR normal operating procedures and IFU (instruction for use).&#xD;
+&#xD;
+        5. Patients' CRF will include information covering the study period will be extracted from&#xD;
+           the patient's medical files. The data included in the CRF shall include, at a minimum:&#xD;
+           i. Hospital records,, weight, BMI, ASA score or equivalent at admission. ii. The set of&#xD;
+           Foley Manometer IAP measurements and the set of insufflation levels and their timing&#xD;
+           preformed during the procedure (corresponding to the random values from the envelope).&#xD;
+&#xD;
+      iii. Record of any unusual events during the study period, made by the OR staff iv. Record of&#xD;
+      any unusual events during the study period, made by a technical representative.&#xD;
+&#xD;
+      v. Control unit and disposable units serial numbers used per session&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 15, 2021</start_date>
+  <completion_date type="Anticipated">October 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Accuracy of intra-abdominal pressure measurements according to the study device</measure>
+    <time_frame>10 minutes prior to surgery</time_frame>
+    <description>Intra-abdominal pressure in mmHg compared to measurements from a Foley Manometer at different insufflation pressures between 8 and 25 cmH20 at 30-seconds intervals.</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">33</enrollment>
+  <condition>Urinary Catheter</condition>
+  <condition>Laparoscopic Surgery</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Serenno Sentinel, model Alpha 2.0, software version: 8.0</intervention_name>
+    <description>intra-abdominal pressure measurements compared to a Foley Manometer at different insufflation pressures between 5 and 25 cmH20 at 30seconds intervals.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        patients undergoing laparoscopic surgical procedure requiring an indwelling urinary&#xD;
+        catheter.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male and female patients aged 18 years or more.&#xD;
+&#xD;
+          2. Patients scheduled for laparoscopic surgical procedure requiring an indwelling urinary&#xD;
+             catheter.&#xD;
+&#xD;
+          3. Providing informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Known urological pathology&#xD;
+&#xD;
+          2. Known pregnancy&#xD;
+&#xD;
+          3. Cognitive and/or psychiatric impairment precluding informed consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Barak Cohen, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Vice Chair Division of Anesthesiology, Intensive Care Medicine and Pain management</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Barak Cohen, MD</last_name>
+    <phone>+972527360368</phone>
+    <email>barakc@tlvmc.gov.il</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Yuval Baar, Msc</last_name>
+    <phone>+97236974093</phone>
+    <email>yuvalba@tlvmc.gov.il</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Division of Anaesthesia, Intensive Care, and Pain Management, Tel-Aviv Medical Center</name>
+      <address>
+        <city>Tel Aviv</city>
+        <zip>6423906</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Barak Cohen, Dr</last_name>
+      <phone>+972527360368</phone>
+      <email>barakc@tlvmc.gov.il</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>October 31, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2021</study_first_posted>
+  <last_update_submitted>December 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Tel-Aviv Sourasky Medical Center</investigator_affiliation>
+    <investigator_full_name>Barak Cohen, MD</investigator_full_name>
+    <investigator_title>Vice Chair Division of Anesthesiology, Intensive Care Medicine and Pain management, Tel-Aviv Medical Center, Sackler faculty of medicine, Tel-Aviv University, Israel</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

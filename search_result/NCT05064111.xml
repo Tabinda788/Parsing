@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7462">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05064111</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2012285076</org_study_id>
+    <nct_id>NCT05064111</nct_id>
+  </id_info>
+  <brief_title>Utility of Adding MR Fusion to Standard US Guided Prostate Biopsy</brief_title>
+  <official_title>Improved Detection and Localization Accuracy of Early Aggressive Prostate Adenocarcinoma Using Novel MR-directed Ultrasound-guided (MRdUSg) Prostate Biopsy Technique</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Arizona</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Arizona</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to utilize this technology in the early detection and staging of&#xD;
+      pathologic states within prostate cancer patients using the information obtained on mpMRI and&#xD;
+      serum biomarkers from the patient's blood (if collected). Ultimately, investigators hope to&#xD;
+      improve the diagnostic accuracy and treatment selection process for these patients. Applying&#xD;
+      the fusion software which adds mpMRI to ultrasound images in real time, to an otherwise&#xD;
+      clinically standard but non-targeted ultrasound-guided prostate biopsy procedure will help&#xD;
+      with accurate and early diagnosis of prostate cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 1, 2021</start_date>
+  <completion_date type="Anticipated">July 1, 2026</completion_date>
+  <primary_completion_date type="Anticipated">July 1, 2026</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evaluate investigational fusion software.</measure>
+    <time_frame>Through study completion, planned 5 year duration.</time_frame>
+    <description>To evaluate the sensitivity of the investigational software to aid in targeted biopsy of prostate lesions seen on pre-biopsy mpMRI.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assess accuracy of mpMRI.</measure>
+    <time_frame>Through study completion, planned 5 year duration.</time_frame>
+    <description>To assess the diagnostic accuracy of Multiparametric Magnetic Resonance Imaging (mpMRI) provided Prostate Imaging Reporting and Data System (PIRADS) with pathology as the reference standard. The research-only procedure of collecting blood will be drawn during the scheduled biopsy visit, using no more than 15 minutes when the subject would already be at the visit. TRUS biopsy is standard of care. Experimental software will be added during the TRUS biopsy, at the time of needle localization. The software performs a computation on the ultrasound machine that fuses the pre-biopsy mpMRI images with the real-time ultrasound images.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess sensitivity of software.</measure>
+    <time_frame>Through study completion, planned 5 year duration.</time_frame>
+    <description>To assess the sensitivity of the investigation software in successfully targeting clinically significant prostate cancer, defined as Gleason score of 3+4 or greater. The research-only procedure of collecting blood will be drawn during the scheduled biopsy visit, using no more than 15 minutes when the subject would already be at the visit. TRUS biopsy is standard of care. Experimental software will be added during the TRUS biopsy, at the time of needle localization. The software performs a computation on the ultrasound machine that fuses the pre-biopsy mpMRI images with the real-time ultrasound images.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of imaging with biomarkers.</measure>
+    <time_frame>Through study completion, planned 5 year duration.</time_frame>
+    <description>To correlate Prostate Imaging Reporting and Data System (PIRADS) score from Multiparametric Magnetic Resonance Imaging (mpMRI) with cellular/ molecular biomarkers of aggressive cancer in the biopsy tissue samples. The research-only procedure of collecting blood will be drawn during the scheduled biopsy visit, using no more than 15 minutes when the subject would already be at the visit. TRUS biopsy is standard of care. Experimental software will be added during the TRUS biopsy, at the time of needle localization. The software performs a computation on the ultrasound machine that fuses the pre-biopsy mpMRI images with the real-time ultrasound images.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Prostate Cancer</condition>
+  <condition>Prostate Adenocarcinoma</condition>
+  <arm_group>
+    <arm_group_label>All subjects</arm_group_label>
+    <description>The experimental conditions will include a standard prostate biopsy using an FDA-approved ultrasound machine with application of the experimental (non-FDA approved) image fusion software.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>TRUS biopsy</intervention_name>
+    <description>The biopsy procedure will be completed using an FDA-approved ultrasound machine with the addition of an investigational (non-FDA approved) image fusion software.</description>
+    <arm_group_label>All subjects</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult male patients undergoing diagnostic work up for suspected or recurrent prostate&#xD;
+        cancer as standard of care.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Able to give informed consent&#xD;
+&#xD;
+          2. Male - age &gt; 18&#xD;
+&#xD;
+          3. mpMRI within the previous 6 months (PIRADS 3,4,5, all stages of PCa)&#xD;
+&#xD;
+          4. Scheduled for TRUS biopsy for prostate lesion or mass&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Age under 18 years of age.&#xD;
+&#xD;
+          2. Female&#xD;
+&#xD;
+          3. Pre-existing blood dyscrasias&#xD;
+&#xD;
+          4. Inability to perform TRUS due to anal sphincter closure/surgery&#xD;
+&#xD;
+          5. Patients needing general anesthesia&#xD;
+&#xD;
+          6. Patients allergic to lidocaine&#xD;
+&#xD;
+          7. Patients allergic or unbale to take antibiotics&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Adult male patients undergoing diagnostic work up for suspected or recurrent prostate cancer as standard of care.</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hina Arif-Tiwari, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Arizona</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Hina Arif-Tiwari, MD</last_name>
+    <phone>520-626-2783</phone>
+    <email>hinaarif@radiology.arizona.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Carol Stuehm</last_name>
+    <phone>5206268318</phone>
+    <email>carols@arizona.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Arizona</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85724</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Amy Selegue</last_name>
+      <phone>520-626-0301</phone>
+      <email>aselegue@arizona.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Hina Arif-Tiwari, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>August 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 1, 2021</study_first_posted>
+  <last_update_submitted>September 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+    <mesh_term>Adenocarcinoma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

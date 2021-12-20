@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3307">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05118126</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020phe078</org_study_id>
+    <nct_id>NCT05118126</nct_id>
+  </id_info>
+  <brief_title>Gut Microbiota in ITP</brief_title>
+  <official_title>Diagnostic and Therapeutic Value of Gut Microbiome in Adult Immune Thrombocytopenia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Peking University People's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Beijing Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Peking University People's Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Prospective, observational study to explore the significance of gut microbiome in the&#xD;
+      diagnosis of ITP, and to identify the predictive value of baseline gut microbiome for GC&#xD;
+      resistance/relapse.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A prospective, observational study to (1) collect fecal samples from ITP patients at initial&#xD;
+      diagnosis (baseline) and after first-line GC treatment, (2) detect the composition of gut&#xD;
+      microbiome and related metabolites using metagenomic sequencing combined with metabolomics,&#xD;
+      (3) observe the impact of first-line treatment on gut microbiome, (4) explore the&#xD;
+      significance of gut microbiome in the diagnosis of ITP, and (5) identify the predictive value&#xD;
+      of baseline gut microbiome for GC resistance/relapse, thus to provide new ideas for clinical&#xD;
+      diagnosis and treatment of ITP.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2021</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>AUC value of 1-month drug resistance/relapse using baseline gut microbiota efficacy prediction model</measure>
+    <time_frame>1 month</time_frame>
+    <description>The prediction model is constructed and calculated using machine learning methods</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>AUC value of 3-month drug resistance/relapse using baseline gut microbiota efficacy prediction model</measure>
+    <time_frame>3 months</time_frame>
+    <description>The prediction model is constructed and calculated using machine learning</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC value of 6-month drug resistance/relapse using baseline gut microbiota</measure>
+    <time_frame>6 months</time_frame>
+    <description>The prediction model is constructed and calculated using machine learning</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to response</measure>
+    <time_frame>6 months</time_frame>
+    <description>The time to achieve platelet count ≥ 30×10^9/L and at least 2-fold increase of the baseline count and absence of bleeding since start of treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response</measure>
+    <time_frame>6 months</time_frame>
+    <description>The duration of achieve platelet count ≥ 30×10^9/L and at least 2-fold increase of the baseline count and absence of bleeding since start of treatment</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">240</enrollment>
+  <condition>ITP</condition>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Fecal sample collection and metagenomic sequencing: A specific stool sample collector was&#xD;
+      selected to collect an appropriate amount of stool samples (≥1g/ sample). Samples that could&#xD;
+      not be extracted immediately were transported on dry ice and stored at -80℃. DNA was&#xD;
+      extracted by phenol/chloroform method. Qubit Fluorometer is used to test samples DNA&#xD;
+      concentration, agarose gel electrophoresis (gel concentration: 1%; Voltage: 150 V;&#xD;
+      Electrophoresis time: 40 min) is used to test DNA integrity of samples, and unqualified&#xD;
+      samples with insufficient DNA amount or degradation were eliminated. Qualified samples were&#xD;
+      used for DNA library construction and Illumina sequencing. The sequencing library was&#xD;
+      constructed according to Illumina's official operating instructions and further optimized.&#xD;
+      Qualified libraries were sequenced using Illumina platform.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with newly diagnosed ITP who would receive first-line therapy (glucocorticoid&#xD;
+        therapy with platelet infusion) according to the clinician's or patient's decision.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18 years or older;&#xD;
+&#xD;
+          -  Isolated thrombocytopenia (platelet count of less than 100×10^9/L);&#xD;
+&#xD;
+          -  Normal leukocyte and erythrocyte counts according to routine blood tests;&#xD;
+&#xD;
+          -  Did not receive any medication for thrombocytopenia for 6 months.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Secondary ITP such as drug-associated thrombocytopenia;&#xD;
+&#xD;
+          -  Thrombocytopenia caused by viral infection (HIV, Hepatitis B virus or Hepatitis C&#xD;
+             virus);&#xD;
+&#xD;
+          -  Nursing or pregnant women;&#xD;
+&#xD;
+          -  Severe dysfunction of the heart, kidney, lung or liver;&#xD;
+&#xD;
+          -  Active or previous malignancy;&#xD;
+&#xD;
+          -  Patients with other diseases were undergoing treatment with immunosuppressants;&#xD;
+&#xD;
+          -  Myelodysplastic disorder or myelofibrosis;&#xD;
+&#xD;
+          -  Patients who were undergoing first - or second-line therapy for thrombocytopenia&#xD;
+             within 6 months.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Xiao-Hui Zhang, Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Peking University People's Hospital, Peking University Insititute of Hematology</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Xiao-Hui Zhang, Dr.</last_name>
+    <phone>+8613522338836</phone>
+    <email>zhangxh100@sina.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Feng-Qi Liu, MD.</last_name>
+    <phone>+8618301231630</phone>
+    <email>liufengqi1230@163.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Peking University Insititute of Hematology, Peking University People's Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100010</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Xiao-Hui Zhang, doctor</last_name>
+      <email>zhangxh100@sina.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Feng-Qi Liu, doctor</last_name>
+      <phone>+8618301231630</phone>
+      <email>liufengqi1230@163.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 11, 2021</study_first_posted>
+  <last_update_submitted>November 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Peking University People's Hospital</investigator_affiliation>
+    <investigator_full_name>Xiao Hui Zhang</investigator_full_name>
+    <investigator_title>Vice president of Peking Univeristy Institute of Hematology</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

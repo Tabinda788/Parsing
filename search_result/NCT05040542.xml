@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9273">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05040542</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CCBN_01</org_study_id>
+    <nct_id>NCT05040542</nct_id>
+  </id_info>
+  <brief_title>The Brain Mechanism of Social Emotion and Communication in Infants Aged 0 to 6 Years</brief_title>
+  <official_title>A Cohort Study on the Brain Mechanism of Social Emotion and Communication in Infants Aged 0 to 6 Years</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Children's Hospital of Fudan University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Xiamen Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Children's Hospital of Fudan University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study explores the relationship between brain development and infants' social emotion&#xD;
+      and communication ability, as well as the role of genetic factors in it.To provide a&#xD;
+      theoretical basis for precise intervention of infants' social emotion and communication&#xD;
+      problems and the overall improvement of brain development.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study uses functional magnetic resonance imaging (fMRI) is a ultra-fast imaging&#xD;
+      technology to reflect the changes in brain function when the brain is stimulated or&#xD;
+      pathologically affected. There are 4 working imaging techniques for fMRI,including&#xD;
+      blood-oxygen-level dependent fMRI,perfusion weighted imaging(PWI),perfusion weighted&#xD;
+      imaging(PWI) and MRI spectroscopy.fMRI combine with cloud computing to analyze brain&#xD;
+      structure, brain function, brain connection,brain development trajectory,multi-modal brain&#xD;
+      imaging artificial Intelligent calculation, and draw dynamic connection map of the brain&#xD;
+      development in children aged 0-6 years.In addition,using the Chinese Urban Children's Emotion&#xD;
+      and Social Assessment Scale (CITSEA) to evaluate children's social and emotional behavior and&#xD;
+      Gesell Developmental Scale(GDS) to assess neurological integrity and functional maturity of&#xD;
+      children, and explore their relationship with brain imaging.Blood samples of enrolled&#xD;
+      subjects will be taken for the Whole Exon Sequencing to find genes implicated in brain&#xD;
+      intellectual development, and explore its relationship with brain imaging.This study explores&#xD;
+      the relationship between brain development and infants' social emotion and communication&#xD;
+      ability, as well as the role of genetic factors in it.To provide a theoretical basis for&#xD;
+      precise intervention of infants' social emotion and communication problems and the overall&#xD;
+      improvement of brain development.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 1, 2021</start_date>
+  <completion_date type="Anticipated">August 31, 2026</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2026</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Brain structure (cortical thickness) change of subjects</measure>
+    <time_frame>at baseline,and 6 months after baseline.</time_frame>
+    <description>Using T1 weighted and T2 weighted images to measure brain cortical thickness, analyzing the brain structural changes over time.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Brain structural connectivity change of subjects</measure>
+    <time_frame>at baseline,and 6 months after baseline.</time_frame>
+    <description>Using diffusion-weighted images to measure the structural connectivity matrix (based on fiber tracking) of brain, analyzing the brain structural connectivity changes over time.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Brain functional connectivity change of subjects</measure>
+    <time_frame>at baseline,and 6 months after baseline.</time_frame>
+    <description>Using resting state functional MRI (blood-oxygen-level dependent) to measure the functional connectivity matrix, analyzing the brain functional connectivity changes over time.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cerebral blood flow change of subjects</measure>
+    <time_frame>at baseline,and 6 months after baseline.</time_frame>
+    <description>Using arterial spin labeling (ASL) to measure relative cerebral blood flow (rCBF) can produce quantitative cerebral perfusion images, analyzing the change of brain perfusion over time.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Social and emotional behavior change of subjects (CITSEA score)</measure>
+    <time_frame>at baseline,and 6 months after baseline.</time_frame>
+    <description>Using Chinese Version of Urban Infant-Toddler Social and Emotional Assessment (CITSEA) to evaluate children's social and emotional behavior, including four broad domains: 1) externalizing problems; 2) internalizing problems; 3) dysregulation problems; 4) competencies.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Brain development change of subjects (GDS score)</measure>
+    <time_frame>at baseline,and 6 months after baseline.</time_frame>
+    <description>Using Gesell Development Scale (GDS) to assess neurological integrity and functional maturity of children, including adaptive behavior, gross motor behavior, fine motor behavior, language behavior and personal- social behavior.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Developmental level prediction change of subjects (brain age, CITSEA and GDS score)</measure>
+    <time_frame>at baseline,and 6 months after baseline.</time_frame>
+    <description>Using a connectome-based predictive model (CPM) to predict the developmental levels of subjects. In the modal training procedure, extracted multimodal MRI measures (primary outcomes 1 to 4) are input features, and the age, CITSEA and GDS score are ground truths.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Genetic identification of brain intelligence development</measure>
+    <time_frame>one time blood draw at baseline.</time_frame>
+    <description>The researchers retain children 2ml serum as a sample for the Whole Exon Sequencing to find genes implicated in brain intellectual development, and explore its relationship with brain imaging.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">1001</enrollment>
+  <condition>Brain Development</condition>
+  <condition>Behavior Disorders, Child</condition>
+  <condition>Intellectual Developmental Disorders</condition>
+  <arm_group>
+    <arm_group_label>Infant Cohort</arm_group_label>
+    <description>Healthy infants aged from 0-36 months.This is an observational trial so no intervention will be provided, with exception of study assessments, including fMRI.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Preschooler Cohort</arm_group_label>
+    <description>Healthy preschooler aged from 37-72 months.This is an observational trial so no intervention will be provided, with exception of study assessments, including fMRI.</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      The researchers retain children 2ml serum as a biological sample for the Whole Exon&#xD;
+      Sequencing.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Infants aged 0-6 years are mainly recruited from the society and Xiamen Children's&#xD;
+        Hospital.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age 0-6 years&#xD;
+&#xD;
+          2. Born at 34-42 weeks of gestation&#xD;
+&#xD;
+          3. Birth weight&gt;1500g&#xD;
+&#xD;
+          4. Normal brain function assessment&#xD;
+&#xD;
+          5. Parents can understand and sign informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. The mother had severe complications during pregnancy and delivery&#xD;
+&#xD;
+          2. History of asphyxiation at birth&#xD;
+&#xD;
+          3. Have congenital structural malformation&#xD;
+&#xD;
+          4. Have congenital metabolic disease&#xD;
+&#xD;
+          5. Have major neuropsychiatric diseases such as craniocerebral injury, craniocerebral&#xD;
+             tumor, epilepsy, autism, intellectual retardation, schizophrenia, etc.&#xD;
+&#xD;
+          6. Have major or genetic diseases that affect growth, development or cognition&#xD;
+&#xD;
+          7. Have contraindications to MRI scanning&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>6 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Deyi Zhuang, Dean</last_name>
+    <role>Study Chair</role>
+    <affiliation>Xiamen Children's Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Wenhao Zhou, Prof</last_name>
+    <phone>(+86) 021-64931168</phone>
+    <email>zwhchfu@126.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Deyi Zhuang, Dean</last_name>
+    <phone>15959279526</phone>
+    <email>zhuangdy526@163.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Xiamen Children's Hospital</name>
+      <address>
+        <city>Xiamen</city>
+        <state>Fujian</state>
+        <zip>361000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Deyi Zhuang, Dean</last_name>
+      <phone>15959279526</phone>
+      <email>zhuangdy526@163.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Xianghui Huang, Director</last_name>
+      <phone>13799250830</phone>
+      <email>xmhxh2013@163.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <reference>
+    <citation>Ball G, Pazderova L, Chew A, Tusor N, Merchant N, Arichi T, Allsop JM, Cowan FM, Edwards AD, Counsell SJ. Thalamocortical Connectivity Predicts Cognition in Children Born Preterm. Cereb Cortex. 2015 Nov;25(11):4310-8. doi: 10.1093/cercor/bhu331. Epub 2015 Jan 16.</citation>
+    <PMID>25596587</PMID>
+  </reference>
+  <reference>
+    <citation>Cao M, He Y, Dai Z, Liao X, Jeon T, Ouyang M, Chalak L, Bi Y, Rollins N, Dong Q, Huang H. Early Development of Functional Network Segregation Revealed by Connectomic Analysis of the Preterm Human Brain. Cereb Cortex. 2017 Mar 1;27(3):1949-1963. doi: 10.1093/cercor/bhw038.</citation>
+    <PMID>26941380</PMID>
+  </reference>
+  <reference>
+    <citation>Cao M, Huang H, He Y. Developmental Connectomics from Infancy through Early Childhood. Trends Neurosci. 2017 Aug;40(8):494-506. doi: 10.1016/j.tins.2017.06.003. Epub 2017 Jul 3. Review.</citation>
+    <PMID>28684174</PMID>
+  </reference>
+  <reference>
+    <citation>Emerson RW, Adams C, Nishino T, Hazlett HC, Wolff JJ, Zwaigenbaum L, Constantino JN, Shen MD, Swanson MR, Elison JT, Kandala S, Estes AM, Botteron KN, Collins L, Dager SR, Evans AC, Gerig G, Gu H, McKinstry RC, Paterson S, Schultz RT, Styner M; IBIS Network, Schlaggar BL, Pruett JR Jr, Piven J. Functional neuroimaging of high-risk 6-month-old infants predicts a diagnosis of autism at 24 months of age. Sci Transl Med. 2017 Jun 7;9(393). pii: eaag2882. doi: 10.1126/scitranslmed.aag2882.</citation>
+    <PMID>28592562</PMID>
+  </reference>
+  <reference>
+    <citation>Emerson RW, Gao W, Lin W. Longitudinal Study of the Emerging Functional Connectivity Asymmetry of Primary Language Regions during Infancy. J Neurosci. 2016 Oct 19;36(42):10883-10892.</citation>
+    <PMID>27798142</PMID>
+  </reference>
+  <reference>
+    <citation>Tavor I, Parker Jones O, Mars RB, Smith SM, Behrens TE, Jbabdi S. Task-free MRI predicts individual differences in brain activity during task performance. Science. 2016 Apr 8;352(6282):216-20. doi: 10.1126/science.aad8127. Epub 2016 Apr 7.</citation>
+    <PMID>27124457</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang Y, Shi F, Wu G, Wang L, Yap PT, Shen D. Consistent Spatial-Temporal Longitudinal Atlas Construction for Developing Infant Brains. IEEE Trans Med Imaging. 2016 Dec;35(12):2568-2577. Epub 2016 Jul 7.</citation>
+    <PMID>27392345</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang W, Li R, Deng H, Wang L, Lin W, Ji S, Shen D. Deep convolutional neural networks for multi-modality isointense infant brain image segmentation. Neuroimage. 2015 Mar;108:214-24. doi: 10.1016/j.neuroimage.2014.12.061. Epub 2015 Jan 3.</citation>
+    <PMID>25562829</PMID>
+  </reference>
+  <verification_date>August 2021</verification_date>
+  <study_first_submitted>July 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 10, 2021</study_first_posted>
+  <last_update_submitted>September 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Preterm</keyword>
+  <keyword>Newborn</keyword>
+  <keyword>Neonates</keyword>
+  <keyword>Infants</keyword>
+  <keyword>Children</keyword>
+  <keyword>Brain</keyword>
+  <keyword>Development</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Intellectual Disability</mesh_term>
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Mental Disorders</mesh_term>
+    <mesh_term>Developmental Disabilities</mesh_term>
+    <mesh_term>Child Behavior Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

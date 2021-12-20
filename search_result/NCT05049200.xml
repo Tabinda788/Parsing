@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8607">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05049200</url>
+  </required_header>
+  <id_info>
+    <org_study_id>15/16</org_study_id>
+    <nct_id>NCT05049200</nct_id>
+  </id_info>
+  <brief_title>Characteristics of Weaning From Mechanical Ventilation in COVID-19</brief_title>
+  <acronym>CovWean</acronym>
+  <official_title>Epidemiology of Weaning From Invasive Mechanical Ventilation in COVID-19. Observational and Multicenter Study.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sanatorio Anchorena San Martin</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sanatorio Anchorena San Martin</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This report is a multicenter, observational, analytical and prospective study. The objective&#xD;
+      was to describe the weaning of mechanical ventilation in patients with SARS-CoV-2 and the&#xD;
+      clinical results according to the different types of weaning.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This report is a multicenter, observational, analytical and prospective study.&#xD;
+&#xD;
+      Patients older than 18 years with a diagnosis of COVID-19 by PCR + and who required invasive&#xD;
+      VM for more than 12 hours from April 1 to August 30, 2020 were included. Subjects admitted to&#xD;
+      pediatric ICUs and in the recovery room were excluded. Patients who were readmitted and&#xD;
+      required a new cycle of MV after having been successfully weaned and released from the&#xD;
+      hospital were also excluded. All patients with data loss greater than 10% in variables&#xD;
+      considered clinically relevant were eliminated.&#xD;
+&#xD;
+      The weaning process from mechanical ventilation in each patient was classified by two&#xD;
+      strategies:&#xD;
+&#xD;
+      Definition of critical care medicine consensus conference published (2007) in:&#xD;
+&#xD;
+      Simple weaning: Patients successfully extubated after the first weaning attempt.&#xD;
+&#xD;
+      Difficult weaning: Patients who fail the first weaning attempt and require up to three&#xD;
+      spontaneous breathing trials or up to 7 days from the first spontaneous breathing trial to&#xD;
+      achieve a successful weaning.&#xD;
+&#xD;
+      Prolonged weaning: Patients who fail at least three weaning attempts or require more than 7&#xD;
+      days after the first spontaneous breathing trial.&#xD;
+&#xD;
+      Definition of WIND study:&#xD;
+&#xD;
+      Group 0 (&quot;no weaning&quot;), made up of patients who never experienced any attempt to wean.&#xD;
+&#xD;
+      Group 1 (short weaning): the first attempt resulted in the completion of the weaning process&#xD;
+      in 1 day (successful weaning or early death).&#xD;
+&#xD;
+      Group 2 (difficult weaning): weaning was completed after more than 1 day but less than 1 week&#xD;
+      after the first attempt (successful weaning or death).&#xD;
+&#xD;
+      Group 3 (prolonged weaning): weaning is not yet completed 7 days after the first attempt (due&#xD;
+      to successful weaning or death).&#xD;
+&#xD;
+      The first attempt at weaning in intubated patients was considered as the performance of a&#xD;
+      spontaneous breathing trial with or without extubation, or extubation with or without SBT. In&#xD;
+      tracheostomized patients, the first period of spontaneous breathing (without ventilatory&#xD;
+      support) of at least 24 hours duration was considered as the first weaning attempt.&#xD;
+&#xD;
+      Weaning success was considered when death or re-intubation did not occur after extubation&#xD;
+      within 7 days or until discharge from the ICU (whichever occurs first), whether or not&#xD;
+      non-invasive ventilatory support was used. In tracheostomized patients, weaning was&#xD;
+      considered successful upon reaching seven consecutive days of spontaneous ventilation without&#xD;
+      ventilatory support or discharge from the ICU, whichever occurs first. [24]&#xD;
+&#xD;
+      The data were collected by the principal investigator of each center, or by one of the&#xD;
+      members of the work team designated for the study, preferably between 8:00 am and 11:00 am,&#xD;
+      recorded on paper sheets and dumped into a database &quot; online &quot;designed in REDCap (Research&#xD;
+      Electronic Data Capture) with software installed in the Centro del Parque clinic, Buenos&#xD;
+      Aires, Argentina, guaranteeing the protection and confidentiality of the data in accordance&#xD;
+      with the Declaration of Helsinki. Data were acquired from the moment of admission to the ICU&#xD;
+      (once the inclusion criteria and the absence of exclusion criteria had been met) and during&#xD;
+      the entire follow-up period. All members of the research group provided advice and support&#xD;
+      through direct telephone contact / e-mail specifically originated for the study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 1, 2020</start_date>
+  <completion_date type="Actual">October 1, 2020</completion_date>
+  <primary_completion_date type="Actual">August 31, 2020</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>5 Months</target_duration>
+  <primary_outcome>
+    <measure>weaning rate</measure>
+    <time_frame>on day 28</time_frame>
+    <description>percentage of successfully weaned patients</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>weaning classification</measure>
+    <time_frame>on day 28</time_frame>
+    <description>number of spontaneous breathing tests and days from first spontaneous breathing test to success or death</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>mechanical ventilation days</measure>
+    <time_frame>on day 28</time_frame>
+    <description>duration of invasive mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>length of ICU stay</measure>
+    <time_frame>on day 28</time_frame>
+    <description>days of hospitalization in ICU</description>
+  </secondary_outcome>
+  <enrollment type="Actual">326</enrollment>
+  <condition>Respiration, Artificial</condition>
+  <condition>COVID-19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with a diagnosis of COVID-19 by PCR + and who required invasive mechanical&#xD;
+        ventilation for more than 12 hours were included.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of COVID-19 by PCR +&#xD;
+&#xD;
+          -  Invasive mechanical ventilation for more than 12 hours&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects admitted to pediatric ICUs and surgery recovery room.&#xD;
+&#xD;
+          -  Patients who were readmitted and required a new cycle of invasive mechanical&#xD;
+             ventilation after having been successfully weaned and released from the hospital.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Matias Accoce</name>
+      <address>
+        <city>Pereyra</city>
+        <state>Buenos Aires</state>
+        <zip>1894</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sanatorio Anchorena de San Martin</name>
+      <address>
+        <city>San Martín</city>
+        <state>Buenos Aires</state>
+        <zip>B1650CQU</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+  </location_countries>
+  <results_reference>
+    <citation>Ranzani OT, Bastos LSL, Gelli JGM, Marchesi JF, Baião F, Hamacher S, Bozza FA. Characterisation of the first 250,000 hospital admissions for COVID-19 in Brazil: a retrospective analysis of nationwide data. Lancet Respir Med. 2021 Apr;9(4):407-418. doi: 10.1016/S2213-2600(20)30560-9. Epub 2021 Jan 15.</citation>
+    <PMID>33460571</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Estenssoro E, Loudet CI, Ríos FG, Kanoore Edul VS, Plotnikow G, Andrian M, Romero I, Piezny D, Bezzi M, Mandich V, Groer C, Torres S, Orlandi C, Rubatto Birri PN, Valenti MF, Cunto E, Sáenz MG, Tiribelli N, Aphalo V, Reina R, Dubin A; SATI-COVID-19 Study Group. Clinical characteristics and outcomes of invasively ventilated patients with COVID-19 in Argentina (SATICOVID): a prospective, multicentre cohort study. Lancet Respir Med. 2021 Sep;9(9):989-998. doi: 10.1016/S2213-2600(21)00229-0. Epub 2021 Jul 2.</citation>
+    <PMID>34224674</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Grasselli G, Zangrillo A, Zanella A, Antonelli M, Cabrini L, Castelli A, Cereda D, Coluccello A, Foti G, Fumagalli R, Iotti G, Latronico N, Lorini L, Merler S, Natalini G, Piatti A, Ranieri MV, Scandroglio AM, Storti E, Cecconi M, Pesenti A; COVID-19 Lombardy ICU Network. Baseline Characteristics and Outcomes of 1591 Patients Infected With SARS-CoV-2 Admitted to ICUs of the Lombardy Region, Italy. JAMA. 2020 Apr 28;323(16):1574-1581. doi: 10.1001/jama.2020.5394. Erratum in: JAMA. 2021 May 25;325(20):2120.</citation>
+    <PMID>32250385</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Karagiannidis C, Mostert C, Hentschker C, Voshaar T, Malzahn J, Schillinger G, Klauber J, Janssens U, Marx G, Weber-Carstens S, Kluge S, Pfeifer M, Grabenhenrich L, Welte T, Busse R. Case characteristics, resource use, and outcomes of 10 021 patients with COVID-19 admitted to 920 German hospitals: an observational study. Lancet Respir Med. 2020 Sep;8(9):853-862. doi: 10.1016/S2213-2600(20)30316-7. Epub 2020 Jul 28.</citation>
+    <PMID>32735842</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Bellani G, Laffey JG, Pham T, Fan E, Brochard L, Esteban A, Gattinoni L, van Haren F, Larsson A, McAuley DF, Ranieri M, Rubenfeld G, Thompson BT, Wrigge H, Slutsky AS, Pesenti A; LUNG SAFE Investigators; ESICM Trials Group. Epidemiology, Patterns of Care, and Mortality for Patients With Acute Respiratory Distress Syndrome in Intensive Care Units in 50 Countries. JAMA. 2016 Feb 23;315(8):788-800. doi: 10.1001/jama.2016.0291. Erratum in: JAMA. 2016 Jul 19;316(3):350. JAMA. 2016 Jul 19;316(3):350.</citation>
+    <PMID>26903337</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Esteban A, Frutos-Vivar F, Muriel A, Ferguson ND, Peñuelas O, Abraira V, Raymondos K, Rios F, Nin N, Apezteguía C, Violi DA, Thille AW, Brochard L, González M, Villagomez AJ, Hurtado J, Davies AR, Du B, Maggiore SM, Pelosi P, Soto L, Tomicic V, D'Empaire G, Matamis D, Abroug F, Moreno RP, Soares MA, Arabi Y, Sandi F, Jibaja M, Amin P, Koh Y, Kuiper MA, Bülow HH, Zeggwagh AA, Anzueto A. Evolution of mortality over time in patients receiving mechanical ventilation. Am J Respir Crit Care Med. 2013 Jul 15;188(2):220-30. doi: 10.1164/rccm.201212-2169OC.</citation>
+    <PMID>23631814</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kress JP, Pohlman AS, O'Connor MF, Hall JB. Daily interruption of sedative infusions in critically ill patients undergoing mechanical ventilation. N Engl J Med. 2000 May 18;342(20):1471-7.</citation>
+    <PMID>10816184</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Girard TD, Kress JP, Fuchs BD, Thomason JW, Schweickert WD, Pun BT, Taichman DB, Dunn JG, Pohlman AS, Kinniry PA, Jackson JC, Canonico AE, Light RW, Shintani AK, Thompson JL, Gordon SM, Hall JB, Dittus RS, Bernard GR, Ely EW. Efficacy and safety of a paired sedation and ventilator weaning protocol for mechanically ventilated patients in intensive care (Awakening and Breathing Controlled trial): a randomised controlled trial. Lancet. 2008 Jan 12;371(9607):126-34. doi: 10.1016/S0140-6736(08)60105-1.</citation>
+    <PMID>18191684</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Morandi A, Brummel NE, Ely EW. Sedation, delirium and mechanical ventilation: the 'ABCDE' approach. Curr Opin Crit Care. 2011 Feb;17(1):43-9. doi: 10.1097/MCC.0b013e3283427243. Review.</citation>
+    <PMID>21169829</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Vincent JL, Shehabi Y, Walsh TS, Pandharipande PP, Ball JA, Spronk P, Longrois D, Strøm T, Conti G, Funk GC, Badenes R, Mantz J, Spies C, Takala J. Comfort and patient-centred care without excessive sedation: the eCASH concept. Intensive Care Med. 2016 Jun;42(6):962-71. doi: 10.1007/s00134-016-4297-4. Epub 2016 Apr 13. Review.</citation>
+    <PMID>27075762</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Balas MC, Vasilevskis EE, Olsen KM, Schmid KK, Shostrom V, Cohen MZ, Peitz G, Gannon DE, Sisson J, Sullivan J, Stothert JC, Lazure J, Nuss SL, Jawa RS, Freihaut F, Ely EW, Burke WJ. Effectiveness and safety of the awakening and breathing coordination, delirium monitoring/management, and early exercise/mobility bundle. Crit Care Med. 2014 May;42(5):1024-36. doi: 10.1097/CCM.0000000000000129.</citation>
+    <PMID>24394627</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Devlin JW, Skrobik Y, Gélinas C, Needham DM, Slooter AJC, Pandharipande PP, Watson PL, Weinhouse GL, Nunnally ME, Rochwerg B, Balas MC, van den Boogaard M, Bosma KJ, Brummel NE, Chanques G, Denehy L, Drouot X, Fraser GL, Harris JE, Joffe AM, Kho ME, Kress JP, Lanphere JA, McKinley S, Neufeld KJ, Pisani MA, Payen JF, Pun BT, Puntillo KA, Riker RR, Robinson BRH, Shehabi Y, Szumita PM, Winkelman C, Centofanti JE, Price C, Nikayin S, Misak CJ, Flood PD, Kiedrowski K, Alhazzani W. Clinical Practice Guidelines for the Prevention and Management of Pain, Agitation/Sedation, Delirium, Immobility, and Sleep Disruption in Adult Patients in the ICU. Crit Care Med. 2018 Sep;46(9):e825-e873. doi: 10.1097/CCM.0000000000003299.</citation>
+    <PMID>30113379</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Liu K, Nakamura K, Katsukawa H, Elhadi M, Nydahl P, Ely EW, Kudchadkar SR, Takahashi K, Inoue S, Lefor AK, Kesecioglu J, Nishida O. ABCDEF Bundle and Supportive ICU Practices for Patients With Coronavirus Disease 2019 Infection: An International Point Prevalence Study. Crit Care Explor. 2021 Mar 12;3(3):e0353. doi: 10.1097/CCE.0000000000000353. eCollection 2021 Mar.</citation>
+    <PMID>33786432</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ackermann M, Verleden SE, Kuehnel M, Haverich A, Welte T, Laenger F, Vanstapel A, Werlein C, Stark H, Tzankov A, Li WW, Li VW, Mentzer SJ, Jonigk D. Pulmonary Vascular Endothelialitis, Thrombosis, and Angiogenesis in Covid-19. N Engl J Med. 2020 Jul 9;383(2):120-128. doi: 10.1056/NEJMoa2015432. Epub 2020 May 21.</citation>
+    <PMID>32437596</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Marini JJ, Gattinoni L. Management of COVID-19 Respiratory Distress. JAMA. 2020 Jun 9;323(22):2329-2330. doi: 10.1001/jama.2020.6825.</citation>
+    <PMID>32329799</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Robba C, Battaglini D, Ball L, Patroniti N, Loconte M, Brunetti I, Vena A, Giacobbe DR, Bassetti M, Rocco PRM, Pelosi P. Distinct phenotypes require distinct respiratory management strategies in severe COVID-19. Respir Physiol Neurobiol. 2020 Aug;279:103455. doi: 10.1016/j.resp.2020.103455. Epub 2020 May 11. Review.</citation>
+    <PMID>32437877</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Grasselli G, Tonetti T, Protti A, Langer T, Girardis M, Bellani G, Laffey J, Carrafiello G, Carsana L, Rizzuto C, Zanella A, Scaravilli V, Pizzilli G, Grieco DL, Di Meglio L, de Pascale G, Lanza E, Monteduro F, Zompatori M, Filippini C, Locatelli F, Cecconi M, Fumagalli R, Nava S, Vincent JL, Antonelli M, Slutsky AS, Pesenti A, Ranieri VM; collaborators. Pathophysiology of COVID-19-associated acute respiratory distress syndrome: a multicentre prospective observational study. Lancet Respir Med. 2020 Dec;8(12):1201-1208. doi: 10.1016/S2213-2600(20)30370-2. Epub 2020 Aug 27.</citation>
+    <PMID>32861276</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Gupta A, Madhavan MV, Sehgal K, Nair N, Mahajan S, Sehrawat TS, Bikdeli B, Ahluwalia N, Ausiello JC, Wan EY, Freedberg DE, Kirtane AJ, Parikh SA, Maurer MS, Nordvig AS, Accili D, Bathon JM, Mohan S, Bauer KA, Leon MB, Krumholz HM, Uriel N, Mehra MR, Elkind MSV, Stone GW, Schwartz A, Ho DD, Bilezikian JP, Landry DW. Extrapulmonary manifestations of COVID-19. Nat Med. 2020 Jul;26(7):1017-1032. doi: 10.1038/s41591-020-0968-3. Epub 2020 Jul 10. Review.</citation>
+    <PMID>32651579</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ionescu F, Zimmer MS, Petrescu I, Castillo E, Bozyk P, Abbas A, Abplanalp L, Dogra S, Nair GB. Extubation Failure in Critically Ill COVID-19 Patients: Risk Factors and Impact on In-Hospital Mortality. J Intensive Care Med. 2021 Sep;36(9):1018-1024. doi: 10.1177/08850666211020281. Epub 2021 Jun 2.</citation>
+    <PMID>34074160</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Cuschieri S. The STROBE guidelines. Saudi J Anaesth. 2019 Apr;13(Suppl 1):S31-S34. doi: 10.4103/sja.SJA_543_18. Review.</citation>
+    <PMID>30930717</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Boles JM, Bion J, Connors A, Herridge M, Marsh B, Melot C, Pearl R, Silverman H, Stanchina M, Vieillard-Baron A, Welte T. Weaning from mechanical ventilation. Eur Respir J. 2007 May;29(5):1033-56.</citation>
+    <PMID>17470624</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Béduneau G, Pham T, Schortgen F, Piquilloud L, Zogheib E, Jonas M, Grelon F, Runge I, Nicolas Terzi, Grangé S, Barberet G, Guitard PG, Frat JP, Constan A, Chretien JM, Mancebo J, Mercat A, Richard JM, Brochard L; WIND (Weaning according to a New Definition) Study Group and the REVA (Réseau Européen de Recherche en Ventilation Artificielle) Network ‡. Epidemiology of Weaning Outcome according to a New Definition. The WIND Study. Am J Respir Crit Care Med. 2017 Mar 15;195(6):772-783. doi: 10.1164/rccm.201602-0320OC.</citation>
+    <PMID>27626706</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Righetti RF, Onoue MA, Politi FVA, Teixeira DT, Souza PN, Kondo CS, Moderno EV, Moraes IG, Maida ALV, Pastore Junior L, Silva FD, Brito CMM, Baia WRM, Yamaguti WP. Physiotherapy Care of Patients with Coronavirus Disease 2019 (COVID-19) - A Brazilian Experience. Clinics (Sao Paulo). 2020 Jun 22;75:e2017. doi: 10.6061/clinics/2020/e2017. eCollection 2020. Review.</citation>
+    <PMID>32578825</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kangas-Dick AW, Swearingen B, Wan E, Chawla K, Wiesel O. Safe extubation during the COVID-19 pandemic. Respir Med. 2020 Aug - Sep;170:106038. doi: 10.1016/j.rmed.2020.106038. Epub 2020 May 23. Review.</citation>
+    <PMID>32469731</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ouellette DR, Patel S, Girard TD, Morris PE, Schmidt GA, Truwit JD, Alhazzani W, Burns SM, Epstein SK, Esteban A, Fan E, Ferrer M, Fraser GL, Gong MN, Hough CL, Mehta S, Nanchal R, Pawlik AJ, Schweickert WD, Sessler CN, Strøm T, Kress JP. Liberation From Mechanical Ventilation in Critically Ill Adults: An Official American College of Chest Physicians/American Thoracic Society Clinical Practice Guideline: Inspiratory Pressure Augmentation During Spontaneous Breathing Trials, Protocols Minimizing Sedation, and Noninvasive Ventilation Immediately After Extubation. Chest. 2017 Jan;151(1):166-180. doi: 10.1016/j.chest.2016.10.036. Epub 2016 Nov 3.</citation>
+    <PMID>27818331</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Cabello B, Thille AW, Roche-Campo F, Brochard L, Gómez FJ, Mancebo J. Physiological comparison of three spontaneous breathing trials in difficult-to-wean patients. Intensive Care Med. 2010 Jul;36(7):1171-9. doi: 10.1007/s00134-010-1870-0. Epub 2010 Mar 30.</citation>
+    <PMID>20352189</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Mahul M, Jung B, Galia F, Molinari N, de Jong A, Coisel Y, Vaschetto R, Matecki S, Chanques G, Brochard L, Jaber S. Spontaneous breathing trial and post-extubation work of breathing in morbidly obese critically ill patients. Crit Care. 2016 Oct 27;20(1):346.</citation>
+    <PMID>27784322</PMID>
+  </results_reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 16, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 20, 2021</study_first_posted>
+  <last_update_submitted>October 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Sanatorio Anchorena San Martin</investigator_affiliation>
+    <investigator_full_name>Matias Accoce</investigator_full_name>
+    <investigator_title>HEAD OF RESPIRATORY THERAPY</investigator_title>
+  </responsible_party>
+  <keyword>Respiration, Artificial</keyword>
+  <keyword>Ventilator Weaning</keyword>
+  <keyword>Airway Extubation</keyword>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

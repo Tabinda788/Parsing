@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9530">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05037201</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RAS20210002</org_study_id>
+    <nct_id>NCT05037201</nct_id>
+  </id_info>
+  <brief_title>Text Message Nudges for COVID-19 Vaccination</brief_title>
+  <official_title>A Randomized Trial of Text Message-Based Nudges to Increase COVID-19 Vaccination</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ascension South East Michigan</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ascension South East Michigan</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The COVID-19 pandemic has caused significant morbidity and mortality across the world.&#xD;
+      Effective vaccines are now available but underutilized. In July 2021, Ascension Health&#xD;
+      implemented a mandate requiring all employees to obtain the COVID-19 vaccine by November&#xD;
+      12th. In August 2021, the number of COVID-19 cases in the US increased rapidly, specifically&#xD;
+      in states with lower vaccination rates, many of which are served by Ascension Health&#xD;
+      facilities. In this study, we will evaluate a rapidly deployed health system initiative to&#xD;
+      use text messaging to nudge Ascension employees who have not yet been vaccinated to commit to&#xD;
+      a date and receive vaccination.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The COVID-19 pandemic has caused significant morbidity and mortality across the world.&#xD;
+      Effective vaccines are now available but underutilized. In July 2021, Ascension Health&#xD;
+      implemented a mandate requiring all employees to obtain the COVID-19 vaccine by November&#xD;
+      12th. In August 2021, the number of COVID-19 cases in the US increased rapidly, specifically&#xD;
+      in states with lower vaccination rates, many of which are served by Ascension Health&#xD;
+      facilities.&#xD;
+&#xD;
+      Nudges are subtle changes to the way information is framed or choices are offered that can&#xD;
+      have a significant impact on behavior. Status quo bias is a preference for the current state&#xD;
+      which is often used as a reference point when making decisions. Changes from the reference&#xD;
+      point are often faced with high inertia and this prevents changes in behavior. Default&#xD;
+      options are the setting of the baseline reference point and are often taken as an implicit&#xD;
+      recommendation. In prior work, changing default options has led to significant changes in&#xD;
+      health-related behaviors. For example, changing prescription default settings in the EHR from&#xD;
+      opt-in to opt-out for generic prescriptions increased the rate of generic prescriptions from&#xD;
+      75% to 98% across Penn Medicine (Patel et al. Annals of IM. 2014; Patel et al. JGIM 2018).&#xD;
+      Framing program participation as opt-out has led to a 22% increase in enrollment in a&#xD;
+      COVID-19 surveillance testing program (Oakes et al. NEJM Catalyst 2021) and triple enrollment&#xD;
+      in remote monitoring programs for medication adherence (Mehta et al. JAMA Cardiology. 2018)&#xD;
+      and diabetes management (Aysola et al. AJHP 2016)&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">October 11, 2021</start_date>
+  <completion_date type="Anticipated">November 8, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 25, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percent receiving COVID-19 Vaccine</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>The percent of participants that receive the COVID-19 vaccine within 2 weeks of the intervention.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to receive COVID-19 vaccine</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Time to COVID-19 vaccination in days within 4 weeks of the intervention.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">2000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Usual care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The control arm will receive usual health system messaging about the importance and deadlines for receiving COVID-19 vaccination.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Text message</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The intervention arm will receive a text message stating that the vaccine is reserved for them on a specific date. They will have the ability to reschedule to a different day, opt-out of this text messaging intervention, or if previously vaccinated they can upload documentation to the Ascension website.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Text message</intervention_name>
+    <description>The intervention arm will receive a text message stating that the vaccine is reserved for them on a specific date. They will have the ability to reschedule to a different day, opt-out of this text messaging intervention, or if previously vaccinated they can upload documentation to the Ascension website.</description>
+    <arm_group_label>Text message</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ascension Associate Employee&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior vaccination for COVID-19&#xD;
+&#xD;
+          -  Exemption from COVID-19 vaccination&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mitesh Patel, MD, MBA</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ascension</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Ascension</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 8, 2021</study_first_posted>
+  <last_update_submitted>October 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Individual patient data will not be shared</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

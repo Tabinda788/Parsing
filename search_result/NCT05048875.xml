@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8632">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05048875</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CIR 332</org_study_id>
+    <secondary_id>156295</secondary_id>
+    <secondary_id>64281802DNG2002</secondary_id>
+    <nct_id>NCT05048875</nct_id>
+  </id_info>
+  <brief_title>An Evaluation of Repeated Oral Doses of JNJ-64281802 Against DENV-3 Challenge</brief_title>
+  <official_title>A Phase 2a, Randomized, Double-blind, Placebo Controlled Trial to Evaluate the Antiviral Activity, Safety, and Pharmacokinetics of Repeated Oral Doses of JNJ-64281802 Against Dengue Serotype 3 Infection in a Dengue Human Challenge Model in Healthy Adult Participants</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Janssen, LP</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigational study drug, JNJ-64281802, is being developed for the prevention and&#xD;
+      treatment of dengue infection. This study is hypothesizing that the highest dose of the&#xD;
+      investigational study drug is superior to receiving a placebo with respect to its antiviral&#xD;
+      activity in healthy adult participants inoculated with Dengue Serotype 3.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 20, 2022</start_date>
+  <completion_date type="Anticipated">June 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>There are 3 sequential phases to the study: screening, dosing, and follow-up.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>The subject, investigator, and clinical staff will not know which treatment group the subject has been assigned. In addition, other personnel assigned to monitor the study will not know the treatment assignment of the subject. The pharmacist will be unblinded as the study drug will be provided as bulk supplies.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Assess the antiviral activity of the study drug (JNJ 64281802) versus placebo in terms of reduction of dengue infection.</measure>
+    <time_frame>29 days</time_frame>
+    <description>Area under the DENV-3 RNA viral load (VL) concentration-time curves from immediately before inoculation (baseline on Day 1) until Day 29.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of adverse events to assess the safety and tolerability of the study drug (JNJ 64281802).</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical examinations to assess the safety and tolerability of the study drug (JNJ 64281802).</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Recording of vital signs to assess the safety and tolerability of the study drug (JNJ 64281802).</measure>
+    <time_frame>99 weeks</time_frame>
+    <description>Body temperature will be recorded twice daily by study staff and/or by the participants from Day 1 up to and including Day 29; pulse (bpm), systolic and diastolic blood pressure (mmHg) measured on each clinic visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>12-lead ECG with measurement of QTcF to assess the safety and tolerability of the study drug (JNJ 64281802).</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>12-lead ECG with measurement of QRS interval to assess the safety and tolerability of the study drug (JNJ 64281802).</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>12-lead ECG with measurement of PR interval to assess the safety and tolerability of the study drug (JNJ 64281802).</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical laboratory assessments to assess the safety and tolerability of the study drug (JNJ 64281802).</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the dengue infection-associated Adverse Events (unwanted medical occurrence).</measure>
+    <time_frame>99 weeks</time_frame>
+    <description>Occurrence and severity of DENV infection associated AEs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antiviral activity of the study drug (JNJ 64281802) versus placebo by reviewing the area under the log10-transformed DENV 3 RNA VL concentration-time curves from immediately before inoculation (baseline on Day 1) until Day 29 (AUCD1 D29 [log10 VL])</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antiviral activity of the study drug (JNJ 64281802) versus placebo by reviewing the peak of detectable DENV-3 RNA (log10 VL).</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antiviral activity of the study drug (JNJ 64281802) versus placebo for duration in days of detectable DENV-3 RNA.</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antiviral activity of the study drug (JNJ 64281802) versus placebo time to first onset by days of detectable DENV 3 RNA.</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antiviral activity of the study drug (JNJ 64281802) versus placebo based on presence of detectable DENV-3 RNA as measured by PCR (log10 VL) or culture (log10 VL).</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antiviral activity of the study drug (JNJ 64281802) versus placebo on area under the infectious viremia curves from immediately before inoculation (baseline on Day 1) until Day 29.</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antiviral activity of the study drug (JNJ 64281802) versus placebo on the area under the log10-transformed viremia curves.</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antiviral activity of the study drug (JNJ 64281802) versus placebo peak of detectable viremia level</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antiviral activity of the study drug (JNJ 64281802) versus placebo on the duration of detectable viremia.</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antiviral activity of the study drug (JNJ 64281802) versus placebo on time to first onset of detectable viremia.</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antiviral activity of the study drug (JNJ 64281802) versus placebo on presence of detectable viremia.</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess how the body handles the study drug (JNJ-64281802) following repeated oral dosing. Using Pharmacokinetic analysis from repeated blood samples taken at specified time points after drug administration during 2 inpatient stays.</measure>
+    <time_frame>99 weeks</time_frame>
+    <description>Blood samples will be taken for measurement of plasma concentrations of JNJ-64281802 at specific time points in the study. Additional PK sampling may be performed on the non-intensive PK days (eg, in the event of an overdose) on other time points, in consultation with the JNJ drug development team.&#xD;
+Plasma samples will be analyzed to determine concentrations of JNJ-64281802 using a validated, specific, and sensitive liquid chromatography-tandem mass spectrometry (LC-MS/MS) method under the supervision of the DDT's Bioanalytical Laboratory Department of Bioanalysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax: maximum observed analyte concentration of JNJ-64281802</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmin: minimum observed analyte concentration of JNJ-64281802</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ctrough: observed analyte concentration just before the beginning or at the end of a dosing interval of JNJ-64281802</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cavg: average analyte concentration over the dosing interval (τ) calculated as AUCτ/τ of JNJ-64281802</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>tmax: the actual sampling time to reach the maximum observed analyte concentration of JNJ-64281802</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>FI: percentage fluctuation (variation) between maximum and minimum analyte concentration at steady-state, calculated as 100 x ([Cmax - Cmin] / Cavg) of JNJ-64281802</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUCτ: area under the plasma concentration-time curve during the dosing interval (t hours); calculated by linear-linear trapezoidal summation of JNJ-64281802</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence and magnitude of anti-DENV-3 total IgM antibody titers to assess the anti-Dengue immune response.</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence and magnitude of anti-DENV-3 total IgG antibody titers to assess the anti-Dengue immune response.</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first onset of anti-DENV-3 total IgM antibody titers to assess the anti-Dengue immune response.</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first onset of anti-DENV-3 total IgG antibody titers to assess the anti-Dengue immune response.</measure>
+    <time_frame>99 weeks</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">54</enrollment>
+  <condition>Dengue</condition>
+  <arm_group>
+    <arm_group_label>JNJ-64281802</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>There are two cohorts and three groups in each cohort. Cohort 1 consists of Group 1a, Group 1b and Group 2. Cohort 2 consists of Group 3, Group 4, and Group 5. Within each group, participants will either be randomized to receive study drug or placebo.&#xD;
+Four participants will be enrolled in Group 1a before enrolling the remaining participants to Group 1b and Group 2 in Cohort 1. Based on the interim analysis results of Cohort 1, up to three groups for Cohort 2 will be created.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>There are two cohorts and three groups in each cohort. Cohort 1 consists of Group 1a, Group 1b and Group 2. Cohort 2 consists of Group 3, Group 4, and Group 5. Within each group, participants will either be randomized to receive study drug or placebo.&#xD;
+Four participants will be enrolled in Group 1a before enrolling the remaining participants to Group 1b and Group 2 in Cohort 1. Based on the interim analysis results of Cohort 1, up to three groups for Cohort 2 will be created.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>JNJ-64281802 (sentinel high dose)</intervention_name>
+    <description>Group 1a, JNJ-64281802 (high dose: 600-mg loading dose/200-mg maintenance dose)</description>
+    <arm_group_label>JNJ-64281802</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>JNJ-64281802 (remaining high dose)</intervention_name>
+    <description>Group 1b, JNJ-64281802 (high dose: 600-mg loading dose/200-mg maintenance dose)</description>
+    <arm_group_label>JNJ-64281802</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>JNJ-64281802 (medium/low dose)</intervention_name>
+    <description>Group 2, JNJ-64281802 (low dose: 40-mg loading dose/10-mg maintenance dose) AND JNJ-64281802 (medium dose: 200-mg loading dose/50-mg maintenance dose)</description>
+    <arm_group_label>JNJ-64281802</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>JNJ-64281802 (dosing regimen X)</intervention_name>
+    <description>Group 3, JNJ-64281802 (dosing regimen X)&#xD;
+Up to 3 dosing regimens can be selected for evaluation in Cohort 2 based on interim analysis data from Cohort 1. The number of participants in total and the number of participants on active and placebo per group will depend on the number of dosing regimens in Cohort 2.</description>
+    <arm_group_label>JNJ-64281802</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>JNJ-64281802 (dosing regimen Y)</intervention_name>
+    <description>Group 4, JNJ-64281802 (dosing regimen Y)&#xD;
+Up to 3 dosing regimens can be selected for evaluation in Cohort 2 based on interim analysis data from Cohort 1. The number of participants in total and the number of participants on active and placebo per group will depend on the number of dosing regimens in Cohort 2.</description>
+    <arm_group_label>JNJ-64281802</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>JNJ-64281802 (dosing regimen Z)</intervention_name>
+    <description>Group 5, JNJ-64281802 (dosing regimen Z)&#xD;
+Up to 3 dosing regimens can be selected for evaluation in Cohort 2 based on interim analysis data from Cohort 1. The number of participants in total and the number of participants on active and placebo per group will depend on the number of dosing regimens in Cohort 2.</description>
+    <arm_group_label>JNJ-64281802</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>No therapeutic effect, used as a control in testing new drugs</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria for receipt of Study Drug:&#xD;
+&#xD;
+          1. Male or female.&#xD;
+&#xD;
+          2. 18 to 50 years of age, inclusive, at time of screening.&#xD;
+&#xD;
+          3. Healthy on the basis of physical examination, medical history, and vital signs&#xD;
+             performed at screening.&#xD;
+&#xD;
+          4. Healthy on the basis of clinical laboratory tests performed at screening.&#xD;
+&#xD;
+          5. Must pass the comprehension test indicating that the participant understands the&#xD;
+             purpose, procedures, and potential risks and benefits of the study, after reading the&#xD;
+             informed consent and after the investigator or designee has provided detailed&#xD;
+             information on the study and answered the potential participant's questions.&#xD;
+&#xD;
+          6. Must have a body mass index between 18.0 and 30.0 kg/m2, inclusive, and a body weight&#xD;
+             of greater than or equal to 50.0 kg at screening.&#xD;
+&#xD;
+          7. Must have a normal electrocardiogram (ECG, test which displays a person's heartbeat)&#xD;
+             at screening.&#xD;
+&#xD;
+          8. Must have a blood pressure (after lying face up for greater than or equal to 5&#xD;
+             minutes) between 90 and 140 mmHg systolic and less than or equal to 90 mmHg diastolic&#xD;
+             at screening.&#xD;
+&#xD;
+          9. Must complete the informed consent process independently and without assistance and&#xD;
+             sign an informed consent form (ICF) indicating that he or she understands the purpose&#xD;
+             of, and procedures required for, the study and is willing to participate in the study.&#xD;
+&#xD;
+         10. All persons of childbearing potential must have a negative pregnancy test at&#xD;
+             screening.&#xD;
+&#xD;
+         11. A woman must be:&#xD;
+&#xD;
+               1. Not of childbearing potential, or&#xD;
+&#xD;
+               2. Of childbearing potential and practicing a highly effective, preferably user&#xD;
+                  independent method of contraception and agrees to remain on a highly effective&#xD;
+                  method while receiving study drug and until greater than or equal to 90 days&#xD;
+                  after last dose of study drug.&#xD;
+&#xD;
+         12. A woman must agree not to donate eggs for the purposes of assisted reproduction during&#xD;
+             the study and for greater than or equal to 90 days after last dose of study drug.&#xD;
+&#xD;
+         13. During the study and for greater than or equal to 90 days after last dose of study&#xD;
+             drug, a male participant must wear a condom when engaging in any activity that allows&#xD;
+             for passage of ejaculate to another person. Male participants should also be advised&#xD;
+             of the benefit for a female partner to use a highly effective method of contraception&#xD;
+             as condoms may break or leak.&#xD;
+&#xD;
+         14. A male participant must agree not to donate sperm for the purpose of reproduction&#xD;
+             during the study and for greater than or equal to 90 days after last dose of study&#xD;
+             drug.&#xD;
+&#xD;
+         15. Must be willing and able to adhere to the study requirements and lifestyle&#xD;
+             restrictions:&#xD;
+&#xD;
+               -  Do not take any restricted medications/treatments&#xD;
+&#xD;
+               -  Agree to follow all study requirements&#xD;
+&#xD;
+               -  No unusual strenuous exercise&#xD;
+&#xD;
+               -  Must not donate blood or blood products within 6 months after last dose of study&#xD;
+                  drug&#xD;
+&#xD;
+               -  Must not participate in another investigational study during the study or within&#xD;
+                  90 days after last dose of study drug&#xD;
+&#xD;
+               -  Must not travel to any dengue-endemic region (as defined by the United States&#xD;
+                  Centers for Disease Control and Prevention&#xD;
+&#xD;
+               -  Must limit the use of food or drinks/beverages containing alcohol to the absolute&#xD;
+                  minimum from 1 day before first dose of study drug until Day 85.&#xD;
+&#xD;
+               -  Must refrain from consumption of grapefruit or grapefruit juice, energy drinks,&#xD;
+                  excessive use of caffeine from 7 days before first dose of study drug until Day&#xD;
+                  85&#xD;
+&#xD;
+               -  May not use drugs of abuse (including amphetamine, barbiturate, benzodiazepine,&#xD;
+                  cannabinoids, cocaine, methadone, opiates, phencyclidine, and tricyclic&#xD;
+                  antidepressants) until greater than or equal to 3 weeks after last dose of study&#xD;
+                  drug.&#xD;
+&#xD;
+               -  Should not consume any food containing poppy seeds or codeine-containing&#xD;
+                  formulation starting 72 hours before the screening visits and before any visit&#xD;
+                  during the follow-up phase (to avoid a false-positive urine drug test).&#xD;
+&#xD;
+               -  Should follow the restrictions on food and water intake and the instructions for&#xD;
+                  the timing of the standardized meals&#xD;
+&#xD;
+         16. Available for the duration of the study, which is approximately 85 days after&#xD;
+             injection of the dengue virus.&#xD;
+&#xD;
+        Exclusion Criteria for receipt of Study Drug:&#xD;
+&#xD;
+          1. History of liver or renal impairment; significant cardiac, vascular, pulmonary,&#xD;
+             gastrointestinal (such as significant diarrhea, constipation lasting greater than 2&#xD;
+             days), endocrine, neurologic, hematologic, rheumatologic, neoplastic, autoimmune, or&#xD;
+             metabolic disturbances.&#xD;
+&#xD;
+          2. Known allergies, hypersensitivity, or intolerance to the study drug (JNJ-64281802) or&#xD;
+             its inactive substances, or an acute, life threatening allergic reaction or swelling&#xD;
+             following study drug administration.&#xD;
+&#xD;
+          3. History of a severe allergic reaction or anaphylaxis (which is a severe, potentially&#xD;
+             life-threatening allergic reaction).&#xD;
+&#xD;
+          4. Taken any substances or therapies that are not allowed before the first dose of study&#xD;
+             drug.&#xD;
+&#xD;
+          5. Received an investigational intervention or participated in another investigational&#xD;
+             clinical trial (including investigational vaccines) within 6 months before first dose&#xD;
+             of study drug, or is currently enrolled in an investigational study, or is planning to&#xD;
+             be enrolled in an investigational study within 90 days after last dose of study drug.&#xD;
+&#xD;
+             - Important note, COVID-19 vaccines licensed or under Emergency Use Authorization can&#xD;
+             be received at any time.&#xD;
+&#xD;
+          6. Females of childbearing potential only: Pregnant as determined by a positive pregnancy&#xD;
+             blood test, breastfeeding, or planning to become pregnant during the study or within&#xD;
+             90 days after last dose of study drug.&#xD;
+&#xD;
+          7. Plans to father a child during the study or within 90 days after last dose of study&#xD;
+             drug.&#xD;
+&#xD;
+          8. Any condition for which, in the opinion of the study doctor, participation would not&#xD;
+             be in the best interest of the participant.&#xD;
+&#xD;
+          9. Blood test confirming current infection with human immunodeficiency virus type 1 or 2&#xD;
+             (HIV-1 or HIV-2), hepatitis B virus (HBV), or hepatitis C virus (HCV), or blood test&#xD;
+             confirming past or current infection with or vaccination for any of the following&#xD;
+             flaviviruses: DENV, Yellow Fever virus (YFV), Zika virus (ZIKV), West Nile virus&#xD;
+             (WNV), St. Louis encephalitis virus (SLEV), or participant testimony confirming past&#xD;
+             or current infection with Japanese encephalitis virus (JEV).&#xD;
+&#xD;
+             Note: Blood laboratory testing will assess the presence of antibodies at screening.&#xD;
+&#xD;
+         10. Recent (in the past 4 weeks) travel to any dengue-endemic region (as defined by the US&#xD;
+             CDC) or having definite plans to travel to a dengue endemic region. Potential&#xD;
+             participants may be eligible for enrollment greater than or equal to 4 weeks after&#xD;
+             their return from a dengue-endemic region.&#xD;
+&#xD;
+         11. Received or plans to receive:&#xD;
+&#xD;
+               1. Licensed live attenuated vaccines - within 28 days before first dose of study&#xD;
+                  drug until 28 days after last dose of study drug.&#xD;
+&#xD;
+               2. Other licensed (not live) vaccines - within 14 days before first dose of study&#xD;
+                  drug until 14 days after last dose of study drug.&#xD;
+&#xD;
+               3. COVID-19 vaccines, either licensed or under EUA, are allowed at any time during&#xD;
+                  the study however every effort will be made to avoid the above windows of time of&#xD;
+                  administration.&#xD;
+&#xD;
+             Note: Flavivirus vaccinations are not allowed until 90 days after last dose of study&#xD;
+             drug.&#xD;
+&#xD;
+         12. Employee of the study doctor or study site with direct involvement in the proposed&#xD;
+             study or other studies under the direction of that study doctor or study site, as well&#xD;
+             as family members of the employees or the investigator.&#xD;
+&#xD;
+         13. Any clinically relevant skin disease in the past 5 years, such as dermatitis, eczema,&#xD;
+             drug rash, psoriasis, food allergy resulting in rash, and urticaria.&#xD;
+&#xD;
+         14. Having donated or lost greater than 1 unit of blood (500 mL) within 60 days or greater&#xD;
+             than 1 unit of plasma (250 mL) within 7 days before first dose of study drug or having&#xD;
+             the intention to donate blood or blood products during the study and within 6 months&#xD;
+             after last dose of study drug.&#xD;
+&#xD;
+         15. Receipt of blood products within the past 6 months of initiation of study drug or&#xD;
+             anticipated receipt of any blood products during the 28 days following dengue virus&#xD;
+             injection.&#xD;
+&#xD;
+         16. Known or suspected congenital or acquired immunodeficiency or use of immunosuppressive&#xD;
+             corticosteroids (excluding topical and nasal) or immunosuppressive drugs within 28&#xD;
+             days before first dose of study drug until 28 days following the last dose of study&#xD;
+             drug.&#xD;
+&#xD;
+             a. An immunosuppressive dose of corticosteroids is defined as greater than or equal&#xD;
+             to10 mg prednisone equivalent per day for grater than or equal to 14 days.&#xD;
+&#xD;
+         17. Use of any cytochrome P450 (CYP) 3A4 inhibitors (eg, clarithromycin, itraconazole),&#xD;
+             CYP3A4 inducers (eg, phenytoin, rifampin), or substrates for CYP3A4 (eg, midazolam,&#xD;
+             triazolam), CYP2C8 (eg, repaglinide), CYP2C9 (eg, warfarin, tolbutamide), BCRP (eg&#xD;
+             Pravastatin and folic acid), or CYP2C19 (eg, S-mephenytoin, omeprazole) within 14 days&#xD;
+             before first dose of study drug.&#xD;
+&#xD;
+         18. Any significant alcohol or drug abuse in the past 12 months that has caused medical,&#xD;
+             occupational, or family problems, as indicated by participant history, or positive&#xD;
+             test result(s) for alcohol or drugs of abuse at screening.&#xD;
+&#xD;
+         19. Behavioral, cognitive, or psychiatric disease that affects the subject's ability to&#xD;
+             understand and cooperate with the requirements of the study protocol.&#xD;
+&#xD;
+         20. Severe asthma (emergency room visit or hospitalization within the last 6 months).&#xD;
+&#xD;
+         21. Asplenia (the absence of a spleen).&#xD;
+&#xD;
+         22. Refusal to allow specimen storage for future research.&#xD;
+&#xD;
+         23. History of risk factors for life-threatening heart rhythm disturbance which includes&#xD;
+             heart failure, low potassium levels in the blood, family history of fast, chaotic&#xD;
+             heartbeats known as Long QT Syndrome.&#xD;
+&#xD;
+        Exclusion Criteria for dengue virus injection:&#xD;
+&#xD;
+          1. Body temperature greater than or equal to 38.0°C (100.4°F), confirmed by repeat&#xD;
+             measurements at least 10 minutes after the first measurement.&#xD;
+&#xD;
+          2. Acute illness.&#xD;
+&#xD;
+          3. Any other clinical or laboratory finding that would exclude the participant from&#xD;
+             inoculation (including, but limited to, a positive urine/serum pregnancy test), as&#xD;
+             assessed by the study doctor.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Johns Hopkins University, Bloomberg School of Public Health</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Laur Ebone</last_name>
+      <phone>443-610-8134</phone>
+      <email>lebone1@jhmi.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Anna Durbin, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Vermont Medical Center (UVMMC), Clinical Research Center</name>
+      <address>
+        <city>Burlington</city>
+        <state>Vermont</state>
+        <zip>05401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Patricia Lutton</last_name>
+      <phone>802-656-0013</phone>
+      <email>Patricia.lutton@med.uvm.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Kristen Pierce, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>June 30, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 17, 2021</study_first_posted>
+  <last_update_submitted>November 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Dengue Serotype 3</keyword>
+  <keyword>Healthy Participants</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dengue</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

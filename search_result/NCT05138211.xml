@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1763">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05138211</url>
+  </required_header>
+  <id_info>
+    <org_study_id>REFLEX_HemipareticEMG</org_study_id>
+    <nct_id>NCT05138211</nct_id>
+  </id_info>
+  <brief_title>Effects of Unilateral Robotic Assistance on Compensation Strategies and Muscular Activity During Hemiparetic Gait</brief_title>
+  <official_title>Assessment of the Evolution of Compensatory Strategies and Muscular Response in Hemiparetic Post-stroke Gait Due to Unilateral Robotic Assistance</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Spanish National Research Council</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hospital Beata María Ana</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Spanish National Research Council</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Hemiparetic gait is characterized by strong asymmetries that could severely affect the&#xD;
+      quality of life of stroke survivors. This asymmetry is due to motor deficits in the paretic&#xD;
+      leg and the resulting compensations in the non-paretic limb.&#xD;
+&#xD;
+      In this study, the investigators aim to evaluate the effect of actively promoting gait&#xD;
+      symmetry in hemiparetic patients by assessing the motion and muscular activity of both&#xD;
+      paretic and non-paretic lower limbs. To this end, the investigators use a unilateral active&#xD;
+      Knee-Ankle-Foot Orthosis able to assist the paretic limb of hemiparetic patients during gait.&#xD;
+&#xD;
+      The system is able to synchronize its action with the movement of the unassisted joints,&#xD;
+      promoting a natural and intuitive interaction. The device generates assistance to induce a&#xD;
+      healthy gait pattern on the paretic leg.&#xD;
+&#xD;
+      The hypothesis is that a proper and natural interaction between the user and the exoskeleton&#xD;
+      would enable the patients to consider the robot action as a part of their own gait&#xD;
+      capability, improving their gait quality as consequence. Hemiparetic asymmetry is not only&#xD;
+      due to impairments in the affected limb, but also it is the consequence of biomechanical&#xD;
+      compensatory mechanisms that might arose in the non-paretic leg. The aim of this study is to&#xD;
+      assess the adaptation process of the subject to the exoskeleton assistance, and to evaluate&#xD;
+      the effects of such human-robot interaction in both paretic and non-paretic legs.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      - Materials: The investigators have developed a Knee-Ankle-Foot orthosis (KAFO) composed of&#xD;
+      two joints aligned to the knee and ankle of the user. The length of its bars and the&#xD;
+      positions of its braces can be tailored to the anthropometry of different users. The knee&#xD;
+      joint is actuated by a DC brushless motor EC-60 flat 408057 (Maxon ag, Switzerland) coupled&#xD;
+      with a harmonic drive CSD-20-160-2AGR (Harmonic Drive LLC, EE.UU.). The transmission ratio of&#xD;
+      1:60 of this system enables the application of a mean torque of 35Nm. The ankle joint of the&#xD;
+      prototype remains non-actuated and unlimited, enabling its free movement in the sagittal&#xD;
+      plane. The total weight of the KAFO is about 4kg.&#xD;
+&#xD;
+      The prototype is equipped with sensors that provide information on system variables that are&#xD;
+      used for its control in real-time, such as the flexion angle of the robot joint or the&#xD;
+      interaction torque between user and robot. In addition, the gait kinematic of the user is&#xD;
+      measured by Inertial Measurement Units (IMUs) and the contact of both feet with the floor by&#xD;
+      Force Sensing Resistors (FSRs).&#xD;
+&#xD;
+      The system uses an Adaptive Frequency Oscillator to estimate the continuous gait phase of the&#xD;
+      contralateral limb and synchronically assists the paretic leg by inducing a healthy gait&#xD;
+      pattern. The action of the robot depends on the gait phase of the assisted leg: during the&#xD;
+      stance phase, the robot reinforces the limb so the system composed of the leg and the&#xD;
+      exoskeleton can load the user's weight and not collapse, while during the swing phase the&#xD;
+      robot guides the limb's movement according to the Assisted-As-Needed (AAN) paradigm creating&#xD;
+      a force tunnel around the prescribed trajectory.&#xD;
+&#xD;
+      - Procedures:&#xD;
+&#xD;
+      The experimental protocol is divided in three sessions. During all of them, the patient will&#xD;
+      walk on a treadmill commanded by the physiotherapist while wearing a safety harness to avoid&#xD;
+      falls and while wearing the robotic exoskeleton in the paretic leg. During the second and&#xD;
+      third sessions, electromyography will also be acquired by using surface electrodes (Trigno&#xD;
+      System, Delsys Inc.) and according to the SENIAM guidelines. The muscle activity of Rectus&#xD;
+      Femoris, Biceps Femoris Long Head, Tibialis Anterior and Medial Gastrocnemius of both legs&#xD;
+      will be measured through this method. Each experimental session is described next:&#xD;
+&#xD;
+        1. - Training session: The patient will wear the robotic exoskeleton to familiarize with&#xD;
+           the action of the device. Comfortable and maximum velocities will be identified for each&#xD;
+           subject.&#xD;
+&#xD;
+        2. - Ramp Velocity Session: the session will be divided into five trials: (a) Pre, the&#xD;
+           patient will not wear the device; (b) Free, the patient will wear the robot but it is&#xD;
+           mechanically decoupled so it will enable the free knee movement; (c) Active, the robot&#xD;
+           will assist the gait until 75% maximum gait velocity ; (d) MaxActive, the robot will&#xD;
+           assist the gait until maximum gait velocity ; and (e) Post, the patient will repeat the&#xD;
+           Pre condition. Velocity will increase from a comfortable velocity to the maximum and&#xD;
+           then come back to the comfortable one.&#xD;
+&#xD;
+        3. - Random Velocity session: the session will be divided into the same trials than the&#xD;
+           Ramp Velocity Session.&#xD;
+&#xD;
+      The difference between RampVel and RandomVel sessions will be the sequence of gait speeds at&#xD;
+      which the patient will walk. During RampVel, five velocity steps will be defined from&#xD;
+      comfortable to maximum velocity with or without exo (depending on the trial) and coming back&#xD;
+      to comfortable velocity. During RandomVel, the same range of velocity will be used, but&#xD;
+      defining five steps in the whole range and setting them in a random order. In both sessions,&#xD;
+      each gait speed step will last one minute, therefore, all trials will last five minutes.&#xD;
+      Trials Free, Active and MaxActive will be also randomly ordered in each session.&#xD;
+&#xD;
+      Between trials, patients will rest during 10 minutes to avoid summation effects. Each session&#xD;
+      will occur in different days, leaving 1 or 2 days in between.&#xD;
+&#xD;
+      - Intervention providers A physiotherapist and an engineer will be present during the trials.&#xD;
+      The first will be responsible of assessing the basal gait of the subjects and evaluating&#xD;
+      his/her state while the assistance is provided. The engineer will be responsible of managing&#xD;
+      the device and recording the data.&#xD;
+&#xD;
+      Both researchers monitor fidelity to the intervention by direct supervision.&#xD;
+&#xD;
+        -  Modes of delivery The protocol is provided to one participant at a time. Each patient&#xD;
+           completes the protocol once.&#xD;
+&#xD;
+        -  Location Hospital Beata María Ana (Madrid, Spain)&#xD;
+&#xD;
+        -  Tailoring and modifications The protocol remains unaltered across applications. The only&#xD;
+           adaptation to patients is the choice of the comfortable and maximum gait speeds for the&#xD;
+           trials.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 18, 2021</start_date>
+  <completion_date type="Anticipated">April 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Symmetry of knee flexion/extension kinematics</measure>
+    <time_frame>During the intervention</time_frame>
+    <description>The joint motion will be measured by Inertial Sensors</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Symmetry of Integrated EMG in Rectus Femoris</measure>
+    <time_frame>During the intervention</time_frame>
+    <description>The muscle activity data will be acquired by EMG sensors according to the SENIAM guidelines</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Symmetry of Integrated EMG in Biceps Femoris Long Head</measure>
+    <time_frame>During the intervention</time_frame>
+    <description>The muscle activity data will be acquired by EMG sensors according to the SENIAM guidelines</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Symmetry of Integrated EMG in Tibialis Anterior</measure>
+    <time_frame>During the intervention</time_frame>
+    <description>The muscle activity data will be acquired by EMG sensors according to the SENIAM guidelines</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Symmetry of Integrated EMG in Medial Gastrocnemius</measure>
+    <time_frame>During the intervention</time_frame>
+    <description>The muscle activity data will be acquired by EMG sensors according to the SENIAM guidelines</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Symmetry of step time</measure>
+    <time_frame>During the intervention</time_frame>
+    <description>Floor contact events are detected by FSRs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Symmetry of step length</measure>
+    <time_frame>During the intervention</time_frame>
+    <description>Thigh and shank kinematics measured by inertial sensors</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Hemiparesis/Hemiplegia (One Sided Weakness/Paralysis)</condition>
+  <arm_group>
+    <arm_group_label>Hemiparetic patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with hemiparetic gait who will be assisted by the exoskeleton action</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Exoskeleton assisted gait on a treadmill</intervention_name>
+    <description>The experimental protocol is divided in three sessions. During all of them, the patient will walk on a treadmill for 6 minutes while wearing a safety harness and the robotic exoskeleton in the paretic leg.&#xD;
+- Training session: The patient will wear the robotic exoskeleton to familiarize with the action of the device.&#xD;
+- Ramp Velocity Session: the session will be divided into five trials: (a) Pre, the patient will not wear the device; (b) Free, the patient will wear the robot but it is mechanically decoupled so it will enable the free knee movement; (c) Active, the robot will assist the gait until 75% maximum gait velocity ; (d) MaxActive, the robot will assist the gait until maximum gait velocity ; and (e) Post, the patient will repeat the Pre condition. Velocity will increase from comfortable velocity to the maximum and then come back to the comfortable one.&#xD;
+- Random Velocity session: the session will be divided into the same trials than the Ramp Velocity Session.</description>
+    <arm_group_label>Hemiparetic patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria Ischemic or haemorrhagic stroke that lead to hemiplegic gait&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Acute musculoskeletal diseases&#xD;
+&#xD;
+          2. Peripheral vascular diseases&#xD;
+&#xD;
+          3. Acute cardiopulmonary diseases&#xD;
+&#xD;
+          4. Acute neurological diseases&#xD;
+&#xD;
+          5. Excessive spasticity in any joint of the lower limb (Ashworth scale&gt; 2)&#xD;
+&#xD;
+          6. Joint mobility restriction of lower limb joints due to any cause&#xD;
+&#xD;
+          7. Pain due to impaired mobility of the lower limb&#xD;
+&#xD;
+          8. Inability to use robotic exoskeleton prototypes due to his/her health condition.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Julio S. Lora-Millan</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Spanish National Research Council</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Julio S. Lora-Millan</last_name>
+    <phone>+34918711900</phone>
+    <email>julio.lora@csic.es</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital Beata María Ana</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Julio S. Lora-Millan</last_name>
+      <phone>+34 918 711 900</phone>
+      <email>julio.lora@csic.es</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 30, 2021</study_first_posted>
+  <last_update_submitted>November 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Spanish National Research Council</investigator_affiliation>
+    <investigator_full_name>Julio S. Lora Millan</investigator_full_name>
+    <investigator_title>Responsible Engineer</investigator_title>
+  </responsible_party>
+  <keyword>Hemiparetic Gait</keyword>
+  <keyword>Robotic Knee Exoskeleton</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Paralysis</mesh_term>
+    <mesh_term>Hemiplegia</mesh_term>
+    <mesh_term>Paresis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The datasets generated and/or analyzed during the current study are available from the corresponding author on reasonable request.</ipd_description>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Immediately following publication, no end date</ipd_time_frame>
+    <ipd_access_criteria>Access will be subject to methodologically sound proposals and it will be approval by scientific investigator (julio.lora@csic.es)</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

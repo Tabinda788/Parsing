@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5936">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05083949</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1276-0041</org_study_id>
+    <nct_id>NCT05083949</nct_id>
+  </id_info>
+  <brief_title>A Study in Healthy Humans to Assess the Relative Bioavailability of One Fixed-dose Combination Tablet Empagliflozin/Metformin Versus Jardiance® Tablet and Glifage® Tablet Administered Together</brief_title>
+  <official_title>Relative Bioavailability of Empagliflozin/Metformin Fixed-dose Combination - Empaglifozin 12.5 mg + Metformin 850mg (Boehringer Ingelheim) Coated Tablet Versus Jardiance® 10mg (Reference 1: Boehringer Ingelheim) Coated Tablet and Glifage® 850mg (Reference 2: Merck S / A. ) Coated Tablet, Administered Together in Healthy Male and Female Subjects Under Fed Conditions: an Open-label, Randomised, Single-dose, Two-way Crossover Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boehringer Ingelheim</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boehringer Ingelheim</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This trial is to establish bioequivalence of the fixed dose combination (FDC) tablets&#xD;
+      (containing 12.5 mg empagliflozin/850 mg metformin) (Test, T) compared with the single&#xD;
+      tablets (10 mg empagliflozin and Glifage® 850 mg tablets) (Reference, R).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 23, 2021</start_date>
+  <completion_date type="Actual">September 9, 2021</completion_date>
+  <primary_completion_date type="Actual">August 6, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>The bioanalytical staff involved are blinded to treatment</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Dose-normalized area under the curve from the time of dosing (Dosing_time) to the last measurable (positive) concentration of empagliflozin.</measure>
+    <time_frame>up to 14 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum observed concentration of empagliflozin, occurring at Tmax. If not unique, then the first maximum is used.</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>Tmax = Time of maximum observed concentration of empagliflozin. For non-steady-state data, the entire curve is considered. For steady-state data, Tmax corresponds to points collected during a dosing interval. If the maximum observed concentration is not unique, then the first maximum is used.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area under the curve from the time of dosing (Dosing_time) to the last measurable (positive) concentration of metformin.</measure>
+    <time_frame>up to 14 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum observed concentration of metformin, occurring at Tmax. If not unique, then the first maximum is used.</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>Tmax = Time of maximum observed concentration of metformin. For non-steady-state data, the entire curve is considered. For steady-state data, Tmax corresponds to points collected during a dosing interval. If the maximum observed concentration is not unique, then the first maximum is used.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Dose-normalized area under the curve from Dosing_time extrapolated to infinity, based on the last observed concentration of empagliflozin.</measure>
+    <time_frame>up to 14 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the curve from Dosing_time extrapolated to infinity, based on the last observed concentration of metformin.</measure>
+    <time_frame>up to 14 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time of maximum observed concentration of empagliflozin and metformin.</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>For non-steady-state data, the entire curve is considered. For steady-state data, Tmax corresponds to points collected during a dosing interval. If the maximum observed concentration is not unique, then the first maximum is used.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Area under the curve from Dosing_time extrapolated to infinity, based on the last observed concentration (obs) due to extrapolation from Tlast to infinity of empagliflozin and metformin.</measure>
+    <time_frame>up to 14 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Terminal half-life of first order rate constant associated with the terminal (log-linear) portion of the curve. Estimated by linear regression of time vs. log concentration of empagliflozin and metformin.</measure>
+    <time_frame>up to 14 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>First order rate constant associated with the terminal (log-linear) portion of the curve. Estimated by linear regression of time vs. log concentration of empagliflozin and metformin.</measure>
+    <time_frame>up to 14 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">24</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Test: empagliflozin/metformin, fixed dose combination</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Reference: Jardiance® and Glifage® single dose each</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>empagliflozin/metformin</intervention_name>
+    <description>empagliflozin/metformin</description>
+    <arm_group_label>Test: empagliflozin/metformin, fixed dose combination</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Jardiance®</intervention_name>
+    <description>Jardiance®</description>
+    <arm_group_label>Reference: Jardiance® and Glifage® single dose each</arm_group_label>
+    <other_name>Empagliflozin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Glifage®</intervention_name>
+    <description>Glifage®</description>
+    <arm_group_label>Reference: Jardiance® and Glifage® single dose each</arm_group_label>
+    <other_name>Metformin</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          -  Healthy male or female subjects according to the assessment of the investigator, as&#xD;
+             based on a complete medical history including a physical examination, vital signs&#xD;
+             (blood pressure (BP), pulse rate (PR)), 12-lead Electrocardiogram (ECG), and clinical&#xD;
+             laboratory tests&#xD;
+&#xD;
+          -  Age of at least 18 (inclusive) to 50 years (inclusive)&#xD;
+&#xD;
+          -  Body mass index (BMI) of 18.5 to 29.9 weight divided by height squared (kg/m2)&#xD;
+             (inclusive)&#xD;
+&#xD;
+          -  Signed and dated written informed consent prior to admission to the study, in&#xD;
+             accordance with Good Clinical Practice (GCP) and local legislation&#xD;
+&#xD;
+          -  Male subjects, or female subjects who meet any of the following criteria from at least&#xD;
+             30 days before the first administration of trial medication until 30 days after trial&#xD;
+             completion:&#xD;
+&#xD;
+          -  Use of adequate contraception, e.g. any of the following methods plus condom:&#xD;
+&#xD;
+               -  implants, injectables, combined oral or vaginal contraceptives, intrauterine&#xD;
+                  device&#xD;
+&#xD;
+               -  Sexually abstinent&#xD;
+&#xD;
+               -  A vasectomised sexual partner (vasectomy at least 1 year prior to enrolment)&#xD;
+&#xD;
+               -  Surgically sterilised (including hysterectomy)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any finding in the medical examination (including BP, PR or ECG) deviating from normal&#xD;
+             and assessed as clinically relevant by the investigator&#xD;
+&#xD;
+          -  Repeated measurement of systolic blood pressure outside the range of 90 to 140&#xD;
+             millimetre of mercury (mmHg), diastolic blood pressure outside the range of 50 to 90&#xD;
+             mmHg, or pulse rate outside the range of 50 to 90 beats per minute (bpm)&#xD;
+&#xD;
+          -  Any laboratory value outside the reference range that the investigator considers to be&#xD;
+             of clinical relevance&#xD;
+&#xD;
+          -  Cholecystectomy or other surgery of the gastrointestinal tract that could interfere&#xD;
+             with the pharmacokinetics of the trial medication (except appendectomy or simple&#xD;
+             hernia repair)&#xD;
+&#xD;
+          -  History of relevant orthostatic hypotension, fainting spells, or blackouts&#xD;
+&#xD;
+          -  Chronic or relevant acute infections&#xD;
+&#xD;
+          -  Use of drugs within 30 days of planned administration of trial medication that might&#xD;
+             reasonably influence the results of the trial (including drugs that cause time from&#xD;
+             the start of the Q wave to the end of the T wave (QT) / corrected QT (QTc) interval&#xD;
+             prolongation)&#xD;
+&#xD;
+          -  Smoker (more than 5 cigarettes or 1 cigar or 1 pipe per day)&#xD;
+&#xD;
+          -  Detection or indeterminate / inconclusive result of the severe acute respiratory&#xD;
+             syndrome coronavirus 2 (SARS-CoV-2) Coronavirus ribonucleic acid (RNA) in the&#xD;
+             quantitative real-time polymerase chain reaction (RT-qPCR) exam performed on the day&#xD;
+             before the admission of each period;&#xD;
+&#xD;
+          -  The research participant presents symptoms of coronavirus disease 2019 (COVID-19)&#xD;
+             infection (even if the result is &quot;undetected&quot; in the RT-PCR exam for COVID-19)&#xD;
+&#xD;
+          -  Further exclusion criteria apply&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Instituto de Ciências Farmacêuticas de Estudos e Pesquisas - ICF</name>
+      <address>
+        <city>Goiânia</city>
+        <zip>74935-530</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <link>
+    <url>https://www.mystudywindow.com/</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 19, 2021</study_first_posted>
+  <last_update_submitted>October 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Metformin</mesh_term>
+    <mesh_term>Empagliflozin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Clinical studies sponsored by Boehringer Ingelheim, phases I to IV, interventional and non-interventional, are in scope for sharing of the raw clinical study data and clinical study documents, except for the following exclusions:&#xD;
+studies in products where Boehringer Ingelheim is not the license holder;&#xD;
+studies regarding pharmaceutical formulations and associated analytical methods, and studies pertinent to pharmacokinetics using human biomaterials;&#xD;
+studies conducted in a single center or targeting rare diseases (because of limitations with anonymization).&#xD;
+For more details refer to:https://www.mystudywindow.com/msw/datasharing</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

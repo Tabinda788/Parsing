@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1212">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05145374</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-0415</org_study_id>
+    <nct_id>NCT05145374</nct_id>
+  </id_info>
+  <brief_title>Multivariable Artificial Pancreas: Detecting and Mitigating Unannounced Physical Activity and Acute Psychological Stress</brief_title>
+  <official_title>Multivariable Artificial Pancreas to Detect and Mitigate the Effects of Unannounced Physical Activities and Acute Psychological Stress</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Illinois at Chicago</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Illinois Institute of Technology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Illinois at Chicago</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this proposal is to demonstrate a viable, functionally integrated&#xD;
+      multivariable artificial pancreas (mvAP) that will address meal, physical activity (PA) and&#xD;
+      acute psychological stress (APS) challenges without any manual inputs to better regulate&#xD;
+      glucose levels of people with diabetes. Acute psychological stress and many other forms of PA&#xD;
+      besides planned exercise can affect blood glucose levels and cause challenges to maintaining&#xD;
+      euglycemia for people with type 1 diabetes mellitus (T1DM). Various PA and APS affect the&#xD;
+      metabolism and sensitivity to insulin in different ways. Hence, their types, intensities and&#xD;
+      durations, and their individual and concurrent presence must be detected in order to&#xD;
+      determine the optimal insulin administration. The mvAP approach provides a well-integrated&#xD;
+      and user-friendly technology with minimal burden on the user and mitigates the effects of&#xD;
+      unexpected PA and APS inducements. Twenty subjects with type 1 diabetes (ages 18-60) who use&#xD;
+      insulin pumps enrolled in this study. The study will take place at the UIC-College of Nursing&#xD;
+      Diabetes and Exercise Laboratory. The protocol will include 1 screening visit and 5 sessions&#xD;
+      at the laboratory. The primary activities at each meeting will include: (1) screening; (2)&#xD;
+      measurement of peak exercise capacity; (3) estimation of maximal strength from submaximal&#xD;
+      strength tests; (4) Trier Social Stress Test; (5) submaximal bouts of aerobic and resistance&#xD;
+      exercise, and activities of daily living with and without stress (e.g., mental calculations,&#xD;
+      video games). These activities will be included visit 3, 4 and 5 as appropriate. In addition,&#xD;
+      subjects will perform activities at home include: housekeeping chores, stationary bike (if&#xD;
+      available); treadmill (if available); walking; and light weights (if available).&#xD;
+      Periodically, the research assistant will call the subject during these times and ask them to&#xD;
+      perform stress-inducing activities while performing the activity. The stress inducing&#xD;
+      activities will include mental challenges such as a mathematical computation while performing&#xD;
+      the activity. The subjects will be called at home 3-5 times during the study. The fully&#xD;
+      automated algorithm will be tested in a home setting, however, the methodology will be&#xD;
+      developed and approved for testing later in the study.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The development of an artificial pancreas (AP) has gained considerable progress over the last&#xD;
+      decade. The goal of AP systems is to develop a device that will provide insulin on demand in&#xD;
+      response to blood glucose levels in the same manner as the own pancreas. The first generation&#xD;
+      of AP systems, the hybrid closed-loop AP, collects data from continuous glucose monitoring&#xD;
+      (CGM) devices and relies on manual user inputs for mitigating the effects of meals and&#xD;
+      physical activities. The objective of this proposal is to demonstrate a viable, functionally&#xD;
+      integrated multivariable artificial pancreas (mvAP) that will address meal, physical activity&#xD;
+      (PA) and acute psychological stress (APS) challenges without any manual inputs to better&#xD;
+      regulate glucose levels of people with diabetes. Acute psychological stress and many other&#xD;
+      forms of PA besides planned exercise can affect blood glucose levels and cause challenges to&#xD;
+      maintaining euglycemia for people with type 1 diabetes mellitus (T1DM). Various PA and APS&#xD;
+      affect the metabolism and sensitivity to insulin in different ways. Hence, their types,&#xD;
+      intensities and durations, and their individual and concurrent presence must be detected in&#xD;
+      order to determine the optimal insulin administration. The mvAP approach provides a&#xD;
+      well-integrated and user-friendly technology with minimal burden on the user and mitigates&#xD;
+      the effects of unexpected PA and APS inducements. The objective of this proposal is to&#xD;
+      demonstrate a viable, functionally integrated mvAP that will address meal, PA and APS&#xD;
+      challenges without any manual inputs to better regulate glucose levels of people with T1DM.&#xD;
+      Our hypothesis is that a new generation multivariable AP that incorporates real-time&#xD;
+      detection and determination of the characteristics of PA and APS and mitigation of their&#xD;
+      effects by automatic control will be more effective in improving glucose control in people&#xD;
+      with T1DM. Additionally, this technology will be safer compared to APs based exclusively on&#xD;
+      CGM data, by reducing the number and duration of hypoglycemic and hyperglycemic events. Such&#xD;
+      mvAP systems can only be developed by using a sophisticated multivariable approach that uses&#xD;
+      real-time information from CGMs and physiological variables obtained from wearable devices&#xD;
+      worn in free-living daily life. It is proposed to build on this framework a fully automated&#xD;
+      mvAP technology that will mitigate meal, PA and APS challenges, including unexpected and&#xD;
+      unplanned events. The specific aims of the proposed research are: Aim 1. To develop the mvAP&#xD;
+      algorithms and modules that identify various types of physical activities, acute&#xD;
+      psychological stress episodes, their concurrent presence and their characteristics in real&#xD;
+      time. Aim 2a: To conduct open-loop studies in clinic and in free living to expand the types&#xD;
+      and intensities of PA and APS inducements, to enrich our database with data collected during&#xD;
+      activities of daily living (alone or coupled with APS), including unplanned spontaneous PA&#xD;
+      and APS events. Aim 2b:To extend our multivariable glucose-insulin-physiological variables&#xD;
+      simulator (mGIPsim) for in silico studies of the mvAP for simulating APS inducements and&#xD;
+      their effects on glucose levels and physiological variable outputs of the simulator. Aim 3:&#xD;
+      To conduct clinical experiments with the second generation mvAP in clinical settings and in&#xD;
+      free living to assess the performance of our fully-automated mvAP in closed-loop operation.&#xD;
+      At this time, IRB approval for Aim 1, 2a and 2b has been obtained. Aim 3 will be. conducted&#xD;
+      at a later date. The clinical studies will take place at the University of Illinois at&#xD;
+      Chicago (UIC)-College of Nursing and at the subjects' home. The protocol will include 1&#xD;
+      screening visit and 5 sessions at the laboratory. The primary activities at each meeting will&#xD;
+      include: (1) screening; (2) measurement of peak exercise capacity; (3) estimation of maximal&#xD;
+      strength from submaximal strength tests; (4) Trier Social Stress Test; (5) submaximal bouts&#xD;
+      of aerobic and resistance exercise, and activities of daily living with and without stress&#xD;
+      (e.g., mental calculations, video games). These activities will be included visit 3, 4 and 5&#xD;
+      as appropriate. In addition, subjects will perform activities at home include: housekeeping&#xD;
+      chores, stationary bike (if available); treadmill (if available); walking; and light weights&#xD;
+      (if available). Periodically, the research assistant will call the subject during these times&#xD;
+      and ask them to perform stress-inducing activities while performing the activity. The stress&#xD;
+      inducing activities will include mental challenges such as a mathematical computation while&#xD;
+      performing the activity. The subjects will be called at home 3-5 times during the study. The&#xD;
+      fully automated algorithm will be tested in a home setting. Once the methodology needs is&#xD;
+      refined Institutional Review Board (IRB) approval for the Aim 3 will be obtained.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 20, 2021</start_date>
+  <completion_date type="Anticipated">September 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 15, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Measurement of Glucose Concentration</measure>
+    <time_frame>2 years</time_frame>
+    <description>• Glucose concentration (mg/dl) will be measured by: Continuous Glucose Monitor</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Type 1 Diabetes</condition>
+  <arm_group>
+    <arm_group_label>Stressful Stimuli</arm_group_label>
+    <description>Participation in meal, exercise, sleep activities alone or in combination with stressful stimuli.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Men and Women with Type 1 Diabetes&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Men and Women with T1DM&#xD;
+&#xD;
+        Insulin pump users&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Metabolic instability as evidenced by hospitalizations for diabetes or other&#xD;
+             diabetes-related complications (e.g., diabetic ketoacidosis and hypoglycemic seizures)&#xD;
+             within the preceding three months;&#xD;
+&#xD;
+          -  Severe macrovascular disease, as evidenced by severe peripheral artery disease;&#xD;
+             history of myocardial infarction, heart failure, thromboembolic disease, or unstable&#xD;
+             angina; uncontrolled hypertension; abnormal resting EKG;&#xD;
+&#xD;
+          -  Maximal exercise stress test with significant brady/tachy arrhythmia, ectopic beats,&#xD;
+             bundle branch block, or signs of acute ischemia;&#xD;
+&#xD;
+          -  Severe microvascular disease as evidenced by history of vision-threatening&#xD;
+             proliferative or non-proliferative retinal disease; kidney disease;&#xD;
+&#xD;
+          -  Any uncontrolled non-musculoskeletal condition that would limit the subject's ability&#xD;
+             to participate in the exercise program (e.g., chronic obstructive airways disease);&#xD;
+&#xD;
+          -  Musculoskeletal conditions such as neurological or orthopedic conditions affecting&#xD;
+             lower limb strength and mobility (e.g., stroke; insensitive foot);&#xD;
+&#xD;
+          -  Pregnancy;&#xD;
+&#xD;
+          -  Documented medical condition or physical impairment that is judged by the health care&#xD;
+             practitioner to contraindicate exercise.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ali Cinar</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Illinois Institute of Technology</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Laurie Quinn, PhD</last_name>
+    <phone>3127716497</phone>
+    <email>lquinn1@uic.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Illinois Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Laurie T Quinn, PhD</last_name>
+      <phone>312-771-6497</phone>
+      <email>lquinn1@uic.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Sevil M, Rashid M, Hajizadeh I, Askari MR, Hobbs N, Brandt R, Park M, Quinn L, Cinar A. Discrimination of simultaneous psychological and physical stressors using wristband biosignals. Comput Methods Programs Biomed. 2021 Feb;199:105898. doi: 10.1016/j.cmpb.2020.105898. Epub 2020 Dec 17.</citation>
+    <PMID>33360529</PMID>
+  </reference>
+  <reference>
+    <citation>Sevil M, Rashid M, Maloney Z, Hajizadeh I, Samadi S, Askari MR, Hobbs N, Brandt R, Park M, Quinn L, Cinar A. Determining Physical Activity Characteristics from Wristband Data for Use in Automated Insulin Delivery Systems. IEEE Sens J. 2020 Nov;20(21):12859-12870. doi: 10.1109/jsen.2020.3000772. Epub 2020 Jun 8.</citation>
+    <PMID>33100923</PMID>
+  </reference>
+  <reference>
+    <citation>Rashid M, Samadi S, Sevil M, Hajizadeh I, Kolodziej P, Hobbs N, Maloney Z, Brandt R, Feng J, Park M, Quinn L, Cinar A. Simulation Software for Assessment of Nonlinear and Adaptive Multivariable Control Algorithms: Glucose - Insulin Dynamics in Type 1 Diabetes. Comput Chem Eng. 2019 Nov 2;130. pii: 106565. doi: 10.1016/j.compchemeng.2019.106565. Epub 2019 Sep 2.</citation>
+    <PMID>32863472</PMID>
+  </reference>
+  <reference>
+    <citation>Turksoy K, Hajizadeh I, Hobbs N, Kilkus J, Littlejohn E, Samadi S, Feng J, Sevil M, Lazaro C, Ritthaler J, Hibner B, Devine N, Quinn L, Cinar A. Multivariable Artificial Pancreas for Various Exercise Types and Intensities. Diabetes Technol Ther. 2018 Oct;20(10):662-671. doi: 10.1089/dia.2018.0072. Epub 2018 Sep 6.</citation>
+    <PMID>30188192</PMID>
+  </reference>
+  <reference>
+    <citation>Brandt R, Park M, Wroblewski K, Quinn L, Tasali E, Cinar A. Sleep quality and glycaemic variability in a real-life setting in adults with type 1 diabetes. Diabetologia. 2021 Oct;64(10):2159-2169. doi: 10.1007/s00125-021-05500-9. Epub 2021 Jun 17.</citation>
+    <PMID>34136937</PMID>
+  </reference>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>November 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 6, 2021</study_first_posted>
+  <last_update_submitted>December 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Illinois at Chicago</investigator_affiliation>
+    <investigator_full_name>Laurie Quinn</investigator_full_name>
+    <investigator_title>Clinical Professor</investigator_title>
+  </responsible_party>
+  <keyword>Physical Activity</keyword>
+  <keyword>Psychological Stress</keyword>
+  <keyword>Artificial Pancreas</keyword>
+  <keyword>Sleep</keyword>
+  <keyword>Stress</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stress, Psychological</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

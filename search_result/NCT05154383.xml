@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="520">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05154383</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-05</org_study_id>
+    <nct_id>NCT05154383</nct_id>
+  </id_info>
+  <brief_title>Effect of High-Dose Quadrivalent Influenza Vaccine (Efluelda®) Versus Standard-Dose (QIV-SD), in Subjects 65 Years of Age and Older on Innate Immunity, Including Gene Expression</brief_title>
+  <acronym>INFLUOMICS</acronym>
+  <official_title>Effect of High-Dose Quadrivalent Influenza Vaccine (Efluelda®) Versus Standard-Dose (QIV-SD), in Subjects 65 Years of Age and Older on Innate Immunity, Including Gene Expression</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Annecy Genevois</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Sanofi Pasteur, a Sanofi Company</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Euraxi Pharma</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospices Civils de Lyon</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Institut National de la Santé Et de la Recherche Médicale, France</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Eurofins Optimed</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Centre Hospitalier Annecy Genevois</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to evaluate innate and adaptive immunity following QIV-HD&#xD;
+      vaccination compared to QIV-SD vaccination in people 65 years of age and older.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The hypothesis is that higher dose of antigen can increase the intensity and the quality of&#xD;
+      innate immunity, as the adaptive humoral and cellular responses.&#xD;
+&#xD;
+      In this study, the objectif is to evaluate innate and adaptive immunity following QIV-HD&#xD;
+      vaccination compared to QIV-SD vaccination in people 65 years of age and older.&#xD;
+&#xD;
+      Modifications of early blood molecular (transcriptome) and cellular (blood phenotyping)&#xD;
+      signatures within the first 24 hours following vaccination will be investigated. The&#xD;
+      association between early gene signature and late influenza-specific humoral immune responses&#xD;
+      weeks/months after vaccination will be also assessed.&#xD;
+&#xD;
+      This study is a hase IV, randomized, open-label, active-controlled, multi-center study&#xD;
+      comparing the immune response induced by QIV-HD vaccine (intervention) and QIV-SD vaccine&#xD;
+      (control).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 15, 2021</start_date>
+  <completion_date type="Anticipated">September 15, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 15, 2022</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change of Transcriptomic profiles</measure>
+    <time_frame>Change from Baseline Transcriptomic profiles at day after vaccine injection (Day 1)</time_frame>
+    <description>Transcriptomic profiles of blood cells (microarrays) will be performed to measure early systemic innate immune response</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change of Innate cellular phenotyping</measure>
+    <time_frame>Change from Baseline Innate cellular phenotyping at day after vaccine injection (Day 1)</time_frame>
+    <description>Innate cellular phenotyping will be performed using 36 surface markers deciphering lineage cells monocytes, neutrophils, NK, antigen-presenting cells.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change of Gene signature</measure>
+    <time_frame>Change from Baseline Gene signature at day after vaccine injection (Day 1)</time_frame>
+    <description>Study of the transcriptional profile of the blood cells by microarrays</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Humoral immune responses</measure>
+    <time_frame>Day 0, Day 21, Day 90 and Day 210 time</time_frame>
+    <description>HAI titers, Individual HAI titers ratio, Subjects with titers ≥ 40, Seroconversion</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Vaccine Reaction</condition>
+  <arm_group>
+    <arm_group_label>High-Dose Quadrivalent Influenza Vaccine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>One injection of the high-dose Efluelda vaccine will be given to the patient</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard-Dose Quadrivalent Influenza Vaccine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>One injection of the standard-dose Influvactetra vaccine will be given to the patient</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Experimental arm : High-Dose Quadrivalent Influenza Vaccine (Efluelda)</intervention_name>
+    <description>Patient will received one dose of High Dose Quadrivalent Influenza Vaccine according to marketing authorization.</description>
+    <arm_group_label>High-Dose Quadrivalent Influenza Vaccine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Active Comparator: Standard-Dose Quadrivalent Influenza Vaccine</intervention_name>
+    <description>Patient will received one dose of Standard Dose Quadrivalent Influenza Vaccine according to marketing authorization.</description>
+    <arm_group_label>Standard-Dose Quadrivalent Influenza Vaccine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Aged 65 years or older, the day of inclusion;&#xD;
+&#xD;
+          2. Have signed and dated Informed Consent Form;&#xD;
+&#xD;
+          3. Able and willing to attend all scheduled visits, and to comply with study procedures;&#xD;
+&#xD;
+          4. Covered by French health insurance.&#xD;
+&#xD;
+        Non-Inclusion Criteria :&#xD;
+&#xD;
+          1. Any vaccine injection (including COVID-19 vaccine) in the 4 weeks preceding study&#xD;
+             inclusion;&#xD;
+&#xD;
+          2. Plan to receive any vaccine (including COVID-19 vaccine) in the 4 weeks following&#xD;
+             study inclusion;&#xD;
+&#xD;
+          3. Already vaccinated against influenza for 2021-2022 season;&#xD;
+&#xD;
+          4. Hypersensitivity to any of the vaccine components, or history of a life-threatening&#xD;
+             reaction to the vaccines used in the study or to a vaccine containing any of the same&#xD;
+             substances;&#xD;
+&#xD;
+          5. HIV infection;&#xD;
+&#xD;
+          6. Active Hepatitis B, or active Hepatitis C;&#xD;
+&#xD;
+          7. Previous Guillain Barré syndrome;&#xD;
+&#xD;
+          8. Ongoing immunosuppressive treatment or active immunodeficiency;&#xD;
+&#xD;
+          9. Receipt of immune globulins, blood or blood-derived products in the past 3 months;&#xD;
+&#xD;
+         10. Thrombocytopenia or bleeding disorder, receipt of anticoagulants contraindicating IM&#xD;
+             vaccination based on investigator's judgment;&#xD;
+&#xD;
+         11. Influenza-like illness symptoms, including COVID-19, within 4 weeks before study&#xD;
+             inclusion;&#xD;
+&#xD;
+         12. Personnes referred to in articles L1121-6 and L1121-8 of Public Health Code (persons&#xD;
+             deprived of liberty by judicial or administrative decision and persons subject to a&#xD;
+             legal protection measure: guardianship or curatorship).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Any subject presenting with influenza-like illness symptoms, including COVID-19&#xD;
+             between inclusion (visit 1) and randomization (visit 2);&#xD;
+&#xD;
+          2. Subject unable to attempt visit at Day 0 (visit 2) and Day 1 (visit 3);&#xD;
+&#xD;
+          3. Blood sample at Day 0 (visit 2) impossible to obtain;&#xD;
+&#xD;
+          4. Receipt of vaccine injection or equivalent between inclusion (visit 1) and&#xD;
+             randomization (visit 2), other than those allowed and planned in the study. This&#xD;
+             includes non-study dose of 2021-2022 influenza vaccine, blood-derived immune&#xD;
+             globulins, blood, or blood-derived products.&#xD;
+&#xD;
+          5. Any unexpected event relevant to the physician in charge, after discussion with the&#xD;
+             coordinating investigator and the sponsor&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Cecile JANSSEN</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CH Annecy Genevois</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marion GHIDI</last_name>
+    <phone>+33450637031</phone>
+    <email>mghidi@ch-annecygenevois.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Annecy Genevois</name>
+      <address>
+        <city>Annecy</city>
+        <zip>74370</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cécile JANSSEN</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Métropole Savoie</name>
+      <address>
+        <city>Chambéry</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Olivier ROGEAUX</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 13, 2021</study_first_posted>
+  <last_update_submitted>November 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

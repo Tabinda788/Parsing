@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7506">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05063539</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18094</org_study_id>
+    <secondary_id>I9X-MC-MTAE</secondary_id>
+    <secondary_id>2021-000170-29</secondary_id>
+    <nct_id>NCT05063539</nct_id>
+  </id_info>
+  <brief_title>A Study of LY3372689 to Assess the Safety, Tolerability, and Efficacy in Participants With Alzheimer's Disease</brief_title>
+  <official_title>Assessment of Safety, Tolerability, and Efficacy of LY3372689 in Early Symptomatic Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eli Lilly and Company</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the safety, tolerability and effect of study drug&#xD;
+      LY3372689 in participants with early symptomatic Alzheimer's Disease&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 16, 2021</start_date>
+  <completion_date type="Anticipated">June 13, 2024</completion_date>
+  <primary_completion_date type="Anticipated">May 16, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Based on a common closed study design. Participants final endpoint time will be between 76-124 weeks.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline to End Time Point in Integrated Alzheimer's Disease Rating Scale (iADRS)</measure>
+    <time_frame>Baseline, 76 to 124 Weeks</time_frame>
+    <description>Change from Baseline to End Time Point in iADRS will be measured in participants with early symptomatic Alzheimer's Disease (AD) with demonstrated presence of moderate levels of tau pathology</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to End Time Point in iADRS</measure>
+    <time_frame>Baseline, 76 to 124 Weeks</time_frame>
+    <description>Change from baseline to end point time in iADRS will be measured in the full study population (moderate + high levels of tau pathology) with early symptomatic AD</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline to End Time Point in Clinical Dementia Rating Scale - Sum of Boxes (CDR-SB)</measure>
+    <time_frame>Baseline, 76 to 124 Weeks</time_frame>
+    <description>Change From Baseline to End Time Point in CDR-SB</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to End Time Point in Alzheimer's Disease Assessment Scale - Cognitive Subscale (ADAS-Cog13)</measure>
+    <time_frame>Baseline, 76 to 124 Weeks</time_frame>
+    <description>Change from Baseline to End Time Point in ADAS-Cog13</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to End Time Point in Alzheimer's Disease Cooperative Study Instrumental Activities of Daily Living Inventory (ADCS-iADL)</measure>
+    <time_frame>Baseline, 76 to 124 Weeks</time_frame>
+    <description>Change from Baseline to End Time Point in ADCS-iADL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to End Time Point in Mini Mental State Examination (MMSE)</measure>
+    <time_frame>Baseline, 76 to 124 Weeks</time_frame>
+    <description>Change from Baseline to End Time Point in MMSE</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to End Time Point in Brain Tau Deposition as Measured by Flortaucipir F18 PET scan</measure>
+    <time_frame>Baseline, 76 to 124 Weeks</time_frame>
+    <description>Change from Baseline to End Time Point in Brain Tau Deposition as Measured by Flortaucipir F18 PET scan</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to End Time Point in Volumetric Magnetic Resonance Imaging (vMRI) Measures</measure>
+    <time_frame>Baseline, 76 to 124 Weeks</time_frame>
+    <description>Change from Baseline to End Time Point in Volumetric MRI Measures</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics (PK) Plasma Concentration of LY3372689</measure>
+    <time_frame>Up to 124 Weeks</time_frame>
+    <description>PK Plasma Concentration of LY3372689</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">330</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>LY3372689 High Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LY3372689 given orally</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>LY3372689 Low Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LY3372689 given orally</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo given orally</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>LY3372689</intervention_name>
+    <description>given orally</description>
+    <arm_group_label>LY3372689 High Dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>LY3372689</intervention_name>
+    <description>given orally</description>
+    <arm_group_label>LY3372689 Low Dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>given orally</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Gradual and progressive change in memory function reported by participants or&#xD;
+             informants for ≥ 6 months&#xD;
+&#xD;
+          -  MMSE score of 22 to 30 (inclusive) at baseline&#xD;
+&#xD;
+          -  CDR global score of 0.5 to 1.0 (inclusive), with a memory box score ≥0.5.&#xD;
+&#xD;
+          -  Meet 18F flortaucipir positron emission tomography (PET) scan (central analysis)&#xD;
+             criteria&#xD;
+&#xD;
+          -  Have a study partner who will provide written informed consent to participate&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Contraindication to MRI or PET scans&#xD;
+&#xD;
+          -  Have known allergies to LY3372689, related compounds, or any components of the&#xD;
+             formulations&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)</last_name>
+    <role>Study Director</role>
+    <affiliation>Eli Lilly and Company</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>There may be multiple sites in this clinical trial. 1-877-CTLILLY (1-877-CTLILLY (1-877-285-4559) or</last_name>
+    <phone>1-317-615-4559</phone>
+    <email>ClinicalTrials.gov@lilly.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hope Clinical Research, Inc.</name>
+      <address>
+        <city>Canoga Park</city>
+        <state>California</state>
+        <zip>91303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Leon Barkodar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>North County Neurology Associates</name>
+      <address>
+        <city>Carlsbad</city>
+        <state>California</state>
+        <zip>92011</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>760-631-3000</phone>
+    </contact>
+    <investigator>
+      <last_name>Benjamin Frishberg</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Neuro-Pain Medical Center</name>
+      <address>
+        <city>Fresno</city>
+        <state>California</state>
+        <zip>93710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>559-437-9700</phone>
+    </contact>
+    <investigator>
+      <last_name>Perminder J Bhatia</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Irvine Clinical Research Center</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>949-753-1663</phone>
+    </contact>
+    <investigator>
+      <last_name>Elly R Lee</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sharp Mesa Vista Hospital</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>MICHAEL PLOPPER</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Institute for Neurodegenerative Disorders</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>203-401-4346</phone>
+    </contact>
+    <investigator>
+      <last_name>David S Russell</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>JEM Research Institute</name>
+      <address>
+        <city>Atlantis</city>
+        <state>Florida</state>
+        <zip>33462</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>561-968-2933</phone>
+    </contact>
+    <investigator>
+      <last_name>Mark A Goldstein</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>VIN-Julie Schwartzbard</name>
+      <address>
+        <city>Aventura</city>
+        <state>Florida</state>
+        <zip>33180</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>305-933-5993</phone>
+    </contact>
+    <investigator>
+      <last_name>Julie Schwartzbard</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Neurology Offices of South Florida</name>
+      <address>
+        <city>Boca Raton</city>
+        <state>Florida</state>
+        <zip>33428</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>561-482-1027</phone>
+    </contact>
+    <investigator>
+      <last_name>Brian A Costell</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Brain Matters Research</name>
+      <address>
+        <city>Delray Beach</city>
+        <state>Florida</state>
+        <zip>33445</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>561-374-8461</phone>
+    </contact>
+    <investigator>
+      <last_name>Paayal K. Patel</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Charter Research</name>
+      <address>
+        <city>Lady Lake</city>
+        <state>Florida</state>
+        <zip>32159</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Jeffrey A Norton</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>ClinCloud - Viera</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Florida</state>
+        <zip>32940</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>407-680-0534</phone>
+    </contact>
+    <investigator>
+      <last_name>Rosemary Laird</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Merritt Island Medical Research, LLC</name>
+      <address>
+        <city>Merritt Island</city>
+        <state>Florida</state>
+        <zip>32952</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>321-305-5015</phone>
+    </contact>
+    <investigator>
+      <last_name>Gregory Kirk</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Visionary Investigators Network</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33133</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>786-655-8010</phone>
+    </contact>
+    <investigator>
+      <last_name>Andrew Lerman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>VIN-Victor Faradji</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33176</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>305-595-4041</phone>
+    </contact>
+    <investigator>
+      <last_name>Victor Faradji</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Renstar Medical Research</name>
+      <address>
+        <city>Ocala</city>
+        <state>Florida</state>
+        <zip>34470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>3526295800</phone>
+    </contact>
+    <investigator>
+      <last_name>John Paul Nardandrea</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>IMIC, Inc.</name>
+      <address>
+        <city>Palmetto Bay</city>
+        <state>Florida</state>
+        <zip>33157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>786-310-7477</phone>
+    </contact>
+    <investigator>
+      <last_name>Ramon Leon</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>VIN- Margarita Almeida El-Ramey</name>
+      <address>
+        <city>Pembroke Pines</city>
+        <state>Florida</state>
+        <zip>33026</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>954-874-0201</phone>
+    </contact>
+    <investigator>
+      <last_name>Margarita Almeida El-Ramey</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Brain Matters Research</name>
+      <address>
+        <city>Stuart</city>
+        <state>Florida</state>
+        <zip>34997</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>561-374-8461</phone>
+    </contact>
+    <investigator>
+      <last_name>Paayal K. Patel</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Josephson Wallack Munshower Neurology, PC</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46256</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>3175376099</phone>
+    </contact>
+    <investigator>
+      <last_name>Kristi Koch George</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Eastern Maine Medical Center</name>
+      <address>
+        <city>Bangor</city>
+        <state>Maine</state>
+        <zip>04401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>207-973-6179</phone>
+    </contact>
+    <investigator>
+      <last_name>Clifford Singer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>ActivMed Practices and Research</name>
+      <address>
+        <city>Methuen</city>
+        <state>Massachusetts</state>
+        <zip>01844</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Michael J. McCartney</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Center for Memory</name>
+      <address>
+        <city>Newton</city>
+        <state>Massachusetts</state>
+        <zip>02459</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>413-281-0577</phone>
+    </contact>
+    <investigator>
+      <last_name>Paul R Solomon</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Donald S. Marks M.D., P.C.</name>
+      <address>
+        <city>Plymouth</city>
+        <state>Massachusetts</state>
+        <zip>02360</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>508-746-5060</phone>
+    </contact>
+    <investigator>
+      <last_name>Donald S. Marks</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>MedVadis Research Corporation</name>
+      <address>
+        <city>Waltham</city>
+        <state>Massachusetts</state>
+        <zip>02451</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>617-744-1310</phone>
+    </contact>
+    <investigator>
+      <last_name>David DiBenedetto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Adams Clinical</name>
+      <address>
+        <city>Watertown</city>
+        <state>Massachusetts</state>
+        <zip>02472</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>James Paul Sutton</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Cognitive and Research Center of New Jersey</name>
+      <address>
+        <city>Springfield</city>
+        <state>New Jersey</state>
+        <zip>07081</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>973-850-4622</phone>
+    </contact>
+    <investigator>
+      <last_name>Michelle Papka</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Memory Research Institute of New Jersey</name>
+      <address>
+        <city>Toms River</city>
+        <state>New Jersey</state>
+        <zip>08755</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>732-341-9500</phone>
+    </contact>
+    <investigator>
+      <last_name>Sanjiv Sharma</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University at Buffalo - UBMD Neurology</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>281-630-2316</phone>
+    </contact>
+    <investigator>
+      <last_name>Kinga Szigeti</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Langone Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Martin J Sadowski</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Cincinnati Health Neurology</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45417</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>937-535-5010</phone>
+    </contact>
+    <investigator>
+      <last_name>Lawrence Goldstick</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Abington Neurological Associates, Ltd.</name>
+      <address>
+        <city>Abington</city>
+        <state>Pennsylvania</state>
+        <zip>19001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>215-957-9250</phone>
+    </contact>
+    <investigator>
+      <last_name>David Weisman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Keystone Clinical Studies</name>
+      <address>
+        <city>Plymouth Meeting</city>
+        <state>Pennsylvania</state>
+        <zip>19462</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>610-277-8073</phone>
+    </contact>
+    <investigator>
+      <last_name>CHERIAN VERGHESE</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rhode Island Mood &amp; Memory Research Institute</name>
+      <address>
+        <city>East Providence</city>
+        <state>Rhode Island</state>
+        <zip>02914</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>401-435-8950</phone>
+    </contact>
+    <investigator>
+      <last_name>john stoukides</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kerwin Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>972-433-9100</phone>
+    </contact>
+    <investigator>
+      <last_name>Diana R Kerwin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Texas Health Science Center at Houston</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77054</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>7135913094</phone>
+    </contact>
+    <investigator>
+      <last_name>Paul Ernest Schulz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Memory Clinic</name>
+      <address>
+        <city>Bennington</city>
+        <state>Vermont</state>
+        <zip>05201-9810</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>8024471409</phone>
+    </contact>
+    <investigator>
+      <last_name>Diana Eliza Michalczuk</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Vincent's Hospital</name>
+      <address>
+        <city>Darlinghurst</city>
+        <state>New South Wales</state>
+        <zip>2010</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>02 8382 4100</phone>
+    </contact>
+    <investigator>
+      <last_name>Bruce James Brew</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>HammondCare</name>
+      <address>
+        <city>Sydney</city>
+        <state>New South Wales</state>
+        <zip>2065</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Mark Ian Hohenberg</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hornsby Ku-Ring-Gai Hospital</name>
+      <address>
+        <city>Sydney</city>
+        <state>New South Wales</state>
+        <zip>2077</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>61294856851</phone>
+    </contact>
+    <investigator>
+      <last_name>Susan Kurrle</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>KARA Institute for Neurological Diseases</name>
+      <address>
+        <city>Sydney</city>
+        <state>New South Wales</state>
+        <zip>2113</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Rosalyn Lai</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Central Coast Neurosciences Research (Tumbi Umbi)</name>
+      <address>
+        <city>Tumbi Umbi</city>
+        <state>New South Wales</state>
+        <zip>2261</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>0243940366</phone>
+    </contact>
+    <investigator>
+      <last_name>Jonathan Sturm</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Prince Charles Hospital</name>
+      <address>
+        <city>Brisbane</city>
+        <state>Queensland</state>
+        <zip>4032</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>61731395789</phone>
+    </contact>
+    <investigator>
+      <last_name>Gurudev Kewalram</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mater Misericordiae Limited</name>
+      <address>
+        <city>Brisbane</city>
+        <state>Queensland</state>
+        <zip>4101</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Peter Nestor</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Queen Elizabeth Hospital</name>
+      <address>
+        <city>Woodville</city>
+        <state>South Australia</state>
+        <zip>5011</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Cathy Short</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Box Hill Hospital Outpatients</name>
+      <address>
+        <city>Box Hill</city>
+        <state>Victoria</state>
+        <zip>3128</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Amy Brodtmann</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>HammondCare</name>
+      <address>
+        <city>Malvern</city>
+        <state>Victoria</state>
+        <zip>3144</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>61458387989</phone>
+    </contact>
+    <investigator>
+      <last_name>Stephen Robert Macfarlane</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Bruyère Research Institute</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1N 5C8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>6135626328</phone>
+    </contact>
+    <investigator>
+      <last_name>Andrew Robert Frank</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ottawa Memory Clinic</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1Z 1G3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>8195101000</phone>
+    </contact>
+    <investigator>
+      <last_name>Jean Bouthillier</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Toronto Memory Program</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M3B 2S7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>4163869761</phone>
+    </contact>
+    <investigator>
+      <last_name>Ian Cohen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique de la Mémoire de l'Outaouais</name>
+      <address>
+        <city>Gatineau</city>
+        <state>Quebec</state>
+        <zip>J8T 8J1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>819-510-1000</phone>
+    </contact>
+    <investigator>
+      <last_name>Richard Bergeron</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Diex Recherche Sherbrooke Inc.</name>
+      <address>
+        <city>Sherbrooke</city>
+        <state>Quebec</state>
+        <zip>J1L 0H8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>819-346-2887</phone>
+    </contact>
+    <investigator>
+      <last_name>Marylene Dussault</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kobe City Medical Center General Hospital</name>
+      <address>
+        <city>Kobe</city>
+        <state>Hyogo</state>
+        <zip>650-0047</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Kunitaka Matsuishi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Memory Clinic Toride</name>
+      <address>
+        <city>Toride</city>
+        <state>Ibaraki</state>
+        <zip>302-0004</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>81120023812</phone>
+    </contact>
+    <investigator>
+      <last_name>noeru shiraki</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nozomi Memory Clinic</name>
+      <address>
+        <city>Mitaka-shi</city>
+        <state>Tokyo</state>
+        <zip>181-0013</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>81120023812</phone>
+    </contact>
+    <investigator>
+      <last_name>Toru Kinoshita</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Memory Clinic Ochanomizu</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>113-0034</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>81120023812</phone>
+    </contact>
+    <investigator>
+      <last_name>Takashi Asada</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Oita University Hospital</name>
+      <address>
+        <city>Yufu</city>
+        <zip>879-5503</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>81120023812</phone>
+    </contact>
+    <investigator>
+      <last_name>Noriyuki Kimura</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wroclawskie Centrum Alzheimerowskie</name>
+      <address>
+        <city>Wroclaw</city>
+        <state>Dolnośląskie</state>
+        <zip>53-659</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>790666587</phone>
+    </contact>
+    <investigator>
+      <last_name>Marzena Zboch</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centrum Medyczne NEUROMED</name>
+      <address>
+        <city>Bydgoszcz</city>
+        <state>Kujawsko-pomorskie</state>
+        <zip>85-163</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>48698619497</phone>
+    </contact>
+    <investigator>
+      <last_name>Pawel Lisewski</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centrum Medyczne NeuroProtect</name>
+      <address>
+        <city>Warszawa</city>
+        <state>Mazowieckie</state>
+        <zip>01-684</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>48501762789</phone>
+    </contact>
+    <investigator>
+      <last_name>Maciej Czarnecki</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Diamond Clinic</name>
+      <address>
+        <city>Krakow</city>
+        <state>Małopolskie</state>
+        <zip>31-559</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>48506814385</phone>
+    </contact>
+    <investigator>
+      <last_name>Sylwia Bukowczan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centrum Badan Klinicznych PI-House sp. z o.o.</name>
+      <address>
+        <city>Gdansk</city>
+        <state>Pomorskie</state>
+        <zip>80-546</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>48587192222</phone>
+    </contact>
+    <investigator>
+      <last_name>Katarzyna Binkowska-Michalik</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centrum Medyczne SENIOR</name>
+      <address>
+        <city>Sopot</city>
+        <state>Pomorskie</state>
+        <zip>81-855</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>48 58 5523116</phone>
+    </contact>
+    <investigator>
+      <last_name>Dorota Ussorowska</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nzoz Neuro-Kard Ilkowski i Partnerzy SPL</name>
+      <address>
+        <city>Poznan</city>
+        <state>Wielkopolskie</state>
+        <zip>61-853</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>48609517676</phone>
+    </contact>
+    <investigator>
+      <last_name>Jan Ilkowski</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centrum Medyczne Euromedis</name>
+      <address>
+        <city>Szczecin</city>
+        <state>Zachodniopomorskie</state>
+        <zip>70-111</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>48605106462</phone>
+    </contact>
+    <investigator>
+      <last_name>Marcin Ratajczak</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Podlaskie Centrum Psychogeriatrii</name>
+      <address>
+        <city>Białystok</city>
+        <zip>15-756</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>48856610298</phone>
+    </contact>
+    <investigator>
+      <last_name>Jacek Dobryniewski</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>Japan</country>
+    <country>Poland</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Netherlands</country>
+  </removed_countries>
+  <link>
+    <url>https://trials.lillytrialguide.com/en-US/trial/6wDcj33niQMZDbeYm8iDfu</url>
+    <description>A Study of LY3372689 to Assess the Safety, Tolerability, and Efficacy in Participants With Alzheimer's Disease</description>
+  </link>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>September 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 1, 2021</study_first_posted>
+  <last_update_submitted>December 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Dementia</keyword>
+  <keyword>Mild Cognitive Impairment</keyword>
+  <keyword>Prodromal Alzheimer's Disease</keyword>
+  <keyword>Tauopathy</keyword>
+  <keyword>Tau</keyword>
+  <keyword>OGA Inhibitor</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Anonymized individual patient level data will be provided in a secure access environment upon approval of a research proposal and a signed data sharing agreement.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Data are available 6 months after the primary publication and approval of the indication studied in the US and European Union (EU), whichever is later. Data will be indefinitely available for requesting.</ipd_time_frame>
+    <ipd_access_criteria>A research proposal must be approved by an independent review panel and researchers must sign a data sharing agreement.</ipd_access_criteria>
+    <ipd_url>http://www.vivli.org/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

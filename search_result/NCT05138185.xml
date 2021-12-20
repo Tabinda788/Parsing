@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1765">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05138185</url>
+  </required_header>
+  <id_info>
+    <org_study_id>REFLEX_TechValidation</org_study_id>
+    <nct_id>NCT05138185</nct_id>
+  </id_info>
+  <brief_title>Proof-of-concept of a Robotic Knee Exoskeleton in Healthy Subjects and Hemiparetic Patients During Gait.</brief_title>
+  <official_title>Evaluation of the Effects of the Unilateral Assistance Provided by a Robotic Knee Exoskeleton in the Gait Symmetry of Healthy Subjects and Hemiparetic Patients.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Spanish National Research Council</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hospital Beata María Ana</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Spanish National Research Council</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Hemiparetic gait is characterized by strong asymmetries that could severely affect the&#xD;
+      quality of life of stroke survivors. This asymmetry is due to motor deficits in the paretic&#xD;
+      leg and the resulting compensations in the non-paretic limb.&#xD;
+&#xD;
+      In this study, the investigators aim to evaluate the effect of actively promoting gait&#xD;
+      symmetry in hemiparetic patients by assessing the behavior of both paretic and non-paretic&#xD;
+      lower limbs. To this end, the investigators use a unilateral active Knee-Ankle-Foot Orthosis&#xD;
+      able to assist the paretic limb of hemiparetic patients during gait.&#xD;
+&#xD;
+      The system is able to synchronize its action with the movement of the unassisted joints,&#xD;
+      promoting a natural and intuitive interaction. The device generate the assistance according&#xD;
+      to two differents strategies: (1) Replicating the movement of the helathy leg or (2) Inducing&#xD;
+      a healthy gait pattern on the paretic leg.&#xD;
+&#xD;
+      The hypothesis is that a proper and natural interaction between the user and the exoskeleton&#xD;
+      would enable the patients to consider the robot action as a part of their own gait&#xD;
+      capability, improving their gait quality as consequence. Hemiparetic asymmetry is not only&#xD;
+      due to impairments in the affected limb, but also it is the consequence of biomechanical&#xD;
+      compensatory mechanisms that might arose in the non-paretic leg. We aim to assess the&#xD;
+      adaptation process of the subject to the exoskeleton assistance, and to evaluate the effects&#xD;
+      of such human-robot interaction in both paretic and non-paretic legs.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      - Brief name: Proof-of-concept of a unilateral robotic knee exoskeleton and evaluation of its&#xD;
+      effects over gait symmetry.&#xD;
+&#xD;
+      - Materials: The investigators have developed a Knee-Ankle-Foot orthosis (KAFO) composed of&#xD;
+      two joints aligned to the knee and ankle of the user. The length of its bars and the&#xD;
+      positions of its braces can be tailored to the anthropometry of different users. The knee&#xD;
+      joint is actuated by a DC brushless motor EC-60 flat 408057 (Maxon ag, Switzerland) coupled&#xD;
+      with a harmonic drive CSD-20-160-2AGR (Harmonic Drive LLC, EE.UU.). The transmission ratio of&#xD;
+      1:60 of this system enables the application of a mean torque of 35Nm. The ankle joint of the&#xD;
+      prototype remains non-actuated and unlimited, enabling its free movement in the sagittal&#xD;
+      plane. The total weight of the KAFO is about 4kg.&#xD;
+&#xD;
+      The prototype is equipped with sensors that provide information on system variables that are&#xD;
+      used for its control in real-time, such as the flexion angle of the robot joint or the&#xD;
+      interaction torque between user and robot. In addition, the gait kinematic of the user is&#xD;
+      measured by Inertial Measurement Units (IMUs) and the contact of both feet with the floor by&#xD;
+      Force Sensing Resistors (FSRs).&#xD;
+&#xD;
+      The system uses an Adaptive Frequency Oscillator to estimate the continuous gait phase of the&#xD;
+      contralateral limb and synchronically assists the paretic leg following two different control&#xD;
+      strategies: (1) Replicating the movement of the sound leg (Echo Strategy) or (2) Inducing a&#xD;
+      healthy gait pattern on the paretic leg (Pattern strategy). The action of the robot depends&#xD;
+      on the gait phase of the assisted leg: during stance the robot reinforces the limb so the&#xD;
+      system composed of the leg and the exoskeleton can load the user's weight and not collapse,&#xD;
+      while during the swing phase the robot guides the limb's movement according to the&#xD;
+      Assisted-As-Needed (AAN) paradigm creating a force tunnel around the prescribed trajectory.&#xD;
+&#xD;
+      - Procedures: Subjects were instructed to walk on a treadmill at a constant speed during&#xD;
+      trials of 5 minutes. All subjects carried out four different kinds of trials: (1) NoExo:&#xD;
+      subjects only wore the inertial sensors and the insole pressure sensors to acquire their&#xD;
+      basal motion; (2) Free: subjects wore the exoskeleton although the actuator was mechanically&#xD;
+      decoupled, so it enabled the free movement of the knee; (3) Echo: the device provided gait&#xD;
+      assistance following the Echo-control strategy; and (4) Pattern: the device provided gait&#xD;
+      assistance following the Pattern strategy. During trials, patients wore a safety harness,&#xD;
+      although it did not support any weight. Previously to the execution of the trials, the gait&#xD;
+      velocity was self-selected by the subjects to a comfortable level. Subjects rested between&#xD;
+      trials for five minutes at least, in order to avoid adaptation and learning effects from&#xD;
+      trial to trial.&#xD;
+&#xD;
+      Healthy subjects also performed a previous trial under variable gait speed (VariableSpeed).&#xD;
+      They walked over the treadmill as in the NoExo condition, although the gait speed randomly&#xD;
+      varies from 1km/h to 3km/h in 0.2km/h steps for 15 seconds at least.&#xD;
+&#xD;
+      - Intervention providers A physiotherapist and an engineer are present during the trials. The&#xD;
+      first is responsible of assessing the basal gait of the subjects and evaluating his/her state&#xD;
+      while the assistance is provided. The engineer is responsible of managing the device and&#xD;
+      recording the data.&#xD;
+&#xD;
+      Both researchers monitor fidelity to the intervention by direct supervision.&#xD;
+&#xD;
+        -  Modes of delivery The protocol is provided to one participant at a time. Each patient&#xD;
+           completes the protocol once.&#xD;
+&#xD;
+        -  Location Hospital Beata María Ana (Madrid, Spain)&#xD;
+&#xD;
+        -  Tailoring and modifications The protocol remains unaltered across applications. The only&#xD;
+           adaptation to patients is the choice of the comfortable gait speed for the trials.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">February 15, 2021</start_date>
+  <completion_date type="Actual">April 20, 2021</completion_date>
+  <primary_completion_date type="Actual">April 20, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Device Feasibility</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility of the prototype device</measure>
+    <time_frame>During the last two minutes of the intervention</time_frame>
+    <description>The joints motion is measured by Inertial Sensors</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Symmetry of step length from thigh and shank kinematics</measure>
+    <time_frame>During the last two minutes of the intervention</time_frame>
+    <description>The joint motion is measured by Inertial Sensors</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Symmetry of step time</measure>
+    <time_frame>During the last two minutes of the intervention</time_frame>
+    <description>Data is collected from floor contact events detected by FSRs</description>
+  </secondary_outcome>
+  <enrollment type="Actual">3</enrollment>
+  <condition>Hemiparesis/Hemiplegia (One Sided Weakness/Paralysis)</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Exoskeleton assisted gait on a treadmill</intervention_name>
+    <description>Subjects were instructed to walk on a treadmill at a constant speed during trials of 5 minutes. All subjects carried out four trials: (1) NoExo: subjects only wore the sensors to acquire their basal motion; (2) Free: subjects wore the exoskeleton although the actuator was mechanically decoupled, so it enabled the free movement of the knee; (3) Echo: the device provided gait assistance following the Echo-control strategy; and (4) Pattern: the device provided gait assistance following the Pattern strategy. During trials, patients wore a safety harness that did not support any weight. Previously to the execution of the trials, the gait velocity was self-selected by the subjects to a comfortable level. Subjects rested between trials for five minutes. Healthy subjects also performed a previous trial under variable gait speed. They walked over the treadmill as in the NoExo condition, although the gait speed randomly varies from 1km/h to 3km/h in 0.2km/h steps for 15 seconds at least.</description>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria: Ischemic or hemorragic stroke that lead to hemiplegic gait or healthy&#xD;
+        subjects without gait impairements. Same number os subjects is recruited&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Acute musculoskeletal diseases&#xD;
+&#xD;
+          2. Peripheral vascular diseases&#xD;
+&#xD;
+          3. Acute cardiopulmonary diseases&#xD;
+&#xD;
+          4. Acute neurological diseases&#xD;
+&#xD;
+          5. Excessive spasticity in any joint of the lower limb (Ashworth scale&gt; 2)&#xD;
+&#xD;
+          6. Joint mobility restriction of lower limb joints due to any cause&#xD;
+&#xD;
+          7. Pain due to impaired mobility of the lower limb&#xD;
+&#xD;
+          8. Inability to use robotic exoskeleton prototypes due to his/her health condition.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Julio S. Lora-Millan</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Spanish National Research Council</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hospital Beata María Ana</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 30, 2021</study_first_posted>
+  <last_update_submitted>November 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Spanish National Research Council</investigator_affiliation>
+    <investigator_full_name>Julio S. Lora Millan</investigator_full_name>
+    <investigator_title>Responsible Engineer</investigator_title>
+  </responsible_party>
+  <keyword>Hemiparetic Gait</keyword>
+  <keyword>Robotic Knee Exoskeleton</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Paralysis</mesh_term>
+    <mesh_term>Hemiplegia</mesh_term>
+    <mesh_term>Paresis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The datasets generated and/or analyzed during the current study are available from the corresponding author on reasonable request.</ipd_description>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Immediately following publication, no end date</ipd_time_frame>
+    <ipd_access_criteria>Access will be subject to methodologically sound proposals and it will be approval by scientific investigator (julio.lora@csic.es)</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

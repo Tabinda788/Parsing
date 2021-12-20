@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9004">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05044039</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-x284</org_study_id>
+    <nct_id>NCT05044039</nct_id>
+  </id_info>
+  <brief_title>Duvelisib Following Chimeric Antigen Receptor T-Cell Therapy</brief_title>
+  <official_title>Phase I Dose Escalation and Dose Expansion Study of Duvelisib Following Chimeric Antigen Receptor T-Cell Therapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>SecuraBio</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      While chimeric antigen receptor T-cell (CAR T-cell) therapy produces impressive response&#xD;
+      rates in heavily pre-treated patients, early loss of response remains a barrier. One&#xD;
+      potential mechanism of relapse is limited CAR T-cell persistence. Pre-clinical research shows&#xD;
+      that PI3K inhibition represents an intriguing mechanism for increasing CAR T-cell persistence&#xD;
+      that is easily reversible and CAR T-cell agnostic. The investigators hypothesize that PI3K&#xD;
+      inhibition with duvelisib would be safe, may provide effective prophylaxis against cytokine&#xD;
+      release syndrome (CRS), and may enhance the persistence and efficacy of CAR T-cells in the&#xD;
+      treatment of hematologic malignancies.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 30, 2021</start_date>
+  <completion_date type="Anticipated">February 26, 2025</completion_date>
+  <primary_completion_date type="Anticipated">February 26, 2025</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Toxicity as measured by number of adverse events</measure>
+    <time_frame>Through Day 56 for dose expansion and Cohort A and Through Day 210 for Cohort B</time_frame>
+    <description>Toxicity is graded using NCI CTCAE v 5.0</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of cytokine release syndrome (CRS)</measure>
+    <time_frame>By Day 28</time_frame>
+    <description>-Any and grade 3-4 per ASTCT criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of immune effector cell-associated neurotoxicity syndrome (ICANS)</measure>
+    <time_frame>By Day 28</time_frame>
+    <description>-Any and grade 3-4 per ASCT criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who receive anti-IL-6 agents for treatment of cytokine release syndrome (CRS)</measure>
+    <time_frame>Through completion of follow-up (estimated to be 6 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who receive steroids for treatment of cytokine release syndrome (CRS)</measure>
+    <time_frame>Through completion of follow-up (estimated to be 6 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with complete response (CR)</measure>
+    <time_frame>Through completion of follow-up (estimated to be 6 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Best overall response rate</measure>
+    <time_frame>At 1 month</time_frame>
+    <description>-Defined as proportion of subjects with complete response (CR) or partial response (PR) by Lugano criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Best overall response rate</measure>
+    <time_frame>At 3 months</time_frame>
+    <description>-Defined as proportion of subjects with complete response (CR) or partial response (PR)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Best overall response rate</measure>
+    <time_frame>At 6 months</time_frame>
+    <description>-Defined as proportion of subjects with complete response (CR) or partial response (PR)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>Through completion of follow-up (estimated to be 6 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>Through completion of follow-up (estimated to be 6 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with partial response (PR) on Day 30 with improved response on Day 90</measure>
+    <time_frame>Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with partial response (PR) on Day 30 with improved response on Day 180</measure>
+    <time_frame>Day 180</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">43</enrollment>
+  <condition>Non-hodgkin Lymphoma</condition>
+  <condition>Acute Lymphocytic Leukemia</condition>
+  <arm_group>
+    <arm_group_label>Dose Escalation Stage: Duvelisib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Duvelisib is an oral medication taken on a twice daily basis on all dosing days. Doses being explored in this study are 15 mg BID (starting dose), 25 mg BID, 50 mg BID, and 15 mg QD. In the dose escalation stage, patients will receive duvelisib from Day -2 through Day 28.&#xD;
+CAR T-cells will be given per standard of care.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort A Dose Expansion Stage: Duvelisib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in Cohort A will receive duvelisib from Day -2 to Day 28. The dose that will be given will be determined in the dose escalation stage.&#xD;
+CAR T-cells will be given per standard of care.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort B Dose Expansion Stage: Duvelisib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in Cohort B will receive duvelisib from Day -2 to Day 180. The dose that will be given will be determined in the dose escalation stage.&#xD;
+CAR T-cells will be given per standard of care.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Duvelisib</intervention_name>
+    <description>Patients should take duvelisib at approximately the same time every day, with or without food.</description>
+    <arm_group_label>Cohort A Dose Expansion Stage: Duvelisib</arm_group_label>
+    <arm_group_label>Cohort B Dose Expansion Stage: Duvelisib</arm_group_label>
+    <arm_group_label>Dose Escalation Stage: Duvelisib</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Meets FDA-approved criteria for treatment with axicabtagene ciloleucel (Yescarta),&#xD;
+             tisagenlecleucel (Kymriah), lisocabtagene maraleucel (Breyanzi) or brexucabtagene&#xD;
+             autoleucel (Tecartus).&#xD;
+&#xD;
+          -  At least 18 years of age.&#xD;
+&#xD;
+          -  The effects of duvelisib on the developing human fetus are unknown. For this reason,&#xD;
+             women of childbearing potential and men must agree to use adequate contraception&#xD;
+             (hormonal or barrier method of birth control, abstinence) prior to study entry, for&#xD;
+             the duration of study participation, and for at least 3 months after the last dose of&#xD;
+             duvelisib, as well as conform to institutional CAR T-cell guidelines. Should a woman&#xD;
+             become pregnant or suspect she is pregnant while participating in this study, she must&#xD;
+             inform her treating physician immediately. Men treated or enrolled on this protocol&#xD;
+             must also agree to use adequate contraception prior to the study, for the duration of&#xD;
+             the study, and for at least 3 months after the last dose of duvelisib.&#xD;
+&#xD;
+          -  Ability to understand and willingness to sign an IRB approved written informed consent&#xD;
+             document (or that of legally authorized representative, if applicable).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Known allergy or intolerance to duvelisib or another PI3K inhibitor.&#xD;
+&#xD;
+          -  Receiving therapy with a strong CYP3A inducer or inhibitor that cannot be discontinued&#xD;
+             during duvelisib therapy&#xD;
+&#xD;
+          -  Active CNS involvement by hematologic malignancy under treatment&#xD;
+&#xD;
+          -  Evidence of uncontrolled infection of any origin (viral, bacterial, or fungal)&#xD;
+&#xD;
+          -  Active bacterial, fungal or mycobacterial infection tuberculosis requiring treatment&#xD;
+             within the two years prior to study enrollment&#xD;
+&#xD;
+          -  Known HIV infection, untreated hepatitis C or hepatitis B infection. Untreated&#xD;
+             hepatitis B is not an exclusion if hepatitis B is undetectable.&#xD;
+&#xD;
+          -  Acute or chronic GVHD requiring systemic therapy&#xD;
+&#xD;
+          -  Concurrent use of chronic systemic steroids or immunosuppressant medications&#xD;
+&#xD;
+          -  Known history of immunologic/autoimmune disease affecting the CNS unrelated to&#xD;
+             diagnosis of hematologic malignancy under treatment&#xD;
+&#xD;
+          -  Clinically significant venous thromboembolic disease, defined deep vein thrombosis or&#xD;
+             pulmonary embolism occurring in the last 3 months or requiring ongoing anticoagulation&#xD;
+             at time of study screening&#xD;
+&#xD;
+          -  Clinically significant pulmonary disease, defined as grade 2 or greater dyspnea or&#xD;
+             grade 2 or greater hypoxia&#xD;
+&#xD;
+          -  Clinically significant cardiac disease, defined as unstable angina, acute myocardial&#xD;
+             infarction in the last 6 months, and NYHA class II or IV heart failure. Subjects with&#xD;
+             unstable arrhythmias that are not stable with medical management in 2 weeks prior to&#xD;
+             day -2 are also excluded.&#xD;
+&#xD;
+          -  Clinically significant hepatic disease, defined as ALT, AST or alkaline phosphatase ≥&#xD;
+             3x ULN or total bilirubin &gt; 1.5x ULN (unless related to Gilbert's or Meulengracht's&#xD;
+             syndrome). Subjects with a history of chronic liver disease, previous veno-occlusive&#xD;
+             disease, active alcohol abuse or history of alcohol abuse within the past 6 months are&#xD;
+             also excluded.&#xD;
+&#xD;
+          -  Clinically significant renal disease, defined as calculated or measured creatinine&#xD;
+             clearance &lt; 50 mL/min&#xD;
+&#xD;
+          -  Currently breastfeeding or pregnant. Women of childbearing potential must have a&#xD;
+             negative pregnancy test within 7 days of study entry.&#xD;
+&#xD;
+          -  Inability to swallow and retain oral medication or prior surgery or GI dysfunction&#xD;
+             that may affect drug absorption (i.e. gastric bypass surgery, gastrectomy)&#xD;
+&#xD;
+          -  Receipt of a prior investigational agent within 4 weeks before Day -3 or currently&#xD;
+             receiving any other investigational agents.&#xD;
+&#xD;
+          -  Unable to receive prophylactic treatment for pneumocystis, HSV or VZV at screening&#xD;
+&#xD;
+          -  Any condition that would, in the investigator's judgment, interfere with full&#xD;
+             participation in the study, including administration of medication, attendance of&#xD;
+             study visits, elevated risk of complications or interference with interpretation of&#xD;
+             the study data&#xD;
+&#xD;
+          -  A history of other malignancy with the exception of malignancies for which all&#xD;
+             treatment was completed at least 2 years before registration and the patient has no&#xD;
+             evidence of disease. Non-metastatic, non-melanoma skin cancers are not considered&#xD;
+             exclusionary.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Armin Ghobadi, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Armin Ghobadi, M.D.</last_name>
+    <phone>314-454-8304</phone>
+    <email>arminghobadi@wustl.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Armin Ghobadi, M.D.</last_name>
+      <phone>314-454-8304</phone>
+      <email>arminghobadi@wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Armin Ghobadi, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>John F Dipersio, M.D., Ph.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Michael Slade, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Feng Gao, Ph.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.siteman.wustl.edu</url>
+    <description>Alvin J. Siteman Cancer Center at Barnes-Jewish Hospital and Washington University School of Medicine</description>
+  </link>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 14, 2021</study_first_posted>
+  <last_update_submitted>September 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Precursor Cell Lymphoblastic Leukemia-Lymphoma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

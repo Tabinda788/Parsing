@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2561">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05127824</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY21050196</org_study_id>
+    <nct_id>NCT05127824</nct_id>
+  </id_info>
+  <brief_title>Autologous Dendritic Cell Vaccine in Kidney Cancer</brief_title>
+  <official_title>A Phase 2a Study to Type I-Polarized Autologous Dendritic Cell Vaccines Incorporating Tumor Blood Vessel Antigen (TBVA)-Derived Peptides in Combination With Cabozantinib in Patients With Localized Clear Cell Renal Cancer.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Jodi Maranchie</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Pittsburgh</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to estimate the probability of immune response for the&#xD;
+      combination treatment of dendritic cell vaccine with oral cabozantinib and characterize the&#xD;
+      safety profile of interventional therapy.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Participants with newly diagnosed, non-metastatic, histologically confirmed, clear cell renal&#xD;
+      cell carcinoma (ccRCC) who have elected to undergo surgical resection, will receive&#xD;
+      neoadjuvant autologous Tumor Blood Vessel Antigen (TBVA)-Dendritic Cell Vaccine intradermally&#xD;
+      every 2 weeks x 2 (days 7(+/-3) and 21(+/-3)) prior to surgery on day 31(+7) with oral&#xD;
+      cabozantinib 20 mg daily for 10 days. We hypothesize that treated renal tumors will&#xD;
+      demonstrate maturation and organization of the tumor endothelium with normalization of&#xD;
+      endothelial markers and formation of tertiary lymphoid structure capable of promoting&#xD;
+      specific T-cell induction.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2022</start_date>
+  <completion_date type="Anticipated">December 2026</completion_date>
+  <primary_completion_date type="Anticipated">December 2026</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To estimate the probability of immune response for the combination treatment of an autologous DC1/peptide vaccine targeting tumor-associated blood vessel antigens with concomitant oral cabozantinib.</measure>
+    <time_frame>48 months</time_frame>
+    <description>Improved peripheral blood CD8+ T cell responses against 3 or more vaccine-inclusive peptide epitopes (DLK1, EphA2, HBB, NRP1, RGS5, TEM1) after active vaccination with Type I-polarized autologous dendritic cell (alpha-DC1) vaccine.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Characterize the safety profile of interventional therapy.</measure>
+    <time_frame>48 months</time_frame>
+    <description>Patient reported symptoms and rate of adverse events and Dose Limiting Toxicities (DLT),</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To assess the effect of treatment on markers of vascular normalization in pre-treatment biopsies and treated tumors.</measure>
+    <time_frame>48 months</time_frame>
+    <description>Change in presence of mature CD31+ (HES1+) blood vessels with tightly approximated abluminal SMA+ pericytes and the lack of immature CD31+ blood vessels with loosely-approximated NG2+ pericytes before and after treatment.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>To assess the impact of treatment on formation of tertiary lymphoid structures in pre-treatment biopsies and treated tumors.</measure>
+    <time_frame>48 months</time_frame>
+    <description>Number of TLS before and after treatment, identified by landmark expression of MECA-79/PNAd+ high endothelial venules with proximal aggregates of DC-LAMP+ DC and CD3+ T cells and quantified using a Euclidean Displacement imaging algorithm.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>To assess peripheral blood CD8+ T cells longitudinally for reactivity against alternate peptide epitopes of DLK1, EphA2, HBB, NRP1, RGS5, TEM1 or against non-vaccine-related RCC-associated antigens</measure>
+    <time_frame>48 months</time_frame>
+    <description>Proportion of cells with specific CD8+ T cell reactivity against peptides derived from other TBVA or RCC-associated antigens that were not included in the vaccine (as an index of epitope spreading in the patient's T cell repertoire).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>To assess immune cell composition and &quot;fitness&quot; within vs. outside of tumor-associated TLS</measure>
+    <time_frame>48 months</time_frame>
+    <description>Change in number and classification of T cell repertoire before and after treatment, longitudinally, and within TLS vs. outside TLS of the same sample by flow cytometry/TCRBseq.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>To assess TCRA/B repertoire evenness (oligoclonality), convergence (antigenic focus) and compartmentalization (tumor vs. blood) in patients at baseline vs. on treatment</measure>
+    <time_frame>48 months</time_frame>
+    <description>Changes in TCRseq adaptome analysis of CD8+ MACS T cells from tumor/PBMC after treatment.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>To correlate changes in microbubble-enhanced ultrasonography or CT tumor enhancement characteristics before and after therapy with VN and TLS formation</measure>
+    <time_frame>48 months</time_frame>
+    <description>Correlate changes in multi-phase enhanced computed tomography before and after study treatment, including structure and integrity (leak) with cellular measures of vascular normalization. Correlate changes in microbubble-enhanced renal ultrasonography before and after study treatment, including vascular morphology and heterogeneity, with cellular measures of VN.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>To transcriptionally profile LCM-isolated TLS versus non-TLS associated cells.</measure>
+    <time_frame>48 months</time_frame>
+    <description>Alterations in transcriptional profiling of tumor-associated TLS and the TME after treatment. IFM reduction in co-expression of &quot;exhaustion&quot; markers including immune checkpoint molecules (PD1, CTLA4, LAG3, TIM3, TIGIT, BTLA, VISTA) and (pro-apoptotic) Annexin-V, and increase in expression of IFN-gamma and granzyme B in TLS vs. non-TLS-associated tumor tissue.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>To measure the impact of patient sex on T-cell specific reactivity, VN and TLS formation.</measure>
+    <time_frame>48 months</time_frame>
+    <description>Expression of androgen and estrogen receptors (AR, ER-alpha, ER-beta) in the TME before and after study treatment.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>To assess further indicators of VN.</measure>
+    <time_frame>48 months</time_frame>
+    <description>Presence and percentage of Immature CD31+ blood vessels with loosely approximated NG2+ pericytes before and after treatment.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">42</enrollment>
+  <condition>Carcinoma, Renal Cell</condition>
+  <arm_group>
+    <arm_group_label>HLA-A2 postive</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The study will include 21 participants over the 18 years of age with newly diagnosed, clinically localized clear cell renal cell carcinoma, planned for surgical resection with curative intent. Participants receiving vaccine much be HLA-A2 positive.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>HLA-A2 negative</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Up to 21 additional participants who screen as HLA-A2 negative will be enrolled as non-treatment controls. These participants will not be required to undergo blood collection or study procedures</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Autologous alpha-DC1/TBVA vaccine</intervention_name>
+    <description>Dendritic cells (DC) are derived from autologous (the subject's own) mononuclear cells in the peripheral blood obtained from the PRBC. In this case, &quot;biologic product&quot; and &quot;biologic substance&quot; are the same. The vaccine will be manufactured in the HCC-IMPCL, under cGMP conditions.</description>
+    <arm_group_label>HLA-A2 postive</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cabozantinib</intervention_name>
+    <description>Cabozantinib tablets are supplied as film coated tablets containing cabozantinib malate equivalent to 20 mg and 60 mg of cabozantinib and contain microcrystalline cellulose, lactose anhydrous, hydoxypropyl cellulose, croscarmellose sodium, colloidal silicon dioxide, magnesium stearate and Opadry® yellow. The 60 mg tablets are oval and the 20 mg tablets are round. Doses of 40 mg will comprise two 20-mg tablets.</description>
+    <arm_group_label>HLA-A2 postive</arm_group_label>
+    <other_name>Cometriq, Cabometyx</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Histologically proven clear cell renal cancer that is non-metastatic and amenable to&#xD;
+             surgical resection with no evidence of metastatic disease or lesions outside of the&#xD;
+             kidney.&#xD;
+&#xD;
+          2. 18 years or older (male or female) with an ECOG performance status of 0 or 1.&#xD;
+&#xD;
+          3. Have serotype HLA-A2+ if receiving vaccine.&#xD;
+&#xD;
+          4. Capable of understanding and complying with the protocol requirements and have signed&#xD;
+             the informed consent document.&#xD;
+&#xD;
+          5. Adequate organ and marrow function, based upon meeting all of the following laboratory&#xD;
+             criteria within 14 days before first dose of study treatment:&#xD;
+&#xD;
+               1. Absolute neutrophil count (ANC) ≥ 1500/µL without granulocyte colony- stimulating&#xD;
+                  factor support.&#xD;
+&#xD;
+               2. White blood cell count ≥ 2500/µL.&#xD;
+&#xD;
+               3. Platelets ≥ 100,000/µL without transfusion.&#xD;
+&#xD;
+               4. Hemoglobin ≥ 9 g/dL (≥ 90 g/L).&#xD;
+&#xD;
+               5. Alanine aminotransferase (ALT), aspartate aminotransferase (AST), and alkaline&#xD;
+                  phosphatase (ALP) ≤ 3x upper limit of normal (ULN). ALP ≤ 5x ULN with documented&#xD;
+                  bone metastases.&#xD;
+&#xD;
+               6. Total bilirubin ≤ 1.5x ULN (for subjects with Gilbert's disease ≤ 3x ULN).&#xD;
+&#xD;
+               7. Serum albumin ≥ 2.8 g/dl&#xD;
+&#xD;
+               8. (PT)/INR or partial thromboplastin time (PTT) test &lt; 1.3x the laboratory ULN&#xD;
+&#xD;
+               9. Serum creatinine ≤ 2.0 ULN or calculated creatinine clearance ≥ 30 mL/min (≥ 0.5&#xD;
+                  mL/sec) using the Cockcroft-Gault equation: Males: (140 - age) x weight&#xD;
+                  (kg)/(serum creatinine [mg/dL] × 72) Females: [(140 - age) x weight (kg)/(serum&#xD;
+                  creatinine [mg/dL] × 72)] × 0.85&#xD;
+&#xD;
+              10. Urine protein/creatinine ratio (UPCR) ≤ 1 mg/mg (≤ 113.2 mg/mmol), or 24-h urine&#xD;
+                  protein ≤ 1&#xD;
+&#xD;
+          6. Sexually active fertile subjects and their partners must agree to use medically&#xD;
+             accepted methods of contraception (e.g., barrier methods, including male condom,&#xD;
+             female condom, or diaphragm with spermicidal gel) during the course of the study and&#xD;
+             for 4 months after the last dose of study treatment.&#xD;
+&#xD;
+          7. Female subjects of childbearing potential must not be pregnant at screening. Female&#xD;
+             subjects are considered to be of childbearing potential unless one of the following&#xD;
+             criteria are met: documented permanent sterilization (hysterectomy, bilateral&#xD;
+             salpingectomy, or bilateral oophorectomy) or documented postmenopausal status (defined&#xD;
+             as 12 months of amenorrhea in a woman &gt; 45 years-of-age in the absence of other&#xD;
+             biological or physiological causes. In addition, females &lt; 55 years-of-age must have a&#xD;
+             serum follicle stimulating (FSH) level &gt; 40 mIU/mL to confirm menopause). Note:&#xD;
+             Documentation may include review of medical records, medical examinations, or medical&#xD;
+             history interview by study site.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Current (within the preceding 6 weeks) treatment with systemic immunosuppressive&#xD;
+             agents including steroids except when they are administered as replacement therapy for&#xD;
+             endocrine dysfunction and do not exceed 10 mg prednisone or equivalent daily.&#xD;
+&#xD;
+          2. Known or suspected metastatic disease.&#xD;
+&#xD;
+          3. Active Hepatitis B or Hepatitis C infection or any other active infection requiring&#xD;
+             intravenous therapy.&#xD;
+&#xD;
+          4. Blood transfusion within two weeks prior to leukapheresis.&#xD;
+&#xD;
+          5. Prior treatment with cabozantinib.&#xD;
+&#xD;
+          6. Receipt of any type of small molecule kinase inhibitor (including investigational&#xD;
+             kinase inhibitor) within two weeks before first dose of study treatment.&#xD;
+&#xD;
+          7. Receipt of any type of cytotoxic, biologic or other systemic anticancer therapy&#xD;
+             (including investigational) within four weeks before first dose of study treatment.&#xD;
+&#xD;
+          8. Radiation therapy for bone metastasis within 2 weeks or any other radiation therapy&#xD;
+             within 4 weeks before first dose of study treatment. Systemic treatment with&#xD;
+             radionuclides within 6 weeks before first dose of study treatment. Subjects with&#xD;
+             clinically relevant ongoing complications from prior radiation therapy are not&#xD;
+             eligible.&#xD;
+&#xD;
+          9. Concomitant anticoagulation with coumarin agents (e.g., warfarin), direct thrombin&#xD;
+             inhibitors (e.g., dabigatran), direct factor Xa inhibitor betrixaban, or platelet&#xD;
+             inhibitors (e.g., clopidogrel). Allowed anticoagulants are the following:&#xD;
+&#xD;
+               1. Prophylactic use of low-dose aspirin for cardio-protection (per local applicable&#xD;
+                  guidelines) and low-dose low molecular weight heparins (LMWH).&#xD;
+&#xD;
+               2. Therapeutic doses of LMWH or anticoagulation with direct factor Xa inhibitors&#xD;
+                  rivaroxaban, edoxaban, or apixaban in subjects without known brain metastases who&#xD;
+                  are on a stable dose of the anticoagulant for at least 1 week before first dose&#xD;
+                  of study treatment without clinically significant hemorrhagic complications from&#xD;
+                  the anticoagulation regimen or the tumor.&#xD;
+&#xD;
+         10. Prothrombin time (PT/INR) or partial thromboplastin time (PTT) test ≥ 1.3 X the&#xD;
+             laboratory ULN within 7 days before the first dose of study treatment.&#xD;
+&#xD;
+         11. The subject has uncontrolled, significant intercurrent or recent illness including,&#xD;
+             but not limited to, the following conditions:&#xD;
+&#xD;
+             a. Cardiovascular disorders: i. Congestive heart failure New York Heart Association&#xD;
+             Class 3 or 4, unstable angina pectoris, serious cardiac arrhythmias.&#xD;
+&#xD;
+             ii. Uncontrolled hypertension defined as sustained blood pressure (BP) &gt; 140 mm Hg&#xD;
+             systolic or &gt; 90 mm Hg diastolic despite optimal antihypertensive treatment.&#xD;
+&#xD;
+             iii. Stroke (including transient ischemic attack [TIA]), myocardial infarction (MI),&#xD;
+             or other ischemic event, or thromboembolic event (e.g., deep venous thrombosis,&#xD;
+             pulmonary embolism) within 6 months before first dose of study treatment.&#xD;
+&#xD;
+               1. Subjects with a diagnosis of incidental, subsegmental PE or DVT within 6 months&#xD;
+                  are allowed if stable, asymptomatic, and treated with a stable dose of permitted&#xD;
+                  anticoagulation (see exclusion criterion #6) for at least 1 week before first&#xD;
+                  dose of study treatment.&#xD;
+&#xD;
+               2. Gastrointestinal disorders:&#xD;
+&#xD;
+             i. The subject has evidence of tumor invading the GI tract, active peptic ulcer&#xD;
+             disease, inflammatory bowel disease (e.g., Crohn's disease), diverticulitis,&#xD;
+             cholecystitis, symptomatic cholangitis or appendicitis, acute pancreatitis, acute&#xD;
+             obstruction of the pancreatic duct or common bile duct, or gastric outlet obstruction.&#xD;
+&#xD;
+             ii. Abdominal fistula, GI perforation, bowel obstruction, or intra-abdominal abscess&#xD;
+             within 6 months before first dose of study treatment.&#xD;
+&#xD;
+             iii. Note: Complete healing of an intra-abdominal abscess must be confirmed before&#xD;
+             first dose of study treatment.&#xD;
+&#xD;
+         12. Clinically significant hematuria, hematemesis, or hemoptysis of &gt; 0.5 teaspoon (2.5&#xD;
+             ml) of red blood, or other history of significant bleeding (e.g., pulmonary&#xD;
+             hemorrhage) within 12 weeks before first dose of study treatment.&#xD;
+&#xD;
+         13. Cavitating pulmonary lesion(s) or known endotracheal or endobronchial disease&#xD;
+             manifestation.&#xD;
+&#xD;
+         14. Lesions invading or encasing any major blood vessels.&#xD;
+&#xD;
+         15. Other clinically significant disorders that would preclude safe study participation.&#xD;
+&#xD;
+               1. Serious non-healing wound/ulcer/bone fracture.&#xD;
+&#xD;
+               2. Uncompensated/symptomatic hypothyroidism.&#xD;
+&#xD;
+               3. Moderate to severe hepatic impairment (Child-Pugh B or C).&#xD;
+&#xD;
+         16. Major surgery (e.g., laparoscopic nephrectomy, GI surgery, removal or biopsy of brain&#xD;
+             metastasis) within 2 weeks before first dose of study treatment. Minor surgeries&#xD;
+             within 10 days before first dose of study treatment. Subjects must have complete wound&#xD;
+             healing from major surgery or minor surgery before first dose of study treatment.&#xD;
+             Subjects with clinically relevant ongoing complications from prior surgery are not&#xD;
+             eligible.&#xD;
+&#xD;
+         17. Corrected QT interval calculated by the Fridericia formula (QTcF) &gt; 500 ms per&#xD;
+             electrocardiogram (ECG) within 14 days before first dose of study treatment [add&#xD;
+             reference for Fridericia formula].&#xD;
+&#xD;
+             Note: If a single ECG shows a QTcF with an absolute value &gt; 500 ms, two additional&#xD;
+             ECGs at intervals of approximately 3 min must be performed within 30 min after the&#xD;
+             initial ECG, and the average of these three consecutive results for QTcF will be used&#xD;
+             to determine eligibility.&#xD;
+&#xD;
+         18. Pregnant or lactating females.&#xD;
+&#xD;
+         19. Inability to swallow tablets.&#xD;
+&#xD;
+         20. Previously identified allergy or hypersensitivity to components of the study treatment&#xD;
+             formulations.&#xD;
+&#xD;
+         21. Any other active malignancy at time of first dose of study treatment or diagnosis of&#xD;
+             another malignancy within 3 years prior to first dose of study treatment that requires&#xD;
+             active treatment, except for locally curable cancers that have been apparently cured,&#xD;
+             such as basal or squamous cell skin cancer, superficial bladder cancer, or carcinoma&#xD;
+             in situ of the prostate, cervix, or breast.&#xD;
+&#xD;
+         22. Any other conditions considered as unacceptable risk by the treating physician.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jodi Maranchie, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UPMC Department of Urology</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Walter Storkus, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>University of Pittsburgh</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Joseph Craig, BSN</last_name>
+    <phone>412-623-2764</phone>
+    <email>craigj@upmc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jodi Maranchie, MD</last_name>
+    <phone>412-605-3019</phone>
+    <email>maranchijk@upmc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>UPMC Department of Urology</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Tannir NM, Pal SK, Atkins MB. Second-Line Treatment Landscape for Renal Cell Carcinoma: A Comprehensive Review. Oncologist. 2018 May;23(5):540-555. doi: 10.1634/theoncologist.2017-0534. Epub 2018 Feb 27. Review.</citation>
+    <PMID>29487224</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 19, 2021</study_first_posted>
+  <last_update_submitted>November 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pittsburgh</investigator_affiliation>
+    <investigator_full_name>Jodi Maranchie</investigator_full_name>
+    <investigator_title>Associate Professor Urology &amp; Urologic Oncology</investigator_title>
+  </responsible_party>
+  <keyword>Clear Cell Renal Cell Carcinoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma, Renal Cell</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

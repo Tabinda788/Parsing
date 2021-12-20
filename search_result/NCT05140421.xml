@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1593">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05140421</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00000707</org_study_id>
+    <secondary_id>R01MH125735</secondary_id>
+    <nct_id>NCT05140421</nct_id>
+  </id_info>
+  <brief_title>Testing a Novel Data-to-Suppression (D2S) Intervention Strategy in the Ryan White HIV/AIDS Program</brief_title>
+  <acronym>D2S</acronym>
+  <official_title>Strengthening the Safety Net: Testing a Novel Data-to-Suppression (D2S) Intervention Strategy in the Ryan White HIV/AIDS Program</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>City University of New York</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>New York City Department of Health and Mental Hygiene</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>City University of New York</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Ryan White HIV/AIDS Program (RWHAP) for low-income people with HIV (PWH) is a key&#xD;
+      resource for reducing HIV health disparities and scaling up evidence-based interventions. As&#xD;
+      RWHAP serves &gt;50% of US PWH, RWHAP outcomes are vital to achieving &quot;getting-to-zero&quot;/ Ending&#xD;
+      the HIV Epidemic (EHE) Plan targets.&#xD;
+&#xD;
+      As a grantee for RWHAP Part A (RWPA) funding distributed to the counties/cities severely&#xD;
+      affected by HIV, New York City (NYC) conducts regular HIV care continuum monitoring citywide&#xD;
+      and in its RWPA programs, which offer support services to reduce social and behavioral&#xD;
+      barriers to care/treatment. Local data consistently show lower viral suppression (VS) among&#xD;
+      RWPA clients in HIV care than among non-RWPA PWH in HIV care. Relative to NYC HIV cases&#xD;
+      overall, NYC RWPA clients (~14,000 per year) over-represent Black and Latinx PWH and&#xD;
+      high-poverty neighborhoods. To address local outcome disparities and to fill gaps left by&#xD;
+      data-to-care strategies and research focused on medical care (re-)linkage, we propose to&#xD;
+      implement and rigorously evaluate the effectiveness of a novel 'data-to-suppression' (D2S)&#xD;
+      intervention among ~1,300 RWPA clients in HIV care but unsuppressed. Surveillance-based&#xD;
+      reports on unsuppressed clients plus D2S capacity-building assistance will guide RWPA&#xD;
+      providers in targeting and delivering evidence-informed strategies to improve VS.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      We will implement and evaluate the Data-to-Suppression (D2S) intervention in Aim 1, which&#xD;
+      applies a cluster-randomized, stepped-wedge design. Agencies eligible for the trial will be&#xD;
+      matched in pairs and then randomized within pairs to early (Period 1) or delayed (Period 2)&#xD;
+      D2S intervention implementation. Our design will also use baseline data from a 12-month&#xD;
+      pre-implementation period (Period 0), for which D2S reports will be retrospectively&#xD;
+      generated. Each period will include two rounds of report releases (six months apart), each&#xD;
+      with a 12-month look-back period. Period 2 will begin 12 months after the start of Period 1.&#xD;
+      In both arms, clients without viral suppression (VS) will be followed forward for viral load&#xD;
+      (VL) outcomes after report issue date. Outcomes data will be derived from the NYC HIV&#xD;
+      Surveillance Registry, a population-based data source of longitudinal laboratory (VL, CD4)&#xD;
+      testing records on all diagnosed NYC PWH, regardless of medical provider within NYC, and for&#xD;
+      periods extending before and after RWPA program enrollment or discontinuation.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2021</start_date>
+  <completion_date type="Anticipated">April 30, 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Stepped-wedge design: To isolate the effects of D2S on viral suppression, we will randomize (within matched pairs and one trio) 27 RWPA-funded behavioral health and housing services provider agencies to immediate or delayed implementation of D2S (12 months apart).</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Timely viral suppression</measure>
+    <time_frame>6 months</time_frame>
+    <description>Registry-reported VL &lt;200 copies/mL on any VL test dated in the six months after the client first appeared as unsuppressed on a D2S report for the period</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to viral suppression</measure>
+    <time_frame>12 months</time_frame>
+    <description>Time to first VL &lt;200 copies/mL after client's first appearance on a D2S report for the period</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1280</enrollment>
+  <condition>Hiv</condition>
+  <arm_group>
+    <arm_group_label>Early Implementation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This arm will receive D2S intervention components during Period 1 (Early Implementation) as well as throughout Period 2 of the stepped-wedge trial.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Delayed Implementation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>This arm will receive no D2S intervention components during Period 1 (Early Implementation), but will then receive all D2S intervention components in Period 2, starting 12 months later.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Data to Suppression (D2S)</intervention_name>
+    <description>Intervention components include (1) reporting and (2) capacity building to facilitate identification of and follow-up with PWH who are in care but virally unsuppressed. The NYC Health Department will send client-level, surveillance-based reports on individual clients' viral suppression status to those clients' current Ryan White Part A behavioral health and housing service providers. The Health Department will also provide capacity building and TA support to service providers on following up with clients flagged as unsuppressed, and on addressing barriers to viral suppression through root cause analyses and the development and implementation of D2S quality improvement projects. The intervention components are all delivered to Ryan White Part A providers by the Health Department, in order to enhance program resources to achieve and maintain viral suppression in the Ryan White Part A client population in NYC.</description>
+    <arm_group_label>Delayed Implementation</arm_group_label>
+    <arm_group_label>Early Implementation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  For each stepped-wedge implementation period (Period 0, 1, or 2), clients eligible for&#xD;
+             trial inclusion must have: (1) ≥1 viral load (VL) test in the report year (evidence&#xD;
+             that they are in HIV care in NYC); (2) unsuppressed VL (≥200 copies/mL) at last&#xD;
+             reported VL test during that year; and (3) a reported service in one of the eligible&#xD;
+             programs/agencies during the report year. In addition, they must still have an open&#xD;
+             RWPA enrollment in one of the eligible programs and agencies and be presumed living at&#xD;
+             the time of report generation (two months following the end of the report year on&#xD;
+             which data are being shared with providers).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Agencies without current NYC RWPA funding for housing assistance or behavioral health&#xD;
+             (mental health, supportive counseling or harm reduction) services are excluded.&#xD;
+             Agencies with &lt;5 clients meeting the above inclusion criteria over three recent&#xD;
+             pre-implementation sample periods of data are also excluded (due to insufficient&#xD;
+             numbers of unsuppressed clients). Clients enrolled in NYC RWPA behavioral health or&#xD;
+             housing programs are excluded from the trial if they are virally suppressed, deceased,&#xD;
+             or lacking any evidence of NYC HIV care for a full year at the time a D2S report is&#xD;
+             issued. Given the potential lag in reporting to surveillance and the need to use the&#xD;
+             freshest available surveillance data for D2S reports, some clients may later be found&#xD;
+             to have died or to have a VL&lt;200 dated after their qualifying VL≥200 but prior to D2S&#xD;
+             report generation; such clients will be excluded post hoc from that round of follow-up&#xD;
+             due to VS at the time of intervention. Similarly, clients later reported (in&#xD;
+             programmatic data) to have been closed out of all eligible programs before the report&#xD;
+             issue date will be excluded post hoc.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Denis Nash, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CUNY School of Public Health and Health Policy</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mary K Irvine, DrPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>New York City Department of Health and Mental Hygiene</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mary K Irvine, DrPH</last_name>
+    <phone>347-396-7712</phone>
+    <email>mirvine@health.nyc.gov</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Denis Nash, PhD</last_name>
+    <phone>646-364-9618</phone>
+    <email>denis.nash@cuny.sph.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Alliance for Positive Change</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Beth Israel</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Exponents, Inc.</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GMHC</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10018</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>African Services Committee, Inc.</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harlem United</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York Presbyterian Hospital</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bailey House, Inc.</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10035</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York Harm Reduction Educators, Inc.</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10035</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Institute for Family Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10035</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NYC Health and Hospitals Harlem</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Project Hospitality, Inc.</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10302</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Boom!Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10451</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>BronxWorks, Inc.</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10453</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Ann's Corner of Harm Reduction</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10459</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tolentine Zeiser Community Life Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10463</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Housing Works</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>11201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Foundation of State University of New York</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>11203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>La Nueva Esperanza, Inc.</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>11206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NYC Health and Hospitals Woodhull</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>11206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Interfaith Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>11213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bridging Access to Care, Inc.</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>11216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>After Hours Project</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>11221</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Planned Parenthood of Greater New York</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>11225</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CAMBA, Inc.</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>11226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AIDS Center of Queens County, Inc.</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>11432</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NYC Health and Hospitals Queens</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>11432</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 1, 2021</study_first_posted>
+  <last_update_submitted>November 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>New York City Department of Health and Mental Hygiene</investigator_affiliation>
+    <investigator_full_name>Mary Irvine</investigator_full_name>
+    <investigator_title>Director of HIV Care and Treatment Research and Evaluation</investigator_title>
+  </responsible_party>
+  <keyword>viral load suppression</keyword>
+  <keyword>surveillance</keyword>
+  <keyword>HIV treatment engagement</keyword>
+  <keyword>structural intervention</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acquired Immunodeficiency Syndrome</mesh_term>
+    <mesh_term>HIV Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Due to the legal restrictions (New York Public Health Law Article 21, Title III) and the confidential nature of HIV surveillance data in New York, public health authorities in New York City cannot release individual-level data on reported HIV cases for purposes other than ensuring appropriate HIV care. The NYC DOHMH staff are available to assist external researchers who may have further specific data questions or uses. Please send an email to hivreport@health.nyc.gov with questions or requests for additional information.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

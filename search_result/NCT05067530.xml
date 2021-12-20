@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7199">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05067530</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NBK 171/1/2021</org_study_id>
+    <secondary_id>2021-001556-33</secondary_id>
+    <nct_id>NCT05067530</nct_id>
+  </id_info>
+  <brief_title>Cyclin dEpendent Kinase in tRiple nEGatIVe brEast canceR - a &quot;Window of Opportunity&quot; Study</brief_title>
+  <acronym>CAREGIVER</acronym>
+  <official_title>Cyclin dEpendent Kinase in tRiple nEGatIVe brEast canceR - a &quot;Window of Opportunity&quot; Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical University of Gdansk</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Medical University of Gdansk</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      CAREGIVER is a prospective, randomized, multicenter, open, five-arm study with unequal&#xD;
+      allocation ratios of 1:1:2:1:2 (palbociclib : paclitaxel : palbociclib + paclitaxel :&#xD;
+      carboplatin : carboplatin + paclitaxel). Study will be performed in untreated patients with&#xD;
+      triple-negative breast cancer (TNBC). Potential candidates without previously established&#xD;
+      diagnosis of TNBC will be included in a Pre-screening Phase, when a biopsy of breast tumor&#xD;
+      will be taken to confirm the diagnosis of cancer, select patients with TNBC and collect&#xD;
+      tissue for translational research.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2022</start_date>
+  <completion_date type="Anticipated">December 6, 2026</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a prospective, randomized, multicenter, open, five-arm study with unequal allocation ratios of 1:1:2:1:2 (palbociclib : paclitaxel : palbociclib + paclitaxel : carboplatin : carboplatin + paclitaxel)</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Early metabolic response</measure>
+    <time_frame>Day 27 (± 3 days)</time_frame>
+    <description>Difference in early (i.e., after three weeks of therapy, 1 cycle) metabolic response to treatment in chemotherapy-containing arms (chemotherapy ± palbociclib), as assessed by Blinded Central Review comparison of decrease in SUVmax between baseline and Day 27 (± 3 days) 18-fluoro-2-deoxy-d-glucose (18FDG) positron emission tomography - computed tomography (PET-CT). Primary analysis will include comparison between chemotherapy + palbociclib vs chemotherapy alone arms.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SUVmax change</measure>
+    <time_frame>Day 27 (± 3 days)</time_frame>
+    <description>Difference in proportion of patients with SUVmax change above the predefined cut-off of 30% between chemotherapy + palbociclib vs chemotherapy alone arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positron Emission Tomography Response Criteria in Solid Tumors (PERCIST)</measure>
+    <time_frame>Day 27 (± 3 days)</time_frame>
+    <description>Difference in Positron Emission Tomography Response Criteria in Solid Tumors (PERCIST)-based peak standardized uptake value corrected for lean body mass in a spherical 1 cm3 volume of interest (SULpeak) decrease in PET-CT between chemotherapy + palbociclib vs chemotherapy alone arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Metabolic tumor volume (MTV) difference</measure>
+    <time_frame>Day 27 (± 3 days)</time_frame>
+    <description>Difference in metabolic tumor volume (MTV) regression between chemotherapy + palbociclib vs chemotherapy alone arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tumor diameter change</measure>
+    <time_frame>Day 27 (± 3 days)</time_frame>
+    <description>Maximum tumor diameter change in largest continuous tumor mass based on MR imaging.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in tumor characteristic</measure>
+    <time_frame>Day 27 (± 3 days)</time_frame>
+    <description>Change in tumor characteristic in Day 27 biopsy (presence of viable cancer cells).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment toxicity</measure>
+    <time_frame>Day 27 (± 3 days)</time_frame>
+    <description>Treatment toxicity (with special attention to myeloid toxicity to explore potential myeloprotective activity): number and severity of adverse events (AEs); toxicity will be described according to ICD-10 codes and graded according to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events version 5.0 (CTCAE v5.0).</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">126</enrollment>
+  <condition>Triple Negative Breast Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>CDK4/6 inhibitor alone: Palbociclib (IMP)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Palbociclib alone (125 mg orally (PO) per day, days 1-14)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Chemotherapy alone: Paclitaxel</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Paclitaxel alone (80 mg/m^2 intravenously (IV), day 1, 8, 15 and 22)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CDK4/6 inhibitor + chemotherapy: Paclitaxel + Palbociclib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Paclitaxel (80 mg/m^2 IV, day 1, 8, 15 and 22) + Palbociclib (125 mg PO per day, days 1-21)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Chemotherapy alone: Carboplatin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Carboplatin alone (area under the curve (AUC) 2 IV, day 1, 8, 15 and 22)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CDK4/6 inhibitor + chemotherapy: Carboplatin + Palbociclib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Carboplatin (AUC 2 IV, day 1, 8, 15 and 22) + Palbociclib (125 mg PO per day, days 1-21)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Palbociclib</intervention_name>
+    <description>CDK4/6 inhibitor</description>
+    <arm_group_label>CDK4/6 inhibitor + chemotherapy: Carboplatin + Palbociclib</arm_group_label>
+    <arm_group_label>CDK4/6 inhibitor + chemotherapy: Paclitaxel + Palbociclib</arm_group_label>
+    <arm_group_label>CDK4/6 inhibitor alone: Palbociclib (IMP)</arm_group_label>
+    <other_name>Ibrance</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Paclitaxel</intervention_name>
+    <description>Chemotherapy</description>
+    <arm_group_label>CDK4/6 inhibitor + chemotherapy: Paclitaxel + Palbociclib</arm_group_label>
+    <arm_group_label>Chemotherapy alone: Paclitaxel</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carboplatin</intervention_name>
+    <description>Chemotherapy</description>
+    <arm_group_label>CDK4/6 inhibitor + chemotherapy: Carboplatin + Palbociclib</arm_group_label>
+    <arm_group_label>Chemotherapy alone: Carboplatin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  females or males &gt;18 years old at the time of informed consent signature;&#xD;
+&#xD;
+          -  diagnosis of potentially resectable or de novo metastatic (stage II-IV) invasive&#xD;
+             carcinoma of the breast;&#xD;
+&#xD;
+          -  eligible for standard neoadjuvant or palliative paclitaxel and/or carboplatin-based&#xD;
+             chemotherapy as determined by Investigator;&#xD;
+&#xD;
+          -  triple negative tumor defined as:&#xD;
+&#xD;
+               -  hormone receptor-negative (&lt;1% ER/PgR expression);&#xD;
+&#xD;
+               -  HER2-negative (Immunohistochemistry (IHC) score ≤1 or IHC score =2 and negative&#xD;
+                  for the amplification by in situ hybridization);&#xD;
+&#xD;
+          -  multicentric/multifocal disease is allowed, provided that all lesions have been&#xD;
+             biopsied and their phenotype has been confirmed pathologically as TNBC;&#xD;
+&#xD;
+          -  no previous anticancer therapy for this malignancy;&#xD;
+&#xD;
+          -  clinically or radiographically measurable disease (discrete lesion only, enhancement&#xD;
+             is not included) within the breast, that can be biopsied, defined as longest diameter&#xD;
+             &gt;2 cm;&#xD;
+&#xD;
+          -  multicentric or multifocal disease is allowed if at least 1 lesion is &gt;2 cm;&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1;&#xD;
+&#xD;
+          -  adequate bone marrow and organ function as defined by the following local laboratory&#xD;
+             values:&#xD;
+&#xD;
+          -  hemoglobin ≥9 g/dL;&#xD;
+&#xD;
+          -  absolute neutrophil count (ANC) ≥1500/μL;&#xD;
+&#xD;
+          -  platelets ≥100,000/μL;&#xD;
+&#xD;
+          -  total bilirubin ≤ institutional upper limit of normal (ULN), unless diagnosis of&#xD;
+             Gilbert syndrome;&#xD;
+&#xD;
+          -  aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ≤2.5x ULN;&#xD;
+&#xD;
+          -  creatinine ≤ ULN OR creatinine clearance ≥50 mL/min per Cockcroft-Gault equation for&#xD;
+             patients with creatinine levels greater than ULN.&#xD;
+&#xD;
+          -  blood glucose level &lt;120 mg/dL after at least 6 hours of fasting;&#xD;
+&#xD;
+          -  standard 12-lead electrocardiogram (ECG) without clinically significant abnormalities;&#xD;
+&#xD;
+          -  ability to undergo contrast-enhanced MRI;&#xD;
+&#xD;
+          -  ability to swallow and retain oral medication;&#xD;
+&#xD;
+          -  all study participants of child-bearing potential must agree to use adequate&#xD;
+             contraceptive methods prior to study entry, during the study and for the following 3&#xD;
+             weeks (females) or 14 weeks (males);&#xD;
+&#xD;
+          -  prior chemotherapy, other targeted anticancer therapies, or prior radiation therapy&#xD;
+             (outside of treated breast) for other malignancy treated with radical intent is&#xD;
+             allowed, provided the treatment was completed ≥1 year before informed consent&#xD;
+             signature;&#xD;
+&#xD;
+          -  prior bisphosphonate therapy is allowed;&#xD;
+&#xD;
+          -  willing and able to undergo all the procedures required by the study protocol;&#xD;
+&#xD;
+          -  provision of written informed consent form prior to receiving any study related&#xD;
+             procedure.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  inflammatory breast cancer;&#xD;
+&#xD;
+          -  prior systemic treatment for this malignancy;&#xD;
+&#xD;
+          -  prior treatment with CDK4/6 inhibitor;&#xD;
+&#xD;
+          -  known hypersensitivity to study medications or any of their excipients;&#xD;
+&#xD;
+          -  major surgery or radiotherapy (apart from limited field radiotherapy for symptom&#xD;
+             control) within 14 days prior to randomization;&#xD;
+&#xD;
+          -  concurrent invasive malignancy;&#xD;
+&#xD;
+          -  known HIV, active HBV or HCV infection;&#xD;
+&#xD;
+          -  active autoimmune disease requiring ongoing immunosuppressive therapy;&#xD;
+&#xD;
+          -  history of allotransplantation;&#xD;
+&#xD;
+          -  concurrent treatment with systemic immunosuppressive agents, including steroids,&#xD;
+             within 3 weeks of enrolment;&#xD;
+&#xD;
+          -  presence of implants or devices not compatible with MRI;&#xD;
+&#xD;
+          -  pregnant or nursing female participants;&#xD;
+&#xD;
+          -  receiving strong inhibitors or inducers of CYP3A4/5 or medications with narrow&#xD;
+             therapeutic window that are predominantly metabolized through CYP3A4/5;&#xD;
+&#xD;
+          -  impairment of GI function that may significantly alter the absorption of the oral&#xD;
+             trial treatments;&#xD;
+&#xD;
+          -  unwilling or unable to follow protocol requirements, including obligatory biopsies;&#xD;
+&#xD;
+          -  any condition which in the Investigator's opinion deems the participant an unsuitable&#xD;
+             candidate to receive study drugs;&#xD;
+&#xD;
+          -  any other concurrent severe and/or uncontrolled medical condition that would, in the&#xD;
+             Investigator's judgment, contraindicate patient participation in the clinical trial or&#xD;
+             compromise compliance with the protocol.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Elżbieta Senkus-Konefka, MD, PhD</last_name>
+    <phone>58 584 4482</phone>
+    <phone_ext>0048</phone_ext>
+    <email>elzbieta.senkus-konefka@gumed.edu.pl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Monika Puchowska, MSc</last_name>
+    <phone>58 349 1885</phone>
+    <phone_ext>0048</phone_ext>
+    <email>monika.puchowska@gumed.edu.pl</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Dolnośląskie Centrum Onkologii we Wrocławiu, Oddział Onkologii Klinicznej/Chemioterapii, Poradnia Chemioterapii; Leczenie Nowotworów Piersi</name>
+      <address>
+        <city>Wrocław</city>
+        <state>Dolnośląskie</state>
+        <zip>53-413</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Aleksandra Łacko, MD, PhD</last_name>
+      <phone>71 368 94 83</phone>
+      <phone_ext>0048</phone_ext>
+      <email>aleksandra.lacko@umed.wroc.pl</email>
+    </contact>
+    <investigator>
+      <last_name>Aleksandra Łacko, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie</name>
+      <address>
+        <city>Warsaw</city>
+        <state>Mazowieckie</state>
+        <zip>22 546 20 00</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Agnieszka Jagiełło-Gruszfeld, MD, PhD</last_name>
+      <phone>22 546 20 00</phone>
+      <phone_ext>0048</phone_ext>
+      <email>agnieszka.jagiello-gruszfeld@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Agnieszka Jagiełło-Gruszfeld, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>SP ZOZ Opolskie Centrum Onkologii im. Prof. Tadeusza Koszarowskiego</name>
+      <address>
+        <city>Opole</city>
+        <state>Opolskie</state>
+        <zip>45-061</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Barbara Stefania Radecka, MD, PhD</last_name>
+      <phone>77 441 60 01</phone>
+      <phone_ext>0048</phone_ext>
+      <email>brad@onkologia.opole.pl</email>
+    </contact>
+    <investigator>
+      <last_name>Barbara Stefania Radecka, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Uniwersyteckie Centrum Kliniczne, Klinika Onkologii i Radioterapii</name>
+      <address>
+        <city>Gdańsk</city>
+        <state>Pomorskie</state>
+        <zip>80-952</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Elżbieta Senkus-Konefka, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wielkopolskie Centrum Onkologii im. Marii Skłodowskiej-Curie, Oddział Onkologii Klinicznej i Immunoonkologii z Pododdziałem Dziennym</name>
+      <address>
+        <city>Poznań</city>
+        <state>Wielkopolskie</state>
+        <zip>61 885 05 57</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Maria Małgorzata Litwiniuk, MD, PhD</last_name>
+      <phone>61 885 05 57</phone>
+      <phone_ext>0048</phone_ext>
+      <email>maria.litwiniuk@wco.pl</email>
+    </contact>
+    <investigator>
+      <last_name>Maria Małgorzata Litwiniuk, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie, Państwowy Instytut Badawczy, Oddział w Gliwicach</name>
+      <address>
+        <city>Gliwice</city>
+        <state>Śląskie</state>
+        <zip>44-102</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Michał Jarząb, MD, PhD</last_name>
+      <phone>32 278 88 86</phone>
+      <phone_ext>0048</phone_ext>
+      <email>michal.jarzab@io.gliwice.pl</email>
+    </contact>
+    <investigator>
+      <last_name>Michał Jarząb, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Poland</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 4, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 5, 2021</study_first_posted>
+  <last_update_submitted>October 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Triple Negative Breast Neoplasms</mesh_term>
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Paclitaxel</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+    <mesh_term>Palbociclib</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

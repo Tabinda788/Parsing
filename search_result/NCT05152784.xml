@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="643">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05152784</url>
+  </required_header>
+  <id_info>
+    <org_study_id>293735</org_study_id>
+    <nct_id>NCT05152784</nct_id>
+  </id_info>
+  <brief_title>The TRAMPOLINE VT Study</brief_title>
+  <official_title>Trial of Rapid Activation MaPping Using a nOveL Catheter and Integrated Non-invasivE Imaging in Ventricular Tachycardia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Barts &amp; The London NHS Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Biosense Webster, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Barts &amp; The London NHS Trust</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This non-randomised, prospective trial will examine the feasibility and efficacy of VT&#xD;
+      ablation guided by activation mapping using the Octaray catheter and the CARTO3&#xD;
+      electro-anatomical mapping system. Procedures will integrate data from cardiac MRI and&#xD;
+      voltage mapping to identify sites of interest for focussed activation mapping; the&#xD;
+      investigators hypothesise that the examination of these data will identify critical target&#xD;
+      sites for ablation. Intra-procedural diagnostic performance of the Octaray will be assessed&#xD;
+      as the primary outcome, and will be compared with the standard of care. Secondary, clinical&#xD;
+      outcomes - primarily the need for ICD therapies at 12 months post ablation - will be compared&#xD;
+      with propensity-matched controls undergoing substrate-based ablation alone.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 3, 2022</start_date>
+  <completion_date type="Anticipated">April 3, 2024</completion_date>
+  <primary_completion_date type="Anticipated">October 3, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Propensity-matched cohort study</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Correct identification of VT exit site</measure>
+    <time_frame>Intra-procedural</time_frame>
+    <description>The site of VT origin suggested by activation mapping will be confirmed by either:&#xD;
+i) Termination with ablation at this site ii) Entrainment of the tachycardia at this site (concealed fusion with PPI-TCL &lt;30ms and equivalent stimulus-QRS interval to EGM-QRS (30-70% TCL) interval) iii) Pace-mapping (average correlation coefficient &gt;90%)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Completeness of diastolic pathway recording</measure>
+    <time_frame>Intra-procedural</time_frame>
+    <description>The VT diastolic interval will be divided into temporal segments:&#xD;
+i) First third: VT entrance ii) Middle third: VT isthmus iii) Final third: VT exit&#xD;
+Completeness of diastolic pathway recording will be assessed according to the number of segments in which electrical activity is recorded</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Requirement for ICD therapies at 1 year</measure>
+    <time_frame>12 months following VT ablation</time_frame>
+    <description>ICD devices will be interrogated at 3 and 12 months post ablation, or according to clinical need, and the requirement for appropriate anti-tachycardia pacing (ATP) or defibrillation recorded</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>VT burden</measure>
+    <time_frame>12 months following VT ablation</time_frame>
+    <description>ICD devices will be interrogated at 3 and 12 months post ablation, or according to clinical need, and the number and duration of recorded VT episodes noted</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Symptoms related to arrhythmia</measure>
+    <time_frame>12 months following VT ablation</time_frame>
+    <description>The Arrhythmia-specific questionnaire in Tachycardia and Arrhythmia (ASTA) will be completed both before and 12 months following ablation to assess for quantitative change in arrhythmia-related symptomatology</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Morphological changes on serial cardiac MRIs</measure>
+    <time_frame>3 months following VT ablation</time_frame>
+    <description>Cardiac MRI (CMR) will be performed before and 3 months post ablation. Changes in functional, volumetric and scar-related data will be recorded</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Ventricular Tachycardia</condition>
+  <arm_group>
+    <arm_group_label>Octaray catheter</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>VT ablation guided by activation mapping using the Octaray catheter and integrated cardiac MRI data.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Identified retrospectively from registry data: propensity matched-controls undergoing VT ablation guided by substrate-modification alone.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Octaray catheter</intervention_name>
+    <description>A high density diagnostic catheter used for substrate and activation mapping.</description>
+    <arm_group_label>Octaray catheter</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Standard of care</intervention_name>
+    <description>VT ablation guided by substrate-mapping alone.</description>
+    <arm_group_label>Standard of care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ICD in situ&#xD;
+&#xD;
+          -  Clinical indication for VT ablation; incessant VT or receiving appropriate ICD&#xD;
+             therapies for VT despite anti-arrhythmic drugs&#xD;
+&#xD;
+          -  Ischaemic or non-ischaemic heart disease&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Valvular heart disease precluding LV access&#xD;
+&#xD;
+          -  Cardiotomy within previous 3 months&#xD;
+&#xD;
+          -  Acute coronary syndrome within 6 weeks&#xD;
+&#xD;
+          -  Dialysis patients&#xD;
+&#xD;
+          -  Coagulopathy/Thrombocytopaenia&#xD;
+&#xD;
+          -  Pregnancy/breastfeeding women&#xD;
+&#xD;
+          -  CMR contraindicated&#xD;
+&#xD;
+          -  Prognosis &lt;12 months&#xD;
+&#xD;
+          -  Unable to provide informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Richard Schilling, MD</last_name>
+    <phone>02073 777000</phone>
+    <email>r.schilling@qmul.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Edd Maclean, MBBS</last_name>
+    <email>edd.maclean@qmul.ac.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>St. Bartholomew's Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>EC1A7BE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Richard Schilling</last_name>
+      <email>r.schilling@qmul.ac.uk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 10, 2021</study_first_posted>
+  <last_update_submitted>December 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Octaray</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tachycardia</mesh_term>
+    <mesh_term>Tachycardia, Ventricular</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

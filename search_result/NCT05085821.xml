@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5792">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05085821</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRR-CLP-2019-4</org_study_id>
+    <nct_id>NCT05085821</nct_id>
+  </id_info>
+  <brief_title>Cardio-visual Stimulation in Augmented Reality for Pain Reduction</brief_title>
+  <acronym>HEART</acronym>
+  <official_title>Cardio-visual Stimulation in Augmented Reality for Pain Reduction</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Union de Gestion des Etablissements des Caisses d'Assurance Maladie - Nord Est</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Mindmaze SA</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Union de Gestion des Etablissements des Caisses d'Assurance Maladie - Nord Est</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this study is to evaluate the feasibility and efficacy of an Augmented&#xD;
+      Reality (AR) biofeedback intervention to alleviate pain symptoms in individuals suffering&#xD;
+      from chronic pain of the hand and/or the forearm.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Chronic pain is a major public health problem with implications for high health care costs,&#xD;
+      lost productivity and an estimated financial burden of $500 billion. Individuals with chronic&#xD;
+      pain are also at an increased risk of developing an opioid use disorder.&#xD;
+&#xD;
+      Chronic pain has previously been associated with a distorted body representation, in&#xD;
+      particular of the affected body parts. Virtual Reality (VR) studies using embodiment-,&#xD;
+      respiration-, and heart-beat related feedback have demonstrated positive effects for induced&#xD;
+      pain in healthy participants (e.g., increased pain thresholds) and chronic pain in patient&#xD;
+      populations (e.g., decreased subjective pain, improved functionality, improved physiological&#xD;
+      markers of pain). Based on these studies, the AR intervention evaluated here aims to&#xD;
+      alleviate subjective pain symptoms and improve physiological pain markers in chronic pain&#xD;
+      patients using heartbeat-related feedback.&#xD;
+&#xD;
+      This within-subject study will compare subjective pain ratings before, during, and after an&#xD;
+      AR intervention that provides visual feedback of participants' on-going heartbeat in relation&#xD;
+      to their affected limb. Primary outcomes include subjective reports from participants&#xD;
+      (perceived efficacy, acceptability, and demand) and the intervention's clinical feasibility,&#xD;
+      including reports from therapists. Secondary outcomes include changes in heart rate and&#xD;
+      variability.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 20, 2021</start_date>
+  <completion_date type="Anticipated">January 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in perceived pain</measure>
+    <time_frame>change in pain rating will be evaluated when participants first wear the Head-Mounted Display (baseline), after 3 minutes of video-passthrough (Pre), after 3 minutes of cardio-visual stimulation (post), after 3 minutes of video-passthrough (final)</time_frame>
+    <description>The patient moves a cursor on a Visual Analog Scale to indicate their currently perceived level of pain. The gauge ranges from &quot;no pain&quot; (0) to &quot;worst pain imaginable&quot; (10).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Heart-Rate Variability (time domain)</measure>
+    <time_frame>a change in heart-rate variability will be evaluated between baseline (pre), intervention, and immediately following intervention (post)</time_frame>
+    <description>time-domain metrics of heart-rate variability [ms]</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Heart-Rate Variability (frequency domain)</measure>
+    <time_frame>a change in heart-rate variability will be evaluated between baseline (pre), intervention, and immediately following intervention (post)</time_frame>
+    <description>frequency-domain metric of heart-rate variability (power)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Questionnaire</measure>
+    <time_frame>The first day of the study</time_frame>
+    <description>Questionnaire on the sensations, usability, and satisfaction with the augmented reality stimulation using a Visual Analog Scale (0-10) where higher scores indicate agreement with the questionnaire item.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Questionnaire</measure>
+    <time_frame>The second day of the study</time_frame>
+    <description>Questionnaire on the sensations, usability, and satisfaction with the augmented reality stimulation using a Visual Analog Scale (0-10) where higher scores indicate agreement with the questionnaire item.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Questionnaire</measure>
+    <time_frame>The third day of the study</time_frame>
+    <description>Questionnaire on the sensations, usability, and satisfaction with the augmented reality stimulation using a Visual Analog Scale (0-10) where higher scores indicate agreement with the questionnaire item.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Questionnaire</measure>
+    <time_frame>The fourth day of the study</time_frame>
+    <description>Questionnaire on the sensations, usability, and satisfaction with the augmented reality stimulation using a Visual Analog Scale (0-10) where higher scores indicate agreement with the questionnaire item.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Regional Pain Syndrome</condition>
+  <condition>Chronic Pain Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Experimental 1: HEART - Placebo - HEART - Placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The patient receives visual feedback in an augmented reality environment in four session, over two weeks.&#xD;
+Week 1: HEART, Placebo (after &gt;24hour washout) Week 2: HEART, Placebo (after &gt;24hour washout)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental 2: HEART - Placebo - Placebo - HEART</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The patient receives visual feedback in an augmented reality environment in four session, over two weeks.&#xD;
+Week 1: HEART, Placebo (after &gt;24hour washout) Week 2: Placebo, HEART (after &gt;24hour washout)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental 3: Placebo - HEART - Placebo - HEART</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The patient receives visual feedback in an augmented reality environment in four session, over two weeks.&#xD;
+Week 1: Placebo, HEART (after &gt;24hour washout) Week 2: Placebo, HEART (after &gt;24hour washout)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental 4: Placebo - HEART - HEART - Placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The patient receives visual feedback in an augmented reality environment in four session, over two weeks.&#xD;
+Week 1: HEART, Placebo (after &gt;24hour washout) Week 2: Placebo, HEART (after &gt;24hour washout)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>HEART</intervention_name>
+    <description>In an augmented reality environment, the patient receives visual feedback in synchrony with their cardiac-cycle (HEART)</description>
+    <arm_group_label>Experimental 1: HEART - Placebo - HEART - Placebo</arm_group_label>
+    <arm_group_label>Experimental 2: HEART - Placebo - Placebo - HEART</arm_group_label>
+    <arm_group_label>Experimental 3: Placebo - HEART - Placebo - HEART</arm_group_label>
+    <arm_group_label>Experimental 4: Placebo - HEART - HEART - Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>In an augmented reality environment, the patient receives visual feedback out-of-synchrony with their cardiac cycle (Placebo)</description>
+    <arm_group_label>Experimental 1: HEART - Placebo - HEART - Placebo</arm_group_label>
+    <arm_group_label>Experimental 2: HEART - Placebo - Placebo - HEART</arm_group_label>
+    <arm_group_label>Experimental 3: Placebo - HEART - Placebo - HEART</arm_group_label>
+    <arm_group_label>Experimental 4: Placebo - HEART - HEART - Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Be over 18 years of age&#xD;
+&#xD;
+          -  Present permanent chronic pain (for more than 3 months), secondary to a peripheral&#xD;
+             pathology (traumatic, orthopedic or neurological), located in the hand or forearm.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant women&#xD;
+&#xD;
+          -  People in emergency situations&#xD;
+&#xD;
+          -  Persons unable to give informed consent&#xD;
+&#xD;
+          -  Persons who are mentally or linguistically unable to understand the research test&#xD;
+             instructions&#xD;
+&#xD;
+          -  Individuals who are not available to complete the entire study protocol&#xD;
+&#xD;
+          -  Cognitive impairments that prevent the use of the equipment&#xD;
+&#xD;
+          -  Psychiatric disorders&#xD;
+&#xD;
+          -  Patients with seizure disorders&#xD;
+&#xD;
+          -  Patients with central hemineglect&#xD;
+&#xD;
+          -  Pain secondary to central nervous system pathology&#xD;
+&#xD;
+          -  Patients with arrhythmia&#xD;
+&#xD;
+          -  Patients with head tremors or head shaking.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jean Paysant, Pr</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UGECAM Nord Est</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jonathan Pierret, PhD</last_name>
+    <phone>03 83 52 67 61</phone>
+    <email>jonathan.pierret@ugecam.assurance-maladie.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Institut Régional de Médecine Physique et de Réadaptation</name>
+      <address>
+        <city>Nancy</city>
+        <zip>54000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amélie Touillet, Md</last_name>
+      <phone>+33 3 82 52 6761</phone>
+      <email>amelie.touillet@ugecam.assurance-maladie.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jonathan Pierret, PhD</last_name>
+      <phone>+33 3 82 52 6761</phone>
+      <email>jonathan.pierret@ugecam.assurance-maladie.fr</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>May 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 20, 2021</study_first_posted>
+  <last_update_submitted>October 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Union de Gestion des Etablissements des Caisses d'Assurance Maladie - Nord Est</investigator_affiliation>
+    <investigator_full_name>Amélie Touillet</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Syndrome</mesh_term>
+    <mesh_term>Chronic Pain</mesh_term>
+    <mesh_term>Somatoform Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

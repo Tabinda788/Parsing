@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3813">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05111548</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HUM00119204b</org_study_id>
+    <nct_id>NCT05111548</nct_id>
+  </id_info>
+  <brief_title>Brain Stimulation and Cognitive Training - Efficacy</brief_title>
+  <official_title>Neuromodulation Plus Cognitive Training to Improve Working Memory Among Individuals With Severe Mental Illness</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Michigan</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Michigan</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      People with serious mental illness often experience difficulties with thinking skills like&#xD;
+      memory. These difficulties can make it harder to perform day-to-day activities. The purpose&#xD;
+      of this study is to test whether combining a type of non-invasive brain stimulation with&#xD;
+      computerized cognitive exercises is helpful in improving a specific type of memory skill in&#xD;
+      people who have mental health conditions.&#xD;
+&#xD;
+      The study is a randomized clinical trial, meaning that participants will be randomly assigned&#xD;
+      to receive either 'active' or 'inactive' brain stimulation. All participants will complete&#xD;
+      computerized cognitive exercises, also known as cognitive training.&#xD;
+&#xD;
+      Overall, participants will be in the study for 6-8 weeks. The study involves 10 visits to the&#xD;
+      clinic over 2-4 weeks for cognitive training and either active or inactive brain stimulation.&#xD;
+      Participants will also complete paper-and-pencil assessments at the beginning and end of&#xD;
+      treatment, and one month after treatment ends.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 8, 2021</start_date>
+  <completion_date type="Anticipated">September 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Verbal working memory performance</measure>
+    <time_frame>change from baseline to post-treatment (2-4 weeks)</time_frame>
+    <description>MATRICS Consensus Cognitive Battery (MCCB) letter-number span total score</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Visual working memory performance</measure>
+    <time_frame>change from baseline to post-treatment (2-4 weeks)</time_frame>
+    <description>MCCB spatial span total score</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Schizophrenia</condition>
+  <condition>Schizo Affective Disorder</condition>
+  <condition>Bipolar Disorder</condition>
+  <arm_group>
+    <arm_group_label>Active stimulation + cognitive training</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive 10 sessions of 'active' non-invasive brain stimulation (tDCS) with concurrent cognitive training (BrainHQ).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Inactive stimulation + cognitive training</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Participants receive 10 sessions of 'inactive' non-invasive brain stimulation (tDCS) with concurrent cognitive training (BrainHQ).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>tDCS</intervention_name>
+    <description>tDCS is a non-invasive procedure in which electrodes are attached to the scalp and send a small direct current to stimulate brain function</description>
+    <arm_group_label>Active stimulation + cognitive training</arm_group_label>
+    <other_name>transcranial direct current stimulation</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>BrainHQ</intervention_name>
+    <description>BrainHQ is a web-based, commercially available cognitive training program that includes exercises to enhance working memory</description>
+    <arm_group_label>Active stimulation + cognitive training</arm_group_label>
+    <arm_group_label>Inactive stimulation + cognitive training</arm_group_label>
+    <other_name>cognitive training</other_name>
+    <other_name>computerized cognitive exercises</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of bipolar disorder I or II, schizoaffective disorder, or schizophrenia&#xD;
+&#xD;
+          -  Willingness to participate in study procedures&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of neurological illness or injury (e.g., stroke)&#xD;
+&#xD;
+          -  History of loss of consciousness&#xD;
+&#xD;
+          -  Diagnosed intellectual disability&#xD;
+&#xD;
+          -  Current substance use disorder&#xD;
+&#xD;
+          -  Current mania or moderate depression or severe psychosis&#xD;
+&#xD;
+          -  Current serious suicidal ideation/behavior&#xD;
+&#xD;
+          -  Pregnant or trying to become pregnant, or currently lactating&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Cynthia Burton, PhD</last_name>
+    <phone>734-615-9821</phone>
+    <email>czburton@umich.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cynthia Burton, PhD</last_name>
+      <phone>877-864-3637</phone>
+      <email>czburton@umich.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 8, 2021</study_first_posted>
+  <last_update_submitted>October 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Michigan</investigator_affiliation>
+    <investigator_full_name>Cynthia Burton</investigator_full_name>
+    <investigator_title>Clinical Assistant Professor, Department of Psychiatry</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Schizophrenia</mesh_term>
+    <mesh_term>Bipolar Disorder</mesh_term>
+    <mesh_term>Mood Disorders</mesh_term>
+    <mesh_term>Psychotic Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

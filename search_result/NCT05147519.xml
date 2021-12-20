@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1047">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05147519</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RV 583</org_study_id>
+    <secondary_id>WRAIR # 2877b</secondary_id>
+    <nct_id>NCT05147519</nct_id>
+  </id_info>
+  <brief_title>Protocol RV 583 Multinational Observational Cohort of HIV and Other Infections</brief_title>
+  <acronym>MOCHI</acronym>
+  <official_title>Multinational Observational Cohort of HIV and Other Infections (MOCHI)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Henry M. Jackson Foundation for the Advancement of Military Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Henry M. Jackson Foundation for the Advancement of Military Medicine</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Multinational Observational Cohort of HIV and other Infections (MOCHI). This observational&#xD;
+      study is to gain information regarding the number of new HIV infections among people who&#xD;
+      engage in behaviors that make them vulnerable to acquiring HIV across multiple international&#xD;
+      sites.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study will be a multi-site prospective observational cohort of males and females who are&#xD;
+      vulnerable to HIV and other STIs. Step 1 of the study is the evaluation of participants&#xD;
+      without HIV with quarterly follow up visits up to 72 weeks. At each follow up visit, we will&#xD;
+      administer behavioral questionnaires, HIV testing, STI testing, and other laboratory testing&#xD;
+      per the schedule of evaluations. Participants will also perform home-based HIV testing&#xD;
+      between study visits per the schedule of evaluations. Step 2 is the incident HIV acquisition&#xD;
+      evaluation. Follow-up visits will be conducted every four weeks up to 12 weeks after initial&#xD;
+      HIV diagnosis and then quarterly up to 48 weeks. Individuals will be monitored for HIV&#xD;
+      disease outcomes, STIs, and surveys, and other lab collections will be administered per the&#xD;
+      schedule of evaluations. Participants who are virally-suppressed at the completion of Step 2&#xD;
+      will transition to Step 3 for long-term follow-up semi-annually out to week 192. Evaluation&#xD;
+      will primarily be HIV monitoring, surveys for consideration of trial participation, and&#xD;
+      specimen storage per the schedule of evaluations.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 5, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2032</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2027</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Establish HIV Incidence at All Sites</measure>
+    <time_frame>10 Years</time_frame>
+    <description>For the analysis of the incidence rate, only individuals who are not living with HIV at the baseline exam will be included in the incidence rate analysis.&#xD;
+People without HIV will contribute person-time beginning with the time they enter the study until the study concludes or they are either censored or an HIV transmission event occurs. The event time for each subject is set to the minimum of the HIV transmission event time or the censoring time caused by one of the following: a drop-out event, a death event, or study end event. If one of these censoring events occurs, the censoring time is set to the last time there is recorded data for the subject. If an individual tests positive for HIV during the study, the HIV transmission event time is set to the visit during which the HIV transmission occurred. Those individuals who are lost to follow-up after enrollment will be censored at the last visit.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Establish Incidence and Prevalence of STIs Including Chlamydia, Gonorrhea, Syphilis, and Mycoplasma genitalium</measure>
+    <time_frame>10 Years</time_frame>
+    <description>For incident cases, the date of the positive test will be used as the date of infection. Specifically, for syphilis, a positive test can be determined by one of the following algorithms: 1. In the traditional algorithm, a non-treponemal test (e.g., rapid plasma reagin [RPR] or Venereal Disease Research Laboratory test [VDRL]) is used as the initial screen and reactive samples are confirmed with a treponemal test (e.g., fluorescent treponemal antibody absorption [FTA-ABS], T. pallidum particle agglutination [TPPA] test, Treponema pallidum particle agglutination assay [TPHA], or Syphilis IgG) or other tests that detect targets specific to T. pallidum. 2. The reverse algorithm uses a treponemal test for screening with reactive samples followed up with a non-treponemal test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Willingness to Participate and Other Calculations</measure>
+    <time_frame>10 Years</time_frame>
+    <description>Willingness to participate in an HIV vaccine trial and study retention rates and their respective 95% CIs will be estimated assuming a binomial distribution. Factors associated with willingness to participate in vaccine trial will be evaluated using logistic regression models. Self-reported risk behavior over time will be assessed by frequency tables and bar graphs. Changes in risk behavior over time will be evaluated using a Generalized Estimating Equation (GEE) model with clustering occurring within individuals (ex: multiple observations per person). Knowledge, attitudes, and practices regarding behaviors and preventive measures will be evaluated using descriptive statistics.</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">2500</enrollment>
+  <condition>HIV Infections</condition>
+  <arm_group>
+    <arm_group_label>Step 1</arm_group_label>
+    <description>Step 1 will enroll participants aged 15-55 years who are vulnerable to contracting HIV. They will be evaluated every 12 weeks for HIV and other sexually transmitted infections (STIs).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Step 2</arm_group_label>
+    <description>Participants who are diagnosed with HIV will proceed to Step 2, with evaluation of viral load and other HIV-related tests every four weeks for 12 weeks and then every 12 weeks for a total of 48 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Step 3</arm_group_label>
+    <description>Participants who achieve and maintain viral suppression in Step 2 will proceed to Step 3 for continued HIV monitoring every 24 weeks to document maintenance of viral suppression and maintain engagement with the study site for potential future recruitment into interventional studies, including clinical trials of novel strategies to achieve HIV remission.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Novel interventions to achieve HIV remission</intervention_name>
+    <description>To establish a group of well-characterized people living with HIV who initiated ART during acute or early HIV transmission that can serve as a source population for future studies, including those designed to test novel interventions to achieve HIV remission.</description>
+    <arm_group_label>Step 1</arm_group_label>
+    <arm_group_label>Step 2</arm_group_label>
+    <arm_group_label>Step 3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population will include adult and adolescent (emancipated or unemancipated) males&#xD;
+        and females aged 15-55 years who are vulnerable to HIV and other sexually transmitted&#xD;
+        infections.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Step 1 Inclusion Criteria:&#xD;
+&#xD;
+          -  Female or male aged 15-55 years&#xD;
+&#xD;
+          -  Documented negative HIV test according to site-specific HIV testing procedures at&#xD;
+             entry/screening&#xD;
+&#xD;
+          -  Able and willing to provide informed consent&#xD;
+&#xD;
+          -  Willing to provide biometric identification&#xD;
+&#xD;
+          -  Available for follow-up for the planned study duration&#xD;
+&#xD;
+          -  Understands English or the local language as approved by the IRB, including people who&#xD;
+             are illiterate&#xD;
+&#xD;
+          -  Willing to provide contact information for themselves and one personal contact who&#xD;
+             would know their whereabouts during the study period&#xD;
+&#xD;
+          -  Willing to provide information regarding HIV risk behaviors and to undergo testing for&#xD;
+             HIV and other STIs&#xD;
+&#xD;
+          -  Considered to be vulnerable to HIV and other STIs based on any one or more of the&#xD;
+             following test results and/or self-reported behaviors:&#xD;
+&#xD;
+               1. Documented history of newly diagnosed syphilis, gonorrhea, chlamydia, Mycoplasma&#xD;
+                  genitalium, herpes simplex virus, or acute hepatitis C virus infection in the 24&#xD;
+                  weeks prior to screening&#xD;
+&#xD;
+               2. Self-reported vaginal, oral, or anal intercourse in exchange for money as a&#xD;
+                  regular source of income&#xD;
+&#xD;
+               3. Self-reported condomless vaginal or anal intercourse with at least three&#xD;
+                  different partners living with HIV or of unknown status in the 24 weeks prior to&#xD;
+                  screening&#xD;
+&#xD;
+               4. Self- reported injection drug use (IDU) in the 24 weeks prior to screening&#xD;
+&#xD;
+               5. Self-reported insertive or receptive anal or neovaginal intercourse with one or&#xD;
+                  more different male or transgender partners in the 24 weeks prior to screening&#xD;
+&#xD;
+        Step 2 Inclusion Criteria&#xD;
+&#xD;
+          -  New diagnosis of HIV in the last 90 days during Step 1 as determined by site-specific&#xD;
+             HIV testing procedures&#xD;
+&#xD;
+          -  Able and willing to continue follow-up for the planned study duration&#xD;
+&#xD;
+        Step 3 Inclusion Criteria&#xD;
+&#xD;
+          -  Virally-suppressed at the completion of Step 2&#xD;
+&#xD;
+          -  Adherent to ART&#xD;
+&#xD;
+          -  Able and willing to continue follow-up for the planned study duration&#xD;
+&#xD;
+        Step 1 Exclusion Criteria&#xD;
+&#xD;
+          -  Any significant condition (medical, psychologic/psychiatric or social) that, in the&#xD;
+             judgment of the study investigator, might interfere with the conduct of the study&#xD;
+&#xD;
+          -  Active drug or alcohol use or dependence that, in the judgement of the study&#xD;
+             investigator, would interfere with adherence to study requirements&#xD;
+&#xD;
+          -  Current or past participation in a preventive or therapeutic HIV vaccine study, unless&#xD;
+             known placebo recipient&#xD;
+&#xD;
+          -  Positive β-HCG (human chorionic gonadotropin) pregnancy test (urine or serum) at&#xD;
+             screening for people of child-bearing potential and people who are amenorrheic for&#xD;
+             less than 12 consecutive months.&#xD;
+&#xD;
+        Step 2 Exclusion Criteria&#xD;
+&#xD;
+          -  Any significant condition (medical, psychologic/psychiatric or social) that, in the&#xD;
+             judgment of the study investigator, might interfere with the conduct of the study&#xD;
+&#xD;
+          -  Active drug or alcohol use or dependence that, in the opinion of the investigator,&#xD;
+             would interfere with adherence to study requirements&#xD;
+&#xD;
+        Step 3 Exclusion Criteria&#xD;
+&#xD;
+          -  Any significant condition (medical, psychologic/psychiatric or social) that, in the&#xD;
+             judgment of the study investigator, might interfere with the conduct of the study&#xD;
+&#xD;
+          -  Active drug or alcohol use or dependence that, in the opinion of the investigator,&#xD;
+             would interfere with adherence to study requirements&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Trevor A. Crowell, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>US Military HIV Research Program</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Trevor A. Crowell, MD, PhD</last_name>
+    <phone>301-500-3990</phone>
+    <email>tcrowell@hivresearch.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Kenya Medical Research Institute/ USAMRD-A/Kenya (Kericho)</name>
+      <address>
+        <city>Kericho</city>
+        <country>Kenya</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Josphat K Kosgei, MBChB, MSc</last_name>
+      <phone>254 052 20 36100</phone>
+      <email>josphat.kosgei@usamru-k.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Kenya</country>
+  </location_countries>
+  <reference>
+    <citation>REFERENCES 1. 2020 Aids-data-book_en.pdf. 2020; https://www.unaids.org/sites/default/files/media_asset/2020_aids-data-book_en.pdf. 2. Seizing the Moment: Tackling entrenched inequalities to end. UNAIDS;2020. 3. Chun HM, Carpenter RJ, Macalino GE, Crum-Cianflone NF. The Role of Sexually Transmitted Infections in HIV-1 Progression: A Comprehensive Review of the Literature. Journal of sexually transmitted diseases. 2013;2013:176459. 4. Mayer KH, Venkatesh KK. Interactions of HIV, other sexually transmitted diseases, and genital tract inflammation facilitating local pathogen transmission and acquisition. American journal of reproductive immunology (New York, NY : 1989). 2011;65(3):308-316. 5. Hemelaar J, Elangovan R, Yun J, et al. Global and regional molecular epidemiology of HIV-1, 1990-2015: a systematic review, global survey, and trend analysis. The Lancet Infectious diseases. 2019;19(2):143-155. 6. Bbosa N, Kaleebu P, Ssemwanga D. HIV subtype diversity worldwide. Curr Opin HIV AIDS. 2019;14(3):153-160. 7. Lau KA, Wong JJ. Current Trends of HIV Recombination Worldwide. Infect Dis Rep. 2013;5(Suppl 1):e4. 8. Billings E, Kijak GH, Sanders-Buell E, et al. New Subtype B Containing HIV-1 Circulating Recombinant of sub-Saharan Africa Origin in Nigerian Men Who Have Sex With Men. J Acquir Immune Defic Syndr. 2019;81(5):578-584. 9. Ragonnet-Cronin M, Lycett SJ, Hodcroft EB, et al. Transmission of Non-B HIV Subtypes in the United Kingdom Is Increasingly Driven by Large Non-Heterosexual Transmission Clusters. J Infect Dis. 2016;213(9):1410-1418. 10. Sandfort TGM GX, Hamilton EL, et al. HIV incidence among men who have sex with men and transgender women in sub-Saharan Africa: findings from the multi-country HPTN 075 cohort study. HIV Research for Prevention (HIVR4P), October 21-25, 2018, Madrid. Abstract OA10.04LB. In:2018. 11. Piot P, Laga M. Genital ulcers, other sexually transmitted diseases, and the sexual transmission of HIV. BMJ (Clinical research ed). 1989;298(6674):623-624. 12. Zetola NM, Bernstein KT, Wong E, Louie B, Klausner JD. Exploring the relationship between sexually transmitted diseases and HIV acquisition by using different study designs. J Acquir Immune Defic Syndr. 2009;50(5):546-551.</citation>
+  </reference>
+  <reference>
+    <citation>13. Rowley J, Vander Hoorn S, Korenromp E, et al. Chlamydia, gonorrhoea, trichomoniasis and syphilis: global prevalence and incidence estimates, 2016. Bull World Health Organ. 2019;97(8):548-562P. 14. Chan PA, Robinette A, Montgomery M, et al. Extragenital Infections Caused by Chlamydia trachomatis and Neisseria gonorrhoeae: A Review of the Literature. Infectious diseases in obstetrics and gynecology. 2016;2016:5758387. 15. Keshinro B, Crowell TA, Nowak RG, et al. High prevalence of HIV, chlamydia and gonorrhoea among men who have sex with men and transgender women attending trusted community centres in Abuja and Lagos, Nigeria. Journal of the International AIDS Society. 2016;19(1):21270-21270. 16. Stoner BP, Cohen SE. Lymphogranuloma Venereum 2015: Clinical Presentation, Diagnosis, and Treatment. Clin Infect Dis. 2015;61 Suppl 8:S865-873. 17. Leeyaphan C, Ong JJ, Chow EP, et al. Systematic Review and Meta-Analysis of Doxycycline Efficacy for Rectal Lymphogranuloma Venereum in Men Who Have Sex with Men. Emerg Infect Dis. 2016;22(10):1778-1784. 18. Workowski KA, Bolan GA. Sexually transmitted diseases treatment guidelines, 2015. MMWR Recommendations and reports : Morbidity and mortality weekly report Recommendations and reports. 2015;64(Rr-03):1-137. 19. Unemo M, Seifert HS, Hook EW, 3rd, Hawkes S, Ndowa F, Dillon JR. Gonorrhoea. Nature reviews Disease primers. 2019;5(1):79. 20. Park J, Marcus JL, Pandori M, Snell A, Philip SS, Bernstein KT. Sentinel surveillance for pharyngeal chlamydia and gonorrhea among men who have sex with men--San Francisco, 2010. Sexually transmitted diseases. 2012;39(6):482-484. 21. Costa-Lourenço A, Barros Dos Santos KT, Moreira BM, Fracalanzza SEL, Bonelli RR. Antimicrobial resistance in Neisseria gonorrhoeae: history, molecular mechanisms and epidemiological aspects of an emerging global threat. Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]. 2017;48(4):617-628. 22. Newman L, Rowley J, Vander Hoorn S, et al. Global Estimates of the Prevalence and Incidence of Four Curable Sexually Transmitted Infections in 2012 Based on Systematic Review and Global Reporting. PloS one. 2015;10(12):e0143304. 23. WHO Guidelines Approved by the Guidelines Review Committee. In: WHO Guidelines for the Treatment of Neisseria gonorrhoeae. Geneva: World Health Organization Copyright © World Health Organization 2016.; 2016. 24. Unemo M. Current and future antimicrobial treatment of gonorrhoea - the rapidly evolving Neisseria gonorrhoeae continues to challenge. BMC infectious diseases. 2015;15:364. 25. Unemo M, Shafer WM. Antibiotic resistance in Neisseria gonorrhoeae: origin, evolution, and lessons learned for the future. Annals of the New York Academy of Sciences. 2011;1230:E19-28. 26. Katz AR, Komeya AY, Kirkcaldy RD, et al. Cluster of Neisseria gonorrhoeae Isolates With High-level Azithromycin Resistance and Decreased Ceftriaxone Susceptibility, Hawaii, 2016. Clin Infect Dis. 2017;65(6):918-923. 27. Whittles LK, White PJ, Paul J, Didelot X. Epidemiological Trends of Antibiotic Resistant Gonorrhoea in the United Kingdom. Antibiotics (Basel, Switzerland). 2018;7(3). 28. Unemo M, Golparian D, Eyre DW. Antimicrobial Resistance in Neisseria gonorrhoeae and Treatment of Gonorrhea. Methods in molecular biology (Clifton, NJ). 2019;1997:37-58. 29. Semchenko EA, Tan A, Borrow R, Seib KL. The Serogroup B Meningococcal Vaccine Bexsero Elicits Antibodies to Neisseria gonorrhoeae. Clin Infect Dis. 2019;69(7):1101-1111. 30. Peeling RW, Mabey D, Kamb ML, Chen XS, Radolf JD, Benzaken AS. Syphilis. Nature reviews Disease primers. 2017;3:17073.</citation>
+  </reference>
+  <reference>
+    <citation>31. Korenromp EL, Rowley J, Alonso M, et al. Global burden of maternal and congenital syphilis and associated adverse birth outcomes-Estimates for 2016 and progress since 2012. PloS one. 2019;14(2):e0211720. 32. Arando Lasagabaster M, Otero Guerra L. Syphilis. Enfermedades infecciosas y microbiologia clinica. 2019;37(6):398-404. 33. Grant JS, Stafylis C, Celum C, et al. Doxycycline Prophylaxis for Bacterial Sexually Transmitted Infections. Clin Infect Dis. 2020;70(6):1247-1253. 34. Mahlangu MP, Müller EE, Venter JME, Maseko DV, Kularatne RS. The Prevalence of Mycoplasma genitalium and Association With Human Immunodeficiency Virus Infection in Symptomatic Patients, Johannesburg, South Africa, 2007-2014. Sexually transmitted diseases. 2019;46(6):395-399. 35. Munoz JL, Goje OJ. Mycoplasma genitalium: An Emerging Sexually Transmitted Infection. Scientifica. 2016;2016:7537318. 36. Baumann L, Cina M, Egli-Gany D, et al. Prevalence of Mycoplasma genitalium in different population groups: systematic review andmeta-analysis. Sex Transm Infect. 2018;94(4):255-262. 37. !!! INVALID CITATION !!! {}. 38. Tully JG, Taylor-Robinson D, Rose DL, Furr PM, Graham CE, Barile MF. Urogenital challenge of primate species with Mycoplasma genitalium and characteristics of infection induced in chimpanzees. J Infect Dis. 1986;153(6):1046-1054. 39. Zhang S, Wear DJ, Lo S. Mycoplasmal infections alter gene expression in cultured human prostatic and cervical epithelial cells. FEMS Immunol Med Microbiol. 2000;27(1):43-50. 40. McGowin CL, Annan RS, Quayle AJ, et al. Persistent Mycoplasma genitalium infection of human endocervical epithelial cells elicits chronic inflammatory cytokine secretion. Infect Immun. 2012;80(11):3842-3849. 41. Dehon PM, McGowin CL. Mycoplasma genitalium infection is associated with microscopic signs of cervical inflammation in liquid cytology specimens. J Clin Microbiol. 2014;52(7):2398-2405. 42. Chowdhury MI, Munakata T, Koyanagi Y, Arai S, Yamamoto N. Mycoplasma stimulates HIV-1 expression from acutely- and dormantly-infected promonocyte/monoblastoid cell lines. Arch Virol. 1994;139(3-4):431-438. 43. Sasaki Y, Honda M, Makino M, Sasaki T. Mycoplasmas stimulate replication of human immunodeficiency virus type 1 through selective activation of CD4+ T lymphocytes. AIDS Res Hum Retroviruses. 1993;9(8):775-780. 44. Phillips DM, Pearce-Pratt R, Tan X, Zacharopoulos VR. Association of mycoplasma with HIV-1 and HTLV-I in human T lymphocytes. AIDS Res Hum Retroviruses. 1992;8(11):1863-1868. 45. Mavedzenge SN, Van Der Pol B, Weiss HA, et al. The association between Mycoplasma genitalium and HIV-1 acquisition in African women. AIDS. 2012;26(5):617-624.</citation>
+  </reference>
+  <reference>
+    <citation>45. Mavedzenge SN, Van Der Pol B, Weiss HA, et al. The association between Mycoplasma genitalium and HIV-1 acquisition in African women. AIDS. 2012;26(5):617-624. 46. Vandepitte J, Weiss HA, Bukenya J, et al. Association between Mycoplasma genitalium infection and HIV acquisition among female sex workers in Uganda: evidence from a nested case-control study. Sex Transm Infect. 2014;90(7):545-549. 47. Crowell TA, Lawlor J, Lombardi K, et al. Anorectal and Urogenital Mycoplasma genitalium in Nigerian Men Who Have Sex With Men and Transgender Women: Prevalence, Incidence, and Association With HIV. Sex Transm Dis. 2020;47(3):202-206. 48. Rowley J, Vander Hoorn S, Korenromp E, et al. Chlamydia, gonorrhoea, trichomoniasis and syphilis: global prevalence and incidence estimates, 2016. Bull World Health Organ. 2019;97(8):548-562p. 49. Edwards T, Burke P, Smalley H, Hobbs G. Trichomonas vaginalis: Clinical relevance, pathogenicity and diagnosis. Critical reviews in microbiology. 2016;42(3):406-417. 50. Muzny CA. Why Does Trichomonas vaginalis Continue to be a</citation>
+  </reference>
+  <reference>
+    <citation>56. Kuhar DT, Henderson DK, Struble KA, et al. Updated US Public Health Service Guidelines for the Management of Occupational Exposures to Human Immunodeficiency Virus and Recommendations for Postexposure Prophylaxis. Infection Control and Hospital Epidemiology. 2013;34(9):875-892. 57. McAllister J, Read P, McNulty A, Tong WW, Ingersoll A, Carr A. Raltegravir-emtricitabine-tenofovir as HIV nonoccupational post-exposure prophylaxis in men who have sex with men: safety, tolerability and adherence. HIV medicine. 2014;15(1):13-22. 58. Grant RM, Lama JR, Anderson PL, et al. Preexposure chemoprophylaxis for HIV prevention in men who have sex with men. The New England journal of medicine. 2010;363(27):2587-2599. 59. Marrazzo JM, Ramjee G, Richardson BA, et al. Tenofovir-based preexposure prophylaxis for HIV infection among African women. The New England journal of medicine. 2015;372(6):509-518. 60. UNAIDS. ENDING AIDS: Progress Towards the 90-90-90 Targets. 2017. 61. Mugo NR, Ngure K, Kiragu M, Irungu E, Kilonzo N. The preexposure prophylaxis revolution; from clinical trials to programmatic implementation. Curr Opin HIV AIDS. 2016;11(1):80-86. 62. UNAIDS. UNAIDS Data 2019. 2019. 63. Haberer JE. Current concepts for PrEP adherence in the PrEP revolution: from clinical trials to routine practice. Curr Opin HIV AIDS. 2016;11(1):10-17. 64. Molina JM, Capitant C, Spire B, et al. On-Demand Preexposure Prophylaxis in Men at High Risk for HIV-1 Infection. The New England journal of medicine. 2015;373(23):2237-2246. 65. Mayer KH, Molina JM, Thompson MA, et al. Emtricitabine and tenofovir alafenamide vs emtricitabine and tenofovir disoproxil fumarate for HIV pre-exposure prophylaxis (DISCOVER): primary results from a randomised, double-blind, multicentre, active-controlled, phase 3, non-inferiority trial. Lancet (London, England). 2020;396(10246):239-254.</citation>
+  </reference>
+  <reference>
+    <citation>66. Cohen MS, Chen YQ, McCauley M, et al. Antiretroviral Therapy for the Prevention of HIV-1 Transmission. The New England journal of medicine. 2016;375(9):830-839. 67. Tubiana R, Le Chenadec J, Rouzioux C, et al. Factors associated with mother-to-child transmission of HIV-1 despite a maternal viral load &lt;500 copies/ml at delivery: a case-control study nested in the French perinatal cohort (EPF-ANRS CO1). Clin Infect Dis. 2010;50(4):585-596. 68. Leyre L, Kroon E, Vandergeeten C, et al. Abundant HIV-infected cells in blood and tissues are rapidly cleared upon ART initiation during acute HIV infection. Sci Transl Med. 2020;12(533). 69. Ananworanich J, Vandergeeten C, Chomchey N, et al. Early ART Intervention Restricts the Seeding of the HIV Reservoir in Long-lived Central Memory CD4 T Cells. 20th Conference on Retroviruses and Opportunistic Infections; 2013; Atlanta, GA. 70. Archin NM, Vaidya NK, Kuruc JD, et al. Immediate antiviral therapy appears to restrict resting CD4+ cell HIV-1 infection without accelerating the decay of latent infection. Proceedings of the National Academy of Sciences of the United States of America. 2012;109(24):9523-9528. 71. Cheret A, Bacchus-Souffan C, Avettand-Fenoel V, et al. Combined ART started during acute HIV infection protects central memory CD4+ T cells and can induce remission. J Antimicrob Chemother. 2015. 72. Saez-Cirion A, Bacchus C, Hocqueloux L, et al. Post-treatment HIV-1 controllers with a long-term virological remission after the interruption of early initiated antiretroviral therapy ANRS VISCONTI Study. PLoS pathogens. 2013;9(3):e1003211. 73. Gianella S, von Wyl V, Fischer M, et al. Effect of early antiretroviral therapy during primary HIV-1 infection on cell-associated HIV-1 DNA and plasma HIV-1 RNA. Antiviral therapy. 2011;16(4):535-545. 74. Goujard C, Girault I, Rouzioux C, et al. HIV-1 control after transient antiretroviral treatment initiated in primary infection: role of patient characteristics and effect of therapy. Antiviral therapy. 2012;17(6):1001-1009. 75. Grijsen ML, Steingrover R, Wit FW, et al. No treatment versus 24 or 60 weeks of antiretroviral treatment during primary HIV infection: the randomized Primo-SHM trial. PLoS medicine. 2012;9(3):e1001196. 76. Lodi S, Meyer L, Kelleher AD, et al. Immunovirologic control 24 months after interruption of antiretroviral therapy initiated close to HIV seroconversion. Archives of internal medicine. 2012;172(16):1252-1255. 77. Katusiime MG, Halvas EK, Wright I, et al. Intact HIV Proviruses Persist in Children Seven to Nine Years after Initiation of Antiretroviral Therapy in the First Year of Life. J Virol. 2020;94(4). 78. Saag MS, Benson CA, Gandhi RT, et al. Antiretroviral Drugs for Treatment and Prevention of HIV Infection in Adults: 2018 Recommendations of the International Antiviral Society-USA Panel. Jama. 2018;320(4):379-396. 79. Panel on Antiretroviral Guidelines for Adults and Adolescents. Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents with HIV. http://aidsinfo.nih.gov/contentfiles/lvguidelines/AdultandAdolescentGL.pdf. Accessed 9 March, 2020. 80. World Health Organization. Consolidated guidelines on the use of antiretroviral drugs for treating and preventing HIV infection: Recommendations for a public health approach - Second edition. Geneva, Switzerland: World Health Organization; June 2016. 81. Muccini C, Crowell TA, Kroon E, et al. Leveraging early HIV diagnosis and treatment in Thailand to conduct HIV cure research. AIDS Res Ther. 2019;16(1):25. 82. Clutterbuck DJ, Flowers P, Barber T, et al. UK national guideline on safer sex advice. Int J STD AIDS. 2012;23(6):381-388. 83. U. S. Preventive Services Task Force, Owens DK, Davidson KW, et al. Screening for HIV Infection: US Preventive Services Task Force Recommendation Statement. JAMA. 2019;321(23):2326-2336. 84. DiNenno EA, Prejean J, Irwin K, et al. Recommendations for HIV Screening of Gay, Bisexual, and Other Men Who Have Sex with Men - United States, 2017. MMWR Morb Mortal Wkly Rep. 2017;66(31):830-832. 85. Branson BM, Handsfield HH, Lampe MA, et al. Revised recommendations for HIV testing of adults, adolescents, and pregnant women in health-care settings. MMWR Recomm Rep. 2006;55(RR-14):1-17; quiz CE11-14.</citation>
+  </reference>
+  <reference>
+    <citation>86. U. S. Preventive Services Task Force, Owens DK, Davidson KW, et al. Preexposure Prophylaxis for the Prevention of HIV Infection: US Preventive Services Task Force Recommendation Statement. JAMA. 2019;321(22):2203-2213. 87. Lynch RM, Boritz E, Coates EE, et al. Virologic effects of broadly neutralizing antibody VRC01 administration during chronic HIV-1 infection. Sci Transl Med. 2015;7(319):319ra206. 88. Caskey M, Klein F, Lorenzi JC, et al. Viraemia suppressed in HIV-1-infected humans by broadly neutralizing antibody 3BNC117. Nature. 2015;522(7557):487-491. 89. Chun TW, Murray D, Justement JS, et al. Broadly neutralizing antibodies suppress HIV in the persistent viral reservoir. Proceedings of the National Academy of Sciences of the United States of America. 2014;111(36):13151-13156. 90. Nishimura Y, Gautam R, Chun TW, et al. Early antibody therapy can induce long-lasting immunity to SHIV. Nature. 2017;543(7646):559-563. 91. Jaworski JP, Cahn P. Preventive and therapeutic features of broadly neutralising monoclonal antibodies against HIV-1. Lancet HIV. 2018;5(12):e723-e731. 92. Mahomed S, Garrett N, Baxter C, Abdool Karim Q, Abdool Karim SS. Clinical trials of broadly neutralizing monoclonal antibodies for HIV Prevention: A Review. J Infect Dis. 2020. 93. Caskey M, Klein F, Nussenzweig MC. Broadly neutralizing anti-HIV-1 monoclonal antibodies in the clinic. Nat Med. 2019;25(4):547-553. 94. Buchbinder SP, Mehrotra DV, Duerr A, et al. Efficacy assessment of a cell-mediated immunity HIV-1 vaccine (the Step Study): a double-blind, randomised, placebo-controlled, test-of-concept trial. Lancet. 2008;372(9653):1881-1893. 95. Duerr A, Wasserheit JN, Corey L. HIV vaccines: new frontiers in vaccine development. Clin Infect Dis. 2006;43(4):500-511. 96. Rerks-Ngarm S, Pitisuttithum P, Nitayaphan S, et al. Vaccination with ALVAC and AIDSVAX to prevent HIV-1 infection in Thailand. N Engl J Med. 2009;361(23):2209-2220. 97. Harmon TM, Fisher KA, McGlynn MG, et al. Exploring the Potential Health Impact and Cost-Effectiveness of AIDS Vaccine within a Comprehensive HIV/AIDS Response in Low- and Middle-Income Countries. PLOS ONE. 2016;11(1):e0146387. 98. Stover J, Bollinger L, Hecht R, Williams C, Roca E. The impact of an AIDS vaccine in developing countries: a new model and initial results. Health Aff (Millwood). 2007;26(4):1147-1158. 99. Petousis-Harris H, Paynter J, Morgan J, et al. Effectiveness of a group B outer membrane vesicle meningococcal vaccine against gonorrhoea in New Zealand: a retrospective case-control study. Lancet (London, England). 2017;390(10102):1603-1610. 100. Office TWH. National Security Strategy 2010; https://obamawhitehouse.archives.gov/sites/default/files/rss_viewer/national_security_strategy.pdf.</citation>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 7, 2021</study_first_posted>
+  <last_update_submitted>November 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 7, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>STI</keyword>
+  <keyword>Observational</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infections</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

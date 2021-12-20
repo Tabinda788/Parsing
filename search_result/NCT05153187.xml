@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="612">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05153187</url>
+  </required_header>
+  <id_info>
+    <org_study_id>A5481115</org_study_id>
+    <nct_id>NCT05153187</nct_id>
+  </id_info>
+  <brief_title>Real-world Treatment Patterns of Endocrine Based Therapy Among Patients With Hormone Receptor-positive/Human Epidermal Growth Factor Receptor-2-negative (HR+/HER2-) Advanced Breast Cancer: An Analysis of Administrative Claims Data in Japan</brief_title>
+  <official_title>Descriptive Analyses of Clinical Characteristics and Treatment Patterns of Breast Cancer Patients Initiating Palbociclib (Ibrance(Registered)) Treatment in Japan by Using MDV Database</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pfizer</source>
+  <brief_summary>
+    <textblock>
+      This is a retrospective observational study focusing on patients diagnosed with advanced&#xD;
+      breast cancer(ABC) in Japan using de-identified claim data from Medical Data Vision (MDV)&#xD;
+      database.&#xD;
+&#xD;
+      The primary objective of this study is to describe patient demographics, treatment patterns&#xD;
+      and treatment duration of palbociclib, and subsequent treatment patterns and treatment&#xD;
+      duration after palbociclib-based therapy among ABC patients in Japan The secondary objective&#xD;
+      of the study is to describe patient demographics, treatment patterns of ABC patients and&#xD;
+      treatment duration of endocrine therapy, and subsequent treatment patterns and treatment&#xD;
+      duration after endocrine therapy among ABC patients in Japan.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 31, 2019</start_date>
+  <completion_date type="Anticipated">November 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Demographic and clinical characteristics of ABC patients at the initiation of treatment with palbociclib</measure>
+    <time_frame>Date of first prescription to the date of last patient record or to the end of data collection (Oct 2022)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment patterns of palbociclib, including line of therapy and type of endocrine therapy combined with palbociclib, and initial dosage</measure>
+    <time_frame>Date of first prescription to the date of last patient record or to the end of data collection (Oct 2022)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to treatment failure (TTF) of palbociclib in combination with endocrine therapy by the line of therapy</measure>
+    <time_frame>Date of first prescription to the date of last patient record or to the end of data collection (Oct 2022)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment patterns of subsequent therapy after end of palbociclib treatment, including line of therapy and type of treatment</measure>
+    <time_frame>Date of first prescription to the date of last patient record or to the end of data collection (Oct 2022)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>TTF of subsequent therapy after end of palbociclib treatment</measure>
+    <time_frame>Date of first prescription to the date of last patient record or to the end of data collection (Oct 2022)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in treatment pattern before and after the launch of palbociclib, the revision of clinical guideline in Japan</measure>
+    <time_frame>Date of first prescription to the date of last patient record or to the end of data collection (Oct 2022)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Use of antibiotics and/or granulocyte-colony stimulating factor (G-CSF) during treatment with palbociclib</measure>
+    <time_frame>Date of first prescription to the date of last patient record or to the end of data collection (Oct 2022)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of blood tests during treatment with palbociclib</measure>
+    <time_frame>Date of first prescription to the date of last patient record or to the end of data collection (Oct 2022)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Demographic and clinical characteristics of ABC patients at the initiation of treatment for ABC</measure>
+    <time_frame>Date of first prescription to the date of last patient record or to the end of data collection (Oct 2022)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment patterns of each line of therapy for ABC patients</measure>
+    <time_frame>Date of first prescription to the date of last patient record or to the end of data collection (Oct 2022)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TTF of endocrine therapy for ABC patients</measure>
+    <time_frame>Date of first prescription to the date of last patient record or to the end of data collection (Oct 2022)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment patterns of subsequent therapy after end of endocrine therapy for ABC patients, including line of therapy and type of treatment</measure>
+    <time_frame>Date of first prescription to the date of last patient record or to the end of data collection (Oct 2022)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TTF of subsequent therapy after end of endocrine therapy for ABC patients</measure>
+    <time_frame>Date of first prescription to the date of last patient record or to the end of data collection (Oct 2022)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Use of antibiotics and/or G-CSF during treatment with endocrine therapy for ABC</measure>
+    <time_frame>Date of first prescription to the date of last patient record or to the end of data collection (Oct 2022)</time_frame>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">1</enrollment>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Patients with HR+/HER2- advanced breast cancer</arm_group_label>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Japanese patients with diagnosis of breast cancer, diagnosis of secondary malignant&#xD;
+        neoplasm and who received endocrine therapy drugs and who didn't receive anti-HER2 therapy&#xD;
+        drugs (defined as HR+/HER2- breast cancer) and whose data were registered into the MDV&#xD;
+        database from April 2008&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of breast cancer based on International statistical classification of&#xD;
+             diseases and related health problems 10th revision (International Statistical&#xD;
+             Classification of Diseases and Related Health Problems [ICD-10]) (C50.xx)&#xD;
+&#xD;
+          -  Received at least one prescription of endocrine therapy drugs&#xD;
+&#xD;
+          -  Diagnosis of secondary malignant neoplasm based on ICD-10 (C77.x, C78.x, C79.x )&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        -Received a prescription of anti-HER2 therapy (Trastuzumab, Trastuzumab emtansine,&#xD;
+        Pertuzumab, and Lapatinib tosilate hydrate)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <phone>1-800-718-1021</phone>
+    <email>ClinicalTrials.gov_Inquiries@pfizer.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Pfizer Japan Inc.</name>
+      <address>
+        <city>Tokyo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Japan</country>
+  </location_countries>
+  <link>
+    <url>https://pmiform.com/clinical-trial-info-request?StudyID=A5481115</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 10, 2021</study_first_posted>
+  <last_update_submitted>November 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Advanced breast cancer</keyword>
+  <keyword>Hormone receptor positive (HR+)</keyword>
+  <keyword>Human Epidermal Growth Factor Receptor 2 Negative (HER2-)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

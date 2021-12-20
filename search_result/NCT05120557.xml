@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3120">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05120557</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ES211</org_study_id>
+    <nct_id>NCT05120557</nct_id>
+  </id_info>
+  <brief_title>Point-of-care Ultrasound Screening and Assessment of Chronic Liver Diseases and NASH</brief_title>
+  <acronym>POCUS-NASH</acronym>
+  <official_title>Evaluation of Diagnostic Performances of a New Point-of-care Ultrasound System for the Detection of Fibrotic NASH and the Assessment of Liver Disease Severity in Patients With Known or Suspected Chronic Liver Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>E-Scopics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>E-Scopics</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main objective of the study is to determine the diagnostic performances of an&#xD;
+      ultraportable diagnostic ultrasound system for the assessment of liver fibrosis severity in&#xD;
+      patients with NASH, and to compare them to other non-invasive tests.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective cross-sectional study that will recruit approximately 1000 patients&#xD;
+      across 30 clinical sites in Europe and the USA.&#xD;
+&#xD;
+      The target recruited population will include adult patients at risk of, or with known chronic&#xD;
+      liver diseases, whether or not screened for inclusion in NASH pharmaceutical trials.&#xD;
+&#xD;
+      After being informed about the study objectives and potential risks, patients who consent to&#xD;
+      participate will undergo an non-invasive external ultrasound exam of their liver using an&#xD;
+      ultraportable diagnostic ultrasound system. The system will derive quantitative information&#xD;
+      related to physical and acoustic properties of the liver tissue, which are known to correlate&#xD;
+      with the severity of chronic diffuse liver diseases such as fibrosis and steatosis.&#xD;
+&#xD;
+      The study will also assess the repeatability, reproducibility and robustness of quantitative&#xD;
+      parameters. Collected data will also enable exploring ultrasound-based liver tissue&#xD;
+      characterization correlated to NASH-specific histological lesions such as intra-hepatic&#xD;
+      inflammation and hepatic cell ballooning.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2022</start_date>
+  <completion_date type="Anticipated">January 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>All patients recruited will receive routine care for liver assessment followed by an exam using the device subject of the research.</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Elastography diagnostic performance</measure>
+    <time_frame>At study completion, 1 year</time_frame>
+    <description>Differences between areas under ROC curves for the ES1 liver stiffness measurement, used as a diagnostic measure of liver fibrosis severity, and other methods, in NASH patients.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Diagnostic performance estimates</measure>
+    <time_frame>At study completion, 1 year</time_frame>
+    <description>Estimates of diagnostic performances at a defined cutoff, for binary diagnostic objectives (detect ≥ F2, ≥ F3, or F4):&#xD;
+Sensitivity, specificity, and diagnostic accuracy&#xD;
+Positive and negative predictive values</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Liver stiffness robustness indicators</measure>
+    <time_frame>At study completion, 1 year</time_frame>
+    <description>Dispersion and standard deviation of measurements&#xD;
+Intra-class Correlation Coefficients (ICC) and 95% confidence intervals for intra-operator repeatability&#xD;
+Intra-class Correlation Coefficients (ICC) and 95% confidence intervals for inter-operator reproducibility&#xD;
+Intra-subject variance&#xD;
+Intra-operator variance&#xD;
+Standard error on measurements</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Equivalence with other methods</measure>
+    <time_frame>At study completion, 1 year</time_frame>
+    <description>R² correlation coefficient and p-value between ES1 and VCTE liver stiffness measurements&#xD;
+R² correlation coefficient and p-value between ES1 and MRE liver stiffness measurements&#xD;
+Average of quadratic errors between 2 equipment&#xD;
+Concordance Correlation Coefficients (CCC) and 95% confidence intervals</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Exploratory outcome 1: Liver steatosis</measure>
+    <time_frame>At study completion, 1 year</time_frame>
+    <description>R² correlation coefficient and p-value between ES1 ultrasound attenuation measurements and MRI PDFF&#xD;
+Concordance Correlation Coefficients (CCC) and 95% confidence intervals, and Bland-Altman graphs between ultrasound attenuation measurements and MRI PDFF&#xD;
+R² correlation coefficient and p-value between ES1 speed of sound measurements and MRI PDFF&#xD;
+Concordance Correlation Coefficients (CCC) and 95% confidence intervals, and Bland-Altman graphs between speed of sound measurements and MRI PDFF</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory outcome 2: Intra-hepatic inflammation and/or hepatocytes ballooning</measure>
+    <time_frame>At study completion, 1 year</time_frame>
+    <description>Correlation coefficients between ES1 parameters or combinations of parameters and histological scoring for lobular inflammation (A0 to A3) and/or ballooning.&#xD;
+If relevant, area under the ROC curve for combinations of ES1 parameters or combinations of parameters used as a diagnostic measures of liver inflammation severity using histological scoring for lobular inflammation (A0 to A3)&#xD;
+If relevant for given binary diagnostic objectives (detect ≥ A1, ≥ A2, or A3), calculate optimal diagnostic cutoffs and estimate diagnostic performances</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory outcome 3: Liver NAS Score</measure>
+    <time_frame>At study completion, 1 year</time_frame>
+    <description>Correlation coefficients between ES1 parameters or combinations of parameters and histological NAS score (NAS 0 to NAS 8).&#xD;
+If relevant, area under the ROC curve for combinations of ES1 parameters or combinations of parameters used as a diagnostic measure of NAFLD-related activity using the histological NAS score (0 to 8)&#xD;
+If relevant, for given binary diagnostic objectives (detect &lt; NAS 3, ≥ NAS 3, ≥ NAS 5), calculate optimal diagnostic cutoffs and estimate diagnostic performances</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Liver Diseases</condition>
+  <condition>Liver Cirrhosis</condition>
+  <condition>NASH - Nonalcoholic Steatohepatitis</condition>
+  <condition>Non-Alcoholic Fatty Liver Disease</condition>
+  <condition>Fibrosis, Liver</condition>
+  <condition>Steatosis of Liver</condition>
+  <arm_group>
+    <arm_group_label>Main arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Main study arm</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Ultrasound liver assessment</intervention_name>
+    <description>The intervention consists in an ultrasound exam performed with the ultrasound medical device subject of the research.</description>
+    <arm_group_label>Main arm</arm_group_label>
+    <other_name>Elastography</other_name>
+    <other_name>Ultrasound attenuation</other_name>
+    <other_name>Sound speed</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Any of the following criteria:&#xD;
+&#xD;
+               -  Patients with known chronic liver diseases referred to liver-specific exams by&#xD;
+                  their referring physician as part of the routine practice, including a VCTE exam,&#xD;
+                  with or without a blood test, a MRI/MRE exam, a liver biopsy,&#xD;
+&#xD;
+               -  Patients screened for fibrotic NASH in the context of NASH pharmaceutical trials,&#xD;
+                  for which a data sharing agreement has been signed between E-Scopics and the&#xD;
+                  pharmaceutical trial promoter,&#xD;
+&#xD;
+          -  Patients who consent in written to participate in the Clinical Investigation after&#xD;
+             being orally informed on the objectives and methods of the Clinical Investigation,&#xD;
+&#xD;
+          -  European patients covered by a social security program&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients under 18 years of age or over 80 years of age,&#xD;
+&#xD;
+          -  Patients with active implants such as pacemakers, defibrillators, pumps, etc.&#xD;
+&#xD;
+          -  Patients presenting wounds at the location where the ES1 probe shall be placed on&#xD;
+             patients' skin,&#xD;
+&#xD;
+          -  Adult patients under social tutorship, or unable to provide informed consent when not&#xD;
+             subject to tutorship measures,&#xD;
+&#xD;
+          -  Pregnant and breastfeeding women,&#xD;
+&#xD;
+          -  People deprived of their freedom rights&#xD;
+&#xD;
+          -  People who have been hospitalized without giving informed consent or under emergency&#xD;
+             situation,&#xD;
+&#xD;
+          -  People admitted in a social or sanitary institution for other reasons than the&#xD;
+             Clinical Investigation,&#xD;
+&#xD;
+          -  Patients included in another research study that could interfere with the present&#xD;
+             Clinical Investigation.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 15, 2021</study_first_posted>
+  <last_update_submitted>November 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Elastography</keyword>
+  <keyword>Ultrasound attenuation</keyword>
+  <keyword>Sound speed</keyword>
+  <keyword>Ultrasound</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Liver Diseases</mesh_term>
+    <mesh_term>Fatty Liver</mesh_term>
+    <mesh_term>Liver Cirrhosis</mesh_term>
+    <mesh_term>Non-alcoholic Fatty Liver Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

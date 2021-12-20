@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7743">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05060445</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UW/FP/IC/PSICOLOGIA/2021/001</org_study_id>
+    <nct_id>NCT05060445</nct_id>
+  </id_info>
+  <brief_title>Mental Health in Latin American Population During the Covid-19 Pandemic. A Cross-country Study.</brief_title>
+  <official_title>Mental Health in Latin American Population During the Covid-19 Pandemic. A Cross-country Study.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universidad Westhill, Facultad de Psicología</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Universidad Westhill, Facultad de Psicología</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A study will be conducted with a quantitative approach with correlational scope,&#xD;
+      observational analytical study, prospective cross-country study. The objective is to detect&#xD;
+      the prevalence of anxious and depressive symptomatology and substance use during Covid-19&#xD;
+      Pandemic in the general Spanish-speaking Latin American population aged 18 to 65 years.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Sampling:&#xD;
+&#xD;
+      A non-experimental sampling by volunteer subjects is performed, since the subjects will come&#xD;
+      to the study by a call on social networks.&#xD;
+&#xD;
+      Data management plan:&#xD;
+&#xD;
+      Data dictionary design&#xD;
+&#xD;
+      Training will be provided and data dictionary will be developed describing the properties of&#xD;
+      variables such as data type (e.g. string and number), variable size, data encoding, and&#xD;
+      constraints and validations attached to a given variable (Annex).&#xD;
+&#xD;
+      Data collection&#xD;
+&#xD;
+      The research data will be obtained through the Survey Monkey application, which has &quot;SOC 2&quot;&#xD;
+      accreditation that meet best practices and security, as they are transmitted over a secure&#xD;
+      HTTPS connection and that user logins were protected through TLS. Furthermore, data is&#xD;
+      encrypted using industry and research standard encryption algorithms.&#xD;
+&#xD;
+      Data Retention&#xD;
+&#xD;
+      The database will be generated in Excel for further analysis in R studio, which will be kept&#xD;
+      at the University on an encrypted USB stick for data security and the password to this stick&#xD;
+      will only be held by the project manager.&#xD;
+&#xD;
+      Standards that provide data integrity, accuracy and coherence&#xD;
+&#xD;
+      The International Classification of Diseases (ICD- 11) will be used to present data&#xD;
+      consistency, accuracy and completeness through the optimal definition of mental health&#xD;
+      entities. On the other hand, the standards for data use recommended by The Global Health&#xD;
+      Training Centre will be used:&#xD;
+&#xD;
+      (a) The column heading (variable) is not changed between data. b) The same terminology is&#xD;
+      maintained for all variables. c) There is a consistent format and standard definition for&#xD;
+      subject identification.&#xD;
+&#xD;
+      d) The name of the datasets is always the same. e) Name of the form / CRF section, e.g.,&#xD;
+      demographic data f) A list of data objects (names and definitions) g) Description of the data&#xD;
+      element in natural language h) Detailed properties of the data elements (data type, size,&#xD;
+      nullability, optionality, indexes) i) Response options, e.g., check box, radio button, text&#xD;
+      j) Validation rule(s), e.g., required field, range checking k) Relationship of data elements&#xD;
+      to other data elements. l) Details about the privacy and security restrictions that should be&#xD;
+      associated with the element, e.g., Protected Health Information status.&#xD;
+&#xD;
+      Scenario:&#xD;
+&#xD;
+      The evaluation will be carried out in the application called Survey Monkey and will be&#xD;
+      distributed through social networks.&#xD;
+&#xD;
+      Blinding procedure of the study:&#xD;
+&#xD;
+      A double-blind study will be conducted based on the recommendations of Parker &amp; Berman&#xD;
+      (2014), which mention that two stages will be carried out for this purpose:&#xD;
+&#xD;
+        1. There will be a psychologist who will apply the elimination criteria to the initial&#xD;
+           sample and will send it to the system for the encryption of a usb memory stick that the&#xD;
+           data analyst will receive.&#xD;
+&#xD;
+        2. There will be a psychologist who will participate in the abstraction and analysis of the&#xD;
+           data to be used, who will send the collection data to the methodologists who will&#xD;
+           interpret them with the data dictionary.&#xD;
+&#xD;
+      Methodological guidelines for reporting the study:&#xD;
+&#xD;
+      The guide to improve the quality of methodological reporting of cross-sectional online&#xD;
+      studies called CHERRIE will be used.&#xD;
+&#xD;
+      Sample size:&#xD;
+&#xD;
+      The infinite population formula for qualitative variables will be used, since we will be&#xD;
+      working with ordinal variables. In addition to the fact that the total number of observation&#xD;
+      units is unknown or when the population is greater than 100,000.&#xD;
+&#xD;
+      The sample size for 100,000 persons should be 384 persons per country, so that 95% of the&#xD;
+      time the data to be measured is within the ±5% interval with respect to the data observed in&#xD;
+      the evaluation.&#xD;
+&#xD;
+      Data analysis:&#xD;
+&#xD;
+      Descriptive statistics will be used to analyze the central tendency frequencies of the&#xD;
+      participants' characteristics. Data homogeneity and sample distribution analyses will be&#xD;
+      applied to decide whether to apply parametric or nonparametric statistics for related&#xD;
+      samples.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 22, 2021</start_date>
+  <completion_date type="Anticipated">April 20, 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 20, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patient Health Questionnaire-9 (PHQ-9)</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>It is a cross-culturally validated instrument and its confirmatory factor analysis suggested that the one-factor structure was a reasonably good fit. The internal consistency of the PHQ-9 was good (Cronbach's alpha&gt; = 0.8) overall and for subgroups defined by gender, literacy, and age. The PHQ-9 demonstrated good predictive validity: participants with a PHQ-9 diagnosis of depression had lower quality of life scores on the overall WHOQOL-BREF scale and on each of its domains. Using the results of the PHQ-9 as a gold standard, the optimal cut-off score of 10.&#xD;
+Definition of the variable:&#xD;
+A depressive episode is characterized by a period of depressed mood or decreased interest in activities occurring most of the day, almost every day for a period lasting at least two weeks accompanied by other symptoms such as difficulty concentrating, feelings of worthlessness or excessive or inappropriate guilt.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Generalized Anxiety Disorder scale (GAD-7):</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>The GAD-7 consists of the 7 items with the highest correlation with the total score of the 13-item scale (r = 0.75-0.85). It is an instrument with cross-cultural validation and analysis of receiver operating characteristics with this set of items showed an area under the curve (0.906) and scales with as much as the full 13-item set. These 7 items also had the highest rank correlations in the development sample (n = 1184) and the 2 replication samples (n = 965 and n = 591). The 2 core criteria (A and B) of the DSM-IV definition of GAD are captured by the first 3 items of the scale.26 Of note, 6 of the 7 items had the highest divergent validity (ie, the largest difference between item-total scale score correlation and item-PHQ-8 depression score correlation [Δ r = 0.16-0.21]). Because each of the 7 items is scored from 0 to 3, the GAD-7 scale score ranges from 0 to 21.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Alcohol, Smoking and Substance Involvement Screening Test (ASSIST)</measure>
+    <time_frame>3 months</time_frame>
+    <description>Validation and cultural adaptation was carried out in university students through a non-experimental ex post facto study with 1,176 undergraduate students, mostly women (70.1%) aged 18 to 23 years (89.5%) and unmarried (87.5%). Concurrent validity was obtained by factor analysis and reliability and correlation tests between the alcohol subscale and AUDIT, the Tobacco subscale and Fargerström's Tes, and the marijuana subscale and the DAST-20. The results found adequate reliability coefficients for the ASSIST subscales for tobacco (alpha = 0.83), alcohol (alpha = 0.76) and marijuana (alpha = 0.73). Regarding interscale correlation, significant correlations were only found with the AUDIT (r = 0.71) and the alcohol subscale.</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">384</enrollment>
+  <condition>Depression</condition>
+  <condition>Anxiety</condition>
+  <condition>Substance-Related Disorders</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Población general latinoamericana hispanohablante de 18 a 65 años.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Living in Latin America during the Covid-19 pandemic&#xD;
+&#xD;
+          -  Be between 18 and 65 years of age&#xD;
+&#xD;
+          -  Be able to read and write&#xD;
+&#xD;
+          -  Be a native Spanish speaker&#xD;
+&#xD;
+          -  Agree to voluntarily participate in the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Persons receiving psychological or psychiatric treatment during the study period.&#xD;
+&#xD;
+          -  Persons who have suffered the loss of a family member in at least 1 month prior to the&#xD;
+             Covid-19 evaluation.&#xD;
+&#xD;
+          -  Persons who have migrated to another Latin American country in at least 6 months.&#xD;
+&#xD;
+          -  Persons who have been hospitalized in the last month.&#xD;
+&#xD;
+          -  Persons who reside in Latin America, but are not natives.&#xD;
+&#xD;
+          -  Have a confirmed diagnosis of Covid-19 within the last 2 weeks.&#xD;
+&#xD;
+          -  Persons who are minors or over 65 years of age&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Alejandro Hernández Posadas, Master's degree</last_name>
+    <phone>+52 5588517000</phone>
+    <phone_ext>7213</phone_ext>
+    <email>psicposadasalejandro@outlook.es</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sergio Elorriaga Santiago, PHD</last_name>
+    <phone>+52 5588517000</phone>
+    <phone_ext>7038</phone_ext>
+    <email>sergio.elorriaga@uw.edu.mx</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Westhill University</name>
+      <address>
+        <city>Ciudad de México</city>
+        <zip>010</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alejandro Hernández Posadas, Master´s Degree</last_name>
+      <phone>5561279736</phone>
+      <email>psicposadasalejandro@outlook.es</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 29, 2021</study_first_posted>
+  <last_update_submitted>November 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universidad Westhill, Facultad de Psicología</investigator_affiliation>
+    <investigator_full_name>Alejandro Hernández Posadas</investigator_full_name>
+    <investigator_title>Full-time teacher and researcher.</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Substance-Related Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

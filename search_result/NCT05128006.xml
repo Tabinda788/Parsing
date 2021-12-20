@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2547">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05128006</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IIR 21-103</org_study_id>
+    <secondary_id>HX003473</secondary_id>
+    <nct_id>NCT05128006</nct_id>
+  </id_info>
+  <brief_title>Direct-to-patient Teledermatology and Computer-assisted Diagnosis</brief_title>
+  <official_title>Improving Dermatology Access by Direct-to-Patient Teledermatology and Computer-Assisted Diagnosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>VA Office of Research and Development</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>VA Boston Healthcare System</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Durham VA Health Care System</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Providence VA Medical Center</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>VA Office of Research and Development</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will examine access to dermatology care. The operational partner will implement a&#xD;
+      direct-to-new patient teledermatology clinical care pathway while the research will study the&#xD;
+      effects of that implementation, use data associated with deployment to develop and test an&#xD;
+      Artificial Intelligence system, and understand key stakeholders' attitudes regarding and&#xD;
+      readiness for remote dermatology care.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      VA is uniquely positioned to develop and study direct-to-patient teledermatology in parallel&#xD;
+      with computer vision for skin disease. The following aims will assess the performance of&#xD;
+      these emerging patient-facing dermatology innovations and assess their ability to improve&#xD;
+      access to quality skin care VA-wide.&#xD;
+&#xD;
+        1. Assess the impact of direct-to-patient teledermatology on access and health system&#xD;
+           utilization. In collaboration with the VA operational partner, Office of Connected Care,&#xD;
+           the My VA Images app will be deployed to three VA facilities where the app will be&#xD;
+           introduced as an option to refer eligible new patients for dermatology consultation.&#xD;
+           Multiple access metrics, including time to consult completion and geographic distance&#xD;
+           traveled. will be measured in exposed patients and compared with patients referred to&#xD;
+           usual in-person and consultative teledermatology pathways. Facility-centric measures of&#xD;
+           access such as clinic appointment wait times and in-person dermatology clinic and&#xD;
+           community care utilization will also be measured. To better understand end-user&#xD;
+           experiences, the investigators will survey patients and staff at each study site to&#xD;
+           evaluate their satisfaction with My VA Images as well as the overall process.&#xD;
+&#xD;
+        2. Assess, refine and augment computer-assisted evaluation of patient-submitted images. An&#xD;
+           artificial intelligence-powered computer vision model, trained and validated on&#xD;
+           clinic-captured images of melanoma and nevi, will be tested and refined on&#xD;
+           patient-submitted teledermatology images from the My VA images app. The investigators&#xD;
+           will also extend the computer vision model by using all patient submissions to train and&#xD;
+           validate the model on a wider variety of skin diagnoses. Patient-submitted&#xD;
+           teledermatology images at study sites will be prospectively evaluated by the&#xD;
+           investigators' own computer vision model as well as by a commercial system currently&#xD;
+           available to VA clinicians and patients, and results will be compared with benchmark&#xD;
+           diagnoses to measure concordance across a range of diagnostic categories.&#xD;
+&#xD;
+        3. Assess readiness of VA and Veterans' acceptance to implement direct-to-patient care. The&#xD;
+           investigators will survey Veterans and key VA leadership and staff at three selected VA&#xD;
+           facilities, supplemented by interviews of key VA stakeholders, to understand patients'&#xD;
+           and organizational readiness, including facilitators and barriers, for transitioning to&#xD;
+           patient-facing technologies in general, and direct-to-patient dermatologic care in&#xD;
+           particular. National Veteran surveys, and VA Mobile Health user satisfaction data will&#xD;
+           help place local observations in perspective. Implementation and sustainability of the&#xD;
+           patient-facing teledermatology app technology will also be measured.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 6, 2021</start_date>
+  <completion_date type="Anticipated">September 30, 2026</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2025</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>New patient in-person dermatology visits</measure>
+    <time_frame>4 years</time_frame>
+    <description>Proportion of in-person dermatology visits that are for new dermatology patients at facility level</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Consult completion time</measure>
+    <time_frame>4 years</time_frame>
+    <description>Total time in days from consult request date to consult completion date, excluding discontinued consults.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Appointment completion time</measure>
+    <time_frame>4 years</time_frame>
+    <description>Total time in days from appointment create date to appointment completed date following (in-person groups).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Travel distance for VA care</measure>
+    <time_frame>4 years</time_frame>
+    <description>Average driving distance from the centroid of the patient's residential zip code to physical location of VA dermatology care. Distances for MVAI cases are defined as zero.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Third next available dermatology clinic appt completion time</measure>
+    <time_frame>4 years</time_frame>
+    <description>Total time in days from appointment create date to third next available clinic appointment date. A forward-looking measure of access. While not as reliable as consult completion time, it is frequently used in VA as a practical forward-looking measure of access.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>New Patient Teledermatology encounters</measure>
+    <time_frame>4 years</time_frame>
+    <description>New TD visits as fraction of total encounters at each facility reflecting degree of TD integration.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Organizational Readiness to implement mobile teledermatology for direct new patient care</measure>
+    <time_frame>4 years</time_frame>
+    <description>Using the Organizational Readiness for Implementing Change survey the investigators will attain an overall average score by facility and a score for the 3 facilities in the study combined to indicate organizational readiness to implement a new patient mobile teledermatology. The score is derived from a Likert response scale from 1 to 5. Higher score denotes higher organizational readiness.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Readiness of Veterans to use mobile teledermatology for direct new patient care</measure>
+    <time_frame>4 years</time_frame>
+    <description>The investigators will assess readiness of Veterans to use mobile teledermatology for a new patient visit with a new survey. The investigators will use a 5 point scale, the higher score the greater readiness.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient Satisfaction of different types of dermatologic care</measure>
+    <time_frame>4 years</time_frame>
+    <description>Assessment of satisfaction of dermatologic care. A new survey was created with questions regarding ease of care and barriers, for example. The investigators will use a 5-point scale, the higher the score the greater the satisfaction.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Readiness of Veterans to use Artificial Intelligence for dermatologic care</measure>
+    <time_frame>4 years</time_frame>
+    <description>The investigators will assess readiness of Veterans to use Artificial Intelligence for dermatologic care with a new survey. The investigators will use a 5 point scale, the higher score the greater readiness.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Scheduled compared to clinically indicated appointment date</measure>
+    <time_frame>4 years</time_frame>
+    <description>Patient X has a scheduled appointment for x date and clinically indicated date appt was Y so X-Y=Z days. Captures availability in contrast to clinical capacity or clinic booking patterns.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Whether patient had a no-show event for an intended encounter</measure>
+    <time_frame>4 years</time_frame>
+    <description>Yes/No - whether patient had a no-show event for an intended encounter. For MVAI No Show in CDW is an absence of a 304 stop code encounter by the Provider indicated date; in VA Mobile health data, no show equates to an incomplete request by end-date, which should match CDW's provider indicated date.</description>
+  </secondary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">63200</enrollment>
+  <condition>New Patient Use of Teledermatology Mobile App</condition>
+  <arm_group>
+    <arm_group_label>In-person new VA dermatology patients</arm_group_label>
+    <description>In-person dermatology patients that are new patients at three facilities</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>New patient consultative Teledermatology users</arm_group_label>
+    <description>New patient consultative Teledermatology users at three facilities</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>New patient Mobile teledermatology users</arm_group_label>
+    <description>New patient Mobile teledermatology users at three facilities</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>In-person new patient in Community Care</arm_group_label>
+    <description>In-person new patient in Community Care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>New patient teledermatology visit</intervention_name>
+    <description>new patient teledermatology visits</description>
+    <arm_group_label>New patient Mobile teledermatology users</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients referred as new patients to dermatology at sites in study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  New patient referrals to dermatology at San Francisco, Decatur, and Aurora from&#xD;
+             2021-2025&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who are not dermatology patients&#xD;
+&#xD;
+          -  Dermatology patients who are not seen at San Francisco, Decatur, and Aurora&#xD;
+&#xD;
+          -  Dermatology patients at San Francisco, Decatur, and Aurora who have visits only before&#xD;
+             2021 or after 2025&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dennis H. Oh, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>San Francisco VA Medical Center, San Francisco, CA</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dennis H Oh, MD PhD</last_name>
+    <phone>(415) 750-2091</phone>
+    <email>Dennis.Oh@va.gov</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sara B Peracca, PhD MPH MS</last_name>
+    <phone>(415) 221-4810</phone>
+    <phone_ext>23797</phone_ext>
+    <email>sara.peracca@va.gov</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>San Francisco VA Medical Center, San Francisco, CA</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Dennis H Oh, MD PhD</last_name>
+      <phone>415-750-2091</phone>
+      <email>Dennis.Oh@va.gov</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sara B Peracca, PhD MPH MS</last_name>
+      <phone>(415) 221-4810</phone>
+      <phone_ext>23797</phone_ext>
+      <email>sara.peracca@va.gov</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Dennis H. Oh, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rocky Mountain Regional VA Medical Center, Aurora, CO</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Robert Dellavalle</last_name>
+      <email>Robert.Dellavalle@va.gov</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sara Peracca</last_name>
+      <email>sara.peracca@va.gov</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Atlanta VA Medical and Rehab Center, Decatur, GA</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Howa Yeung</last_name>
+      <email>Howa.Yeung2@va.gov</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sara Peracca</last_name>
+      <email>sara.peracca@va.gov</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 19, 2021</study_first_posted>
+  <last_update_submitted>November 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>teledermatology</keyword>
+  <keyword>ehealth</keyword>
+  <keyword>mobile health</keyword>
+  <keyword>telemedicine</keyword>
+  <keyword>artificial intelligence</keyword>
+  <keyword>telehealth</keyword>
+  <keyword>access</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

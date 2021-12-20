@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3737">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05112536</url>
+  </required_header>
+  <id_info>
+    <org_study_id>G1T28-212</org_study_id>
+    <nct_id>NCT05112536</nct_id>
+  </id_info>
+  <brief_title>Trilaciclib, a CDK4/6 Inhibitor, in Patients With Early-Stage Triple Negative Breast Cancer</brief_title>
+  <official_title>A Phase 2, Open-Label, Single-Arm Study of Single-Dose Lead-In and Neoadjuvant Trilaciclib and Chemotherapy in Patients With Early-Stage Triple Negative Breast Cancer (TNBC)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>G1 Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>G1 Therapeutics, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the mechanism of action, as well as the safety and&#xD;
+      efficacy of trilaciclib in combination with standard of care treatment in the neoadjuvant&#xD;
+      setting of early-stage triple negative breast cancer (TNBC).&#xD;
+&#xD;
+      This study will have four phases: 1) Screening Phase, 2) Trilaciclib Lead-In Phase, 3)&#xD;
+      Treatment Phase, and 4) Surgery and Follow-Up Phase. After a screening phase of up to 21 day,&#xD;
+      each participant will receive trilaciclib single-dose monotherapy during the lead-in phase,&#xD;
+      followed by a tumor biopsy. During the treatment phase, each participant will receive&#xD;
+      trilaciclib with standard of care chemotherapy. Immunotherapy may be included during the&#xD;
+      treatment phase, per standard of care. 3-5 weeks following conclusion of the treatment phase,&#xD;
+      each participant will undergo definitive surgery. A 30-day Safety Follow-up Visit will occur&#xD;
+      30 days after the last dose of trilaciclib and an End of Study Visit will occur within 14&#xD;
+      days after definitive surgery.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 19, 2021</start_date>
+  <completion_date type="Anticipated">February 24, 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 20, 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Immune-based mechanism of action</measure>
+    <time_frame>Up to 8 days</time_frame>
+    <description>Evaluated 7 days after a single-dose of trilaciclib, measured by the change in CD8 T cells/regulatory T cells (Treg) ratio in tumor tissue.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pathologic Complete Response (pCR) rate</measure>
+    <time_frame>Up to 26 weeks</time_frame>
+    <description>Rate of pCR using the definition of ypT0/Tis ypN0 (i.e., no invasive residual tumor in breast or nodes; noninvasive breast residuals allowed) as assessed by the local pathologist.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Treatment-Emergent Adverse Events (Safety and Tolerability)</measure>
+    <time_frame>Up to 28 weeks</time_frame>
+    <description>Safety/tolerability as per CTCAE version 5.0</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Intratumoral immune profile characterization following trilaciclib</measure>
+    <time_frame>Up to 26 weeks</time_frame>
+    <description>Characterization of molecular and immune changes based on CD8+ T cell and Treg infiltration, quantified by RNA profiling of tumor tissue before study treatment, during study treatment, and at definitive surgery.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Kinetics of the immune response in peripheral blood</measure>
+    <time_frame>Up to 26 weeks</time_frame>
+    <description>Longitudinal immune changes in peripheral blood, measured by frequency of immune subsets and profiling of activation, maturation, and exhaustion status.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Kinetics of T cell function and polyfunctionality</measure>
+    <time_frame>Up to 26 weeks</time_frame>
+    <description>Ex-vivo measurement of cytokine production to determine T cell function and polyfunctionality.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Molecular biomarkers for clinical responsiveness</measure>
+    <time_frame>Up to 26 weeks</time_frame>
+    <description>pCR in patients by gene signatures determined in the tumor at baseline.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>CDK4/6 dependence for clinical responsiveness</measure>
+    <time_frame>Up to 26 weeks</time_frame>
+    <description>pCR in patients by subgroups according to CDK4/6 dependence signatures.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>PD-L1 status and clinical responsiveness</measure>
+    <time_frame>Up to 26 weeks</time_frame>
+    <description>pCR in patients by subgroups according to PD-L1 status, as measured by IHC.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Immune response and clinical responsiveness</measure>
+    <time_frame>Up to 26 weeks</time_frame>
+    <description>pCR in patients by frequency of immune subsets, immunological markers, and cytokines.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Triple Negative Breast Cancer</condition>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Trilaciclib plus chemotherapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Trilaciclib lead-in, followed by trilaciclib plus anthracycline/cyclophosphamide, then trilaciclib plus taxane chemotherapy:&#xD;
+Lead-in trilaciclib (240mg/m2) single dose monotherapy&#xD;
+Trilaciclib (240mg/m2) + doxorubicin (60 mg/m2) + cyclophosphamide (600 mg/m2) + pembrolizumab (per Investigator discretion; 400mg)&#xD;
+Trilaciclib (240mg/m2) + paclitaxel (80 mg/m2) + carboplatin (per Investigator discretion; AUC 1.5)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Trilaciclib</intervention_name>
+    <description>Trilaciclib is administered IV as monotherapy during the lead-in phase and administered prior to chemotherapy on each day chemotherapy is administered during the treatment phase.</description>
+    <arm_group_label>Trilaciclib plus chemotherapy</arm_group_label>
+    <other_name>COSELA®</other_name>
+    <other_name>G1T28</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cylophosphamide</intervention_name>
+    <description>Cyclophosphamide administered IV every 2 weeks for the first 4 cycles (1-4), each cycle 2 weeks in length.</description>
+    <arm_group_label>Trilaciclib plus chemotherapy</arm_group_label>
+    <other_name>CYTOXAN®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Doxorubicin</intervention_name>
+    <description>Doxorubicin administered as an IV bolus every 2 weeks for the first 4 cycles (1-4), each cycle 2 weeks in length.</description>
+    <arm_group_label>Trilaciclib plus chemotherapy</arm_group_label>
+    <other_name>ADRIAMYCIN®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Paclitaxel</intervention_name>
+    <description>Paclitaxel administered weekly for the last 12 cycles (cycles 5-16), each cycle 1 week in length.</description>
+    <arm_group_label>Trilaciclib plus chemotherapy</arm_group_label>
+    <other_name>TAXOL®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carboplatin (Investigator discretion)</intervention_name>
+    <description>Carboplatin, if given, is administered IV weekly at the start of paclitaxel administration, for the last 12 cycles (cycles 5-16).</description>
+    <arm_group_label>Trilaciclib plus chemotherapy</arm_group_label>
+    <other_name>PARAPLATIN®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Pembrolizumab (Investigator discretion)</intervention_name>
+    <description>Pembrolizumab, if given, is administered IV every 6 weeks throughout the treatment phase (cycles 1, 4, 9, 15).</description>
+    <arm_group_label>Trilaciclib plus chemotherapy</arm_group_label>
+    <other_name>KEYTRUDA®</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Suitability of therapy and patient intends to undergo curative surgery&#xD;
+&#xD;
+          -  Documented diagnosis of estrogen receptor (ER)-negative and progesterone receptor&#xD;
+             (PR)-negative tumor&#xD;
+&#xD;
+          -  Primary tumor ≥ 2 cm with any nodal status&#xD;
+&#xD;
+          -  Provide archival tissue for the baseline tissue sample&#xD;
+&#xD;
+          -  ECOG performance status of 0 or 1&#xD;
+&#xD;
+          -  Demonstrates adequate organ function&#xD;
+&#xD;
+          -  Research tumor biopsies including at least one on-treatment biopsy (and additional&#xD;
+             biopsy at baseline, if required)&#xD;
+&#xD;
+          -  Participants of child bearing potential must be willing to use 2 forms of&#xD;
+             contraception during the study and for 6 months following study treatment&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior systemic therapies or radiation for current breast cancer&#xD;
+&#xD;
+          -  History of invasive malignancy ≤3 years prior to signing informed consent except for&#xD;
+             adequately treated basal cell or squamous cell skin cancer or in situ cervical cancer&#xD;
+&#xD;
+          -  History of breast cancer including ipsilateral ductal carcinoma in situ (DCIS) treated&#xD;
+             with radiotherapy at any time&#xD;
+&#xD;
+          -  Previous exposure to doxorubicin of more than 200 mg/m2 (as lifetime exposure to&#xD;
+             doxorubicin is not to exceed 450 mg/m2)&#xD;
+&#xD;
+          -  For patients who will receive pembrolizumab:&#xD;
+&#xD;
+               -  History of active autoimmune disease that has required systemic treatment in past&#xD;
+                  2 years (i.e., with use of disease modifying agents, corticosteroids, or&#xD;
+                  immunosuppressive drugs). Replacement therapy is not considered a form of&#xD;
+                  systemic treatment&#xD;
+&#xD;
+               -  Diagnosis of immunodeficiency or is receiving systemic steroid therapy or any&#xD;
+                  other form of immunosuppressive therapy within 7 days prior to the first dose of&#xD;
+                  study drugs&#xD;
+&#xD;
+          -  History of (non-infectious) pneumonitis that required steroids or current pneumonitis&#xD;
+&#xD;
+          -  Known history of active tuberculosis (Bacillus Tuberculosis)&#xD;
+&#xD;
+          -  History of severe hepatic impairment&#xD;
+&#xD;
+          -  Uncontrolled ischemic heart disease or uncontrolled symptomatic congestive heart&#xD;
+             failure (Class II-IV as defined by the New York Heart Association [NYHA] functional&#xD;
+             classification system)&#xD;
+&#xD;
+          -  Known history of stroke, cerebrovascular accident, severe/unstable angina, myocardial&#xD;
+             infarction, or coronary angioplasty/stenting/bypass grafting within 6 months prior to&#xD;
+             enrollment&#xD;
+&#xD;
+          -  Known serious active infection (e.g., human immunodeficiency virus [HIV], hepatitis B&#xD;
+             or C, tuberculosis).&#xD;
+&#xD;
+          -  Women who are pregnant or breastfeeding&#xD;
+&#xD;
+          -  Participation in other studies involving active treatment with investigational drug(s)&#xD;
+&#xD;
+          -  Prior hematopoietic stem cell or bone marrow transplantation&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>G1 Therapeutics, Inc. Clinical Contact</last_name>
+    <phone>919-213-9835</phone>
+    <email>clinicalinfo@g1therapeutics.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>G1 Therapeutics, Inc. Clinical Contact Study Director</last_name>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Nebraska Hematology-Oncology, P.C.</name>
+      <address>
+        <city>Lincoln</city>
+        <state>Nebraska</state>
+        <zip>68506</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vienna Lionberger</last_name>
+      <email>vlionberger@yourcancercare.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kent Disney</last_name>
+      <email>kdisney@yourcancercare.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Kailash Mosalpuria, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 9, 2021</study_first_posted>
+  <last_update_submitted>November 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Breast Cancer</keyword>
+  <keyword>Triple Negative Breast Cancer</keyword>
+  <keyword>CDK4/6 Inhibitor</keyword>
+  <keyword>trilaciclib dihydrochloride</keyword>
+  <keyword>Cosela</keyword>
+  <keyword>Immuno-oncology</keyword>
+  <keyword>Solid tumor</keyword>
+  <keyword>Chemotherapy-induced myelosuppression</keyword>
+  <keyword>Myeloprotective</keyword>
+  <keyword>Cyclin-dependent kinase 4/6 inhibitor</keyword>
+  <keyword>Neoadjuvant</keyword>
+  <keyword>HER2-negative</keyword>
+  <keyword>TNBC</keyword>
+  <keyword>Breast cancer surgery</keyword>
+  <keyword>Trilaciclib</keyword>
+  <keyword>Myeloprotection</keyword>
+  <keyword>pembrolizumab</keyword>
+  <keyword>carboplatin</keyword>
+  <keyword>doxorubicin</keyword>
+  <keyword>cyclophosphamide</keyword>
+  <keyword>Dose-dense anthracycline/cyclophosphamide</keyword>
+  <keyword>paclitaxel</keyword>
+  <keyword>Chemotherapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Triple Negative Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Paclitaxel</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+    <mesh_term>Doxorubicin</mesh_term>
+    <mesh_term>Pembrolizumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

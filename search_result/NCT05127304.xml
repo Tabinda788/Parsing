@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2601">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05127304</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1237-0113</org_study_id>
+    <nct_id>NCT05127304</nct_id>
+  </id_info>
+  <brief_title>A Study Using US Medical and Pharmacy Claim Records to Compare the Resource Use, Cost, and Outcomes of People With COPD Who Take Either Tiotropium + Olodaterol or Fluticasone + Umeclidinium + Vilanterol</brief_title>
+  <official_title>Health Care Resource Utilization, Cost and Other Outcomes of Patients Diagnosed With COPD Initiating Tiotropium Bromide/Olodaterol Versus Fluticasone Furoate/Umeclidinium/Vilanterol</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boehringer Ingelheim</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boehringer Ingelheim</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to estimate disease-related and all-cause burden and clinical&#xD;
+      outcomes of interest following initiation of chronic obstructive lung disease (COPD)&#xD;
+      maintenance therapy with Tiotropium Bromide/Olodaterol (TIO/OLO) or Fluticasone&#xD;
+      Furoate/Umeclidinium/Vilanterol (FF/UMEC/VI).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">February 26, 2021</start_date>
+  <completion_date type="Actual">May 5, 2021</completion_date>
+  <primary_completion_date type="Actual">May 5, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Chronic obstructive lung disease (COPD) and/or pneumonia-related total costs</measure>
+    <time_frame>up to 12 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of COPD and/or pneumonia-related inpatient visits</measure>
+    <time_frame>up to 12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of COPD exacerbation</measure>
+    <time_frame>up to 12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of pneumonia or bronchitis/bronchiolitis</measure>
+    <time_frame>up to 12 months</time_frame>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">11316</enrollment>
+  <condition>Pulmonary Disease, Chronic Obstructive</condition>
+  <arm_group>
+    <arm_group_label>Chronic obstructive pulmonary disease (COPD) patients treated with Tiotropium Bromide/Olodaterol</arm_group_label>
+    <description>COPD patients who initiated treatment with Tiotropium Bromide/Olodaterol between 01 June 2015 and 30 November 2019</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COPD patients initiated treatment with Furoate/Umeclidinium/Vilanterol</arm_group_label>
+    <description>COPD patients who initiated treatment with Furoate/Umeclidinium/Vilanterol between 01 June 2015 and 30 November 2019</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Trelegy Ellipta</intervention_name>
+    <description>Trelegy Ellipta with Furoate/Umeclidinium/Vilanterol</description>
+    <arm_group_label>COPD patients initiated treatment with Furoate/Umeclidinium/Vilanterol</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Stiolto Respimat</intervention_name>
+    <description>Stiolto Respimat with Tiotropium Bromide/Olodaterol</description>
+    <arm_group_label>Chronic obstructive pulmonary disease (COPD) patients treated with Tiotropium Bromide/Olodaterol</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Furoate/Umeclidinium/Vilanterol</intervention_name>
+    <description>Furoate/Umeclidinium/Vilanterol</description>
+    <arm_group_label>COPD patients initiated treatment with Furoate/Umeclidinium/Vilanterol</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tiotropium Bromide/Olodaterol</intervention_name>
+    <description>Tiotropium Bromide/Olodaterol</description>
+    <arm_group_label>Chronic obstructive pulmonary disease (COPD) patients treated with Tiotropium Bromide/Olodaterol</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The sample will include commercial and Medicare Advantage Part D (MAPD) health plan members&#xD;
+        diagnosed with COPD&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ≥30 consecutive days with Tiotropium Bromide/Olodaterol (TIO/OLO) or Fluticasone&#xD;
+             Furoate/Umeclidinium/Vilanterol (FF/UMEC/VI) initiated during the patient&#xD;
+             identification period of 01 June 2015 to 30 November 2019. The index date will be the&#xD;
+             date of the TIO/OLO or FF/UMEC/VI pharmacy claim that starts the ≥30 consecutive days&#xD;
+             with the medication.&#xD;
+&#xD;
+          -  &gt;1 facility claim with a diagnosis of chronic obstructive lung disease (COPD) in the&#xD;
+             primary position or ≥2 professional claims with a diagnosis code for COPD in any&#xD;
+             position on separate dates of service during the study period&#xD;
+&#xD;
+          -  ≥40 years of age as of the year of the index date&#xD;
+&#xD;
+          -  Continuous enrollment with medical and pharmacy coverage for 12 months prior to and&#xD;
+             including the index date (baseline period)&#xD;
+&#xD;
+          -  Continuous enrollment with medical and pharmacy coverage for ≥30 days following the&#xD;
+             index date and without discontinuation of the index medication or switch to a&#xD;
+             non-index regimen (follow-up period); discontinuation and switch as defined in the&#xD;
+             protocol.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  ≥2 medical claims with a diagnosis code for asthma, cystic fibrosis, lung cancer, or&#xD;
+             interstitial lung disease in any position on separate dates of service during the&#xD;
+             baseline period&#xD;
+&#xD;
+          -  Pharmacy claims for both TIO/OLO and FF/UMEC/VI on the index date&#xD;
+&#xD;
+          -  A pharmacy claim for any non-index COPD maintenance medication on the index date,&#xD;
+             defined as: long-acting muscarinic antagonists (LAMA) monotherapy; long-acting beta2&#xD;
+             agonists (LABA) monotherapy; inhaled corticosteroids (ICS) monotherapy; fixed-dose&#xD;
+             combination (FDC) ICS/LABA, or FDC LAMA/LABA&#xD;
+&#xD;
+          -  Free or fixed dose LAMA+LABA maintenance therapy defined as ≥7 consecutive days of&#xD;
+             overlapping days' supply with a LAMA and LABA during a 6-month pre-index period,&#xD;
+             excluding the index date&#xD;
+&#xD;
+             -- Flags will be created to identify patients excluded for baseline LAMA/LABA use&#xD;
+             overall and specifically for each FDC LAMA/LABA medication&#xD;
+&#xD;
+          -  Free or fixed dose triple therapy (TT) defined as ≥7 consecutive days of overlapping&#xD;
+             days' supply with an ICS, LABA, and LAMA during a 6-month pre-index period, excluding&#xD;
+             the index date&#xD;
+&#xD;
+          -  ≥1 medical claim with a procedure code for lung volume reduction during the study&#xD;
+             period&#xD;
+&#xD;
+          -  Unknown age, gender, or business line, or unknown/other geographic region&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Optum</name>
+      <address>
+        <city>Eden Prairie</city>
+        <state>Minnesota</state>
+        <zip>55344</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.mystudywindow.com</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 19, 2021</study_first_posted>
+  <last_update_submitted>November 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pulmonary Disease, Chronic Obstructive</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bromides</mesh_term>
+    <mesh_term>Tiotropium Bromide</mesh_term>
+    <mesh_term>Olodaterol</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>After the study is completed and the primary manuscript is accepted for publishing, researchers can use this following link https://www.mystudywindow.com/msw/datasharing to request access to the clinical study documents regarding this study, and upon a signed &quot;Document Sharing Agreement&quot;.&#xD;
+Also, Researchers can use the following link https://www.mystudywindow.com/msw/datasharing to find information in order to request access to the clinical study data, for this and other listed studies, after the submission of a research proposal and according to the terms outlined in the website.&#xD;
+The data shared are the raw clinical study data sets.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>After all regulatory activities are completed in the US and EU for the product and indication, and after the primary manuscript has been accepted for publication.</ipd_time_frame>
+    <ipd_access_criteria>For study documents - upon signing of a 'Document Sharing Agreement'. For study data - 1. after the submission and approval of the research proposal (checks will be performed by both the independent review panel and the sponsor, including checking that the planned analysis does not compete with sponsor's publication plan); 2. and upon signing of a 'Data Sharing Agreement'.</ipd_access_criteria>
+    <ipd_url>https://www.mystudywindow.com/msw/datasharing</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

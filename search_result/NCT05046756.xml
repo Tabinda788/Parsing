@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8795">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05046756</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021AN0104</org_study_id>
+    <nct_id>NCT05046756</nct_id>
+  </id_info>
+  <brief_title>Postoperative Prognosis Management Service Based mHealth for Colon Cancer Patients</brief_title>
+  <official_title>Treatment and Prognosis Management Service for Cancer Patients Using AIoT(AI+IoT):Stomach Cancer,Colon Cancer, Prostate Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Korea University Anam Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National IT Industry Promotion Agency</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Korea University Anam Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Recently, the use of mobile health is increasing for the purpose of managing prognosis such&#xD;
+      as recurrence, survival and quality of life by using a wearable smart band and a smartphone&#xD;
+      application. In the era of the 4th revolution, mobile health for the purpose of comprehensive&#xD;
+      prognosis for cancer patients is becoming a very good tool.&#xD;
+&#xD;
+      It is possible to confirm the clinical significance of short-term and temporary health care&#xD;
+      through a mobile application and a smart band during the treatment process for cancer&#xD;
+      patients, but the study is insufficient to generalize the number of subjects.&#xD;
+&#xD;
+      Therefore, for colon cancer patients who need prognosis management after surgery, we will&#xD;
+      investigate the effect of a mobile application using a smart band which has a modular&#xD;
+      structure reflecting the treatment method and treatment process after surgery.&#xD;
+&#xD;
+      This study targets patients who underwent prostate cancer surgery. An intervention group&#xD;
+      (App+IoT device) uses a smart care application for 12 months. This application was tailored&#xD;
+      for prostate cancer patients and created by reflecting the treatment process after surgery.&#xD;
+      And they also uses a wearable smart band for 12 months. Control group is provided general&#xD;
+      education through the hospital brochure. Evaluation will be conducted 2-3days after surgery&#xD;
+      (before discharge), and at 1, 3, 6, and 12 months after surgery.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 11, 2021</start_date>
+  <completion_date type="Anticipated">May 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">May 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change of body composition (weight, kg)</measure>
+    <time_frame>Enrollment (postoperative 2-3days), postoperative 1month, 3month, 6month, 12month</time_frame>
+    <description>According to time frame with between-group and within group, trends will be found.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change of Quality of life (EORTC-QLQ-C30)</measure>
+    <time_frame>Enrollment (postoperative 2-3days), postoperative 1month, 3month, 6month, 12month</time_frame>
+    <description>comparison between groups in change of quality of life between baseline (postoperative 2-3days) and postoperative day 6 months&#xD;
+This questionnaire contains 30 items regarding general health status, five functional scales (ie, physical, role, cognitive, emotional, and social functioning), three symptom scales (ie, fatigue, pain, and nausea or vomiting), and six single-item scales (ie, dyspnea, appetite loss, constipation, diarrhea, financial difficulties, and insomnia). Each scale includes a different set of items, which are calculated using specific coding procedures. Higher scores for the general health status and the functional scales imply positive results, whereas the symptom and the single-item scales are interpreted inversely.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pain (Numeric rating scale, NRS)</measure>
+    <time_frame>Enrollment (postoperative 2-3days), postoperative 1month, 3month, 6month, 12month</time_frame>
+    <description>According to time frame with between-group and within group, trends will be found. NRS score (11 point scales) ranges from 0 (no pain) to 10 (possible to image maximum pain). Higher score indicates higher pain.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of Quality of life (EORTC-QLQ-C29)</measure>
+    <time_frame>Enrollment (postoperative 2-3days), postoperative 1month, 3month, 6month, 12month</time_frame>
+    <description>The Multi-Attribute Scale Analysis module evaluates four scales to evaluate urine frequency, stool leakage, stool consistency, and body image, as well as other common problems after treatment for colorectal cancer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical activity (IPAQ-SF)</measure>
+    <time_frame>Enrollment (postoperative 2-3days), postoperative 1month, 3month, 6month, 12month</time_frame>
+    <description>According to time frame with between-group and within group, trends will be found. There are two forms of output from scoring the IPAQ. Results can be reported in categories (low activity levels, moderate activity levels or high activity levels) or as a continuous variable (MET minutes a week). MET minutes represent the amount of energy expended carrying out physical activity. Higher METs or category level indicates higher physical activity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Grip strength</measure>
+    <time_frame>Enrollment (postoperative 2-3days), postoperative 1month, 3month, 6month, 12month</time_frame>
+    <description>According to time frame with between-group and within group, trends will be found. Using a grip dynamometer, take three measurements on both hands. Higher value (kg) indicates higher grip strength.&#xD;
+Since this test is judged to have a mild effect of abdominal pain after surgery, it is evaluated from enrollment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lower extremity muscle endurance (30seconds chair stands test)</measure>
+    <time_frame>postoperative 1month, 3month, 6month, 12month</time_frame>
+    <description>According to time frame with between-group and within group, trends will be found. It measures the number of times you sit and stand up in a chair for 30 seconds. Higher value (number) indicates higher lower extremity muscle endurance.&#xD;
+It is judged that the 30seconds chair stands test will be difficult due to abdominal pain after surgery, so the evaluation is performed only at the other F/U points excluding the enrollment date.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>2 Minute walk test (2MWT, evaluation of cardiopulmonary endurance)</measure>
+    <time_frame>postoperative 1month, 3month, 6month, 12month</time_frame>
+    <description>According to time frame with between-group and within group, trends will be found. The 2MWT is a measurement of endurance that assesses walking distance over two minutes.&#xD;
+It is judged that the 2MWT will be difficult due to abdominal pain after surgery, so the evaluation is performed only at the other F/U points excluding the enrollment date.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Nutrition assessment (Mini-nutrition assessment, MNA)</measure>
+    <time_frame>Enrollment (postoperative 2-3days), postoperative 1month, 3month, 6month, 12month</time_frame>
+    <description>According to time frame with between-group and within group, trends will be found. The short form of the MNA (MNA-SF) is a screening tool consisting of six questions on food intake, weight loss, mobility, psychological stress, or acute disease, the presence of dementia or depression, and body mass index (BMI). The maximum score for this part is equal to 14. A score equal to or higher than 12 indicates that the subject under study has an acceptable nutritional status thus excluding malnutrition and/or malnutrition risk, meanwhile, a score ≤ 11 implicates to proceed with the complete version of the MNA (MNA-LF). This version consists of 12 additional items and provides a maximum possible overall assessment of 30 scores: a score of fewer than 17 indicates malnutrition, a score of 17-23.5 indicates a risk for malnutrition and a score higher 23.5 indicates well-nourishment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>LARS(Low Anterior Rectal Resection Syndrome) score questionnaire</measure>
+    <time_frame>Enrollment (postoperative 2-3days), postoperative 1month, 3month, 6month, 12month</time_frame>
+    <description>Developed under the leadership of S. Laurberg to initially assess the severity of symptoms after anterior resection of the rectum for cancer, it can be used to assess the disability caused in multiple situations (isolated anorectal irradiation, rectosigmoid resection, prolapse surgery…). It is correlated with the quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Wexner score</measure>
+    <time_frame>Enrollment (postoperative 2-3days), postoperative 1month, 3month, 6month, 12month</time_frame>
+    <description>This score, very easy to use, is most frequently used when a summary assessment of the severity of anal incontinence is necessary.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">324</enrollment>
+  <condition>Colon Cancer</condition>
+  <arm_group>
+    <arm_group_label>mHealth App and wearable device</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>An intervention group (App+IoT device) uses a smart care application for 12 months. This application was tailored for colon cancer patients and created by reflecting the treatment process after surgery. And they also uses a wearable smart band for 12 months.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Education brochure</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Control group is provided general education through the hospital brochure.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>mHealth App and wearable device</intervention_name>
+    <description>An intervention group (App+IoT device) uses a smart care application for 12 months. This application was tailored for colon cancer patients and created by reflecting the treatment process after surgery. And they also uses a wearable smart band for 12 months.</description>
+    <arm_group_label>mHealth App and wearable device</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Those who have been diagnosed with colorectal cancer and have undergone surgery (not&#xD;
+             related to chemotherapy treatment)&#xD;
+&#xD;
+          -  Patients aged 19 to 75 years old&#xD;
+&#xD;
+          -  Those who can use prognosis management applications and can perform regular follow-up&#xD;
+             inspections outpatients&#xD;
+&#xD;
+          -  Patients carrying Android or iOS smartphones&#xD;
+&#xD;
+          -  Patients who voluntarily decide to participate and give written consent after hearing&#xD;
+             detailed explanations about this study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Those who are judged to be difficult to perform smartphone exercise and dietary&#xD;
+             management for colorectal cancer in general due to uncontrolled severe or underlying&#xD;
+             diseases, neuromuscular and musculoskeletal diseases&#xD;
+&#xD;
+          -  Serious complications of Clavein dindo classification grade 3 or higher after surgery&#xD;
+&#xD;
+          -  Patients who were not discharged within 2 weeks after surgery&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yoon-suk Lee</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Seoul St. Mary's Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ji-Hye Hwang, Professor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Seoul, Samsung Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Seok-Ho Kang, Medical Doctor degree, College</last_name>
+    <phone>+81-9928-8097</phone>
+    <email>mdksh@korea.ac.kr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jeong-Myeon kwak</last_name>
+    <phone>+82-4627-5961</phone>
+    <email>jmkwak@korea.ac.kr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Korea University Anam Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <state>Seongbuk-gu</state>
+        <zip>02841</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Korea University Anam Hospital</last_name>
+      <phone>1577-0083</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 16, 2021</study_first_posted>
+  <last_update_submitted>September 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colonic Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

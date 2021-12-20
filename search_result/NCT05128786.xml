@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2487">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05128786</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CCT301-38-SAR</org_study_id>
+    <nct_id>NCT05128786</nct_id>
+  </id_info>
+  <brief_title>A Phase I Trial of CCT301-38 in Patients With Relapsed or Refractory AXL Positive Sarcomas</brief_title>
+  <official_title>A Phase I Trial to Assess Safety, Tolerability and Anti-tumor Activity of Autologous T Cell Modified Chimeric Antigen Receptor (CAR) (CCT301-38) in Patients With Relapsed or Refractory AXL Positive Sarcomas</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanghai PerHum Therapeutics Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Shanghai Zhongshan Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Shanghai PerHum Therapeutics Co., Ltd.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This clinical study is to investigate the safety and tolerability of CCT301-38 CAR modified&#xD;
+      autologous T cells (CCT301-38) in subjects with relapsed or refractory AXL positive sarcomas&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is an open label, single-center Phase I dose escalation trial to assess the&#xD;
+      safety, tolerability, DLT and MTD of CCT301-38 cell therapy in patients with AXL positive&#xD;
+      relapsed or refractory sarcomas.&#xD;
+&#xD;
+      Subjects that meet inclusion criteria with positive AXL biopsy (IHC 1+ or greater in ≥50%&#xD;
+      tumor cells) will receive CCT301-38 according to the 3+3 dose escalation design.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">November 20, 2021</start_date>
+  <completion_date type="Anticipated">July 15, 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 12, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>MTD</measure>
+    <time_frame>28 days following infusion</time_frame>
+    <description>To assess the safety and tolerability of CCT301-38 cell therapy for patients with AXL-positive (IHC 1+ or greater in ≥50% tumor cells) relapsed or refractory sarcomas.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ORR</measure>
+    <time_frame>Up to 52 weeks</time_frame>
+    <description>Proportion of subjects with the best overall response (BOR) of subjects with PR (partial response) and CR (complete response) as determined by local investigator using RECIST 1.1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DCR</measure>
+    <time_frame>Up to 52 weeks</time_frame>
+    <description>Disease control rate: The proportion of subjects with CR (complete response), PR (partial response) or SD (stable disease lasting over 6 months) as determined by local investigator using RECIST 1.1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DOR</measure>
+    <time_frame>Up to 52 weeks</time_frame>
+    <description>Duration of reponse: The duration of time from record of response to first progression of disease as determined by RECIST 1.1 or death date not relevant to disease progression.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PFS</measure>
+    <time_frame>Up to 52 weeks</time_frame>
+    <description>Progression free survival: The time of disease progression by RECIST 1.1 or death since cell infusion.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TEAE</measure>
+    <time_frame>Up to 52 weeks</time_frame>
+    <description>• Number, severity and duration of treatment of emergent adverse events (TEAEs) that occur during treatment according to NCI-CTCAE v 5.0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK</measure>
+    <time_frame>Up to 52 weeks</time_frame>
+    <description>• The quantity and persistence of genetically modified CCT301-38 cells by qPCR, and the CCT301-38 cell ratio analyzed by FACS in peripheral blood.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biomarker</measure>
+    <time_frame>Up to 52 weeks</time_frame>
+    <description>To explore the correlation between AXL expression and ORR</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">9</enrollment>
+  <condition>SAR</condition>
+  <arm_group>
+    <arm_group_label>CCT301-38</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>To determine the safety, tolerability, DLT and MTD of CCT301-38 cell therapy in patients with AXL-positive relapsed or refractory sarcomas.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CCT301-38</intervention_name>
+    <description>Blood will be collected from subjects to isolate peripheral blood mononuclear cells for the production of CCT301-38. Subjects will receive the conditioning chemotherapy regimen of cyclophosphamide and fludarabine for lymphodepletion followed by a single or multiple dose of CCT301-38 via intravenous injection.</description>
+    <arm_group_label>CCT301-38</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients with willingness to be in the study and follow all study procedures, and&#xD;
+             capable of providing informed consent&#xD;
+&#xD;
+          2. Male or female aged 18-70 years;&#xD;
+&#xD;
+          3. Patients with unresectable, locally advanced or metastatic relapse/refractory sarcomas&#xD;
+             that have failed at least the front line standard treatment confirmed by histology or&#xD;
+             cytology;&#xD;
+&#xD;
+          4. At least one measurable lesion, i.e. the length of non-lymph node lesions examined&#xD;
+             according to CT cross-sectional scanning or magnetic resonance imaging (MRI), or the&#xD;
+             short diameter of the lymph node lesions is ≥15 mm according to RECIST 1.1, and the&#xD;
+             FDG PET signal from the measurable lesion is &gt; 3 SUV;&#xD;
+&#xD;
+          5. Tumors with AXL positive (IHC 1+ or greater) in≥50% of all tumor cells. A new biopsy&#xD;
+             is required if the sample is over one year.&#xD;
+&#xD;
+          6. ECOG Performance Status 0-1;&#xD;
+&#xD;
+          7. Expected survival greater than 12 weeks;&#xD;
+&#xD;
+          8. Adequate organ and hematopoietic system functions to meet the following requirements:&#xD;
+&#xD;
+               -  Hemoglobin (HGB) s 90 g/L, no blood transfusions within two weeks;&#xD;
+&#xD;
+               -  White blood cell (WBC) count≥2.5×109/L；&#xD;
+&#xD;
+               -  Absolute Neutrophil Count (ANC) ≥1.5×109/L;&#xD;
+&#xD;
+               -  Platelet (PLT) count ≥80×109/L;&#xD;
+&#xD;
+               -  Total bilirubin (TBIL) ≤3.0ng/dL or ≤5 ULN;&#xD;
+&#xD;
+               -  ALT and AST ≤5 ULN; for liver metastasis, ALT and AST ≤5 ULN&#xD;
+&#xD;
+               -  Creatinine (Cr) ≤1.5 x ULN; or creatinine removal rate (CrCl) ≥50 mL/min;&#xD;
+&#xD;
+          9. PT: INR &lt; 1.7 or extended PT to normal value &lt; 4s&#xD;
+&#xD;
+         10. Normal language, recognition and conciousness assessed by investigator during&#xD;
+             screening phase;&#xD;
+&#xD;
+         11. Capable of receiving treatment and follow-up, including treatment in the clinical&#xD;
+             center;&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Females with pregnancy or in lactation period;&#xD;
+&#xD;
+          2. Subjects with active hepatitis B, or active hepatitis C. Subjects with undetectable&#xD;
+             HBV DNA or HCV RNA after anti-virus treatment can be enrolled;&#xD;
+&#xD;
+          3. HIV positive;&#xD;
+&#xD;
+          4. Other active infections of clinical significance;&#xD;
+&#xD;
+          5. Subjects with the following previous or accompanying diseases:&#xD;
+&#xD;
+             • Subjects diagnosed as severe autoimmune diseases that require long term (more than 2&#xD;
+             months) treatment with systemic immunosuppressants (steroids), or diseases with&#xD;
+             immune-mediated symptoms, including ulcerative colitis, Crohn's disease, rheumatoid&#xD;
+             arthritis, systemic lupus erythematosus (SLE), and autoimmune vasculitis (e.g. Wegena&#xD;
+             granuloma);&#xD;
+&#xD;
+          6. Patients with previous diagnosis as motor neuron disease caused by autoimmunity;&#xD;
+&#xD;
+          7. Patients previously suffered from toxic epidermal necrolysis (TEN)&#xD;
+&#xD;
+          8. Patients with any mental illness, including dementia, mental changes, which may cause&#xD;
+             difficulties understanding the informed consent and related questionnaires;&#xD;
+&#xD;
+          9. Patients with serious uncontrollable diseases, which may interfere with the therapies&#xD;
+             in this study;&#xD;
+&#xD;
+         10. Patients with other active malignancies in the past 5 years excluding those with&#xD;
+             completely cured basal or squamous skin cancers, superficial bladder cancers or&#xD;
+             primary breast cancers without need of follow-up treatment;&#xD;
+&#xD;
+         11. Subjects receiving systemic steroids or steroid inhalants;&#xD;
+&#xD;
+         12. Patients who have received tumor immunotherapy (including monoclonal antibody against&#xD;
+             PD-1, PD-L1, PD-L2, CD137 or CTLA-4, or cell therapy) in the past 4 weeks;&#xD;
+&#xD;
+         13. Subjects allergic to immunotherapies or related drugs;&#xD;
+&#xD;
+         14. Pateints with metastatic lesions in meninges or central nervous system, or clear&#xD;
+             evidence of central nervous system diseases with continous significant symptoms in the&#xD;
+             last 6 months;&#xD;
+&#xD;
+         15. Patients with NYHA class II heart failure, or hypertension incontrollable by standard&#xD;
+             care, or medical history of myocarditis, or heart attack within a year;&#xD;
+&#xD;
+         16. Subjects who have received or are going to receive organ transplantation;&#xD;
+&#xD;
+         17. Patients with active bleeding;&#xD;
+&#xD;
+         18. Patients with incontrollable pleural or abdominal fluid that needs clinical treatment&#xD;
+             or intervention;&#xD;
+&#xD;
+         19. Patients as determined by the investigators to be inappropriate for the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Yuhong Zhou, M.D.</last_name>
+    <phone>+86-21-64041990</phone>
+    <phone_ext>2968</phone_ext>
+    <email>zhou.yuhong@zs-hospital.sh.cn</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Wei Zhang, Ph.D.</last_name>
+    <phone>+86-18321825338</phone>
+    <email>wzhang@exumabio.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Zhongshan Hospital Affiliated to Fudan University</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200032</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yuhong Zhou, M.D.</last_name>
+      <phone>+86-21-64041990</phone>
+      <phone_ext>2968</phone_ext>
+      <email>zhou.yuhong@zs-hospital.sh.cn</email>
+    </contact>
+    <contact_backup>
+      <last_name>Wei Zhang, Ph.D.</last_name>
+      <phone>+86-18321825338</phone>
+      <email>wzhang@perhum.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 22, 2021</study_first_posted>
+  <last_update_submitted>November 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>AXL, CAR-T, CCT301-38, sarcoma</keyword>
+  <keyword>CAR-T</keyword>
+  <keyword>CCT301-38</keyword>
+  <keyword>sarcoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sarcoma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

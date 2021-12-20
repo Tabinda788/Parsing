@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4892">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05097521</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SDR 17-306</org_study_id>
+    <nct_id>NCT05097521</nct_id>
+  </id_info>
+  <brief_title>Assessing Pain, Patient Reported Outcomes and Complementary and Integrative Health</brief_title>
+  <acronym>APPROACH</acronym>
+  <official_title>Complementary and Integrative Health for Pain in the VA: A National Demonstration Project (NIH-VA-DOD Joint Initiative)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>VA Office of Research and Development</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Veterans Health Administration Office of Patient Centered Care &amp; Cultural Transformation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>VA Office of Research and Development</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The APPROACH Study (Assessing Pain, Patient-Reported Outcomes and Complementary and&#xD;
+      Integrative Health) assesses the effects of use of 1) practitioner-delivered CIH therapies&#xD;
+      alone or 2) self-care CIH therapies alone compared to 3) the combination of self-care and&#xD;
+      practitioner-delivered CIH therapies among Veterans with chronic musculoskeletal pain. The&#xD;
+      APPROACH study is predominately conducting a secondary analysis of patient-reported data&#xD;
+      being collected by the Veterans Health Administration's (VA) Office of Patient Centered Care&#xD;
+      and Cultural Transformation among Veterans using 18 VA medical centers. Those facilities&#xD;
+      received funding as part of the Comprehensive Addiction and Recovery Act to expand&#xD;
+      availability of CIH therapies. That patient-reported data is being supplemented with VA&#xD;
+      electronic health record data and data on the 18 medical centers' business practices (nudges,&#xD;
+      the instrumental variable). Practitioner-delivered therapies under study include chiropractic&#xD;
+      care, acupuncture and therapeutic massage, and self-care therapies include Tai Chi/qigong,&#xD;
+      yoga and meditation. The primary outcomes are improvement in pain severity and pain&#xD;
+      interference, using the Brief Pain Inventory (BPI), 6 months after initiating CIH therapies&#xD;
+      compared to baseline. Patients will enter treatment groups based on the CIH therapies they&#xD;
+      use, as randomizing patients to specific therapies would require withholding therapies&#xD;
+      routinely offered at VA. The investigators will address selection bias and confounding by&#xD;
+      using sites' variations in business practices and other encouragements (nudges) to receiving&#xD;
+      different CIH therapies as a surrogate for direct randomization using instrumental variables&#xD;
+      econometric methods.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Design: The investigators are employing a quasi-experimental encouragement study design in&#xD;
+      which subjects are able to choose their own CIH therapies, but some are offered extra&#xD;
+      encouragements (nudges) to choose specific CIH therapies. Instead of being randomized to a&#xD;
+      CIH therapy, individuals will enter one of the three study groups based on what CIH therapies&#xD;
+      they used six months after they initiate any CIH therapy. Although accrual to study group is&#xD;
+      not random, some sites have strong business practices/nudges that lead to considerable&#xD;
+      variation in which CIH therapies patients use. The variation induced by these business&#xD;
+      practices/nudges provides a quasi-experimental natural experiment that can be assessed&#xD;
+      through an instrumental variables analytic approach. The purpose of using business practices&#xD;
+      as an instrument for accruing patients to treatment group, similar to the use of&#xD;
+      randomization, is to reduce potential selection and confounding bias. The 6-month treatment&#xD;
+      window will allow for patients to initiate one type of CIH therapy and add additional CIH&#xD;
+      therapies based on business practices/nudges at their site within the evaluation period. The&#xD;
+      CIH therapies that patients receive will be as they are delivered by the 18 VHA Whole Health&#xD;
+      flagship study sites and community care practices.&#xD;
+&#xD;
+      Sites: The study sites are the VA's 18 Whole Health Flagship sites: VA Boston Health Care&#xD;
+      System, VA New Jersey Health Care System, Erie VAMC, Beckley VAMC, W. G. (Bill) Hefner VAMC,&#xD;
+      Atlanta VAMC, Tampa VAMC, Tennessee Valley Health Care System, Aleda E. Lutz VAMC, Tomah&#xD;
+      VAMC, St. Louis VA Health Care System, Central Arkansas Veterans Healthcare System, South&#xD;
+      Texas Veterans Health Care System, Salt Lake City VAMC, VA Portland Health Care System, Palo&#xD;
+      Alto VAMC, Tucson VAMC, VA Nebraska-Western Iowa Health Care System).&#xD;
+&#xD;
+      Secondary Data from the CIH Experience Survey/ VA Office of Patient Centered Care and&#xD;
+      Cultural Transformation's Survey: The APPROACH study is predominately conducting a secondary&#xD;
+      analysis of patient-reported data being collected by VA OPCC&amp;CT's survey. That is a 4-time&#xD;
+      point survey (baseline and months 1, 3, 6). Almost all of the outcomes listed below are from&#xD;
+      that survey.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">March 17, 2021</start_date>
+  <completion_date type="Anticipated">March 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Brief Pain Inventory Interference Scale</measure>
+    <time_frame>Change from baseline to 6 months</time_frame>
+    <description>Measure of pain-related functional interference. Scores range 0-10; higher score is worse.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Brief Pain Inventory Severity Scale</measure>
+    <time_frame>Change from baseline to 6 months</time_frame>
+    <description>Measure of pain intensity. Scores range 0-10; higher score is worse.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Patient Global Impression of Change (PGIC) for improvement in pain</measure>
+    <time_frame>baseline, 1 month, 3 months, and 6 months</time_frame>
+    <description>Scores range 1-5; 1=much better, 5 = much worse.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Global Impression of Change (PGIC) for improvement in mental health</measure>
+    <time_frame>6 months</time_frame>
+    <description>Scores range 1-5; 1=much better, 5 = much worse.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Global Impression of Change (PGIC) for improvement in physical health</measure>
+    <time_frame>6 months</time_frame>
+    <description>Scores range 1-5; 1=much better, 5 = much worse.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Global Impression of Change (PGIC) for improvement in fatigue</measure>
+    <time_frame>6 months</time_frame>
+    <description>Scores range 1-5; 1=much better, 5 = much worse.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Global Impression of Change (PGIC) for improvement in overall well-being</measure>
+    <time_frame>6 months</time_frame>
+    <description>Scores range 1-5; 1=much better, 5 = much worse.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PROMIS10 global assessment of physical health</measure>
+    <time_frame>Change from baseline to 6 months</time_frame>
+    <description>Items are rated on a five-point scale with higher scores indicating better health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PROMIS10 global assessment of mental health</measure>
+    <time_frame>Change from baseline to 6 months</time_frame>
+    <description>Items are rated on a five-point scale with higher scores indicating better health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PROMIS10 assessment of fatigue</measure>
+    <time_frame>Change from baseline to 6 months</time_frame>
+    <description>Items are rated on a five-point scale with higher scores indicating better health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PROMIS10 assessment of general quality of life</measure>
+    <time_frame>Change from baseline to 6 months</time_frame>
+    <description>Items are rated on a five-point scale with higher scores indicating better health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Life Engagement Test</measure>
+    <time_frame>Change from baseline to 6 months</time_frame>
+    <description>Measure of general purpose in life</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Perceived Stress Scale</measure>
+    <time_frame>Change from baseline to 6 months</time_frame>
+    <description>Measure of stress</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Health Questionnaire (PHQ2)</measure>
+    <time_frame>Change from baseline to 6 months</time_frame>
+    <description>Measure of depressed mood and anhedonia. Scores range from 0 to 6, with higher scores indicating more depressive symptoms.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Perceived Health Competency Scale (PHCS-2)</measure>
+    <time_frame>Change from baseline to 6 months</time_frame>
+    <description>To assess perceived health competence as a mechanism of action</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Altarum Consumer Engagement (ACE)</measure>
+    <time_frame>Change from baseline to 6 months</time_frame>
+    <description>To assess ownership of one's own health as a mechanism of action</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Self-Efficacy for Managing Chronic Disease</measure>
+    <time_frame>Change from baseline to 6 months</time_frame>
+    <description>Using 2 out of 6 items to assess self-efficacy as a mechanism of action</description>
+  </other_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">1050</enrollment>
+  <condition>Chronic Musculoskeletal Pain</condition>
+  <arm_group>
+    <arm_group_label>Veterans using practitioner delivered CIH therapies only</arm_group_label>
+    <description>Veterans using practitioner-delivered (acupuncture, chiropractic care, massage) CIH therapies only</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Veterans using self-care CIH therapies only</arm_group_label>
+    <description>Veterans using self-care (yoga, meditation, Tai Chi, Qi Gong) CIH therapies only</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Veterans using a combination of practitioner-delivered and self-care CIH therapies (dual-care)</arm_group_label>
+    <description>Veterans using a combination of practitioner-delivered and self-care CIH therapies (dual-care)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Practitioner-delivered CIH therapies (acupuncture, therapeutic massage, chiropractic care) as received in VHA and community practice settings</intervention_name>
+    <description>Practitioner-delivered CIH therapies (acupuncture, therapeutic massage, chiropractic care) as received in VHA and community practice settings</description>
+    <arm_group_label>Veterans using practitioner delivered CIH therapies only</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Self-care CIH therapies (yoga, Tai Chi/Qigong , meditation) as received in VHA and community practice settings</intervention_name>
+    <description>Self-care CIH therapies (yoga, Tai Chi/Qigong , meditation) as received in VHA and community practice settings</description>
+    <arm_group_label>Veterans using self-care CIH therapies only</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Combination of practitioner-delivered and self-care CIH therapies (described above) as received in VHA and community practice settings</intervention_name>
+    <description>Combination of practitioner-delivered and self-care CIH therapies (described above) as received in VHA and community practice settings</description>
+    <arm_group_label>Veterans using a combination of practitioner-delivered and self-care CIH therapies (dual-care)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with moderate to severe chronic musculoskeletal pain who initiate at least one of&#xD;
+        the six CIH therapies at the 18 VA Whole Health flagship study sites during the study&#xD;
+        period who also participate in the VA Office of Patient Centered Care and Cultural&#xD;
+        Transformation?s CIH Experience Survey.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Veteran&#xD;
+&#xD;
+          -  History of (chronic) musculoskeletal-related pain conditions recorded in the EHR in&#xD;
+             the year prior to the index visit, and self-report pain present every day or nearly&#xD;
+             every day for 3 months from the CIH index visit using an eligibility screener&#xD;
+&#xD;
+          -  18-89 on index CIH visit date&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  diagnoses of serious mental illness in the year prior to initiating CIH&#xD;
+&#xD;
+          -  history of spinal cord injury&#xD;
+&#xD;
+          -  hospitalization 30 days prior to initiating CIH&#xD;
+&#xD;
+          -  recorded CIH use in the EHR in the 6 months prior to the index CIH visit and reported&#xD;
+             CIH use in the 8 weeks prior to index CIH visit&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>89 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stephanie L Taylor, PhD MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>VA Greater Los Angeles Healthcare System, Sepulveda, CA</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>VA Greater Los Angeles Healthcare System, Sepulveda, CA</name>
+      <address>
+        <city>Sepulveda</city>
+        <state>California</state>
+        <zip>91343</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>VA Puget Sound Health Care System Seattle Division, Seattle, WA</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Zeliadt SB, Coggeshall S, Thomas E, Gelman H, Taylor SL. The APPROACH trial: Assessing pain, patient-reported outcomes, and complementary and integrative health. Clin Trials. 2020 Aug;17(4):351-359. doi: 10.1177/1740774520928399. Epub 2020 Jun 10.</citation>
+    <PMID>32522024</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zeliadt SB, Coggeshall S, Gelman H, Shin MH, Elwy AR, Bokhour BG, Taylor SL. Assessing the Relative Effectiveness of Combining Self-Care with Practitioner-Delivered Complementary and Integrative Health Therapies to Improve Pain in a Pragmatic Trial. Pain Med. 2020 Dec 12;21(Suppl 2):S100-S109. doi: 10.1093/pm/pnaa349.</citation>
+    <PMID>33313736</PMID>
+  </results_reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 28, 2021</study_first_posted>
+  <last_update_submitted>October 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 28, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Complementary Therapies</keyword>
+  <keyword>Chronic Pain</keyword>
+  <keyword>Integrative Medicine</keyword>
+  <keyword>Chiropractic</keyword>
+  <keyword>Acupuncture</keyword>
+  <keyword>Yoga</keyword>
+  <keyword>Tai Chi</keyword>
+  <keyword>Meditation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Musculoskeletal Pain</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>The APPROACH study is primarily a study of existing data. As such, the investigators will not have data to share.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

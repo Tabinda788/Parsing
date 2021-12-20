@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5925">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05084092</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IORT_BRAIN_MET_2019</org_study_id>
+    <nct_id>NCT05084092</nct_id>
+  </id_info>
+  <brief_title>IORT After Surgical Resection of Brain Metastases</brief_title>
+  <acronym>IORT_BRAINM1</acronym>
+  <official_title>IORT After Surgical Resection of Brain Metastases: Feasibility and Efficacy Phase II Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Institut Català d'Oncologia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Institut Català d'Oncologia</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the feasibility and efficacy of the Intraoperative Radiation Therapy (IORT) after&#xD;
+      the resection of a brain metastases to reduce the incidence of local relapse&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 17, 2020</start_date>
+  <completion_date type="Anticipated">December 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Intraoperative Radiation Therapy (IORT)</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Median local progression free survival (PFS)</measure>
+    <time_frame>12 months</time_frame>
+    <description>Time span (in months) between surgery and recurrence within a 0,5 cm margin around the resection cavity, evaluated through Response Assessment in Neuro-Oncology (RANO) criteria for brain metastasis obtained from serial Magnetic resonance imaging (MRI) scans.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Median regional PFS (rPFS)</measure>
+    <time_frame>12 months</time_frame>
+    <description>The time (in months) from surgery to any progression outside of the 0,5 cm margin around the resection cavity, evaluated through Response Assessment in Neuro-Oncology (RANO) criteria for brain metastasis obtained from serial Magnetic resonance imaging (MRI) scans.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Global PFS (gPFS)</measure>
+    <time_frame>12 months</time_frame>
+    <description>Time (in months) from surgery to any intra- and extracranial tumor progression evaluated through Response Assessment in Neuro-Oncology (RANO) criteria for brain metastasis obtained from serial Magnetic resonance imaging (MRI) scans.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median time to the initiation of systemic therapies</measure>
+    <time_frame>12 months</time_frame>
+    <description>Time (in days) from surgery to the day of initiation of any systemic anti-tumor therapy (e.g., chemotherapy)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median overall survival (OS)</measure>
+    <time_frame>12 months</time_frame>
+    <description>Time (in months) from surgery of brain metastases to death by any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in neurocognitive performance (compared to baseline): Minimental</measure>
+    <time_frame>6, and 12 months</time_frame>
+    <description>Assessed by minimal mental scale examination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in neurocognitive performance (compared to baseline): Trail making</measure>
+    <time_frame>6, and 12 months</time_frame>
+    <description>Assessed by trail making test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in neurocognitive performance (compared to baseline): Repetition</measure>
+    <time_frame>6, and 12 months</time_frame>
+    <description>Assessed by number repetition test (forward and backward)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in neurocognitive performance (compared to baseline): Oral</measure>
+    <time_frame>6, and 12 months</time_frame>
+    <description>Assessed by controlled oral word association test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in neurocognitive performance (compared to baseline): Semantic</measure>
+    <time_frame>6, and 12 months</time_frame>
+    <description>Assessed by semantic word association</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life (QoL)</measure>
+    <time_frame>6, and 12 months</time_frame>
+    <description>Assessed by European Organization for Research and Treatment (EORTC)- Quality of Life Questionnaires (QLQ C30/BN20)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Radiation-related (acute / early delayed / late) neurotoxicity</measure>
+    <time_frame>12 months</time_frame>
+    <description>Assessed by regular neurological examinations combined by serial MRI scans</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Brain Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>Intraoperative Radiotherapy (IORT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intraoperative Radiotherapy (IORT) administered during surgery</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Intraoperative Radiotherapy (IORT)</intervention_name>
+    <description>Surgery should be performed according to the local standard of care, preferentially as image-(neuronavigation) guided surgery. To establish the diagnosis of a metastasis and to exclude primary CNS tumors, lymphomas, SCLCs or germinomas it will be performed a peroperative biopsy. If it is positive, local treatment with IORT will be performed. After IORT (15,40 Gray at 2 mm dept), the applicator will be removed and surgery will be continued in a standard fashion.</description>
+    <arm_group_label>Intraoperative Radiotherapy (IORT)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18 years, Karnofsky Performance Index ≥ 70.&#xD;
+&#xD;
+          -  Newly diagnosed cerebral or cerebellar lesion (contrast enhancing on a T1- weighted&#xD;
+             MRI scan) amenable to total resection with no dural attachment.&#xD;
+&#xD;
+          -  Frozen section confirming a metastasis of an extracranial (i.e. non-CNS) tumor.&#xD;
+&#xD;
+          -  Adequate distance to optic nerve(s), chiasm and brainstem (organs at risk for&#xD;
+             radiotherapy).&#xD;
+&#xD;
+          -  Adequate birth control.&#xD;
+&#xD;
+          -  Informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Leptomeningeal spread and dural attachment (assessed pre- and intraoperative).&#xD;
+&#xD;
+          -  Frozen section reveals primary CNS tumor, lymphoma, SCLC or germinoma.&#xD;
+&#xD;
+          -  Psychiatric or social condition potentially interfering with compliance.&#xD;
+&#xD;
+          -  Contraindication against anesthesia, surgery, MRI and/or contrast agents.&#xD;
+&#xD;
+          -  Pregnant or breast-feeding women.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Miquel Macià, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Catalan Institute of Oncology</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Miquel Macià, MD</last_name>
+    <phone>+34 93 260 77 20</phone>
+    <email>mmacia@iconcologia.net</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Catalan Institute of Oncology</name>
+      <address>
+        <city>Hospitalet de Llobregat</city>
+        <state>Barcelona</state>
+        <zip>08908</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Miquel Macià, MD</last_name>
+      <phone>+34 93 260 77 20</phone>
+      <email>mmacia@iconcologia.net</email>
+    </contact>
+    <contact_backup>
+      <last_name>Anna Lucas, MD</last_name>
+      <phone>+34 93 260 77 20</phone>
+      <email>alucas@iconcologia.net</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>April 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 19, 2021</study_first_posted>
+  <last_update_submitted>October 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Brain metastases</keyword>
+  <keyword>neurosurgery</keyword>
+  <keyword>intraoperative radiotherapy</keyword>
+  <keyword>local therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Brain Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

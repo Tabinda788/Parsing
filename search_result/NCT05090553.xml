@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5428">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05090553</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VMRDocProtocol_2021</org_study_id>
+    <nct_id>NCT05090553</nct_id>
+  </id_info>
+  <brief_title>Protocol for an Analytical Study With Microbiological, Phenotypic, Genotypic and Multiomics Techniques</brief_title>
+  <official_title>Cutibacterium Acnes Colonization on Intervertebral Discs of Patients With Low Back Pain: Protocol for an Analytical Study With Microbiological, Phenotypic, Genotypic and Multiomics Techniques</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Gaffree &amp; Guinle Universitary Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Gaffree &amp; Guinle Universitary Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study aims to identify metabolites present in intervertebral discs colonized by C. acnes&#xD;
+      from patients with low back pain and degenerative disc disease, correlating them with their&#xD;
+      clinical, radiological and demographic profiles.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">August 1, 2021</start_date>
+  <completion_date type="Anticipated">October 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Neither the patient nor the surgeons will have access to the results of microbiological cultures or molecular analysis. The radiologist who will review the exams will also be blinded to patient data and laboratory results. The researcher who will analyze the pain and function scores will also be blinded.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of C. acnes on intervertebral disc</measure>
+    <time_frame>Up to 5 months</time_frame>
+    <description>Incidence of C. acnes on intervertebral disc in patients with chronic low back pain and DDL.</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Back Pain, Low</condition>
+  <condition>Degenerative Disc Disease</condition>
+  <arm_group>
+    <arm_group_label>surgical treatment</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Lumbar Spinal Fusion Surgery</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Bacterial culture</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cutibacterium acnes culture in two different atmosphere:&#xD;
+Carbon dioxide (CO2) from 5% up to 10%&#xD;
+CO2 10%, H2 10% and N2 80%</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phenotypic and genotypic characterization</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Mass spectrometry and (Polimerase Chain Reaction) PCR</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Multiomics analysis</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Genome sequencing&#xD;
+Proteomics&#xD;
+Metabolomics</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Lumbar Spinal Fusion Surgery</intervention_name>
+    <description>During surgery will be collected five disc fragments and five fragments of muscle-ligament tissue adjacent to the collected disc.</description>
+    <arm_group_label>surgical treatment</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Bacterial culture</intervention_name>
+    <description>Samples will be seeded on blood agar and anaerobic blood agar plates. After sowing in solid media, the swab will be inoculated in thioglycolate medium, where it will remain for 14 days</description>
+    <arm_group_label>Bacterial culture</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>Phenotypic and genotypic characterization</intervention_name>
+    <description>The phenotypic identification of the species will be carried out through mass spectrometry, with the MALDI-TOF equipment.&#xD;
+PCR analyzes performed in two phases, the first to confirm the presence of bacteria (target and non-target) using primers capable of amplifying eubacteria ribosomal deoxyribonucleic acid (rDNA) 16s and the second directed to confirm C. acnes through specific rDNA 16s primers.</description>
+    <arm_group_label>Phenotypic and genotypic characterization</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>Multiomics analysis</intervention_name>
+    <description>Whole Genome Sequencing, proteomics and metabolomics analysis</description>
+    <arm_group_label>Multiomics analysis</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  low back pain lasting longer than 3 months;&#xD;
+&#xD;
+          -  MRI findings of degenerative lumbar discopathy (DDL) performed less than 6 months&#xD;
+             after inclusion in the study;&#xD;
+&#xD;
+          -  indication for open surgical treatment, with isolated microdiscectomy or associated&#xD;
+             with lumbar arthrodesis;&#xD;
+&#xD;
+          -  failure of conservative treatment for at least 6 weeks and/or progressive neurological&#xD;
+             deficit&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of open lumbar spine surgery at any stage of life;&#xD;
+&#xD;
+          -  presence of chemotherapy or pulse therapy with corticoids;&#xD;
+&#xD;
+          -  patients with immune deficiency;&#xD;
+&#xD;
+          -  patients undergoing previous intradiscal therapies (nucleotomy or discography);&#xD;
+&#xD;
+          -  patients undergoing previous endoscopic surgery;&#xD;
+&#xD;
+          -  patients with a history of previous spinal infection treated with antibiotics in the 6&#xD;
+             months prior to inclusion in the study;&#xD;
+&#xD;
+          -  use of antibiotics in the 2 months prior to the surgical procedure&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Hospital Universitário Gaffrée e Guinle</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <zip>20270-004</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 28, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 22, 2021</study_first_posted>
+  <last_update_submitted>October 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Gaffree &amp; Guinle Universitary Hospital</investigator_affiliation>
+    <investigator_full_name>Vinicius Magno da Rocha</investigator_full_name>
+    <investigator_title>Clinical Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Intervertebral Disc Degeneration</mesh_term>
+    <mesh_term>Back Pain</mesh_term>
+    <mesh_term>Low Back Pain</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

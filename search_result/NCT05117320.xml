@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3369">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05117320</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FACTUAL-XRAI 1.0</org_study_id>
+    <nct_id>NCT05117320</nct_id>
+  </id_info>
+  <brief_title>Artificial Intelligence to Improve Physicians' Interpretation of Chest X-Rays in Breathless Patients</brief_title>
+  <acronym>XRAI</acronym>
+  <official_title>Value of Artificial Intelligence to Improve Chest X-ray Reading in Acute Dyspnoeic Patients: A Randomized Study Among Emergency Physicians</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bispebjerg Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Enlitic.com</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Oxipit.ai</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Bispebjerg Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Identifying the cause of breathlessness in acute patients in the emergency department is&#xD;
+      critical and challenging. The chest X-ray is central but challenging to read for&#xD;
+      non-radiologist physicians. Often the physicians read the CXR alone due to off-hours and&#xD;
+      shortage of radiology specialists. Artificial Intelligence (AI) has the potential to aid the&#xD;
+      reading of chest X-rays. The hypothesis is that AI applied to chest X-rays improves emergency&#xD;
+      physicians' diagnostic accuracy in acute breathless patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      Acute dyspnoea is a common symptom in the emergency department (ED) but possible differential&#xD;
+      diagnoses are numerous. The chest X-ray (CXR) is of great importance in distinguishing&#xD;
+      between these diagnoses and initiating proper treatment but is challenging to interpret for&#xD;
+      non-radiologist physicians. Radiology departments are confronted with a demand to read a&#xD;
+      constantly increasing number of acutely performed CXRs, which exceeds the necessary&#xD;
+      resources. Therefore, in the acute setting, emergency physicians must often read and diagnose&#xD;
+      the CXR alone. Altogether, there is an unmet need for help with the CXR interpretation in the&#xD;
+      ED.&#xD;
+&#xD;
+      Artificial intelligence (AI) software for interpreting CXR has been developed for the&#xD;
+      detection of pathological findings. In this study, the primary aim is to investigate if AI&#xD;
+      improves the diagnosis on CXR by non-radiologist physicians in consecutive dyspnoeic patients&#xD;
+      in the emergency department.&#xD;
+&#xD;
+      We hypothesize, that AI applied to chest X-rays improves the emergency physicians' diagnostic&#xD;
+      accuracy in acute dyspnoeic patients. Our study has the potential to impact the&#xD;
+      implementation of AI in clinical practice.&#xD;
+&#xD;
+      Method:&#xD;
+&#xD;
+      In a multi-reader multi-case study, a total of 25 emergency physicians will review CXRs from&#xD;
+      231 prospectively collected patients including vital patient information. Each physician will&#xD;
+      review data from 50 patients. In random order, and on two different days, each CXR is&#xD;
+      reviewed once with and once without AI-enabled reading. Each physician is asked to assess a&#xD;
+      diagnosis of heart failure, a diagnosis of pneumonia, and whether the CXR is with or without&#xD;
+      acute remarkable findings. The reference standard is the radiological diagnoses obtained by&#xD;
+      two independent thorax radiologists blinded to all clinical data.&#xD;
+&#xD;
+      The physicians report their diagnoses in an online questionnaire based on REDCap®. We also&#xD;
+      collect information that may affect diagnostic accuracy, such as level of education and&#xD;
+      experience with CXR reading, along with questions about how sure the physician feels of their&#xD;
+      tentative diagnosis. We ask the physicians about their interest in, former experience with&#xD;
+      and expectations to AI, along with an evaluation of these qualities afterwards.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">October 19, 2021</start_date>
+  <completion_date type="Anticipated">July 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Diagnostic accuracy ratio for a remarkable acute CXR</measure>
+    <time_frame>3 months</time_frame>
+    <description>The primary outcome is the difference in diagnostic accuracy of the non-radiologist emergency physicians' diagnosis of a remarkable acute CXR compared with the gold standard. Odds of correct diagnosis are compared using an odds ratio with 95% confidence interval estimated using conditional logistic regression. Thus, the improvement in the odds of correct classification after versus before AI support is reported.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Diagnostic accuracy ratio for pulmonary congestion</measure>
+    <time_frame>3 months</time_frame>
+    <description>The diagnostic accuracy of the emergency physicians' diagnosis of pulmonary congestion compared with the gold standard. Results will be analysed and reported as described for the primary outcome measure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diagnostic accuracy ratio for pneumonia</measure>
+    <time_frame>3 months</time_frame>
+    <description>The diagnostic accuracy of the emergency physicians' diagnosis of pneumonia compared with the gold standard. Results will be analysed and reported as described for the primary outcome measure.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">25</enrollment>
+  <condition>Dyspnea</condition>
+  <arm_group>
+    <arm_group_label>Physicians</arm_group_label>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Physicians&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Medical Doctor (MD)&#xD;
+&#xD;
+          -  Working experience with emergency patients&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Current or former employment as a radiologist&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University Hospital Bispebjerg and Frederiksberg</name>
+      <address>
+        <city>Copenhagen</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 11, 2021</study_first_posted>
+  <last_update_submitted>November 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Bispebjerg Hospital</investigator_affiliation>
+    <investigator_full_name>Olav Wendelboe Nielsen</investigator_full_name>
+    <investigator_title>MD, PhD</investigator_title>
+  </responsible_party>
+  <keyword>Dyspnea</keyword>
+  <keyword>Dyspnea; Cardiac</keyword>
+  <keyword>Artificial Intelligence</keyword>
+  <keyword>Deep Learning</keyword>
+  <keyword>Emergency Department</keyword>
+  <keyword>Diagnostic</keyword>
+  <keyword>Physicians</keyword>
+  <keyword>Emergency Service, Hospital</keyword>
+  <keyword>X-Rays</keyword>
+  <keyword>Pneumonia</keyword>
+  <keyword>Heart Failure Acute</keyword>
+  <keyword>Diagnostic Accuracy</keyword>
+  <keyword>Multi-reader multi-case (MRMC)</keyword>
+  <keyword>Chest X-ray</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dyspnea</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

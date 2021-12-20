@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4529">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05102240</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TMC IRB 900787</org_study_id>
+    <secondary_id>CTRI/2021/08/035810</secondary_id>
+    <nct_id>NCT05102240</nct_id>
+  </id_info>
+  <brief_title>Development of Clinically High Efficient Platforms for Individualised Treatment of Cervix Cancer</brief_title>
+  <official_title>Developing Clinical High Efficiency Platforms for Individualised Treatment Through Integration of Advanced Radiation Technology, Quantitative Imaging and Molecular Biology and Machine Learning for Treatment of Cervix Cancer.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tata Memorial Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bhabha Atomic Research Centre and Indian Institute of Technology, Mumbai.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Erasmus Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Tata Memorial Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Retrospective study utilizing patient data to develop and validate Machine Learning&#xD;
+      application. Available imaging data sets of patients who have completed treatment will be&#xD;
+      used to develop Normal tissue complication probability and Tumour control probability&#xD;
+&#xD;
+      Hypothesis Integrating existing radiation treatment information, quantitative imaging and&#xD;
+      patient outcome data from completed and ongoing clinical trials will allow development of&#xD;
+      knowledge based systems for efficient treatment delivery and allow selection of patients for&#xD;
+      intensified treatment approaches in cervix cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      For Aim 1. Automatic delineation of complex tumour targets for cervical cancer for the Gross&#xD;
+      Tumour Volume (GTV) at baseline and at brachytherapy and High Risk Clinical Target&#xD;
+      Volume(CTV) at baseline and brachytherapy will be done on MRI.&#xD;
+&#xD;
+      Following structures will be processed for automation on CT&#xD;
+&#xD;
+        1. Low Risk Clinical Target Volume (Low Risk CTV)&#xD;
+&#xD;
+        2. GTV: Nodal&#xD;
+&#xD;
+        3. Elective Nodal Pelvic Target Volume&#xD;
+&#xD;
+        4. Elective Nodal Pelvic and Paraaortic Volume&#xD;
+&#xD;
+        5. Rectum&#xD;
+&#xD;
+        6. Bladder&#xD;
+&#xD;
+        7. Sigmoid&#xD;
+&#xD;
+        8. Bowel&#xD;
+&#xD;
+        9. Bone Marrow&#xD;
+&#xD;
+      For Aim 2. we intend to employ machine learning for developing more robust normal tissue&#xD;
+      toxicity prediction models. Further advanced techniques like texture analysis of radiation&#xD;
+      dose maps and follow up tissue density will also be performed to develop predictive models of&#xD;
+      toxicity. By using our patient datasets, we want to create a library of proton beam plans&#xD;
+      with the proton planning systems that will be available in department of radiation oncology&#xD;
+      and using the developed normal tissue complication plots available the information of&#xD;
+      achievable doses through protons can help in identifying patients who will benefit from&#xD;
+      proton therapy.&#xD;
+&#xD;
+      For Aim 3. Within this project we intend to integrate staging, pathology and quantitative&#xD;
+      imaging texture features for response prediction and identification of &quot;high risk cohort&quot; in&#xD;
+      cervix cancer. Images and clinical data from patients that have MRI at baseline will be&#xD;
+      included The texture features can be used to categorise &quot;good&quot; and &quot;poor responders&quot; after&#xD;
+      chemoradiation. For the same cohort of patients we also have tissue available including&#xD;
+      results of additional biomarkers (like AKT,LICAM, PDL1,CD4 and CD8). We intend to first&#xD;
+      correlate difference in texture features and see if there is a pattern of different molecular&#xD;
+      features. In the second step imaging and molecular features could be integrated for&#xD;
+      developing&quot; risk prediction models&quot;. GTV and HRCTV delineated on 150 data sets at baseline&#xD;
+      and brachytherapy within Aim 1 will be utilised to categorise responders and non-responders&#xD;
+      and validate another 150 patient data sets.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2021</start_date>
+  <completion_date type="Anticipated">September 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Generation of software for automated target delineation for cervix cancer</measure>
+    <time_frame>3 years</time_frame>
+    <description>1. To develop and validate automated platforms for target delineation and planning for cervix cancer in time efficient manner through&#xD;
+a. Machine learning based detection of abnormal cancerous tissues in multimodality medical diagnostic images.&#xD;
+b . To train machine base systems for automated planning of external radiation and brachytherapy for gynaecological cancers.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Development and validation of Normal Tissue Complication Plots</measure>
+    <time_frame>3 years</time_frame>
+    <description>2. To use existing databases and radiation dose maps, imaging texture features and adverse events data for machine learning to develop &quot;normal tissue complication plots &quot;and to identify cervix cancer patient subgroups that may benefit from advanced radiation techniques (like proton treatment)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Identify &quot;high risk patient population&quot; that may benefit from intensification of treatment in future</measure>
+    <time_frame>3 years</time_frame>
+    <description>3. To use advanced image texture analysis within ongoing institutional and collaborative clinical trials to identify &quot;high risk patient population&quot; that may benefit from intensification of treatment in future</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">1800</enrollment>
+  <condition>Cervix Cancer</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Cervical cancer patients treated within ongoing and completed clinical trials of&#xD;
+        chemoradiation and brachytherapy for cervix cancer at our institute with access to MRI/CT&#xD;
+        images at time of diagnosis and brachytherapy, undergoing postoperative or definitive&#xD;
+        radiotherapy and treated within trials of postoperative or definitive RT.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        For Aim 1 and Aim 3:&#xD;
+&#xD;
+          -  Patients treated within ongoing and completed clinical trials of chemoradiation and&#xD;
+             brachytherapy for cervix cancer with access to MRI/CT images at the time of diagnosis&#xD;
+             and brachytherapy For Aim 2&#xD;
+&#xD;
+          -  Patients undergoing postoperative or definitive radiotherapy and treated within trials&#xD;
+             of postoperative or definitive RT.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Lack of disease or toxicity outcomes.&#xD;
+&#xD;
+          2. Lack of images in the hospital database.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>This study is about cervical cancer.</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Supriya Sastri (nee Chopra), MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Tata Memorial Centre, The Advanced Centre for Treatment, Research and Education in Cancer (ACTREC)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Supriya Sastri (nee Chopra), MD</last_name>
+    <phone>02227405000</phone>
+    <phone_ext>5113</phone_ext>
+    <email>supriyasastri@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Supriya Sastri (nee Chopra), MD</last_name>
+    <phone>02227405000</phone>
+    <phone_ext>5113</phone_ext>
+    <email>schopra@actrec.gov.in</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Advanced Centre of Treatment Research and Education In Cancer,Tata Memorial Centre</name>
+      <address>
+        <city>Navi Mumbai</city>
+        <state>Maharashtra</state>
+        <zip>410210</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>India</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 20, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 1, 2021</study_first_posted>
+  <last_update_submitted>October 20, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 20, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Tata Memorial Hospital</investigator_affiliation>
+    <investigator_full_name>Supriya Sastri (chopra)</investigator_full_name>
+    <investigator_title>Professor, Radiation Oncology</investigator_title>
+  </responsible_party>
+  <keyword>Advanced Radiation Technology</keyword>
+  <keyword>Quantitative Imaging, Molecular Biology, Machine Learning</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Uterine Cervical Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

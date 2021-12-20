@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5061">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05095324</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20210520</org_study_id>
+    <nct_id>NCT05095324</nct_id>
+  </id_info>
+  <brief_title>The Biomarker Prediction Model of Septic Risk in Infected Patients</brief_title>
+  <official_title>The Biomarker Prediction Model of Septic Risk in Infected Patients: Observational Multi-center Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Beijing Tsinghua Chang Gung Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Peking Union Medical College Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>First Hospital of Tsinghua University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Renmin Hospital of Wuhan University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hebei Medical University Third Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tianjin Medical University General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Beijing Tsinghua Chang Gung Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Sepsis is defined as a life-threatening organ dysfunction caused by a dysregulated host&#xD;
+      response to an infection. Sepsis is associated with high mortality because of the complex&#xD;
+      mechanisms. In China, the mortality of sepsis in ICU was up to 35.5%. As a major and urgent&#xD;
+      global public health challenge，sepsis is hard to treat because of the complexion and highly&#xD;
+      heterogeneous in clinical manifestation. The early diagnosis and stratification of the&#xD;
+      infection is very important. If we can identify the patients who may developed into the&#xD;
+      sepsis, the therapeutic regimen was not only antibiotic, but also included stable the&#xD;
+      vascular endothelial cells，regulation of coagulation function and protection of organ&#xD;
+      functions. Biomarkers have an important place in sepsis because they are strictly related to&#xD;
+      the organ damage. Each organ has its own specific biomarkers, and these biomarkers will&#xD;
+      change according to the severity of the disease. So the investigators want to find the&#xD;
+      difference of biomarkers of each organ in patients from infection to spesis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      According to the definition, infection is the original source of sepsis. How can diagnose&#xD;
+      organ failure early is the most impotent thing which can prevention the sepsis. In 2021, the&#xD;
+      guidelines for management of septic and septic shock recommend Sequential Organ Failure&#xD;
+      Assessment (SOFA) and systemic inflammatory response syndrome (SIRS) to diagnose sepsis. The&#xD;
+      standards of SOFA were acquired from clinical manifestations，such as blood pressure,&#xD;
+      oxygenation index, platelet, etc. These indexes can abnormal at the end of organ failure. On&#xD;
+      the other hand, it is difficult to acquire these indexes in emergency. There is wide&#xD;
+      variation in diagnostic accuracy of these tools with most having poor predictive values.&#xD;
+&#xD;
+      The number of publications related to sepsis biomarkers has increased over the years. The&#xD;
+      proportion of new biomarkers has decreased. Because of the complexity of the sepsis response,&#xD;
+      single biomarker might be fruitless. The investigators want to use the cytokines which have&#xD;
+      found and can represent the function of the organ in septic patients. The investigations can&#xD;
+      use these biomarkers of respiratory system, circulation, liver, renal system, coagulation and&#xD;
+      nervous system, to build up a prediction model of septic risk in infected patients.&#xD;
+&#xD;
+      The participants will be divided into &quot;training set&quot; and &quot;verification set&quot; randomly. The&#xD;
+      proportion of training set: verification set is 3:2. In the training set, the investigators&#xD;
+      will compare the cytokines between infection and sepsis. In sepsis patients, the&#xD;
+      investigators will compare the data between &quot;organ failure group&quot; and &quot;control group&quot;, and&#xD;
+      use these data to build up the prediction model of septic risk. These data will be verify the&#xD;
+      validity and accuracy of the model in the verification set.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">September 7, 2021</start_date>
+  <completion_date type="Anticipated">September 14, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 7, 2022</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>1 Year</target_duration>
+  <primary_outcome>
+    <measure>the change of biomarkers between the septic patients with and without ARDS</measure>
+    <time_frame>Participant will be followed up to 14 days to observe whether they can be diagnosed sepsis or not.</time_frame>
+    <description>endocan (the cutoff value is 2.45 ng/ml to diagnose ARDS); sydecan-1 and Ang 2 are also the biomarkers of ARDS, they can but the cutoff values are not certain.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>the change of biomarkers between the septic patients with and without disturbance of consciousness</measure>
+    <time_frame>Participant will be followed up to 14 days to observe whether they can be diagnosed sepsis or not.</time_frame>
+    <description>neuron-specific enolase (NSE), the cutoff value is 24.15 ng/ml to diagnose Septic encephalopathy; S100β: is a calcium-binding protein released by brain astrocytes. The increase of S100β is represents breakdown of the blood-brain barrier.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>the change of biomarkers between the septic patients with and without abnormal coagulation function</measure>
+    <time_frame>Participant will be followed up to 14 days to observe whether they can be diagnosed sepsis or not.</time_frame>
+    <description>tissue factor (TF): as the important components of exogenous coagulation pathways, TF will be elevated in sepsis. the cutoff value is 1005.8 pg/ml.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>the change of biomarkers between the septic patients with and without circulatory failure</measure>
+    <time_frame>Participant will be followed up to 14 days to observe whether they can be diagnosed sepsis or not.</time_frame>
+    <description>heart type fatty acid-binding protein (hFABP): The expression was increased in patients with septic myocardial injury, with intercept value ≥4.5 ng/mL, sensitivity of 83%, specificity of 73%. The myocardial enzyme will also be tested.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>the change of biomarkers between the septic patients with and without acute kidney failure</measure>
+    <time_frame>Participant will be followed up to 14 days to observe whether they can be diagnosed sepsis or not.</time_frame>
+    <description>neutrophil gelatinase-associated apolipoprotein (NGAL) and serial serum cell adhesion molecules (the cutoff value is 124.4 ng/ml)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>the change of biomarkers between the septic patients with and without liver failure</measure>
+    <time_frame>Participant will be followed up to 14 days to observe whether they can be diagnosed sepsis or not.</time_frame>
+    <description>Golgi body 73 (GP73): is rarely or not expressed in normal liver cells, but is relatively stable in bile duct epithelial cells of the liver. When liver lesions occur, the expression level of GP73 is significantly higher. endothelin-1 is another biomarker to evaluate the liver function in sepsis</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Sepsis</condition>
+  <condition>Early Diagnosis</condition>
+  <condition>Biomarkers</condition>
+  <arm_group>
+    <arm_group_label>control</arm_group_label>
+    <description>the infection patients who didn't have organ failure according to the SOFA score: 1. respiratory system: PaO2/FiO2≥&lt;400 mmHg; 2. MAP≥70mmHg; 3. Liver: Bilirubin&lt;1.2mg/dL; 4. Renal system: Creatinine&lt;1.2mg/dL or Urine output≥500ml/d; 5. Platelets≥150×10^9/L; 6. nervous system:Glasgow coma score=15.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>organ failure</arm_group_label>
+    <description>the patients who had sepsis in follow up period: 1. respiratory system:PaO2/FiO2&lt;400mmHg; 2. Circulation: MAP&lt;70mmHg or administration of vasopressors required; 3. Liver: Bilirubin≥1.2mg/dL; 4. Renal system: Creatinine≥1.2mg/dL or Urine output&lt;500ml/d; 5. Coagulation: Platelets&lt;150×10^9/L; 6. nervous system: Glasgow coma score &lt;15.</description>
+  </arm_group>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      we set a control staff and a liaison in each research center, they collect samples and store&#xD;
+      them at -80℃. we cold chain transport them to the testing center. All of the biomarker will&#xD;
+      be tested in designated laboratory.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        patients who visit the emergency of the research center hospital&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients who meet any of the diagnostic criteria of &quot;suspected infection&quot;, &quot;confirmed&#xD;
+             infection&quot; and &quot;suspected sepsis&quot;.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  age &lt; 18 years old; pregnancy or breast-feeding; lack of informed consent by the&#xD;
+             patients or relatives.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Wang zhong, master</last_name>
+    <role>Study Chair</role>
+    <affiliation>Beijing Tsinghua Chang Gung Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Tsinghua Changgung Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>102218</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 27, 2021</study_first_posted>
+  <last_update_submitted>October 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

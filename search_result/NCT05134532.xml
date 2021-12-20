@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2046">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05134532</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-05-048-007</org_study_id>
+    <nct_id>NCT05134532</nct_id>
+  </id_info>
+  <brief_title>Regorafenib After Progression on Atezolizumab Plus Bevacizumab in Advanced HCC</brief_title>
+  <acronym>HCC</acronym>
+  <official_title>Phase II Trial of Regorafenib in Patients With Unresectable Hepatocellular Carcinoma After Progression on First Line Atezolizumab Plus Bevacizumab</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>CHA University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bayer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>CHA University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To investigate efficacy and toxicity of regorafenib after treatment with atezolizumab and&#xD;
+      bevacizumab combination&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      -  There is preclinical and clinical data on synergistic activity of angiogenesis&#xD;
+           inhibitors and anti-programmed death-1 (anti-PD-1) targeted therapy. Targeting VEGFR&#xD;
+           decreased T-regulatory cells and Myeloid-derived suppressor Cells. In addition, VEGF-A&#xD;
+           produced in the tumor microenvironment enhanced expression of PD-1 involved in CD8 T&#xD;
+           cell exhaustion8. The combination of targeted therapy and immune-checkpoint inhibitors&#xD;
+           (ICIs), either in a parallel or sequential manner, could theoretically lead to enhanced&#xD;
+           anti-tumor responses, reflected in durable responses and prolonged survival. However,&#xD;
+           there have been lack of clinical data of targeted agents who developed progressive&#xD;
+           disease with ICIs.&#xD;
+&#xD;
+        -  In previous phase I study, pharmacodynamics indicated a sustained occupancy of &gt; 70% of&#xD;
+           PD-1 molecules on circulating T-cells ≥ 2 months following infusion. Based on these&#xD;
+           findings, ICI use may retain the prolonged effect even after discontinuation. There was&#xD;
+           a case report of a sorafenib-refractory patient experiencing progressive disease during&#xD;
+           ICI combination treatment with the anti-PD-1 antibody and the anti-GITR antibody within&#xD;
+           phase I trial followed by a prolonged tumor response during third-line regorafenib&#xD;
+           monotherapy.&#xD;
+&#xD;
+        -  In patients with advanced HCC, anti-VEGF monoclonal antibodies, multi-kinase inhibitor&#xD;
+           (sorafenib, regorafenib, cabozantinib and lenvatinib) and ICIs are available treatment&#xD;
+           options, however, treatment sequencing and combination strategy are challenging.&#xD;
+&#xD;
+        -  Atezolizumab plus bevacizumab demonstrated survival benefit and established as a new&#xD;
+           first-line therapy, hence it is clinically important to study the efficacy and toxicity&#xD;
+           of regorafenib after treatment with ICIs or ICI combination.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2021</start_date>
+  <completion_date type="Anticipated">October 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free survival (PFS) by RECIST v 1.1</measure>
+    <time_frame>up to 36 months</time_frame>
+    <description>the time from start of study treatment to first documentation of objective tumor progression, or to death due to any cause</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>up to 36 months</time_frame>
+    <description>the time from start of study treatment to date of death due to any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to progression by RECIST v 1.1</measure>
+    <time_frame>up to 36 months</time_frame>
+    <description>the time from start of study (Cycle 1 Day 1) to first documentation of objective tumor progression.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall response rate by RECIST v 1.1</measure>
+    <time_frame>up to 36 months</time_frame>
+    <description>the proportion of patients with confirmed complete response or confirmed partial response according to the RECIST v 1.1, relative to the total evaluable patient population.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate by RECIST v 1.1</measure>
+    <time_frame>up to 36 months</time_frame>
+    <description>the percent of patients with confirmed complete response, partial response, or stable disease for at least 12 weeks on study according to RECIST v 1.1, relative to the total evaluable patient population.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety profiles by NCI-CTCAE version 5</measure>
+    <time_frame>up to 36 months</time_frame>
+    <description>For the evaluation of adverse reactions following medication, using NCI-CTCAE version 5</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Hepatocellular Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Potential subjects will be screened to determine if they meet the eligibility criteria. The screening period is 21 days.&#xD;
+Subjects who meet all the eligibility criteria will be commenced regorafenib 160mg once daily for the first 3 weeks of each 4-week cycle.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>regorafenib</intervention_name>
+    <description>Regorafenib 160 mg orally every day for 3 weeks of every 4-week cycle (i.e. 3 weeks on, 1 week off) plus best supportive care</description>
+    <arm_group_label>intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Diagnosis of HCC according to AASLD guidelines&#xD;
+&#xD;
+          2. Disease that is not amenable to a curative treatment (e.g. surgery, transplant,&#xD;
+             radiofrequency ablation)&#xD;
+&#xD;
+          3. Prior treatment with atezolizumab plus bevacizumab combination as 1st line treatment&#xD;
+             for unresectable HCC&#xD;
+&#xD;
+          4. Progression after atezolizumab plus bevacizumab treatment, The duration of&#xD;
+             atezolizumab plus bevacizumab must be 2 consecutive treatment cycles or more&#xD;
+&#xD;
+          5. Recovery to ≤ Grade 1 from toxicities related to any prior treatments, unless the&#xD;
+             adverse events are clinically non-significant and/or stable on supportive therapy&#xD;
+&#xD;
+          6. Life expectancy of 12 weeks or longer&#xD;
+&#xD;
+          7. Age ≥ 19 years old&#xD;
+&#xD;
+          8. ECOG performance status of 0, 1&#xD;
+&#xD;
+          9. Adequate hematological function&#xD;
+&#xD;
+               1. Absolute neutrophil count (ANC) ≥ 1.5 x109/L&#xD;
+&#xD;
+               2. Platelets ≥ 75 x 109/L&#xD;
+&#xD;
+               3. Hemoglobin ≥ 10 g/dL&#xD;
+&#xD;
+         10. Adequate renal function&#xD;
+&#xD;
+               1. serum creatinine ≤ 1.5 × upper limit of normal or calculated creatinine clearance&#xD;
+                  ≥ 40 mL/min (using the Cockroft-Gault equation) AND&#xD;
+&#xD;
+               2. urine protein/creatinine ratio (UPCR) ≤ 1 mg/mg (≤ 113.1 mg/mmol) or 24-hour&#xD;
+                  urine protein &lt; 1 g&#xD;
+&#xD;
+         11. Child-Pugh Score of 5 or 6&#xD;
+&#xD;
+         12. Total bilirubin ≤ 2 mg/dL (≤ 34.2 μmol/L)&#xD;
+&#xD;
+         13. Serum albumin &gt; 2 g/dL (&gt; 20 g/L)&#xD;
+&#xD;
+         14. Alanine aminotransferase (ALT) &lt; 3.0 upper limit of normal (ULN)&#xD;
+&#xD;
+         15. Antiviral therapy per local standard of care if active hepatitis B (HBV) infection&#xD;
+&#xD;
+         16. Capable of understanding and complying with the protocol requirements and signed&#xD;
+             informed consent&#xD;
+&#xD;
+         17. Sexually active fertile subjects and their partners must agree to use medically&#xD;
+             accepted methods of contraception (e.g., barrier methods, including male condom,&#xD;
+             female condom, or diaphragm with spermicidal gel) during the course of the study and&#xD;
+             for 4 months after the last dose of study treatment&#xD;
+&#xD;
+         18. Female subjects of childbearing potential must not be pregnant at screening.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Fibrolamellar carcinoma or mixed hepatocellular cholangiocarcinoma&#xD;
+&#xD;
+          2. Prior regorafenib treatment&#xD;
+&#xD;
+          3. Prior systemic treatment for HCC, except for atezolizumab plus bevacizumab (i.e.&#xD;
+             regorafenib must be 2nd line systemic treatment)&#xD;
+&#xD;
+          4. Known brain metastases or cranial epidural disease unless adequately treated with&#xD;
+             radiotherapy and/or surgery (including radiosurgery) and stable for at least 3 months&#xD;
+             before randomization.&#xD;
+&#xD;
+          5. Concomitant anticoagulation, at therapeutic doses, with anticoagulants such as&#xD;
+             warfarin or warfarin-related agents, low molecular weight heparin (LMWH), thrombin or&#xD;
+             coagulation factor X (FXa) inhibitors, or antiplatelet agents (eg, clopidogrel). Low&#xD;
+             dose aspirin for cardioprotection (per local applicable guidelines), low-dose warfarin&#xD;
+             (≤ 1 mg/day), and low dose LMWH are permitted.&#xD;
+&#xD;
+          6. The subject has uncontrolled, significant intercurrent or recent illness including,&#xD;
+             but not limited to, the following conditions:&#xD;
+&#xD;
+             a. Cardiovascular disorders including i. Symptomatic congestive heart failure,&#xD;
+             unstable angina pectoris, or serious cardiac arrhythmias ii. Uncontrolled hypertension&#xD;
+             defined as sustained BP &gt; 150 mm Hg systolic, or &gt; 100 mm Hg diastolic despite optimal&#xD;
+             antihypertensive treatment iii. Stroke (including TIA), myocardial infarction, or&#xD;
+             other ischemic event within 6 months iv. Thromboembolic event within 3 months.&#xD;
+             Subjects with thromboses of portal/hepatic vasculature attributed to underlying liver&#xD;
+             disease and/or liver tumour are eligible b. Gastrointestinal (GI) disorders including&#xD;
+             those associated with a high risk of perforation or fistula formation/bleeding: i.&#xD;
+             Tumours invading the GI tract, active peptic ulcer disease, inflammatory bowel&#xD;
+             disease, diverticulitis, cholecystitis, symptomatic cholangitis or appendicitis, acute&#xD;
+             pancreatitis or acute obstruction of the pancreatic duct or common bile duct, or&#xD;
+             gastric outlet obstruction ii. Abdominal fistula, GI perforation, bowel obstruction,&#xD;
+             intra-abdominal abscess within 6 months&#xD;
+&#xD;
+          7. Major surgery within 2 months before randomization. Complete healing from major&#xD;
+             surgery must have occurred 1 month before randomization. Complete healing from minor&#xD;
+             surgery (eg, simple excision, tooth extraction) must have occurred at least 7 days&#xD;
+             before registration. Subjects with clinically relevant co d. Cavitating pulmonary&#xD;
+             lesion(s) or endobronchial disease&#xD;
+&#xD;
+          8. Lesion invading a major blood vessel (eg, pulmonary artery or aorta)&#xD;
+&#xD;
+          9. Clinically significant bleeding risk including the following within 28 days of&#xD;
+             registration: hematuria, hematemesis, hemoptysis of &gt;0.5 teaspoon (&gt;2.5 mL) of red&#xD;
+             blood, or other signs indicative of pulmonary hemorrhage, or history of other&#xD;
+             significant bleeding if not due to reversible external factors&#xD;
+&#xD;
+         10. Gastric or esophageal varices that require interventional treatment within 28 days&#xD;
+             prior to registration. Prophylaxis with pharmacologic therapy (e.g. non-selective beta&#xD;
+             blocker) is permitted.&#xD;
+&#xD;
+         11. Moderate or severe ascites (Radiologically detected but clinically insignificant&#xD;
+             ascites is allowed)&#xD;
+&#xD;
+         12. Corrected QT interval calculated by the Fridericia formula (QTcF) &gt; 500 ms within 21&#xD;
+             days of registration&#xD;
+&#xD;
+             * If the QTcF is &gt; 500 ms in first ECG, a total of 3 ECGs should be performed. If the&#xD;
+             average of these 3 consecutive results for QTcF is ≤ 500 ms, the subject meets&#xD;
+             eligibility in this regard.&#xD;
+&#xD;
+         13. Previously identified allergy or hypersensitivity to components of the study treatment&#xD;
+             formulations&#xD;
+&#xD;
+         14. Pregnant or lactating females&#xD;
+&#xD;
+         15. Diagnosis of another malignancy within 2 years before randomization, except for&#xD;
+             superficial skin cancers, or localized, low-grade tumors deemed cured and not treated&#xD;
+             with systemic therapy&#xD;
+&#xD;
+         16. Other clinically significant disorders that are judged by investigators to be&#xD;
+             unsuitable for the clinical trial&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Cheon</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CHA Bundang Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Cheon</last_name>
+    <phone>82-031-780-3909</phone>
+    <email>cheonjk0526@chamc.co.kr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kim</last_name>
+    <phone>82-031-780-3909</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>CHA Bundang Medical Center</name>
+      <address>
+        <city>Seongnam-si</city>
+        <state>Gyeonggi-do</state>
+        <zip>13520</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jaekyung Cheon, MD</last_name>
+      <email>cheonjk0526@chamc.co.kr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Asan Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Changhoon Yoo, MD, PhD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Changhoon Yoo, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <results_reference>
+    <citation>Bruix J, Qin S, Merle P, Granito A, Huang YH, Bodoky G, Pracht M, Yokosuka O, Rosmorduc O, Breder V, Gerolami R, Masi G, Ross PJ, Song T, Bronowicki JP, Ollivier-Hourmand I, Kudo M, Cheng AL, Llovet JM, Finn RS, LeBerre MA, Baumhauer A, Meinhardt G, Han G; RESORCE Investigators. Regorafenib for patients with hepatocellular carcinoma who progressed on sorafenib treatment (RESORCE): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet. 2017 Jan 7;389(10064):56-66. doi: 10.1016/S0140-6736(16)32453-9. Epub 2016 Dec 6. Erratum in: Lancet. 2017 Jan 7;389(10064):36.</citation>
+    <PMID>27932229</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Finn RS, Qin S, Ikeda M, Galle PR, Ducreux M, Kim TY, Kudo M, Breder V, Merle P, Kaseb AO, Li D, Verret W, Xu DZ, Hernandez S, Liu J, Huang C, Mulla S, Wang Y, Lim HY, Zhu AX, Cheng AL; IMbrave150 Investigators. Atezolizumab plus Bevacizumab in Unresectable Hepatocellular Carcinoma. N Engl J Med. 2020 May 14;382(20):1894-1905. doi: 10.1056/NEJMoa1915745.</citation>
+    <PMID>32402160</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Abou-Alfa GK, Meyer T, Cheng AL, El-Khoueiry AB, Rimassa L, Ryoo BY, Cicin I, Merle P, Chen Y, Park JW, Blanc JF, Bolondi L, Klümpen HJ, Chan SL, Zagonel V, Pressiani T, Ryu MH, Venook AP, Hessel C, Borgman-Hagey AE, Schwab G, Kelley RK. Cabozantinib in Patients with Advanced and Progressing Hepatocellular Carcinoma. N Engl J Med. 2018 Jul 5;379(1):54-63. doi: 10.1056/NEJMoa1717002.</citation>
+    <PMID>29972759</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zhu AX, Finn RS, Edeline J, Cattan S, Ogasawara S, Palmer D, Verslype C, Zagonel V, Fartoux L, Vogel A, Sarker D, Verset G, Chan SL, Knox J, Daniele B, Webber AL, Ebbinghaus SW, Ma J, Siegel AB, Cheng AL, Kudo M; KEYNOTE-224 investigators. Pembrolizumab in patients with advanced hepatocellular carcinoma previously treated with sorafenib (KEYNOTE-224): a non-randomised, open-label phase 2 trial. Lancet Oncol. 2018 Jul;19(7):940-952. doi: 10.1016/S1470-2045(18)30351-6. Epub 2018 Jun 3. Erratum in: Lancet Oncol. 2018 Sep;19(9):e440.</citation>
+    <PMID>29875066</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>El-Khoueiry AB, Sangro B, Yau T, Crocenzi TS, Kudo M, Hsu C, Kim TY, Choo SP, Trojan J, Welling TH Rd, Meyer T, Kang YK, Yeo W, Chopra A, Anderson J, Dela Cruz C, Lang L, Neely J, Tang H, Dastani HB, Melero I. Nivolumab in patients with advanced hepatocellular carcinoma (CheckMate 040): an open-label, non-comparative, phase 1/2 dose escalation and expansion trial. Lancet. 2017 Jun 24;389(10088):2492-2502. doi: 10.1016/S0140-6736(17)31046-2. Epub 2017 Apr 20.</citation>
+    <PMID>28434648</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Cao M, Xu Y, Youn JI, Cabrera R, Zhang X, Gabrilovich D, Nelson DR, Liu C. Kinase inhibitor Sorafenib modulates immunosuppressive cell populations in a murine liver cancer model. Lab Invest. 2011 Apr;91(4):598-608. doi: 10.1038/labinvest.2010.205. Epub 2011 Feb 14.</citation>
+    <PMID>21321535</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Terme M, Pernot S, Marcheteau E, Sandoval F, Benhamouda N, Colussi O, Dubreuil O, Carpentier AF, Tartour E, Taieb J. VEGFA-VEGFR pathway blockade inhibits tumor-induced regulatory T-cell proliferation in colorectal cancer. Cancer Res. 2013 Jan 15;73(2):539-49. doi: 10.1158/0008-5472.CAN-12-2325. Epub 2012 Oct 29.</citation>
+    <PMID>23108136</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Voron T, Colussi O, Marcheteau E, Pernot S, Nizard M, Pointet AL, Latreche S, Bergaya S, Benhamouda N, Tanchot C, Stockmann C, Combe P, Berger A, Zinzindohoue F, Yagita H, Tartour E, Taieb J, Terme M. VEGF-A modulates expression of inhibitory checkpoints on CD8+ T cells in tumors. J Exp Med. 2015 Feb 9;212(2):139-48. doi: 10.1084/jem.20140559. Epub 2015 Jan 19.</citation>
+    <PMID>25601652</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Brahmer JR, Drake CG, Wollner I, Powderly JD, Picus J, Sharfman WH, Stankevich E, Pons A, Salay TM, McMiller TL, Gilson MM, Wang C, Selby M, Taube JM, Anders R, Chen L, Korman AJ, Pardoll DM, Lowy I, Topalian SL. Phase I study of single-agent anti-programmed death-1 (MDX-1106) in refractory solid tumors: safety, clinical activity, pharmacodynamics, and immunologic correlates. J Clin Oncol. 2010 Jul 1;28(19):3167-75. doi: 10.1200/JCO.2009.26.7609. Epub 2010 Jun 1.</citation>
+    <PMID>20516446</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Joerger M, Güller U, Bastian S, Driessen C, von Moos R. Prolonged tumor response associated with sequential immune checkpoint inhibitor combination treatment and regorafenib in a patient with advanced pretreated hepatocellular carcinoma. J Gastrointest Oncol. 2019 Apr;10(2):373-378. doi: 10.21037/jgo.2018.11.04.</citation>
+    <PMID>31032109</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ilangumaran S, Villalobos-Hernandez A, Bobbala D, Ramanathan S. The hepatocyte growth factor (HGF)-MET receptor tyrosine kinase signaling pathway: Diverse roles in modulating immune cell functions. Cytokine. 2016 Jun;82:125-39. doi: 10.1016/j.cyto.2015.12.013. Epub 2016 Jan 25. Review.</citation>
+    <PMID>26822708</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Benkhoucha M, Santiago-Raber ML, Schneiter G, Chofflon M, Funakoshi H, Nakamura T, Lalive PH. Hepatocyte growth factor inhibits CNS autoimmunity by inducing tolerogenic dendritic cells and CD25+Foxp3+ regulatory T cells. Proc Natl Acad Sci U S A. 2010 Apr 6;107(14):6424-9. doi: 10.1073/pnas.0912437107. Epub 2010 Mar 23.</citation>
+    <PMID>20332205</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Rutella S, Bonanno G, Procoli A, Mariotti A, de Ritis DG, Curti A, Danese S, Pessina G, Pandolfi S, Natoni F, Di Febo A, Scambia G, Manfredini R, Salati S, Ferrari S, Pierelli L, Leone G, Lemoli RM. Hepatocyte growth factor favors monocyte differentiation into regulatory interleukin (IL)-10++IL-12low/neg accessory cells with dendritic-cell features. Blood. 2006 Jul 1;108(1):218-27. Epub 2006 Mar 9.</citation>
+    <PMID>16527888</PMID>
+  </results_reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 26, 2021</study_first_posted>
+  <last_update_submitted>November 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>CHA University</investigator_affiliation>
+    <investigator_full_name>Jaekyung Cheon</investigator_full_name>
+    <investigator_title>Assistant professor, Department of Medical Oncology, CHA Bundang Medical Center</investigator_title>
+  </responsible_party>
+  <keyword>Hepatocellular carcinoma</keyword>
+  <keyword>Liver Cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Hepatocellular</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

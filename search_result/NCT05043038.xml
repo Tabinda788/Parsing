@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9081">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05043038</url>
+  </required_header>
+  <id_info>
+    <org_study_id>51495</org_study_id>
+    <nct_id>NCT05043038</nct_id>
+  </id_info>
+  <brief_title>Effect of Night Float Call on Sleep and Activity Patterns Among Anesthesia Residents</brief_title>
+  <official_title>Effect of Night Float Call on Sleep and Activity Patterns Among Anesthesia Residents</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      With increasing awareness about physician fatigue and its effect on patient safety, residency&#xD;
+      programs are increasingly transitioning to a night float call system. In other industries,&#xD;
+      multiple night shifts in a row can cause a disruption in the circadian rhythm, sleep debt,&#xD;
+      shift work disorder, that is related to chronic medical conditions such as obesity and&#xD;
+      cardiovascular disease. We will evaluate the effect of different call structures on resident&#xD;
+      activity, sleep and self reported measures of wellness using a commercially available Fitbit&#xD;
+      device.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Participants will be recruited via an email once they are scheduled for a week of night float&#xD;
+      in the Stanford Main Operating room. Potential participants who are taking prescription&#xD;
+      medications that might affect their alertness during the study period will not be enrolled.&#xD;
+&#xD;
+      The investigators will quantify the changes in sleep pattern and activity during the week&#xD;
+      before, during, and after the night float call week. Self reported aspects of well being&#xD;
+      including fatigue, physical function, and positive affect will be assessed with NIH PROMIS&#xD;
+      surveys at the end of each week during the study period.&#xD;
+&#xD;
+      The investigators will use the Fitbit Alta HR data to quantify the change in total amount of&#xD;
+      sleep, sleep interruption and sleep phase and steps per day. Data will be analyzed only when&#xD;
+      it is coincident with heart rate data to correct for periods when the device is not used.&#xD;
+&#xD;
+      Activity will not alter from the participants normal except that they will wear the Fitbit&#xD;
+      and respond to the NIH PROMIS surveys over the study period.&#xD;
+&#xD;
+      Data from NIH PROMIS surveys, Fitbit and provided demographic information including age, sex&#xD;
+      and BMI, and number of previous night float periods previously completed. After association,&#xD;
+      data will be completely de-identified.&#xD;
+&#xD;
+      All data will be normalized to the participant's baseline value during the run-in week. The&#xD;
+      call week and post call week will be analyzed with a time series mixed effects model using R&#xD;
+      and/or NONMEM (a program for Nonlinear Mixed Effects Modeling). The effects of the above&#xD;
+      demographic variables will be assessed as potential covariates.&#xD;
+&#xD;
+      The investigators anticipate that this observational study will be the first of many studies&#xD;
+      looking at the effects of changing sleep patterns on activity and well-being&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 1, 2019</start_date>
+  <completion_date type="Actual">November 30, 2021</completion_date>
+  <primary_completion_date type="Actual">November 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Total Sleep Hours During Night Float</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>We will compare total sleep hours per 24 hour period during a baseline week, a night float week, and a recovery week</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Rapid Eye Movement Sleep Hours During Night Float</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>We will compare total Rapid Eye Movement sleep hours per 24 hour period during a baseline week, a night float week, and a recovery week</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Daily Steps during Night Float Week</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>We will compare Steps per 24 hour period during a baseline week, a night float week, and a recovery week</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in PROMIS Positive Affect Scores During Night Float Week</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>Participants will take a survey prior to starting night float, at the end of night float week, and after one recovery week. The questions on the PROMIS survey are answered on a Likert scale and normalized to a scale 1-100 based on national average. The mean value for each survey is 50. A higher score would represent increased level of positive affect.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in PROMIS Sleep Disturbance During Night Float Week</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>Participants will take a survey prior to starting night float, at the end of night float week, and after one recovery week. The questions on the PROMIS survey are answered on a Likert scale and normalized to a scale 1-100 based on national average. The mean value for each survey is 50. A higher score would represent increased levels of sleep disturbance</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in PROMIS Fatigue Scores During Night Float Week</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>Participants will take a survey prior to starting night float, at the end of night float week, and after one recovery week. The questions on the PROMIS survey are answered on a Likert scale and normalized to a scale 1-100 based on national average. The mean value for each survey is 50. A higher score would represent increased levels of fatigue.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">27</enrollment>
+  <condition>Sleep Disorder, Shift Work</condition>
+  <condition>Fatigue</condition>
+  <condition>Sleep Disturbance</condition>
+  <arm_group>
+    <arm_group_label>General Anesthesia Night Float</arm_group_label>
+    <description>The residents will be followed over a three week period - one week prior to night float (baseline), the week of night float, and one week after night float (recovery).</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        We will recruit participants who are PGY2-5 and part of the Stanford Hospital Department of&#xD;
+        Graduate Medical Education, which means they will generally be between 26-36 years of age.&#xD;
+        We will aim to recruit an equal number of males and females which is reasonable give the&#xD;
+        demographic distribution of Anesthesia residents. Finally, we aim to have a people with a&#xD;
+        variety of races and ethnicity involved but this will not be specifically targeted or&#xD;
+        evaluated due to the limited pool of eligible subjects.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All residents (PGY2-5) who have been scheduled for either general operating room night&#xD;
+             float call&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants who report taking prescription medications that may effect alertness&#xD;
+             during the study period will not be enrolled.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alexandra Ruan, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Pamela Flood, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford Hospital</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Belayachi J, Benjelloun O, Madani N, Abidi K, Dendane T, Zeggwagh AA, Abouqal R. Self-perceived sleepiness in emergency training physicians: prevalence and relationship with quality of life. J Occup Med Toxicol. 2013 Sep 21;8(1):24. doi: 10.1186/1745-6673-8-24.</citation>
+    <PMID>24053730</PMID>
+  </reference>
+  <reference>
+    <citation>Asken MJ, Raham DC. Resident performance and sleep deprivation: a review. J Med Educ. 1983 May;58(5):382-8. Review.</citation>
+    <PMID>6343602</PMID>
+  </reference>
+  <reference>
+    <citation>Cavallo A, Jaskiewicz J, Ris MD. Impact of night-float rotation on sleep, mood, and alertness: the resident's perception. Chronobiol Int. 2002 Sep;19(5):893-902.</citation>
+    <PMID>12405552</PMID>
+  </reference>
+  <reference>
+    <citation>Davis MC, Kuhn EN, Agee BS, Oster RA, Markert JM. Implications of transitioning to a resident night float system in neurosurgery: mortality, length of stay, and resident experience. J Neurosurg. 2017 Apr;126(4):1269-1277. doi: 10.3171/2016.5.JNS152585. Epub 2016 Jul 8.</citation>
+    <PMID>27392266</PMID>
+  </reference>
+  <reference>
+    <citation>Dunn LK, Kleiman AM, Forkin KT, Bechtel AJ, Collins SR, Potter JF, Kaperak CJ, Tsang S, Huffmyer JL, Nemergut EC. Anesthesiology Resident Night Float Duty Alters Sleep Patterns: An Observational Study. Anesthesiology. 2019 Aug;131(2):401-409. doi: 10.1097/ALN.0000000000002806.</citation>
+    <PMID>31149926</PMID>
+  </reference>
+  <reference>
+    <citation>Nizamuddin SL, Nizamuddin J, Latif U, Tung A, Klafta JM, Lee SM, Ku CM, Stahl DL, Lee J, Shahul SS. Be Active and Be Well? A Cross-sectional Survey of US Anesthesia Residents. J Educ Perioper Med. 2020 Apr 1;22(2):E640. doi: 10.46374/volxxii-issue2-nizamuddin. eCollection 2020 Apr-Jun.</citation>
+    <PMID>32939368</PMID>
+  </reference>
+  <reference>
+    <citation>Lee HA, Lee HJ, Moon JH, Lee T, Kim MG, In H, Cho CH, Kim L. Comparison of Wearable Activity Tracker with Actigraphy for Sleep Evaluation and Circadian Rest-Activity Rhythm Measurement in Healthy Young Adults. Psychiatry Investig. 2017 Mar;14(2):179-185. doi: 10.4306/pi.2017.14.2.179. Epub 2017 Mar 6.</citation>
+    <PMID>28326116</PMID>
+  </reference>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>August 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 13, 2021</study_first_posted>
+  <last_update_submitted>December 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Stanford University</investigator_affiliation>
+    <investigator_full_name>Alexandra Ruan</investigator_full_name>
+    <investigator_title>Clinical Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>Medical Education</keyword>
+  <keyword>Physician Well-Being</keyword>
+  <keyword>Internship and Residency</keyword>
+  <keyword>Work Schedule Tolerance</keyword>
+  <keyword>Fatigue</keyword>
+  <keyword>physician Burnout</keyword>
+  <keyword>Sleep Disruption</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sleep Wake Disorders</mesh_term>
+    <mesh_term>Parasomnias</mesh_term>
+    <mesh_term>Dyssomnias</mesh_term>
+    <mesh_term>Sleep Disorders, Circadian Rhythm</mesh_term>
+    <mesh_term>Fatigue</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>August 19, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/38/NCT05043038/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>August 19, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/38/NCT05043038/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

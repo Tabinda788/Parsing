@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7346">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05065619</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MT-2766-A-101/CP-PRO-CoVLP-028</org_study_id>
+    <secondary_id>jRCT2051210093</secondary_id>
+    <nct_id>NCT05065619</nct_id>
+  </id_info>
+  <brief_title>Safety Immunogenicity Study of MT-2766 in Japanese Adults（COVID-19）</brief_title>
+  <official_title>A Phase I/II, Randomized, Placebo-Controlled Study to Evaluate the Safety and Immunogenicity of MT-2766 in Japanese Adults (COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medicago</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Mitsubishi Tanabe Pharma Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Medicago</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this study is to evaluate the safety and immunogenicity of MT-2766 in&#xD;
+      Japanese adults.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 2, 2021</start_date>
+  <completion_date type="Anticipated">February 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>MT-2766 High dose group and placebo group are randomized and observer-blinded. MT-2766 Low dose group is open label.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The incidences, severity, and investigator-assessed causality of immediate adverse events (AEs)</measure>
+    <time_frame>30 minutes of first (Day 0) and second (Day 21) injections</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The incidences and severity of the following solicited AEs</measure>
+    <time_frame>7 days of first (Day 0) and second (Day 21) injections</time_frame>
+    <description>(i) local AEs (injection site erythema, injection site swelling, injection site induration, and injection site pain) and (ii) systemic AEs (fever, headache, fatigue, muscle aches, joint aches, chills, a feeling of general discomfort, swelling in the axilla, and swelling in the neck)．</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The incidences, severity, and investigator-assessed causality of unsolicited AEs</measure>
+    <time_frame>21 days of first (Day 0) and second (Day 21) injections</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The incidences of serious AEs (SAEs), medically attended AEs (MAAEs), AEs leading to withdrawal, AEs of special interest (AESIs), and deaths</measure>
+    <time_frame>21 days following first (Day 0) and second (Day 21) injections</time_frame>
+    <description>AESIs include vaccine-associated enhanced diseases (VAED), hypersensitivity reactions, and potential immune-mediated diseases (pIMDs)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SARS-CoV-2 neutralizing antibody (Nab) responses</measure>
+    <time_frame>Days 0, 21, and 42</time_frame>
+    <description>geometric mean antibody titer (GMT), seroconversion (SC) rate, and geometric mean fold rise (GMFR)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SARS-CoV-2-specific T helper 1 (Th1) cell-mediated immune (CMI) responses</measure>
+    <time_frame>Days 0, 21, and 42</time_frame>
+    <description>using the interferon (IFN)-γ enzyme-linked immunospot (ELISpot) assay</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SARS-CoV-2-specific T helper 2 (Th2) CMI responses</measure>
+    <time_frame>Days 0, 21, and 42</time_frame>
+    <description>using the interleukin (IL)-4 ELISpot assay</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The incidences of SAEs, MAAEs, AEs leading to withdrawal, AESIs, and deaths</measure>
+    <time_frame>Day 43 to 201</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The incidences of SAEs, MAAEs, AEs leading to withdrawal, AESIs, and deaths</measure>
+    <time_frame>Day 202 to 386</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The numbers and percentages of subjects with normal and abnormal urine, hematological, and biochemical test results</measure>
+    <time_frame>3 days of first (Day 0) and second (Day 21) injections</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Persistence of SARS-CoV-2 Nab response</measure>
+    <time_frame>Days 128, 201, and 386</time_frame>
+    <description>GMT, SC rate, and GMFR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2-specific antibody responses</measure>
+    <time_frame>Days 0, 21, and 42</time_frame>
+    <description>based on the total immunoglobulin G (IgG) level, and the persistence of these antibodies will be analyzed</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2-specific Th1 CMI responses</measure>
+    <time_frame>Days 201 and 386</time_frame>
+    <description>using the IFN-γ ELISpot assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2-specific Th2 CMI responses</measure>
+    <time_frame>Days 201 and 386</time_frame>
+    <description>using the IL-4 ELISpot assay</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">145</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <arm_group>
+    <arm_group_label>MT-2766 High dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MT-2766 Low dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>MT-2766 High dose</intervention_name>
+    <description>Subjects will receive two doses of MT-2766 high dose given 21 days apart into the deltoid region of the alternating arm (each arm will be injected once)</description>
+    <arm_group_label>MT-2766 High dose</arm_group_label>
+    <other_name>CoVLP, AS03 adjuvant</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Subjects will receive two doses of placebo given 21 days apart into the deltoid region of the alternating arm (each arm will be injected once)</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>MT-2766 Low dose</intervention_name>
+    <description>Subjects will receive two doses of MT-2766 low dose given 21 days apart into the deltoid region of the alternating arm (each arm will be injected once)</description>
+    <arm_group_label>MT-2766 Low dose</arm_group_label>
+    <other_name>CoVLP, AS03 adjuvant</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - Subjects must meet all of the following inclusion criteria at the Screening visit (Visit&#xD;
+        1) and/or 1st vaccination visit (Visit 2) to be eligible for participation in this study.&#xD;
+        All Investigator assessment-based judgments must be carefully and fully documented in the&#xD;
+        source documents:&#xD;
+&#xD;
+          1. Subjects must have read, understood, and signed the informed consent form (ICF) prior&#xD;
+             to participating in the study; subjects must also complete study-related procedures&#xD;
+             and must communicate with the study staff at visits and by phone during the study;&#xD;
+&#xD;
+          2. At the Screening visit (Visit 1), Japanese male and female subjects must be ≥20 years&#xD;
+             of age;&#xD;
+&#xD;
+          3. At the Screening visit (Visit 1) and 1st vaccination visit (Visit 2), subject must&#xD;
+             have a body mass index (BMI) of ≥18.5 kg/m^2 and &lt;30 kg/m^2;&#xD;
+&#xD;
+          4. Subjects are considered by the Investigator to be reliable and likely to cooperate&#xD;
+             with the assessment procedures and be available for the duration of the study;&#xD;
+&#xD;
+          5. Female subjects of childbearing potential must have a negative serum pregnancy test&#xD;
+             result at the Screening visit (Visit 1) and a negative urine pregnancy test result at&#xD;
+             1st vaccination visit (Visit 2):&#xD;
+&#xD;
+             Non-childbearing females are defined as:&#xD;
+&#xD;
+               -  Surgically sterile (defined as bilateral tubal ligation, hysterectomy or&#xD;
+                  bilateral oophorectomy performed more than one month prior to the first study&#xD;
+                  vaccination); OR&#xD;
+&#xD;
+               -  Post-menopausal (absence of menses for 12 consecutive months and age consistent&#xD;
+                  with natural cessation of ovulation);&#xD;
+&#xD;
+          6. Female subjects of childbearing potential must use an effective method of&#xD;
+             contraception for one month prior to 1st vaccination visit (Visit 2) and agree to&#xD;
+             continue employing highly effective birth control measures for at least one month&#xD;
+             after the last study vaccination (or in the case of early termination, she must not&#xD;
+             plan to become pregnant for at least one month after her last study vaccination);&#xD;
+&#xD;
+          7. Subjects must be non-institutionalized (e.g. not living in rehabilitation centers or&#xD;
+             old-age homes);&#xD;
+&#xD;
+          8. Subjects have no acute or evolving medical problems prior to study participation and&#xD;
+             no clinically relevant abnormalities that could jeopardize subject safety or interfere&#xD;
+             with study assessments, as assessed by the Principal Investigator or sub-Investigator&#xD;
+             (thereafter referred as Investigator) and determined by medical history, physical&#xD;
+             examination, serology, clinical chemistry and hematology tests, urinalysis, and vital&#xD;
+             signs. Investigator discretion is permitted with this inclusion criterion.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects who meet any of the following exclusion criteria at the Screening visit&#xD;
+             (Visit 1) and/or 1st vaccination visit (Visit 2) will not be eligible for&#xD;
+             participation in this study. All Investigator assessment-based judgments must be&#xD;
+             carefully and fully documented in the source documents:&#xD;
+&#xD;
+               1. According to the Investigator's opinion, significant acute or chronic,&#xD;
+                  uncontrolled medical or neuropsychiatric illness.&#xD;
+&#xD;
+        Acute disease is defined as presence of any moderate or severe acute illness with or&#xD;
+        without a fever within 48 hours prior to the Screening visit (Visit 1) and/or 1st&#xD;
+        vaccination visit (Visit 2).&#xD;
+&#xD;
+        'Uncontrolled' is defined as:&#xD;
+&#xD;
+          -  Requiring a new medical or surgical treatment during the three months prior to study&#xD;
+             vaccine administration;&#xD;
+&#xD;
+          -  Requiring any significant change in a chronic medication (i.e. drug, dose, frequency)&#xD;
+             during the three months prior to study vaccine administration due to uncontrolled&#xD;
+             symptoms or drug toxicity unless the innocuous nature of the medication change meets&#xD;
+             the criteria outlined in inclusion criterion no. 8 and is appropriately justified by&#xD;
+             the Investigator.&#xD;
+&#xD;
+        Investigator discretion is permitted with this exclusion criterion. 2. Any confirmed or&#xD;
+        suspected current immunosuppressive condition or immunodeficiency, including cancer, HIV,&#xD;
+        hepatitis B or C infection (subjects with a history of cured hepatitis B or C infection&#xD;
+        without any signs of immunodeficiency at present time are allowed). Investigator discretion&#xD;
+        is permitted with this exclusion criterion; 3. Current autoimmune disease (such as&#xD;
+        rheumatoid arthritis, systemic lupus erythematosus or multiple sclerosis). Investigator&#xD;
+        discretion is permitted with this exclusion criterion. Subjects may be eligible to&#xD;
+        participate with appropriate written justification in the source document. For example,&#xD;
+        subjects with a history of autoimmune disease who are disease-free without treatment for&#xD;
+        three years or more, subjects receiving stable thyroid replacement therapy, and subjects&#xD;
+        with mild psoriasis (i.e. a small number of minor plaques requiring no systemic treatment)&#xD;
+        are eligible for participation; 4. Administration of any medication or treatment that may&#xD;
+        alter the vaccine immune responses, such as:&#xD;
+&#xD;
+          -  Systemic glucocorticoids at a dose exceeding 10 mg of prednisone (or equivalent) per&#xD;
+             day for more than seven consecutive days or for 10 or more days in total, within one&#xD;
+             month prior to the 1st vaccination visit (Visit 2). Inhaled, nasal, ophthalmic,&#xD;
+             dermatological, and other topical glucocorticoids are permitted;&#xD;
+&#xD;
+          -  Cytotoxic, antineoplastic, or immunosuppressant drugs - within 36 months prior to 1st&#xD;
+             vaccination visit (Visit 2);&#xD;
+&#xD;
+          -  Any immunoglobulin preparations, blood products, or blood transfusion - within 6&#xD;
+             months prior to 1st vaccination visit (Visit 2); 5. Administration of any vaccine&#xD;
+             within 14 days prior to 1st vaccination visit (Visit 2); planned administration of any&#xD;
+             vaccine during the study (up to Day 28). Immunization on an emergency basis during the&#xD;
+             study will be evaluated on case-by-case basis by the Investigator; 6. Administration&#xD;
+             of any other SARS-CoV-2/COVID-19 vaccine, or other experimental coronavirus vaccine at&#xD;
+             any time prior to or during the study; 7. At screening (Visit 1), subjects found to be&#xD;
+             seropositive for prior SARS-COV-2 infection based on N-protein ELISA or positive for&#xD;
+             SARS-COV-2 PCR test; 8. Subjects with previous diagnosis of COVID-19 or previous&#xD;
+             positive SARS-CoV-2 infection 9. Use of any investigational or non-registered product&#xD;
+             within 30 days or 5 half-lives, whichever is longer, prior to 1st vaccination visit&#xD;
+             (Visit 2), or planned use during the study period. Subjects who are in a prolonged&#xD;
+             post-administration observation period of another investigational or marketed drug&#xD;
+             clinical study, for which there is no ongoing exposure to the investigational or&#xD;
+             marketed product and all scheduled on-site visits are completed, will be allowed to&#xD;
+             take part in this study, if all other eligibility criteria are met; 10. Have a rash,&#xD;
+             dermatological condition, tattoos, muscle mass, or any other abnormalities at&#xD;
+             injection site that may interfere with injection site reaction rating. Investigator&#xD;
+             discretion is permitted with this exclusion criterion: 11. Use of any prescription&#xD;
+             antiviral drugs with the intention of COVID-19 prophylaxis, including those that are&#xD;
+             thought to be effective for prevention of COVID-19 but have not been licensed for this&#xD;
+             indication, within one month prior to 1st vaccination visit (Visit 2); 12. Use of&#xD;
+             prophylactic medications (e.g. antihistamines [H1 receptor antagonists], nonsteroidal&#xD;
+             anti-inflammatory drugs [NSAIDs], systemic and topical glucocorticoids, non-opioid and&#xD;
+             opioid analgesics) within 24 hours prior to the 1st vaccination (Visit 2) to prevent&#xD;
+             or pre-empt symptoms due to vaccination; 13. History of a serious allergic response to&#xD;
+             any of the constituents of MT-2766; 14. History of a documented anaphylactic reactions&#xD;
+             to plants or plant components (including tobacco, fruits, and nuts); 15. Personal or&#xD;
+             family (first-degree relatives) history of narcolepsy; 16. Subjects with a history of&#xD;
+             Guillain-Barré Syndrome; 17. Any female subject who has a definitely or possibly&#xD;
+             positive pregnancy test result prior to vaccination or who is lactating; 18. As a&#xD;
+             result of the medical screening process, the Investigator considers the subject not&#xD;
+             suitable for the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>General Manager</last_name>
+    <role>Study Director</role>
+    <affiliation>Mitsubishi Tanabe Pharma Corporation</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Clinical Trials Information Desk, to prevent miscommunication,</last_name>
+    <phone>please email:</phone>
+    <email>cti-inq-ml@ml.mt-pharma.co.jp</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Medical Corporation Heishinkai OPHAC Hospital</name>
+      <address>
+        <city>Osaka-shi</city>
+        <state>Osaka</state>
+        <zip>532-0003</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Corporation Heishinkai OCROM Clinic</name>
+      <address>
+        <city>Suita-shi</city>
+        <state>Osaka</state>
+        <zip>565-0853</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Corporation Heishinkai ToCROM Clinic</name>
+      <address>
+        <city>Shinjuku-ku</city>
+        <state>Tokyo</state>
+        <zip>160-0008</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Japan</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 4, 2021</study_first_posted>
+  <last_update_submitted>November 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

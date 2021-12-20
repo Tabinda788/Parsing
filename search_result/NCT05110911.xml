@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3862">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05110911</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1R01AI41534</org_study_id>
+    <nct_id>NCT05110911</nct_id>
+  </id_info>
+  <brief_title>Does Repeat Influenza Vaccination Constrain Influenza Immune Responses and Protection</brief_title>
+  <official_title>Does Repeat Influenza Vaccination Constrain Influenza Immune Responses and Protection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Melbourne</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The University of Queensland</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sydney Children's Hospitals Network</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Alfred</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Adelaide</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The University of Western Australia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>London School of Hygiene and Tropical Medicine</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Newcastle, Australia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Melbourne</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objectives of this study are to understand the long-term consequences of repeated annual&#xD;
+      influenza vaccination among healthcare workers (HCWs) and to use statistical and mathematical&#xD;
+      modelling to elucidate the immunological processes that underlie vaccination responses and&#xD;
+      their implications for vaccination effectiveness. These objectives will be achieved by&#xD;
+      pursuing three specific aims:&#xD;
+&#xD;
+        1. To study the immunogenicity and effectiveness of influenza vaccination by prior&#xD;
+           vaccination experience&#xD;
+&#xD;
+        2. To characterize immunological profiles associated with vaccination and infection&#xD;
+&#xD;
+        3. To evaluate the impact of immunity on vaccination effectiveness.&#xD;
+&#xD;
+      Under Aim 1, a cohort of hospital workers will be recruited and followed for up to 4 years to&#xD;
+      assess their pre- and post-vaccination and post-season antibody responses, and their risk of&#xD;
+      influenza infection. These outcomes will be compared by vaccination experience, classified as&#xD;
+      frequently vaccinated (received ≥3 vaccines in the past 5 years), infrequently vaccinated (&lt;3&#xD;
+      vaccinations in past 5 years), vaccinated once, vaccine naïve and unvaccinated.&#xD;
+&#xD;
+      In Aim 2, intensive cellular and serological assessments will be conducted to dissect the&#xD;
+      influenza HA-reactive B cell and antibody response, and build antibody landscapes that typify&#xD;
+      the different vaccination groups.&#xD;
+&#xD;
+      In Aim 3, the data generated in Aims 1 and 2 will be used to develop a mathematical model&#xD;
+      that considers prior infection, vaccination history, antibody kinetics, and antigenic&#xD;
+      distance to understand the effects of repeated vaccination on vaccine effectiveness.&#xD;
+&#xD;
+      Completion of the proposed research will provide evidence to inform decisions about continued&#xD;
+      support for influenza vaccination programs among HCWs and general policies for annual&#xD;
+      influenza vaccination, as well as much needed clarity about the effects of repeated&#xD;
+      vaccination.&#xD;
+&#xD;
+      In March-April 2020 pursuant to the SARS-CoV-2 global pandemic an administrative supplement&#xD;
+      added a SARS-CoV-2 protocol addendum for follow-up of COVID-19 infections amongst our HCW&#xD;
+      participant cohort.&#xD;
+&#xD;
+      The following objectives were added:&#xD;
+&#xD;
+        1. To estimate risk factors and correlates of protection for SARS-CoV-2 infection amongst&#xD;
+           HCW&#xD;
+&#xD;
+        2. To characterize viral kinetics and within-host viral dynamics of SARS-CoV-2 infecting&#xD;
+           HCW&#xD;
+&#xD;
+        3. To characterize immunological profiles following infection by SARS-CoV-2&#xD;
+&#xD;
+        4. To characterize immunological profiles following vaccination for SARS-CoV-2.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Over 140 million Americans are among the more than 500 million people who receive influenza&#xD;
+      vaccines annually. An important subgroup are healthcare workers (HCWs) for whom vaccination&#xD;
+      is recommended, and sometimes mandated, to protect themselves and vulnerable patients from&#xD;
+      influenza infection. However, there have been no large, long term studies of HCWs to support&#xD;
+      the effectiveness of these policies. HCWs are now a highly vaccinated population, the effects&#xD;
+      of which are also poorly understood. Mounting evidence suggests antibody responses to&#xD;
+      vaccination can be attenuated with repeated vaccination, which is corroborated by reports of&#xD;
+      poor vaccine effectiveness among the repeatedly vaccinated. Thus, there is a compelling need&#xD;
+      to directly evaluate HCW vaccination programs. The long term goal is to improve the efficient&#xD;
+      and effective use of influenza vaccines.&#xD;
+&#xD;
+      The specific objectives of this study are to understand the long-term consequences of&#xD;
+      repeated annual influenza vaccination among HCWs and to use statistical and mathematical&#xD;
+      modeling to elucidate the immunological processes that underlie vaccination responses and&#xD;
+      their implications for vaccination effectiveness. These objectives will be achieved by&#xD;
+      pursuing three specific aims:&#xD;
+&#xD;
+        1. To study the immunogenicity and effectiveness of influenza vaccination by prior&#xD;
+           vaccination experience&#xD;
+&#xD;
+        2. To characterize immunological profiles associated with vaccination and infection&#xD;
+&#xD;
+        3. To evaluate the impact of immunity on vaccination effectiveness.&#xD;
+&#xD;
+      Under Aim 1, a cohort of hospital workers will be recruited and followed for up to 4 years to&#xD;
+      assess their pre- and post-vaccination and post-season antibody responses, and their risk of&#xD;
+      influenza infection. These outcomes will be compared by vaccination experience, classified as&#xD;
+      frequently vaccinated (received ≥3 vaccines in the past 5 years), infrequently vaccinated (&lt;3&#xD;
+      vaccinations in past 5 years), vaccinated once, vaccine naïve and unvaccinated.&#xD;
+&#xD;
+      In Aim 2, intensive cellular and serological assessments will be conducted to dissect the&#xD;
+      influenza HA-reactive B cell and antibody response, and build antibody landscapes that typify&#xD;
+      the different vaccination groups.&#xD;
+&#xD;
+      In Aim 3, the data generated in Aims 1 and 2 will be used to develop a mathematical model&#xD;
+      that considers prior infection, vaccination history, antibody kinetics, and antigenic&#xD;
+      distance to understand the effects of repeated vaccination on vaccine effectiveness. This&#xD;
+      approach is innovative because it will provide insights into the effect of complex&#xD;
+      immunological dynamics on infection outcomes, thereby representing a novel departure from&#xD;
+      previous studies, which have ignored these difficult-to-measure processes. Completion of the&#xD;
+      proposed research will provide evidence to inform decisions about continued support for&#xD;
+      influenza vaccination programs among HCWs and general policies for annual influenza&#xD;
+      vaccination, as well as much needed clarity about the effects of repeated vaccination.&#xD;
+&#xD;
+      In March-April 2020 pursuant to the SARS-CoV-2 global pandemic an administrative supplement&#xD;
+      added a SARS-CoV-2 protocol addendum for follow-up of COVID-19 infections amongst our HCW&#xD;
+      participant cohort.&#xD;
+&#xD;
+      The following objectives were added under the supplement IRB application:&#xD;
+&#xD;
+        1. To estimate risk factors and correlates of protection for SARS-CoV-2 infection amongst&#xD;
+           HCW&#xD;
+&#xD;
+        2. To characterize viral kinetics and within-host viral dynamics of SARS-CoV-2 infecting&#xD;
+           HCW&#xD;
+&#xD;
+        3. To characterize immunological profiles following infection by SARS-CoV-2&#xD;
+&#xD;
+        4. To characterize immunological profiles following vaccination for SARS-CoV-2.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 2, 2020</start_date>
+  <completion_date type="Anticipated">November 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 1, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Seropositivity post-vaccination (influenza vaccine)</measure>
+    <time_frame>Post-vaccination blood draws are at 14-21 days post vaccination. Collected each year 2020-2023 post annual influenza vaccination.</time_frame>
+    <description>Seropositivity among vaccination groups will be calculated and compared using logistic regression, with seropositivity coded as 1 if the titre ≥40, and 0 if the titre is &lt;40. We will test for trend among vaccination groups, assuming seropositivity will be lowest in the most highly vaccinated.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Seropositivity post-season (influenza vaccine)</measure>
+    <time_frame>End of the season blood draws are in October or November each year, at the conclusion of Australia's annual influenza season. Vaccination usually occurs in April or May. Collected each year 2020-2023 post annual influenza season.</time_frame>
+    <description>Seropositivity among vaccination groups will be calculated and compared using logistic regression, with seropositivity coded as 1 if the titre ≥40, and 0 if the titre is &lt;40. We will test for trend among vaccination groups, assuming seropositivity will be lowest in the most highly vaccinated.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fold-rise in geometric mean antibody titre (GMT) pre- to post-vaccination</measure>
+    <time_frame>Changes from day 0 to day 14-21 post influenza vaccination. Collected each year 2020-2023 pre and post annual influenza vaccination.</time_frame>
+    <description>The changes in GMT from pre- to post-vaccination. Seroconversion is defined as samples with 4-fold increases in hemagglutination inhibition (HI) titre.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fold-change in geometric mean antibody titre (GMT) post-vaccination to post-season</measure>
+    <time_frame>Changes from day 14-21 to post-season. Influenza season in Australia is approximately May to November. Pre-vaccination to post-season is approximately April or May to October or November each year. Collected each year 2020-2023.</time_frame>
+    <description>The changes in GMT from post-vaccination to post-season.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Seroconversion fraction post-vaccination</measure>
+    <time_frame>Changes from day 0 to day 14-21 post influenza vaccination. Collected each year 2020-2023 pre and post annual influenza vaccination.</time_frame>
+    <description>The proportion of samples with 4-fold increases in hemagglutination inhibition (HI) titre. Seroconversion post-vaccination will be calculated and compared among vaccination groups by logistic regression, with seroconversion coded as 1 if the fold-rise in titre is ≥4 and 0 if the fold-rise in titre is &lt;4. We will test for trend, assuming seroconversion will be lowest in the most highly vaccinated.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Healthcare workers (HCWs) PCR-positive for influenza at the end of each season</measure>
+    <time_frame>Influenza season in Australia is approximately May to November. Follow up for PCR-positives from approximately April/May to October/November each year from 2020-2023.</time_frame>
+    <description>Proportion of HCWs that are PCR-positive for influenza at the end of each season.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Influenza attack rate at the end of each season</measure>
+    <time_frame>Person-time at risk, during influenza season. Influenza season in Australia is approximately May to November. Follow up for PCR-positives from approximately April/May to October/November each year from 2020-2023.</time_frame>
+    <description>Evidence of influenza infection will be based on RT-PCR-confirmed infection, only, as serological evidence may be biased in vaccinees who elicit a good antibody response to vaccination. Attack rates will be calculated for each vaccination group as the number of cases during the person-time at risk.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vaccine efficacy (VE)</measure>
+    <time_frame>Person-time at risk, during influenza season. Influenza season in Australia is approximately May to November. Follow up for PCR-positives from approximately April/May to October/November each year from 2020-2023.</time_frame>
+    <description>VE will be estimated using a Cox proportional hazards regression model comparing the risk of influenza infection (coded as 1 for infected or 0 for uninfected) among healthcare workers (HCWs) by vaccination status: VE = (1-HRadj) × 100%. If there are sufficient cases, the model will be adjusted for potential confounders (e.g. age group), and factors that may modify the risk of infection. Using virus characterization data, we will assess if failures are associated with antigenic mismatch.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of illness (influenza)</measure>
+    <time_frame>Days ill, during influenza season. Influenza season in Australia is approximately May to November. Follow up for PCR-positives from approximately April/May to October/November each year from 2020-2023.</time_frame>
+    <description>The number of days ill with influenza (count) will be compared among vaccination groups, adjusted for age. Because of the excess of 0 counts (people who never get infected), zero-inflated negative binomial regression will be used.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Haemagglutinin (HA) antibody landscapes for vaccine-naïve and highly-vaccinated healthcare workers (HCWs)</measure>
+    <time_frame>Bloods on day 0, day 7, day 14-21 post influenza vaccination and end of season. Collected each year 2020-2023 pre and post annual influenza vaccination and end of influenza season.</time_frame>
+    <description>By collating the results of many antibody assays to historical influenza strains, it is possible to visualize the landscape of an individual's responses to vaccination and infection. We are using strains going back to 1968 when A(H3N2) emerged in humans.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Haemagglutinin (HA) antibody landscapes for infected versus uninfected healthcare workers (HCWs)</measure>
+    <time_frame>Bloods on day 7 and day 14-21 post influenza infection. Collected each year 2020-2023 along with pre and post annual influenza vaccination and end of influenza season bloods.</time_frame>
+    <description>By collating the results of many antibody assays to historical influenza strains, it is possible to visualize the landscape of an individual's responses to vaccination and infection. We are using strains going back to 1968 when A(H3N2) emerged in humans.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Enumeration of cells</measure>
+    <time_frame>Bloods on day 0 and day 14-21 post influenza vaccination and post infection. The key indicator is the frequency of these B cells on day 14 post-vaccination relative to pre-vaccination frequencies. Collected each year 2020-2023.</time_frame>
+    <description>Enumeration of influenza haemagglutinin (HA)-reactive B cells, and of subsets with phenotypic markers indicative of activation, and of memory versus naïve status, for vaccine-naïve, highly vaccinated and infected healthcare workers (HCWs) (i.e. we are comparing frequency fold-change/ratio between groups highly vaccinated and infrequently vaccinated).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>B cells</measure>
+    <time_frame>Blood draws on day 7 post influenza vaccination and post infection. Collected each year 2020-2023.</time_frame>
+    <description>B cell receptor gene usage by influenza haemagglutinin (HA)-reactive B cells recovered post vaccination and post infection from selected vaccine naïve, highly vaccinated and infected healthcare workers (HCWs) with distinct antibody response profiles. In depth characterization of HA antigenic sites recognized by serum antibodies from selected HCW including vaccine non-responders who lack seroprotection, and vaccine serological responders who fail to be protected. This analysis will largely be performed on B cells detected on day 7 post vaccination, when there is the greatest potential to differentiate between vaccine reactive B cells that have come from naïve versus memory pools.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quantify biological mechanisms that shape the antibody response</measure>
+    <time_frame>Bloods on day 0, day 7, day 14-21 post influenza vaccination, day 7, day 14-21 post infection and end of season. Collected each year 2020-2023.</time_frame>
+    <description>Models of antibody dynamics and individual-level exposures will be develop to quantify the different aspects of the antibody response that generated observed immunological profiles.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimate protective titres</measure>
+    <time_frame>Bloods on day 0, day 7, day 14-21 post influenza vaccination, day 7, day 14-21 post infection and end of season. Collected each year 2020-2023.</time_frame>
+    <description>As the model is refined we will identify a minimum set of titres against past or forward strains that capture the underlying 'smooth' antibody landscape and provide a reliable correlate of protection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Optimal influenza vaccination strategy for healthcare workers (HCWs) under different vaccine availability</measure>
+    <time_frame>Bloods on day 0, day 7, day 14-21 post influenza vaccination, day 7, day 14-21 post infection and end of season. Collected each year 2020-2023.</time_frame>
+    <description>With our model in place, we will compare the performance of current vaccination programs with simulated alternatives to predict the impact of repeated vaccination and circulating virus on vaccine efficacy (VE) under different scenarios. In particular, we will examine the potential impact of: highly-valent vaccines, which include more than a single strain for each subtype; universal vaccines that generate a broadly cross-reactive response against conserved influenza epitopes; and near-universal vaccines that produce a broader response, but still have potential to generate effects such as antibody focusing or seniority, which could reduce effectiveness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimated SARS-CoV-2 attack rates among symptomatic and asymptomatic healthcare workers (HCWs)</measure>
+    <time_frame>Follow-up period 2020-2023.</time_frame>
+    <description>Symptomatic attack (incidence) rates will be calculated as the number of cases testing positive by RT-PCR during the person-time at risk. The asymptomatic incidence proportion will be calculated as the number of HCWs with evidence of sero-conversion and no acute respiratory infection reported among all HCWs followed during the same period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Case-hospitalization risk</measure>
+    <time_frame>Follow-up period 2020-2023.</time_frame>
+    <description>The hospitalization risk (or incidence proportion) will be calculated as the number of healthcare workers (HCWs) hospitalized due to COVID-19 among all HCW with either asymptomatic or symptomatic evidence of infection during the same period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Risk factors for asymptomatic, mild and severe SARS-CoV-2 infection</measure>
+    <time_frame>Follow-up period 2020-2023.</time_frame>
+    <description>The predictors of severe infection will be estimated using a Cox proportional hazards regression model comparing the risk of COVID-19 illness (coded as 1 for hospitalised or 0 for infected but not hospitalised) among HCWs. If there are sufficient cases, various predictors of severity will be explored in either univariate or multivariate analysis. Predictors may include age, presence of comorbidities, and viral load.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimated SARS-CoV-2 antibody titre associated with protection</measure>
+    <time_frame>Follow-up period 2020-2023.</time_frame>
+    <description>We will compare post-season geometric mean titres between those with asymptomatic and symptomatic infections. We will attempt to establish serological correlates of protection for SARS-CoV-2, using a Bayesian implementation of logistic regression that we have used for influenza cohort studies.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimated SARS-CoV-2 antibody kinetics over time</measure>
+    <time_frame>Bloods on day 3, day 7, day 14-21, day 30 post infection and end of season. Daily swabs during symptomatic infection to two days post resolution of symptoms. Follow-up period 2020-2023.</time_frame>
+    <description>Sera collected more frequently will be assessed for antibody titre and the titres compared over time. Geometric mean titres will be calculated and plotted to allow visual inspection of the antibody kinetics, overall and within groups (e.g. age groups, severity of infection). The mean rate of decay will be calculated using linear regression. Because little is known about the decay kinetics, various models will be explored to identify the model with best fit, based on visual inspection of the data and model fitting diagnostics.&#xD;
+Viral load will be included in analyses comparing asymptomatic, mild and severe infections. If possible we will explore the interactions of viral load with demographic (e.g. age) or medical (e.g. heart disease) characteristics.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Identification of key behavioural drivers of transmission</measure>
+    <time_frame>Follow-up period 2020-2023.</time_frame>
+    <description>Using social contacts data, we will attempt to infer the transmission dynamics for our healthcare worker (HCW) participants between each round of sample collection. We will use mathematical models social mixing data with infection risk to untangle specific behaviours/contact scaling that may be driving transmission. These models may be extended to include genetic sequencing data, which has been previously used to reconstruct transmission clusters.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimated duration of viral shedding and viral load in SARS-CoV-2 infection over time</measure>
+    <time_frame>During symptomatic infection to two days post resolution of symptoms. Follow-up period 2020-2023.</time_frame>
+    <description>We will estimate the average duration of viral shedding and viral load over time and correlation with severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Enumeration of SARS-CoV-2-reactive B and T cells and identification of dominant epitopes</measure>
+    <time_frame>Bloods on day 3, day 7, day 14-21, day 30 post infection and end of season. Follow-up period 2020-2023.</time_frame>
+    <description>Mean antibody concentration will be calculated in innate immune responses.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gene expression</measure>
+    <time_frame>Changes from day 0 to day 7 post vaccination. Follow-up period 2020-2023.</time_frame>
+    <description>Identification of genes that are differentially expressed on day 7 compared to day 0 for each vaccine formulation, focusing on innate immune associated genes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Enumeration of SARS-CoV-2-reactive B and T cells induced by each vaccine formulation</measure>
+    <time_frame>Specific B and T cells detected at day 14-21 post vaccine schedule completion versus day 0. Follow-up period 2020-2023.</time_frame>
+    <description>Mean antibody concentration will be calculated and compared for vaccine groups (Comirnaty vs Vaxzevria vaccine).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Seroconversion of SARS-CoV-2 serum antibody titres induced by each vaccine formulation</measure>
+    <time_frame>At day 14-21 post vaccine schedule completion. Follow-up period 2020-2023.</time_frame>
+    <description>Seroconversion post-vaccination will be calculated and compared between vaccine groups by logistic regression (Comirnaty vs Vaxzevria vaccine).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fold changes in innate immune cells and in vaccine specific B and T cells</measure>
+    <time_frame>Vaccine specific B and T cells detected at day 14-21 post vaccine schedule completion versus day 0. Follow-up period 2020-2023.</time_frame>
+    <description>Antibody levels will be correlated with fold changes in innate immune cells and in vaccine specific B and T cells in each vaccine formulation (Comirnaty vs Vaxzevria vaccine).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of antibody (and B and T cell) responses induced against COVID-19 and influenza vaccines among participants who received COVID-19 versus influenza vaccine first or who were co-administered both vaccines.</measure>
+    <time_frame>Antibody levels will be correlated with fold changes in innate immune cells and in vaccine specific B and T cells detected at day 14-21 post vaccine schedule completion versus day 0. Follow-up period 2020-2023.</time_frame>
+    <description>Mean antibody concentration will be calculated and compared for vaccine groups (CoVax vs influenza vaccine). Seroconversion post-vaccination will be calculated and compared between vaccine groups by logistic regression.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">1500</enrollment>
+  <condition>Influenza, Human</condition>
+  <condition>SARS-CoV-2 Infection</condition>
+  <arm_group>
+    <arm_group_label>Healthcare Workers</arm_group_label>
+    <description>Eligible participants will be recruited from 1 of 6 participating hospitals in Australia and will meet the following criteria: personnel (including staff, honorary staff, students and volunteers) located at a participating hospital or healthcare service at the time of recruitment who would be eligible for the hospital's free vaccination programme; be aged ≥18 years old and ≤60 years old; have a mobile phone that can receive and send SMS messages; willing and able to provide blood samples; available for follow-up over the next 7 months; able and willing to complete the informed consent process.&#xD;
+There are no restrictions on the type of healthcare worker (HCW) that can be recruited into the study in terms of their job role. HCW will be any hospital staff, including clinical, research, administrative and support staff.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Influenza vaccination: Fluarix Tetra, Vaxigrip Tetra, Fluquadri, Fluad Quad, Afluia Quad, Flucelvax Quad</intervention_name>
+    <description>Influenza vaccine made available to healthcare workers at the participating healthcare sites, as part of their free vaccination campaigns for healthcare workers.</description>
+    <arm_group_label>Healthcare Workers</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 vaccination: Comirnaty or Vaxzevria</intervention_name>
+    <description>SARS-CoV-2 vaccine made available to healthcare workers at the participating healthcare sites, as part of their free vaccination campaigns for healthcare workers.</description>
+    <arm_group_label>Healthcare Workers</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      This study will not generate human genomic data. However, all virus sequencing data generated&#xD;
+      will be uploaded to the Global Initiative on Sharing All Influenza Data (GISAID) website, as&#xD;
+      part of standard surveillance practices of the WHO Collaborating Centre for Reference and&#xD;
+      Research on Influenza.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Healthcare workers (including staff, honorary staff, students and volunteers) from six&#xD;
+        participating hospitals (or healthcare services) who are eligible for the hospitals' free&#xD;
+        vaccination programmes, at the time of recruitment.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Eligible participants will be recruited from 1 of 6 participating hospitals and will meet&#xD;
+        the following criteria:&#xD;
+&#xD;
+          -  Personnel (including staff, honorary staff, students and volunteers) located at a&#xD;
+             participating hospital or healthcare service at the time of recruitment who would be&#xD;
+             eligible for the hospital's free vaccination programme&#xD;
+&#xD;
+          -  Be aged ≥18 years old and ≤60 years old;&#xD;
+&#xD;
+          -  Have a mobile phone that can receive and send SMS messages;&#xD;
+&#xD;
+          -  Willing and able to provide blood samples;&#xD;
+&#xD;
+          -  Available for follow-up over the next 7 months;&#xD;
+&#xD;
+          -  Able and willing to complete the informed consent process.&#xD;
+&#xD;
+        There are no restrictions on the type of healthcare worker (HCW) that can be recruited into&#xD;
+        the study in terms of their job role. HCWs can be any hospital staff, including clinical,&#xD;
+        research, administrative and support staff.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Immunosuppressive treatment (including systemic corticosteroids) within the past 6&#xD;
+             months;&#xD;
+&#xD;
+          -  Personnel for whom vaccination is contraindicated at the time of recruitment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sheena Sullivan, MPH, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Melbourne</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Annette Fox, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Melbourne</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Adam Kucharski, MMath, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>London School of Hygiene and Tropical Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sheena Sullivan, MPH, PhD</last_name>
+    <phone>+61 3 9342 9317</phone>
+    <email>sheena.sullivan@influenzacentre.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Annette Fox, PhD</last_name>
+    <phone>+61 3 9342 9300</phone>
+    <email>annette.fox@unimelb.edu.au</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>John Hunter Hospital</name>
+      <address>
+        <city>New Lambton Heights</city>
+        <state>New South Wales</state>
+        <zip>2305</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>+61 428 510 786</phone>
+      <email>catherine.delahunty@newcastle.edu.au</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Children's Hospital at Westmead</name>
+      <address>
+        <city>Westmead</city>
+        <state>New South Wales</state>
+        <zip>2145</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>+61 429 849 440</phone>
+      <email>SCHN-NCIRS-Research@health.nsw.gov.au</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Queensland Children's Hospital</name>
+      <address>
+        <city>Brisbane</city>
+        <state>Queensland</state>
+        <zip>4101</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>+61 429 206 919</phone>
+      <email>chq_idhcwflu@health.qld.gov.au</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Women's and Children's Hospital</name>
+      <address>
+        <city>Adelaide</city>
+        <state>South Australia</state>
+        <zip>5006</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>+61 8 8161 6328</phone>
+      <email>virtu@adelaide.edu.au</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Alfred</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3004</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>+61 3 9076 6908</phone>
+      <email>clinresearch@alfred.org.au</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Perth Children's Hospital</name>
+      <address>
+        <city>Nedlands</city>
+        <state>Western Australia</state>
+        <zip>6009</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>+61 481 060 927</phone>
+      <email>HCW.FluStudy@telethonkids.org.au</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <link>
+    <url>https://hcwflustudy.com/home/</url>
+    <description>Study website</description>
+  </link>
+  <verification_date>August 2021</verification_date>
+  <study_first_submitted>October 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 8, 2021</study_first_posted>
+  <last_update_submitted>November 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Vaccine Response Impaired</keyword>
+  <keyword>Influenza, Human</keyword>
+  <keyword>Health Personnel</keyword>
+  <keyword>Influenza Vaccines</keyword>
+  <keyword>SARS-CoV-2 Infection</keyword>
+  <keyword>Immunologic Memory</keyword>
+  <keyword>Vaccination</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Influenza, Human</mesh_term>
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Sharing original data: The proposed study will collect demographic and clinical information, as well as blood and respiratory specimens from participants. Because we will be conducting longitudinal follow-up, we will be collecting identifiable information. Any data shared will be stripped of identifiers prior to release for sharing. However, there remains the possibility of deductive disclosure of participants with unusual characteristics. Thus, data will only be shared with new collaborators under a data-sharing agreement that provides for: (1) a commitment to using the data only for research purposes and not to identify any individual participant; (2) a commitment to securing the data using appropriate computer technology; and (3) a commitment to destroying or returning the data after analyses are completed.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Data will be available after publication of results, likely in late-2024.</ipd_time_frame>
+    <ipd_access_criteria>Data will only be shared with new collaborators under a data-sharing agreement that provides for: (1) a commitment to using the data only for research purposes and not to identify any individual participant; (2) a commitment to securing the data using appropriate computer technology; and (3) a commitment to destroying or returning the data after analyses are completed.</ipd_access_criteria>
+    <ipd_url>https://hcwflustudy.com/home/</ipd_url>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan: Main Study</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 4, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/11/NCT05110911/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan: Addendum Study Protocol for COVID-19</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 4, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/11/NCT05110911/Prot_SAP_001.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form: Influenza Vaccinated Participants</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>December 7, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/11/NCT05110911/ICF_002.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form: Unvaccinated Participants</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>March 30, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/11/NCT05110911/ICF_003.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form: COVID-19 Vaccinated Participants</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>March 22, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/11/NCT05110911/ICF_004.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

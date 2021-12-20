@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5542">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05089071</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SNUH IRB 2107-235-1240</org_study_id>
+    <nct_id>NCT05089071</nct_id>
+  </id_info>
+  <brief_title>Effect of Colonoscopy AI System for Colon Polyp Detection According to the Workload of Endoscopy Units</brief_title>
+  <official_title>Effect of Colonoscopy AI System for Colon Polyp Detection According to the Workload of Endoscopy Units: A Single-center Prospective Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Seoul National University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Seoul National University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Seoul National University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Computer-aided detection (CADe) systems have been actively researched for polyp detection in&#xD;
+      colonoscopy. We aim to identify the effect of CADe system according to the workload of&#xD;
+      endoscopy units&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Artificial intelligence technology based on deep learning is being applied in various medical&#xD;
+      fields, and research is being actively conducted to develop computer-aided detection (CADe)&#xD;
+      systems for colonoscopies to overcome the limitation of the variance of human skills. These&#xD;
+      well-trained CADe systems demonstrated high performance for neoplastic polyp detection and&#xD;
+      reported a 44% increase in adenoma detection rate (ADR) for endoscopists.&#xD;
+&#xD;
+      Operator fatigue may negatively influence ADR during a screening colonoscopy, and many&#xD;
+      studies reported a decrease in ADR according to the increase of working hours and procedure&#xD;
+      number. Accordingly, we sought to identify the effect of the colonoscopy CADe system&#xD;
+      according to working hours and procedure numbers in endoscopists with various levels. We&#xD;
+      hypothesized that the CADe system would be useful to prevent the decrease in ADR in case of a&#xD;
+      high endoscopy workload.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 1, 2021</start_date>
+  <completion_date type="Anticipated">December 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Adenoma detection rate</measure>
+    <time_frame>8 months</time_frame>
+    <description>proportion of colonoscopies with at least one adenoma detected overall and as detected by the physician.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Sessile serrated lesion detection rate</measure>
+    <time_frame>8 months</time_frame>
+    <description>proportion of colonoscopies with at least one sessile serrated lesion detected overall and as detected by the physician.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>polyp detection rate</measure>
+    <time_frame>8 months</time_frame>
+    <description>proportion of colonoscopies with at least one polyp detected overall and as detected by the physician.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">3000</enrollment>
+  <condition>Adenoma</condition>
+  <condition>Colonoscopy</condition>
+  <condition>Fatigue</condition>
+  <arm_group>
+    <arm_group_label>CADe group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Endoscopists perform colonoscopy with CADe system</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Endoscopists perform colonoscopy without CADe system</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Assist by artificial intelligence system for colon polyp detection</intervention_name>
+    <description>Assist by artificial intelligence system for colon polyp detection</description>
+    <arm_group_label>CADe group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        patient for screening or surveillance colonoscopy patients agreed with participating in the&#xD;
+        study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        patients who do not agree with participating in the study patients with a history of colon&#xD;
+        resection patients with a history of inflammatory bowel resection patients with poor bowel&#xD;
+        preparation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jung Ho Bae, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Seoul National University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jung Ho Bae, MD</last_name>
+    <phone>82-2-1035827713</phone>
+    <email>newsanapd@naver.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Juyoung lee, MD</last_name>
+    <phone>82-2-1038385586</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Healthcare System Gangnam Center, Seoul National University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jung Ho Bae, M.D.</last_name>
+      <phone>82-2-2112-5574</phone>
+      <email>bjh@snuh.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <reference>
+    <citation>Hassan C, Spadaccini M, Iannone A, Maselli R, Jovani M, Chandrasekar VT, Antonelli G, Yu H, Areia M, Dinis-Ribeiro M, Bhandari P, Sharma P, Rex DK, Rösch T, Wallace M, Repici A. Performance of artificial intelligence in colonoscopy for adenoma and polyp detection: a systematic review and meta-analysis. Gastrointest Endosc. 2021 Jan;93(1):77-85.e6. doi: 10.1016/j.gie.2020.06.059. Epub 2020 Jun 26. Review.</citation>
+    <PMID>32598963</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 22, 2021</study_first_posted>
+  <last_update_submitted>October 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>endoscopist</keyword>
+  <keyword>adenoma detection rate</keyword>
+  <keyword>colonoscopy</keyword>
+  <keyword>artificial intelligence</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Adenoma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

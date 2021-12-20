@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4139">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05107310</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SPINAV</org_study_id>
+    <nct_id>NCT05107310</nct_id>
+  </id_info>
+  <brief_title>The Spinal Navigation Trial - Surgical Navigation or Free Hand Technique in Spine Surgery</brief_title>
+  <acronym>SPINAV</acronym>
+  <official_title>SpiNav - SPInal NAVigation Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Karolinska Institutet</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Karolinska University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Karolinska Institutet</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The spinal navigation trial (SPINAV) is a randomized controlled trial (RCT) evaluating the&#xD;
+      use of computer-assisted navigation in surgery for spinal deformity&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Spinal deformity is a common reason for spinal surgery at youth. In addition, the incidence&#xD;
+      of surgery for spinal deformity in older adults is increasing. Spinal deformity surgery is by&#xD;
+      far the most complex spine surgery. One complexity lies in the correct placement of implants&#xD;
+      in the severely deformed spine. Today, the most common surgical procedures for spinal&#xD;
+      deformity involve placement of screws in the vertebral pedicle in the instrumented part of&#xD;
+      the spine. This gives good bone purchase, which is important for deformity correction.&#xD;
+&#xD;
+      The pedicle is narrow and misplaced pedicle screws can result in vascular, pulmonary or&#xD;
+      neural injuries, or inadequate bone purchase. Compared to the conventional free-hand surgical&#xD;
+      technique, which relies on the knowledge of anatomy, computer-assisted navigation using&#xD;
+      intraoperative 3D imaging has been shown to improve screw placement accuracy and reduce&#xD;
+      complications due to screw misplacements. As a consequence, navigation may also reduce the&#xD;
+      frequency of postoperative revision surgery compared to free hand. However, navigation still&#xD;
+      takes time, and is associated with higher intraoperative radiation than the free hand&#xD;
+      technique.&#xD;
+&#xD;
+      As of yet, the majority of data in this area are based on retrospectively collected series,&#xD;
+      and some prospectively collected series, while randomized controlled trials on spinal&#xD;
+      deformity are lacking.&#xD;
+&#xD;
+      In this randomized controlled trial the accuracy of pedicle screw placement using augmented&#xD;
+      reality surgical navigation (ARSN), infra-red surgical navigation (IRSN) and conventional&#xD;
+      free-hand technique will be investigated.&#xD;
+&#xD;
+      Patients of age 12 years and older with spinal deformities are randomized into one of the&#xD;
+      three surgical techniques mentioned above.&#xD;
+&#xD;
+      The primary outcome variable is pedicle screw placement accuracy at 1st attempt assessed&#xD;
+      using the Gertzbein scale.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2021</start_date>
+  <completion_date type="Anticipated">December 28, 2028</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Accurately placed pedicle screws</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>The primary endpoint is the percentage of accurately placed pedicle screws assessed using the Gertzbein scale and based on intraoperative verification scan cone beam computed tomography (CBCT).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pedicle screw intraoperative revision rates-clinical assessment</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>Number of screws intraoperatively revised based on clinical assessment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pedicle screw intraoperative revision rates- neurophysiology</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>Number of screws intraoperatively revised based on neurophysiology</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pedicle screw intraoperative revision rates- intraoperative verification</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>Number of screws intraoperatively revised based on intraoperative verification CBCT scan</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Accuracy for ARSN - path deviation in mm</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>Deviation from planned navigated path in mm at bone entry and screw tip measured on the postoperative computed tomography (CT)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Accuracy for IRSN- path deviation in mm</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>Deviation from navigated path in mm at bone entry and screw tip measured on the postoperative computed tomography (CT)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Accuracy for ARSN - angular deviation</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>Angular deviation (degrees) of the placed screw compared to the planned navigated path measured on the postoperative computed tomography (CT)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Accuracy for IRSN - angular deviation</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>Angular deviation of the placed screw compared to the navigated path measured on the postoperative computed tomography (CT)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Accuracy at 1st attempt</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>Accuracy at 1st attempt = (Screws placed at first attempt according to intraoperative protocols and graded 0 or 1) / (total number of placed screws).&#xD;
+Assessed on intraoperative CBCT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Final accuracy of placed pedicle screws</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>Final accuracy of placed pedicle screws is calculated as: number of accurately placed screws (Gertzbein grade 0+1) according to postoperative CT / total number of placed screws.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pedicle screw placement density</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>The study aims for 100% pedicle screw density. Hooks may be placed as rescue or if screw placement fails.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pedicle screw placement in relation to morphometric measurements</measure>
+    <time_frame>Preoperative and intraoperative</time_frame>
+    <description>Pedicle diameters are measured on preoperative and intraoperative CT. Pedicle screw placement measured on intraoperative and postoperative CT.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Deformity correction change</measure>
+    <time_frame>3-6 months post-op</time_frame>
+    <description>Cobb angle change from preoperative to first erect postoperative radiograph</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient radiation dose exposure</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>Patient radiation exposure (ED in mSv) for the whole procedure, Patient radiation exposure (ED in mSv) for fluoroscopy Patient radiation exposure (ED in mSv) for each CBCT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Staff radiation dose exposure</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>Average staff radiation exposure (in mSv) for the whole procedure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intraoperative characteristics- procedure time</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>Total procedure time as well as normalized to number of spinal levels from the upper to the lower instrumented vertebra.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intraoperative characteristics- planning time</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>Intraoperative planning time (from start of planning in navigation software until last screw planned) (only when treated with ARSN or IRSN)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intraoperative characteristics- instrumentation time</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>Instrumentation time (total time for navigated/FH screw placement from first to last screw placement)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intraoperative characteristics- instrumentation time/level</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>Instrumentation time normalized to number of levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intraoperative characteristics- time for verification imaging</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>Time for intraoperative verification imaging (CBCT and/or Fluoroscopy)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intraoperative characteristics- screw placement time</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>Screw placement time (per screw, from start with awl to screw placed)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intraoperative characteristics- blood loss</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>Intraoperative blood loss</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inpatient stay</measure>
+    <time_frame>Measured from day of surgery until day of discharge. Usual length of stay is less than one week, and maximum two weeks.</time_frame>
+    <description>Length of hospital stay in days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient reported outcome measures- Scoliosis Research Society 22 revised (SRS-22r)</measure>
+    <time_frame>up to 5 years</time_frame>
+    <description>The scoliosis specific questionnaire SRS-22r ranging from 1 (worst) to 5 (best)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient reported outcome measures- the 24 item Early Onset Scoliosis Questionnaire (EOSQ-24)</measure>
+    <time_frame>up to 5 years</time_frame>
+    <description>The scoliosis specific questionnaire EOSQ-24 ranging from 0 (worst) to 100 (best)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient reported outcome measures- Oswestry Disability Index (ODI)</measure>
+    <time_frame>up to 5 years</time_frame>
+    <description>The back disabiliy questionnaire (ODI) ranging from 0 (best) to 100 (worst)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient reported outcome measures- EQ-5D 3 level version (EQ-5D-3L)</measure>
+    <time_frame>up to 5 years</time_frame>
+    <description>The generic quality of life EQ-5D-3L index ranging from -0.59 (worst) to 1.00 (best)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complications</measure>
+    <time_frame>At 30 days, at 90 days</time_frame>
+    <description>Number of patients that have had complications</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Revision surgery</measure>
+    <time_frame>At 30 days, at 90 days, at 1 year</time_frame>
+    <description>Number of patients that have undergone revision surgeries</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cost per patient</measure>
+    <time_frame>At 30 days, at 90 days, at 1 year</time_frame>
+    <description>Cost per patient</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">88</enrollment>
+  <condition>Scoliosis</condition>
+  <condition>Kyphosis</condition>
+  <arm_group>
+    <arm_group_label>Navigation group 1 ARSN</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Augmented reality surgical navigation (ARSN). Pedicle screw placement using the Philips ClarifEye system combined with Philips Allura for imaging.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group 1 FH</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Free hand (FH) surgical technique. Pedicle screw placement using conventional free hand technique.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Navigation group 2 IRSN</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Infrared surgical navigation (IRSN). Pedicle screw placement using Brainlab Curve 1.2 combined with Medtronic o-arm for imaging.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group 2 FH</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Free hand (FH) surgical technique. Pedicle screw placement using conventional free hand technique.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Pedicle screws insertion by free hand technique</intervention_name>
+    <description>Spinal deformity correction. Pedicle screws are inserted using free hand technique with the help of intraoperative fluoroscopy if needed.</description>
+    <arm_group_label>Control group 1 FH</arm_group_label>
+    <arm_group_label>Control group 2 FH</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Pedicle screws insertion using ARSN</intervention_name>
+    <description>Spinal deformity correction. Pedicle screws are inserted using augmented reality surgical navigation (ARSN) with the ClarifEye navigation system and the Philips Allura 2D/3D imaging system.</description>
+    <arm_group_label>Navigation group 1 ARSN</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Pedicle screws insertion using IRSN</intervention_name>
+    <description>Spinal deformity correction. Pedicle screws are inserted using infra-red surgical navigation (IRSN) with the Brainlab Curve 1.2 navigation system combined with the Medtronic O-arm 2D/3D imaging system.</description>
+    <arm_group_label>Navigation group 2 IRSN</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Written informed consent by patient or legal guardian&#xD;
+&#xD;
+          -  Age 12 years and older&#xD;
+&#xD;
+          -  Spinal deformity surgery&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Unable to give informed consent&#xD;
+&#xD;
+          -  Surgery without pedicle screws&#xD;
+&#xD;
+          -  Previous surgery with pedicle screws in the planned surgical area&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Paul Gerdhem, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Karolinska Institutet</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Paul Gerdhem, MD, PhD</last_name>
+    <phone>08-585 821 02</phone>
+    <email>paul.gerdhem@ki.se</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Karolinska University Hospital</name>
+      <address>
+        <city>Stockholm</city>
+        <zip>14186</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Paul Gerdhem, MD, PhD</last_name>
+      <phone>+46 736 994409</phone>
+      <email>paul.gerdhem@sll.se</email>
+    </contact>
+    <contact_backup>
+      <last_name>Daniel Fell Björkander, MD</last_name>
+      <email>daniel.fell-bjorkander@sll.se</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Paul Gerdhem, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Adrian Elmi Terander, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Erik Edström, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Daniel Fell Björkander, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Anastasios Charalampidis, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 4, 2021</study_first_posted>
+  <last_update_submitted>November 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Karolinska Institutet</investigator_affiliation>
+    <investigator_full_name>Paul Gerdhem</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Scoliosis</mesh_term>
+    <mesh_term>Kyphosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Manuscripts will be submitted for publication in peer-reviewed journals. Quality-controlled raw data as well as processed data used in publications will be made available at the time of publication.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>The detailed protocol, including the statistical analysis plan will be submitted for publication after study start. No end date.</ipd_time_frame>
+    <ipd_access_criteria>Either as an appendix to publications, or at a repository at the Sponsor of the trial.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

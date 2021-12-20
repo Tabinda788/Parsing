@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9516">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05037383</url>
+  </required_header>
+  <id_info>
+    <org_study_id>S65658</org_study_id>
+    <nct_id>NCT05037383</nct_id>
+  </id_info>
+  <brief_title>Motion and Viewing Analysis of Surgeons During Minimally Invasive Gynecological Interventions</brief_title>
+  <acronym>MOVIE</acronym>
+  <official_title>Motion and Viewing Analysis of Surgeons During Minimally Invasive Gynecological Interventions</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>prof. dr. Jan Deprest</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Universitaire Ziekenhuizen Leuven</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      During minimally invasive surgery (MIS), surgeons manipulate sharp and stiff instruments in&#xD;
+      the vicinity of fragile tissue, blood vessels, and critical nerves, where poor depth&#xD;
+      perception can have dramatic consequences. Since typically, 2-dimensional visualization is&#xD;
+      offered, to correctly infer the 3rd dimension, surgeons rely on their anatomical knowledge&#xD;
+      and experience. During unforeseen events, correct depth information can make the difference&#xD;
+      between success and failure. This explains the steep and long learning curve for surgeons.&#xD;
+      The absence of proper depth information slows down execution and leads to an unnecessary&#xD;
+      large mental load.&#xD;
+&#xD;
+      A recent document from the European Association of Endoscopic Surgery showed that 3D shortens&#xD;
+      operative time and learning curves and reduces complications. 'What the best way is to&#xD;
+      visualize 3D content' remains an open question. Near-to-eye displays provide small screens in&#xD;
+      front of each eye, while stereoscopic displays use glasses to project the 3D content to the&#xD;
+      eyes. The Da Vinci surgical system uses two individual optical panels. These systems are&#xD;
+      bulky, or restrict head movement, thus users have remarks on the ergonomics. The glasses for&#xD;
+      stereoscopic displays obscure the view, reduce brightness, and alter the color. Correct color&#xD;
+      is crucial to recognize tissue types and details or parts in shaded areas. Stereoscopic 3D&#xD;
+      displays lead to headache and eye-fatigue, called visually induced motion sickness in 11-22%&#xD;
+      of surgeons after several surgeries.&#xD;
+&#xD;
+      Autostereoscopic Visualization (ASV) is appealing for medical applications. Besides the&#xD;
+      improvement of depth perception, it allows 'glasses-free' operation. One of the key&#xD;
+      components of such displays is eye-tracking, that locates the eyes of the user to be able to&#xD;
+      render the 3D image to that viewpoint. ASV is a single-viewer application, which can be&#xD;
+      challenging in an operating room, with multiple people present. Therefore, a rigorous&#xD;
+      investigation is needed to maximize the performance of the algorithm and ensure the quality&#xD;
+      of service needed for medical use. It is crucial to collect data from real scenarios by&#xD;
+      recording the operation, the pose, motion of surgeons and the entire staff. These recordings&#xD;
+      will deliver solid understanding of the circumstances and rate of occurrences where&#xD;
+      eye-tracking and 3D visualization fails (or could fail). Furthermore, patterns can be&#xD;
+      recognized that could help to develop a robust eye-tracking algorithm and safety features for&#xD;
+      ASV.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      1. Aim of the study&#xD;
+&#xD;
+           The aim of this study is to analyze the movement and direction of vision of the&#xD;
+           surgeon's eyes during gynecological interventions. The assessment is done by making&#xD;
+           video recordings of the medical staff during the procedure. The measured data consists&#xD;
+           of:&#xD;
+&#xD;
+             -  Position and movement of the medical personnel, and&#xD;
+&#xD;
+             -  Position and movement of the displays/screens being used, and&#xD;
+&#xD;
+             -  Light intensity during the surgical procedure A novel 3D visualization system is&#xD;
+                being developed to improve the safety of minimally invasive surgery. For this&#xD;
+                development, it is critical to understand current clinical practice during surgery.&#xD;
+                The videos recorded during this study will directly help to determine the design&#xD;
+                requirements for the development of the display.&#xD;
+&#xD;
+        2. Medical condition or intervention under investigation&#xD;
+&#xD;
+           Gynecological laparoscopic interventions that involve suturing or extensive dissection,&#xD;
+           including hysterectomy, sacrocolpopexy and niche repair.&#xD;
+&#xD;
+        3. Study schedule&#xD;
+&#xD;
+           Eligible patients and involved staff members (i.e. surgeon, first assistant, nurse&#xD;
+           handling the instruments) will be informed on the purpose and nature of the trial. When&#xD;
+           consenting in written, intra-operative recordings will be carried out.&#xD;
+&#xD;
+           Since no patient data or follow-up on their condition is involved in the trial, the&#xD;
+           study ends for all involved at the end of the operation.&#xD;
+&#xD;
+        4. Equipment used during the trial&#xD;
+&#xD;
+           Within the trial, video recording will be carried out by 4 depth cameras mounted in the&#xD;
+           operating room. The depth cameras will be mounted on top of the displays used by the&#xD;
+           operating staff. Each camera will be powered by a Raspberry Pi single board computer.&#xD;
+           The members of the operating staff will be labeled with a visual marker on the head cap&#xD;
+           to be able to track their movement. Markers will also be installed on the wall or&#xD;
+           equipment within the field of view of the cameras, where they will be visible throughout&#xD;
+           the operation. To be able to assess the change in visual circumstances during operation,&#xD;
+           a LUX meter will be used. The videos will be streamed to a laptop where they will be&#xD;
+           stored. The equipment is connected via a wireless manner, so no cables will be required.&#xD;
+&#xD;
+        5. Potential risks&#xD;
+&#xD;
+           No clinical risks are introduced by the study. The hardware and software are not in&#xD;
+           contact with the patient or clinical staff, they are at a safe distance from the&#xD;
+           surgical field, and there is no interference with other hardware used in the operation.&#xD;
+&#xD;
+        6. Assessment of pose&#xD;
+&#xD;
+           Assessment of the pose and movement of the displays and staff members will be&#xD;
+           continuously registered by the depth camera and visual markers, which will also allow&#xD;
+           identification of the roles of the personnel involved.&#xD;
+&#xD;
+        7. Video recordings&#xD;
+&#xD;
+           The video recordings will start only after the patient is installed and draped for&#xD;
+           surgery, hence completely covered. Recordings will stop as soon as the operation is&#xD;
+           finished, while the patient is still covered. If the surgeon decides that a part of the&#xD;
+           recording is too sensitive or would violate the rights of any person involved, the&#xD;
+           recordings will be paused for that period, or even discontinued entirely.&#xD;
+&#xD;
+           For the operating staff, their faces will be visible on the videos.&#xD;
+&#xD;
+        8. Selection of participants&#xD;
+&#xD;
+           Participants will be recruited at the Gynecology Department of the University Hospital&#xD;
+           Leuven. All visiting women undergoing one of the selected surgeries and fulfilling the&#xD;
+           inclusion criteria will be invited to participate unless the supervising clinician does&#xD;
+           not think it is appropriate. Eligibility check of the patient can be as early as when&#xD;
+           planning of the patient's surgery, or at the latest at hospital admission. She will be&#xD;
+           informed about the study and may sign the informed consent when she opts into the study.&#xD;
+&#xD;
+           The operating staff at the Gynecological Department will be invited to participate. The&#xD;
+           operating staff is informed about the study and may sign the informed consent or decide&#xD;
+           not to take part in the study. For each operation to be eligible for the study,&#xD;
+           voluntary informed consent is required from all staff members involved.&#xD;
+&#xD;
+        9. Sample size statistics&#xD;
+&#xD;
+           The study uses an adaptive sample size. First, an estimation of the order of magnitude&#xD;
+           of the sample size was made based on literature, where videography was used to assess&#xD;
+           staff behavior and motion analysis of surgeons with statistically significant results.&#xD;
+           Then, a method for adjusting the sample size based on accumulating data will be used.&#xD;
+&#xD;
+             1. Anticipation of sample size based on literature review&#xD;
+&#xD;
+                Azevedo-Coste et al. made an assessment of the movements of clinical staff using an&#xD;
+                optical motion tracking system, while the movement of the doors was monitored with&#xD;
+                a wireless network of inertial sensors. Markers were placed on the staff members'&#xD;
+                surgical cap based on their roles. The authors determined 30 recordings of&#xD;
+                orthopedic and cardiac surgeries to obtain statistically significant results. Zheng&#xD;
+                et al. conducted video recordings of laparoscopic Nissen fundoplication to examine&#xD;
+                team cooperation among surgeons. Overall, 28 operations were required.&#xD;
+&#xD;
+                In conclusion, we anticipate that around 20-30 recordings may be needed, i.e. 60 to&#xD;
+                90 recordings for the three operation types.&#xD;
+&#xD;
+             2. Adjustment of sample size based on accumulating data&#xD;
+&#xD;
+                In order to enable early stopping, we propose to perform interim analysis and&#xD;
+                perform, based on accumulating data, the measurement of saturation based on the&#xD;
+                method described by Guest et al. For each type of intervention, the recorded data&#xD;
+                will be first evaluated after 5 recordings, which will be considered as a base of&#xD;
+                collected information. Then, the dataset will be reevaluated after each new&#xD;
+                recording. If the new information from all recorded metrics falls below a ≤5%&#xD;
+                threshold, the new dataset will be considered to be similar, thus providing no new&#xD;
+                information. The recorded dataset will be processed to extract the following&#xD;
+                metrics from the data:&#xD;
+&#xD;
+                  -  Motion of operating staff&#xD;
+&#xD;
+                  -  Number of people present and the distance between the people&#xD;
+&#xD;
+                  -  Size and shape of the workspace (the space that is traveled) of the tracked&#xD;
+                     people in x,y and z coordinates&#xD;
+&#xD;
+                  -  walking pattern: trajectory of tracked people&#xD;
+&#xD;
+                  -  Distance of people from the displays&#xD;
+&#xD;
+                  -  Direction of gaze, which is estimated based on head orientation&#xD;
+&#xD;
+                  -  Movement of the display&#xD;
+&#xD;
+                  -  Size and shape of the workspace of the displays&#xD;
+&#xD;
+                  -  In x,y and z coordinates&#xD;
+&#xD;
+                  -  Illumination levels Each recording dataset will be compared to the union of&#xD;
+                     all the previously recorded datasets of the same surgical intervention and&#xD;
+                     based on the metrics below. For example, the second recording will be compared&#xD;
+                     to the first recording, while the third recording will be compared to both the&#xD;
+                     first and second recordings.&#xD;
+&#xD;
+                If 5 consecutive recordings of the investigated intervention show similarity, then&#xD;
+                saturation is reached for that intervention, and the recordings will come to an&#xD;
+                endpoint.&#xD;
+&#xD;
+                We also will stop further inclusion and recordings when 50 surgeries of each type&#xD;
+                are studied.&#xD;
+&#xD;
+             3. Summary of sample size&#xD;
+&#xD;
+           An adaptive sample size will be used. Following 5 recordings of each type of operation,&#xD;
+           the first calculation is made, and a first interim analysis is done after one additional&#xD;
+           patient (minimum number: 3*6 = 18). The maximum is 3*50 = 150 recordings.&#xD;
+&#xD;
+       10. Statistical analysis&#xD;
+&#xD;
+           When saturation is reached, each type of operation will be analyzed statistically for&#xD;
+           the metrics described above. More precisely, for each type of operation the mean and&#xD;
+           standard deviation will be calculated for (if applicable, units are given between&#xD;
+           brackets):&#xD;
+&#xD;
+             -  Number of people present in the OR.&#xD;
+&#xD;
+             -  The distance between people [m].&#xD;
+&#xD;
+             -  Size of the workspace of people [m3].&#xD;
+&#xD;
+             -  Walking pattern: travelled distance [m].&#xD;
+&#xD;
+             -  Distance of people from the displays [m].&#xD;
+&#xD;
+             -  Direction of the gaze, expressed as the distance between the center of the screen&#xD;
+                and the point of focus on the screen [cm].&#xD;
+&#xD;
+             -  Size of the workspace of the displays [m3].&#xD;
+&#xD;
+             -  Illumination level [lx].&#xD;
+&#xD;
+       11. Collected data&#xD;
+&#xD;
+           All recorded data are labeled with a study number; one study includes all recordings&#xD;
+           from all the cameras, hence includes visual information on patient and staff. The&#xD;
+           recorded data contains color and depth video files. The coding of the recorded data is&#xD;
+           different for staff members and patients.&#xD;
+&#xD;
+           Though data on each operation could be processed anonymously, we assume that the data of&#xD;
+           participants are de facto pseudonymized: the data are &quot;time- and date-stamped&quot;, so&#xD;
+           identification of the patient or participating staff is theoretically possible via that&#xD;
+           identifier. Moreover, on the recordings the faces of the staff are visible.&#xD;
+&#xD;
+           The principal investigator however will not keep a list of study numbers and&#xD;
+           corresponding patient medical record numbers.&#xD;
+&#xD;
+           Recognition of patients As to visual recognition of the patient on the video-material,&#xD;
+           recording is only made while the patient is draped, thus patients will not be&#xD;
+           recognizable on the footages. The research team is obliged to protect the data from&#xD;
+           disclosure outside the research according to the terms of the research protocol and the&#xD;
+           informed consent document. No patient records will be stored for this study.&#xD;
+&#xD;
+           Recognition of staff members The data of participating staff members cannot be&#xD;
+           anonymized. The faces of the personnel will be visible, thus individuals will be&#xD;
+           recognizable on the footages. Furthermore, the visual markers will carry information on&#xD;
+           their roles. The research team is obliged to protect the data from disclosure outside&#xD;
+           the research according to the terms of the research protocol and the informed consent&#xD;
+           document.&#xD;
+&#xD;
+       12. Data management and handling&#xD;
+&#xD;
+           Clinical information will not be released without the written permission of the&#xD;
+           participant, except as necessary for monitoring, auditing, or inspection by the relevant&#xD;
+           authorities.&#xD;
+&#xD;
+           The recording system used to collect the data has limited access measures by usernames&#xD;
+           and passwords. Data will be collected electronically and the saved data will be hosted&#xD;
+           at UZ Leuven, in the domain allocated to the PI. This is a password-protected domain and&#xD;
+           access will be only possible to the personnel involved in the study (PI,&#xD;
+           sub-investigator, administrator). Published results will not contain any personal data&#xD;
+           that could allow the identification of individual participants.&#xD;
+&#xD;
+       13. Ethics and regulatory approvals&#xD;
+&#xD;
+      The trial will be conducted in compliance with the principles of the Declaration of Helsinki&#xD;
+      (2013), the principles of GCP and in accordance with all applicable regulatory requirements.&#xD;
+      This protocol and related documents will be submitted for review to Ethics Committee of the&#xD;
+      University Hospital Leuven.&#xD;
+&#xD;
+      The study is conducted only on the basis of prior informed consent by the subjects to&#xD;
+      participate in the study. The investigator shall obtain a signed informed consent form (ICF)&#xD;
+      for all patients prior to their enrolment and participation in the study in compliance with&#xD;
+      all applicable laws, regulations and the approval of the Ethics Committee. The investigator&#xD;
+      shall retain such ICFs in accordance with the requirements of all applicable regulatory&#xD;
+      agencies and laws.&#xD;
+&#xD;
+      The Investigators shall treat all information and data relating to the study disclosed to&#xD;
+      them on this study as confidential and shall not disclose such information to any third&#xD;
+      parties or use such information for any purpose other than the performance of the study. The&#xD;
+      collection, processing and disclosure of personal data, such as patient health and medical&#xD;
+      information are subject to compliance with applicable personal data protection and the&#xD;
+      processing of personal data (The General Data Protection Regulation (EU) 2016/679 (GDPR)).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 27, 2021</start_date>
+  <completion_date type="Anticipated">September 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Average number of people present in the operating room</measure>
+    <time_frame>Duration of surgery</time_frame>
+    <description>Number of people in the field of view of each camera at the same time. Visual assessment based on the recorded videos will be made.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Size and shape of the workspace (the space that is traveled) of the tracked people.</measure>
+    <time_frame>Duration of surgery</time_frame>
+    <description>Size of the workspace described in [mm] in x,y,z coordinates with respect to the cameras. This include average position and standard deviation in all three directions. The people being tracked are the surgeon, first assistant and the nurse handling the instrument. Tracking is done by placing visual markers on the head cap of the people that is being recorded by the cameras.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Distance of people from displays</measure>
+    <time_frame>Duration of surgery</time_frame>
+    <description>Distance of tracked people from the display they use in [mm]. Similarly as to workspace calculation, the distance will be calculated by means of video-based tracking of the people, using visual markers.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Direction of gaze of the tracked people</measure>
+    <time_frame>Duration of surgery</time_frame>
+    <description>Direction of gaze, i.e. direction where the person is looking, estimated based on head orientation. Head orientation is determined by using visual markers. Each visual marker has its own coordinate frame, from which the z axis determines where the marker is pointing. Since these will be placed on the head cap of the staff, the z axis of the marker will determine the direction of head orientation. Direction of gaze will be determined using a 3D vector [x y z] with origin of head position at each timestep.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Movement of the display: Size and shape of the workspace of the displays.</measure>
+    <time_frame>Duration of the surgery</time_frame>
+    <description>Size of the workspace described in [mm] in x,y,z coordinates for each display. Size of the workspace is determined by calculating the average and standard deviation of the display position within the operating room in all 3 directions (x,y,z). The position of each display will be determined by the camera mounted on top of it. A static reference point acting as the origin of the coordinate frame will be a visual marker placed on the wall of the operating room, in the field of view of the camera. The change in position of this reference point with respect to the camera directly translates to the change of position of the display.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Illumination levels throughout the intervention.</measure>
+    <time_frame>Duration of the surgery</time_frame>
+    <description>Measuring the illumination during operation by using a lux meter. The average and standard deviation in illumination levels will be assessed in [lux], together with the rate of illumination change.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Sacrocolpopexy</condition>
+  <condition>Hysterectomy</condition>
+  <condition>Cesarean Section Complications</condition>
+  <arm_group>
+    <arm_group_label>Study group</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Each participant will be part of the same group, since the study is focusing on the motion and viewing of the operating staff. There are no patient records collected.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Video recordings</intervention_name>
+    <description>The surgery of the patient will be recorded by cameras placed on the top of the displays used by the operating staff. The recordings will be only carried out while the patient is draped for the surgery, thus completely covered.</description>
+    <arm_group_label>Study group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients undergoing either sacrocolpopexy or hysterectomy or cesarean scar defect&#xD;
+             repair&#xD;
+&#xD;
+          -  For each operation to be eligible for the study, voluntary informed consent is&#xD;
+             required from all staff members involved&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Not given informed consent by patient or any of the staff member involved in the&#xD;
+             operation&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jan Deprest, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universitaire Ziekenhuizen Leuven</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ann-Sophie Page, MD</last_name>
+    <phone>+3216340017</phone>
+    <email>ann-sophie.page@uzleuven.Be</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>UZ Leuven</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ann-Sophie Page, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Ann-Sophie Page, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>August 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>August 31, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 8, 2021</study_first_posted>
+  <last_update_submitted>October 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Universitaire Ziekenhuizen Leuven</investigator_affiliation>
+    <investigator_full_name>prof. dr. Jan Deprest</investigator_full_name>
+    <investigator_title>Clinical professor</investigator_title>
+  </responsible_party>
+  <keyword>Minimally invasive surgery</keyword>
+  <keyword>3D visualization</keyword>
+  <keyword>Motion analysis</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

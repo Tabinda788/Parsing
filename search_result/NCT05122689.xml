@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2956">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05122689</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Dietary nitrate and microbiome</org_study_id>
+    <nct_id>NCT05122689</nct_id>
+  </id_info>
+  <brief_title>Dietary Inorganic Nitrate and the Enteral Microbiome</brief_title>
+  <acronym>DINE</acronym>
+  <official_title>Influence of Exogenous Dietary Inorganic Nitrate on Downstream Metabolites of the Enteral Microbiome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Essen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Essen</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A growing body of data shows that the enteral microbiome has an effect on cardiovascular&#xD;
+      diseases. Exogenous inorganic dietary nitrate mediates cardioprotective effects and has been&#xD;
+      shown to have an influence on the oral microbiome. The nutritional aspects of these&#xD;
+      cardioprotective effects are particularly intriguing since nitrate is abundant in our&#xD;
+      everyday diet.&#xD;
+&#xD;
+      Whether dietary nitrate influences the enteral microbiome and downstream metabolites like&#xD;
+      short-chain fatty acids (SCFA) and TMAO will be investigated in the present study.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 22, 2021</start_date>
+  <completion_date type="Anticipated">December 21, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change of the enteral microbiome composition</measure>
+    <time_frame>30 days</time_frame>
+    <description>Changes in enteral microbiome composition in stool samples at baseline and after 30 days of placebo/verum supplementation. The 16S rRNA amplicon reads obtained from an Illumina MiSeq System will be analyzed using pipeline QIIME2 (v. 2019.1).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change of the oral microbiome composition</measure>
+    <time_frame>30 days</time_frame>
+    <description>Changes in oral microbiome composition in oral swabs samples at baseline and after 30 days of placebo/verum supplementation. The 16S rRNA amplicon reads obtained from an Illumina MiSeq System will be analyzed using pipeline QIIME2 (v. 2019.1).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of circulating SCFA levels</measure>
+    <time_frame>30 days</time_frame>
+    <description>Changes in circulating SCFA blood levels at baseline and after 30 days of placebo/verum supplementation will be measured by high-performance liquid chromatography.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Changes in the oral-enteral microbiome axis</measure>
+    <time_frame>30 days</time_frame>
+    <description>Changes in oral-enteral microbiome axis composition in oral swabs and stool samples at baseline and after 30 days of placebo/verum supplementation. The 16S rRNA amplicon reads obtained from an Illumina MiSeq System will be analyzed using pipeline QIIME2 (v. 2019.1).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Changes in arterial stiffness parameters</measure>
+    <time_frame>30 days</time_frame>
+    <description>Changes in cardiovascular function measured by arterial stiffness parameters as pulse wave velocity measured in m/s at baseline and after 30 days of placebo/verum supplementation.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Changes in blood pressure</measure>
+    <time_frame>30 days</time_frame>
+    <description>Changes in cardiovascular function measured by systolic and diastolic blood pressure in mmHg at baseline and after 30 days of placebo/verum supplementation.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change of the nitrate-nitrite-NO metabolism</measure>
+    <time_frame>30 days</time_frame>
+    <description>Changes of nitrate and nitrite content in plasma measured by ENO-20 analysis at baseline and after 30 days of placebo/verum supplementation.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Genetic variants (single nucleotide polymorphism)</measure>
+    <time_frame>30 days</time_frame>
+    <description>The effect of the genes NOS3 and GUCY1A3 variation on dietary nitrate response. Genetic polymorphism will be measured by qPCR and analyzed by allelic discrimination.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Epigenetic changes</measure>
+    <time_frame>30 days</time_frame>
+    <description>Changes of DNA methylation analysis by pyrosequencing at baseline and after 30 days of placebo/verum supplementation.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Changes in TMAO levels</measure>
+    <time_frame>30 days</time_frame>
+    <description>Changes in TMAO blood levels at baseline and after 30 days of placebo/verum supplementation will be measured by ultra-high-performance liquid chromatography-tandem mass spectrometry (UHPLC-MS/MS).</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Cardiovascular Health</condition>
+  <arm_group>
+    <arm_group_label>Nitrate</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dietary inorganic nitrate (0,12 mmol sodium-nitrate/kg BW/day) dissolved in 200 ml tap water. Supplementation for 30 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Dietary sodium-chloride (0,12 mmol sodium-chloride/kg BW/day) dissolved in 200 ml tap water. Supplementation for 30 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Nitrate</intervention_name>
+    <description>Dietary inorganic nitrate (0,12 mmol sodium-nitrate/kg BW/day) dissolved in 200 ml tap water. Supplementation for 30 days.</description>
+    <arm_group_label>Nitrate</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Control</intervention_name>
+    <description>Dietary sodium-chloride (0,12 mmol sodium-chloride/kg BW/day) dissolved in 200 ml tap water. Supplementation for 30 days.</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients aged 40-80 years&#xD;
+&#xD;
+          -  no regular medication intake&#xD;
+&#xD;
+          -  no chronic diseases&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Regular systemic drug intake&#xD;
+&#xD;
+          -  Active smoking&#xD;
+&#xD;
+          -  Chronic diseases&#xD;
+&#xD;
+          -  Acute diarrhea or vomiting&#xD;
+&#xD;
+          -  Short gut syndrome&#xD;
+&#xD;
+          -  Pregnancy or breastfeeding&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tienush Rassaf, Professor</last_name>
+    <role>Study Director</role>
+    <affiliation>Clinic of cardiology and angiology, University Hospital Essen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Christos Rammos, Professor</last_name>
+    <phone>0201-723</phone>
+    <phone_ext>84808</phone_ext>
+    <email>christos.rammos@uk-essen.de</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University Hospital Essen</name>
+      <address>
+        <city>Essen</city>
+        <state>NRW</state>
+        <zip>45147</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christos Rammos, Professor</last_name>
+      <phone>+49 (0)201-723</phone>
+      <phone_ext>84808</phone_ext>
+      <email>christos.rammos@uk-essen.de</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>September 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2021</study_first_posted>
+  <last_update_submitted>December 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>microbiome</keyword>
+  <keyword>nitrate</keyword>
+  <keyword>diet</keyword>
+  <keyword>dietary nitrate</keyword>
+  <keyword>cardiovascular</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

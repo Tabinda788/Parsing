@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2337">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05130736</url>
+  </required_header>
+  <id_info>
+    <org_study_id>514/21</org_study_id>
+    <nct_id>NCT05130736</nct_id>
+  </id_info>
+  <brief_title>Rehabilitation Robot in Patients With Post-Coronavirus Disease (COVID-19) Fatigue Syndrome</brief_title>
+  <official_title>The Use of a Rehabilitation Robot in Patients With Post-COVID-19 Fatigue Syndrome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Poznan University of Medical Sciences</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>EGZOTech sp. z o.o.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Szpital Wojewódzki w Poznaniu</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Poznan University of Medical Sciences</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of the study is to compare the effectiveness of two models of rehabilitation:&#xD;
+&#xD;
+        -  traditional neurological rehabilitation, and&#xD;
+&#xD;
+        -  neurological rehabilitation combined with a rehabilitation robot (Luna by EGZOTech).&#xD;
+&#xD;
+      An additional goal is to test the qualitative diagnostic reference using the surface&#xD;
+      electromyogram of the Luna robot (certified as a Medical Device) for functional diagnostics&#xD;
+      based on standardized clinical tests.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 1, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in muscle fatigue assessment</measure>
+    <time_frame>Baseline, after 3 and after 8 weeks</time_frame>
+    <description>Raw robot measurement data (isometric contraction of the muscle for 60 s - biceps, quadriceps)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in isokinetic muscle force</measure>
+    <time_frame>Baseline, after 3 and after 8 weeks</time_frame>
+    <description>Raw robot measurement data (5 repetitions during measurement with LUNA)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in functional physical ability 1</measure>
+    <time_frame>Baseline, after 3 and after 8 weeks</time_frame>
+    <description>Functional Independence Measure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in functional physical ability 2</measure>
+    <time_frame>Baseline, after 3 and after 8 weeks</time_frame>
+    <description>Barthel Index</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in functional physical ability 3</measure>
+    <time_frame>Baseline, after 3 and after 8 weeks</time_frame>
+    <description>Berg Balance Test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in functional physical ability 4</measure>
+    <time_frame>Baseline, after 3 and after 8 weeks</time_frame>
+    <description>Short Physical Performance Battery</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in cognitive ability 1</measure>
+    <time_frame>Baseline, after 3 and after 8 weeks</time_frame>
+    <description>Addenbrooke's Cognitive Examination (ACE-III)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in cognitive ability 2</measure>
+    <time_frame>Baseline, after 3 and after 8 weeks</time_frame>
+    <description>Montreal Cognitive Assessment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the quality of life</measure>
+    <time_frame>Baseline, after 3 and after 8 weeks</time_frame>
+    <description>WHOQOL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in depressive symptoms</measure>
+    <time_frame>Baseline, after 3 and after 8 weeks</time_frame>
+    <description>Beck's Depression Inventory</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Post-Viral Fatigue Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Robot</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients treated using a rehabilitation robot</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients receiving traditional rehabilitation treatment (robot used only as assessment tool)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Robot rehabilitation</intervention_name>
+    <description>Effectiveness of using a rehabilitation robot in post-COVID-19 rehabilitation</description>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_label>Robot</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - patients discharged from Intensive Care Units after undergone ventilator therapy due to&#xD;
+        COVID-19&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  active medical condition (infections; tumors; rheumatological, metabolic, endocrine,&#xD;
+             autoimmunological, cardiovascular diseases)&#xD;
+&#xD;
+          -  bipolar disorder&#xD;
+&#xD;
+          -  dementia&#xD;
+&#xD;
+          -  nutritional disorders&#xD;
+&#xD;
+          -  addiction to alcohol or psychoactive substances&#xD;
+&#xD;
+          -  severe obesity&#xD;
+&#xD;
+          -  overtraining&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Katarzyna Hojan, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Poznan University of Medical Sciences</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Katarzyna Hojan, MD, PhD</last_name>
+    <phone>+48618546573</phone>
+    <email>khojan@ump.edu.pl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Slawomir Tobis, PhD</last_name>
+    <phone>+48618546573</phone>
+    <email>stobis@ump.edu.pl</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Poznan University of Medical Sciences</name>
+      <address>
+        <city>Poznań</city>
+        <zip>60-781</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Katarzyna Hojan, MD, PhD</last_name>
+      <phone>+48618546573</phone>
+      <email>khojan@ump.edu.pl</email>
+    </contact>
+    <contact_backup>
+      <last_name>Slawomir Tobis, PhD</last_name>
+      <phone>+48618546573</phone>
+      <email>stobis@ump.edu.pl</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Poland</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 23, 2021</study_first_posted>
+  <last_update_submitted>November 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fatigue Syndrome, Chronic</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+    <mesh_term>Fatigue</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

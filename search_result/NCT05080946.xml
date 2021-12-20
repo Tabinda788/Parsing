@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="6167">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05080946</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MCC-20870</org_study_id>
+    <secondary_id>E01775.1a</secondary_id>
+    <nct_id>NCT05080946</nct_id>
+  </id_info>
+  <brief_title>Using Aspirin to Improve Immunological Features of Ovarian Tumors</brief_title>
+  <official_title>Pilot Study to Assess the Efficacy of Aspirin to Improve Immunological Features of Ovarian Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>H. Lee Moffitt Cancer Center and Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>United States Department of Defense</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sharp Clinical Services, Inc</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>H. Lee Moffitt Cancer Center and Research Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to evaluate the effectiveness of aspirin with neoadjuvant&#xD;
+      chemotherapy for decreasing markers of immune suppression in the tumor at interval debulking&#xD;
+      surgery, in women with diagnosed ovarian, fallopian tube, or peritoneal carcinoma&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 1, 2021</start_date>
+  <completion_date type="Anticipated">March 2025</completion_date>
+  <primary_completion_date type="Anticipated">March 2025</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in intratumoral density of immunosuppressive T-regulatory (FOXP3+) cells from diagnostic biopsy to interval debulking surgery</measure>
+    <time_frame>Up to 5 months</time_frame>
+    <description>Change in intratumoral density of immunosuppressive T-regulatory (FOXP3+) cells will be measured by using this formula: (density in the debulking surgery tissue sample - density in the biopsy tissue sample)*100 / density in the biopsy tissue sample.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in intratumoral density of M2 tumor-associated macrophages (CD163+ cells) from diagnostic biopsy to interval debulking surgery</measure>
+    <time_frame>Up to 5 Months</time_frame>
+    <description>Change in intratumoral density of of M2 tumor-associated macrophages (CD163+ cells) will be measured by using this formula: (density in the debulking surgery tissue sample - density in the biopsy tissue sample)*100 / density in the biopsy tissue sample.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in density of tumor COX1</measure>
+    <time_frame>Up to 5 Months</time_frame>
+    <description>Change in density of tumor COX1 will be measured by using this formula: (density in the debulking surgery tissue sample - density in the biopsy tissue sample)*100 / density in the biopsy tissue sample.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in density of tumor COX2</measure>
+    <time_frame>Up to 5 Months</time_frame>
+    <description>Change in density of tumor COX2 will be measured by using this formula: (density in the debulking surgery tissue sample - density in the biopsy tissue sample)*100 / density in the biopsy tissue sample.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in blood levels of IL-6</measure>
+    <time_frame>Up to 84 days</time_frame>
+    <description>Investigators will calculate the percent change in the concentration of the biomarker from baseline to Visit 4</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in blood levels of p-selectin</measure>
+    <time_frame>Up to 84 days</time_frame>
+    <description>Investigators will calculate the percent change in the concentration of the biomarker from baseline to Visit 4</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in blood levels of CA 125</measure>
+    <time_frame>Up to 84 days</time_frame>
+    <description>Investigators will calculate the percent change in the concentration of the biomarker from baseline to Visit 4</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in tumor burden as defined by RECIST 1.1</measure>
+    <time_frame>Up to 5 Months</time_frame>
+    <description>Change in tumor burden be assessed using Response Evaluation Criteria in Solid Tumors guideline version 1.1 (RECIST 1.1)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Ovarian Cancer</condition>
+  <condition>Fallopian Tube Cancer</condition>
+  <condition>Peritoneal Cancer</condition>
+  <arm_group>
+    <arm_group_label>Participants Randomized to Aspirin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to this arm will receive 325mg daily dose aspirin</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Participants Randomized to Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants randomized to this arm will receive a daily dose of a placebo (inactive substance)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Aspirin 325mg</intervention_name>
+    <description>Participants will receive a tablet of 325mg aspirin that is taken once daily by mouth. Study treatment begins on first day of neoadjuvant chemotherapy for up to 5 &quot;cycles&quot;. Participants will be expected to take the study treatment for between 63 and 175 days (3-5 cycles). Participants will stop taking study treatment 7 days prior to participants interval debulking surgery.</description>
+    <arm_group_label>Participants Randomized to Aspirin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Participants will receive a placebo tablet that is taken once daily by mouth. Study treatment begins on first day of neoadjuvant chemotherapy for up to 5 &quot;cycles&quot;. Participants will be expected to take the study treatment for between 63 and 175 days (3-5 cycles). Participants will stop taking study treatment 7 days prior to participants interval debulking surgery.</description>
+    <arm_group_label>Participants Randomized to Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants that are greater than or equal to 18 years of age&#xD;
+&#xD;
+          -  For U.S. sites, patients can read and understand English or Spanish; for Canadian&#xD;
+             site, participants can read and understand English or French&#xD;
+&#xD;
+          -  Histology confirmed, or clinical suspicion of, invasive epithelial ovarian, fallopian&#xD;
+             tube, or peritoneal carcinoma. Must be grade 2 or 3. All histologies including serous,&#xD;
+             endometrioid, clear cell sarcoma, or carcinosarcoma histology is acceptable. Mixed&#xD;
+             histology also acceptable.&#xD;
+&#xD;
+          -  Treatment naïve for this cancer diagnosis&#xD;
+&#xD;
+          -  Planned for neoadjuvant chemotherapy (platinum-based doublet with taxane +/- anti-VEGF&#xD;
+             antibody) for at least 3 but no more than 5 cycles followed by an interval debulking&#xD;
+             surgery. [Note: this study evaluates response while on neoadjuvant treatment. The&#xD;
+             final collection of specimen and questionnaire is at the time of surgery and immediate&#xD;
+             post-operative state. Therefore, there are no eligibility criteria related to&#xD;
+             treatment in the adjuvant setting (e.g., intraperitoneal treatment) and adjuvant&#xD;
+             therapy should proceed as the physician deems appropriate.]&#xD;
+&#xD;
+          -  Measurable disease as defined by RECIST 1.1, CT scan (with or without contrast) within&#xD;
+             12 weeks of study enrollment.&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0,1, or 2&#xD;
+&#xD;
+          -  Able to provide tissue biopsy (core or excisional) sufficient for diagnosis and&#xD;
+             biomarker analysis, may use outside archival tissue if available.&#xD;
+&#xD;
+          -  If currently using anti-coagulation medication, no contraindication for temporary&#xD;
+             stoppage of use during the study based on physician judgement&#xD;
+&#xD;
+          -  Willing and able to swallow pills without difficulty&#xD;
+&#xD;
+          -  Un-transfused platelet count &gt; 100,000 cells/μL&#xD;
+&#xD;
+          -  Willing and able to participate in all required evaluations and procedures in this&#xD;
+             study protocol (e.g. undergoing treatment, scheduled visits and examinations, serum&#xD;
+             testing, questionnaires, pill log/diary)&#xD;
+&#xD;
+          -  Absolute neutrophil count &gt; 1.5 x 109 cells/L&#xD;
+&#xD;
+          -  Hemoglobin &gt; 9.0 g/dL, may use transfusions and the value can be post-transfusion&#xD;
+&#xD;
+          -  Estimated creatinine clearance of &gt; 30 mL/min, calculated using the formula&#xD;
+             Cockcroft-Gault [(140-age) x Mass (kg)/(72 x creatinine mg/dL)] x 0.85 for female&#xD;
+&#xD;
+          -  No severe hepatic impairment defined as AST or ALT elevation &lt; 2.5 x institutional&#xD;
+             ULN, unless liver metastasis is present &lt; 5 x ULN&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Definite contraindication for either aspirin use or stopping current aspirin use based&#xD;
+             on physician's clinical judgment&#xD;
+&#xD;
+          -  History of vascular event in the last 12 months (e.g., myocardial infarction or&#xD;
+             unstable angina, stroke, coronary artery angioplasty or stenting, coronary artery&#xD;
+             bypass graft, relevant [serious or significant] arrhythmias, significant vascular&#xD;
+             disease, congestive heart failure or vascular interventions).&#xD;
+&#xD;
+          -  History of hypertensive crisis and/ or uncontrolled HTN, systolic blood pressure &gt; 150&#xD;
+             mmHg; diastolic blood pressure &gt; 90mmHg. Participants must have blood pressure &lt;&#xD;
+             150/90 mmHg taken in a clinic setting by a medical professional within 2 weeks prior&#xD;
+             to starting study.&#xD;
+&#xD;
+          -  Current or history of ulcers which prohibits aspirin consumption, severe hepatic&#xD;
+             failure, or acute or chronic renal disease where aspirin use is contraindicated&#xD;
+&#xD;
+          -  History of gastrointestinal or genitourinary bleeding or other bleeding diathesis or&#xD;
+             coagulopathy within 6 months prior to enrollment of study&#xD;
+&#xD;
+          -  Uncontrolled erosive esophagitis requiring 2 or more treatments&#xD;
+&#xD;
+          -  Other cancer diagnosis in the last 3 years other than non-melanoma skin cancer&#xD;
+&#xD;
+          -  Autoimmune disorder requiring systemic therapy&#xD;
+&#xD;
+          -  Chronic steroid use defined as 3 weeks in the past year or any length of time in the&#xD;
+             past 30 days.&#xD;
+&#xD;
+          -  Other aspirin or NSAID hypersensitivities or contraindications (e.g. allergy)&#xD;
+&#xD;
+          -  History of bariatric surgery&#xD;
+&#xD;
+          -  Currently pregnant at the Screening visit or planning on becoming pregnant during the&#xD;
+             study period&#xD;
+&#xD;
+          -  Participant is unable to swallow orally administered medication and patients with&#xD;
+             gastrointestinal disorders likely to interfere with study medication.&#xD;
+&#xD;
+          -  Metabolism CYP2C9, known G6PD deficient patients&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jing-Yi Chern, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Moffitt Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Tiffany Shiles</last_name>
+    <phone>813-745-2948</phone>
+    <email>Tiffany.Shiles@moffitt.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Moffitt Cancer Center</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tiffany Shiles</last_name>
+      <phone>813-745-2948</phone>
+      <email>Tiffany.Shiles@moffitt.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jing-Yi Chern, MD</last_name>
+      <phone>813-745-7205</phone>
+      <email>Jing-Yi.Chern@moffitt.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jing-YI Chern, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://moffitt.org/clinical-trials-and-studies/clinical-trial-20870/</url>
+    <description>Moffitt Clinical Trial Search</description>
+  </link>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 18, 2021</study_first_posted>
+  <last_update_submitted>December 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ovarian Neoplasms</mesh_term>
+    <mesh_term>Fallopian Tube Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Aspirin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

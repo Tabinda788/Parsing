@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8209">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05054374</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-288</org_study_id>
+    <nct_id>NCT05054374</nct_id>
+  </id_info>
+  <brief_title>A Study of Mirdametinib on Its Own or in Combination With Fulvestrant in People With Solid Tumor Cancer</brief_title>
+  <official_title>A Phase 1b / 2a, Open-label Platform Study to Evaluate Mirdametinib as Monotherapy or in Combination With Other Anticancer Agents in Patients With Advanced Solid Cancers Harboring MAPK-activating Mutations</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memorial Sloan Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Memorial Sloan Kettering Cancer Center</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study to find out whether mirdametinib is a safe treatment for people&#xD;
+      with advanced solid tumor cancer that has certain mutations. Researchers will look at whether&#xD;
+      mirdametinib on its own or in combination with the drug fulvestrant is a safe treatment that&#xD;
+      causes few or mild side effects in people with advanced solid tumor cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 14, 2021</start_date>
+  <completion_date type="Anticipated">September 14, 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 14, 2024</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Dose Limiting Treatment/DLT Evaluable Population</measure>
+    <time_frame>28 days from first day of treatment</time_frame>
+    <description>DLT Evaluable Population consists of patients who receive at least 80% of planned total doses of mirdametinib in cycle 1 (in Arm 1 only, also both doses of fulvestrant) and are observed within 28 days following the first dose of mirdametinib or patients who experience a DLT.</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Breast Cancer</condition>
+  <condition>Breast Cancer Stage IV</condition>
+  <condition>HER2-negative Breast Cancer</condition>
+  <condition>Solid Carcinoma</condition>
+  <condition>MEK1 Gene Mutation</condition>
+  <condition>MEK2 Gene Mutation</condition>
+  <condition>Metastatic Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Arm 1, Part 1 - mirdametinib in combination with fulvestrant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Postmenopausal patients with estrogen receptor positive metastatic breast cancer harboring NF1 loss of function or another alteration of the MAPK pathway.&#xD;
+Part 1: safety run-in (confirmation of the RP2D for mirdametinib in combination with the standard recommended dose of fulvestrant). This part may include the mirdametinib dose de-escalation according to the 3+3 design if necessary</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 1, Part 2 - mirdametinib in combination with fulvestrant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Postmenopausal patients with estrogen receptor positive metastatic breast cancer harboring NF1 loss of function or another alteration of the MAPK pathway.&#xD;
+Part 2: dose expansion cohorts where the mirdametinib RP2D will be administered in combination with the standard recommended dose of fulvestrant</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2, Part 1 - mirdametinib as single agent</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Adult patients with advanced solid cancers driven by the alteration of the MAPK pathway&#xD;
+Part 1: mirdametinib dose escalation to MTD or RP2D according to the 3+3 design</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2, Part 2 - mirdametinib as single agent</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Adult patients with advanced solid cancers driven by the alteration of the MAPK pathway&#xD;
+Part 2: dose expansion cohorts</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Mirdametinib</intervention_name>
+    <description>Dose Level -2INT: 2mg PO BID, 3 weeks on/1 week off Dose Level -2: 2mg PO BID given continuously Dose Level -1INT: 3mg PO BID, 3 weeks on/1 week off Dose Level -1: 3mg PO BID given continuously Dose Level 1: 4mg PO BID given continuously Dose Level 2: 6mg PO BID given continuously Dose Level 3: 8mg PO BID given continuously</description>
+    <arm_group_label>Arm 1, Part 1 - mirdametinib in combination with fulvestrant</arm_group_label>
+    <arm_group_label>Arm 1, Part 2 - mirdametinib in combination with fulvestrant</arm_group_label>
+    <arm_group_label>Arm 2, Part 1 - mirdametinib as single agent</arm_group_label>
+    <arm_group_label>Arm 2, Part 2 - mirdametinib as single agent</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fulvestrant</intervention_name>
+    <description>The starting dose of mirdametinib in combination with fulvestrant in each Dose Level will be as follows:&#xD;
+Dose Level 1: mirdametinib 4 mg BID PO + fulvestrant&#xD;
+(Only to be triggered pending DLTs on higher Dose Levels as described below)&#xD;
+Dose Level -2: mirdametinib 2 mg BID PO continuous + fulvestrant, and Dose Level -2INT: mirdametinib 2 mg BID PO on 3 weeks on, 1 week off + fulvestrant</description>
+    <arm_group_label>Arm 1, Part 1 - mirdametinib in combination with fulvestrant</arm_group_label>
+    <arm_group_label>Arm 1, Part 2 - mirdametinib in combination with fulvestrant</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Subjects are eligible to start the treatment in the study only if all of the following&#xD;
+        criteria apply:&#xD;
+&#xD;
+        Arm 1 (metastatic breast cancer):&#xD;
+&#xD;
+          -  Female adults (≥18 years of age on the date of informed consent)&#xD;
+&#xD;
+          -  Postmenopausal or receiving ovarian suppression (including GnRH agonists such as&#xD;
+             goserelin)&#xD;
+&#xD;
+          -  Histologically confirmed hormone receptor-positive metastatic breast cancer with&#xD;
+             evidence of progression on at least 1 prior line of therapy for metastatic disease&#xD;
+             which should have included a CDK4/6 inhibitor in combination with endocrine therapy.&#xD;
+             Prior chemotherapy is permitted.&#xD;
+&#xD;
+          -  ER+ as defined by immunohistochemistry (IHC) ≥1% by local laboratory testing (as per&#xD;
+             the ASCO-CAP guidelines)&#xD;
+&#xD;
+          -  HER2-negative, as defined by the negative in situ hybridization test (FISH, CISH, or&#xD;
+             SISH) or an IHC status of 0, 1+ or 2+ by local laboratory testing. If IHC is 2+ (i.e.&#xD;
+&#xD;
+        indeterminate), then a negative in situ hybridization test (FISH, CISH, or SISH) is&#xD;
+        required (as per the ASCO-CAP guidelines).&#xD;
+&#xD;
+          -  NF1 loss of function or another MAPK-activating genomic alteration documented by a&#xD;
+             CLIA-certified NGS assay at any time before the start of treatment. Note: archival&#xD;
+             tissue, if available and collected within 6 months of enrollment, may be used for this&#xD;
+             testing in lieu of fresh tissue.&#xD;
+&#xD;
+        Arm 2 (advanced solid cancers):&#xD;
+&#xD;
+          -  Male or female adults (≥18 years of age on the date of informed consent)&#xD;
+&#xD;
+          -  Histologically confirmed advanced, metastatic solid tumor cancer for which there is no&#xD;
+             available therapy known to confer clinical benefit. Colorectal, anal, small bowel,&#xD;
+             biliary or ampullary cancers are not eligible.&#xD;
+&#xD;
+          -  Class 1 or class 2 MEK1 or MEK2 mutations, as described below, documented by a&#xD;
+             CLIA-certified NGS assay at any time before the start of treatment. Class 3 MEK1 or&#xD;
+             MEK2 mutations as described in that paper are excluded. A complete list of the&#xD;
+             mutations allowed based on that paper can be found below, however, rare mutations not&#xD;
+             listed in this table may be permitted at the discretion of the principal investigator&#xD;
+             of the study. Note: archival tissue, if available and collected within 6 months of&#xD;
+             enrollment, may be used for this testing in lieu of fresh tissue.&#xD;
+&#xD;
+        Class 1 - Permitted: MEK1 D67N, MEK1 P124L, MEK1 P124S Class 2 - Permitted: MEK1 K57N, MEK1&#xD;
+        C121S, MEK1 F53L, MEK1 Q56P Class 3 - Excluded: MEK1 L98-I103, MEK1 I99-K104, MEK1&#xD;
+        E102-I103&#xD;
+&#xD;
+        The permitted mutations shown above are for MEK1. MEK1 and MEK2 are closely related, are&#xD;
+        structurally similar, share 79% amino acid identity, and they share equal ability to&#xD;
+        phosphylate their ERK substrates30. While the experiments performed above classify&#xD;
+        individual MEK1 mutations only, the class 3 mutations in MEK1 all share in-frame deletions&#xD;
+        that remove a potent negative regulatory element of MEK1. These are easily distinguishable&#xD;
+        from other mutations in MEK1. Therefore, the identification of exclusionary class 3 MEK2&#xD;
+        alterations will be straightforward as well, with paralogous mutant residues in MEK1 and&#xD;
+        MEK2 defined in the manuscript above. A table showing the permitted enrolling paralogous&#xD;
+        class 1 and class 2 residues are shown in the table below, again with the caveat that rare&#xD;
+        mutations in MEK2 not listed in the table below may be eligible at the discretion of the&#xD;
+        principal investigator.&#xD;
+&#xD;
+        MEK1: F53, Q56, K57, V60, D67, C121, P124, Y130, E203 MEK2: F57, Q60, K61, V64, D71, C125,&#xD;
+        P128, Y134, E207&#xD;
+&#xD;
+        All Arms:&#xD;
+&#xD;
+          -  Patient (or Legally Authorized Representative [LAR]) must sign written informed&#xD;
+             consent form before any study-specific procedure is performed&#xD;
+&#xD;
+          -  ECOG performance score of 0 or 1&#xD;
+&#xD;
+          -  Life expectancy of ≥3 months&#xD;
+&#xD;
+          -  At least one tumor lesion measurable by RECIST 1.1. A lesion in a previously&#xD;
+             irradiated area may be considered as measurable disease if there is objective evidence&#xD;
+             of progression of the lesion by RECIST 1.1 (Eisenhauer EA et al, 2009) between the&#xD;
+             prior radiotherapy and the screening CT or MRI scan.&#xD;
+&#xD;
+          -  Adequate bone marrow function at screening, as determined by:&#xD;
+&#xD;
+               -  Absolute neutrophil count (ANC) &gt;1,500/mm3 (CTCAE Grade ≤1)&#xD;
+&#xD;
+               -  Platelet count &gt;100,000 mm³&#xD;
+&#xD;
+               -  Hemoglobin &gt;9.0 mg/dL&#xD;
+&#xD;
+          -  Adequate kidney function at screening, as determined by ° Estimated glomerular&#xD;
+             filtration rate (eGFR) &gt;60 mL/min/1.73 m2 calculated by the CKD-EPI equation (CTCAE&#xD;
+             Grade ≤ 1).&#xD;
+&#xD;
+          -  Adequate hepatic function at screening, as determined by:&#xD;
+&#xD;
+             ° Total bilirubin ≤1.5 x ULN if baseline was normal or ≤1.5 x baseline if baseline was&#xD;
+             abnormal (CTCAE Grade ≤1). Patients with previously documented Gilbert's Syndrome may&#xD;
+             have total bilirubin ≤3 x ULN.&#xD;
+&#xD;
+               -  AST ≤3.0 x ULN if baseline was normal or ≤3.0 x baseline if baseline was abnormal&#xD;
+                  (CTCAE Grade ≤1).&#xD;
+&#xD;
+               -  ALT ≤3.0 x ULN if baseline was normal or ≤3.0 x baseline if baseline was abnormal&#xD;
+                  (CTCAE Grade ≤1).&#xD;
+&#xD;
+          -  Adequate coagulation function at screening, as determined by:&#xD;
+&#xD;
+             ° INR ≤1.5 x ULN if not on anticoagulant therapy or &gt;1.5 x baseline if on&#xD;
+             anticoagulant therapy (CTCAE Grade ≤1). If the patient receives anticoagulant therapy,&#xD;
+             the dose must be stable for at least 2 weeks before the start of treatment.&#xD;
+&#xD;
+             ° PTT ≤1.5 x ULN&#xD;
+&#xD;
+          -  Adequate cardiac function at screening, as determined by:&#xD;
+&#xD;
+               -  Systolic blood pressure &lt;150 mmHg and diastolic blood pressure &lt;90 mmHg (CTCAE&#xD;
+                  Grade ≤1). Note: Anti-hypertensive medications are permitted, and if a patient&#xD;
+                  does not meet these eligibility criteria at time of screening, treatment with&#xD;
+                  additional anti-hypertensive agents is permissible at the discretion of the&#xD;
+                  investigator, and blood pressure can be rechecked at a subsequent visit. Measured&#xD;
+                  blood pressures that fall out of this range after screening do not render&#xD;
+                  patients ineligible, however every effort should be made to medically manage&#xD;
+                  these elevated blood pressures at the investigator's discretion.&#xD;
+&#xD;
+               -  LVEF ≥50% by MUGA or ECHO.&#xD;
+&#xD;
+               -  No clinically significant ECG waveform abnormalities at the investigator's&#xD;
+                  discretion&#xD;
+&#xD;
+               -  QTcF ≤470 ms&#xD;
+&#xD;
+          -  Adequate serum lipid profile at screening, as determined by&#xD;
+&#xD;
+             ° Serum cholesterol &lt;300 mg/dL&#xD;
+&#xD;
+             ° Serum triglycerides &lt;300 mg/dL&#xD;
+&#xD;
+          -  Adequate glycemic control at screening, as determined by&#xD;
+&#xD;
+             ° Fasting blood glucose &lt;140 mg/dL or&#xD;
+&#xD;
+             ° Random blood glucose &lt;250 mg/dL Note: Anti-hyperglycemic medications are permitted&#xD;
+             if a patient does not meet these eligibility criteria at time of screening. Blood&#xD;
+             glucose measurements that fall out of this range do not render patients ineligible,&#xD;
+             and appropriate glycemic control at subsequent visits is at the discretion of the&#xD;
+             investigator.&#xD;
+&#xD;
+          -  Blood calcium and phosphate levels within normal levels per institutional lab standard&#xD;
+             at screening (calcium level may be corrected for albumin at the investigator's&#xD;
+             discretion)&#xD;
+&#xD;
+          -  Adequate ophthalmological exam in both eyes at screening, as determined by °&#xD;
+             Intraocular pressure ≤21 mmHg&#xD;
+&#xD;
+             ° No clinically significant abnormalities on the ocular tomography (OCT), including no&#xD;
+             evidence of ocular abnormality that would be considered a significant risk factor for&#xD;
+             central serous retinopathy, retinal vein occlusion (RVO), or neovascular macular&#xD;
+             degeneration (mild and controlled / stable age-related macular degeneration may be&#xD;
+             acceptable at the investigator's discretion).&#xD;
+&#xD;
+          -  Able and willing to comply with all aspects of the protocol&#xD;
+&#xD;
+        Contraception and Pregnancy Testing&#xD;
+&#xD;
+        Arm 1 (ER-positive metastatic breast cancer):&#xD;
+&#xD;
+          -  Not applicable (subjects must be female and postmenopausal or receiving ovarian&#xD;
+             suppression)&#xD;
+&#xD;
+        Arm 2 (advanced solid cancers with MEK1 or MEK2 mutations):&#xD;
+&#xD;
+          -  Male subjects must agree to the following during the treatment period and for at least&#xD;
+             6 months after the last dose of study treatment: ° Refrain from donating sperm&#xD;
+&#xD;
+        AND either:&#xD;
+&#xD;
+        ° Be abstinent from heterosexual intercourse as their preferred and usual lifestyle&#xD;
+        (abstinent on a long term and persistent basis) and agree to remain abstinent&#xD;
+&#xD;
+        OR&#xD;
+&#xD;
+          -  Must agree to use a male condom when having sexual intercourse with a woman of&#xD;
+             childbearing potential (WOCBP).&#xD;
+&#xD;
+             - Women of childbearing potential (WOCBP) must&#xD;
+&#xD;
+          -  Have a negative pregnancy test at screening and within 72 hours before the start of&#xD;
+             treatment&#xD;
+&#xD;
+        AND&#xD;
+&#xD;
+        ° Must agree to use a contraceptive method that is highly effective during the treatment&#xD;
+        period and for at least 6 months after the last dose of study treatment. Suitable methods&#xD;
+        of contraception are described in Section 11.5&#xD;
+&#xD;
+        AND&#xD;
+&#xD;
+        ° Must agree not to donate eggs (ova, oocytes) for the purpose of reproduction during the&#xD;
+        study and for a period of 6 months after last dose of study treatment.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Subjects are excluded from the study if any of the following criteria apply:&#xD;
+&#xD;
+        Medical and surgical history&#xD;
+&#xD;
+          -  History of HIV with the following exceptions:&#xD;
+&#xD;
+             ° Patients with CD4+ T-cell (CD4+) counts ≥ 350 cells/uL&#xD;
+&#xD;
+          -  History of AIDS-defining opportunistic infection with the following exceptions:&#xD;
+&#xD;
+               -  Patients without opportunistic infection within the past 12 months&#xD;
+&#xD;
+               -  Patients on prophylactic antimicrobials unless the specific antimicrobial drug(s)&#xD;
+                  has an interaction or overlapping toxicity with the proposed treatment as&#xD;
+                  determined by the investigator&#xD;
+&#xD;
+          -  History of active Hepatitis B or Hepatitis C infection at screening with the following&#xD;
+             exceptions:&#xD;
+&#xD;
+               -  Patients with Hepatitis B on a suppressive antiviral therapy&#xD;
+&#xD;
+               -  Patients with Hepatitis C who have completed curative antiviral treatment and&#xD;
+                  have an undetectable viral load&#xD;
+&#xD;
+          -  History (within 5 years) or current evidence of neoplastic disease other than the&#xD;
+             cancer under study, except cervical carcinoma in situ, superficial noninvasive bladder&#xD;
+             tumors, curatively treated Stage I-II non-melanoma skin cancer, or any other previous&#xD;
+             cancer curatively treated &lt;5 years before the start of treatment.&#xD;
+&#xD;
+          -  Current evidence of untreated/unstable symptomatic primary CNS tumor, metastases,&#xD;
+             leptomeningeal carcinomatosis, or spinal cord compression. Exception: Patients are&#xD;
+             eligible if neurological symptoms are stable for 14 days prior to the first treatment&#xD;
+             dose and no CNS surgery or radiation has been performed for 28 days, or 14 days of&#xD;
+             SRS.&#xD;
+&#xD;
+          -  Current evidence of CTCAE Grade &gt;1 toxicity before the start of treatment, except for&#xD;
+             hair loss.&#xD;
+&#xD;
+             ° Subjects with Grade 2 neuropathy may be eligible at the investigator's discretion.&#xD;
+&#xD;
+          -  History or current evidence of ocular abnormalities on ophthalmologic examination that&#xD;
+             would be considered a risk factor for central serous retinopathy, RVO or neovascular&#xD;
+             macular degeneration (mild and controlled age-related macular degeneration may be&#xD;
+             acceptable at the investigator's discretion)&#xD;
+&#xD;
+          -  Current evidence of incomplete recovery from surgery or radiotherapy at screening or&#xD;
+             planned major surgery or radiotherapy during the treatment. Minor elective surgery may&#xD;
+             be acceptable at the investigator's discretion.&#xD;
+&#xD;
+          -  History or current evidence of significant (CTCAE Grade ≥2) infection or wound within&#xD;
+             2 weeks before the start of treatment.&#xD;
+&#xD;
+          -  History or current evidence of significant cardiovascular disease within 6 months&#xD;
+             before the start of treatment. This includes, but may not be limited to: unstable&#xD;
+             angina, new-onset angina, myocardial infarction, arterial thrombosis, pulmonary&#xD;
+             embolism, CVI/TIA/stroke, pericarditis (any CTCAE grade), pericardial effusion (CTCAE&#xD;
+             Grade ≥2), non-malignant pleural effusion (CTCAE Grade ≥2), malignant pleural effusion&#xD;
+             (CTCAE Grade ≥3), congestive heart failure (NYHA Class II - IV) or cardiac arrhythmia&#xD;
+             requiring anti-arrhythmic therapy, except the following&#xD;
+&#xD;
+               -  Subjects receiving digoxin, calcium channel blockers, or beta-adrenergic blockers&#xD;
+                  may be eligible at the investigator's discretion if the dose has been stable for&#xD;
+                  ≥2 weeks before the start of treatment.&#xD;
+&#xD;
+               -  Subjects with sinus arrhythmia and infrequent premature ventricular contractions&#xD;
+                  may be eligible at the investigator's discretion.&#xD;
+&#xD;
+          -  History or current evidence of malabsorption syndrome, major surgical GI resection or&#xD;
+             other GI conditions that may impair absorption of mirdametinib&#xD;
+&#xD;
+          -  Known or suspected hypersensitivity or allergy to any of the study drugs or excipients&#xD;
+             contained in the study drug formulations. In addition, allergy to other medications or&#xD;
+             other type of hypersensitivity may warrant exclusion at the investigator's discretion.&#xD;
+&#xD;
+          -  Female subjects who are pregnant or breastfeeding.&#xD;
+&#xD;
+          -  History or current evidence of any other medical or psychiatric condition or addictive&#xD;
+             disorder, or laboratory abnormality that, in the opinion of the investigator, may&#xD;
+             increase the risks associated with study participation, or require treatments that may&#xD;
+             interfere with the conduct of the study or the interpretation of study results.&#xD;
+&#xD;
+        Prior or concomitant treatments&#xD;
+&#xD;
+          -  Prior therapy with mirdametinib or any other MEK1/2 inhibitor (e.g., selumetinib,&#xD;
+             trametinib, cobimetinib, binimetinib) at any time before the start of treatment&#xD;
+&#xD;
+          -  Prior systemic any anti-cancer therapy within five half-lives or two weeks (whichever&#xD;
+             is shorter), excluding hormonal therapy for metastatic breast cancer, before the start&#xD;
+             of treatment.&#xD;
+&#xD;
+          -  Prior radiotherapy to the orbital region at any time before the start of treatment&#xD;
+&#xD;
+          -  Prior radiotherapy to tumor lesion(s) that will be chosen as target lesions within 4&#xD;
+             weeks before the start of treatment, unless the lesion(s) exhibited objective&#xD;
+             progression between the prior radiotherapy and the screening CT or MRI scan.&#xD;
+&#xD;
+             ° Prior palliative radiotherapy to non-target lesions may be allowed at the&#xD;
+             investigator's discretion at any time before the start of treatment.&#xD;
+&#xD;
+          -  Prior therapy with a live vaccine(s) within 4 weeks before the start of treatment or&#xD;
+             likely to require live vaccine(s) at any time during the treatment.&#xD;
+&#xD;
+               -  Injectable flu vaccine (inactivated or recombinant) may be permitted at the&#xD;
+                  investigator's discretion at any time before or during the treatment.&#xD;
+&#xD;
+               -  Covid-19 vaccination (any type) is permitted either before or during this&#xD;
+                  protocol and does not preclude trial enrollment, at the discretion of the&#xD;
+                  investigator.&#xD;
+&#xD;
+          -  Prior antibiotic therapy for active infection ≤2 weeks before the start of treatment&#xD;
+&#xD;
+          -  Prior therapy with platelet or blood transfusion for the treatment of thrombocytopenia&#xD;
+             within 2 weeks before the start of treatment.&#xD;
+&#xD;
+               -  Blood transfusion for the treatment of anemia within 2 weeks before the start of&#xD;
+                  treatment may be acceptable at the investigator's discretion.&#xD;
+&#xD;
+               -  EPO for the treatment of anemia within 2 weeks before the start of treatment may&#xD;
+                  be acceptable at the investigator's discretion&#xD;
+&#xD;
+          -  Prior therapy with G-CSF or GM-CSF for the treatment of leukopenia within 2 weeks&#xD;
+             before the start of treatment&#xD;
+&#xD;
+          -  Prior therapy with systemic or topical ophthalmic glucocorticosteroids within 2 weeks&#xD;
+             before the start of treatment (except for subjects who receive glucocorticosteroid&#xD;
+             replacement therapy at physiologic doses and / or inhaled or non-ophthalmic topical&#xD;
+             corticosteroids)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ezra Rosen, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Memorial Sloan Kettering Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ezra Rosen, MD, PhD</last_name>
+    <phone>646-888-6955</phone>
+    <email>rosene1@mskcc.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rona Yaeger, MD</last_name>
+    <phone>646-888-5109</phone>
+    <email>yaegerr@mskcc.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Monmouth (Limited protocol activities)</name>
+      <address>
+        <city>Middletown</city>
+        <state>New Jersey</state>
+        <zip>07748</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ezra Rosen, MD, PhD</last_name>
+      <phone>646-888-6955</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center @ Suffolk-Commack (Limited protocol activity)</name>
+      <address>
+        <city>Commack</city>
+        <state>New York</state>
+        <zip>11725</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ezra Rosen, MD, PhD</last_name>
+      <phone>646-888-6955</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Westchester (Limited Protocol Activities)</name>
+      <address>
+        <city>Harrison</city>
+        <state>New York</state>
+        <zip>10604</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ezra Rosen, MD, PhD</last_name>
+      <phone>646-888-6955</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center (All Protocol Activities)</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ezra Rosen, MD, PhD</last_name>
+      <phone>646-888-6955</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mskcc.org</url>
+    <description>Memorial Sloan Kettering Cancer Center</description>
+  </link>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 23, 2021</study_first_posted>
+  <last_update_submitted>November 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Advanced solid cancers</keyword>
+  <keyword>Metastatic Breast Cancer</keyword>
+  <keyword>Breast cancer</keyword>
+  <keyword>Breast cancer stage IV</keyword>
+  <keyword>HER2-negative Breast Cancer</keyword>
+  <keyword>MEK1 Gene Mutation</keyword>
+  <keyword>MEK2 Gene Mutation</keyword>
+  <keyword>Solid Carcinoma</keyword>
+  <keyword>21-288</keyword>
+  <keyword>mirdametinib</keyword>
+  <keyword>fulvestrant</keyword>
+  <keyword>postmenopausal</keyword>
+  <keyword>estrogen receptor positive metastatic breast cancer</keyword>
+  <keyword>estrogen receptor positive</keyword>
+  <keyword>Memorial Sloan Kettering Cancer Center</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fulvestrant</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Memorial Sloan Kettering Cancer Center supports the international committee of medical journal editors (ICMJE) and the ethical obligation of responsible sharing of data from clinical trials. The protocol summary, a statistical summary, and informed consent form will be made available on clinicaltrials.gov when required as a condition of Federal awards, other agreements supporting the research and/or as otherwise required. Requests for deidentified individual participant data can be made beginning 12 months after publication and for up to 36 months post publication. Deidentified individual participant data reported in the manuscript will be shared under the terms of a Data Use Agreement and may only be used for approved proposals. Requests may be made to: crdatashare@mskcc.org.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

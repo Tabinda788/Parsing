@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9902">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05032365</url>
+  </required_header>
+  <id_info>
+    <org_study_id>604/2021/13-01/</org_study_id>
+    <nct_id>NCT05032365</nct_id>
+  </id_info>
+  <brief_title>Closed-loop FiO2 Controller During High Flow Oxygen Treatment In Pediatric Patients (COFICOHFOT)</brief_title>
+  <acronym>COFICOHFOT</acronym>
+  <official_title>Randomized Crossover Trial To Compare Closed-loop FiO2 Controller With Conventional Control of FiO2 During High Flow Oxygen Treatment In Pediatric Intensive Care Unit Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dr. Behcet Uz Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Dr. Behcet Uz Children's Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Recently, high flow oxygen therapy (HFOT) is becoming more popular in the treatment of any&#xD;
+      kind of respiratory failure. Pediatric mechanical ventilation consensus conference (PEMVECC)&#xD;
+      guidelines suggest measuring oxygen saturation by pulse oximetry (SpO2) in all ventilated&#xD;
+      children and furthermore to measure partial arterial oxygen pressure (PaO2) in&#xD;
+      moderate-to-severe disease in order to prevent excessive use of oxygen while preventing&#xD;
+      hypoxemia and hyperoxemia. This study aims to compare the safety and efficacy of a&#xD;
+      closed-loop FiO2 controller (CLOC) with conventional control of FiO2 during HFOT of pediatric&#xD;
+      patients in a pediatric intensive care unit (PICU). The hypothesis of this study is:&#xD;
+      Close-loop FiO2 controller increases the time spent within clinically targeted SpO2 ranges&#xD;
+      and decreases the time spent outside clinical target SpO2 ranges as compared to manual oxygen&#xD;
+      control in PICU patients treated with HFOT.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 1, 2021</start_date>
+  <completion_date type="Anticipated">February 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of time spent in optimal SpO2 range</measure>
+    <time_frame>2 hours</time_frame>
+    <description>The optimal SpO2 range will be defined according to the SpO2 targets determined by the clinician.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of time spent in sub-optimal SpO2 range</measure>
+    <time_frame>2 hours</time_frame>
+    <description>SpO2 values outside the optimal range but still within an acceptable limit (2-3 percent above and below the optimal range)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean FiO2</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Mean fraction of inspired oxygen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean SpO2/FiO2</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Mean SpO2/FiO2 oxygen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of manual adjustments</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Frequency of manual adjustments of FiO2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of alarms</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Frequency of alarms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of time with SpO2 signal available</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Time with SpO2 signal available</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of time with SpO2 below 88 and 85 percent</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Duration of time with SpO2 &lt;85 percent and &lt;88 percent, respectively</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of events with SpO2 below 88 and 85 percent</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Frequency of SpO2 decreases &lt;85 percent and &lt;88 percent, respectively</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of time with FiO2 below 40 percent, 60 percent and 100 percent</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Percentage of time that FiO2 is &lt;40 percent, 60 percent and 100 percent, respectively</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">19</enrollment>
+  <condition>Respiratory Failure</condition>
+  <arm_group>
+    <arm_group_label>Close-loop FiO2 Controller</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Two hours period where the fraction of inspired oxygen (FiO2) delivered will be automatically titrated based on SpO2 values obtained from the patient.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Conventional</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Two hours period where the FiO2 delivered will be conventionally adjusted by the healthcare personnel based on SpO2 values obtained from the patient.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Close-loop FiO2 controller</intervention_name>
+    <description>Close-loop FiO2 controller software option provides automated adjustment of the ventilator Oxygen setting to maintain the patient's SpO2 in a defined target range. When using the software option, the user defines the SpO2 target range, as well as the SpO2 emergency limits, and the device adjusts the FiO2 setting to keep the patient's SpO2 in the target range.</description>
+    <arm_group_label>Close-loop FiO2 Controller</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Conventional</intervention_name>
+    <description>Conventional FiO2 adjustment by the clinician according to SpO2 values</description>
+    <arm_group_label>Conventional</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Pediatric patients older than 1 month and younger than18 years of age; hospitalized at&#xD;
+             the PICU with the intention of treatment with HFOT at least for the upcoming 5 hours&#xD;
+&#xD;
+          -  Requiring FiO2 ≥ 25% to keep SpO2 in the target ranges defined by the clinician&#xD;
+&#xD;
+          -  Written informed consent signed and dated by the patient or one relative in case that&#xD;
+             the patient is unable to consent, after full explanation of the study by the&#xD;
+             investigator and prior to study participation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient with indication for immediate noninvasive ventilation (NIMV), or invasive&#xD;
+             mechanical ventilation (IMV)&#xD;
+&#xD;
+          -  Hemodynamic instability defined as a need of continuous infusion of epinephrine or&#xD;
+             norepinephrine &gt; 1 mg/h&#xD;
+&#xD;
+          -  Low quality on the SpO2 measurement using finger and ear sensor (quality index below&#xD;
+             60% on the SpO2 sensor, which is displayed by a red or orange colour bar)&#xD;
+&#xD;
+          -  Severe acidosis (pH ≤ 7.25)&#xD;
+&#xD;
+          -  Pregnant woman&#xD;
+&#xD;
+          -  Patients deemed at high risk for the need of mechanical ventilation within the next 5&#xD;
+             hours&#xD;
+&#xD;
+          -  Patients deemed at high risk for the need of transportation from PICU to another ward,&#xD;
+             diagnostic unit or any other hospital&#xD;
+&#xD;
+          -  Diseases or conditions which may affect transcutaneous SpO2 measurement such as&#xD;
+             chronic or acute dyshemoglobinemia: methemoglobinemia, carbon monoxide (CO) poisoning,&#xD;
+             sickle cell disease&#xD;
+&#xD;
+          -  Formalized ethical decision to withhold or withdraw life support&#xD;
+&#xD;
+          -  Patient included in another interventional research study under consent&#xD;
+&#xD;
+          -  Patient already enrolled in the present study in a previous episode of acute&#xD;
+             respiratory failure&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Month</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Hasan Agin, Professor</last_name>
+    <phone>+905362013162</phone>
+    <email>hasanagin@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Gokhan Ceylan, MD</last_name>
+    <phone>0794542397</phone>
+    <email>drgokhanceylan@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Erzurum Regional Research and Training Hospital</name>
+      <address>
+        <city>Erzurum</city>
+        <zip>25180</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sevgi Topal, MD</last_name>
+      <phone>+905078645922</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Health Sciences University Izmir Behçet Uz Child Health and Diseases Research and Training Hospital</name>
+      <address>
+        <city>Izmir</city>
+        <zip>35200</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ozlem Sandal, MD</last_name>
+      <phone>+905067644688</phone>
+      <email>drozlemsarac@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Ozlem Sandal</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <reference>
+    <citation>Kneyber MCJ, de Luca D, Calderini E, Jarreau PH, Javouhey E, Lopez-Herce J, Hammer J, Macrae D, Markhorst DG, Medina A, Pons-Odena M, Racca F, Wolf G, Biban P, Brierley J, Rimensberger PC; section Respiratory Failure of the European Society for Paediatric and Neonatal Intensive Care. Recommendations for mechanical ventilation of critically ill children from the Paediatric Mechanical Ventilation Consensus Conference (PEMVECC). Intensive Care Med. 2017 Dec;43(12):1764-1780. doi: 10.1007/s00134-017-4920-z. Epub 2017 Sep 22.</citation>
+    <PMID>28936698</PMID>
+  </reference>
+  <reference>
+    <citation>Mitra S, Singh B, El-Naggar W, McMillan DD. Automated versus manual control of inspired oxygen to target oxygen saturation in preterm infants: a systematic review and meta-analysis. J Perinatol. 2018 Apr;38(4):351-360. doi: 10.1038/s41372-017-0037-z. Epub 2018 Jan 2.</citation>
+    <PMID>29296004</PMID>
+  </reference>
+  <reference>
+    <citation>Reynolds PR, Miller TL, Volakis LI, Holland N, Dungan GC, Roehr CC, Ives K. Randomised cross-over study of automated oxygen control for preterm infants receiving nasal high flow. Arch Dis Child Fetal Neonatal Ed. 2019 Jul;104(4):F366-F371. doi: 10.1136/archdischild-2018-315342. Epub 2018 Nov 21.</citation>
+    <PMID>30464005</PMID>
+  </reference>
+  <reference>
+    <citation>van Kaam AH, Hummler HD, Wilinska M, Swietlinski J, Lal MK, te Pas AB, Lista G, Gupta S, Fajardo CA, Onland W, Waitz M, Warakomska M, Cavigioli F, Bancalari E, Claure N, Bachman TE. Automated versus Manual Oxygen Control with Different Saturation Targets and Modes of Respiratory Support in Preterm Infants. J Pediatr. 2015 Sep;167(3):545-50.e1-2. doi: 10.1016/j.jpeds.2015.06.012. Epub 2015 Jul 2.</citation>
+    <PMID>26144575</PMID>
+  </reference>
+  <reference>
+    <citation>Lui K, Jones LJ, Foster JP, Davis PG, Ching SK, Oei JL, Osborn DA. Lower versus higher oxygen concentrations titrated to target oxygen saturations during resuscitation of preterm infants at birth. Cochrane Database Syst Rev. 2018 May 4;5:CD010239. doi: 10.1002/14651858.CD010239.pub2. Review.</citation>
+    <PMID>29726010</PMID>
+  </reference>
+  <reference>
+    <citation>Maiwald CA, Niemarkt HJ, Poets CF, Urschitz MS, König J, Hummler H, Bassler D, Engel C, Franz AR; FiO2-C Study Group. Effects of closed-loop automatic control of the inspiratory fraction of oxygen (FiO(2)-C) on outcome of extremely preterm infants - study protocol of a randomized controlled parallel group multicenter trial for safety and efficacy. BMC Pediatr. 2019 Oct 21;19(1):363. doi: 10.1186/s12887-019-1735-9.</citation>
+    <PMID>31630690</PMID>
+  </reference>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>August 31, 2021</study_first_submitted>
+  <study_first_submitted_qc>August 31, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 2, 2021</study_first_posted>
+  <last_update_submitted>September 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Dr. Behcet Uz Children's Hospital</investigator_affiliation>
+    <investigator_full_name>Hasan ağın</investigator_full_name>
+    <investigator_title>Professor doctor, Head of pediatric intensive care unit (PICU)</investigator_title>
+  </responsible_party>
+  <keyword>Acute respiratory failure (ARF)</keyword>
+  <keyword>Pediatric acute respiratory distress syndrome (PARDS),</keyword>
+  <keyword>oxygen</keyword>
+  <keyword>Closed-loop</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

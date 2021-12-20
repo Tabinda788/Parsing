@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5447">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05090306</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LIFE</org_study_id>
+    <nct_id>NCT05090306</nct_id>
+  </id_info>
+  <brief_title>Interpretation of Fetal Echocardiography by Artificial Intelligence</brief_title>
+  <acronym>LIFE</acronym>
+  <official_title>Learning Deep Architectures for the Interpretation of Fetal Echocardiography</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Medicine and Pharmacy Craiova</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Romanian Institute of Science and Technology, Cluj-Napoca, Romania</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>MEDGIN/GINECHO Clinic</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Medicine and Pharmacy Craiova</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study to be performed aims to design and develope an automated Intelligent Decision&#xD;
+      Support System for fetal echocardiography that can significantly assist the obstetric&#xD;
+      physician in the improvement of detection of fetal congenital heart disease compared to the&#xD;
+      common standard of care.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Introduction:&#xD;
+&#xD;
+      Worldwide, Congenital Heart Disease (CHD) is the most encountered fetal malformation. The&#xD;
+      incidence of congenital heart disease appears to be about 1 per 100 live born infants and is&#xD;
+      even higher in infants who die before term (1). Fetal echocardiography (FE) has evolved from&#xD;
+      just the description of the anatomical abnormalities of the heart toward quantitative&#xD;
+      assessment of its function, dimension and shape (2). Presently, FE is performed manually by&#xD;
+      the sonographer during the second trimester investigation. However, only half of the babies&#xD;
+      undergoing surgery within the first year of life have a prenatal detection (3), explaining&#xD;
+      the need for an improvement of the fetal cardiac assessment. Many studies showed the presence&#xD;
+      of a significant discrepancy between the pre- and postnatal diagnosis of the CHD obtained by&#xD;
+      a manually performed FE (4, 5).&#xD;
+&#xD;
+      Intelligent Decision Support Systems (ISs) are frameworks that have the capacity to gather&#xD;
+      and analyze data, communicate with other systems, learn from experience, and adapt according&#xD;
+      to new cases. Technically speaking, ISs are advanced machines that observe and respond to the&#xD;
+      environment that they have been exposed to using Artificial Intelligence (AI) (6). This&#xD;
+      project aims to foster a cross-fertilization of FE and ISs, which will provide an enormous&#xD;
+      potential in developing new fundamental theories and practical methods that rise above the&#xD;
+      boundaries of the disciplines involved and lead to new impactful methods that assist medical&#xD;
+      practice and discovery.&#xD;
+&#xD;
+      Methods and analysis:&#xD;
+&#xD;
+      The study to be performed is a cross-sectional study divided into two separated parts: the&#xD;
+      training part of the machine learning approaches within the proposed framework and the&#xD;
+      testing phase on previously unseen frames and eventually on actual video scans. All pregnant&#xD;
+      women in their first and second trimester are considered eligible for the study. Pregnant&#xD;
+      women will be admitted for their routine ultrasound examination and monitoring, first time&#xD;
+      between 12-13+6 weeks of pregnancy (for the first trimester anomaly scan) and / or between&#xD;
+      18-24 weeks of pregnancy (for the second trimester anomaly scan). Two-dimensional evaluation&#xD;
+      of each fetal heart will include a cine loop sweep obtained from the from the four-chamber&#xD;
+      view plane by moving the transducer cranially towards the upper mediastinum, allowing the&#xD;
+      visualization of the following planes: four-chamber view, left and right ventricular outflow&#xD;
+      tracts, three vessels and trachea view. All video files saved from the US devices will be&#xD;
+      collected into the cloud. Each ultrasound sweep will be split into frames by the&#xD;
+      OB-GYN/Cardio (OBC) department. The Data Science / IT department (DSIT) will process the&#xD;
+      frames for obeying the anonymization regulations. For key feature identification, the frames&#xD;
+      will be grouped by the OBC into the classes that represent the plane views for each&#xD;
+      trimester. DSIT will try different state-of-the-art DL pre-trained algorithms on the data set&#xD;
+      with plane views. All the recent DL entries will be tailored and tested on the current two&#xD;
+      scenarios of key view identification and semantic segmentation. Their performance results&#xD;
+      (their prediction against the ground truth marked by the OBC) will be analyzed in comparison&#xD;
+      by means of a statistical test. The accuracy-speed equilibrium will be taken into account in&#xD;
+      the ranking of the approaches, since the system will finally perform on a video. Once a new&#xD;
+      video will be available in practice, the model chosen for the respective task will highlight&#xD;
+      the key feature or the segmented region on video and also provide a degree of confidence in&#xD;
+      its recognition. The OBC physicians will validate all the intermediary findings at frame&#xD;
+      level, as well as the meaningfulness of the video labelling and segmentation. The outcomes of&#xD;
+      the model on the first and second trimester videos of the same patient will be compared to&#xD;
+      assess the discrepancy.&#xD;
+&#xD;
+      AI (ARTIFICIAL INTELLIGENCE) ANALYSIS&#xD;
+&#xD;
+      Database construction:&#xD;
+&#xD;
+      The data set for AI analysis will be constructed from images extracted from ultrasound scans&#xD;
+      taken in the apical plane. Consequently, a classification problem with four categories&#xD;
+      corresponding to the given key views is considered. An additional Other class is appointed&#xD;
+      and populated with images of other unimportant frames from the scan.&#xD;
+&#xD;
+      Image preprocessing for fetal heart scans:&#xD;
+&#xD;
+      The first step is represented by the extraction performed by converting the image to gray&#xD;
+      scale and applying a threshold. In this way, the background noise is discarded. In order to&#xD;
+      eliminate the small bridges between the area of interest and other areas in the image,&#xD;
+      erosion is applied using a 10x10 pixels kernel. After erosion, besides the area of interest,&#xD;
+      several smaller &quot;islands&quot; may appear in the image. The zone of interest has two properties&#xD;
+      that distinguish it from the rest of the islands: it always covers the central area of the&#xD;
+      image and it has the highest area. In order to eliminate the non-relevant islands, the spots&#xD;
+      that cover the central area of the image are first identified, then the spot with the highest&#xD;
+      surface coverage is selected. The detected spot is filled, then the dimension is restored by&#xD;
+      applying a dilation algorithm, using the same kernel of 10x10 pixels. In order to prevent&#xD;
+      losing the fine details around the dilated spot, its convex hull is drawn and filled. In the&#xD;
+      end, the generated spot is used as a mask to extract the area of interest from the original&#xD;
+      image.&#xD;
+&#xD;
+      Experimental results:&#xD;
+&#xD;
+      Three variants of the data collection are considered: the original double-sided (standard +&#xD;
+      Doppler) samples, the Doppler single crops and merged image pairs of resulting standard and&#xD;
+      Doppler crops.&#xD;
+&#xD;
+      The ResNet18 and ResNet50 architectures, with similar setups, are applied for each data set&#xD;
+      in turn for evaluating the suitability of the preliminary processing.&#xD;
+&#xD;
+      As the data collections with cropped images contain representatives from all the initial&#xD;
+      images, all sets thus have the same number of items and structure per each class, as well as&#xD;
+      for the training, validation and test separations. For an objective evaluation, all images&#xD;
+      that are extracted from a patient lie within the same separation of the data set, i.e.&#xD;
+      training, validation or test. This occurs even if there were multiple video files for a&#xD;
+      patient made at different moments (e.g. weeks apart) in time.&#xD;
+&#xD;
+      The images are resized to 224 × 224 pixels. The 1cycle policy is used and the implementation&#xD;
+      is made using fastai and PyTorch libraries. The initial model weights are taken through&#xD;
+      transfer learning, as pretrained on the ImageNet data set. The default options for data&#xD;
+      augmentations are used. There are 2 steps involved in the training process, each containing&#xD;
+      only 10 epochs. Within the first training session, all layers are frozen, except for the&#xD;
+      batch normalization layers and the head of the model. Its choice controls how the weights of&#xD;
+      the network are adjusted with respect to the loss gradient and selecting a proper value is&#xD;
+      essential for making the model converging to a local minimum, and reaching thus improved&#xD;
+      accuracy in a smaller amount of epochs. The batch size is taken equal to 32. The model that&#xD;
+      hits the highest accuracy on the validation data is applied on the test set. For each of the&#xD;
+      2 architectures and for each separate data set, 5 repeated applications are made and the&#xD;
+      reported results for each case are computed as the average over the 5 outcomes. The runs are&#xD;
+      made in Google Colab, using Tesla T4 for GPU. B. The successful gradient class activation map&#xD;
+      (Grad-CAM) approach is used for outlining the decisions of the model for the Aorta and Other&#xD;
+      labelling for each data set. The plots are derived from the 5 runs that are computed for each&#xD;
+      distinct (architecture, data set) setup.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2020</start_date>
+  <completion_date type="Anticipated">October 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Development of an Intelligent Decision Support System for fetal echocardiography</measure>
+    <time_frame>24 months</time_frame>
+    <description>The primary objective of this study is the design and development of the IS that can significantly assist the physician in the improvement of detection of fetal congenital heart disease compared to the common standard of care.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Counseling aid for newly trained sonographers</measure>
+    <time_frame>36 months</time_frame>
+    <description>The first secondary outcome is to improve the performance of unexperienced and newly trained sonographers regarding the quality in image acquisition.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improveing the prenatal diagnosis</measure>
+    <time_frame>36 months</time_frame>
+    <description>Another secondary outcome is to reduce the rate of diagnosis discrepancies between first and second trimester evaluations and between pre- and postnatal cardiac assessment.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Congenital Heart Disease</condition>
+  <arm_group>
+    <arm_group_label>Pregnant women in their first and second trimester</arm_group_label>
+    <description>Pregnant women in their first and second trimester will be examined using two-dimensional echocardiography of the fetal heart.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Routine ultrasound examination</intervention_name>
+    <description>ULTRASOUND EXAMINATION Women recruited to take part in the study will undergo the routine ultrasound examinations and monitoring, including a fetal echocardiogram between 12-13+6 weeks of gestation (for the first trimester cases) and between 18-24 weeks of gestation (for the second trimester cases). Two-dimensional evaluation of each fetal heart will include a cine loop sweep obtained from the from the four-chamber view plane by moving the transducer cranially towards the upper mediastinum, allowing the visualization of the following planes: four-chamber view, left and right ventricular outflow tracts, three vessels and trachea view. The examination will be stored for further analysis.</description>
+    <arm_group_label>Pregnant women in their first and second trimester</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All pregnant women of 18 years and above, in their first and second trimester are&#xD;
+        considered eligible for the study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  pregnant women in their first and second trimester&#xD;
+&#xD;
+          -  signed informed consent for the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  unknown outcome of pregnancy&#xD;
+&#xD;
+          -  age under 18 years old&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dominic G Iliescu, Assoc. Prof.</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Medicine and Pharmacy Craiova</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Anda Ungureanu, PhD(c)</last_name>
+    <role>Study Director</role>
+    <affiliation>University of Medicine and Pharmacy Craiova</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Rodica Nagy, PhD(c)</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Medicine and Pharmacy Craiova</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dominic G Iliescu, Assoc. Prof.</last_name>
+    <phone>723888773</phone>
+    <phone_ext>+40</phone_ext>
+    <email>dominic.iliescu@yahoo.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rodica D Nagy, PhD(c)</last_name>
+    <phone>769658773</phone>
+    <phone_ext>+40</phone_ext>
+    <email>rodica.nagy25@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University Emergency County Hospital</name>
+      <address>
+        <city>Craiova</city>
+        <state>Dolj</state>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dominic G Iliescu, Assoc. Prof.</last_name>
+      <phone>723888773</phone>
+      <phone_ext>+40</phone_ext>
+      <email>dominic.iliescu@yahoo.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Romania</country>
+  </location_countries>
+  <verification_date>August 2021</verification_date>
+  <study_first_submitted>October 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 22, 2021</study_first_posted>
+  <last_update_submitted>October 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Artificial intelligence</keyword>
+  <keyword>Fetal cardiology</keyword>
+  <keyword>Echocardiography</keyword>
+  <keyword>Decision support systems</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Diseases</mesh_term>
+    <mesh_term>Heart Defects, Congenital</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1469">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05142033</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AVS4TL - 0921</org_study_id>
+    <nct_id>NCT05142033</nct_id>
+  </id_info>
+  <brief_title>Avera/Sema4 Oncology and Analytics Protocol</brief_title>
+  <acronym>ASAP</acronym>
+  <official_title>Implementation of Comprehensive Molecular Profiling and Deep Clinical Annotation of Electronic Health Records in Participants Diagnosed With a Malignancy or at Risk of Developing Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Avera McKennan Hospital &amp; University Health Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Sema4</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Avera McKennan Hospital &amp; University Health Center</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to understand the breadth of molecular characteristics present&#xD;
+      in participants cared for in a large integrated, community-based health care system. Using&#xD;
+      comprehensive genomic profiling and proteomics, we seek to identify the underlying genomic&#xD;
+      drivers of premalignant or malignant condition in participants across different stages of&#xD;
+      disease development and cancer types.&#xD;
+&#xD;
+      Comprehensive molecular profiling will consist of somatic tumor testing (tissue and/or blood)&#xD;
+      using whole exome sequencing, whole transcriptome sequencing, proteomics, and selected&#xD;
+      instances of whole genome sequencing. In addition, we seek to perform broad hereditary cancer&#xD;
+      testing in affected participant populations. Hereditary testing has implications in&#xD;
+      screening, prognosis, and therapeutics for affected participants, as well as broad&#xD;
+      implications for genetic counseling and cascade testing.&#xD;
+&#xD;
+      In order to maximize the value of genomic information, participants consented to this&#xD;
+      protocol will have their electronic health records (both retrospectively and prospectively)&#xD;
+      abstracted, curated, annotated and linked to genomic information obtained though the testing&#xD;
+      performed. Given the long-term value of this data, participants will also be asked to&#xD;
+      voluntarily consent to have their samples stored in a biobank and have their de-identified&#xD;
+      information used for future research.&#xD;
+&#xD;
+      Information collected across this participant population will aid in advancing our knowledge&#xD;
+      of cancer biology, to discover and validate biomarkers associated with clinical outcomes, and&#xD;
+      shared in collaborative projects in order to promote the study of cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2026</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2026</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percent of patients participating in comprehensive molecular profiling</measure>
+    <time_frame>5 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percent of patients referred for cascade genetic testing</measure>
+    <time_frame>5 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percent of patients referred for molecularly targeted clinical trials</measure>
+    <time_frame>5 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percent of patients that had therapy changed due to comprehensive molecular profiling</measure>
+    <time_frame>5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of patients that had therapy changed due to pharmacogenomic testing</measure>
+    <time_frame>5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of patient participating in microbiome collection and analysis</measure>
+    <time_frame>5 years</time_frame>
+  </secondary_outcome>
+  <enrollment type="Anticipated">25000</enrollment>
+  <condition>All Malignant or Premalignant Conditions</condition>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Retention: Samples with DNA/RNA, and protein Description: Tissue, blood, stool, saliva, skin&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants with a premalignant or malignant condition and able/willing to&#xD;
+        consent/participate in the study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Must be at least 18 years of age&#xD;
+&#xD;
+          -  Must be undergoing a workup or being followed for a premalignant condition or have a&#xD;
+             diagnosis of cancer&#xD;
+&#xD;
+          -  Must voluntarily sign and understand the most current IRB-approved consent form prior&#xD;
+             to study participation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants incapable of understanding the items listed in the consent form and&#xD;
+             process&#xD;
+&#xD;
+          -  Participants with a history of or known psychiatric illness deemed unable to consent&#xD;
+             or adhere to study requirements&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Casey Williams, PharmD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Avera Cancer Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Casey Williams, PharmD</last_name>
+    <phone>605-322-3588</phone>
+    <email>Casey.Williams@avera.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Martha Lang, RN</last_name>
+    <phone>605-322-3228</phone>
+    <email>precisionresearch@avera.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Avera Cancer Institute</name>
+      <address>
+        <city>Sioux Falls</city>
+        <state>South Dakota</state>
+        <zip>57105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Casey Williams, PharmD</last_name>
+      <phone>605-322-3588</phone>
+      <email>Casey.Williams@avera.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Nakagawa H, Fujita M. Whole genome sequencing analysis for cancer genomics and precision medicine. Cancer Sci. 2018 Mar;109(3):513-522. doi: 10.1111/cas.13505. Epub 2018 Feb 26. Review.</citation>
+    <PMID>29345757</PMID>
+  </reference>
+  <reference>
+    <citation>Yi T, Feng Y, Sundaram R, Tie Y, Zheng H, Qian Y, You D, Yi T, Wang P, Zhao X. Antitumor efficacy of PARP inhibitors in homologous recombination deficient carcinomas. Int J Cancer. 2019 Sep 1;145(5):1209-1220. doi: 10.1002/ijc.32143. Epub 2019 Feb 23.</citation>
+    <PMID>30666631</PMID>
+  </reference>
+  <reference>
+    <citation>Lee B, Tran B, Hsu AL, Taylor GR, Fox SB, Fellowes A, Marquis R, Mooi J, Desai J, Doig K, Ekert P, Gaff C, Herath D, Hamilton A, James P, Roberts A, Snyder R, Waring P, McArthur G. Exploring the feasibility and utility of exome-scale tumour sequencing in a clinical setting. Intern Med J. 2018 Jul;48(7):786-794. doi: 10.1111/imj.13806.</citation>
+    <PMID>29607586</PMID>
+  </reference>
+  <reference>
+    <citation>Réda M, Richard C, Bertaut A, Niogret J, Collot T, Fumet JD, Blanc J, Truntzer C, Desmoulins I, Ladoire S, Hennequin A, Favier L, Bengrine L, Vincent J, Hervieu A, Dusserre JG, Lepage C, Foucher P, Borg C, Albuisson J, Arnould L, Nambot S, Faivre L, Boidot R, Ghiringhelli F. Implementation and use of whole exome sequencing for metastatic solid cancer. EBioMedicine. 2020 Jan;51:102624. doi: 10.1016/j.ebiom.2019.102624. Epub 2020 Jan 7.</citation>
+    <PMID>31923800</PMID>
+  </reference>
+  <reference>
+    <citation>Beltran H, Eng K, Mosquera JM, Sigaras A, Romanel A, Rennert H, Kossai M, Pauli C, Faltas B, Fontugne J, Park K, Banfelder J, Prandi D, Madhukar N, Zhang T, Padilla J, Greco N, McNary TJ, Herrscher E, Wilkes D, MacDonald TY, Xue H, Vacic V, Emde AK, Oschwald D, Tan AY, Chen Z, Collins C, Gleave ME, Wang Y, Chakravarty D, Schiffman M, Kim R, Campagne F, Robinson BD, Nanus DM, Tagawa ST, Xiang JZ, Smogorzewska A, Demichelis F, Rickman DS, Sboner A, Elemento O, Rubin MA. Whole-Exome Sequencing of Metastatic Cancer and Biomarkers of Treatment Response. JAMA Oncol. 2015 Jul;1(4):466-74. doi: 10.1001/jamaoncol.2015.1313.</citation>
+    <PMID>26181256</PMID>
+  </reference>
+  <reference>
+    <citation>Samimi G, Bernardini MQ, Brody LC, Caga-Anan CF, Campbell IG, Chenevix-Trench G, Couch FJ, Dean M, de Hullu JA, Domchek SM, Drapkin R, Spencer Feigelson H, Friedlander M, Gaudet MM, Harmsen MG, Hurley K, James PA, Kwon JS, Lacbawan F, Lheureux S, Mai PL, Mechanic LE, Minasian LM, Myers ER, Robson ME, Ramus SJ, Rezende LF, Shaw PA, Slavin TP, Swisher EM, Takenaka M, Bowtell DD, Sherman ME. Traceback: A Proposed Framework to Increase Identification and Genetic Counseling of BRCA1 and BRCA2 Mutation Carriers Through Family-Based Outreach. J Clin Oncol. 2017 Jul 10;35(20):2329-2337. doi: 10.1200/JCO.2016.70.3439. Epub 2017 Apr 11.</citation>
+    <PMID>28398847</PMID>
+  </reference>
+  <reference>
+    <citation>Win AK, Jenkins MA, Dowty JG, Antoniou AC, Lee A, Giles GG, Buchanan DD, Clendenning M, Rosty C, Ahnen DJ, Thibodeau SN, Casey G, Gallinger S, Le Marchand L, Haile RW, Potter JD, Zheng Y, Lindor NM, Newcomb PA, Hopper JL, MacInnis RJ. Prevalence and Penetrance of Major Genes and Polygenes for Colorectal Cancer. Cancer Epidemiol Biomarkers Prev. 2017 Mar;26(3):404-412. doi: 10.1158/1055-9965.EPI-16-0693. Epub 2016 Oct 31.</citation>
+    <PMID>27799157</PMID>
+  </reference>
+  <reference>
+    <citation>Maxwell KN, Domchek SM, Nathanson KL, Robson ME. Population Frequency of Germline BRCA1/2 Mutations. J Clin Oncol. 2016 Dec;34(34):4183-4185. Epub 2016 Oct 31.</citation>
+    <PMID>27551127</PMID>
+  </reference>
+  <reference>
+    <citation>Kuchenbaecker KB, Hopper JL, Barnes DR, Phillips KA, Mooij TM, Roos-Blom MJ, Jervis S, van Leeuwen FE, Milne RL, Andrieu N, Goldgar DE, Terry MB, Rookus MA, Easton DF, Antoniou AC; BRCA1 and BRCA2 Cohort Consortium, McGuffog L, Evans DG, Barrowdale D, Frost D, Adlard J, Ong KR, Izatt L, Tischkowitz M, Eeles R, Davidson R, Hodgson S, Ellis S, Nogues C, Lasset C, Stoppa-Lyonnet D, Fricker JP, Faivre L, Berthet P, Hooning MJ, van der Kolk LE, Kets CM, Adank MA, John EM, Chung WK, Andrulis IL, Southey M, Daly MB, Buys SS, Osorio A, Engel C, Kast K, Schmutzler RK, Caldes T, Jakubowska A, Simard J, Friedlander ML, McLachlan SA, Machackova E, Foretova L, Tan YY, Singer CF, Olah E, Gerdes AM, Arver B, Olsson H. Risks of Breast, Ovarian, and Contralateral Breast Cancer for BRCA1 and BRCA2 Mutation Carriers. JAMA. 2017 Jun 20;317(23):2402-2416. doi: 10.1001/jama.2017.7112.</citation>
+    <PMID>28632866</PMID>
+  </reference>
+  <reference>
+    <citation>Peltomäki P. Update on Lynch syndrome genomics. Fam Cancer. 2016 Jul;15(3):385-93. doi: 10.1007/s10689-016-9882-8. Review.</citation>
+    <PMID>26873718</PMID>
+  </reference>
+  <reference>
+    <citation>Kurian AW, Ward KC, Howlader N, Deapen D, Hamilton AS, Mariotto A, Miller D, Penberthy LS, Katz SJ. Genetic Testing and Results in a Population-Based Cohort of Breast Cancer Patients and Ovarian Cancer Patients. J Clin Oncol. 2019 May 20;37(15):1305-1315. doi: 10.1200/JCO.18.01854. Epub 2019 Apr 9.</citation>
+    <PMID>30964716</PMID>
+  </reference>
+  <reference>
+    <citation>Knerr S, Bowles EJA, Leppig KA, Buist DSM, Gao H, Wernli KJ. Trends in BRCA Test Utilization in an Integrated Health System, 2005-2015. J Natl Cancer Inst. 2019 Aug 1;111(8):795-802. doi: 10.1093/jnci/djz008.</citation>
+    <PMID>30753636</PMID>
+  </reference>
+  <reference>
+    <citation>O'Donnell PH, Dolan ME. Cancer pharmacoethnicity: ethnic differences in susceptibility to the effects of chemotherapy. Clin Cancer Res. 2009 Aug 1;15(15):4806-14. doi: 10.1158/1078-0432.CCR-09-0344. Epub 2009 Jul 21. Review.</citation>
+    <PMID>19622575</PMID>
+  </reference>
+  <reference>
+    <citation>Shaw DM, Elger BS, Colledge F. What is a biobank? Differing definitions among biobank stakeholders. Clin Genet. 2014 Mar;85(3):223-7. doi: 10.1111/cge.12268. Epub 2013 Oct 16.</citation>
+    <PMID>24001330</PMID>
+  </reference>
+  <reference>
+    <citation>UK Biobank data on 500,000 people paves way to precision medicine. Nature. 2018 Oct;562(7726):163-164. doi: 10.1038/d41586-018-06950-9.</citation>
+    <PMID>30365879</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 4, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 2, 2021</study_first_posted>
+  <last_update_submitted>November 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cancer</keyword>
+  <keyword>Genomics</keyword>
+  <keyword>Genetics</keyword>
+  <keyword>Microbiome</keyword>
+  <keyword>Pharmacogenomics</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Precancerous Conditions</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

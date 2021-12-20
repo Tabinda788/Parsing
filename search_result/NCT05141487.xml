@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1511">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05141487</url>
+  </required_header>
+  <id_info>
+    <org_study_id>A3687-R</org_study_id>
+    <nct_id>NCT05141487</nct_id>
+  </id_info>
+  <brief_title>Feasibility of Triggered Sacral Neuromodulation for Neurogenic Bladder</brief_title>
+  <official_title>Triggered Sacral Neuromodulation to Treat Neurogenic Detrusor Overactivity Based on Algorithmic Classification of Bladder Filling Status From Wireless Pressure Data.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>VA Office of Research and Development</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>VA Office of Research and Development</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Incontinence associates with military service and post-traumatic stress disorder in both male&#xD;
+      and female Veterans. Neurogenic detrusor overactivity (NDO) is caused by spinal cord injury&#xD;
+      or disorder, or peripheral neurodegenerative conditions, and causes urine leakage at low&#xD;
+      volumes. NDO is disproportionately experienced by Veterans and treatment effectiveness varies&#xD;
+      greatly between individuals. This project will demonstrate the feasibility of a new type of&#xD;
+      nerve stimulation-triggered sacral neuromodulation-to treat NDO in Veterans. A wireless&#xD;
+      bladder sensor will be inserted into the bladder to transmit a feedback signal enabling&#xD;
+      stimulation from a percutaneous lead. The wireless sensor will also measure NDO symptoms&#xD;
+      during simulated activities of daily living without catheters. Catheter-free detection of&#xD;
+      bladder activity will improve the outcomes of neuromodulation evaluations for Veterans with&#xD;
+      NDO. Future work could use the triggered neuromodulation system to study other methods of&#xD;
+      nerve stimulation to treat bladder, bowel, or sexual dysfunction.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Neurogenic detrusor overactivity (NDO) resulting from spinal cord injury or disorder (SCI/D)&#xD;
+      affects 80% of individuals with SCI/D. It is also associated with peripheral&#xD;
+      neurodegenerative conditions such as Parkinson's disease, multiple sclerosis, diabetic&#xD;
+      neuropathy, or stroke. NDO causes urinary incontinence that profoundly impacts dignified,&#xD;
+      independent living, associates with numerous comorbidities and fall risk, and is a leading&#xD;
+      factor in functional decline among the elderly. Urinary incontinence contributes to social&#xD;
+      isolation and clinical depression and associates with military service and post-traumatic&#xD;
+      stress disorder in Veterans.&#xD;
+&#xD;
+      Restoring urine storage is consistently cited as a high priority by individuals with NDO.&#xD;
+      Continuous SNM is an off-label treatment, which is effective for some individuals with NDO.&#xD;
+      Triggered sacral neuromodulation-in which SNM is applied only during the portion of the&#xD;
+      bladder fill cycle where NDO occurs-could show unique benefit in treatment in some&#xD;
+      individuals. While triggered SNM increased bladder capacity in sheep and rats, feasibility&#xD;
+      has not yet been demonstrated in humans with NDO.&#xD;
+&#xD;
+      The primary goal of this research is to demonstrate the feasibility of increasing bladder&#xD;
+      capacity and reducing bladder filling pressures using triggered SNM in Veterans with NDO.&#xD;
+      This will expand on unique technologies developed by the research team: the UroMonitor, the&#xD;
+      Context-Aware Threshold (CAT) algorithm, and the Application Specific Control Unit (ASCU).&#xD;
+      The UroMonitor is a small, transurethrally-inserted sensor that wirelessly transmits bladder&#xD;
+      pressure data. CAT is a wavelet-based algorithm that detects detrusor contractions from&#xD;
+      pressure data in real time. The ASCU is a modular neurostimulation platform supporting&#xD;
+      wireless communication and custom control software. The investigators will modify and&#xD;
+      integrate these technologies to demonstrate the feasibility of automatically triggering SNM&#xD;
+      in Veterans. A secondary goal is to use the UroMonitor to determine bladder capacity,&#xD;
+      detrusor contraction rate, and filling pressures during a percutaneous SNM evaluation to&#xD;
+      identify individuals who respond to SNM therapy before a permanent implantation.&#xD;
+&#xD;
+      Both translational goals will be accomplished through two Specific Aims (SA):&#xD;
+&#xD;
+      SA1 will determine the change in bladder response to conditionally-triggered SNM during&#xD;
+      natural filling cycles after a two-week sacral neuromodulation evaluation phase in Veterans&#xD;
+      with NDO. The investigators will apply triggered SNM using data transmitted from the&#xD;
+      UroMonitor to the ASCU. Triggered SNM will be applied for up to eight hours at three&#xD;
+      timepoints in the two-week percutaneous evaluation phase in eight Veterans. Voided urine&#xD;
+      volume, time between voids, and detrusor contraction frequency will be compared to determine&#xD;
+      change in conditional SNM response at the two timepoints and compared to baseline. Outcome&#xD;
+      measures will be measured from validated questionnaires, catheter-referenced bladder&#xD;
+      pressures, and collected voided urine.&#xD;
+&#xD;
+      SA2 will determine change in bladder capacity, filling pressure, and detrusor contraction&#xD;
+      frequency during natural filling cycles throughout a two-week continuous sacral&#xD;
+      neuromodulation evaluation. The investigators will demonstrate the feasibility of using the&#xD;
+      UroMonitor to characterize NDO symptoms (bladder capacity, filling pressure, and detrusor&#xD;
+      contraction rate) over several bladder filling/emptying cycles. Eight Veterans will receive&#xD;
+      standard, continuous percutaneous SNM for two weeks. NDO symptoms will be measured using the&#xD;
+      UroMonitor before SNM and after one and two weeks of continuous SNM. Accuracy of symptom&#xD;
+      quantification will be compared to standard catheter-based testing and validated urinary&#xD;
+      behavior questionnaires.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2022</start_date>
+  <completion_date type="Anticipated">October 29, 2024</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time between voids during conditional SNM</measure>
+    <time_frame>Through study completion, an average of 2 weeks</time_frame>
+    <description>Time between voids will be measured to determine change in conditional SNM response compared to baseline (no stimulation). Outcome will be measured from participant reporting and catheter- and device-referenced bladder pressures. For participant reporting (for example when voiding in a private bathroom) the clock time will be recorded and number of seconds from previous void will be recorded. For catheter- and device-referenced bladder pressures, the time between voids will be calculated manually by study staff from peak detrusor pressure during voiding contractions. When catheter recordings are available, these will be used as the sole source for measurement as they are the gold standard in urodynamic evaluation. All time data (in seconds) will be pooled for analysis. This outcome is powered for feasibility demonstration only.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Detrusor contraction period during conditional SNM</measure>
+    <time_frame>Through study completion, an average of 2 weeks</time_frame>
+    <description>Detrusor contraction period will be measured to determine change in conditional SNM response compared to baseline (no stimulation). Outcome will be measured from catheter- and device-referenced bladder pressures. The period between identified detrusor contractions will be measured in seconds by study staff in post-hoc analysis. When catheter recordings are available, these will be used as the sole source for measurement as they are the gold standard in urodynamic evaluation. All period data (in seconds) will be pooled for analysis. This outcome is powered for feasibility demonstration only.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Voided urine volume during conditional SNM</measure>
+    <time_frame>Through study completion, an average of 2 weeks</time_frame>
+    <description>Voided urine volume will be measured to determine change in conditional SNM response compared to baseline (no stimulation). Outcome will be measured from collected voided urine. This outcome is powered for feasibility demonstration only.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time between voids during continuous SNM</measure>
+    <time_frame>Through study completion, an average of 2 weeks</time_frame>
+    <description>Time between voids will be measured to determine change in continuous SNM response compared to baseline (no stimulation). Outcome will be measured from participant reporting and catheter- and device-referenced bladder pressures. For participant reporting (for example when voiding in a private bathroom) the clock time will be recorded and number of seconds from previous void will be recorded. For catheter- and device-referenced bladder pressures, the time between voids will be calculated manually by study staff from peak detrusor pressure during voiding contractions. When catheter recordings are available, these will be used as the sole source for measurement as they are the gold standard in urodynamic evaluation. All time data (in seconds) will be pooled for analysis. This outcome is powered for feasibility demonstration only.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Feasibility of UroMonitor evaluation</measure>
+    <time_frame>Through study completion, an average of 2 weeks</time_frame>
+    <description>A secondary goal is to use the UroMonitor to objectively monitor change in bladder behavior during a standard percutaneous SNM evaluation. Feasibility will be assessed by participant discomfort score on the range of 0-5 during UroMonitor use, with higher values indicating more discomfort. This outcome is powered for feasibility demonstration only.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Urinary incontinence symptom reduction during SNM evaluation</measure>
+    <time_frame>Through study completion, an average of 2 weeks</time_frame>
+    <description>Participant response to SNM at one- and two-week timepoints will be compared to baseline (no SNM) urinary incontinence symptom scores (range of 0-78, higher scores reflect worse symptoms). Symptom reduction will be evaluated by the validated neurogenic bladder symptom score questionnaire. This outcome is powered for feasibility demonstration only.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Urinary voiding frequency reduction during SNM evaluation</measure>
+    <time_frame>Through study completion, an average of 2 weeks</time_frame>
+    <description>Participant response to SNM at one- and two-week timepoints will be compared to baseline (no SNM) voiding frequency. Symptom reduction will be evaluated from participant-provided urinary diary. The voiding frequency (number of voids per 24 hours) will be calculated. Voiding frequency will be independently calculated per participant per day. This outcome is powered for feasibility demonstration only.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Urinary leakage frequency reduction during SNM evaluation</measure>
+    <time_frame>Through study completion, an average of 2 weeks</time_frame>
+    <description>Participant response to SNM at one- and two-week timepoints will be compared to baseline (no SNM) leakage frequency. Symptom reduction will be evaluated from participant-provided urinary diary. The leak frequency (number of leaks per 24 hours) will be calculated. Leak frequency will be independently calculated per participant per day. This outcome is powered for feasibility demonstration only.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">16</enrollment>
+  <condition>Urinary Incontinence</condition>
+  <condition>Urinary Bladder, Neurogenic</condition>
+  <arm_group>
+    <arm_group_label>Conditional SNM</arm_group_label>
+    <description>This group receives conditional sacral neuromodulation, applied intermittently based on sensor data describing bladder activity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Continuous SNM</arm_group_label>
+    <description>This group receives continuous SNM, applied constantly throughout the bladder filling cycle.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>UroMonitor</intervention_name>
+    <description>The UroMonitor is small wireless sensor that is temporarily inserted into the bladder. While in the bladder it transmits bladder pressure measurements to an external radio. After a short period of use it is removed using an extraction string and discarded.</description>
+    <arm_group_label>Conditional SNM</arm_group_label>
+    <arm_group_label>Continuous SNM</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>ASCU</intervention_name>
+    <description>The ASCU is a wearable nerve stimulator containing a radio and computer processor. It receives pressure information from the bladder and determines when to turn on sacral nerve stimulation. It is only used temporarily during research visits.</description>
+    <arm_group_label>Conditional SNM</arm_group_label>
+    <other_name>Application Specific Control Unit</other_name>
+  </intervention>
+  <biospec_retention>None Retained</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Urine sample tested for urinary tract infection&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study will enroll 16 patients undergoing treatment at the VANEOHS (US Veterans).&#xD;
+        Participants will have a diagnosis of neurogenic bladder with a recent (within one year)&#xD;
+        multi-channel UDS evaluation. Participants will be selected as those with neurogenic&#xD;
+        bladder symptoms most likely to respond to SNM treatment based on evidence-based&#xD;
+        recommendations (i.e reasonable bladder capacity, non-catheter dependent, ability to&#xD;
+        identify and manage bladder needs - as based upon assessment by clinical experts /&#xD;
+        co-investigators). Participants will be screened to meet inclusion/exclusion criteria.&#xD;
+        Implantation of bilateral percutaneous stimulating electrodes, setting of SNM stimulation&#xD;
+        waveforms, and the use of an external continuous SNM stimulator will follow clinical&#xD;
+        standard of care for prospective evaluation for Medtronic Interstim treatment.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of neurogenic lower urinary tract dysfunction consistent with International&#xD;
+             Continence Society definition which includes all bladder/urinary sphincter dysfunction&#xD;
+             related to any neurological disease or injury&#xD;
+&#xD;
+          -  Male or female&#xD;
+&#xD;
+          -  If SCI, time from injury &gt; 6 months to allow for recovery from the acute phase&#xD;
+&#xD;
+          -  Can tolerate lying prone &gt; 1 hour&#xD;
+&#xD;
+          -  Functional bladder capacity &gt; 100 mL confirmed by urodynamics examination&#xD;
+&#xD;
+          -  Low risk of upper urinary tract deterioration&#xD;
+&#xD;
+          -  Over 18 years of age, able to speak and understand English, capacity for consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Active urinary tract infection&#xD;
+&#xD;
+          -  Chronic indwelling or suprapubic catheter usage&#xD;
+&#xD;
+          -  Severe or rapidly progressive neurologic disease&#xD;
+&#xD;
+          -  Abnormal sacral anatomy&#xD;
+&#xD;
+          -  Anticipated need for MRI of body parts below the head&#xD;
+&#xD;
+          -  Pelvic organ prolapse beyond the hymen&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Treatment with Botox injection within last six months&#xD;
+&#xD;
+          -  Current treatment with percutaneous tibial nerve stimulation or other forms of&#xD;
+             neuromodulation&#xD;
+&#xD;
+          -  History of sacral neuromodulation treatment or presence of sacral neuromodulation&#xD;
+             leads or implant&#xD;
+&#xD;
+          -  Interstitial cystitis/bladder pain syndrome&#xD;
+&#xD;
+          -  Benign prostatic hyperplasia preventing catheterization to empty&#xD;
+&#xD;
+          -  History of anatomically relevant pelvic or anti-incontinence surgery&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Steve J Majerus, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Louis Stokes VA Medical Center, Cleveland, OH</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Steve J Majerus, PhD</last_name>
+    <phone>(216) 791-3800</phone>
+    <email>Steve.Majerus@va.gov</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Louis Stokes VA Medical Center, Cleveland, OH</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Steve J Majerus, PhD</last_name>
+      <phone>216-791-3800</phone>
+      <email>Steve.Majerus@va.gov</email>
+    </contact>
+    <investigator>
+      <last_name>Steve J Majerus, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.aptcenter.research.va.gov/</url>
+    <description>VA Advanced Platform Technology Center</description>
+  </link>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 2, 2021</study_first_posted>
+  <last_update_submitted>November 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Urinary Bladder, Neurogenic</keyword>
+  <keyword>Electric Stimulation</keyword>
+  <keyword>Transcutaneous Electric Nerve Stimulation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Urinary Bladder, Neurogenic</mesh_term>
+    <mesh_term>Urinary Incontinence</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

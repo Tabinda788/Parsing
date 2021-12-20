@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9574">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05036629</url>
+  </required_header>
+  <id_info>
+    <org_study_id>38RC20.395</org_study_id>
+    <secondary_id>2020-A03555-34</secondary_id>
+    <nct_id>NCT05036629</nct_id>
+  </id_info>
+  <brief_title>Development of MRI Protocols and Associated Neuro-physiological Explorations in Healthy and Pathological Subjects</brief_title>
+  <acronym>MAP-IRMaGE</acronym>
+  <official_title>Development of MRI Protocols and Associated Neuro-physiological Explorations in Healthy and Pathological Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Grenoble</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Grenoble</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      IRMaGe is a Joint Service Unit (UMS) which provides users of brain exploration equipment&#xD;
+      (clinical MRI and preclinical, TMS, EEG, NIRS and metabolomics). The methods available on&#xD;
+      this equipment are intended to evolve according to the most recent discoveries and this&#xD;
+      protocol aims to frame the developments necessary around clinical MRI for IRMaGe can continue&#xD;
+      to offer tools at the cutting edge of technology.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The studies will be carried out on healthy subjects and voluntary patients, who will have&#xD;
+      given their consent. Their main objective will be the development and optimization of&#xD;
+      sequence parameters or design stimulation paradigms in order to optimize the quality and&#xD;
+      relevance of the images produced taking into account the parameters anatomical, functional or&#xD;
+      metabolic while respecting the experimental constraints imposed by the protocol concerned&#xD;
+      (equipment of experimentation, additional physiological measurements, etc.). The main&#xD;
+      judgement criteria will be measurements inherent in the MRI sequence and a physiological&#xD;
+      measurement associated in the protocol concerned&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 9, 2021</start_date>
+  <completion_date type="Anticipated">September 8, 2026</completion_date>
+  <primary_completion_date type="Anticipated">September 8, 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Exploratory individual statistical analyzes on MRI data functional. No group analysis possible on these updates of MRI protocols</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Diffusion Tensor Imaging Images</measure>
+    <time_frame>1 to 3 hours</time_frame>
+    <description>DTi sequences on IRM Achieva 3.0T dStream Philips</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>BOLD Signal</measure>
+    <time_frame>1 to 3 Hours</time_frame>
+    <description>EPI sequences during cognitive protocol on IRM Achieva 3.0T dStream Philips</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Anatomical Images</measure>
+    <time_frame>1 to 3 hours</time_frame>
+    <description>Anatomical MR sequences on IRM Achieva 3.0T dStream Philips</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Eye movements</measure>
+    <time_frame>During MRI session</time_frame>
+    <description>Acquired by using eye-tracker (Eye-tracker Eyelink) breathing arteries pressure electrodermal conductance</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Electrodermal resistance</measure>
+    <time_frame>During MRI session</time_frame>
+    <description>Acquired on BIOPAC device allowing physiological measurements</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood Pressure/pulse/Breathing</measure>
+    <time_frame>During MRI session</time_frame>
+    <description>Acquired on INVIVO Precess</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Near-infrared spectroscopy (NIRS) : Hb OHb concentration measurement</measure>
+    <time_frame>During MRI session</time_frame>
+    <description>Acquired with NIRS Oxymon artinis medical system</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>tES</measure>
+    <time_frame>During MRI session</time_frame>
+    <description>Transcranial Electrical stimulation, Neuroelectrics</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>MRI</condition>
+  <condition>Sequence Optimization</condition>
+  <condition>Physiological Measurement</condition>
+  <arm_group>
+    <arm_group_label>MRI protocol</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Feasibility and use of methods developed in clinical research protocols or cognitive: the reproducibility of the parameters of acquisition, of the design of the activation paradigms development and results according to people will be an important element for the future integration of these methods in clinical or cognitive research protocols.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>MRI Protocol</intervention_name>
+    <description>Eye-tracker Eyelink (eye movements) BIOPAC : (electrodermal resistance) INVIVO Precess : breathing, arterial pressure, pulse,&#xD;
+NIRS Oxymon artinis medical system&#xD;
+tES (transcranial electrical stimulation, Neuroelectrics)</description>
+    <arm_group_label>MRI protocol</arm_group_label>
+    <other_name>Physiological measurement during MRI protocol</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants with normal or corrected vision&#xD;
+&#xD;
+          -  Participants affiliated to a social security scheme or beneficiaries of such a scheme&#xD;
+&#xD;
+          -  Participants with French as their mother tongue&#xD;
+&#xD;
+          -  Participants who have given the signed informed consent before carrying out any&#xD;
+             procedure related to the study.&#xD;
+&#xD;
+          -  Volunteer patients will be recruited as part of their follow-up at the CHU. Their&#xD;
+             pathology will be in agreement with that of the research protocol to be optimized.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Criteria relating to contraindications to the explorations provided for by the MRI&#xD;
+        protocol:&#xD;
+&#xD;
+          -  metallic glitter in the eyes&#xD;
+&#xD;
+          -  retinal operation&#xD;
+&#xD;
+          -  claustrophobia&#xD;
+&#xD;
+          -  wearer of pacemaker or cardiac defribrillator or vascular clip or prosthesis cardiac&#xD;
+             or insulin pump or implanted device to deliver medication or hearing implant or&#xD;
+             prosthesis or vascular shunt or paragraph or screws, plate metal or tattoo or piercing&#xD;
+             or implanted metal object or lead shot hunt&#xD;
+&#xD;
+               -  Alcohol ingestion before the examination&#xD;
+&#xD;
+               -  Pregnant, lactating and parturient women&#xD;
+&#xD;
+               -  Major protected by law&#xD;
+&#xD;
+               -  Participants under administrative or judicial supervision&#xD;
+&#xD;
+               -  Participation in another ongoing study if the study may interfere with&#xD;
+                  participation in the protocol MAP-IRMaGe.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>ATTYE ARNAUD, MD, PhD</last_name>
+    <phone>4 76 76 57 39</phone>
+    <phone_ext>0033</phone_ext>
+    <email>aattye@chu-grenoble-alpes.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>COUSIN EMILIE, PhD</last_name>
+    <phone>0613638645</phone>
+    <phone_ext>0033</phone_ext>
+    <email>emilie.cousin@univ-grenoble-alpes.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Unité Mixte de Service IRMaGe US 017</name>
+      <address>
+        <city>La Tronche</city>
+        <zip>38700</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>COUSIN EMILIE, PhD</last_name>
+      <phone>0613638645</phone>
+      <phone_ext>0033</phone_ext>
+      <email>emilie.cousin@univ-grenoble-alpes.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>TROPRES IRENE, PhD</last_name>
+      <phone>4 76 76 93 08</phone>
+      <phone_ext>0033</phone_ext>
+      <email>irene.tropres@univ-grenoble-alpes.fr</email>
+    </contact_backup>
+    <investigator>
+      <last_name>ATTYE ARNAUD, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>GRAND SYLVIE, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>August 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 5, 2021</study_first_posted>
+  <last_update_submitted>September 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

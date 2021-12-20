@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8056">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05056376</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00265873</org_study_id>
+    <secondary_id>1R01DK125780-01</secondary_id>
+    <nct_id>NCT05056376</nct_id>
+  </id_info>
+  <brief_title>Effectiveness and Cost-Effectiveness of Fully-Automated Digital vs. Human Coach-Based Diabetes Prevention Programs</brief_title>
+  <official_title>Effectiveness and Cost-Effectiveness of Fully-Automated Digital vs. Human Coach-Based Diabetes Prevention Programs</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this research study is to compare the effectiveness of a fully automated&#xD;
+      digital diabetes prevention program to standard of care human coach-based diabetes prevention&#xD;
+      programs for promoting clinically meaningful lifestyle changes to reduce the risk of type 2&#xD;
+      diabetes in adults with prediabetes.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      After being informed about the study and potential risk, all participants giving written&#xD;
+      informed consent will undergo screening to determine eligibility for study entry. At baseline&#xD;
+      visit (month 0). Participants who meet the eligibility requirements will be randomly assigned&#xD;
+      in 1:1 ratio to human coach-based diabetes prevention program or digital diabetes prevention&#xD;
+      program. An equal number of participants will be randomly assigned to both groups (like&#xD;
+      flipping a coin).&#xD;
+&#xD;
+      If participants are randomly assigned to receive the human coach-based diabetes prevention&#xD;
+      program, the participants will be referred to a local Diabetes Prevention Program close to&#xD;
+      the participants' area. The Diabetes Prevention Program consists of 16 weekly sessions during&#xD;
+      months 1 to 6 and 6 sessions during months 7 to 12. These group sessions may be delivered&#xD;
+      in-person at the local program or remotely using video conferencing. During these sessions,&#xD;
+      participants will receive information about lifestyle change behaviors focusing on weight&#xD;
+      loss, physical activity, and nutrition from a trained lifestyle coach.&#xD;
+&#xD;
+      If participants are randomly assigned to receive the digital Diabetes Prevention Program, the&#xD;
+      participants will receive the Sweetch Digital Health Kit (Sweetch Health, Ltd.) in the mail&#xD;
+      within approximately 8-12 days of the participants' first study visit. The Sweetch digital&#xD;
+      health kit consists of a smartphone app and a digital body weight scale that is connected via&#xD;
+      Bluetooth to the app. The phone app also consists of brief Centers for Disease Control and&#xD;
+      Prevention (CDC) lessons on type 2 diabetes prevention, which participants will be encouraged&#xD;
+      to complete.&#xD;
+&#xD;
+      There will be a total of 3 study visits (baseline, 6 months, and 12 months), each visit&#xD;
+      includes fingerstick hemoglobin A1C measurement, weight measurement, and completion of&#xD;
+      several questionnaires. Height will be measured at the first visit. Throughout the 12-month&#xD;
+      study, participants will be asked to wear a device on the participants' wrist to measure&#xD;
+      physical activity for 7 consecutive days following the first visit and once every month&#xD;
+      thereafter.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 1, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Achievement of CDC's benchmark for type 2 diabetes risk reduction as a binary outcome (yes/no)</measure>
+    <time_frame>12 months</time_frame>
+    <description>The achievement is defined as attainment of one or more of the following:&#xD;
+At least 5% weight loss at 12 months.&#xD;
+At least 4% weight loss at 12 months and at least 150 minutes/week on average of physical activity (PA).&#xD;
+At least 0.2% reduction in A1C at 12 months</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cost-effectiveness as assessed by the Markov model</measure>
+    <time_frame>12 months</time_frame>
+    <description>The investigators will compare the cost-effectiveness of the two interventions based on lifetime horizon by constructing a Markov model with model parameters populated from the trial results as well as other published literature. The model will estimate the incremental cost-effectiveness ratio between the two interventions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in hemoglobin A1C</measure>
+    <time_frame>Baseline, 6 months and 12 months</time_frame>
+    <description>Change in HbA1C (percentage) from baseline to 6 months and 12 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage weight change</measure>
+    <time_frame>Baseline, 6 months and 12 months</time_frame>
+    <description>Percentage weight (percent) change from baseline to 6 and 12 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Absolute weight change</measure>
+    <time_frame>Baseline, 6 months and 12 months</time_frame>
+    <description>Absolute weight change (kilograms) from baseline to 6 and 12 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in physical activity - average minutes/week of physical activity</measure>
+    <time_frame>Baseline, 6 months and 12 months</time_frame>
+    <description>Change in physical activity measure (average minutes/week of physical activity) assessed using blinded Actigraphy (monthly serial consecutive 7-days wear period) from baseline to 6 months and 12 months.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in physical activity - hours per week of physical activity</measure>
+    <time_frame>Baseline, 6 months and 12 months</time_frame>
+    <description>Change in physical activity measure (metabolic equivalent task (MET)-hours per week of physical activity) assessed using blinded Actigraphy (monthly serial consecutive 7-days wear period) from baseline to 6 months and 12 months.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in physical activity - average number of steps per day</measure>
+    <time_frame>Baseline, 6 months and 12 months</time_frame>
+    <description>Change in physical activity measures (average number of steps per day) assessed using blinded Actigraphy (monthly serial consecutive 7-days wear period) from baseline to 6 months and 12 months.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Engagement with programs as assessed by a score out of 100%</measure>
+    <time_frame>6 months</time_frame>
+    <description>To compare engagement with digital vs. human coach-based DPPs and evaluate whether between-group differences in clinical outcomes are mediated by engagement, the investigators will define an engagement score (out of 100%) for the hDPP based on the percentage of total number of sessions attended, using the most current CDC engagement definitions at the time of completion of the study. Percentage engagement will be defined out of a total of 8 sessions in month 1-6. An engagement score (out of 100%) for the dDPPs will based on percentage of full weeks during which the app is installed and a) both push notifications and motion sensors are enabled or b) the participant accesses any component within the app for months 1-6.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Engagement with programs as assessed by a score out of 100%</measure>
+    <time_frame>12 months</time_frame>
+    <description>To compare engagement with digital vs. human coach-based DPPs and evaluate whether between-group differences in clinical outcomes are mediated by engagement, the investigators will define an engagement score (out of 100%) for the hDPP based on the percentage of total number of sessions attended, using the most current CDC engagement definitions at the time of completion of the study. Percentage engagement will be defined out of a total of 3 sessions in month 7-12. An engagement score (out of 100%) for the dDPPs will based on percentage of full weeks during which the app is installed and a) both push notifications and motion sensors are enabled or b) the participant accesses any component within the app for months 7-12</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of type 2 diabetes</measure>
+    <time_frame>6 months</time_frame>
+    <description>Percentage of individuals who develop type 2 diabetes (A1C ≥6.5%).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of type 2 diabetes</measure>
+    <time_frame>12 months</time_frame>
+    <description>Percentage of individuals who develop type 2 diabetes (A1C ≥6.5%).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acceptability as assessed by the 32-item acceptability questionnaire</measure>
+    <time_frame>6 months</time_frame>
+    <description>To compare the acceptability of the two interventions (satisfaction, utility, interest, motivation, user experience, etc.) using the 32-item acceptability questionnaire.&#xD;
+Scoring: Sum up all responses to questions 1-31, divide by 155, and multiply by 100 to calculate percentage score out of 100%. The range of possible scores is 20% (lowest acceptability) to 100% (highest possible acceptability).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acceptability as assessed by the 32-item acceptability questionnaire</measure>
+    <time_frame>12 months</time_frame>
+    <description>To compare the acceptability of the two interventions (satisfaction, utility, interest, motivation, user experience, etc.) using the 32-item acceptability questionnaire.&#xD;
+Scoring: Sum up all responses to questions 1-31, divide by 155 and multiply by 100 to calculate percentage score out of 100%. The range of possible scores is 20% (lowest acceptability) to 100% (highest possible acceptability).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between self-reported and measured physical activity</measure>
+    <time_frame>6 months and 12 months</time_frame>
+    <description>To evaluate the correlation between self-reported PA data collected using different methods:&#xD;
+Data collected and reported by hDPPs&#xD;
+Self-reported PA data collected by study team obtained at 1-month intervals&#xD;
+Objectively measured PA data (Actigraphy) obtained at 1-month intervals</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">368</enrollment>
+  <condition>PreDiabetes</condition>
+  <condition>Hyperglycemia</condition>
+  <condition>Glucose, High Blood</condition>
+  <condition>Overweight</condition>
+  <condition>Prediabetic State</condition>
+  <condition>Impaired Glucose Tolerance</condition>
+  <condition>Obesity</condition>
+  <condition>Weight Loss</condition>
+  <condition>Lifestyle, Healthy</condition>
+  <condition>Lifestyle Risk Reduction</condition>
+  <condition>Lifestyle, Sedentary</condition>
+  <arm_group>
+    <arm_group_label>Fully-Automated Digital Diabetes Prevention Program</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive Sweetch Digital Diabetes Prevention Program consists of a smartphone app and bluetooth-enabled digital body weight scale that syncs with the app.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Human Coach-Based Diabetes Prevention Program</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will attend a total of 16 weekly sessions during months 1 to 6 and 6 sessions during months 7 to 12. These group sessions may be delivered in-person at the local program or remotely using video conferencing. During these sessions, participants will receive information about lifestyle change behaviors focusing on weight loss, physical activity, and nutrition from a trained lifestyle coach.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Digital Diabetes Prevention Program (dDPP)</intervention_name>
+    <description>The Sweetch app is a hyper-personalized mobile digital coach that provides users with tailored recommendations to promote healthy lifestyle behaviors (150 minutes per week of physical activity, weight reduction, and healthy eating habits) to reduce the risk of type 2 diabetes.&#xD;
+The Sweetch app uses self-tracking and multiple evidence-based persuasive eCoaching strategies. The Sweetch artificial intelligence algorithm delivers just-in-time support and/or adapt recommendations based on the user's response. For example, push notifications will be sent when the algorithm detects that the user is potentially available and able to act upon the recommendation, based on various parameters including location, p revious response, calendar availability, and weather, etc.</description>
+    <arm_group_label>Fully-Automated Digital Diabetes Prevention Program</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Human Coach-based Diabetes Prevention Program (hDPP)</intervention_name>
+    <description>The Human Coach-Based Diabetes Prevention Program will consist of a CDC recognized lifestyle change program. Participants will attend a total of 16 weekly sessions during months 1 to 6 and 6 sessions during months 7 to 12. These group sessions may be delivered in-person at the local program or remotely using video conferencing. During these sessions, participants will receive information about lifestyle change behaviors focusing on weight loss, physical activity, and nutrition from a trained lifestyle coach.</description>
+    <arm_group_label>Human Coach-Based Diabetes Prevention Program</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Provision of signed and dated informed consent form.&#xD;
+&#xD;
+          -  Stated willingness to comply with all study procedures and availability for the&#xD;
+             duration of the study.&#xD;
+&#xD;
+          -  Hemoglobin A1C 5.7% to 6.4% (using National Glycohemoglobin Standardization Program&#xD;
+             certified point-of-care A1C test).&#xD;
+&#xD;
+          -  Body mass index (BMI) ≥25 kg/m2 (or≥23 kg/m2 for Asians).&#xD;
+&#xD;
+          -  Proficiency in reading English.&#xD;
+&#xD;
+          -  Smartphone user (Android Operating System (OS) 5.0 or iOS 10 or newer).&#xD;
+&#xD;
+          -  Plans to reside in recruitment area for the next 12 months (participant's zip code of&#xD;
+             residence is within ~25 miles of both recruitment site and at least one participating&#xD;
+             local DPP).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Medical conditions that prevent adoption of moderate physical activity (per primary&#xD;
+             care clinician).&#xD;
+&#xD;
+          -  Aortic stenosis.&#xD;
+&#xD;
+          -  Unstable cardiac disease (myocardial infarction, heart failure, or stroke in previous&#xD;
+             6 months, currently participating in cardiac rehabilitation).&#xD;
+&#xD;
+          -  Use of pacemaker/implanted devices.&#xD;
+&#xD;
+          -  Use of any glucose-lowering medications, weight loss medications, or any systemic&#xD;
+             glucocorticoids within the previous 3 months.&#xD;
+&#xD;
+          -  Active cancer diagnosis or cancer treated in past 5 years.&#xD;
+&#xD;
+          -  Diagnosis of diabetes mellitus.&#xD;
+&#xD;
+          -  Pregnancy or planned pregnancy in the next 12 months.&#xD;
+&#xD;
+          -  Anemia.&#xD;
+&#xD;
+          -  Receiving treatment for iron-deficiency anemia, vitamin B12 deficiency, or folate d&#xD;
+             efficiency.&#xD;
+&#xD;
+          -  Hemoglobinopathy (HbS or HbC).&#xD;
+&#xD;
+          -  Blood transfusion in previous 4 months.&#xD;
+&#xD;
+          -  On dialysis or active organ transplant list.&#xD;
+&#xD;
+          -  Treated with erythropoietin.&#xD;
+&#xD;
+          -  Major psychiatric disorder (schizophrenia) or use of antipsychotic medications within&#xD;
+             the past 1 year.&#xD;
+&#xD;
+          -  Dementia or Alzheimer's disease.&#xD;
+&#xD;
+          -  Eating disorder.&#xD;
+&#xD;
+          -  Alcohol or substance abuse.&#xD;
+&#xD;
+          -  Participation in another clinical trial related to lifestyle management or diabetes&#xD;
+             prevention.&#xD;
+&#xD;
+          -  Currently attending or previously attended a diabetes prevention program&#xD;
+&#xD;
+          -  Unwilling to accept random assignment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nestoras Mathioudakis, MD MHS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nestoras Mathioudakis, MD MHS</last_name>
+    <phone>6673068085</phone>
+    <email>nmathio1@jhmi.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Mohammed Abusamaan, MD MPH</last_name>
+    <phone>4439271309</phone>
+    <email>mabusamaan@jhmi.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Johns Hopkins Hospital</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nestoras N Mathioudakis, MD</last_name>
+      <phone>667-306-8085</phone>
+      <email>nmathio1@jh.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Mohammed S Abusamaan, MD</last_name>
+      <phone>443-927-1309</phone>
+      <email>mabusamaan@jhmi.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Nestoras N Mathioudakis, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mohammed S Abusamaan, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Adrian Dobs, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Amal Wanigatunga, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Kristen Riekert, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>John McGready, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nisa Maruthur, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Reading Hospital - Tower Health</name>
+      <address>
+        <city>Reading</city>
+        <state>Pennsylvania</state>
+        <zip>19611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Mary Elderfer</last_name>
+      <phone>484-628-8360</phone>
+      <email>mary.elderfer@towerhealth.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Pamela Schearer</last_name>
+      <email>pamela.schearer@towerhealth.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Brian Kane, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.nestorasmathioudakislab.com/prediabetesresearchstudy</url>
+    <description>Study Website</description>
+  </link>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 24, 2021</study_first_posted>
+  <last_update_submitted>October 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Prediabetes</keyword>
+  <keyword>Diabetes Prevention Program</keyword>
+  <keyword>DPP</keyword>
+  <keyword>Obesity</keyword>
+  <keyword>Overweight</keyword>
+  <keyword>Physical Activity</keyword>
+  <keyword>Digital</keyword>
+  <keyword>Artificial Intelligence</keyword>
+  <keyword>Weight</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hyperglycemia</mesh_term>
+    <mesh_term>Prediabetic State</mesh_term>
+    <mesh_term>Glucose Intolerance</mesh_term>
+    <mesh_term>Overweight</mesh_term>
+    <mesh_term>Weight Loss</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The Data Coordinating Center (Johns Hopkins University) will prepare a de-identified database that is consistent with HIPAA requirements. The de-identified database will include all study research data and will be stored in a repository at Johns Hopkins University (archive.data.jhu.edu) at a time that will coincide with the online publication of the study primary endpoint paper. The repository will contain documentation designed to facilitate use of the database. The documentation prepared for the repository will include a list and timetable for secondary and exploratory papers planned by the study investigators. Access to the database will be restricted to qualified users. Qualified users will include those investigators who submit valid pre-specified hypotheses and certify that they will not use the data for commercial purposes.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>The study protocol will be submitted for publication within 1 year of the start of enrollment.</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

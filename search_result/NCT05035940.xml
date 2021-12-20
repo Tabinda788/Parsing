@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9627">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05035940</url>
+  </required_header>
+  <id_info>
+    <org_study_id>833863</org_study_id>
+    <nct_id>NCT05035940</nct_id>
+  </id_info>
+  <brief_title>Federal Aviation Administration (FAA) National Sleep Study</brief_title>
+  <acronym>NSS</acronym>
+  <official_title>FAA National Sleep Study on the Effects of Aircraft Noise on Sleep</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Federal Aviation Administration Office of Environment and Energy</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Harris Miller Miller &amp; Hanson Inc.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Westat</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This observational study will examine the relationship between aircraft noise exposure in the&#xD;
+      bedroom and objectively assessed sleep disturbance. Surveys will be mailed to randomly&#xD;
+      selected households around selected airports to recruit individuals for a 5 night in-home&#xD;
+      sleep study. Eligible survey respondents interested in participating in the sleep study will&#xD;
+      record nighttime indoor sounds using a portable audio recorder and wear a small device that&#xD;
+      collects heart rate and movement data for 5 consecutive nights. They will also complete brief&#xD;
+      morning questionnaires about their previous night's sleep and their sleep quality and a&#xD;
+      participant characteristics questionnaire. Collected data will be used to create an&#xD;
+      exposure-response model between aircraft noise exposure and sleep disturbance.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Individuals who complete the recruitment survey, indicate their interest in participating in&#xD;
+      the study, and meet the eligibility criteria, will be enrolled in the 5-night in-home sleep&#xD;
+      study to collect noise and physiological (heart rate, body movements) measurements, and&#xD;
+      answer questionnaires about experiences during the previous night and a characteristics&#xD;
+      questionnaire that collects additional information relevant for sleep. After confirmation of&#xD;
+      eligibility and informed consent, subjects will be sent equipment by mail to measure body&#xD;
+      movements and ECG signals as well as sounds in the bedroom. Awakenings will be inferred from&#xD;
+      ECG and movement data using a previously validated algorithm, and analyzed relative to&#xD;
+      measured noise levels in the bedroom. The study nights will take place during the week,&#xD;
+      Monday night/Tuesday morning through Friday night/Saturday morning. Upon completion of the 5&#xD;
+      nights, the questionnaires and equipment will be returned to the study team by mail. Survey&#xD;
+      mailing distribution, subject recruitment, and data collection for the in-home sleep study is&#xD;
+      expected to last 2 years, but may last up to 3 years.&#xD;
+&#xD;
+      The study population is adult residents of U.S. households who are exposed to relevant levels&#xD;
+      of nighttime air traffic (both in terms of number and sound pressure level of events) in&#xD;
+      communities in proximity to 77 airports that met the eligibility criteria for this study.&#xD;
+      Only areas with expected aircraft noise exposure levels of ≥40 decibels (dB) Lnight (average&#xD;
+      aircraft noise level during the nighttime period) outside were considered for the sample&#xD;
+      frame. To maximize the likelihood that there will be a range of indoor noise levels in the&#xD;
+      sample frame, we will use probability sampling stratified on outdoor aircraft noise contour&#xD;
+      levels. For each of the selected 77 airports, noise exposure contour strata, were determined&#xD;
+      using the FAA's Aviation Environmental Design Tool and 2018 traffic data. These noise&#xD;
+      contours are based on Lnight and include the 40, 45, 50, and 55 dB contour to allow for&#xD;
+      stratified sampling from the following areas: 40&lt;45, 45&lt;50, 50&lt;55, ≥55 dB. From each noise&#xD;
+      stratum, 100 subjects will be recruited into the in-home field study. Mailing addresses for&#xD;
+      the recruitment survey will be selected randomly from all households across the 77 airports&#xD;
+      within each of the 4 noise strata.&#xD;
+&#xD;
+      The primary study outcome is aircraft noise-induced awakening probability depending on the&#xD;
+      maximum sound pressure level of single aircraft events. Analyses will be weighted to better&#xD;
+      reflect the sampling universe, but unweighted analyses will also be performed. Secondary&#xD;
+      outcomes include, but are not limited to, self-reported sleep disturbance depending on noise&#xD;
+      metrics referring to longer time periods (i.e., last night or past year).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">September 7, 2021</start_date>
+  <completion_date type="Anticipated">September 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Noise-induced awakening</measure>
+    <time_frame>First 45 seconds of each aircraft noise event</time_frame>
+    <description>The probability of awakening (assessed with heart rate and body movements) depending on the maximum sound pressure level of an aircraft overflight (LAS,max measured inside the bedroom) during an aircraft noise event.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percent highly sleep disturbed</measure>
+    <time_frame>Last 12 months</time_frame>
+    <description>The recruitment survey contains a question: &quot;Thinking about the last 12 months or so, when you are here at home, how much does noise from aircraft disturb your sleep?&quot; Subjects choosing &quot;very&quot; or &quot;extremely&quot; on the 5-point answer scale will be considered highly sleep disturbed. The investigators will investigate how long-term aircraft noise exposure metrics are associated with being highly sleep disturbed.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Noise Exposure</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population is adult residents of U.S. households who are exposed to relevant&#xD;
+        levels of nighttime air traffic (both in terms of number and sound pressure level of&#xD;
+        events) in communities in proximity to an airport meeting the eligibility criteria for this&#xD;
+        study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subjects must currently live in a residence exposed to relevant levels of nocturnal&#xD;
+             aircraft traffic and have received a recruitment survey in the mail.&#xD;
+&#xD;
+          -  Only one subject per household will be eligible, selected pseudo-randomly as the&#xD;
+             person in the household who most recently celebrated a birthday.&#xD;
+&#xD;
+          -  In order to be eligible to participate in the in-home study, participants must have&#xD;
+             completed and returned the recruitment postal survey that was sent to their residence.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Survey respondents interested in participating in the in-home sleep study are ineligible to&#xD;
+        participate if they:&#xD;
+&#xD;
+          -  are less than 21 years of age;&#xD;
+&#xD;
+          -  have a Body Mass Index (BMI) greater than 35 kg/m2 or less than 17 kg/m2;&#xD;
+&#xD;
+          -  have been diagnosed with a sleep disorder, including obstructive or central sleep&#xD;
+             apnea, narcolepsy, restless legs syndrome, or periodic limb movement syndrome;&#xD;
+&#xD;
+          -  frequently (3 or more times per week) use prescription or over the counter medication&#xD;
+             to aid sleep;&#xD;
+&#xD;
+          -  have a hearing impairment;&#xD;
+&#xD;
+          -  have a cardiac arrhythmia;&#xD;
+&#xD;
+          -  work night shifts (defined as working for at least 4 hours between 00:00 to 06:00);&#xD;
+&#xD;
+          -  have dependents that frequently require care during the night; or&#xD;
+&#xD;
+          -  are pregnant.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mathias Basner, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pennsylvania</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Pennsylvania Perelman School of Medicine</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Smith MG, Rocha S, Witte M, Basner M. On the feasibility of measuring physiologic and self-reported sleep disturbance by aircraft noise on a national scale: A pilot study around Atlanta airport. Sci Total Environ. 2020 May 20;718:137368. doi: 10.1016/j.scitotenv.2020.137368. Epub 2020 Feb 17.</citation>
+    <PMID>32092522</PMID>
+  </reference>
+  <reference>
+    <citation>Smith MG, Witte M, Rocha S, Basner M. Effectiveness of incentives and follow-up on increasing survey response rates and participation in field studies. BMC Med Res Methodol. 2019 Dec 5;19(1):230. doi: 10.1186/s12874-019-0868-8.</citation>
+    <PMID>31805869</PMID>
+  </reference>
+  <reference>
+    <citation>Basner M, Witte M, McGuire S. Aircraft Noise Effects on Sleep-Results of a Pilot Study Near Philadelphia International Airport. Int J Environ Res Public Health. 2019 Aug 31;16(17). pii: E3178. doi: 10.3390/ijerph16173178.</citation>
+    <PMID>31480420</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>August 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 5, 2021</study_first_posted>
+  <last_update_submitted>November 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pennsylvania</investigator_affiliation>
+    <investigator_full_name>Mathias Basner, MD, PhD</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Aircraft noise</keyword>
+  <keyword>Sleep disturbance</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Together with the sponsor, the study team is in the process of defining which data will be made available to the public after the end of the study in accordance with the Federal Records Retention Schedule.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

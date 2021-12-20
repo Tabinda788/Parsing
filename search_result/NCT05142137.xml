@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1461">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05142137</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2025NR</org_study_id>
+    <nct_id>NCT05142137</nct_id>
+  </id_info>
+  <brief_title>Novel Alpha Glucan GI Tolerability Study (Loris Chronic)</brief_title>
+  <official_title>Randomised, Placebo-controlled Chronic Study to Investigate Gastrointestinal Tolerability of a Novel Alpha Glucan in Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nestlé</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Nestlé</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to evaluate the gastrointestinal tolerance of chronic consumption (7 days) of&#xD;
+      a novel alpha glucan compared to a rapidly available carbohydrate (glucose syrup).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will be randomized, double blind, placebo-controlled, single-center, and 3x3&#xD;
+      crossover in design.&#xD;
+&#xD;
+      Eligible participants will be randomized to receive the below products in single dose and in&#xD;
+      different random sequence, as determined by the randomization system:&#xD;
+&#xD;
+        1. novel alpha glucan (80 g/day)&#xD;
+&#xD;
+        2. novel alpha glucan (180 g/day)&#xD;
+&#xD;
+        3. glucose syrup (180 g/day)&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 16, 2021</start_date>
+  <completion_date type="Actual">October 31, 2021</completion_date>
+  <primary_completion_date type="Actual">October 11, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>3x3</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Gastrointestinal Symptom Rating Scale (GSRS)</measure>
+    <time_frame>Throughout 7 days of treatment</time_frame>
+    <description>Validated questionnaire exploring the presence and severity of GI symptoms over the previous 7 days. The GSRS is a disease-specific instrument of 15 items combined into five symptom clusters depicting reflux, abdominal pain, indigestion, diarrhea and constipation. The GSRS has a seven-point graded Likert-type scale where 1 represents absence of troublesome symptoms and 7 represents very troublesome symptoms. The effect of the interventions on the GSRS will be assessed by a linear mixed model and will take into account information on this from all 7 days of treatment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Stool consistency</measure>
+    <time_frame>Throughout 7 days of treatment</time_frame>
+    <description>The Bristol stool scale is a diagnostic medical tool designed to classify the form of human faeces into seven categories. Types 1 and 2 indicate constipation, with 3 and 4 being the ideal stools, whereas 5 indicate lack of dietary fiber, and 6 and 7 indicate diarrhoea. The effect of the interventions on stool consistency will be assessed by a linear mixed model and will take into account information on this from all 7 days of treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stool frequency</measure>
+    <time_frame>Throughout 7 days of treatment</time_frame>
+    <description>The participants report the number of defecations they have per day, throughout the 7 days study period. There is a large variability in this, but typically 1-3 defecations per day is considered normal, whereas more indicate a runny stool, and fewer a tendency for constipation. The effect of the interventions on stool frequency will be assessed by changes in stool frequency over time, taking all information on this from all 7 days of treatment into account.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">24</enrollment>
+  <condition>Healthy Volunteers</condition>
+  <arm_group>
+    <arm_group_label>Novel alpha glucan_dose1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Total of 180 g of the novel alpha glucan per day, consumed in 4 individual doses (i.e. 4x45 g, with each dose dissolved in 300 ml of water)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Novel alpha glucan_dose2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Total of 80 g of the novel alpha glucan + 100 g glucose syrup per day, consumed in 4 individual doses (i.e. 4x45 g, with each dose dissolved in 300 ml of water)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>glucose syrup</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Total of 180 g glucose syrup per day, consumed in 4 individual doses (i.e. 4x45 g, with each dose dissolved in 300 ml of water).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Drinkable solution</intervention_name>
+    <description>The volunteers will consume 300 ml of liquid solution containing the novel alpha glucan or glucose syrup</description>
+    <arm_group_label>Novel alpha glucan_dose1</arm_group_label>
+    <arm_group_label>Novel alpha glucan_dose2</arm_group_label>
+    <arm_group_label>glucose syrup</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female participant,&#xD;
+&#xD;
+          2. Healthy status (based on anamnesis),&#xD;
+&#xD;
+          3. Age between 18 and 65 years,&#xD;
+&#xD;
+          4. Body mass index (BMI) between 18.5 and 29.9 kg/m2,&#xD;
+&#xD;
+          5. Able to understand and sign informed consent form,&#xD;
+&#xD;
+          6. Having a smartphone with Android or iOS version compatible with Patient Cloud&#xD;
+             application&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Fasting plasma glucose higher or equal to 6,1 mmol /L at screening,&#xD;
+&#xD;
+          2. Type I and type 2 diabetes,&#xD;
+&#xD;
+          3. Pregnant or lactating women,&#xD;
+&#xD;
+          4. Known food allergy or intolerance to test products,&#xD;
+&#xD;
+          5. Treatment with anorectic drugs, glucose-lowering drugs, steroids, medications known to&#xD;
+             affect glucose metabolism and/or gastric motility, or any condition known to affect&#xD;
+             gastro-intestinal integrity and food absorption,&#xD;
+&#xD;
+          6. Colonoscopy, irrigoscopy or other bowel cleansing procedures four weeks prior the&#xD;
+             test,&#xD;
+&#xD;
+          7. Any concomitant medication potentially interfering with study procedures and&#xD;
+             assessment: such as antibiotics, antiacids, or other medications impacting transit&#xD;
+             time,&#xD;
+&#xD;
+          8. Major medical/surgical event in the last 3 months potentially interfering with study&#xD;
+             procedures and assessments,&#xD;
+&#xD;
+          9. Abnormal bowel transit, history of a gastrointestinal disorder (e.g., inflammatory&#xD;
+             bowel disease, diverticular diseases, colon cancer), or history of chronic&#xD;
+             constipation with passage of fewer than 3 spontaneous bowel movements per week on&#xD;
+             average or chronic or recurrent diarrhea with spontaneous bowel movements more often&#xD;
+             than 3 times daily,&#xD;
+&#xD;
+         10. Recent episode of an acute gastrointestinal illness,&#xD;
+&#xD;
+         11. Habitual consumption of more than four servings per day of high-fiber foods or extreme&#xD;
+             dietary habits (e.g. very low carbohydrate diet),&#xD;
+&#xD;
+         12. Ongoing or recent weight loss interventions (e.g. dietary weight loss programs),&#xD;
+&#xD;
+         13. Alcohol intake higher than 2 servings per day. A serving is 0.4 dl of strong alcohols,&#xD;
+             1 dl of red or white wine, or 3 dl of beer,&#xD;
+&#xD;
+         14. Score of &quot;severe&quot; symptom for any of the symptoms included in the gastrointestinal&#xD;
+             symptom questionnaire,&#xD;
+&#xD;
+         15. Volunteer who cannot be expected to comply with the protocol,&#xD;
+&#xD;
+         16. Family or hierarchical relationships with Clinical Innovation Lab team.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Clinical Innovation Lab</name>
+      <address>
+        <city>Lausanne</city>
+        <state>Vaud</state>
+        <zip>1000 Lausanne 26</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <results_reference>
+    <citation>Kelly RM, Dijkhuizen L, Leemhuis H. Starch and alpha-glucan acting enzymes, modulating their properties by directed evolution. J Biotechnol. 2009 Mar 25;140(3-4):184-93. doi: 10.1016/j.jbiotec.2009.01.020. Epub 2009 Feb 7. Review.</citation>
+    <PMID>19428713</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Synytsya A, Novak M. Structural analysis of glucans. Ann Transl Med. 2014 Feb;2(2):17. doi: 10.3978/j.issn.2305-5839.2014.02.07. Review.</citation>
+    <PMID>25332993</PMID>
+  </results_reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 2, 2021</study_first_posted>
+  <last_update_submitted>November 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

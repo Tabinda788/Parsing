@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3061">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05121324</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BCM H-49824</org_study_id>
+    <secondary_id>U01NS114042</secondary_id>
+    <nct_id>NCT05121324</nct_id>
+  </id_info>
+  <brief_title>Pediatric Dose Optimization for Seizures in Emergency Medical Services</brief_title>
+  <acronym>PediDOSE</acronym>
+  <official_title>Pediatric Dose Optimization for Seizures in EMS (PediDOSE)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Baylor College of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Neurological Disorders and Stroke (NINDS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Utah</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Baylor College of Medicine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Pediatric Dose Optimization for Seizures in Emergency Medical Services (PediDOSE) study&#xD;
+      is designed to improve how paramedics treat seizures in children on ambulances. Seizures are&#xD;
+      one of the most common reasons why people call an ambulance for a child, and paramedics&#xD;
+      typically administer midazolam to stop the seizure. One-third of children with active&#xD;
+      seizures on ambulances arrive at emergency departments still seizing. Prior research suggests&#xD;
+      that seizures on ambulances continue due to under-dosing and delayed delivery of medication.&#xD;
+      Under-dosing happens when calculation errors occur, and delayed medication delivery occurs&#xD;
+      due to the time required for dose calculation and placement of an intravenous line to give&#xD;
+      the medication. Seizures stop quickly when standardized medication doses are given as a&#xD;
+      muscular injection or a nasal spray. This research has primarily been done in adults, and&#xD;
+      evidence is needed to determine if this is effective and safe in children.&#xD;
+&#xD;
+      PediDOSE optimizes how paramedics choose the midazolam dose by eliminating calculations and&#xD;
+      making the dose age-based. This study involves changing the seizure treatment protocols for&#xD;
+      ambulance services in 20 different cities, in a staggered and randomly-assigned manner.&#xD;
+&#xD;
+      One aim of PediDOSE is to determine if using age to select one of four standardized doses of&#xD;
+      midazolam and giving it as a muscular injection or nasal spray is more effective than the&#xD;
+      current calculation-based method, as measured by the number of children arriving at emergency&#xD;
+      departments still seizing. The investigators believe that a standardized seizure protocol&#xD;
+      with age-based doses is more effective than current practice.&#xD;
+&#xD;
+      Another aim of PediDOSE is to determine if a standardized seizure protocol with age-based&#xD;
+      doses is just as safe as current practice, since either ongoing seizures or receiving too&#xD;
+      much midazolam can interfere with breathing. The investigators believe that a standardized&#xD;
+      seizure protocol with age-based doses is just as safe as current practice, since the seizures&#xD;
+      may stop faster and these doses are safely used in children in other healthcare settings.&#xD;
+&#xD;
+      If this study demonstrates that standardized, age-based midazolam dosing is equally safe and&#xD;
+      more effective in comparison to current practice, the potential impact of this study is a&#xD;
+      shift in the treatment of pediatric seizures that can be easily implemented in ambulance&#xD;
+      services across the United States and in other parts of the world.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2022</start_date>
+  <completion_date type="Anticipated">July 2026</completion_date>
+  <primary_completion_date type="Anticipated">April 2026</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a stepped-wedge, cluster-randomized trial. Every 4 months, 2 of the 20 sites will transition, in a staggered manner, from the control (conventional protocol with calculation-based dosing) to the intervention (standardized protocol with age-based dosing), such that all 20 sites will ultimately implement the intervention during the 4-year enrollment period.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Neurologists will assess the primary outcome of seizing on emergency department arrival using a rapid response electroencephalogram (RR-EEG) that is applied to the patient's scalp upon arrival. Site-specific identifiers will not be available to the neurologist when reading the RR-EEG, so they will be masked to whether the patient was treated under the conventional or standardized protocol.&#xD;
+Since the participants' parents will likely see how the paramedics select the midazolam dose and may share that with the participant, they will not be masked to the intervention. The paramedics are the care providers, and they will not be masked to the intervention since their medical director must inform them when their seizure treatment protocol switches from the conventional to the standardized protocol. The investigators will not be masked because they will conduct the training of the paramedic trainers at each site between randomization and implementation of the intervention.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Seizing on emergency department arrival</measure>
+    <time_frame>Between arrival to the emergency department and 10 minutes after arrival</time_frame>
+    <description>Binary assessment of whether the participant is seizing or not upon arrival to the emergency department, as measured by either a rapid response electroencephalogram (preferred) or clinical judgement (alternative).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory failure</measure>
+    <time_frame>Between paramedic arrival on scene until 30 minutes after emergency department arrival</time_frame>
+    <description>A binary assessment of insufficient breathing at any point during EMS care or within 30 minutes of emergency department arrival, defined as having received bag valve mask ventilation, bi-level positive airway pressure, placement of a supraglottic airway or endotracheal intubation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first midazolam administration</measure>
+    <time_frame>From paramedic arrival to the scene until emergency department arrival, assessed up to 1 hour after paramedic scene arrival or 1 minute after emergency department arrival, whichever occurs last</time_frame>
+    <description>Time in minutes from paramedic arrival to the scene until the paramedic administers midazolam to the patient</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Time to seizure cessation in the emergency department</measure>
+    <time_frame>From emergency department arrival until emergency department departure, assessed up to 24 hours after emergency department arrival</time_frame>
+    <description>For participants who are seizing upon emergency department arrival, this is the time in minutes that it takes for the seizure to stop, as determined by the rapid response electroencephalogram (preferred) or clinical judgement (alternative)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Dose/route adherence</measure>
+    <time_frame>From paramedic arrival to the scene until emergency department arrival, assessed up to 1 hour after paramedic scene arrival or 1 minute after emergency department arrival, whichever occurs last</time_frame>
+    <description>A binary assessment of receiving midazolam in the prehospital setting by both the preferred route (intranasal or intramuscular) and correct dose [within 30% of 0.2 mg/kg (=0.14-0.26 mg/kg)], based on a calculation from weight measured in the emergency department</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Life-threatening hypotension</measure>
+    <time_frame>Between paramedic midazolam administration and hospital discharge, assessed up to 24 hours</time_frame>
+    <description>A binary assessment of whether or not the patient had a systolic blood pressure in mm Hg that persisted below the following age-based thresholds despite receiving a 20 ml/kg isotonic fluid bolus: 6-11 months (&lt;60 mm Hg); 1-10 years {&lt; [(age in years)x2] + 70 mm Hg}; &gt;10 years: (&lt;90 mm Hg)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Life-threatening cardiac arrhythmia</measure>
+    <time_frame>Between paramedic midazolam administration and hospital discharge, assessed up to 24 hours</time_frame>
+    <description>A binary assessment of whether or not the patient's heart rhythm changed to require intervention with chest compressions, pacing, defibrillation, or the use of an anti-arrhythmic agent or procedure.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Depressed level of consciousness</measure>
+    <time_frame>Between paramedic midazolam administration and 4 hours after emergency department arrival</time_frame>
+    <description>Glasgow coma score &lt;8 that persists more than 4 hours after emergency department arrival</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">4840</enrollment>
+  <condition>Seizures</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This arm will be exposed to the study intervention: a standardized seizure protocol.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>This arm will be exposed to the emergency medical services (EMS) agency's existing seizure protocol; this is the control arm</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standardized seizure protocol</intervention_name>
+    <description>The intervention is a standardized seizure protocol for paramedics that prioritizes administration of only intramuscular (IM) or intranasal (IN) midazolam, up to 2 doses given 5 minutes apart, with age-based dosing as follows: 6-16 months (1.25 mg); 17 months-5 years (2.5 mg); 6-11 years (5 mg); 12-13 years (10 mg).</description>
+    <arm_group_label>Intervention</arm_group_label>
+    <other_name>midazolam</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Conventional seizure protocol</intervention_name>
+    <description>The control is the EMS agency's current seizure protocol, based on conventional calculation-based dosing. These vary from one EMS agency to the other with respect to recommended midazolam doses ranging from 0.05-0.3 mg/kg and with multiple route choices listed, including intravenous, intraosseous, intramuscular, intranasal, and rectal.&#xD;
+for paramedics that prioritizes administration of only intramuscular (IM) or intranasal (IN) midazolam, up to 2 doses given 5 minutes apart, with age-based dosing as follows: 6-16 months (1.25 mg); 17 months-5 years (2.5 mg); 6-11 years (5 mg); 12-13 years (10 mg).</description>
+    <arm_group_label>Control</arm_group_label>
+    <other_name>midazolam</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Witnessed by the paramedic to be actively seizing, regardless of seizure type or&#xD;
+             duration; AND&#xD;
+&#xD;
+          -  Under the care of a paramedic; AND&#xD;
+&#xD;
+          -  Transported by an EMS agency participating in the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  A prior history of a benzodiazepine allergy; OR&#xD;
+&#xD;
+          -  Known or presumed pregnancy; OR&#xD;
+&#xD;
+          -  Severe growth restriction based on the paramedic's subjective assessment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>6 Months</minimum_age>
+    <maximum_age>13 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Manish I Shah, MD, MS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Baylor College of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Manish I Shah, MD, MS</last_name>
+    <phone>832-824-6703</phone>
+    <email>mxshah@texaschildrens.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Victor M Gonzalez, MD</last_name>
+    <phone>832-824-5977</phone>
+    <email>vmgonzal@bcm.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Arizona</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85724</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Todd P Chang, MD, MAcM</last_name>
+      <phone>323-361-2109</phone>
+      <email>tochang@chla.usc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, Davis</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Daniel Nishijima, MD, MAS</last_name>
+      <phone>916-734-3884</phone>
+      <email>dnishijima@ucdavis.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Nicolaus Glomb, MD, MPH</last_name>
+      <phone>415-476-3345</phone>
+      <email>nicolaus.glomb@ucsf.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Kathleen Adelgais, MD, MPH</last_name>
+      <phone>303-724-2595</phone>
+      <email>kathleen.adelgais@childrenscolorado.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's National Hospital</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Kathleen Brown, MD</last_name>
+      <phone>202-476-4177</phone>
+      <email>kbrown@childrensnational.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Claudia R Morris, MD</last_name>
+      <phone>404-727-5500</phone>
+      <email>claudia.r.morris@emory.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Gregory W Faris, MD</last_name>
+      <phone>317-962-3886</phone>
+      <email>gfaris@iu.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Stacey Noel, MD</last_name>
+      <phone>734-763-7488</phone>
+      <email>sknoel@med.umich.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University at Buffalo</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Brooke Lerner, PhD</last_name>
+      <phone>716-645-9726</phone>
+      <email>lerner@buffalo.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mecklenburg EMS</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jonathan R Studnek, PhD</last_name>
+      <phone>704-943-6046</phone>
+      <email>jonst@medic911.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Lauren Riney, DO</last_name>
+      <phone>513-803-2969</phone>
+      <email>lauren.riney@cchmc.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Nationwide Children's Hospital</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Julie Leonard, MD, MPH</last_name>
+      <phone>614-722-4384</phone>
+      <email>julie.leonard@nationwidechildrens.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health and Sciences University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Matthew Hansen, MD, MCR</last_name>
+      <phone>503-494-7551</phone>
+      <email>hansemat@ohsu.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sylvia Owusu-Ansah, MD, MPH</last_name>
+      <phone>412-692-7692</phone>
+      <email>sylvia.owusuansah@chp.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Southwestern</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Geoffrey Lowe, MD</last_name>
+      <phone>214-456-1359</phone>
+      <email>geoffrey.lowe@utsouthwestern.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor College of Medicine</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Manish I Shah, MD, MS</last_name>
+      <phone>832-824-6703</phone>
+      <email>mxshah@texaschildrens.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Maija Holsti, MD, MPH</last_name>
+      <phone>801-587-7450</phone>
+      <email>maija.holsti@hsc.utah.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Andrew Latimer, MD</last_name>
+      <phone>206-521-1588</phone>
+      <email>alatim@uw.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medical College of Wisconsin</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Lorin Browne, DO</last_name>
+      <phone>414-266-2625</phone>
+      <email>lbrowne@mcw.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Shah MI, Ostermayer DG, Browne LR, Studnek JR, Carey JM, Stanford C, Fumo N, Lerner EB. Multicenter Evaluation of Prehospital Seizure Management in Children. Prehosp Emerg Care. 2021 Jul-Aug;25(4):475-486. doi: 10.1080/10903127.2020.1788194. Epub 2020 Jul 17.</citation>
+    <PMID>32589502</PMID>
+  </reference>
+  <reference>
+    <citation>Carey JM, Studnek JR, Browne LR, Ostermayer DG, Grawey T, Schroter S, Lerner EB, Shah MI. Paramedic-Identified Enablers of and Barriers to Pediatric Seizure Management: A Multicenter, Qualitative Study. Prehosp Emerg Care. 2019 Nov-Dec;23(6):870-881. doi: 10.1080/10903127.2019.1595234. Epub 2019 May 13.</citation>
+    <PMID>30917730</PMID>
+  </reference>
+  <reference>
+    <citation>Shah MI, Macias CG, Dayan PS, Weik TS, Brown KM, Fuchs SM, Fallat ME, Wright JL, Lang ES. An Evidence-based Guideline for Pediatric Prehospital Seizure Management Using GRADE Methodology. Prehosp Emerg Care. 2014;18 Suppl 1:15-24. doi: 10.3109/10903127.2013.844874. Epub 2013 Dec 3.</citation>
+    <PMID>24298939</PMID>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 4, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2021</study_first_posted>
+  <last_update_submitted>November 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Baylor College of Medicine</investigator_affiliation>
+    <investigator_full_name>Manish Shah, MD</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>Child</keyword>
+  <keyword>Emergency Medical Services</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Seizures</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Midazolam</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>After subject enrollment and follow up have been completed, the Data Coordinating Center (DCC) for the study will prepare a final study database for analysis. A releasable database will be produced and completely de-identified in accordance with the definitions provided in the Health Insurance Portability and Accountability Act (HIPAA). Namely, all identifiers specified in HIPAA will be recoded in a manner that will make it impossible to deduce or impute the specific identity of any participant. The database will not contain institutional identifiers.&#xD;
+The DCC will also prepare a data dictionary that provides a concise definition of every data element included in the database. If specific data elements have idiosyncrasies that might affect interpretation or analysis, this will be discussed in the dictionary document. In accordance with policies determined by the investigators and funding sponsors, the releasable database will be provided to users in electronic form.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

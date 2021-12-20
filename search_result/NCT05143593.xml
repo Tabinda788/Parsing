@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1349">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05143593</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-260-03</org_study_id>
+    <nct_id>NCT05143593</nct_id>
+  </id_info>
+  <brief_title>Species-specific Bacterial Detector for Fast Pathogen Diagnosis of Severe Pneumonia</brief_title>
+  <official_title>Species-specific Bacterial Detector for Fast Pathogen Diagnosis of Severe Pneumonia Patients in Intensive Care Uint: a Multicentre, Randomised Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chinese Medical Association</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Chinese Medical Association</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a multicenter randomized controlled trial. The purpose of this study is to&#xD;
+      assess the efficacy of the combination of PCR and CRISPR/Cas12a (SSBD)in tract secretion from&#xD;
+      lower respiratory for early targeted anti-infective therapy for patients with severe&#xD;
+      pneumonia. 5 adult ICU units from 5 hospitals in Jiangsu province participate the study and&#xD;
+      the hosted unit is the Department of Critical Care Medicine, Affiliated Drum Tower Hospital&#xD;
+      of Nanjing University Medical College. All patients are randomly assigned to the experiment&#xD;
+      group and the control group. For experiment group, the combined detection of PCR&#xD;
+      andCRISPR/Cas12a is carried out in the early stage, and the antibiotic scheme is changed base&#xD;
+      on the results of PCR-CRISPR/Cas12a. The patients in the control group are adjusted according&#xD;
+      to the traditional microbial detection methods. Some clinical parameters and outcomes are&#xD;
+      recorded.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      ICU patients have a high incidence of bacterial infection in the lower respiratory tract,&#xD;
+      mainly with severe pneumonia, often causing severe sepsis and septic shock, which is one of&#xD;
+      the main causes of death in patients. At present, the biggest difficulty faced by clinicians&#xD;
+      is the continuous increase of bacterial resistance rate and the increase of patient mortality&#xD;
+      due to the early inadequacy empirical anti-infective treatment. Studies have shown that&#xD;
+      patients with VAP(Ventilator Associated Pneumonia) have irrational drug use in the early&#xD;
+      stage, with a mortality rate of more than 50%. When the rate of appropriate drug use has&#xD;
+      dropped to 33%, while mechanical ventilation time and ICU hospitalization time have been&#xD;
+      significantly shortened. Therefore, identifying pathogenes as early as possible and&#xD;
+      shortening the time of empirical anti-infective treatment are very important for improving&#xD;
+      the prognosis of patients with severe pneumonia and reducing the incidence of bacterial&#xD;
+      resistance.&#xD;
+&#xD;
+      There are three traditional methods for detecting pathogenic microorganisms: 1. microbial&#xD;
+      culture method is the most traditional means of identifying pathogen. It is necessary to&#xD;
+      inoculate the patient's body fluid, blood, etc. in a suitable medium, incubate in a suitable&#xD;
+      incubator, and then pass the drug. Sensitivity tests determine the resistance of&#xD;
+      microorganisms, usually takes 3-7 days. For some specific types of pathogenic microorganisms&#xD;
+      or microorganisms with harsh growth conditions, there may be negative culture results.&#xD;
+      Therefore, the traditional culture methods have disadvantages such as poor timeliness,&#xD;
+      relatively high requirements, and low positive culture rate (30-40%). 2. time-of-flight mass&#xD;
+      spectrometry: the mass spectrometry technique is used to analyze and detect the protein&#xD;
+      components of the strain, and the characteristic peak spectrum is obtained. Compared with the&#xD;
+      bacterial map in the database, the bacteria can be judged by matching. The method can be&#xD;
+      shortened by about 6-8 hours compared with the conventional culture method, but since the&#xD;
+      detection of the colony needs to reach a certain amount, the specimen can not be directly&#xD;
+      detected after obtaining the specimen, and the preliminary microbial culture is required.&#xD;
+      Therefore, the detection time still takes 1-2 days or more, and there is also the&#xD;
+      disadvantage of low timeliness. In addition, it is necessary to compare the expansion and&#xD;
+      standardization of the database, and the inability to analyze the resistance of&#xD;
+      microorganisms is also the inadequacy of the detection technology. 3. High-throughput&#xD;
+      sequencing technology: With the rapid development of molecular biology in recent years,&#xD;
+      high-throughput sequencing technology is widely used in the early diagnosis of clinical&#xD;
+      microbiology, the principle is mainly through the connection of the universal linker to the&#xD;
+      fragmentation to be sequenced. Genomic DNA, which produces tens of millions of&#xD;
+      single-molecule polyclonal polymerase chain reaction arrays, then performs large-scale primer&#xD;
+      hybridization and enzyme extension reactions, and obtains complete DNA sequence information&#xD;
+      by computer analysis. However, this technology is difficult to effectively distinguish&#xD;
+      between pathogenic bacteria and background bacteria, technology and database to be&#xD;
+      standardized, detection time still takes about 2 days, can not obtain microbial resistance,&#xD;
+      expensive and other shortcomings At the office. In summary, the current time limit for&#xD;
+      targeted anti-infective treatment is stopped 2 days after the specimen is taken. Therefore,&#xD;
+      the search for new, pathogenic microbial detection technology that is faster, more accurate&#xD;
+      and more sensitive is a hotspot and a difficult point in the field of microbial and&#xD;
+      anti-infective research in recent years.&#xD;
+&#xD;
+      CRISPR/Cas12a has trans-cleavage activity, which could be developed as a new molecular method&#xD;
+      for testing specific nucleotide sequences with high specificity and sensitivity . We thus&#xD;
+      initiatively designed the Species-Specific Bacterial Detector (SSBD) system basing on&#xD;
+      CRISPR/Cas12a. In theory, the method is prominent with rapidity, high sensitivity and&#xD;
+      specificity, and variable detection targets, which is an innovation in microorganism&#xD;
+      identification and maybe bring benefits to sepsis treatment. As some particular bacteria&#xD;
+      account of most of sepsis, 12 common bacteria are chosen as the initial panel according to&#xD;
+      previous studies and local epidemic data from our hospital. Our aim of the study is to&#xD;
+      establish and validate the effectiveness of the SSBD system through comparing with culture&#xD;
+      results, and then evaluate the possible clinical values in therapy adjustments and clinical&#xD;
+      outcomes of severe pneumonia in ICU, which was the major causes of sepsis.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2022</start_date>
+  <completion_date type="Anticipated">August 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>mortality</measure>
+    <time_frame>week 4</time_frame>
+    <description>The patient's 28-day mortality rate is the survival rate from the onset to 28 days</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>the therapeutic turnaround time (TTAT)</measure>
+    <time_frame>week 2</time_frame>
+    <description>the time taken from collecting the specimen for the investigation to initiating appropriate treatment on the results available</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>length stay of ICU</measure>
+    <time_frame>up to 8 weeks</time_frame>
+    <description>days for patients in ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DDD</measure>
+    <time_frame>everyday up to week 2</time_frame>
+    <description>defined daily dose of antibiotics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>coverage of appropriate antibiotics</measure>
+    <time_frame>everyday up to week 2</time_frame>
+    <description>numbers of patients with appropriate antibiotics on day1~day14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>clinical success rate</measure>
+    <time_frame>week 2</time_frame>
+    <description>numbers of patients with clinical success on day 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>APACHEII score</measure>
+    <time_frame>baseline, every 3 day and week 2</time_frame>
+    <description>Acute Physiology and Chronic Health Evaluation score II</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SOFA score</measure>
+    <time_frame>baseline, every 3 day and week 2</time_frame>
+    <description>sepsis-related organ failure assessment score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>length of mechanical ventilation</measure>
+    <time_frame>week 4</time_frame>
+    <description>time of mechanical ventilation from randomization to day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the incidence of antibiotic-associated diarrhea</measure>
+    <time_frame>week 4</time_frame>
+    <description>The incidence of antibiotic-associated diarrhea is the index of side effects of anti-infective treatment from randomization to day 28.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>the incidence of new multi-drug resistant bacteria colonization or infection</measure>
+    <time_frame>week 4</time_frame>
+    <description>rate of multi-drug resistant bacteria colonization or infection is the index of side effects of anti-infective treatment from randomization to day 28</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>time of shock</measure>
+    <time_frame>week 4</time_frame>
+    <description>time of shock from randomization to day 28</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">284</enrollment>
+  <condition>Severe Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>the experiment group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>early adjustment of antibiotics is guided by results of SSBD</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>early adjustment of antibiotics is guided on the results of conventional culture</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>SSBD(PCR-CRISPR/Cas12a)</intervention_name>
+    <description>Based on 1791 microorganism genomes of 232 species from the public database, we identified species-specific DNA-tags for 12 common pathogenic bacteria, which allowed us to design our Cas12a system for using the trans-cleavage activity and judging whether bacterium infects the patient or not by fluorescence value.</description>
+    <arm_group_label>the experiment group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. age ≥ 18 years;&#xD;
+&#xD;
+          2. Pneumonia with undetermined pathogen and lower respiratory tract specimens can be&#xD;
+             obtained ;&#xD;
+&#xD;
+          3. signed informed consent;&#xD;
+&#xD;
+          4. the expected length of staying in ICU is more than 3 days&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. pregnant women&#xD;
+&#xD;
+          2. lactating women&#xD;
+&#xD;
+          3. Those who specimens of lower respiratory tract cannot be obtained;&#xD;
+&#xD;
+          4. Those who have submitted for other microbiological examination within 72 hours before&#xD;
+             enrollment;&#xD;
+&#xD;
+          5. The main responsibility of infection was not in the lung, but outside the lung;&#xD;
+&#xD;
+          6. Clinical diagnosis of non-bacterial pneumonia, such as Pneumocystis carinii pneumonia,&#xD;
+             viral pneumonia and fungal pneumonia;&#xD;
+&#xD;
+          7. Those who are estimated to die or give up treatment within 72 hours;&#xD;
+&#xD;
+          8. patients have participated in other clinical studies.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Wenkui Yu, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>The Affliated Drum Tower Hospital, Medical School of Nanjing University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yan Wang, MD</last_name>
+    <phone>86+025-83106666-40400</phone>
+    <email>a_nengneng@163.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The First People's Hospital of Changzhou</name>
+      <address>
+        <city>Changzhou</city>
+        <state>Jiangsu</state>
+        <zip>213004</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Bin Zhu, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Jiangsu Province hospital</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <zip>210000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Suming Zhou, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Second Affiliated Hospital of Nanjing Medical University</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <zip>210000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Fuxi Sun, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Affliated Drum Tower Hospital, Medical School of Nanjing University</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <zip>210008</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Wenkui Yu, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Suzhou Manicipal Hospital</name>
+      <address>
+        <city>Suzhou</city>
+        <state>Jiangsu</state>
+        <zip>215008</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jun Liu, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>October 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 20, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 3, 2021</study_first_posted>
+  <last_update_submitted>November 20, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 20, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Diagnosis, Pathogen, Pneumonia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

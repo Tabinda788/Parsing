@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7343">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05065658</url>
+  </required_header>
+  <id_info>
+    <org_study_id>32-296 ex 19/20</org_study_id>
+    <nct_id>NCT05065658</nct_id>
+  </id_info>
+  <brief_title>Posaconazole Prophylaxis for CAPA Prevention in Critically-Ill Patients</brief_title>
+  <acronym>POSACOVID</acronym>
+  <official_title>Posaconazole for the Prevention of COVID-19 Associated Pulmonary Aspergillosis in Critically-Ill Patients: A European Multicenter Case-Control Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical University of Graz</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Merck Sharp &amp; Dohme Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Medical University of Graz</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19 associated pulmonary aspergillosis (CAPA) is considered a potentially&#xD;
+      life-threatening infection in critically ill COVID (Corona Virus disease)-19 patients. This&#xD;
+      study will investigate the efficacy of mold-active prophylaxis with posaconazole for patients&#xD;
+      with severe SARS (severe acute respiratory syndrome)-CoV-2 infection admitted to the ICU&#xD;
+      (intensive care unit) in a multi-center case-control study in Europe.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 1, 2020</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of COVID-19 associated pulmonary aspergillosis (CAPA)</measure>
+    <time_frame>ICU admission to ICU discharge. On average 20 days</time_frame>
+    <description>Compare the incidence of CAPA at time of discharge from the ICU in those who received posaconazole compared to controls who did not</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Survival at ICU discharge</measure>
+    <time_frame>ICU admission to ICU discharge. On average 20 days</time_frame>
+    <description>Compare the rates of survival at time of discharge from the ICU in those who receive posaconazole compared to those who do not</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of ICU stay</measure>
+    <time_frame>ICU admission to ICU discharge. On average 20 days</time_frame>
+    <description>Compare the length of ICU stay in those who receive posaconazole compared to those who do not</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality rate at 30 days</measure>
+    <time_frame>ICU admission until 30 days after ICU admission</time_frame>
+    <description>Compare the mortality rate at 30 days in those who receive posaconazole compared to those who do not</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality rate at 90 days</measure>
+    <time_frame>ICU admission until 90 days after ICU admission</time_frame>
+    <description>Compare the mortality rate at 90 days in those who receive posaconazole compared to those who do not</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">351</enrollment>
+  <condition>COVID-19 Respiratory Infection</condition>
+  <condition>Aspergillosis</condition>
+  <arm_group>
+    <arm_group_label>Critically-ill COVID-19 patients receiving posaconazole prophylaxis</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Critically-ill COVID-19 patients without antifungal prophylaxis</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Posaconazole</intervention_name>
+    <description>Intravenous posaconazole prophylaxis</description>
+    <arm_group_label>Critically-ill COVID-19 patients receiving posaconazole prophylaxis</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population will be comprised of patients admitted to the ICU because of severe&#xD;
+        SARS-CoV-2 infections, who are requiring mechanical ventilation and receive dexamethasone&#xD;
+        as part of their COVID-19 ARDS treatment in medical centers in i) Graz, Austria (cases),&#xD;
+        and ii) Genoa, Italy, and iii) Rennes, France (all controls).&#xD;
+&#xD;
+        Posaconazole prophylaxis for ICU patients with severe COVID-19 requiring ICU admission due&#xD;
+        to ARDS has been introduced in Graz in July 2020, and cases from Graz will be matched with&#xD;
+        controls from Rennes and Genoa (matching for days on mechanical ventilation at baseline,&#xD;
+        Apache II score, age, dexamethasone dosage, and underlying disease).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult patient (&gt; 18 years)&#xD;
+&#xD;
+          -  PCR (polymerase chain reaction) -confirmed SARS-CoV-2 infections based on&#xD;
+             nasopharyngeal swab (NPS), oropharyngeal swab (OPS), tracheal aspirate (TA), bronchial&#xD;
+             aspirate (BA), or bronchoalveolar lavage fluid (BALF) within 14 days prior to ICU&#xD;
+             admission or within 72 hours following ICU admission due to severe COVID-19 infection&#xD;
+&#xD;
+          -  Radiographic imaging consistent with SARS-CoV-2 infection (e.g. atypical pneumonia,&#xD;
+             organizing pneumonia, ground glass opacities) or ARDS within 7 days of diagnosis of&#xD;
+             SARS-CoV-2 infection&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with a diagnosis of invasive aspergillosis/detection of Aspergillus spp. by&#xD;
+             culture from sputum, TA, BA, or BALF or positive GM from serum, TA, or BALF at&#xD;
+             baseline (=ICU admission)&#xD;
+&#xD;
+          -  History of invasive aspergillosis within the prior six months&#xD;
+&#xD;
+          -  Patients that are being treated with mold-active antifungal agents for invasive&#xD;
+             aspergillosis or another invasive fungal infection&#xD;
+&#xD;
+          -  Patients that are being treated with mold-active antifungal agents for invasive&#xD;
+             aspergillosis or another invasive fungal infection&#xD;
+&#xD;
+          -  Death or transfer to general ward within 48 hours of ICU admission&#xD;
+&#xD;
+          -  Antifungal prophylaxis other than posaconazole (e.g. inhaled amphotericin B)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Medical University of Graz</name>
+      <address>
+        <city>Graz</city>
+        <state>Styria</state>
+        <zip>8036</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Juergen Prattes, MD</last_name>
+      <phone>004331638530046</phone>
+      <email>juergen.prattes@medunigraz.at</email>
+    </contact>
+    <contact_backup>
+      <last_name>Martin Hoenigl, Prof.</last_name>
+      <phone>004331638531425</phone>
+      <email>martin.hoenigl@medunigraz.at</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>University of Rennes</name>
+      <address>
+        <city>Rennes</city>
+        <zip>35033</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jean-Pierre Gangneux, Prof.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>San Martino Polyclinic Hospital IRCCS</name>
+      <address>
+        <city>Genova</city>
+        <zip>16132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Daniele R. Giacobbe, MD</last_name>
+      <email>daniele.roberto.giacobbe@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Austria</country>
+    <country>France</country>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 4, 2021</study_first_posted>
+  <last_update_submitted>September 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Respiratory Tract Infections</mesh_term>
+    <mesh_term>Aspergillosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Posaconazole</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

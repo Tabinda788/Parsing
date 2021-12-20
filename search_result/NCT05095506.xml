@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5047">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05095506</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1564112</org_study_id>
+    <secondary_id>W81XWH-20-1-0786</secondary_id>
+    <nct_id>NCT05095506</nct_id>
+  </id_info>
+  <brief_title>Evaluation of an eHealth System to Reduce Depression and Increase Resilience After SCI</brief_title>
+  <acronym>SCIRP</acronym>
+  <official_title>Initial Evaluation of an eHealth Self-Management System to Reduce Depression and Increase Resilience After SCI (SCIRP Pilot Clinical Trial)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Delaware</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Kessler Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Department of Veterans Affairs, New Jersey</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Delaware</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The availability of symptom monitoring and self-management (SMSM) interventions is especially&#xD;
+      important for civilians and military populations with spinal cord injuries (SCI). High rates&#xD;
+      of depressive disorders (20-40%) and anxiety disorders (20-25%) have been found in both&#xD;
+      civilian and military populations and are significant contributors to both quality of life&#xD;
+      and well-being after SCI. Previous self-management interventions targeting physical activity&#xD;
+      and self-reliance in individuals with SCI have demonstrated significant health and lifestyle&#xD;
+      benefits. However, it has been shown that the injured individual's psychological outlook and&#xD;
+      mood can either enable or hinder self-management efforts and that currently available&#xD;
+      SCI-specific self-management programs may be inadequate. Developing interventions to reduce&#xD;
+      mental health symptoms following SCI is therefore critical to improve the lives of&#xD;
+      individuals, alleviate resource strain on military and civilian health care systems, and&#xD;
+      potentially reduce the rate of mortality by suicide in Veterans and civilians living with&#xD;
+      SCI. The current study will build on prior work developing an intervention platform to assess&#xD;
+      the effectiveness of this eHealth SMSM system and will test the feasibility and effectiveness&#xD;
+      of the intervention platform.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2023</start_date>
+  <completion_date type="Anticipated">June 2024</completion_date>
+  <primary_completion_date type="Anticipated">March 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in weekly depression symptoms as measured by the Spinal Cord Injury - Quality of Life (SCI-QOL) Depression computer adaptive test (CAT)</measure>
+    <time_frame>Weeks 1-6</time_frame>
+    <description>Patient-reported outcome measure of current depressive symptoms which is included in the intervention and control conditions each week.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in weekly anxiety symptoms as measured by the Spinal Cord Injury - Quality of Life (SCI-QOL) Anxiety computer adaptive test (CAT)</measure>
+    <time_frame>Weeks 1-6</time_frame>
+    <description>Patient-reported outcome measure of current anxiety symptoms which is included in the intervention and control conditions each week.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Current Depressive Symptoms as assessed by the Patient Health Questionnaire (PHQ)-8</measure>
+    <time_frame>Change from Baseline to Week 6. Also used for screening.</time_frame>
+    <description>Patient-reported measure of depression</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Current Symptoms of anxiety as assessed by the Generalized Anxiety Disorder (GAD-7)</measure>
+    <time_frame>Change from Baseline to Week 6. Also used for screening.</time_frame>
+    <description>Patient-reported measure of depression</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in weekly resilience levels as measured by the Spinal Cord Injury - Quality of Life (SCI-QOL) resilience computer adaptive test (CAT)</measure>
+    <time_frame>Weeks 1-6</time_frame>
+    <description>Patient-reported outcome measure of current resilience which is included in the intervention and control conditions each week.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Qualitative information on the usability of the system as measured by a System Usability Survey</measure>
+    <time_frame>At the end of the final (6th) system session. Each system session is open for 4 days or until the participant completes the session, whichever comes first.</time_frame>
+    <description>Participants will complete a usability survey following the final session to provide information on the usability of the system.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Spinal Cord Injuries</condition>
+  <arm_group>
+    <arm_group_label>eHeatlh Intervention Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The intervention platform is an interactive, web-based self-management program comprised of computer-adaptive tests (CATs) to assess depression, anxiety, and resilience and multimedia-assisted components. Participants will access the system once a week for 6 weeks, complete the symptom monitoring CATs, receive score reports, and watch a system-assigned self-management strategy video (which is selected by the system based on the participant's current level of depression/anxiety symptoms).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Active Control Arm</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The active control condition is a static web-based program which also includes computer-adaptive tests (CATs) to assess depression, anxiety, and resilience, but does not provide score reports and plays a predetermined educational video (related to health promotion after SCI) each week. Participants will access the system once a week for 6 weeks, complete the symptom monitoring CATs and watch the educational video.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>eHealth Intervention</intervention_name>
+    <description>The intervention platform is interactive, and uses multimedia-assisted components. The system uses three SCI-QOL computer-adaptive tests (CATs) to assess depression, anxiety, and resilience; cut scores are used to tailor multi-media content that specifically addresses users' emotional health concerns.</description>
+    <arm_group_label>eHeatlh Intervention Arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Active Control Condition</intervention_name>
+    <description>The active control condition is a static site that displays symptom assessments followed by one educational video each week. These videos, which play in a predetermined order, provide education about managing physical health in individuals with SCI.</description>
+    <arm_group_label>Active Control Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Access to the internet and an internet-enabled device&#xD;
+&#xD;
+          -  Diagnosis of a sudden-onset (i.e. not due to a degenerative disease such as ALS or MS)&#xD;
+             SCI (either traumatic or non-traumatic)&#xD;
+&#xD;
+          -  Discharged from initial inpatient rehabilitation and living in the community for at&#xD;
+             least 3 months&#xD;
+&#xD;
+          -  Age 18 or older at the time of enrollment&#xD;
+&#xD;
+          -  Age at least 16 years at the time of their spinal cord injury&#xD;
+&#xD;
+          -  Current symptoms (no more than two weeks from the time of consent) of at least mild&#xD;
+             depression and/or anxiety, as determined by a score of ≥5 on the eight-item Patient&#xD;
+             Health Questionnaire depression scale (PHQ-8) and/or seven-item Generalized Anxiety&#xD;
+             Disorder measure (GAD-7).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Male and female participants younger than 18 years old&#xD;
+&#xD;
+          -  A lack of English proficiency needed to comprehend and complete study measures and&#xD;
+             review online study content.&#xD;
+&#xD;
+          -  Current cognitive impairment that would limit comprehension of informed consent or&#xD;
+             study procedures, as determined by the member of the study team conducting informed&#xD;
+             consent.&#xD;
+&#xD;
+          -  Lack of access to the internet and an internet-enabled computer or smart device.&#xD;
+&#xD;
+          -  A spinal cord injury that is due to a degenerative disease (e.g. ALS, MS) and not&#xD;
+             sudden onset.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>David S Tulsky, PhD</last_name>
+    <phone>3028314606</phone>
+    <email>dtulsky@udel.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Pamela A Kisala, MA</last_name>
+    <phone>9192373166</phone>
+    <email>pkisala@udel.edu</email>
+  </overall_contact_backup>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 27, 2021</study_first_posted>
+  <last_update_submitted>October 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Delaware</investigator_affiliation>
+    <investigator_full_name>David Tulsky</investigator_full_name>
+    <investigator_title>Professor and Director, Center for Health Assessment Research and Translation</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Spinal Cord Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

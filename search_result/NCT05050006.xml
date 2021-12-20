@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8545">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05050006</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ITIL-168</org_study_id>
+    <secondary_id>2020-003862-37</secondary_id>
+    <nct_id>NCT05050006</nct_id>
+  </id_info>
+  <brief_title>ITIL-168 in Advanced Melanoma</brief_title>
+  <acronym>DELTA-1</acronym>
+  <official_title>A Phase 2, Open-label, Multicenter Study Evaluating the Safety and Efficacy of Autologous Tumor-infiltrating Lymphocytes (TILs) in Subjects With Advanced Melanoma (DELTA-1)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Instil Bio</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Instil Bio</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      DELTA-1 is a phase 2 clinical trial to evaluate the efficacy and safety of ITIL-168 in adult&#xD;
+      subjects with advanced melanoma who have previously been treated with a PD-1 inhibitor.&#xD;
+      ITIL-168 is a cell therapy derived from a patient's own tumor-infiltrating immune cells&#xD;
+      (lymphocytes; TILs).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 7, 2021</start_date>
+  <completion_date type="Anticipated">December 2027</completion_date>
+  <primary_completion_date type="Anticipated">June 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>All enrolled participants are assigned to be treated with a single dose of ITIL-168</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Objective response rate</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>Objective response rate (ORR), defined as the incidence of a complete response (CR) or a partial response (PR) per a modified Response Evaluation Criteria in Solid Tumors (RECIST v1.1) criteria, as assessed by central review.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>For subjects who experience an objective response, duration of response (DOR) is defined as the time from their first objective response to disease progression or death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free Survival</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>Progression-free survival (PFS) is defined as the time from the ITIL-168 infusion date to the date of disease progression or death from any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>Overall survival (OS) is defined as the time from the ITIL-168 infusion date to the date of death from any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ORR as determined by investigators</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>ORR as determined by investigators is defined as the incidence of a CR or a PR per a modified RECIST v1.1, as determined by study investigators.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency, duration, and severity of ITIL-168 treatment-emergent adverse events (AEs), serious AEs, and AEs of special interest</measure>
+    <time_frame>Up to 60 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate</measure>
+    <time_frame>Up to 60 months</time_frame>
+    <description>Disease control rate (DCR), defined as the incidence of CR, PR, or stable disease (SD) per a modified RECIST v1.1 criteria, as determined by central review.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Best Overall Response</measure>
+    <time_frame>Up to 60 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Response</measure>
+    <time_frame>Up to 60 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">130</enrollment>
+  <condition>Advanced Cutaneous Melanoma</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients who relapsed after or were refractory to at least 1 prior line of systemic therapy including a PD-1 inhibitor.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients who were intolerant to a PD-1 inhibitor and have persistent disease after stopping PD-1 therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients who had a best response of stable disease despite being treated with at least 4 doses of a PD-1 inhibitor in the previous line of therapy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>ITIL-168</intervention_name>
+    <description>ITIL-168 is a cell therapy product derived from a patient's own TILs. A tumor sample is removed from each patient to make a personalized ITIL-168 product. Once ITIL-168 has been made, the patient is treated with 5 days of lymphodepleting chemotherapy including cyclophosphamide and fludarabine, followed by a single infusion of ITIL-168, and up to 8 doses of IL-2.</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_label>Cohort 3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:&#xD;
+&#xD;
+          -  Histologically confirmed advanced (unresectable or metastatic) cutaneous melanoma.&#xD;
+&#xD;
+          -  Cohort 1: Disease that is relapsed after or refractory to at least 1 prior line of&#xD;
+             systemic therapy that must include a PD-1 inhibitor and, if positive for proto-&#xD;
+             oncogene BRAF V600 activating mutation, targeted therapy.&#xD;
+&#xD;
+          -  Cohort 2: Disease that is persistent after discontinuing PD-1 due to toxicity.&#xD;
+             Patients with a proto-oncogene BRAF V600 activating mutation must have progressed&#xD;
+             after targeted therapy.&#xD;
+&#xD;
+          -  Cohort 3: Disease that is stable (SD) after at least 4 doses of a PD-1 inhibitor.&#xD;
+             Patients with a proto-oncogene BRAF V600 activating mutation must have progressed&#xD;
+             after targeted therapy.&#xD;
+&#xD;
+          -  Medically suitable for surgical resection of tumor tissue&#xD;
+&#xD;
+          -  Following tumor resection for TIL harvest, will have, at minimum, 1 remaining&#xD;
+             measurable lesion as identified by CT or MRI per Response Evaluation Criteria in Solid&#xD;
+             Tumors (RECIST) v1.1&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1&#xD;
+&#xD;
+          -  Adequate bone marrow and organ function&#xD;
+&#xD;
+        Key Exclusion Criteria:&#xD;
+&#xD;
+          -  History of another primary malignancy within the previous 3 years&#xD;
+&#xD;
+          -  Melanoma of uveal, acral, or mucosal origin&#xD;
+&#xD;
+          -  Previously received an allogeneic stem cell transplant or organ allograft&#xD;
+&#xD;
+          -  Previously received TIL or engineered cell therapy ( eg, CAR T-cell)&#xD;
+&#xD;
+          -  Significant cardiac disease&#xD;
+&#xD;
+          -  Stroke or transient ischemic attack within 12 months of enrollment&#xD;
+&#xD;
+          -  History of significant central nervous system (CNS) disorder&#xD;
+&#xD;
+          -  Symptomatic and/or untreated CNS metastases&#xD;
+&#xD;
+          -  History of significant autoimmune disease within 2 years prior to enrollment&#xD;
+&#xD;
+          -  Known history of severe, immediate hypersensitivity reaction attributed to&#xD;
+             cyclophosphamide, fludarabine, or IL-2.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Instil Study Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Instil Bio, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of California San Diego, Moores Cancer Center</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mika Kaczmar</last_name>
+      <phone>858-534-7585</phone>
+      <email>mkaczmar@health.ucsd.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Gregory Daniels, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>USC - Norris Comprehensive Cancer Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rabia Rehman</last_name>
+      <phone>323-865-0460</phone>
+      <email>rabia.rehman@med.usc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Gino In, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA Health - Westwood Cancer Care</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Banafsheh Sinaki</last_name>
+      <phone>310-794-4955</phone>
+      <email>bsinaki@mednet.ucla.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Bartosz Chmielowski, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Georgetown University Medical Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gayle Cramer</last_name>
+      <phone>321-841-9821</phone>
+      <email>gc604@georgetown.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Geoffrey Gibney, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Orlando Health Cancer Institute</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karin Donaldson</last_name>
+      <phone>321-841-9821</phone>
+      <email>karin.donaldson@orlandohealth.com</email>
+    </contact>
+    <investigator>
+      <last_name>Sajeve Thomas, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Louisville, James Graham Brown Cancer Center</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shruti Virmani</last_name>
+      <phone>502-562-4087</phone>
+      <email>shruti.virmani@louisville.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jason Chesney, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Minnesota, Masonic Cancer Center</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Simone Veum</last_name>
+      <phone>612-301-8669</phone>
+      <email>veum0015@umn.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Evidio Domingo-Musibay, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Atlantic Health System - Morristown Medical Center</name>
+      <address>
+        <city>Morristown</city>
+        <state>New Jersey</state>
+        <zip>07962</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maureen Nowakowski</last_name>
+      <phone>973-971-5569</phone>
+      <email>Maureen.nowakowski@atlantichealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Eric Whitman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic - Taussig Cancer Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lucy McCahon</last_name>
+      <phone>216-445-9448</phone>
+      <email>mccahol@ccf.org</email>
+    </contact>
+    <investigator>
+      <last_name>Brian Gastman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fox Chase Cancer Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fathima Sheriff</last_name>
+      <phone>215-728-4094</phone>
+      <email>Fathima.sheriff@fccc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Anthony Olszanski, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>September 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 20, 2021</study_first_posted>
+  <last_update_submitted>December 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>ITIL-168</keyword>
+  <keyword>Cell Therapy</keyword>
+  <keyword>melanoma</keyword>
+  <keyword>Autologous cell therapy</keyword>
+  <keyword>Cellular Immunotherapy</keyword>
+  <keyword>TIL</keyword>
+  <keyword>Autologous Adoptive Cell Transfer</keyword>
+  <keyword>Immuno-oncology</keyword>
+  <keyword>IL-2</keyword>
+  <keyword>Autologous Adoptive Cell Therapy</keyword>
+  <keyword>Tumor Infiltrating Lymphocytes</keyword>
+  <keyword>T-cell therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Melanoma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

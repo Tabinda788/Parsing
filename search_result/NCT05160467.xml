@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="52">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05160467</url>
+  </required_header>
+  <id_info>
+    <org_study_id>532</org_study_id>
+    <nct_id>NCT05160467</nct_id>
+  </id_info>
+  <brief_title>Bio Electrical Impedance Analysis to Monitor Fluid Status During Deresuscitation Strategy in Continuous Renal Replacement Therapy</brief_title>
+  <acronym>UF BIA</acronym>
+  <official_title>Bio Electrical Impedance Analysis to Monitor Fluid Status During Deresuscitation Strategy in Continuous Renal Replacement Therapy: a Proof of Concept Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospices Civils de Lyon</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospices Civils de Lyon</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Fluid overload is a poor prognostic factor in patients undergoing continuous renal&#xD;
+      replacement therapy in critical care. A strategy of active fluid removal by net&#xD;
+      ultrafiltration (UFnet) is one of the means to correct it. However, fluid overload is&#xD;
+      difficult to quantify: weight variations or cumulative fluid balance are easy to use but&#xD;
+      imprecise and not concordant markers, while reference methods such as isotope dilution are&#xD;
+      not adapted to daily practice.&#xD;
+&#xD;
+      Bio electrical impedance analysis (BIA) is used to estimate body composition, including&#xD;
+      hydration. It is a non-invasive, rapid and painless measurement. It is commonly used in&#xD;
+      chronic intermittent haemodialysis to estimate dry weight and guide fluid removal, with a&#xD;
+      demonstrated impact on blood pressure control. This analysis is feasible in the ICU. Fluid&#xD;
+      overload as defined by BIA correlates with mortality, most notably in acute renal failure and&#xD;
+      during continuous renal replacement therapy.&#xD;
+&#xD;
+      We routinely perform multifrequency segmental BIA (InBody S10, Seoul, Korea) in patients with&#xD;
+      fluid overload in our intensive care department. Since February 2021, we have implemented a&#xD;
+      protocol to systematically correct fluid overload by inducing negative fluid balance with&#xD;
+      UFnet in a manner appropriate to tissue perfusion. In this context, we systematically perform&#xD;
+      a BIA analysis on the day of the beginning of the fluid balance negativation and then every&#xD;
+      48 hours during the first five days.&#xD;
+&#xD;
+      We would like to evaluate the relevance of BIA monitoring in these patients by comparing it&#xD;
+      to other parameters of evaluation of the volume status usually used.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 15, 2021</start_date>
+  <completion_date type="Anticipated">January 2022</completion_date>
+  <primary_completion_date type="Actual">November 15, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Correlation coefficient between changes in extracellular water volume estimated by BIA and cumulative fluid balance between day 0 and day 5 (mL).</measure>
+    <time_frame>Coefficient correlation between the variation from day 0 to day 5 of extra cellular water and cumulative fluid balance</time_frame>
+    <description>The extra cellular water is a volumetric value, given automatically by the InBody S10 device. The cumulative fluid balance at day 5 is the sum of the daily fluid balances between day 0 and day 5.&#xD;
+Definition of the fluid balance = inputs - outputs :&#xD;
+Inputs = total cumulative volume of: parenteral medication; enteral and parenteral nutrition; maintenance fluid; blood products; fluid bolus therapy&#xD;
+Outputs = total cumulative volume of: diuresis; losses to drain; net ultra filtration</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">23</enrollment>
+  <condition>Fluid Overload</condition>
+  <arm_group>
+    <arm_group_label>Deresuscitation cohort</arm_group_label>
+    <description>Patients with fluid overload (defined by a cumulative fluid balance &gt; 5%), stable hemodynamic (defined by Norepinephrine equivalent &lt; 0.5µg/kg/min and nor clinical nor biological sign of hypoperfusion) and continuous renal replacement therapy. All these patients benefit in our service from a protocol directed, perfusion based deresuscitation strategy with a 2mL/kg/h net ultra filtration to induce negative fluid balance and correct fluid overload. If hypoperfusion occurs, the net ultra filtration is stopped; if pulmonary oedema or right ventricular dysfunction occurs, the net ultra filtration is set to 3mL/kg/h.&#xD;
+We carried out at day 0, 1,3 and 5 bio electrical impedance analysis with an eight polar multifrequency bio impedance monitor (InBody S10), and monitor cumulative fluid balance with our prescription software and daily weight assessment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Segmental multi-frequency bio electrical impedance analysis</intervention_name>
+    <description>A segmental (eight-polar) multi-frequency bio electrical impedance analysis (Inbody S10, Seoul, Korea) is carried out at the initiation of the deresuscitation strategy, at day 1, 3 and 5, in lying posture with touch type electrodes. Raw and derived parameters are recorded. The measurement is performed 5 times for the first measurement and then one time at day 1, 3 and 5.&#xD;
+Measurement error is defined by the manufacturer as: reversed Impedance in different segment all between 5-500kHz; impedance over 50Ω in trunk, or over 700Ω in limb; sudden drop of impedance in trunk (more than 10Ω), or in limb (more than 50Ω). If it occurs, measurement is carried out three times maximum after solving potential technical issues to obtain a valid analysis.</description>
+    <arm_group_label>Deresuscitation cohort</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with fluid overload (defined by a cumulative fluid balance &gt; 5%), stable&#xD;
+        hemodynamic (defined by Norepinephrine equivalent &lt; 0.5µg/kg/min and nor clinical nor&#xD;
+        biological sign of hypoperfusion) and continuous renal replacement therapy. All these&#xD;
+        patients benefit in our service from a protocol directed, perfusion based deresuscitation&#xD;
+        strategy with net ultra filtration to induce negative fluid balance.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age higher than 18&#xD;
+&#xD;
+          -  Protocol directed deresucitation strategy with net ultrafiltration during continuous&#xD;
+             renal replacement therapy&#xD;
+&#xD;
+          -  Bioelectrical impedance analysis available for the day of the initiation of the&#xD;
+             deresuscitation strategy and at day 5&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Left ventricular assist device&#xD;
+&#xD;
+          -  Patient opposition to the use of his health data&#xD;
+&#xD;
+          -  Invalid bioelectrical impedance analysis&#xD;
+&#xD;
+          -  Advanced directives to withhold or withdraw life-sustaining treatment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Martin RUSTE, Dr</last_name>
+    <phone>+33472118956</phone>
+    <email>martin.ruste@chu-lyon.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hôpital cardiologique Louis Pradel Groupe Hospitalier Est</name>
+      <address>
+        <city>Bron</city>
+        <zip>69500</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Martin RUSTE, M.D Msc</last_name>
+      <phone>+33472118956</phone>
+      <email>martin.ruste@chu-lyon.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 16, 2021</study_first_posted>
+  <last_update_submitted>December 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>bio electrical impedance analysis</keyword>
+  <keyword>fluid overload</keyword>
+  <keyword>deresuscitation strategy</keyword>
+  <keyword>net ultra filtration</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

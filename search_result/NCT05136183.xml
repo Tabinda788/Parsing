@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1919">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05136183</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SI040/2021</org_study_id>
+    <nct_id>NCT05136183</nct_id>
+  </id_info>
+  <brief_title>CLinical Efficacy of Hemoperfusion With a Cytokine Adsorber in Norepinephrine-Resistant SEptic Shock</brief_title>
+  <acronym>CLEANSE</acronym>
+  <official_title>CLinical Efficacy of Hemoperfusion With a Cytokine Adsorber in Norepinephrine-Resistant SEptic Shock</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mahidol University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Faculty of Medicine Siriraj Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Mahidol University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Sepsis and septic shock are major causes of ICU admission worldwide. Despite recent advances&#xD;
+      in treatment, including targeted resuscitation and timely use of antimicrobial agents,&#xD;
+      mortality of ICU patients with septic shock remains steadily high. Especially in those&#xD;
+      requiring high dosage of vasopressors, whose 28-day mortality rate could reach 60%.&#xD;
+&#xD;
+      The pathophysiology of septic shock emphasizes on the role of dysregulated host immune&#xD;
+      response towards inciting microbes, producing excessive inflammatory cytokines which lead to&#xD;
+      tissue damage and subsequent organ failures. Multiple therapies targeting the overwhelming&#xD;
+      inflammatory response in patients with septic shock have been studied (ref). While some&#xD;
+      showed promising results in modulating inflammation in observational studies (ref), none&#xD;
+      other than systemic corticosteroids lead to better clinical outcomes in the randomized&#xD;
+      controlled studies. The reasons for their failures are the complexity of the inflammation&#xD;
+      cascades, where treatments specifically targeting parts of the process may not be able to&#xD;
+      achieve meaningful effects.&#xD;
+&#xD;
+      Extracorporeal blood purification therapy is an adjunctive treatment option more extensively&#xD;
+      studied over the last decade. By passing patients' blood or plasma through specifically&#xD;
+      developed absorber, various inflammatory cytokines are absorbed to resins inside the devices&#xD;
+      and removed from the circulation. Decreasing levels of inflammatory cytokines may&#xD;
+      subsequently attenuate systemic inflammation leading to shock reversal and better survival.&#xD;
+&#xD;
+      HA-330 disposable hemoperfusion cartridge (Jafron®, China) is an absorber targeting&#xD;
+      hyper-inflammatory states including septic shock. It is designed to nonspecifically absorb&#xD;
+      molecules with molecular weight 10-60 kilo-Dalton, making it effective for removing various&#xD;
+      pro-inflammatory cytokines and potentially modulating the inflammatory cascade.&#xD;
+&#xD;
+      Previous randomized study in patients with sepsis compared between the add-on 3 daily session&#xD;
+      of hemoperfusion with HA-330 adsorber and the standard therapy . .Circulating interleukin-6&#xD;
+      and interleukin-8 levels of patients underwent hemoperfusion significantly reduced after two&#xD;
+      sessions when compared to baseline. Their values on day 3 were also significantly lower than&#xD;
+      those of the control group. Adjunctive hemoperfusion were associated with lower ICU&#xD;
+      mortality, butno significant difference in hospital and 28-day mortality between the two&#xD;
+      groups(ref). However, approximately 50% of enrolled patients had sepsis without shock.&#xD;
+      Generalization of the findings to more severe cohorts of septic shock patients are therefore&#xD;
+      limited.&#xD;
+&#xD;
+      Patients with septic shock have higher cytokines level than septic patients without shock.&#xD;
+      Hence, they are theoretically more likely to benefit from therapies aiming to reduce cytokine&#xD;
+      levels. We hypothesize that adjunctive hemoperfusion with HA-330 adsorber would be associated&#xD;
+      with better outcomes in a more severe group of patients with septic shock.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">December 15, 2021</start_date>
+  <completion_date type="Anticipated">November 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>28-day mortality</measure>
+    <time_frame>28 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ICU mortality</measure>
+    <time_frame>up to 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital mortality</measure>
+    <time_frame>up to 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU-free day</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number of days that patient is alive and not admitted in the ICU in the first 28 days, with the day of randomization defined as Day 0 In case of ICU readmission, the days from the final ICU discharge within 28 days are counted.&#xD;
+All 28-day non-survivors are counted 0, irrespective of their place of care at the time of death, and censored observations after 28 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vasopressor-free day</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number of days that patient is alive after successful discontinuation of vasoactive agents in the first 28 days, with the day of randomization defined as Day 0 Successful discontinuation of vasoactive agents is defined as discontinuation of vasoactive agents without resumption until Day 28 or until hospital discharge, whichever is first.&#xD;
+In case of multiple periods of vasoactive agents use, the days from the final discontinuation of vasoactive agents are counted.&#xD;
+All 28-day non-survivors are counted 0, irrespective of their use of vasoactive agents at the time of death, and censored observations after 28 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator-free day</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number of days that patient is alive after successful liberation of mechanical ventilation in the first 28 days, with the day of randomization defined as Day 0 Successful liberation of mechanical ventilation is defined as discontinuation mechanical ventilation (either via orotracheal or tracheostomy tube) for 48 hours or more. Non-invasive positive pressure ventilation is not regarded as mechanical ventilation.&#xD;
+In case of multiple periods of mechanical ventilation, the days from the final successful liberation of mechanical ventilation within 28 days are counted.&#xD;
+All 28-day non-survivors are counted 0, irrespective of their ventilation status at the time of death, and censored observations after 28 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Renal replacement therapy (RRT) -free day</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number of days that patient is alive after successful discontinuation of renal-replacement therapy in the first 28 days, with the day of randomization defined as Day 0 Successful discontinuation of renal-replacement therapy is defined as discontinuation of all modes of renal-replacement therapy without resumption for at least 7 days and until Day 28 or until hospital discharge, whichever is first.&#xD;
+Hemoperfusion according to treatment protocol in 'Standard of care and hemoperfusion with HA-330' arm is not counted as renal-replacement therapy.&#xD;
+All 28-day non-survivors are counted 0, irrespective of their use of renal-replacement therapy at the time of death, and censored observations after 28 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vasoactive inotropic score at Hour 24, Hour 48 and Day 7</measure>
+    <time_frame>7 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Shock reversal at Hour 6</measure>
+    <time_frame>6 hours</time_frame>
+    <description>Shock reversal is defined as mean arterial pressure at or more than 65 mmHg with one of the following:&#xD;
+Reduction of serum lactate level of 20% or more&#xD;
+Hourly urine output of 0.5 mL/kg or more</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Arterial partial pressure of oxygen to fraction of inspired oxygen (PaO2/FiO2) at Hour 24, Hour 48 and Day 7</measure>
+    <time_frame>7 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute Physiology and Chronic Health Evaluation score (APACHE II) at Hour 24, Hour 48 and Day 7</measure>
+    <time_frame>7 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sequential Organ Failure Assessment score (SOFA) at Hour 24, Hour 48 and Day 7</measure>
+    <time_frame>7 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum C-reactive protein level at Hour 24 and Hour 48</measure>
+    <time_frame>48 hours</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Interleukin-6 level at Hour 24 and Hour 48</measure>
+    <time_frame>48 hours</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Septic Shock</condition>
+  <condition>Cytokine Storm</condition>
+  <arm_group>
+    <arm_group_label>Standard of care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients randomized to this arm are treated with standard of care for patients with septic shock, including&#xD;
+Fluid resuscitation and vasoactive agents&#xD;
+Hemodynamic monitoring in intensive care units&#xD;
+Antibiotics and infection source control, when applicable&#xD;
+Supportive therapies and devices, including mechanical ventilation and renal replacement therapy&#xD;
+Immunoregulatory medications, including systemic corticosteroids&#xD;
+All treatment provided are according to treating physicians</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of care, with hemoperfusion with HA-330</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients randomized to this arm are treated with standard of care for patients with septic shock as described for 'Standard of care' arm, along with hemoperfusion with HA-330 Disposable Hemoperfusion Cartridge, as detailed under 'Interventions'</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>HA-330 Disposable Hemoperfusion Cartridge (Jafron, China)</intervention_name>
+    <description>If no appropriate vascular access available, a double lumen catheter is placed by treating physicians, under ultrasonographic guidance.&#xD;
+Two sessions of hemoperfusion using HA-330 Disposable Hemoperfusion Cartridge are performed 24 hours apart.&#xD;
+Hemoperfusion is performed using either hemoperfusion or continuous renal replacement therapy machine. The optimal blood flow rate is 150-200 mL/min. The duration for each session in 2 hours. No systemic anticoagulant is given except for priming of the cartridge according to manufacturer recommendations.&#xD;
+The first hemoperfusion session is recommended to be initiated within 12 hours after randomization.</description>
+    <arm_group_label>Standard of care, with hemoperfusion with HA-330</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Septic shock patients, according to The Third International Consensus Definitions for&#xD;
+             Sepsis and Septic Shock and&#xD;
+&#xD;
+          -  Is receiving intravenous norepinephrine 0.2 mcg/kg/min or more, or equivalent dose of&#xD;
+             other vasoactive agents&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        One who has&#xD;
+&#xD;
+          -  acute coronary syndrome&#xD;
+&#xD;
+          -  life-threatening arrhythmias&#xD;
+&#xD;
+          -  acute ischemic stroke&#xD;
+&#xD;
+          -  life-threatening, uncontrolled bleeding&#xD;
+&#xD;
+          -  underlying conditions judged to have with limited life expectancy (less than 6 months)&#xD;
+             by primary physicians&#xD;
+&#xD;
+        One who is&#xD;
+&#xD;
+          -  judged by treating physicians as in moribund state and expected not to survive to 24&#xD;
+             hours regardless of treatment given&#xD;
+&#xD;
+          -  known to be pregnant at enrollment&#xD;
+&#xD;
+          -  not in the competent state to give informed consent and not having relatives to do so&#xD;
+&#xD;
+          -  not willing to pursue intensive medical therapy considered standard of care for&#xD;
+             patients with septic shock&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Ranistha Ratanarat, MD</last_name>
+    <phone>+66 2419 7767</phone>
+    <email>ranittha@hotmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Nattapat Wongtirawit, MD</last_name>
+    <phone>+66 2419 7767</phone>
+    <email>n.wongtirawit@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Faculty of Medicine Siriraj Hospital</name>
+      <address>
+        <city>Bangkok Noi</city>
+        <state>Bangkok</state>
+        <zip>10700</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nattapat Wongtirawit, MD</last_name>
+      <phone>+66 2419 7767</phone>
+      <email>n.wongtirawit@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Thailand</country>
+  </location_countries>
+  <reference>
+    <citation>Vincent JL, Jones G, David S, Olariu E, Cadwell KK. Frequency and mortality of septic shock in Europe and North America: a systematic review and meta-analysis. Crit Care. 2019 May 31;23(1):196. doi: 10.1186/s13054-019-2478-6.</citation>
+    <PMID>31151462</PMID>
+  </reference>
+  <reference>
+    <citation>Khanna A, English SW, Wang XS, Ham K, Tumlin J, Szerlip H, Busse LW, Altaweel L, Albertson TE, Mackey C, McCurdy MT, Boldt DW, Chock S, Young PJ, Krell K, Wunderink RG, Ostermann M, Murugan R, Gong MN, Panwar R, Hästbacka J, Favory R, Venkatesh B, Thompson BT, Bellomo R, Jensen J, Kroll S, Chawla LS, Tidmarsh GF, Deane AM; ATHOS-3 Investigators. Angiotensin II for the Treatment of Vasodilatory Shock. N Engl J Med. 2017 Aug 3;377(5):419-430. doi: 10.1056/NEJMoa1704154. Epub 2017 May 21.</citation>
+    <PMID>28528561</PMID>
+  </reference>
+  <reference>
+    <citation>Singer M, Deutschman CS, Seymour CW, Shankar-Hari M, Annane D, Bauer M, Bellomo R, Bernard GR, Chiche JD, Coopersmith CM, Hotchkiss RS, Levy MM, Marshall JC, Martin GS, Opal SM, Rubenfeld GD, van der Poll T, Vincent JL, Angus DC. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). JAMA. 2016 Feb 23;315(8):801-10. doi: 10.1001/jama.2016.0287.</citation>
+    <PMID>26903338</PMID>
+  </reference>
+  <reference>
+    <citation>Rhodes A, Evans LE, Alhazzani W, Levy MM, Antonelli M, Ferrer R, Kumar A, Sevransky JE, Sprung CL, Nunnally ME, Rochwerg B, Rubenfeld GD, Angus DC, Annane D, Beale RJ, Bellinghan GJ, Bernard GR, Chiche JD, Coopersmith C, De Backer DP, French CJ, Fujishima S, Gerlach H, Hidalgo JL, Hollenberg SM, Jones AE, Karnad DR, Kleinpell RM, Koh Y, Lisboa TC, Machado FR, Marini JJ, Marshall JC, Mazuski JE, McIntyre LA, McLean AS, Mehta S, Moreno RP, Myburgh J, Navalesi P, Nishida O, Osborn TM, Perner A, Plunkett CM, Ranieri M, Schorr CA, Seckel MA, Seymour CW, Shieh L, Shukri KA, Simpson SQ, Singer M, Thompson BT, Townsend SR, Van der Poll T, Vincent JL, Wiersinga WJ, Zimmerman JL, Dellinger RP. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock: 2016. Intensive Care Med. 2017 Mar;43(3):304-377. doi: 10.1007/s00134-017-4683-6. Epub 2017 Jan 18.</citation>
+    <PMID>28101605</PMID>
+  </reference>
+  <reference>
+    <citation>Ankawi G, Fan W, Pomarè Montin D, Lorenzin A, Neri M, Caprara C, de Cal M, Ronco C. A New Series of Sorbent Devices for Multiple Clinical Purposes: Current Evidence and Future Directions. Blood Purif. 2019;47(1-3):94-100. doi: 10.1159/000493523. Epub 2018 Sep 25. Review.</citation>
+    <PMID>30253409</PMID>
+  </reference>
+  <reference>
+    <citation>Elzinga M, Maron BJ, Adelstein RS. Human heart and platelet actins are products of different genes. Science. 1976 Jan 9;191(4222):94-5.</citation>
+    <PMID>1246600</PMID>
+  </reference>
+  <reference>
+    <citation>Koponen T, Karttunen J, Musialowicz T, Pietiläinen L, Uusaro A, Lahtinen P. Vasoactive-inotropic score and the prediction of morbidity and mortality after cardiac surgery. Br J Anaesth. 2019 Apr;122(4):428-436. doi: 10.1016/j.bja.2018.12.019. Epub 2019 Feb 18.</citation>
+    <PMID>30857599</PMID>
+  </reference>
+  <results_reference>
+    <citation>Huang Z, Wang SR, Su W, Liu JY. Removal of humoral mediators and the effect on the survival of septic patients by hemoperfusion with neutral microporous resin column. Ther Apher Dial. 2010 Dec;14(6):596-602. doi: 10.1111/j.1744-9987.2010.00825.x.</citation>
+    <PMID>21118369</PMID>
+  </results_reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 29, 2021</study_first_posted>
+  <last_update_submitted>November 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Mahidol University</investigator_affiliation>
+    <investigator_full_name>Ranistha Ratanrat</investigator_full_name>
+    <investigator_title>Associate Professor Doctor</investigator_title>
+  </responsible_party>
+  <keyword>Sepsis</keyword>
+  <keyword>Septic shock</keyword>
+  <keyword>Hemoperfusion</keyword>
+  <keyword>Blood purification</keyword>
+  <keyword>HA-330</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Shock, Septic</mesh_term>
+    <mesh_term>Shock</mesh_term>
+    <mesh_term>Cytokine Release Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

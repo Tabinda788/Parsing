@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7342">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05065671</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro2021000945</org_study_id>
+    <nct_id>NCT05065671</nct_id>
+  </id_info>
+  <brief_title>Microbiome Derived Metabolism and Pharmacokinetics</brief_title>
+  <acronym>MDM-PK</acronym>
+  <official_title>Incorporating Drug Metabolism by the Human Gut Microbiome Into Personalized Medicine</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rutgers, The State University of New Jersey</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Rutgers, The State University of New Jersey</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators will perform single-dose pharmacokinetic (PK) studies in humans following&#xD;
+      administration of drugs with known microbiome derived metabolism (MDM) in parallel with&#xD;
+      preclinical studies. By directly comparing laboratory measurements to clinical results, the&#xD;
+      investigators will be able to confirm the relevance of MDM in vivo, create&#xD;
+      microbiome-dependent PK profiles of the MDM positive drugs, and establish methodology to&#xD;
+      capture the contribution of MDM to inter-individual variability in clinical drug PK profiles.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The human gut microbiome has been shown to play an important role in the observed&#xD;
+      inter-individual variability in therapeutic response, including both efficacy and toxicity.&#xD;
+      One of the mechanisms by which the gut microbiome exerts these effects is through the direct&#xD;
+      biochemical transformation of orally administered drugs into more or less active or toxic&#xD;
+      metabolites, termed herein microbiome-derived drug metabolism (MDM). Recent systematic&#xD;
+      studies have revealed an enormous and largely unexplored biochemical capacity of human gut&#xD;
+      bacteria - cultured in ex vivo microbial communities or as single isolates - to metabolize&#xD;
+      dozens of orally administered drugs but the clinical relevance of the observed MDM remains&#xD;
+      unmapped. This gap in knowledge is a result of overt disconnect between preclinical and&#xD;
+      clinical studies: MDM studies performed in the laboratory are removed from direct clinical&#xD;
+      comparisons, and human studies performed during drug development and therapeutic&#xD;
+      interventions almost completely ignore microbiome contribution. Moreover, there is currently&#xD;
+      a lack standardized experimental methods and mathematical models to start incorporating MDM&#xD;
+      into clinical decisions. Our PK studies are aimed at developing such strategies into clinical&#xD;
+      practice.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2021</start_date>
+  <completion_date type="Anticipated">April 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 1, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Drug area under the plasma concentration versus time curve (AUC)</measure>
+    <time_frame>After a single dose of a microbiome derived metabolism positive drug (over an 8 hour period for each drug)</time_frame>
+    <description>We will calculate the plasma area under the curve for the microbiome derived metabolism positive probe drugs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Drug peak plasma concentration</measure>
+    <time_frame>After a single dose of a microbiome derived metabolism positive drug (over an 8 hour period for each drug)</time_frame>
+    <description>We will measure the peak plasma concentration for microbiome derived metabolism positive probe drugs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Drug trough plasma concentrations</measure>
+    <time_frame>After a single dose of a microbiome derived metabolism positive drug (over an 8 hour period for each drug)</time_frame>
+    <description>We will measure the trough plasma concentration for microbiome derived metabolism positive probe drugs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Drug volume of distribution</measure>
+    <time_frame>After a single dose of a microbiome derived metabolism positive drug (over an 8 hour period for each drug)</time_frame>
+    <description>We will calculate the volume of distribution for microbiome derived metabolism positive probe drugs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Drug half-life</measure>
+    <time_frame>After a single dose of a microbiome derived metabolism positive drug (over an 8 hour period for each drug)</time_frame>
+    <description>We will calculate drug half-life for microbiome derived metabolism positive probe drugs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Drug plasma clearance</measure>
+    <time_frame>After a single dose of a microbiome derived metabolism positive drug (over an 8 hour period for each drug)</time_frame>
+    <description>We will calculate drug plasma clearance for each microbiome derived metabolism positive drug.</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Quantitation of microbiome derived metabolism positive drug metabolites in urine</measure>
+    <time_frame>After a single dose of a microbiome derived metabolism positive drug (over an 8 hour period for each drug)</time_frame>
+    <description>The concentration of microbiome derived metabolism positive drug metabolites in urine will be measured</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Quantitation of microbiome derived metabolism positive drugs in urine</measure>
+    <time_frame>After a single dose of a microbiome derived metabolism positive drug (over an 8 hour period for each drug)</time_frame>
+    <description>The concentration of microbiome derived metabolism positive drugs in urine will be measured.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">14</enrollment>
+  <condition>Microbial Colonization</condition>
+  <arm_group>
+    <arm_group_label>Tolcapone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Tolcapone 100 mg by mouth once</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Duloxetine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Duloxetine 30 mg by mouth once</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tolcapone 100 MG</intervention_name>
+    <description>Tolcapone 100 mg by mouth once</description>
+    <arm_group_label>Tolcapone</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Duloxetine 30 MG</intervention_name>
+    <description>Duloxetine 30 mg by mouth once</description>
+    <arm_group_label>Duloxetine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18 to 65 years of age&#xD;
+&#xD;
+          -  Body mass index between 18.5 - 25.0 kg/m2&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          -  Estimated creatinine clearance &lt; 50 mL/min&#xD;
+&#xD;
+          -  Liver impairment (liver enzymes &gt; 2 times upper limit)&#xD;
+&#xD;
+          -  Antibiotics in the past 3 months&#xD;
+&#xD;
+          -  History of gastrointestinal disease&#xD;
+&#xD;
+          -  History of autoimmune disorder&#xD;
+&#xD;
+          -  Chronic viral infection&#xD;
+&#xD;
+          -  Smoker&#xD;
+&#xD;
+          -  Alcohol intake (defined as having up to 1 drink per day for women and up to 2 drinks&#xD;
+             per day for men)&#xD;
+&#xD;
+          -  Use of immune modulating medications&#xD;
+&#xD;
+          -  Diabetes mellitus&#xD;
+&#xD;
+          -  Any history or contraindication to the study medications&#xD;
+&#xD;
+          -  Additional exclusion criteria will be based on the FDA approved prescribing&#xD;
+             information for selected drugs (i.e., contraindications)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Luigi Brunetti, PhD</last_name>
+    <phone>908-595-2645</phone>
+    <email>luigi.brunetti@rutgers.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Mohamed Donia, PhD</last_name>
+    <phone>609-258-5870</phone>
+    <email>donia@princeton.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Robert Wood Johnson University Hospital Somerset</name>
+      <address>
+        <city>Somerville</city>
+        <state>New Jersey</state>
+        <zip>08876</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 4, 2021</study_first_posted>
+  <last_update_submitted>September 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rutgers, The State University of New Jersey</investigator_affiliation>
+    <investigator_full_name>Luigi Brunetti, PharmD, PhD</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Duloxetine Hydrochloride</mesh_term>
+    <mesh_term>Tolcapone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

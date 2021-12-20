@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="87">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05160012</url>
+  </required_header>
+  <id_info>
+    <org_study_id>849584</org_study_id>
+    <nct_id>NCT05160012</nct_id>
+  </id_info>
+  <brief_title>Peer Comparison Feedback to Providers to Improve Hypertension Control</brief_title>
+  <official_title>Peer Comparison Feedback to Providers to Improve Hypertension Control</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      As part of a roll out of new payment model for physicians based on hypertension control, the&#xD;
+      investigators will evaluate a monthly peer comparison message to Primary Care Providers at&#xD;
+      Penn Medicine Lancaster to see whether provider engagement with patients' overall&#xD;
+      hypertension management increases, as measured by new or increasing doses of&#xD;
+      anti-hypertensive medications.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Hypertension (HTN) affects about 30% of US adults, and effective treatment that reduces&#xD;
+      long-term risk of subsequent cardiovascular disease is widely available; however, only about&#xD;
+      half of adults maintain good control. HTN control requires diagnosis, initiation of&#xD;
+      treatment, adherence to medications, and titration of medications. The investigators' prior&#xD;
+      work from Way2Text and SupportBP showed that there is significant clinical inertia in&#xD;
+      escalating medications for HTN through increasing dosage or adding new medications.&#xD;
+&#xD;
+      Prior studies have shown that providing feedback to providers with peer comparison data can&#xD;
+      leverage social norms to improve evidence-based practices in antibiotic and statin&#xD;
+      prescribing. Penn Medicine Lancaster General Primary Care is rolling out a Hypertension&#xD;
+      Control Implementation Plan (HCIP) as an initiative to improve hypertension control through&#xD;
+      creation of a clinic-based pathway to identify patients with hypertension, appropriately&#xD;
+      measure blood pressure, and prescribe medications to reduce blood pressure. Busy PCPs have&#xD;
+      competing demands of care, so there is an opportunity to leverage peer comparison to nudge&#xD;
+      providers to adhere to the HCIP and intensify medications.&#xD;
+&#xD;
+      The study design is a stratified parallel-group cluster-randomized trial. PCPs will be&#xD;
+      randomized in a 1:1 ratio, stratified by practice, to either: 1) Control: Usual Care- This&#xD;
+      will include the standard HCIP roll-out, and PCPs can access their HTN control rates using&#xD;
+      the existing EPIC dashboard.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2022</start_date>
+  <completion_date type="Anticipated">July 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in new hypertensive medication prescriptions or an increased dose of hypertensive medication</measure>
+    <time_frame>6 months</time_frame>
+    <description>Change in new hypertensive medication prescriptions or an increased dose of hypertensive medication from baseline to the follow up period, as measured by the proportion of patients with a new prescription or dose placed for hypertensive medications in the electronic health record (EHR) from baseline to follow-up</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in hypertension control percentage</measure>
+    <time_frame>6 months</time_frame>
+    <description>Change in hypertension control percentage from baseline to follow up period, as measured by percentage increases in a hypertension quality improvement report that is provided to physicians in the electronic health record (EHR) and reflects rate of hypertension control across all patients under the care of that physician.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">75</enrollment>
+  <condition>Hypertension</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>This group will not receive peer comparison messages and will continue with usual care.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This group will receive peer comparison messages.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Peer Comparison Message</intervention_name>
+    <description>In addition to usual care, PCPs will receive a monthly report as an EPIC in basket message describing what category they are in:&#xD;
+If control rate &lt;50%, PCP is compared to 50th percentile&#xD;
+If control rate is 50-89%, PCP is compared to 90th percentile&#xD;
+If control rate is 90-100%, PCP is told they are a high performer</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Primary Care Providers who have at =&gt;30 patients hypertension as determined by the HTN&#xD;
+             quality metric&#xD;
+&#xD;
+          -  Patients aged 18-85 with hypertension in their encounter diagnosis within the last 2&#xD;
+             years (office visits, ED/Urgent Care, Hospital, Hospital Encounter, and Prenatal&#xD;
+             Visit)&#xD;
+&#xD;
+          -  Patients will be counted in the denominator of the quality metric if they have both&#xD;
+             systolic and diastolic BP measures from an encounter with their PCP department within&#xD;
+             the last year (including office visits, well child, prenatal visit, consult visit,&#xD;
+             confidential, e-visit, nursing only, home/offsite visit, and telemedicine) that is&#xD;
+             &gt;140 for systolic BP and &gt;90 diastolic BP&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Primary Care Providers includes providers with &lt;30 patients in the HTN quality metric&#xD;
+&#xD;
+          -  Patients will be excluded if they are 66 and older with a frailty diagnosis and those&#xD;
+             with an advanced illness diagnosis within the past year; 81 and older with frailty&#xD;
+             diagnosis within the past year&#xD;
+&#xD;
+          -  It also excludes patients with end stage renal disease (indicated by evaluation of the&#xD;
+             GFR, diagnosis of end stage renal disease in last year, dialysis received in last&#xD;
+             year, or renal transplant) and patients with a pregnancy diagnosis in the last 9&#xD;
+             months&#xD;
+&#xD;
+          -  It also excludes patients with an end of life indicator (comfort care encounter in&#xD;
+             last year, comfort care noted in problem list in last year, and comfort&#xD;
+             care/palliative care procedures in last year)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Shivan Mehta, MD,MBA,MSHP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pennsylvania</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kayla Clark</last_name>
+    <phone>215.746.4428</phone>
+    <email>kayla.clark@pennmedicine.upenn.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Shivan Mehta, MD,MBA,MSHP</last_name>
+    <phone>215.573.8799</phone>
+  </overall_contact_backup>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>November 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 16, 2021</study_first_posted>
+  <last_update_submitted>December 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypertension</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4824">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05098405</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MP0317-CP101</org_study_id>
+    <secondary_id>2020-005516-22</secondary_id>
+    <nct_id>NCT05098405</nct_id>
+  </id_info>
+  <brief_title>First-in-human Safety and Tolerability of MP0317 in Patients With Relapsed/Refractory Advanced Solid Tumors</brief_title>
+  <official_title>A Phase 1, First-in-human, Multicenter, Open-label, Dose-escalation Study to Characterize the Safety and Tolerability of MP0317 in Patients With Relapsed/Refractory Advanced Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Molecular Partners AG</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Molecular Partners AG</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is investigating a new experimental therapy, MP0317, a DARPin® drug candidate&#xD;
+      targeting fibroblast activation protein (FAP) and CD40. Preclinical studies suggest that&#xD;
+      MP0317 may provide benefit for the treatment of tumors known to express high levels of FAP&#xD;
+      and for which approved therapies have been exhausted. This is the first study of MP0317 in&#xD;
+      humans and its main purpose is to test its safety and tolerability in patients with advanced&#xD;
+      solid tumors. This study will also examine the blood levels of MP0317 at several increasing&#xD;
+      dose levels and a recommended dose for further development will be determined. The&#xD;
+      recommended dose will be tested in a second part of the study to confirm safety and to&#xD;
+      further assess the preliminary biologic and anti-tumor activity.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 11, 2021</start_date>
+  <completion_date type="Anticipated">April 2024</completion_date>
+  <primary_completion_date type="Anticipated">March 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Type, incidence and severity of AEs and serious adverse events (SAEs)</measure>
+    <time_frame>From first study drug administration and until 10 weeks after the last study drug administration or end of study (EOS)</time_frame>
+    <description>According to the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) v5.0</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of dose-limiting toxicities (DLTs)</measure>
+    <time_frame>First study drug administration until 7 days after the second study drug administration</time_frame>
+    <description>DLTs will be reviewed as a subset of AEs that occur within 7 days after the second study drug administration</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum tolerated dose (MTD)</measure>
+    <time_frame>From first study drug administration and until 10 weeks after the last study drug administration or end of study (EOS)</time_frame>
+    <description>Based on occurrence of DLTs within an adaptive study design following Bayesian Logistic Regression Model (BLRM)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Recommended dose for expansion (RDE)</measure>
+    <time_frame>From first study drug administration and until 10 weeks after the last study drug administration or end of study (EOS)</time_frame>
+    <description>Based on incidence and nature of DLTs, and incidence, nature, and severity of AEs and SAEs</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Serum concentration-time profiles</measure>
+    <time_frame>6months</time_frame>
+    <description>Including parameters like maximum serum concentration (Cmax), time at Cmax (Tmax), minimal serum concentration (Cmin)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the serum curve (AUC)</measure>
+    <time_frame>6 months</time_frame>
+    <description>Pharmacokinetic (PK) analysis of MP0317</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total clearance (CL)</measure>
+    <time_frame>6 months</time_frame>
+    <description>PK analysis of MP0317</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Volume of distribution at steady state (Vss)</measure>
+    <time_frame>6 months</time_frame>
+    <description>PK analysis of MP0317</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Half-life (t1/2)</measure>
+    <time_frame>6 months</time_frame>
+    <description>PK analysis of MP0317</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of anti-drug antibodies (ADAs)</measure>
+    <time_frame>6 months</time_frame>
+    <description>Incidence, titer and time-course of ADAs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall response rate (ORR)</measure>
+    <time_frame>6 months</time_frame>
+    <description>Proportion of participants with complete response (CR) and partial response (PR) using Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 and Immunotherapy Response Evaluation Criteria in Solid Tumors (iRECIST)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate (DCR)</measure>
+    <time_frame>6 months</time_frame>
+    <description>Best overall response (BOR) of CR, PR or stable disease (SD) lasting 4 or more weeks following first study drug administration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DOR) of CR or PR</measure>
+    <time_frame>6 months</time_frame>
+    <description>For participants with CR or PR, DOR will be calculated as the time from CR or PR to progressive disease (PD) or death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to progression (TTP)</measure>
+    <time_frame>6 months</time_frame>
+    <description>Time from first study drug administration to PD</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>6 months</time_frame>
+    <description>Time from first study drug administration to PD or death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>12 months; including 6 months survival follow-up</time_frame>
+    <description>Time from first study drug administration to death of any cause</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">45</enrollment>
+  <condition>Advanced Malignant Solid Tumor</condition>
+  <arm_group>
+    <arm_group_label>Dose-escalation Cohorts</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The starting dose is 0.03 mg/kg every 3 weeks (q3w) and up to 6 dose levels are planned.&#xD;
+Study treatment will be administered as an intravenous (IV) infusion until progressive disease (PD), unacceptable toxicity, withdrawal of consent or other reasons to discontinue treatment occur, whichever comes first.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>MP0317, a tri-specific fibroblast activation protein (FAP) x CD40 DARPin® drug candidate</intervention_name>
+    <description>The study will start with dose-escalation cohorts to determine the recommended dose for expansion (RDE) or the maximum tolerated dose (MTD).&#xD;
+Once the RDE (or MTD) has been determined, a safety expansion cohort will be opened and additional patients will be treated with MP0317 monotherapy at this dose to confirm safety in a larger population.&#xD;
+Study treatment will be administered every 3 weeks (q3w) as an intravenous (IV) infusion until progressive disease (PD), unacceptable toxicity, withdrawal of consent or other reasons to discontinue treatment occur, whichever comes first. Treatment beyond PD will be allowed as per Immunotherapy Response Evaluation Criteria in Solid Tumors (iRECIST).</description>
+    <arm_group_label>Dose-escalation Cohorts</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Has an advanced, histologically-proven solid tumor of one of the following types, and&#xD;
+             for which approved therapies have been exhausted or for which the Investigator&#xD;
+             considers the patient ineligible or unable to tolerate other treatments:&#xD;
+&#xD;
+               1. Colorectal cancer&#xD;
+&#xD;
+               2. Ovarian cancer&#xD;
+&#xD;
+               3. Endometrial cancer&#xD;
+&#xD;
+               4. Gastric cancer&#xD;
+&#xD;
+               5. Pancreatic cancer&#xD;
+&#xD;
+               6. Anal cancer&#xD;
+&#xD;
+               7. Cervical cancer&#xD;
+&#xD;
+               8. Head and neck squamous cell carcinoma (HNSCC)&#xD;
+&#xD;
+               9. Mesothelioma&#xD;
+&#xD;
+              10. Prostate cancer&#xD;
+&#xD;
+              11. Non-small cell lung cancer (NSCLC)&#xD;
+&#xD;
+              12. Melanoma&#xD;
+&#xD;
+              13. Urothelial/bladder cancer&#xD;
+&#xD;
+              14. Microsatellite instability high cancer of any type&#xD;
+&#xD;
+              15. Cutaneous squamous cell cancer&#xD;
+&#xD;
+              16. Breast cancer&#xD;
+&#xD;
+          2. Has signed and dated written informed consent before performing any study procedure,&#xD;
+             including screening&#xD;
+&#xD;
+          3. Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 to 1&#xD;
+&#xD;
+          4. Anticipated life expectancy ≥ 12 weeks by Investigator judgement&#xD;
+&#xD;
+          5. Measurable disease according to Response Evaluation Criteria in Solid Tumors (RECIST)&#xD;
+             v1.1&#xD;
+&#xD;
+          6. Should agree to undergo mandatory paired (pre and on-treatment) tumor biopsies and be&#xD;
+             considered to have biopsiable disease. The biopsies should be performed as follows:&#xD;
+&#xD;
+               1. At least 1 tumor lesion ≥ 20 mm amenable to percutaneous biopsy other than the&#xD;
+                  target lesion(s) used to follow response as defined by RECIST v1.1.&#xD;
+&#xD;
+               2. For cutaneous or subcutaneous lesions, tumors should be ≥ 5 mm in diameter&#xD;
+                  amenable to biopsy by excisional or punch biopsies without unacceptable risk of a&#xD;
+                  major procedural complication.&#xD;
+&#xD;
+               3. For core needle biopsy specimens, at least 3 to 6 cores with an 18-gauge needle&#xD;
+                  should be collected.&#xD;
+&#xD;
+               4. The on-treatment tumor biopsy should be taken from the same lesion as the&#xD;
+                  pre-treatment biopsy. The biopsied lesion should be large enough to take both&#xD;
+                  biopsies ≥ 1 cm apart.&#xD;
+&#xD;
+          7. Should agree to undergo mandatory paired (pre and on-treatment) skin biopsies&#xD;
+&#xD;
+          8. At least 28 days must have elapsed between any prior major surgery and screening. The&#xD;
+             following procedures are not considered major:&#xD;
+&#xD;
+               1. Obtaining the pre-treatment tumor and skin biopsies as per protocol requirements&#xD;
+&#xD;
+               2. Placement of a port for central venous access&#xD;
+&#xD;
+               3. Needle, punch or excisional biopsy of a clinically or radiographically detected&#xD;
+                  lesion&#xD;
+&#xD;
+          9. Laboratory parameters at screening:&#xD;
+&#xD;
+             a. Hematology: i. Platelet count ≥ 100,000 cells/mm3 ii. Absolute neutrophil count ≥&#xD;
+             1,000 cells/mm3 iii. Hemoglobin ≥ 9 g/dL b. Serum creatinine &lt; 1.5 x upper limit of&#xD;
+             normal (ULN) or creatinine clearance &gt; 50 mL/min on the basis of Cockcroft-Gault&#xD;
+             glomerular filtration rate estimation c. Coagulation: i. International normalized&#xD;
+             ratio (INR) &lt; 1.5 ii. Prothrombin time (PT) and activated partial thromboplastin time&#xD;
+             (aPTT) ≤ 1.5 x ULN unless therapeutically warranted d. Aspartate aminotransferase&#xD;
+             (AST) and alanine aminotransferase (ALT) &lt; 3 x ULN e. Bilirubin normal, except for&#xD;
+             patients with known familial hyperbilirubinemia (such as Gilbert syndrome); for&#xD;
+             patients with documented Gilbert's syndrome (Gilbert-Meulengracht syndrome) total&#xD;
+             bilirubin ≤ 3 x ULN is acceptable f. Albumin &gt; 2.8 g/dL or &gt; 28 g/L, and without&#xD;
+             albumin transfusion for ≥ 7 days before screening&#xD;
+&#xD;
+         10. Is using highly effective contraception, for females of childbearing potential (FCBP)&#xD;
+             and for men, as follows:&#xD;
+&#xD;
+               1. Female: Is not pregnant, is not breastfeeding, and one of the following applies:&#xD;
+&#xD;
+                    -  Not a FCBP&#xD;
+&#xD;
+                    -  A FCBP who agrees and/or whose male partner agrees to follow the&#xD;
+                       contraceptive guidance from screening, during the treatment period, and for&#xD;
+                       at least 3 months after the last study drug administration. A FCBP must have&#xD;
+                       a negative serum pregnancy test result at screening.&#xD;
+&#xD;
+        Male: Agreement to use a highly effective contraception method from screening, during the&#xD;
+        treatment period, and for at least 3 months after the last study drug administration and to&#xD;
+        refrain from donating sperm during this period.&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          1. Known hypersensitivity to excipients used in the MP0317 formulation&#xD;
+&#xD;
+          2. Autoimmune diseases, except autoimmune endocrinopathies that are stable with hormone&#xD;
+             replacement therapy&#xD;
+&#xD;
+          3. Inflammatory diseases such as arthritis, colitis, liver fibrosis, cirrhosis,&#xD;
+             interstitial fibrosis or chronic obstructive pulmonary disease (COPD) that may have&#xD;
+             elevated tissue fibroblast activation protein (FAP) expression unless approved after&#xD;
+             consultation with the Sponsor&#xD;
+&#xD;
+          4. Serious illness or concomitant non-oncological disease considered by the Investigator&#xD;
+             to be incompatible with participating in the protocol&#xD;
+&#xD;
+          5. Left ventricular ejection fraction of &lt; 50% on echocardiographic exam or multi-gated&#xD;
+             acquisition (MUGA) scan at screening&#xD;
+&#xD;
+          6. History or evidence of clinically significant cardiovascular disease defined as at&#xD;
+             least one of the following criteria:&#xD;
+&#xD;
+               1. Evidence of poorly controlled arterial hypertension (systolic blood pressure &gt;&#xD;
+                  160 mmHg or diastolic blood pressure &gt; 100 mmHg)&#xD;
+&#xD;
+               2. Myocardial infarction or instable angina pectoris within 6 months before&#xD;
+                  screening&#xD;
+&#xD;
+               3. Heart failure (New York Heart Association Class III or IV)&#xD;
+&#xD;
+               4. Any cardiac arrhythmia that is not well controlled&#xD;
+&#xD;
+               5. QT corrected (QTc) prolongation ≥ Grade 2 (&gt; 480 ms) at screening measured on 2&#xD;
+                  separate electrocardiograms (ECG) at least 10 minutes apart&#xD;
+&#xD;
+               6. Clinically significant valvular heart disease&#xD;
+&#xD;
+          7. Severe dyspnea, pulmonary dysfunction or need for continuous supportive oxygen&#xD;
+             inhalation&#xD;
+&#xD;
+          8. Arterial thromboembolic event, stroke or transient ischemia attack within 12 months&#xD;
+             before screening&#xD;
+&#xD;
+          9. Known central nervous system (CNS) metastases that are either untreated or are treated&#xD;
+             but are associated with clinical symptoms (e.g. headache, convulsions); patients with&#xD;
+             CNS metastases that have been treated with radiotherapy and/or surgery are eligible if&#xD;
+             they are clinically without symptoms for at least 6 weeks before screening; if under&#xD;
+             treatment with corticosteroids (not exceeding 10 mg/day prednisone or equivalent)&#xD;
+             and/or anticonvulsive agents, patients must be on a stable dose for at least 14 days&#xD;
+             before first study drug administration.&#xD;
+&#xD;
+         10. Active uncontrolled bleeding or a bleeding diathesis&#xD;
+&#xD;
+         11. Therapy for active infection needs to be completed at least 7 days before first study&#xD;
+             drug administration&#xD;
+&#xD;
+         12. Known positivity for human immunodeficiency virus (HIV) or history of HIV (HIV testing&#xD;
+             is not mandatory)&#xD;
+&#xD;
+         13. Active hepatitis B (chronic or acute; HBV) defined as having a positive hepatitis B&#xD;
+             surface antigen (HBsAg) test at screening. Patients with past or resolved HBV&#xD;
+             infection (defined as having a negative HBsAg test and a positive hepatitis B core&#xD;
+             antigen antibody test) are eligible.&#xD;
+&#xD;
+         14. Active hepatitis C (HCV) infection defined as having a positive HCV antibody test&#xD;
+             followed by a positive HCV ribonucleic acid (RNA) test at screening. The HCV RNA test&#xD;
+             will be performed only for patients who have a positive HCV antibody test. Patients&#xD;
+             who are positive for HCV antibodies are eligible only if polymerase chain reaction&#xD;
+             (PCR) is negative for HCV RNA.&#xD;
+&#xD;
+         15. Serious or non-healing wound, skin ulcer or non-healing bone fracture&#xD;
+&#xD;
+         16. Abdominal fistula, gastrointestinal perforation or intra-abdominal abscess within 6&#xD;
+             months before screening&#xD;
+&#xD;
+         17. Any live vaccines within 28 days before first study drug administration&#xD;
+&#xD;
+         18. An allogenic tissue/solid organ transplant&#xD;
+&#xD;
+         19. History of another primary malignancy except for:&#xD;
+&#xD;
+               1. Malignancy treated with curative intent and with no known active disease ≥ 2&#xD;
+                  years before screening and of relatively low potential risk for recurrence&#xD;
+&#xD;
+               2. Adequately treated non-melanoma skin cancer or lentigo maligna without evidence&#xD;
+                  of residual disease&#xD;
+&#xD;
+               3. Adequately treated carcinoma in situ without evidence of disease&#xD;
+&#xD;
+               4. Cancer patients with incidental histologic findings of prostate cancer that, in&#xD;
+                  the opinion of the Investigator, is not deemed to require active therapy (e.g.&#xD;
+                  incidental prostate cancer identified following cystoprostatectomy that is&#xD;
+                  tumor/node/metastasis Stage ≤ pT2N0) may be eligible, pending discussion and&#xD;
+                  approval by the Sponsor&#xD;
+&#xD;
+         20. Previous treatment with a DARPin® molecule&#xD;
+&#xD;
+         21. Concurrent enrollment in another clinical study, unless it is an observational&#xD;
+             (non-interventional) clinical study, or it is the follow-up period of an&#xD;
+             interventional study&#xD;
+&#xD;
+         22. Use of an investigational agent within 28 days before first study drug administration&#xD;
+&#xD;
+         23. Any anticancer treatment, including chemotherapy, hormonal therapy or radiotherapy,&#xD;
+             within 21 days before first study drug administration; however, the following are&#xD;
+             allowed:&#xD;
+&#xD;
+               1. Hormonal therapy with gonadotropin-releasing hormone (GnRH) agonists or&#xD;
+                  antagonists&#xD;
+&#xD;
+               2. Hormone-replacement therapy or oral contraceptives&#xD;
+&#xD;
+               3. Palliative radiotherapy for bone metastases within 14 days before first study&#xD;
+                  drug administration&#xD;
+&#xD;
+         24. Continuous corticosteroid use exceeding 10 mg/day prednisone or equivalent&#xD;
+&#xD;
+         25. Any condition that, in the opinion of the Investigator, would interfere with&#xD;
+             evaluation of the investigational medicinal product (IMP) or interpretation of the&#xD;
+             patient's data&#xD;
+&#xD;
+         26. Unable or unwilling to comply with all study requirements for clinical visits,&#xD;
+             examinations, tests and procedures&#xD;
+&#xD;
+         27. Patient deprived of liberty by a judicial or administrative decision, patient admitted&#xD;
+             to a social institution or who is under a measure of legal protection, patient&#xD;
+             hospitalized without consent or who is in an emergency situation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Medical Director MPAG</last_name>
+    <phone>+41 44 755 77 00</phone>
+    <email>info@molecularpartners.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Centre Léon Bérard</name>
+      <address>
+        <city>Lyon</city>
+        <state>Cedex 08</state>
+        <zip>69373</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IUCT-O Institut Claudius Régaud</name>
+      <address>
+        <city>Toulouse</city>
+        <state>Cedex 09</state>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NKI-AvL</name>
+      <address>
+        <city>Amsterdam</city>
+        <zip>1066 CX</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UMCU</name>
+      <address>
+        <city>Utrecht</city>
+        <zip>3584 CW</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>France</country>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 30, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 28, 2021</study_first_posted>
+  <last_update_submitted>October 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 28, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Designed ankyrin repeat protein</keyword>
+  <keyword>DARPin®</keyword>
+  <keyword>fibroblast activation protein</keyword>
+  <keyword>CD40 antigen</keyword>
+  <keyword>advanced malignant solid neoplasm</keyword>
+  <keyword>relapsed malignant solid neoplasm</keyword>
+  <keyword>refractory malignant solid neoplasm</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

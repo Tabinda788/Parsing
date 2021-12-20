@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7094">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05068895</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MP of LEAD</org_study_id>
+    <nct_id>NCT05068895</nct_id>
+  </id_info>
+  <brief_title>Assessment of Metabolic Profiles of Lower Extremity Arterial Disease in Patiens Withe Type 2 Diabetes</brief_title>
+  <official_title>Assessment of Metabolic Profiles of Lower Extremity Arterial Disease in Patiens Withe Type 2 Diabetes Via LC-MS-based Nontargeted Metabolomic Approach</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Zhiming Zhu</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Third Military Medical University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The prevalence of lower extremity arterial disease (LEAD) in patients with diabetes increases&#xD;
+      significantly and are characterized with obvious arteriosclerosis that are caused by multiple&#xD;
+      metabolic disorders. Metabolomics measures the metabolites in biological fluids or tissues&#xD;
+      that generated under certain conditions via rapidly evolving high-throughput technology.&#xD;
+      Herein, the investigators designed the study to characterize the serum metabolic profiles of&#xD;
+      LEAD patients and identify metabolic biomarkers using metabolomics. The serum of volunteers,&#xD;
+      type 2 diabetes mellitus(T2DM) patients with or without LEAD were collected and analyzed&#xD;
+      using liquid chromatography-mass spectrometry(LC-MS) coupled with a series of multivariate&#xD;
+      statistical analyses.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 1, 2021</start_date>
+  <completion_date type="Anticipated">October 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 9, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Metabolic profiles of lower extremity artery disease</measure>
+    <time_frame>4 months</time_frame>
+    <description>LC-MS analysis will be performed using a Q ExactiveTM HF-X liqiud chromatograph system coupled with a Thermo ScientificTM OrbitrapTM mass spectrometer according to a previously published procedure to detect the peak, identify the metabolites and perform the PCA and OPLS-DA analyses to better visualize the subtle similarities and differences among the complex datasets.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Potential biomarker analysis for discrimination</measure>
+    <time_frame>4 months</time_frame>
+    <description>Screening for potential biomarkers will be performed according to the VIP value (VIP &gt; 1.0) and significance test (P &lt; 0.05) from the OPLS-DA model.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pathway analysis of differential metabolites</measure>
+    <time_frame>4 months</time_frame>
+    <description>Conducting pathway analysis for the significant metabolites identified by using MetaboAnalyst.</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">74</enrollment>
+  <condition>Diabetic Angiopathies</condition>
+  <condition>Diabetes Mellitus, Type 2</condition>
+  <arm_group>
+    <arm_group_label>Group1</arm_group_label>
+    <description>Volunteers with normal glucose tolerance.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group2</arm_group_label>
+    <description>type 2 diabetic patients without microvascular (retinopathy, nephropathy or neuropathy) or macrovascular (coronary, cerebrovascular or lower extremity arterial disease) complications.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group3</arm_group_label>
+    <description>type 2 diabetic patients with lower extremity artery disease diagnosed through the measurement of ABI (the ratio of ankle-to-brachial systolic blood pressure).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>liquid chromatography-mass spectrometry</intervention_name>
+    <description>Metabolomics is a rapidly evolving high-throughput technology that allows the measurement of the entire complement of metabolites generated by biochemical reactions under certain conditions in biological fluids or tissues. This technology has been used extensively to identify biomarkers in various cancers, nervous system diseases, cardiovascular diseases, pituitary diseases, and other diseases. The identification of biomarkers can be clinically useful for a more accurate diagnosis, prognosis, and treatment choice as well as disease monitoring. Among mass spectrometry (MS) methods, liquid chromatography-mass spectrometry (LC-MS) has been recognized as a robust metabolomics tool and has been widely applied in metabolite identification and quantification due to its high sensitivity, peak resolution, and repro- ducibility.</description>
+    <arm_group_label>Group1</arm_group_label>
+    <arm_group_label>Group2</arm_group_label>
+    <arm_group_label>Group3</arm_group_label>
+    <other_name>Metabolomics</other_name>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      serum&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        We collected serum samples and clinical data of 74 volunteers and patients with T2DM who&#xD;
+        hospitalized in our department from June 2021 to September 2021.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  age ranges from 18 to 100 years old&#xD;
+&#xD;
+          -  Signed informed consent and agreed to participate in this study&#xD;
+&#xD;
+          -  The diagnosis of T2DM is based on standard criteria recommended by WHO since 1999&#xD;
+&#xD;
+          -  The diagnosis of T2DM patient with LEAD is based on standard criteria recommended by&#xD;
+             Chinese guideline on prevention and management of diabetic foot (2019 edition)(II).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  younger than 18 years old or older than 100 years old&#xD;
+&#xD;
+          -  acute infection during the preceding 3 months&#xD;
+&#xD;
+          -  drugs or alcohol addicts&#xD;
+&#xD;
+          -  cancer&#xD;
+&#xD;
+          -  type 1 diabetes&#xD;
+&#xD;
+          -  patients with mental abnormality who are uncooperative with this study&#xD;
+&#xD;
+          -  pregnant or lactating women&#xD;
+&#xD;
+          -  refuse to sign informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Zhencheng Yan, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>The third hospital affiliated to the Third Military Medical University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>The third hospital affiliated to the Third Military Medical University</name>
+      <address>
+        <city>Chongqing</city>
+        <state>Chongqing</state>
+        <zip>400042</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zhencheng Yan, MD</last_name>
+      <phone>86-023-68757882</phone>
+      <email>zhenchengyan@sina.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 6, 2021</study_first_posted>
+  <last_update_submitted>September 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Third Military Medical University</investigator_affiliation>
+    <investigator_full_name>Zhiming Zhu</investigator_full_name>
+    <investigator_title>Director of the department of Hypertension &amp; Endocrinology, Daping Hospital</investigator_title>
+  </responsible_party>
+  <keyword>Diabetes Mellitus, Type 2</keyword>
+  <keyword>Lower extremity artery disease</keyword>
+  <keyword>Metabolic Profiles</keyword>
+  <keyword>Metabolic biomarkers</keyword>
+  <keyword>Metabolomics</keyword>
+  <keyword>iquid chromatography-mass spectrometry</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetic Angiopathies</mesh_term>
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

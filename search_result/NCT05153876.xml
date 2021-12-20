@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="559">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05153876</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BC-10635</org_study_id>
+    <nct_id>NCT05153876</nct_id>
+  </id_info>
+  <brief_title>An Open Internet-based Survey and Natural Language Processing Project Analysing Written Monologues by Headache Patients</brief_title>
+  <acronym>NLPH-OPEN</acronym>
+  <official_title>NLP Headache Open: an Open Internet-based Survey and Natural Language Processing Project Analysing Written Monologues by Headache Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Ghent</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Ghent</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Headache disorders are among the most prevalent medical conditions worldwide. The diagnosis&#xD;
+      of headache disorders is based on medical history taking. Digital solutions such as natural&#xD;
+      language processing (NLP) may be of aid to understand the linguistic aspects of headache&#xD;
+      attack and headache related disability descriptions by patients. Participants will provide a&#xD;
+      written description of their headache disorder. The results will hopefully lead to a better&#xD;
+      understanding of the potential use of NLP in headache disorders.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 11, 2021</start_date>
+  <completion_date type="Anticipated">January 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Ecologic or Community</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Lexical diversity and differences between migraine and cluster headache</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Chi-square measurement of a word token used by migraine patients versus cluster headache patients</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Accuracy of machine learning experiments for the correct classification of headache disorders</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Machine learning experiments to investigate the potential to build modelling algorithms that accurately classify the self-given diagnosis by the patient based on text.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>F1 scores of machine learning experiments for the correct classification of headache disorders</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Machine learning experiments to investigate the potential to build modelling algorithms that accurately classify the self-given diagnosis by the patient based on text.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Word counts</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Counts of word tokens of different headache disorder groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sentences counts</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Counts of sentence tokens of different headache disorder groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Paragraph counts</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Counts of paragraph tokens of different headache disorder groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Term-frequency inverse document frequency scores (TF-IDF)</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>TF-IDF scores of word tokens of different headache disorder groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Migraine Disabillity Assessment [MIDAS] score calculation with text input</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Machine learning experiments to investigate the potential to build modelling algorithms that accurately predict the impact score from Migraine Disabillity Assessment [MIDAS] based on text.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Migraine Specific Questionaire versie 2.1 [MSQv2.1] score calculation with text input</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Machine learning experiments to investigate the potential to build modelling algorithms that accurately predict the impact score from Migraine Specific Questionaire versie 2.1 [MSQv2.1] based on text.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>RAND SF-36 Dutch version score calculation with text input</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Machine learning experiments to investigate the potential to build modelling algorithms that accurately predict the impact score from RAND SF-36 Dutch version based on text.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Headache Disorders</condition>
+  <condition>Tension-Type Headache</condition>
+  <condition>Migraine Disorders</condition>
+  <condition>Cluster Headache</condition>
+  <condition>TACS</condition>
+  <condition>Secondary Headache Disorder</condition>
+  <arm_group>
+    <arm_group_label>Participants</arm_group_label>
+    <description>Participants filling in the questionnaires</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaires</intervention_name>
+    <description>Headache attack descriptions, Headache related disability descriptions, Questionnaires, MIDAS, MSQv2.1, SF36</description>
+    <arm_group_label>Participants</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with headache disorders&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18 year or older&#xD;
+&#xD;
+          -  Have a headache disorder with at least one headache attack over the last three months&#xD;
+&#xD;
+          -  voluntary participation&#xD;
+&#xD;
+          -  accepted the patient information sheet and gave informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Nicolas Vandenbussche, MD</last_name>
+    <phone>093324529</phone>
+    <email>neurologie.neurochirurgie@uzgent.be</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Koen Paemeleire, M.D., Ph.D.</last_name>
+    <phone>093324529</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University Hospital, Ghent: Department of Neurology</name>
+      <address>
+        <city>Ghent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nicolas Vandenbussche, MD</last_name>
+      <phone>09 332 45 29</phone>
+      <email>nicolas.vandenbussche@ugent.be</email>
+    </contact>
+    <contact_backup>
+      <last_name>Koen Paemeleire, MD PhD</last_name>
+      <phone>09 332 45 29</phone>
+      <email>koen.paemeleire@uzgent.be</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>October 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 10, 2021</study_first_posted>
+  <last_update_submitted>November 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Migraine</keyword>
+  <keyword>Natural Language Processing</keyword>
+  <keyword>Headache</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Migraine Disorders</mesh_term>
+    <mesh_term>Cluster Headache</mesh_term>
+    <mesh_term>Tension-Type Headache</mesh_term>
+    <mesh_term>Headache Disorders</mesh_term>
+    <mesh_term>Headache Disorders, Secondary</mesh_term>
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Headache</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9721">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05034718</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY21010197</org_study_id>
+    <nct_id>NCT05034718</nct_id>
+  </id_info>
+  <brief_title>Implementation of the Pittsburgh Infant Brain Injury Score</brief_title>
+  <acronym>PIBIS</acronym>
+  <official_title>Implementation of the Pittsburgh Infant Brain Injury Score</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pittsburgh</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The Beckwith Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pittsburgh</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an implementation study of the Pittsburgh Infant Brain Injury Score (PIBIS) into the&#xD;
+      UPMC Children's Hospital of Pittsburgh emergency department. Children less than 1 year of age&#xD;
+      presenting to the CHP ED for symptoms which place them at increased risk for AHT as defined&#xD;
+      in the PIBIS validation study will be potentially eligible.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Abusive head trauma is the leading cause of death due to physical abuse. Missing the&#xD;
+      diagnosis of abusive head trauma (AHT), particularly when it less severe is common and&#xD;
+      contributes to increased morbidity and mortality. Over the past 10 years, the investigators&#xD;
+      have derived and subsequently prospectively validated the Pittsburgh Infant Brain Injury&#xD;
+      Score (PIBIS), a point of care clinical decision rule to help physicians determine when it is&#xD;
+      appropriate to obtain neuroimaging in infants who present to the ED for evaluation of soft&#xD;
+      neurologic signs such as vomiting and fussiness. The results of the NIH multi-center&#xD;
+      prospective validation were published in 2016 in Pediatrics.&#xD;
+&#xD;
+      The next step in evaluating PIBIS as a clinical prediction rule is to perform an&#xD;
+      implementation study. Children less than 1 year of age presenting to the CHP ED for symptoms&#xD;
+      which place them at increased risk for AHT as defined in the PIBIS validation study will be&#xD;
+      potentially eligible.&#xD;
+&#xD;
+      Discrete fields in the electronic health record - including patient age, Emergency Severity&#xD;
+      Index (ESI), Glasgow Coma Scale (GCS) score, temperature and chief complaint - will be used&#xD;
+      to identify potentially eligible children in a systematic and efficient manner. Children who&#xD;
+      are potentially eligible based on this initial screen will trigger an alert to the nurse who&#xD;
+      will then complete a brief powerform to ensure eligibility and assess for inclusion/exclusion&#xD;
+      criteria. Due to the nature of the research, the investigators will seek a waiver of informed&#xD;
+      consent as has been done in similar studies at our institution and others. At this point,&#xD;
+      eligible children will be considered enrolled.&#xD;
+&#xD;
+      For children enrolled during the intervention period, providers will be presented with a&#xD;
+      detailed decision support strategy which encourages - but does not require - use of the PIBIS&#xD;
+      to make clinical decision re: the need for neuroimaging. For children enrolled during the&#xD;
+      control period, no other clinical decision support will occur. The duration of this&#xD;
+      evaluation period will be 24 months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">July 5, 2021</start_date>
+  <completion_date type="Anticipated">June 15, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 15, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Eligibility confirmation</measure>
+    <time_frame>From enrollment to hospital discharge, up to one month</time_frame>
+    <description>Children identified as eligible by Cerner and confirmed by the nurse powerform as eligible for PIBIS will also be determined to be eligible after chart review and discussion with the clinician (which is how eligibility was determined during the validation study). The primary outcome will be the concordance between these two methods of determining eligibility. A concordance of &gt;90% is the goal.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of children with PIBIS calculation and recommendations</measure>
+    <time_frame>From enrollment to hospital discharge, up to one month</time_frame>
+    <description>The proportion of children eligible for PIBIS who&#xD;
+have a PIBIS score calculated and&#xD;
+in whom the provider follows the recommendation by PIBIS OR documents in the EHR the clinical reasoning why they are NOT following the recommendation (e.g. patient being admitted, in-patient team will make decision).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of children who undergo neuroimaging (head CT or brain MRI) during the control and intervention periods</measure>
+    <time_frame>From enrollment to hospital discharge, up to one month</time_frame>
+    <description>The proportion of children eligible for PIBIS who undergo neuroimaging (head CT or brain MRI) during the control and intervention periods</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of neuroimaging which demonstrates an abnormality during the control and intervention periods</measure>
+    <time_frame>From enrollment to hospital discharge, up to one month</time_frame>
+    <description>Proportion of neuroimaging which demonstrates an abnormality during the control and intervention periods</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of all children with each PIBIS score who are ultimately diagnosed with physical abuse by the CHP Child Protection Team</measure>
+    <time_frame>From enrollment to hospital discharge, up to one month</time_frame>
+    <description>Proportion of all children with each PIBIS score who are ultimately diagnosed with physical abuse by the CHP Child Protection Team</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The number of enrolled children who return to the ED within 6 months of enrollment and undergo neuroimaging.</measure>
+    <time_frame>From enrollment to 6 months following hospital discharge</time_frame>
+    <description>The number of enrolled children who return to the ED within 6 months of enrollment and undergo neuroimaging.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">609</enrollment>
+  <condition>Brain Injury</condition>
+  <condition>Clinical Decision Support</condition>
+  <condition>Infant</condition>
+  <arm_group>
+    <arm_group_label>Control Arm</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Completion of nurse powerform and data collection only.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intervention Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Completion of nurse powerform, data collection and physician alert/powerform with score calculation and recommendations.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>PIBIS clinical decision support</intervention_name>
+    <description>The intervention is the presence of the PIBIS physician alert and powerform, which is clinical decision support for the treating provider if a patient meets inclusion criteria for Pittsburgh Infant Brain Injury Score (PIBIS) calculation.</description>
+    <arm_group_label>Intervention Arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of care</intervention_name>
+    <description>Standard of care, absent the PIBIS powerform and alert for providers.</description>
+    <arm_group_label>Control Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 30 days to less than 1 year&#xD;
+&#xD;
+          -  Chief complaint of Apnea, BRUE, Fussiness or Irritability, Lethargy, Neurologic&#xD;
+             complaint, Poor Feeding-Acute, Seizures/Spells, or Vomiting Alone&#xD;
+&#xD;
+          -  First temperature in the ED less than or equal to 38.3C&#xD;
+&#xD;
+          -  Acuity level/ESI of 3, 4, or 5&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of trauma related to this ED encounter&#xD;
+&#xD;
+          -  Parent reported temperature of greater than 38.3C in the prior 24 hours&#xD;
+&#xD;
+          -  Prior abnormal neuroimaging&#xD;
+&#xD;
+          -  Previously enrolled in this study within preceding 28 days&#xD;
+&#xD;
+          -  Provider preference for any reason&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>364 Days</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rachel Berger, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pittsburgh</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>UPMC Children's Hospital of Pittsburgh</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2021</verification_date>
+  <study_first_submitted>July 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>August 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 5, 2021</study_first_posted>
+  <last_update_submitted>August 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>August 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pittsburgh</investigator_affiliation>
+    <investigator_full_name>Rachel Berger MD, MPH</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Brain Injuries</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

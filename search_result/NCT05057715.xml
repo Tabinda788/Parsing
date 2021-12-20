@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7953">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05057715</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UPCC# 03821, IND #27590</org_study_id>
+    <nct_id>NCT05057715</nct_id>
+  </id_info>
+  <brief_title>huCART-meso + VCN-01 in Pancreatic and Ovarian Cancer</brief_title>
+  <official_title>Phase 1 Trial of Human Chimeric Antigen Receptor Modified T Cells (huCART-meso) Administered in Combination With VCN-01 in Patients With Pancreatic and Serous Epithelial Ovarian Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>VCN Biosciences, S.L.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase I study evaluating the safety and feasibility of lentiviral transduced&#xD;
+      huCART-meso cells when given in combination with VCN-01 in a 3+3 dose (de)escalation design.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase I study evaluating the safety and feasibility of lentiviral transduced&#xD;
+      huCART-meso cells when given in combination with VCN-01 in a 3+3 dose (de)escalation design&#xD;
+      as follows:&#xD;
+&#xD;
+        -  Cohort 1 (N = 3-6): will receive VCN-01 as a single IV infusion of 3.3x1012 vp on Day 0,&#xD;
+           followed by a single dose of 5x107 huCART-meso cells on Day 14 via IV infusion. This&#xD;
+           cohort will be evaluated as follows:&#xD;
+&#xD;
+             -  If 1 DLT/3 subjects occurs, Cohort 1 will be expanded to enroll an additional 3&#xD;
+                evaluable subjects.&#xD;
+&#xD;
+             -  If 0 DLT/3 subjects or 1 DLT/6 subjects, the study will advance to Cohort 2.&#xD;
+&#xD;
+        -  Cohort 2 (N = 3-6): will receive VCN-01 as a single IV infusion of 1x1013 vp on Day 0&#xD;
+           followed by a single dose of 5x107 cells huCART-meso cells on Day 14 via IV infusion.&#xD;
+           This cohort will be evaluated as follows:&#xD;
+&#xD;
+             -  If 0 DLT/3 subjects or 1 DLT/3 subjects occurs, Cohort 2 will be expanded to enroll&#xD;
+                an additional 3 evaluable subjects. If 0 DLT/6 subjects or 1 DLT/6 subjects occurs,&#xD;
+                this dose combination will be defined as the recommended phase 2 dose (RP2D).&#xD;
+&#xD;
+             -  If 2 DLTs occur at any time, enrollment in this Cohort will be stopped. If less&#xD;
+                than 6 subjects were infused in Cohort 1 prior to Cohort 2 escalation, an&#xD;
+                additional 3 evaluable subjects will be infused at the Cohort 1 dose level to&#xD;
+                further demonstrate safety and to confirm Cohort 1 as the RP2D (with 0 DLT/6&#xD;
+                subjects or 1 DLT/6 subjects).&#xD;
+&#xD;
+      In the event that 2 DLTs occur in Cohort 1, then enrollment in Cohort 1 will be stopped and&#xD;
+      Cohort -1 will be opened for evaluation. Cohort -1 will evaluate a different sequence of&#xD;
+      administration for these two investigational products at the same dose level used in Cohort&#xD;
+      1.&#xD;
+&#xD;
+      • Cohort -1 (N = up to 6): will receive a single dose of 5x107 huCART-meso cells via IV&#xD;
+      infusions on Day 0 followed by VCN-01 as a single infusion of 3.3x1012 vp on Day 10. Up to 6&#xD;
+      subjects will be infused in Cohort -1 unless &gt; 1 DLTs are observed at any time.&#xD;
+&#xD;
+      The Day 0 infusions of the first two subjects in each cohort will be staggered by at least 42&#xD;
+      days from the prior subject's 1st infusion (huCART-meso or VCN-01; depending on the cohort&#xD;
+      assignment), to allow for the assessment of DLTs and a formal decision regarding cohort&#xD;
+      progression, expansion, or de-escalation. Subsequent subject infusions within that cohort&#xD;
+      will be staggered by at least 14 days from the preceding subject's second infusion. Formal&#xD;
+      DLT assessments will be performed by the Clinical PI and Sponsor Medical Director in&#xD;
+      accordance with the definition provided in the protocol.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2021</start_date>
+  <completion_date type="Anticipated">September 2038</completion_date>
+  <primary_completion_date type="Anticipated">September 2038</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>3+3</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Type, frequency, severity, and attribution of AEs/SAEs as assessed by CTCAE v 5.0</measure>
+    <time_frame>2 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects enrolled who receive one or both of the intended study infusions</measure>
+    <time_frame>2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response Rate (ORR)</measure>
+    <time_frame>15 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Best Overall Response (BOR)</measure>
+    <time_frame>15 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DOR)</measure>
+    <time_frame>15 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>15 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>15 years</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Pancreatic Cancer</condition>
+  <condition>Serous Ovarian Cancer</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Single dose of 3.3x10(12) vp of VCN-01 on Day 0, followed by a single dose of 5x10(7) of huCART-meso cells on Day 14.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Single dose of 1x10(13) vp of VCN-01 on Day 0, followed by a single dose of 5x10(7) of huCART-meso cells on Day 14.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort -1</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>In the event that 2 DLTs occur in Cohort 1, then enrollment in Cohort 1 will be stopped and Cohort -1 will be opened for evaluation. Enrolled subjects will receive a single dose of huCART-meso cells on Day 0 followed by a single dose of 3.3x10(12) vp of VCN-01 on Day 14.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>VCN-01</intervention_name>
+    <description>Intravenous administration of VCN-01</description>
+    <arm_group_label>Cohort -1</arm_group_label>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>huCART-meso Cells</intervention_name>
+    <description>Intravenous administration of huCART-meso cells</description>
+    <arm_group_label>Cohort -1</arm_group_label>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients with one of the following diagnoses:&#xD;
+&#xD;
+               1. Histologically confirmed unresectable or metastatic pancreatic adenocarcinoma; OR&#xD;
+&#xD;
+               2. Persistent or recurrent serous epithelial ovarian cancer&#xD;
+&#xD;
+          2. Progression or intolerance to at least one prior standard of care chemotherapy for&#xD;
+             advanced stage disease.&#xD;
+&#xD;
+          3. Subjects must have measurable disease as defined by RECIST 1.1 criteria.&#xD;
+&#xD;
+          4. Patients ≥ 18 years of age.&#xD;
+&#xD;
+          5. Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.&#xD;
+&#xD;
+          6. Adequate organ and bone marrow function defined as:&#xD;
+&#xD;
+               1. Hemoglobin ≥ 9 g/dL&#xD;
+&#xD;
+               2. Platelets ≥ 75,000/µl&#xD;
+&#xD;
+               3. PT/INR and PTT ≤ 1.5 x ULN&#xD;
+&#xD;
+               4. Bilirubin ≤ 2.0 x ULN&#xD;
+&#xD;
+               5. Creatinine ≤ 1.5 x ULN&#xD;
+&#xD;
+               6. ALT/AST ≤ 5 x ULN (subjects with liver metastases) or ALT/AST ≤ 2.5 x ULN&#xD;
+                  (subjects without liver metastases)&#xD;
+&#xD;
+               7. Must have a minimum level of pulmonary reserve defined as ≤ Grade 1 dyspnea and&#xD;
+                  pulse oxygen &gt; 92% on room air&#xD;
+&#xD;
+               8. Left Ventricle Ejection Fraction (LVEF) ≥ 40% confirmed by ECHO/MUGA&#xD;
+&#xD;
+          7. Provides written informed consent.&#xD;
+&#xD;
+          8. Subjects of reproductive potential must agree to use acceptable birth control methods,&#xD;
+             as described in the protocol&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients with known CNS metastases&#xD;
+&#xD;
+          2. Active invasive cancer other than the one of the two cancers targeted by this study.&#xD;
+             Patients with active non-invasive cancers (such as non-melanoma skin cancer,&#xD;
+             superficial cervical and bladder and prostate cancer with PSA level &lt; 1.0) are not&#xD;
+             excluded.&#xD;
+&#xD;
+          3. Active hepatitis B or hepatitis C infection.&#xD;
+&#xD;
+          4. Chronic hepatitis C with a FibroScan score equivalent to fibrosis stage 2 (F2) or&#xD;
+             greater.&#xD;
+&#xD;
+          5. Patients with known cirrhosis.&#xD;
+&#xD;
+          6. Patients with ongoing or active infection.&#xD;
+&#xD;
+          7. Patients with a known history of Li Fraumeni syndrome or retinoblastoma protein&#xD;
+             pathway germinal deficiency.&#xD;
+&#xD;
+          8. Active autoimmune disease requiring systemic immunosuppressive treatment equivalent to&#xD;
+             ≥ 10 mg of prednisone. Patients with autoimmune neurologic diseases (such as MS) will&#xD;
+             be excluded.&#xD;
+&#xD;
+          9. Planned concurrent treatment with systemic high dose corticosteroids. Patients may be&#xD;
+             on a stable low dose of steroids (≤ 10mg equivalent of prednisone). Use of inhaled&#xD;
+             steroids is allowable.&#xD;
+&#xD;
+         10. Patients requiring supplemental oxygen therapy.&#xD;
+&#xD;
+         11. History of allergy or hypersensitivity to study product excipients (human serum&#xD;
+             albumin, DMSO, and Dextran 40).&#xD;
+&#xD;
+         12. Any clinically significant pericardial effusion, Class II-IV cardiovascular disability&#xD;
+             according to the New York Heart Association Classification (see Appendix 4) or other&#xD;
+             cardiovascular condition that would preclude assessment of mesothelin induced&#xD;
+             pericarditis or that may worsen as a result of toxicities expected for this study.&#xD;
+             This determination will be made by a cardiologist if cardiac issues are suspected.&#xD;
+&#xD;
+         13. Pregnant or breastfeeding women.&#xD;
+&#xD;
+         14. Treatment with a PD-1 or PD-L1 inhibitor, including but not limited to nivolumab,&#xD;
+             pembrolizumab, atezolizumab, and/or durvalumab, within 2 months prior to eligibility&#xD;
+             confirmation by a physician-investigator.&#xD;
+&#xD;
+         15. Patients with significant lung disease as follows:&#xD;
+&#xD;
+               1. Patients with radiographic evidence of greater than lobar lymphangitic pulmonary&#xD;
+                  involvement, greater than lobar bronchial wall thickening suggestive of&#xD;
+                  peribronchial lymphatic disease extension, and/or evidence of extensive bilateral&#xD;
+                  parenchymal metastatic burden.&#xD;
+&#xD;
+               2. Patients with radiographic and/or clinical evidence of active radiation&#xD;
+                  pneumonitis.&#xD;
+&#xD;
+               3. Patients with radiographic evidence of underlying interstitial lung disease,&#xD;
+                  including evidence of unresolved drug toxicity from any agent (e.g. chemotherapy,&#xD;
+                  targeted agents, amiodarone, nitrofurantoin, etc.)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Janos L. Tanyi, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pennsylvania</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Abramson Cancer Center Clinical Trials Services</last_name>
+    <phone>855-216-0098</phone>
+    <email>PennCancerTrials@emergingmed.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Janos L. Tanyi, MD, PhD</last_name>
+    <phone>855-216-0098</phone>
+    <email>PennCancerTrials@emergingmed.com</email>
+  </overall_contact_backup>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 27, 2021</study_first_posted>
+  <last_update_submitted>October 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ovarian Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Ovarian Epithelial</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1642">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05139784</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C20-61</org_study_id>
+    <secondary_id>2021-A01619-32</secondary_id>
+    <nct_id>NCT05139784</nct_id>
+  </id_info>
+  <brief_title>BeAT1D: Benign Autoimmunity and Type 1 Diabetes</brief_title>
+  <acronym>BeAT1D</acronym>
+  <official_title>BeAT1D: Benign Autoimmunity and Type 1 Diabetes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Institut National de la Santé Et de la Recherche Médicale, France</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Institut National de la Santé Et de la Recherche Médicale, France</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      National multi-center non-interventional case-control cohort study with collection of&#xD;
+      biological samples to characterize the autoimmune T and B lymphocytes involved in the&#xD;
+      development of type 1 diabetes.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The overall objective of this study is to define the differential characteristics of&#xD;
+      autoimmune T and B lymphocytes across individuals with T1D, other forms of diabetes or&#xD;
+      autoimmunity, and no disease. The hypothesis is that the characterization of the autoimmune T&#xD;
+      and B lymphocytes involved in T1D development may allow us to clarify the pathophysiological&#xD;
+      mechanisms of disease and to identify novel biomarkers for diagnostic, prognostic and&#xD;
+      therapeutic follow-up applications.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2022</start_date>
+  <completion_date type="Anticipated">December 2027</completion_date>
+  <primary_completion_date type="Anticipated">December 2027</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To define the frequency and phenotype of autoimmune T lymphocytes reactive to islet antigens in the different study groups.</measure>
+    <time_frame>6 years</time_frame>
+    <description>As measured by flow cytometry and sequencing techniques, with a sample size sufficient to attain a 92% statistical power and 5% alpha risk.&#xD;
+Frequency will be expressed as number of antigen-reactive T lymphocytes per 100,000 total T lymphocytes (e.g. 20/100,000 or 0.02%).&#xD;
+Phenotype will be expressed as percent of antigen-reactive T lymphocytes expressing a given phenotype, e.g. 20% naïve (CD45RA+CCR7+).&#xD;
+These 2 measures will be aggregated by expressing the frequency of antigen-reactive T lymphocytes per 100,000 total T lymphocytes expressing a given phenotype, e.g. 20/100,000 antigen-reactive T lymphocytes with 20% naïve will be expressed as 4/100,000 naive antigen-reactive T lymphocytes.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To define the frequency and phenotype of autoimmune B lymphocytes reactive to islet antigens in the different study groups.</measure>
+    <time_frame>6 years</time_frame>
+    <description>As measured by flow cytometry and sequencing techniques, with a sample size sufficient to attain a 92% statistical power and 5% alpha risk.&#xD;
+Frequency will be expressed as number of antigen-reactive B lymphocytes per 100,000 total B lymphocytes (e.g. 20/100,000 or 0.02%).&#xD;
+Phenotype will be expressed as percent of antigen-reactive B lymphocytes expressing a given phenotype, e.g. 20% memory (CD24+CD38-negative).&#xD;
+These 2 measures will be aggregated by expressing the frequency of antigen-reactive B lymphocytes per 100,000 total B lymphocytes expressing a given phenotype, e.g. 20/100,000 antigen-reactive B lymphocytes with 20% memory will be expressed as 4/100,000 memory antigen-reactive B lymphocytes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To identify novel islet epitopes recognized by autoimmune T and B lymphocytes.</measure>
+    <time_frame>6 years</time_frame>
+    <description>As measured by a lymphocyte frequency within the expected range, e.g. 1-50/million.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To define the phenotype of these lymphocytes.</measure>
+    <time_frame>6 years</time_frame>
+    <description>As defined by exploratory analyses based on omics techniques.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To define the pathogenicity of these lymphocytes against pancreatic beta cells.</measure>
+    <time_frame>6 years</time_frame>
+    <description>As measured by an in vitro killing of beta-cell targets significantly (e.g. &gt;2-fold) higher than the killing observed with control lymphocytes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To define the antigen receptors used by these lymphocytes to recognize their target epitopes.</measure>
+    <time_frame>6 years</time_frame>
+    <description>As defined by sequencing techniques and sequence annotation using IMGT and MiXCR. Sequence sharing and similarities across receptors will be measured using MiXCR and stringdist.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To define the correlation between the biomarkers analyzed and insulin secretion.</measure>
+    <time_frame>6 years</time_frame>
+    <description>As measured based on the correlation with fasting C-peptide levels &gt;0.2 nM.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To define the differences between lymphocytes in the blood and those in pancreatic lymph nodes.</measure>
+    <time_frame>6 years</time_frame>
+    <description>As measured using the previous frequency and phenotype readouts.</description>
+  </secondary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">740</enrollment>
+  <condition>Type 1 Diabetes</condition>
+  <arm_group>
+    <arm_group_label>Type 1 diabetes</arm_group_label>
+    <description>As defined by the presence of hyperglycemia and/or islet auto-antibodies.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Other forms of diabetes or autoimmune endocrinopathy</arm_group_label>
+    <description>Type 2 diabetes, ketosis-prone diabetes, familial diabetes, secondary diabetes, immunotherapy-induced diabetes; and/or autoimmune endocrinopathies.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No diabetes</arm_group_label>
+    <description>No diabetes or impaired glucose tolerance; no cancer, infectious or immune pathologies; no other condition related to autoimmune and metabolic alterations that may bias the variables under study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lymphadenectomy planned at the occasion of an abdominal surgery</arm_group_label>
+    <description>Patients undergoing a lymphadenectomy during surgery for the treatment of their underlying pathology.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Biosampling</intervention_name>
+    <description>Collection of blood and stool specimens; and collection of lymph node specimens for the group undergoing surgical lymphadenectomy.</description>
+    <arm_group_label>Lymphadenectomy planned at the occasion of an abdominal surgery</arm_group_label>
+    <arm_group_label>No diabetes</arm_group_label>
+    <arm_group_label>Other forms of diabetes or autoimmune endocrinopathy</arm_group_label>
+    <arm_group_label>Type 1 diabetes</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood, stools, lymph nodes&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants with type 1 diabetes, other forms of diabetes or autoimmune endocrinopathies&#xD;
+        and participants undergoing surgical lymphadenectomy are recruited among patients referred&#xD;
+        to participating hospital centers.&#xD;
+&#xD;
+        Non-diabetic participants are recruited among patient's family members and via at-large&#xD;
+        calls for healthy volunteers.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Type 1 diabetes: type 1 diabetes, as defined by hyperglycemia and long-term insulin&#xD;
+             therapy started within 6 months from clinical onset; and/or the presence of at least&#xD;
+             one anti-islet auto-antibody.&#xD;
+&#xD;
+          2. Other forms of diabetes or autoimmune endocrinopathy: other forms of diabetes (e.g.&#xD;
+             type 2, ketosis-prone, familial, secondary, immunotherapy-induced diabetes); and/or&#xD;
+             other autoimmune endocrinopathies, isolated or multiple.&#xD;
+&#xD;
+          3. No diabetes: absence of diabetes or impaired glucose tolerance; absence of tumor,&#xD;
+             infectious or immune pathologies, or other conditions related to autoimmune or&#xD;
+             metabolic alterations that may bias the variables under study.&#xD;
+&#xD;
+          4. Lymphadenectomy planned in the frame of an abdominal surgery: pancreatic&#xD;
+             lymphadenectomy planned at the occasion of an abdominal surgery for the treatment of&#xD;
+             an underlying condition.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        For all participants: ongoing pregnancy; known HIV/HCV infection; absence of social&#xD;
+        security coverage; placement under judicial protection; absence of signature of the&#xD;
+        informed study consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Roberto Mallone, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>INSERM U1016 Cochin Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Roberto Mallone, MD PhD</last_name>
+    <phone>+33176535583</phone>
+    <email>roberto.mallone@inserm.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Anna Jones</last_name>
+    <email>anna.jones@inserm.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>APHP Hôpital Avicenne</name>
+      <address>
+        <city>Bobigny</city>
+        <state>Ile-de-France</state>
+        <zip>93000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Emmanuel Cosson, MD PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>APHP Hôpital J. Verdier</name>
+      <address>
+        <city>Bondy</city>
+        <state>Ile-de-France</state>
+        <zip>93140</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Nadine Lucidarme, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Auriane Gibert, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHP Hôpital L. Mourier</name>
+      <address>
+        <city>Colombes</city>
+        <state>Ile-de-France</state>
+        <zip>92700</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Stéphanie Gréteau-Hamoumou, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Sud Francilien</name>
+      <address>
+        <city>Corbeil-Essonnes</city>
+        <state>Ile-de-France</state>
+        <zip>91100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Alfred Penfornis, MD PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Mignot - Service de Pédiatrie</name>
+      <address>
+        <city>Le Chesnay</city>
+        <state>Ile-de-France</state>
+        <zip>78150</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Catherine Ajzenman, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Mignot - Services de Diabétologie/Endocrinologie Adultes</name>
+      <address>
+        <city>Le Chesnay</city>
+        <state>Ile-de-France</state>
+        <zip>78150</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jean-Paul Beressi, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>APHP Hôpital Kremlin-Bicêtre</name>
+      <address>
+        <city>Le Kremlin-Bicêtre</city>
+        <state>Ile-de-France</state>
+        <zip>94270</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Cécile Petit-Bibal, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>APHP Hôpital Lariboisière</name>
+      <address>
+        <city>Paris</city>
+        <state>Ile-de-France</state>
+        <zip>75010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jean-François Gautier, MD PhD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Jean-Pierre Riveline, MD PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHP Hôpital Saint Antoine</name>
+      <address>
+        <city>Paris</city>
+        <state>Ile-de-France</state>
+        <zip>75012</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Bruno Fève, MD PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>APHP Hôpital Pitié-Salpêtrière - Service de Chirurgie</name>
+      <address>
+        <city>Paris</city>
+        <state>Ile-de-France</state>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sébastien Gaujoux, MD PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Pitié-Salpêtrière - Service de Diabétologie</name>
+      <address>
+        <city>Paris</city>
+        <state>Ile-de-France</state>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Chloé Amouyal, MD PhD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Fabrizio Andreelli, MD PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APHP Hôpital Cochin - Service de Chirurgie</name>
+      <address>
+        <city>Paris</city>
+        <state>Ile-de-France</state>
+        <zip>75014</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Pierre-Philippe Massault, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>APHP Hôpital Cochin - Service de Diabétologie et Immunologie Clinique</name>
+      <address>
+        <city>Paris</city>
+        <state>Ile-de-France</state>
+        <zip>75014</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Etienne Larger, MD PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>APHP Hôpital Européen G. Pompidou</name>
+      <address>
+        <city>Paris</city>
+        <state>Ile-de-France</state>
+        <zip>75015</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Alina Radu, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>APHP Hôpital Bichat</name>
+      <address>
+        <city>Paris</city>
+        <state>Ile-de-France</state>
+        <zip>75018</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ronan Roussel, MD PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>APHP Hôpital R. Debré</name>
+      <address>
+        <city>Paris</city>
+        <state>Ile-de-France</state>
+        <zip>75019</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Elise Bismuth, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital René Dubos</name>
+      <address>
+        <city>Pontoise</city>
+        <state>Ile-de-France</state>
+        <zip>95300</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Catherine Campinos, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 1, 2021</study_first_posted>
+  <last_update_submitted>November 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Type 1 diabetes</keyword>
+  <keyword>Autoimmunity</keyword>
+  <keyword>Lymphocytes</keyword>
+  <keyword>Beta cells</keyword>
+  <keyword>Biomarkers</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 1</mesh_term>
+    <mesh_term>Autoimmune Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

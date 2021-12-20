@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="7316">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05066009</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00002651</org_study_id>
+    <nct_id>NCT05066009</nct_id>
+  </id_info>
+  <brief_title>Sleep/Wake State Assessment With Non-invasive Earbuds</brief_title>
+  <official_title>Feasibility of Detecting Within Subject Differences in Sleepiness With NextSense Earbud Electroencephalography Devices</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Emory University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>NextSense, Inc</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Emory University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a within subject's assessment of whether a novel wearable technology, NextSense&#xD;
+      electroencephalography earbuds (EEGBuds), is able to detect differences in onset to sleep&#xD;
+      from wake versus in-laboratory, gold-standard electroencephalography (EEG) utilized as part&#xD;
+      of a standard four trial Maintenance of Wakefulness Test (MWT) at medicated baseline versus&#xD;
+      free of prescribed medications for promoting wake (random order).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Detection of &quot;sleepiness&quot; has for more than four decades relied upon methods that acquire the&#xD;
+      electroencephalogram (EEG) from multiple surface electrodes applied to the scalp and hardware&#xD;
+      that amplifies and stores information on a central processing unit (CPU). There are&#xD;
+      substantial limitations to this methodology beyond the fact that it is time, labor, and cost&#xD;
+      intensive. Such procedures restrict a subject's freedom of movement and necessitate that&#xD;
+      patients are monitored by trained staff in an accredited laboratory which levies substantial&#xD;
+      time and financial burdens upon patients and families. Finally, the test-re-test reliability&#xD;
+      and utility of testing paradigms reliant solely on an EEG 'signature' to detect statistically&#xD;
+      meaningful - let alone clinically meaningful - changes is dubious, and has come under&#xD;
+      increased scrutiny.&#xD;
+&#xD;
+      This study will assess whether novel wearable technology (NextSense EEGBuds and/or Ellcie&#xD;
+      Healthy Glasses) are able to detect differences in onset to sleep in patients diagnosed as&#xD;
+      having one of the central disorders of hypersomnolence (e.g., narcolepsy type 1 or type 2, or&#xD;
+      idiopathic hypersomnia) while using their prescribed wake promoting medication(s) versus&#xD;
+      while they are not medicated, and how it's sensitivity compares to differences as detected by&#xD;
+      the standard MWT. The two study visits will occur within 16 days of one another.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 13, 2021</start_date>
+  <completion_date type="Anticipated">January 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Single (Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in sleep onset latency</measure>
+    <time_frame>Study visits 1 and 2 (up to 16 days)</time_frame>
+    <description>Sleep onset latency is the time in minutes it takes to transition from wakefulness to sleep. Within-individual change in the mean onset to sleep will be assessed from the two MWT sessions performed as detected by NextSense EEGBuds.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Intraclass correlation between measurement methods</measure>
+    <time_frame>Up to 16 days</time_frame>
+    <description>The coefficient of intraclass correlation (ICC) between the individual sleep onset latencies as derived by NextSense EEGBuds vs. those revealed by gold standard EEG and conventional scoring. Higher correlation values (typically 0.75 to 1.00) indicate greater agreement between the measurements.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">8</enrollment>
+  <condition>Hypersomnolence</condition>
+  <arm_group>
+    <arm_group_label>Prescribed medication followed by drug holiday</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will complete the study assessments on a day when they take their prescribed medication(s) to promote wakefulness and then will repeat the study assessments on a day when they do not take the medication.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Drug holiday followed by prescribed medication</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will complete the study assessments on a day when they do not take their prescribed medication(s) to promote wakefulness and then will repeat the study assessments on a day when they take their medication as prescribed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>NextSense EEG-enabled earbuds</intervention_name>
+    <description>Each NextSense EEGBud device comes with a custom-fit earmold with biometric sensors to detect the EEG, motion (via tri-axial accelerometers), and heart rate. A unique custom mold is created employing a 3D printer to capture the geometry of a patients' ear and external auditory canal with a ring laser scanner to an accuracy of within 0.1 mm. This design process allows for a custom fit, and therefore both comfort and complete, consistent contact with the inner surface of the ear canal, providing high quality signal capture of brain activity, and head and eye movements.</description>
+    <arm_group_label>Drug holiday followed by prescribed medication</arm_group_label>
+    <arm_group_label>Prescribed medication followed by drug holiday</arm_group_label>
+    <other_name>EEGBud</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Ellcie Healthy eyeglasses</intervention_name>
+    <description>Ellcie Healthy glasses frames are embedded with multi-modal sensors for measuring eye movements, head movement, and ECG.</description>
+    <arm_group_label>Drug holiday followed by prescribed medication</arm_group_label>
+    <arm_group_label>Prescribed medication followed by drug holiday</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Drug Holiday</intervention_name>
+    <description>Participants will not take their prescribed wakefulness promoting medication(s) for one day to complete the study assessments. Medications typically used to promote wakefulness include amphetamine salts (Adderall), armodafinil (Nuvigil), clarithromycin (Biaxin), flumazenil, methylphenidate (Ritalin), and modafinil (Provigil).</description>
+    <arm_group_label>Drug holiday followed by prescribed medication</arm_group_label>
+    <arm_group_label>Prescribed medication followed by drug holiday</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults ages 18-60 years of age previously diagnosed with narcolepsy type I (NT1),&#xD;
+             narcolepsy type 2 (NT2), or idiopathic hypersomnia (IH).&#xD;
+&#xD;
+          -  Requiring daily wake promoting medication(s) continuously for 3 months for diagnosed&#xD;
+             NT1, NT2 or IH with symptomatic improvement on treatment documented by standard&#xD;
+             subjective or objective tools.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Presence of a diagnosed or suspected co-morbid sleep-related breathing disorder,&#xD;
+             parasomnia, or other sleep-related movement disorder.&#xD;
+&#xD;
+          -  Unstable psychiatric disorder (e.g., acute psychosis, acute suicidal ideation or major&#xD;
+             depressive episode, active substance abuse/dependence).&#xD;
+&#xD;
+          -  History of malignancy (active or in remission for &lt; 2 years) or active infectious&#xD;
+             disease at time of screening.&#xD;
+&#xD;
+          -  Inability to safely tolerate wearing earbuds due to recent injury, skin breakdown, or&#xD;
+             infection.&#xD;
+&#xD;
+          -  Uncorrected near visual acuity no worse than 20/50.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Rye, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Emory University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>David Rye, MD, PhD</last_name>
+    <phone>404-712-7533</phone>
+    <email>drye@emory.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Emory Sleep Center</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30329</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>September 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 4, 2021</study_first_posted>
+  <last_update_submitted>October 20, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 20, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Emory University</investigator_affiliation>
+    <investigator_full_name>David Rye</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Narcolepsy type 1</keyword>
+  <keyword>Narcolepsy type 2</keyword>
+  <keyword>Idiopathic hypersomnia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Disorders of Excessive Somnolence</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

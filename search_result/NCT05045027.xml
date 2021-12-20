@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8928">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05045027</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-000514</org_study_id>
+    <secondary_id>NCI-2021-08698</secondary_id>
+    <nct_id>NCT05045027</nct_id>
+  </id_info>
+  <brief_title>Simultaneous Multinuclear Metabolic MRI in Newly Diagnosed or Recurrent Glioma</brief_title>
+  <official_title>Simultaneous Multinuclear (Na+/H+) Metabolic MRI in Brain Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Jonsson Comprehensive Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>United States Department of Defense</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Jonsson Comprehensive Cancer Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This clinical trial constructs and tests a novel multinuclear metabolic magnetic resonance&#xD;
+      imaging (MRI) sequence in patients with glioma (brain tumor) that is newly diagnosed or has&#xD;
+      come back (recurrent). This trial aims to develop new diagnostic imaging technology that may&#xD;
+      bridge gaps between early detection and diagnosis, prognosis, and treatment in brain cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:&#xD;
+&#xD;
+      I. Construct and test a novel multinuclear Na+-H+ metabolic MRI sequence with sensitivity to&#xD;
+      Sodium (Na+) concentration, Potential of Hydrogen (pH), and oxygen (O2).&#xD;
+&#xD;
+      II. Correlate Na+-, pH-, and O2-weighted MR image measurements with sodium-proton exchanger&#xD;
+      isoform-1 (NHE1) immunohistochemistry (IHC), bioenergetics, and gene expression using&#xD;
+      stereotactic image-guided biopsies from human brain tumors.&#xD;
+&#xD;
+      III. Quantify changes in Na+-, pH-, and O2-weighted MR images after neoadjuvant anti-PD-1&#xD;
+      immunotherapy in recurrent glioblastoma (GBM) and explore associated changes in tumor&#xD;
+      biology.&#xD;
+&#xD;
+      OUTLINE:&#xD;
+&#xD;
+      AIM 1: Previous scan data from healthy subjects is collected and analyzed.&#xD;
+&#xD;
+      AIM 2: Patients undergo MRI. Patients also undergo collection of tissue samples for IHC&#xD;
+      analysis.&#xD;
+&#xD;
+      AIM 3: Patients undergo multinuclear metabolic imaging before and after immunotherapy and&#xD;
+      prior to surgical resection.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 1, 2021</start_date>
+  <completion_date type="Anticipated">September 10, 2027</completion_date>
+  <primary_completion_date type="Anticipated">September 10, 2026</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>AIM 1: Previous scan data from healthy subjects is collected and analyzed. AIM 2: Patients undergo MRI. Patients also undergo collection of tissue samples for IHC analysis.&#xD;
+AIM 3: Patients undergo multinuclear metabolic imaging before and after immunotherapy and prior to surgical resection.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Total sodium concentration</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Will calculate NaT using standard methodology and normalize it to ocular Na+ concentration, a constant 135 mmol/l. Will then test whether healthy tissue has a coefficient of variance (COV) of &lt; 10% across all 20 subjects.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>NHE1 expression</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Will create a comprehensive map of genes/pathways and unique cell subsets associated with NHE1 expression.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tumor metabolism</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Will examine the correlation between baseline tumor metabolism and change in metabolism with respect to overall survival using Cox multivariable regression.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Glioma</condition>
+  <condition>Malignant Glioma</condition>
+  <condition>Recurrent Glioma</condition>
+  <condition>Recurrent Malignant Glioma</condition>
+  <arm_group>
+    <arm_group_label>Basic science (MRI, metabolic imaging, tissue collection)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>AIM 1: Previous scan data from healthy subjects is collected and analyzed.&#xD;
+AIM 2: Patients undergo MRI. Patients also undergo collection of tissue samples for IHC analysis.&#xD;
+AIM 3: Patients undergo multinuclear metabolic imaging before and after immunotherapy and prior to surgical resection.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Biospecimen Collection</intervention_name>
+    <description>Undergo collection of tissue samples</description>
+    <arm_group_label>Basic science (MRI, metabolic imaging, tissue collection)</arm_group_label>
+    <other_name>Biological Sample Collection</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Diagnostic Imaging</intervention_name>
+    <description>Undergo multinuclear metabolic imaging</description>
+    <arm_group_label>Basic science (MRI, metabolic imaging, tissue collection)</arm_group_label>
+    <other_name>Medical Imaging</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Magnetic Resonance Imaging</intervention_name>
+    <description>Undergo MRI</description>
+    <arm_group_label>Basic science (MRI, metabolic imaging, tissue collection)</arm_group_label>
+    <other_name>Magnetic Resonance Imaging Scan</other_name>
+    <other_name>Medical Imaging, Magnetic Resonance / Nuclear Magnetic Resonance</other_name>
+    <other_name>MR Imaging</other_name>
+    <other_name>MRI</other_name>
+    <other_name>MRI Scan</other_name>
+    <other_name>NMR Imaging</other_name>
+    <other_name>NMRI</other_name>
+    <other_name>Nuclear Magnetic Resonance Imaging</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  AIM 1: Healthy volunteers with no evidence of brain tumors or neurologic disease&#xD;
+&#xD;
+          -  AIM 1: Age 18+&#xD;
+&#xD;
+          -  AIM 2: Newly diagnosed or recurrent suspected or confirmed glioma (low or high grade)&#xD;
+&#xD;
+          -  AIM 2: 10 IDH mutant and 10 IDH wild type gliomas&#xD;
+&#xD;
+          -  AIM 2: Clinically indicated for resective surgery or biopsy&#xD;
+&#xD;
+          -  AIM 2: Age 18+&#xD;
+&#xD;
+          -  AIM 2: Tumor size &gt; 1x1x1 cm (measurable)&#xD;
+&#xD;
+          -  AIM 3: Recurrent glioma enrolled in an immunotherapy trial or clinically indicated to&#xD;
+             receive immunotherapy including anti-PD1&#xD;
+&#xD;
+          -  AIM 3: Age 18+&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  AIM 1: Cannot safely perform an MRI&#xD;
+&#xD;
+          -  AIM 1: Age &lt; 18&#xD;
+&#xD;
+          -  AIM 2: Cannot safely perform an MRI or use of MRI contrast agents&#xD;
+&#xD;
+          -  AIM 2: Age &lt; 18&#xD;
+&#xD;
+          -  AIM 3: Cannot safely perform an MRI or use of MRI contrast agents&#xD;
+&#xD;
+          -  AIM 3: Age &lt; 18&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Benjamin M Ellingson</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UCLA / Jonsson Comprehensive Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Halah Mansour</last_name>
+    <phone>310-794-5380</phone>
+    <email>halahmansour@mednet.ucla.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Saima Chaabane</last_name>
+    <phone>310-794-8995</phone>
+    <email>schaabane@mednet.ucla.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>UCLA / Jonsson Comprehensive Cancer Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Halah Mansour</last_name>
+      <phone>310-794-5380</phone>
+      <email>halahmansour@mednet.ucla.eduCLA.EDU</email>
+    </contact>
+    <investigator>
+      <last_name>Benjamin M. Ellingson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 16, 2021</study_first_posted>
+  <last_update_submitted>September 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 28, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glioma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

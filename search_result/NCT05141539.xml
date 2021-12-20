@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1507">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05141539</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COA. MURA2021/73</org_study_id>
+    <nct_id>NCT05141539</nct_id>
+  </id_info>
+  <brief_title>Rehabilitation Assessment and Progress Tracking System Based on Video Images for Dysphagic Patients</brief_title>
+  <official_title>Rehabilitation Assessment and Progress Tracking System Based on Video Images for Dysphagic Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mahidol University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Mahidol University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The current cervical range of motion (CROM) and tongue movement measurement methods are not&#xD;
+      reliable between observers, which is not practical in real-world usage. This research is to&#xD;
+      develop the cervical range of motion measurement, and tongue movement estimation software, to&#xD;
+      compare between the developed software and the current measurement techniques, and to test in&#xD;
+      clinical aspects for reliability and validity assessment. The investigators investigate the&#xD;
+      developed software in healthy people in phase 1. In phases 2 and 3, the investigators compare&#xD;
+      the software to the standard measurement methods in dysphagic patients who have head and neck&#xD;
+      cancer for reliability and validity.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2021</start_date>
+  <completion_date type="Anticipated">March 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 28, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Intra-rater reliability between the developed rehabilitation assessment software and the standard CROM measurement method.</measure>
+    <time_frame>One hour</time_frame>
+    <description>The same investigator will repeat cervical range of motion measurement by using the developed rehabilitation software and the standard cervical range of motion (CROM) measurement method from the goniometer.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Inter-rater reliability between the developed rehabilitation assessment software and the standard CROM measurement method.</measure>
+    <time_frame>One hour</time_frame>
+    <description>The cervical range of motion (CROM) measurement by using the developed rehabilitation software and the standard CROM measurement method from the goniometer will be repeated by different observers.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Concurrent measurement validity between the developed rehabilitation assessment software and the standard CROM measurement method.</measure>
+    <time_frame>One hour</time_frame>
+    <description>The correlation of the concurrent cervical range of motion (CROM) measurement outcome at approximately the same time between the developed rehabilitation assessment software and the standard CROM measurement method from the goniometer.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Criterion-related validity between the developed rehabilitation assessment software, and VFSS and FOIS.</measure>
+    <time_frame>One month</time_frame>
+    <description>The criterion-related validity of the rehabilitation assessment software will be assessed by the correlation between the cervical range of motion measurement by the developed rehabilitation assessment software and the functional swallowing assessment by videofluoroscopic Swallowing Study (VFSS), and functional oral intake scale (FOIS).</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">88</enrollment>
+  <condition>Healthy</condition>
+  <condition>Head and Neck Cancer</condition>
+  <arm_group>
+    <arm_group_label>Rehabilitation assessment software</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This arm applies the developed rehabilitation assessment software by using two web cameras placed in the front and the side of the subject. The subject sits between two cameras. The observer asks the subject to move the head in each direction, to open the mouth, and to move the tongue. The software will measure CROM, mouth opening, and tongue movement.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>video-fluoroscopic swallowing and FOIS.</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This arm applies video-fluoroscopic swallowing (VFSS) and functional oral intake scale (FOIS) to measure the direct, dynamic view of oral, pharyngeal, and upper esophageal function during swallowing with food and liquid mixed with barium, and the functional intake of dysphagic patients, respectively.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Rehabilitation assessment software</intervention_name>
+    <description>In phase 2, this software will be tested in occupational therapists, and head and neck cancer patients results for reliability and validity.&#xD;
+In phase 3, the experiment in the oropharyngeal dysphagia specialists results in content validity, the comparison between the developed software, and VFSS and FOIS results in criterion-related validity, and the experiment in head and neck cancer patients results in reliability.</description>
+    <arm_group_label>Rehabilitation assessment software</arm_group_label>
+    <arm_group_label>video-fluoroscopic swallowing and FOIS.</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>VFSS and FOIS</intervention_name>
+    <description>In phase 3, this study applies VFSS and FOIS for the head and neck cancer patients for comparison with the developed rehabilitation assessment software for criterion-related validity.</description>
+    <arm_group_label>video-fluoroscopic swallowing and FOIS.</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria in Phase 2&#xD;
+&#xD;
+          -  Occupational therapist&#xD;
+&#xD;
+               1. This study requires the subject to be between 18 and 80 years old.&#xD;
+&#xD;
+               2. The subject needs to be Thai.&#xD;
+&#xD;
+               3. The subject can communicate in the Thai language.&#xD;
+&#xD;
+               4. Working as an occupational therapist in Ramathibodhi hospital.&#xD;
+&#xD;
+               5. The subject is consent.&#xD;
+&#xD;
+          -  Head and neck cancer patients&#xD;
+&#xD;
+               1. This study requires the subject to be between 18 and 80 years old.&#xD;
+&#xD;
+               2. The subject needs to have stable vital signs.&#xD;
+&#xD;
+               3. The subject can make the body steady sit on the chair longer than 30 minutes.&#xD;
+&#xD;
+               4. The subject is diagnosed with head and neck cancer and treated at Ramathibodhi&#xD;
+                  hospital.&#xD;
+&#xD;
+               5. Eating Assessment Tool (EAT-10) score is more than or equals 3.&#xD;
+&#xD;
+               6. Montreal Cognitive Assessment (MOCA) score is more than or equals 23.&#xD;
+&#xD;
+               7. The subject is consent.&#xD;
+&#xD;
+        Exclusion Criteria in Phase 2&#xD;
+&#xD;
+          -  Occupational therapist&#xD;
+&#xD;
+               1. Cannot participate in the experiment.&#xD;
+&#xD;
+               2. The therapist denied or withdrew.&#xD;
+&#xD;
+          -  Head and neck cancer patients&#xD;
+&#xD;
+               1. Have pain around the examination area such as oral mucosa, tongue, and neck.&#xD;
+&#xD;
+               2. Participate in chemotherapy.&#xD;
+&#xD;
+               3. Cannot participant until the end of the experiment.&#xD;
+&#xD;
+               4. The subject denied or withdrew.&#xD;
+&#xD;
+        Inclusion Criteria in Phase 3&#xD;
+&#xD;
+          -  Dysphagic Specialist&#xD;
+&#xD;
+               1. The age is more than 18 years old.&#xD;
+&#xD;
+               2. The specialist is required to be Thai.&#xD;
+&#xD;
+               3. The specialist can communicate in the Thai language.&#xD;
+&#xD;
+               4. Working in oropharyngeal swallowing rehabilitation in the dysphagic unit at&#xD;
+                  Ramathibodhi hospital for more than 3 years.&#xD;
+&#xD;
+               5. The specialist has papers related to swallowing rehabilitation.&#xD;
+&#xD;
+               6. The specialist is consent.&#xD;
+&#xD;
+          -  Observers&#xD;
+&#xD;
+               1. This study requires the subject to be between 18 and 80 years old.&#xD;
+&#xD;
+               2. The observer can communicate in the Thai language.&#xD;
+&#xD;
+               3. The observer needs to be Thai.&#xD;
+&#xD;
+               4. Working in swallowing rehabilitation in Ramathibodhi hospital for more than a&#xD;
+                  year.&#xD;
+&#xD;
+               5. The observer is consent.&#xD;
+&#xD;
+          -  Head and neck cancer patients The criteria are the same as the inclusion criteria of&#xD;
+             head and neck cancer patients in phase 2.&#xD;
+&#xD;
+        Exclusion Criteria in Phase 3&#xD;
+&#xD;
+          -  Dysphagic Specialist&#xD;
+&#xD;
+               1. Cannot participant in the experiment.&#xD;
+&#xD;
+               2. The specialist denied or withdrew.&#xD;
+&#xD;
+          -  Observers&#xD;
+&#xD;
+               1. Have a relationship with software development.&#xD;
+&#xD;
+               2. Cannot participate in the study until the end of the experiment.&#xD;
+&#xD;
+               3. The subject denied or withdrew.&#xD;
+&#xD;
+          -  Head and neck cancer patients The criteria are the same as the exclusion criteria of&#xD;
+             head and neck cancer patients in phase 2.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Panrasee Ritthipravat</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mahidol University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Panrasee Ritthipravat</last_name>
+    <phone>0971917879</phone>
+    <email>panrasee.rit@mahidol.ac.th</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kittisak Chotikkakamthorn</last_name>
+    <phone>0817004078</phone>
+    <email>kittisak.cho@student.mahidol.ac.th</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Department of Rehabilitation Medicine, Ramathibodhi Hospital</name>
+      <address>
+        <city>Phaya Thai</city>
+        <state>Bangkok</state>
+        <zip>10400</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Pimchanok Tuakta</last_name>
+      <phone>0917746526</phone>
+      <email>pimchanoktuakta@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Paitoon Benjapornlert</last_name>
+      <phone>0917746526</phone>
+      <email>birdypaitoon@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Panrasee Ritthipravat</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Thailand</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>November 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 2, 2021</study_first_posted>
+  <last_update_submitted>December 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Head and Neck Neoplasms</keyword>
+  <keyword>DNA Damage</keyword>
+  <keyword>Fibrosis</keyword>
+  <keyword>Humans Inflammation</keyword>
+  <keyword>Neoplasms</keyword>
+  <keyword>Radiation Injuries</keyword>
+  <keyword>Radiotherapy</keyword>
+  <keyword>Transforming Growth Factor beta</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Head and Neck Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>The data requires to be confidential. It is prohibited to share the participant-level data.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

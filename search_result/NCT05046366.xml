@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8825">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05046366</url>
+  </required_header>
+  <id_info>
+    <org_study_id>[2021]IEC(491)</org_study_id>
+    <nct_id>NCT05046366</nct_id>
+  </id_info>
+  <brief_title>Development of an Artificial Intelligence System for Intelligent Pathological Diagnosis and Therapeutic Effect Prediction Based on Multimodal Data Fusion of Common Tumors and Major Infectious Diseases in the Respiratory System Using Deep Learning Technology.</brief_title>
+  <official_title>Research and Development of an Artificial Intelligence Technology System for Digital Pathological Diagnosis and Therapeutic Effect Prediction Based on Multimodal Data Fusion of Common Tumors and Major Infectious Diseases in the Respiratory System Using Deep Learning Technology.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Wuhan Union Hospital, China</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Wuhan Union Hospital, China</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To improve accurate diagnosis and treatment of common malignant tumors and major infectious&#xD;
+      diseases in the respiratory system, we aim to establish a large medical database that&#xD;
+      includes standardized and structured clinical diagnosis and treatment information such as&#xD;
+      electronic medical records, image features, pathological features, and multi-omics&#xD;
+      information, and to develop a multi-modal data fusion-based technology system for&#xD;
+      individualized intelligent pathological diagnosis and therapeutic effect prediction using&#xD;
+      artificial intelligence technology.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The main aims are as follows:&#xD;
+&#xD;
+        1. To establish a medical big data platform for multi-modal information fusion of common&#xD;
+           tumors and major infectious diseases (lung cancer/pulmonary nodules, tuberculosis, and&#xD;
+           COVID-19) based on the existing pathological image features and clinical multi-omics&#xD;
+           information database: The medical big data platform supports the acquisition of the&#xD;
+           patient's clinical electronic medical records (including routine clinical detection),&#xD;
+           full view digital section of pathological image data, medical imaging (CT, MRI,&#xD;
+           ultrasound, nuclear medicine, etc.), multiple omics data (genome, transcriptome, and&#xD;
+           metabolome, proteomics) omics data, etiology, pathology, and associated graphic data&#xD;
+           reports and multimodal medical treatment data. We aim to realize the storage, sharing,&#xD;
+           fusion computing, privacy protection, and security supervision of multi-modal and&#xD;
+           cross-scale biomedical big data. Our work will open up key business processes and links&#xD;
+           across regions, across hospitals, between different terminals, between hospitals and&#xD;
+           doctors, and between departments, so as to promote continuous data accumulation and&#xD;
+           knowledge precipitation in hospitals and promote medical collaboration.&#xD;
+&#xD;
+        2. To create a multimodal information fusion database with pathologic features, imaging&#xD;
+           features, multi-omics (pathologic, genomic, transcriptome, metabolome, proteomics,&#xD;
+           etc.), and clinical information of patients at different stages of lung cancer/pulmonary&#xD;
+           nodules, tuberculosis, and COVID-19. The database scale includes multimodal data of at&#xD;
+           least 600 lung cancer/pulmonary nodules, 200 tuberculosis, and 200 COVID-19 patients.&#xD;
+           Moreover, there will be more than 10 biomarkers significantly related to the diagnosis&#xD;
+           and treatment of patients with lung cancer/pulmonary nodules, tuberculosis and COVID-19&#xD;
+           were excavated through association analysis, providing parameters for artificial&#xD;
+           intelligence model construction.&#xD;
+&#xD;
+        3. We will make use of artificial intelligence technology to create the multi-modal medical&#xD;
+           big data cross-analysis technology and the above disease individualized accurate&#xD;
+           diagnosis and curative effect prediction models. In order to solve the three key&#xD;
+           problems of multi-modal data fusion mining, such as unbalanced, small sample size, and&#xD;
+           poor interpretability, we will establish an ARTIFICIAL intelligence recognition&#xD;
+           algorithm for image images and pathological images, and use image processing and deep&#xD;
+           learning technologies to mine multi-level depth visual features of image data and&#xD;
+           pathological data. In addition, we will use bioinformatics analysis algorithms to&#xD;
+           conduct molecular network mining and functional analysis of molecular markers at the&#xD;
+           level of multiple omics technologies (pathologic, genomic, transcriptome, metabolome,&#xD;
+           proteome, etc.).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 1, 2021</start_date>
+  <completion_date type="Anticipated">December 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The outcome of clinical diagnosis of suspected patients with lung cancer/pulmonary nodular (Benign/Malignant nodule).</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>The outcome of clinical diagnosis of patients with lung cancer/pulmonary nodular (Benign/Malignant nodule).&#xD;
+① Benign nodule&#xD;
+② Malignant neoplasm/nodule: squamous cell carcinoma, adenocarcinoma, small cell carcinoma, and large cell carcinoma.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The outcome of clinical diagnosis of suspected patients with pulmonary tuberculosis (Positive/Negative).</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>The outcome of clinical diagnosis of patients with pulmonary tuberculosis (Positive/Negative).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The outcome of clinical diagnosis of suspected patients with COVID-19 (Positive/Negative).</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>The outcome of clinical diagnosis of patients with COVID-19 (Positive/Negative).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment response of anti-cancer therapy at first evaluation in patients with lung cancer/pulmonary nodules (CR, PR, PD, SD).</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>The treatment response of anti-cancer therapy at first evaluation in patients with lung cancer/pulmonary nodules follows The Response Evaluation Criteria In Solid Tumors (RECIST version 1.1) from the World Health Organization (WHO). The evaluation index is as follows.&#xD;
+CR (complete response): Disappearance of all target lesions and reduction in the short axis measurement of all pathologic lymph nodes to ≤10 mm.&#xD;
+PR (partial response): 30% decrease in the sum of the longest diameter of the target lesions compared with baseline.&#xD;
+PD (progressive disease):≥20% increase of at least 5 mm in the sum of the longest diameter of the target lesions compared with the smallest sum of the longest diameter recorded OR The appearance of new lesions, including those detected by FDG-PET (fludeoxyglucose positron emission tomography).&#xD;
+SD (stable disease): Neither PR nor PD.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment response of anti-inflammation and antiviral therapy at first evaluation in patients with COVID-19 (effective/ineffective treatment).</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Treatment response of anti-inflammation and antiviral therapy at first evaluation in patients with COVID-19 (effective/ineffective treatment).&#xD;
+effective treatment： Improved total time to recovery, resolution of fever, cough remission, and pneumonia severity.&#xD;
+ineffective treatment： The above conditions have not improved or patients go die.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment response of antituberculous bacilli and anti-inflammation therapy at first evaluation in patients with pulmonary tuberculosis.</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Treatment cure： patients with bacteriologically confirmed TB at the beginning of treatment who were smear- or culture-negative in the last month of treatment and on at least one previous occasion.&#xD;
+Treatment completer: patients who completed treatment without evidence of failure but with no record to show that sputum smear or culture results in the last month of treatment and on at least one previous occasion were negative.&#xD;
+Treatment success: The sum of cured and treatment completed.&#xD;
+Treatment failure: patients whose sputum smear or culture is positive at month 5 or later during treatment.&#xD;
+Treatment relapse: Patients who were declared cured or treatment completed at the end of their most recent course of TB treatment, and are now diagnosed with a recurrent episode of TB. This can be either a true relapse or a new episode of TB caused by reinfection.&#xD;
+Patient died.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Progression free survival</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>The time interval between the date of treatment initiation and disease progression (Months) of patients with lung cancer/pulmonary nodules.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>The time interval between the date of diagnosis and death (Months) of patients with lung cancer/pulmonary nodules.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Whole genome sequencing of blood samples</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Whole-genome sequencing of blood samples before and after treatment in patients with lung cancer/pulmonary nodular, tuberculosis, and COVID-19. Whole-genome sequencing is mainly used to find single nucleotide polymorphisms (SNPs), copy number variations, and insertions/deletions.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Whole-genome sequencing of tissue samples</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Whole-genome sequencing of tissue samples after surgery in patients with lung cancer/pulmonary nodular and tuberculosis. Whole-genome sequencing is mainly used to find single nucleotide polymorphisms (SNPs), copy number variations, and insertions/deletions.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Whole genome sequencing of exhaled air condensate samples</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Whole-genome sequencing of exhaled air condensate samples before and after treatment in patients with lung cancer/pulmonary nodular, tuberculosis, and COVID-19. Whole-genome sequencing is mainly used to find single nucleotide polymorphisms (SNPs), copy number variations, and insertions/deletions.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Whole genome sequencing of urine samples</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Whole-genome sequencing of urine specimens before and after treatment in patients with lung cancer/pulmonary nodular, tuberculosis, and COVID-19. Whole-genome sequencing is mainly used to find single nucleotide polymorphisms (SNPs), copy number variations, and insertions/deletions.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Transcriptome sequencing of blood samples</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Transcriptome sequencing of blood samples before and after treatment in patients with lung cancer/pulmonary nodular, tuberculosis, and COVID-19. The collection of all transcripts, including messenger RNA, ribosomal RNA, transport RNA, and non-coding RNA.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Transcriptome sequencing of tissue samples</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Transcriptome sequencing of tissue samples after surgery in patients with lung cancer/pulmonary nodular and tuberculosis. The collection of all transcripts, including messenger RNA, ribosomal RNA, transport RNA, and non-coding RNA.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Transcriptome sequencing of exhaled air condensate samples</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Transcriptome sequencing of exhaled air condensate specimens before and after treatment in patients with lung cancer/pulmonary nodular, tuberculosis, and COVID-19. The collection of all transcripts, including messenger RNA, ribosomal RNA, transport RNA, and non-coding RNA.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Transcriptome sequencing of urine samples</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Transcriptome sequencing of urine specimens before and after treatment in patients with lung cancer/pulmonary nodular, tuberculosis, and COVID-19. The collection of all transcripts, including messenger RNA, ribosomal RNA, transport RNA, and non-coding RNA.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Metabolomics of blood samples</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Metabolomics of blood specimens before and after treatment in patients with lung cancer/pulmonary nodular, tuberculosis, and COVID-19. Non-target metabolites are generally analyzed qualitatively and quantitatively based on LC-MS technology for metabolites in samples, and identified by matching primary and secondary information with local self-built databases and commercial standard databases.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Metabolomics of tissue samples</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Metabolomics of tissue samples after surgery in patients with lung cancer/pulmonary nodular and tuberculosis. Non-target metabolites are generally analyzed qualitatively and quantitatively based on LC-MS technology for metabolites in samples, and identified by matching primary and secondary information with local self-built databases and commercial standard databases.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Metabolomics of exhaled air condensate samples</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Metabolomics of exhaled air condensate specimens before and after treatment in patients with lung cancer/pulmonary nodular, tuberculosis, and COVID-19. Non-target metabolites are generally analyzed qualitatively and quantitatively based on LC-MS technology for metabolites in samples, and identified by matching primary and secondary information with local self-built databases and commercial standard databases.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Metabolomics of urine samples</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Metabolomics of urine specimens before and after treatment in patients with lung cancer/pulmonary nodular, tuberculosis, and COVID-19. Non-target metabolites are generally analyzed qualitatively and quantitatively based on LC-MS technology for metabolites in samples, and identified by matching primary and secondary information with local self-built databases and commercial standard databases.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proteomics of blood samples</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Proteomics of blood specimens before and after treatment in patients with lung cancer/pulmonary nodular, tuberculosis, and COVID-19. Unlabeled proteomics technology based on the timsTOF Pro ion mobility platform for differential quantitative proteomics analysis using data-dependent acquisition - Synchronous cumulative continuous fragmentation (ddaPASEF) scan mode.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proteomics of tissue samples</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Proteomicstissue samples after surgery in patients with lung cancer/pulmonary nodular and tuberculosis. Unlabeled proteomics technology based on the timsTOF Pro ion mobility platform for differential quantitative proteomics analysis using data-dependent acquisition - Synchronous cumulative continuous fragmentation (ddaPASEF) scan mode.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proteomics of exhaled air condensate samples</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Proteomics of exhaled air condensate specimens before and after treatment in patients with lung cancer/pulmonary nodular, tuberculosis, and COVID-19. Unlabeled proteomics technology based on the timsTOF Pro ion mobility platform for differential quantitative proteomics analysis using data-dependent acquisition - Synchronous cumulative continuous fragmentation (ddaPASEF) scan mode.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proteomics of urine samples</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Proteomics of urine specimens before and after treatment in patients with lung cancer/pulmonary nodular, tuberculosis, and COVID-19. Unlabeled proteomics technology based on the timsTOF Pro ion mobility platform for differential quantitative proteomics analysis using data-dependent acquisition - Synchronous cumulative continuous fragmentation (ddaPASEF) scan mode.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>sex (male/female)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>sex of patients(male/female).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>age (years)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>age of patients (years).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>weight (kilograms)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>weight of patients (kilograms)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>height (meters)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>height of patients (meters).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>heart rate in each minute</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>heart rate in each minute of patients.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>blood pressure (mmHg)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>blood pressure (mmHg) of patients.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Forced vital capacity (FVC)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Forced vital capacity (FVC) of patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>forced expiratory volume in one second (FEV1)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>forced expiratory volume in one second (FEV1) for lung volume</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>peak expiratory flow (PEF)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>peak expiratory flow (PEF) for velocity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>carbon monoxide diffusion capacity (DLCO)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>carbon monoxide diffusion capacity (DLCO) for pulmonary diffusion function.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>St. George's Respiratory Questionnaire(SGRQ)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>St. George's Respiratory Questionnaire total score(0-3989.4), St. George's Respiratory Questionnaire symptoms score(0-662.5); St. George's Respiratory Questionnaire impacts score(0-2117.8); St. George's Respiratory Questionnaire activity score(0-1209.1). The higher the score, the worse the lung.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C-reactive protein in blood(mg/L)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>C-reactive protein (mg/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>total protein in blood(umol/L)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>total protein(umol/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>aspartate aminotransferase in blood(U/L)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>aspartate aminotransferase (U/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>glutamic-pyruvic transaminase in blood(U/L)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>glutamic-pyruvic transaminase (U/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>D-dimer in blood(ug/L)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>D-dimer (ug/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>fibrinogen in blood(g/L)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>fibrinogen(g/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Active part thrombin time in blood(APTT)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Active part thrombin time (APTT)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>prothrombin time in blood(PT)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>prothrombin time (PT)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>thrombin time in blood (TT)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>thrombin time (TT).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>leucocytes in blood(×109/L)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>leucocytes(×109/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>neutrophils in blood(×109/L)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>neutrophils in blood(×109/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>lymphocytes in blood(×109/L)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>lymphocytes in blood(×109/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>monocytes in blood(×109/L)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>monocytes in the blood(×109/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>eosinophils in the blood(×109/L)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>eosinophils in the blood(×109/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>platelets in the blood(×109/L)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>platelets in the blood(×109/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Carcinoembryonic Antigen (ug/L)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Serum tumor marker</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cytokeratin 19 fragment (ug/L)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Serum tumor marker</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Squamous Cell Carcinoma Antigen(ug/L)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Serum tumor marker</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Nervous specific enolase (U/mL)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Serum tumor marker</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tissue Polypeptide Specific Antigen(ug/L)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Serum tumor marker</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cancer antigen 125 (U/mL)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Serum tumor markers including Carcinoembryonic Antigen (ug/L), Cytokeratin 19 fragment , Squamous Cell Carcinoma Antigen(ug/L), Nervous specific enolase (U/mL), Tissue Polypeptide Specific Antigen(ug/L), Cancer antigen 125 (U/mL), Cancer antigen 15-3 (U/mL), Bombesin (U/mL), The stomach secrete ty (U/mL), β2-microglobulin (U/mL).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cancer antigen 15-3 (U/mL)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Serum tumor marker</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bombesin (U/mL)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Serum tumor marker</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>β2-microglobulin (U/mL)</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Serum tumor marker</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the outcome of Etiological detection</measure>
+    <time_frame>2021-2024</time_frame>
+    <description>Etiological detection including Mycoplasma, Chlamydia, Viruses, Bacteria (especially Mycobacterium tuberculosis), and Fungi. (Positive/Negative)</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Artificial Intelligence</condition>
+  <condition>Deep Learning</condition>
+  <condition>Pathology, Molecular</condition>
+  <condition>Medical Informatics</condition>
+  <condition>Database</condition>
+  <condition>Lung Cancer</condition>
+  <condition>Pulmonary Tuberculosis</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Lung cancer group</arm_group_label>
+    <description>Participants with lung cancer/pulmonary nodules</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pulmonary tuberculosis group</arm_group_label>
+    <description>Participants with pulmonary tuberculosis</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COIVD-19 group</arm_group_label>
+    <description>Participants with COIVD-19</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Common malignant tumors and major infectious diseases in lung, including lung cancer,&#xD;
+        pulmonary tuberculosis, and COVID-19.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Participants with the clinical diagnosis of lung cancer, pulmonary tuberculosis, and&#xD;
+             COVID-19.&#xD;
+&#xD;
+          2. Participants that have signed informed consent.&#xD;
+&#xD;
+          3. Participants &gt;= 18 years old and &lt; 90 years old.&#xD;
+&#xD;
+          4. Participants with detailed electronic medical records, image records, pathological&#xD;
+             records, multi-omics information, and other important clinical diagnostic information.&#xD;
+&#xD;
+          5. Healthy participants with no clinical diagnosis of lung cancer, pulmonary&#xD;
+             tuberculosis, and COVID-19.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Participants &lt; 18 years old.&#xD;
+&#xD;
+          2. Participants with primary clinical and pathological data missing.&#xD;
+&#xD;
+          3. Participants lost to follow-up.&#xD;
+&#xD;
+          4. Participants with too poor medical image quality to perform segment and mark ROI&#xD;
+             accurately.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yang Jin, Professor</last_name>
+    <role>Study Director</role>
+    <affiliation>union hospital, Tongji Medical college, Huazhonguniversity of science and technology</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>wei geng, Phd</last_name>
+    <phone>18696152606</phone>
+    <email>wguh116@hust.edu.cn</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Union Hospital, Tongji Medical College, Huazhong University of Science and Technology</name>
+      <address>
+        <city>Wuhan</city>
+        <state>Hubei</state>
+        <zip>430000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yang Jin, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>June 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 16, 2021</study_first_posted>
+  <last_update_submitted>November 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Wuhan Union Hospital, China</investigator_affiliation>
+    <investigator_full_name>Yang Jin</investigator_full_name>
+    <investigator_title>Department of Respiratory and Critical Care Medicine</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tuberculosis</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Infections</mesh_term>
+    <mesh_term>Tuberculosis, Pulmonary</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8551">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05049928</url>
+  </required_header>
+  <id_info>
+    <org_study_id>7766</org_study_id>
+    <nct_id>NCT05049928</nct_id>
+  </id_info>
+  <brief_title>m-Rehab OSA : Impact of a Telerehabilitation Program Associated With CPAP on Severity Markers of Obstructive Sleep Apnea Syndrome</brief_title>
+  <acronym>mRehabOSA</acronym>
+  <official_title>m-Rehab OSA : Impact of a Telerehabilitation Program Associated With CPAP on Severity Markers of Obstructive Sleep Apnea Syndrome. Prospective, Randomized, Controlled, Multicenter Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Montpellier</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Montpellier</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Obstructive sleep apnea syndrome (OSA) is a common condition associated with major&#xD;
+      repercussions such as excessive daytime sleepiness and impaired quality of life as well as&#xD;
+      metabolic and cardiovascular complications. Continuous positive airway pressure (CPAP)&#xD;
+      remains the treatment of choice but its effectiveness remains limited, especially in reducing&#xD;
+      cardio-metabolic risk. Interventions to modify the lifestyle are therefore recommended in the&#xD;
+      management of OSA. The emergence of information and communication technologies is an&#xD;
+      opportunity for patients to have tools that promote self-management and behavioral changes.&#xD;
+      The recent development of telerehabilitation (TR) is a promising approach that has only been&#xD;
+      the subject of pilot studies. In a randomized, controlled and multicenter study, we propose&#xD;
+      to test the hypothesis according to which the use of a mobile TR solution, associated with&#xD;
+      continuous positive airway pressure (CPAP), will allow obese patients to adopt behavioral&#xD;
+      modifications to improve markers of severity of OSA. The analysis of big data (data-mining)&#xD;
+      will allow a better understanding of the motivational obstacles and levers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Statistical analysis plan The number of patients solicited for the study and the number of&#xD;
+      subjects included and randomized in each group will be reported on the flow chart. Premature&#xD;
+      stops (lost to follow-up, death, study withdrawals) and their reasons will be reported as&#xD;
+      well as any deviations from the protocol.&#xD;
+&#xD;
+      An initial descriptive analysis of each of the groups will be carried out. For qualitative&#xD;
+      variables, this description will include the number as well as the frequency of the different&#xD;
+      modalities. Concerning the quantitative variables, the description will include the number,&#xD;
+      the mean, the standard deviation, the median as well as the extreme values according to the&#xD;
+      distribution.&#xD;
+&#xD;
+      The comparability of the 2 groups will be verified for all the initial characteristics likely&#xD;
+      to influence the results. In the event of non-comparability on one or more parameters, an&#xD;
+      adjustment will be made on this or these parameters for the comparisons between groups of&#xD;
+      judgment criteria.&#xD;
+&#xD;
+      Analysis of the primary judgment criterion The variation in the evolution of the various main&#xD;
+      criteria will be compared between the 2 groups using a nonparametric means comparison test&#xD;
+      (Mann-Whitney test) or if the distribution turns out to be Gaussian and the conditions&#xD;
+      application are verified, a parametric test (Student's T).&#xD;
+&#xD;
+      Analysis of secondary endpoints The qualitative variables will be compared by a Chi-square&#xD;
+      test. Otherwise, if the conditions for performing this test are not met, Fisher's exact test&#xD;
+      will be used.&#xD;
+&#xD;
+      The quantitative variables will be compared between the two groups:&#xD;
+&#xD;
+        -  in the case of Gaussian variables, by a student's t test or an analysis of variance&#xD;
+&#xD;
+        -  in the case of non-Gaussian variables, by a Wilcoxon-Mann-Withney test&#xD;
+&#xD;
+      Longitudinal data (quality of life scores, physical activities) will be modeled by a mixed&#xD;
+      regression with the patient effect as a random variable. A linear regression model modeling&#xD;
+      the variation of the longitudinal endpoints will be fitted to the covariates having at least&#xD;
+      one trend (p &lt;0.15) to the difference between the two arms of the study. A forward type&#xD;
+      procedure will be implemented to obtain a final multivariate model.&#xD;
+&#xD;
+      Management of missing data:&#xD;
+&#xD;
+      The IPTW method will be used. The lost to follow-up will be considered using a weighting on&#xD;
+      the inverse of the probability of being censored&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 27, 2021</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline daytime sleepness at 6 months</measure>
+    <time_frame>Between baseline and 6 month visit</time_frame>
+    <description>Epworth questionnaire</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline quality of life at 6 months</measure>
+    <time_frame>Between baseline and 6 month visit</time_frame>
+    <description>Functional Outcomes of Sleep Questionnaire (FOSQ)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline systolic blood pressure at 6 months</measure>
+    <time_frame>Between baseline and 6 month visit</time_frame>
+    <description>Blood pressure : nocturnal systolic BP (ambulatory blood pressure measurement)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline inflammation at 6 months</measure>
+    <time_frame>Between baseline and 6 month visit</time_frame>
+    <description>C-reactive protein in blood</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of fatigue in experimental and control group</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+    <description>Pichot questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of quality of life in experimental and control group</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+    <description>EQ5D (EuroQol) questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of sleep quality in experimental and control group</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+    <description>Pittsburg questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of anxiety and depression in experimental and control group with Hospital Anxiety and Depression scale</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+    <description>Anxiety and depression will be evaluated with the HAD (Hospital Anxiety and Depression) scale (values 0-21 with higher score meaning a worse outcome).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of sleepiness in experimental and control group (Epworth)</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+    <description>Percentage of patients with Epworth fall&gt; 2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of sleepiness in experimental and control group (IHSS)</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+    <description>Assessed by the Idiopathic Hypersomnia Severity Scale. The total score is 0 to 50 with a higher score indicating more drowsiness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of sleepiness in experimental and control group (iterative sleep latency tests)</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+    <description>Evaluated by iterative sleep latency tests</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of the architecture of sleep in experimental and control group</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+    <description>Architecture of sleep will be evaluated with polysomnography : Stages of sleep (Stages N1 N2, N3 and REM in minutes and %), sleep efficiency (%), micro-arousal index (number of events/hour)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of polysomnographic markers in experimental and control group</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+    <description>time spent under a SpO2 of 90%</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of physical activity parameters in experimental and control group (IPAQ)</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+    <description>evaluated by International Physical Activity Questionnaire (IPAQ)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of physical activity parameters in experimental and control group (actimetry)</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+    <description>evaluated by actimetry (number of steps)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of nutritional parameters in experimental and control group</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+    <description>assessed by dietary calendar</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of exercise tolerance in experimental and control group</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+    <description>assessed by exercise test on a cycloergometer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of anthropometric parameters in experimental and control group</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+    <description>ratio of waist circumference to hip circumference</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of biological parameters in experimental and control group (fasting blood sugar)</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of biological parameters in experimental and control group (total cholesterol)</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of biological parameters in experimental and control group (LDL cholesterol)</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of biological parameters in experimental and control group (HDL cholesterol)</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of biological parameters in experimental and control group (triglycerides)</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of biological parameters in experimental and control group (glycated haemoglobin (HbA1c))</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of endothelial function in experimental and control group</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+    <description>assessed by endoPAT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of blood pressure profile parameters in experimental and control group</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+    <description>evaluated by ambulatory blood pressure measurement over 24 hours</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of adherence to Continuous positive airway pressure (CPAP) in experimental and control group</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of adherence to Continuous positive airway pressure (CPAP) in experimental and control group</measure>
+    <time_frame>Between inclusion and 3 month visit</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of adherence to Continuous positive airway pressure (CPAP) in experimental and control group</measure>
+    <time_frame>Between inclusion and 1 month visit</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of individual factors influencing CPAP adherence in experimental and control group</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+    <description>The individual factors studied are gender, body mass index and age.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of device-related factors influencing CPAP adherence in experimental and control group</measure>
+    <time_frame>Between inclusion and 6 month visit</time_frame>
+    <description>The device-related factors are are the type of mask, fixed or autopilot mode and whether or not a humidifier is used. The factors of the CPAP are: residual IAH (number/hour), the pressure P90 (cmH2O), the leaks (% and liter/minute), the duration of deep sleep (minutes and %) evaluated by the CPAP.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of the incremental cost-utility ratio in experimental and control group</measure>
+    <time_frame>At 6 month visit</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">180</enrollment>
+  <condition>Obstructive Sleep Apnea Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Experimental arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in the experimental group will be treated with CPAP (PRISMA, LOWENSTEIN®) and will have access to the m-Rehab® telerehabilitation program.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control arm</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients in the experimental group will be treated with CPAP (PRISMA, LOWENSTEIN) and will receive the usual advice on adapted physical activity and nutrition during the initial consultation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Telerehabilitation solution (m-Rehab)</intervention_name>
+    <description>The telerehabilitation program consists of the following elements:&#xD;
+Mobile applications and website usable on smartphone and tablet for the patient.&#xD;
+Teleconsultation solution for the patient and the doctors.&#xD;
+Video conferencing solution for professionals involved in patient follow-up: educators in adapted physical activity, physiotherapists, psychologists, dieticians, etc.&#xD;
+Web interface for health professionals allowing the collection and monitoring of various parameters in physical activity and nutrition as well as progress in therapeutic education activities.&#xD;
+Withings® connected objects</description>
+    <arm_group_label>Experimental arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Severe obstructive sleep apnea (apnea-hypopnea index ≥30 / hour)&#xD;
+&#xD;
+          -  Body mass index ≥ 30 kg / m²&#xD;
+&#xD;
+          -  age between 30 and 75 years old&#xD;
+&#xD;
+          -  written consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Presence of contraindications to perform exercise training (neuromuscular disease,&#xD;
+             orthopedic cause, acute coronary syndrome or stroke in the previous three months)&#xD;
+&#xD;
+          -  Active infection, chronic inflammatory disease, cancer under treatment. Systemic&#xD;
+             treatment with immunosuppressants or corticosteroids&#xD;
+&#xD;
+          -  Obstructive Sleep Apnea treated by Continuous Positive Airway Pressure or mandibular&#xD;
+             advancement device in the 3 months preceding inclusion&#xD;
+&#xD;
+          -  Participation in a rehabilitation program scheduled within six months of inclusion&#xD;
+&#xD;
+          -  Predominantly central sleep apnea syndrome (AC&gt; 50%)&#xD;
+&#xD;
+          -  Heart failure with Left Ventricular Ejection Fraction &lt;40% known&#xD;
+&#xD;
+          -  Bariatric surgery in the previous 6 months or bariatric surgery project in the 6&#xD;
+             months&#xD;
+&#xD;
+          -  Alcohol&gt; 14 drinks per week&#xD;
+&#xD;
+          -  Inability to understand and / or answer questionnaires.&#xD;
+&#xD;
+          -  Refusal to use a smartphone or digital device&#xD;
+&#xD;
+          -  Inability to access an internet connection at home.&#xD;
+&#xD;
+          -  Subject in a period of relative exclusion with respect to another protocol or for&#xD;
+             which the maximum annual amount of compensation of € 4,500 has been reached.&#xD;
+&#xD;
+          -  Subject not affiliated with a social security scheme, or not beneficiary of such a&#xD;
+             scheme.&#xD;
+&#xD;
+          -  Pregnant or breastfeeding woman, patient unable to give her protected adult consent,&#xD;
+             vulnerable people&#xD;
+&#xD;
+          -  Subject deprived of liberty by judicial or administrative decision&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>François BUGHIN, MD</last_name>
+    <phone>0033467338284</phone>
+    <email>f-bughin@chu-montpellier.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CHU Montpellier</name>
+      <address>
+        <city>Montpellier</city>
+        <zip>34080</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bronia AYOUB</last_name>
+      <phone>04 67 33 82 87</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>August 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 20, 2021</study_first_posted>
+  <last_update_submitted>October 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Apnea</mesh_term>
+    <mesh_term>Sleep Apnea Syndromes</mesh_term>
+    <mesh_term>Sleep Apnea, Obstructive</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="695">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05152108</url>
+  </required_header>
+  <id_info>
+    <org_study_id>6066223</org_study_id>
+    <nct_id>NCT05152108</nct_id>
+  </id_info>
+  <brief_title>Hybrid Brain Computer Interface for Control of Sensory - Motor Coupling in Post - Stroke Rehabilitation</brief_title>
+  <acronym>HYBIS</acronym>
+  <official_title>Feasibility Clinical Study of a Novel Hybrid Brain Computer Interface for Control of Sensory-motor Coupling in Post-stroke Rehabilitation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Belgrade</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Belgrade</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      HYBIS project aims to develop an innovative and unique hybrid Brain-Computer Interface (BCI)&#xD;
+      system. This BCI system is envisioned as a novel tool for targeted reinforcement of sensory&#xD;
+      motor coupling, specifically dedicated for upper-limb post-stroke rehabilitation.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 15, 2021</start_date>
+  <completion_date type="Anticipated">October 15, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 15, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Device Feasibility</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Electrotactile BCI system accuracy</measure>
+    <time_frame>within 30 minutes after experimental session</time_frame>
+    <description>Electrotactile BCI system accuracy is a measure of feasibility of the prototype device. Accuracy [0 -100 %] of classification of user's mental strategy (tactile attention task towards one of the two electrical stimulation hotspots), where higher values of accuracy are related to better system control.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Motor Imagery BCI system accuracy</measure>
+    <time_frame>within 30 minutes after experimental session</time_frame>
+    <description>Motor Imagery BCI system accuracy is a measure of feasibility of the prototype device.&#xD;
+Accuracy [0 - 100 %] of classification between rest and imaginary movement in a cue-based manner, , where higher values of accuracy are related to better system control.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Fugl Meyer sensory score for upper extremity</measure>
+    <time_frame>immediately after experimental session</time_frame>
+    <description>Fugl Meyer sensory score for upper extremity assesses the degree of sensory impairment in the upper arm. Sensation score ranges from 0 to 12 points, divided into 4 points for light touch and 12 points for position sense. Individual items pertaining to the light touch sensation of the upper arm/ forearm and palmary surface of the hand and to the position of the shoulder/ elbow/ wrist/ thumb (IP-joint) are scored on a 3-point ordinal scale and summed for a maximum possible score of 12. The higher score is considered to represent a less sensory deficit of the subject</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NASA-TLX</measure>
+    <time_frame>within 30 minutes after experimental session</time_frame>
+    <description>NASA Task Load Index (NASA-TLX) method assesses workload on six scales for different aspects: mental demand, physical demand, temporal demand, performance, effort, and frustration on a 21-point scale. A higher rating represents higher workload.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Stroke</condition>
+  <arm_group>
+    <arm_group_label>Stroke patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Experimental group of stroke survivors for testing the feasibility of a BCI system</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>BCI feasibility test</intervention_name>
+    <description>Testing the feasibility of BCI device by determining the accuracy of BCI control</description>
+    <arm_group_label>Stroke patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  age over 18 years old at the time of enrolment&#xD;
+&#xD;
+          -  history of cerebrovascular insult verified by computerized tomography or magnetic&#xD;
+             resonance imaging;&#xD;
+&#xD;
+          -  stoke occurred not more than 6 months prior to study enrolment;&#xD;
+&#xD;
+          -  subject need to be medically and neurologically stable determined by medical history&#xD;
+             and documented neurological examination;&#xD;
+&#xD;
+          -  ability to understand, communicate and cooperate with the research team;&#xD;
+&#xD;
+          -  ability to sit for at least 45 minutes and the ability to adhere to the study&#xD;
+             rehabilitation protocol.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  any neurologic condition (beyond the stroke) or physical condition that impaired&#xD;
+             function of the affected arm&#xD;
+&#xD;
+          -  a substantial cardiopulmonary or metabolic disorder or other major medical&#xD;
+             complication;&#xD;
+&#xD;
+          -  history of seizures;&#xD;
+&#xD;
+          -  moderate to severe hemispatial neglect or anosognosia involving the affected arm;&#xD;
+&#xD;
+          -  severe sensory deficit;&#xD;
+&#xD;
+          -  inability to understand, cooperate, and adhere to the study procedures;&#xD;
+&#xD;
+          -  severe spasticity defined as Ashworth scale score of 4 in the affected arm;&#xD;
+&#xD;
+          -  contraindication to stimulation system placement;&#xD;
+&#xD;
+          -  nursing a child;&#xD;
+&#xD;
+          -  pregnancy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 9, 2021</study_first_posted>
+  <last_update_submitted>November 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Belgrade</investigator_affiliation>
+    <investigator_full_name>Konstantinovic Ljubica</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

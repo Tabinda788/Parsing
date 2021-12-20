@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4229">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05106140</url>
+  </required_header>
+  <id_info>
+    <org_study_id>REB21-0441</org_study_id>
+    <nct_id>NCT05106140</nct_id>
+  </id_info>
+  <brief_title>Robotic Evaluations of Motor Learning During Stroke Neurorehabilitation</brief_title>
+  <acronym>RELEARN</acronym>
+  <official_title>Robotic Evaluations of Motor Learning During Stroke Neurorehabilitation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Calgary</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Canadian Institutes of Health Research (CIHR)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Calgary</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The RELEARN trial is a a prospective longitudinal cohort study sampled by convenience. Stroke&#xD;
+      survivors and healthy control individuals will be recruited to analyze motor learning in the&#xD;
+      upper extremity and its neural basis in early stroke recovery.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In stroke rehabilitation, clinicians guide the relearning of motor skills to promote recovery&#xD;
+      and improve function. A common assumption is that motor learning interacts with processes&#xD;
+      that are involved in tissue repair and helps to engage neuroplastic mechanisms that promote&#xD;
+      recovery. One of the biggest roadblocks for advancing the treatment of motor deficits is that&#xD;
+      we do not understand how motor learning changes after stroke, and critically, if poor&#xD;
+      recovery is due to a loss in an individual's ability to adapt or learn. Existing clinical&#xD;
+      tests do not directly assess motor learning. This means that therapists can profile stroke&#xD;
+      impairments (motor, sensory, cognitive, etc.) but cannot directly measure a patient's ability&#xD;
+      to learn, which is likely an important factor in recovery.&#xD;
+&#xD;
+      The RELEARN trial will pair robotics, an objective tool to assess post-stroke arm impairment,&#xD;
+      with neuroimaging to link motor learning deficits with possible influencing factors (sensory,&#xD;
+      motor, cognitive function) and damage in specific brain areas.&#xD;
+&#xD;
+      Participants with stroke will undergo clinical and robotic evaluations at baseline (within&#xD;
+      1-13 days post-stroke), at 6 weeks, at 12 weeks, and again at 26 weeks. An MRI assessment&#xD;
+      will occur during week 6. Stroke participants will complete a 24hr retention assessment after&#xD;
+      baseline visit and week 26 visit.&#xD;
+&#xD;
+      Control participants will undergo a single robotic evaluation and a 24hr retention&#xD;
+      assessment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 20, 2021</start_date>
+  <completion_date type="Anticipated">September 1, 2026</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2026</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in Path Deviations</measure>
+    <time_frame>Control participant: baseline only; Stroke participant: week 1 and week 26</time_frame>
+    <description>Initial path deviations (IPDs) will be measured during each robotic task movement and used to measure learning in each session.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Peak Lateral Deviations</measure>
+    <time_frame>Control participant: baseline only; Stroke participant: week 1</time_frame>
+    <description>Peak lateral deviations (PLDs) will be measured during each robotic task movement and used to measure learning in each session.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Peak Lateral Deviations</measure>
+    <time_frame>Stroke participant: week 26</time_frame>
+    <description>Peak lateral deviations (PLDs) will be measured during each robotic task movement and used to measure learning in each session.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Robotic Assessment</measure>
+    <time_frame>Control participant: baseline; Stroke participant: week 1, week 6, week 12, and week 26</time_frame>
+    <description>The robotic assessment consists of a number of upper limb tests of neurologic function which have been validated against standard clinical measures. Tasks include: Visually Guided Reaching, Limb Position Matching, and Limb Kinesthesia. These assessments use z-scores, based on normal distributions, as a measure of performance. Scores within 1.96 standard deviations away from 0 are considered normal and scores beyond 1.96 standard deviations are considered impaired.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Motor Learning</measure>
+    <time_frame>Control participant: baseline only; Stroke participant: week 1 and week 26</time_frame>
+    <description>The average initial path deviations (IPDs) and peak lateral deviations (PLDs) across robotic adaptation trials will be used to measure the speed of learning.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Arm Reflexes</measure>
+    <time_frame>Stroke participant only: week 1, week 6, week 12, and week 26</time_frame>
+    <description>A measure of bicep, tricep, and brachioradialis reflexes, with scores ranging from 0 (no response) to 4+ (very brisk, hyperactive).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Modified Ashworth Scale (MAS)</measure>
+    <time_frame>Stroke participant only: week 1, week 6, week 12, and week 26</time_frame>
+    <description>A strength scale used to assess muscle tone during flexion and extension. Scores range from 0 (no increase in tone) to 4 (affected part(s) rigid in flexion or extension), with lower scores indicating better function.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Strength</measure>
+    <time_frame>Stroke participant only: week 1, week 6, week 12, and week 26</time_frame>
+    <description>Strength will be assessed using the Medical Research Council scale for muscles in the upper extremity. Scores range from 0 (no muscular contraction detected0 to 5 (normal muscle strength).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Apraxia</measure>
+    <time_frame>Stroke participant only: week 1, week 6, week 12, and week 26</time_frame>
+    <description>An assessment of characteristics of limb-kinetic apraxia. Scores range from 0 to 6, with higher scores indicating better function.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Thumb Localizing Test</measure>
+    <time_frame>Stroke participant only: week 1, week 6, week 12, and week 26</time_frame>
+    <description>A standardized assessment of proprioception. Scores range from 1 (no difficulty) to 3 (severe difficulty), with lower scores indicating better function.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chedoke-McMaster Stroke Assessment-Impairment Inventory</measure>
+    <time_frame>Stroke participant only: week 1, week 6, week 12, and week 26</time_frame>
+    <description>The Chedoke-McMaster is a screening and assessment tool utilized to measure physical impairment and activity of an individual following a stroke. The 15 items are scored on a 7-point scale (1 through 7, complete dependence to independent, respectively).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fugl-Meyer Upper Extremity Assessment (FMA)</measure>
+    <time_frame>Stroke participant only: week 1, week 6, week 12, and week 26</time_frame>
+    <description>The FMA is an evaluation of upper extremity motor impairment based on 22 items. Scores range from 0 (completely plegic) to 66 (normal).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functional Independence Measure (FIM)</measure>
+    <time_frame>Stroke participant only: week 1, week 6, week 12, and week 26</time_frame>
+    <description>The FIM rates individuals on 18 items across areas such as eating, grooming, bathing and dressing on a scale from 1 (total assistance needed) to 7 (complete independence). Lowest possible score is 18 (lowest independence) and the best possible score is 126 (completely independent). The FIM is the standard measure used by rehabilitation facilities in Cananda and the United States to evaluate overall function and burden of care.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Montreal Cognitive Assessment (MoCA)</measure>
+    <time_frame>Stroke participant only: week 1, week 6, week 12, and week 26</time_frame>
+    <description>A cognitive screening test used to assess: short term memory, visuospatial abilities, executive functions, attention, concentration, working memory, language, and orientation to time and place. Higher scores indicate better function.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Magnetic Resonance Imaging (MRI)</measure>
+    <time_frame>Stroke participant only: week 6</time_frame>
+    <description>Structural images taken after 6-weeks post-stroke. These images will be used to document lesion location and size, and to provide underlying information about functional connections between brain structures.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Standard of Care Rehabilitation Therapy</measure>
+    <time_frame>Stroke participant only: two days between week 1 and week 26</time_frame>
+    <description>Standard therapy doses will be based on therapist reports and random audits by a member of the study team who will, on two dates unknown to the participant and clinical staff, observe and record the timing and content of an entire therapy session. Observations will be compared to staff reports. This information will be used to verify that therapy is similar for stroke affecting the (non-)dominant arms.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Stroke</condition>
+  <arm_group>
+    <arm_group_label>Stroke Participants</arm_group_label>
+    <description>This group will include stroke survivors from the Calgary Stroke Program who are over 18 years of age.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Participants</arm_group_label>
+    <description>This group will include healthy individuals from the community who are matched for age and sex to stroke participants.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Magnetic Resonance Imaging (MRI)</intervention_name>
+    <description>A research MRI will be performed at 6-weeks post-stroke to document stroke lesion location and size.</description>
+    <arm_group_label>Stroke Participants</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Kinarm Robotic Exoskeleton Assessment</intervention_name>
+    <description>The Kinarm Robotic Exoskeleton is a device used to provide therapy and assessment. The device has framework that supports the arms and these supports are adjustable to ensure a comfortable fit. Motors attached to the framework move the arms and record shoulder and elbow movements.&#xD;
+The assessment involves performing a number of tasks using the Kinarm to measure proprioceptive and motor impairment, adaptation to force and visual disturbances, and retention after 24 hours.</description>
+    <arm_group_label>Control Participants</arm_group_label>
+    <arm_group_label>Stroke Participants</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Clinical Assessment</intervention_name>
+    <description>The clinical assessment will be performed by a qualified stroke therapist and include a number of verified measurements to examine: reflexes, strength, apraxia, somatosensation, physical abilities, and cognition.</description>
+    <arm_group_label>Control Participants</arm_group_label>
+    <arm_group_label>Stroke Participants</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients who are 7±6 days post-stroke from the Calgary Stroke Program will be included in&#xD;
+        this study, as well as healthy control volunteers from the community.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria for Stroke Participants:&#xD;
+&#xD;
+          -  First time, unilateral ischemic stroke in middle cerebral artery territory, motor&#xD;
+             and/or sensory tracts and confirmed by clinical examination (including neuroimaging)&#xD;
+&#xD;
+          -  7±6 days post-stroke&#xD;
+&#xD;
+          -  Upper limb impairment&#xD;
+&#xD;
+          -  &gt;18 years old&#xD;
+&#xD;
+          -  Fugl-Meyer upper extremity score between 30 and 57&#xD;
+&#xD;
+          -  Vision better than 20/50 (corrected)&#xD;
+&#xD;
+          -  Able to follow 3-step task commands&#xD;
+&#xD;
+        Inclusion Criteria for Control Participants:&#xD;
+&#xD;
+          -  &gt;18 years old&#xD;
+&#xD;
+          -  Good health&#xD;
+&#xD;
+        Exclusion Criteria for Stroke Participants:&#xD;
+&#xD;
+          -  History of:&#xD;
+&#xD;
+               1. past undiagnosed stroke (evident on neuroimaging),&#xD;
+&#xD;
+               2. neglect (screened with Behavioral Inattention Test),&#xD;
+&#xD;
+               3. apraxia, or&#xD;
+&#xD;
+               4. upper extremity orthopedic or muscular issues&#xD;
+&#xD;
+          -  Secondary neurologic injury or disease (e.g., Parkinson's)&#xD;
+&#xD;
+          -  Contraindication to MRI&#xD;
+&#xD;
+          -  Medical or neuropsychiatric conditions that would interfere with study outcomes, or&#xD;
+             where participation presents a risk to the subject&#xD;
+&#xD;
+          -  Enrollment in an interventional trial that supplements standard therapy&#xD;
+&#xD;
+        Exclusion Criteria for Control Participants:&#xD;
+&#xD;
+        • Significant upper limb neurologic or orthopedic conditions&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tyler Cluff, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Calgary, Calgary, Alberta, Canada</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Sean Dukelow, MD PhD FRCPC</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Calgary, Calgary, Alberta, Canada</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Rachel Stone, BA</last_name>
+    <phone>403-944-4050</phone>
+    <email>rnstone@ucalgary.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Carewest Dr. Vernon Fanning Centre</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2E 6V7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sean Dukelow, MD PhD FRCPC</last_name>
+      <phone>403-944-4050</phone>
+      <email>robotlab@ucalgary.ca</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Calgary - Kinesiology Building</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N 1N4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tyler Cluff, PhD</last_name>
+      <phone>403-220-2840</phone>
+      <email>tyler.cluff@ucalgary.ca</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Foothills Hospital - Main Building</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N2T9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sean Dukelow, MD PhD FRCPC</last_name>
+      <phone>403-944-4050</phone>
+      <email>robotlab@ucalgary.ca</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Calgary - Teaching Research and Wellness (TRW) Building</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N2T9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sean Dukelow, MD PhD FRCPC</last_name>
+      <phone>403-944-4050</phone>
+      <email>robotlab@ucalgary.ca</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>July 2021</verification_date>
+  <study_first_submitted>May 31, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 3, 2021</study_first_posted>
+  <last_update_submitted>November 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Rehabilitation</keyword>
+  <keyword>Neuroimaging</keyword>
+  <keyword>Motor Learning</keyword>
+  <keyword>Early Stroke Recovery</keyword>
+  <keyword>Neuroplasticity</keyword>
+  <keyword>Limb Dominance</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

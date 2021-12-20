@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3608">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05114213</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-973</org_study_id>
+    <nct_id>NCT05114213</nct_id>
+  </id_info>
+  <brief_title>MR-Guided Adaptive SBRT of Primary Tumor for Pain Control in Metastatic PDAC</brief_title>
+  <acronym>MASPAC</acronym>
+  <official_title>MR-Guided Adaptive Stereotactic Body Radiotherapy (SBRT) of Primary Tumor for Pain Control in Metastatic Pancreatic Ductal Adenocarcinoma (mPDAC) - a Randomized, Controlled Clinical Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ludwig-Maximilians - University of Munich</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Heidelberg University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Zurich</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Ludwig-Maximilians - University of Munich</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The MASPAC trial investigates the added benefit of MR-guided adaptive SBRT of the primary&#xD;
+      tumor embedded between standard chemotherapy cycles for pain control and prevention of pain&#xD;
+      in patients with metastatic PDAC (mPDAC).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients not progressing after 8 weeks of standard of care systemic therapy (SoC-CT: minimum&#xD;
+      doublet chemotherapy) will be included and randomized between arm A, receiving MR-guided&#xD;
+      adaptive SBRT of the primary tumor combined with continuation of SoC-CT, and arm B,&#xD;
+      continuing SoC-CT without SBRT.&#xD;
+&#xD;
+      Arm A: The primary tumor is treated with SBRT (6.6 Gy x 5) on a MR-LINAC in breath-hold&#xD;
+      technique. This scheme was shown to have a reasonable toxicity profile on a conventional&#xD;
+      LINAC. A low toxicity profile is even more important in patients with metastatic and&#xD;
+      therefore definitively incurable cancer. Therefore, treatment is performed on a MR-LINAC to&#xD;
+      deliver high doses to the tumor while keeping the toxicity profile as low as possible. For&#xD;
+      this purpose, daily adaptive planning is performed aiming to maintain stringent dose&#xD;
+      constraints for organs at risk (duodenum / stomach / bowel / kidney). Chemotherapy will be&#xD;
+      continued after SBRT. Arm B: Continuing SoC-CT (according to clinical routine appr. 2 weeks&#xD;
+      after the previous cycle) without SBRT.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2021</start_date>
+  <completion_date type="Anticipated">April 2024</completion_date>
+  <primary_completion_date type="Anticipated">November 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean cumulative pain index</measure>
+    <time_frame>through study completion, at least 24 weeks or until death</time_frame>
+    <description>Mean Cumulative pain index: AUC of pain scores rated every 4 weeks until death or end of study using numeric rating scale (NRS, 0= no pain, 10 = worst pain) divided by number of multiples of 4 weeks since randomization</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of biliary complications</measure>
+    <time_frame>through study completion, at least 24 weeks or until death</time_frame>
+    <description>Biliary complications defined as cholangitis or post-hepatic cholestasis requiring drainage</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Malnutrition</measure>
+    <time_frame>through study completion, at least 24 weeks or until death</time_frame>
+    <description>Nutritional status measuring bioimpedance-derived phase angle (BIA) every 12 weeks</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment toxicity</measure>
+    <time_frame>through study completion, at least 24 weeks or until death</time_frame>
+    <description>Treatment toxicity according to CTCAE v5.0</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Death from any cause</measure>
+    <time_frame>through study completion</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">92</enrollment>
+  <condition>Pancreatic Cancer</condition>
+  <arm_group>
+    <arm_group_label>Arm A: SBRT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>mPDAC patients not progressing after 8 weeks of standard of care systemic therapy (SoC-CT: minimum doublet chemotherapy). The primary tumor is treated with SBRT (6.6Gy x 5) on a MR-LINAC in breath-hold technique. For this purpose, daily adaptive planning is performed aiming to maintain stringent dose constraints for organs at risk (duodenum / stomach / bowel / kidney). Chemotherapy will be continued after SBRT.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B: SOC</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Continuing SoC-CT (according to clinical routine appr. 2 weeks after the previous cycle) without SBRT.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>SBRT</intervention_name>
+    <description>online adaptive MR-guided hypofractionated stereotactic radiotherapy</description>
+    <arm_group_label>Arm A: SBRT</arm_group_label>
+    <other_name>oMRgRT</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SOC chemotherapy</intervention_name>
+    <description>The chemotherapy is given according to current standard of care, consisting of in minimum doublet - chemotherapy and excluding monotherapy regimens.</description>
+    <arm_group_label>Arm A: SBRT</arm_group_label>
+    <arm_group_label>Arm B: SOC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male and female patients with histologically proven, metastatic pancreatic&#xD;
+             adenocarcinoma of the pancreatic head or body amenable for MR-guided adaptive SBRT&#xD;
+             with at least stable disease after 8 weeks of standard of care doublet chemotherapy&#xD;
+&#xD;
+          -  age &gt;18 years&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) Performance Status 0, 1 or 2&#xD;
+&#xD;
+          -  Ability to follow study instructions and likely to attend and complete all required&#xD;
+             visits&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects not able to give consent&#xD;
+&#xD;
+          -  Subjects without legal capacity who are unable to understand the nature, scope,&#xD;
+             significance and consequences of this clinical study&#xD;
+&#xD;
+          -  Simultaneous participation in another clinical study or participation in any clinical&#xD;
+             trial involving an investigational medicinal product or treatment within 30 days prior&#xD;
+             to beginning of this study&#xD;
+&#xD;
+          -  Subjects with a physical or psychiatric condition which at the investigator's&#xD;
+             discretion may put the subject at risk, may confound the study results, or may&#xD;
+             interfere with the subject's participation in this study&#xD;
+&#xD;
+          -  Women of child bearing potential or sexually active males not willing to use effective&#xD;
+             contraception while on treatment and 12 weeks after the end of treatment (such as&#xD;
+             oral, injectable, or implantable contraceptives, or intrauterine contraceptive&#xD;
+             devices) unless they are surgically sterilized / hysterectomized or there are any&#xD;
+             other criteria considered sufficiently reliable by the investigator in individual&#xD;
+             cases&#xD;
+&#xD;
+          -  Biopsy proven tumor invasion into the stomach and/or duodenum&#xD;
+&#xD;
+          -  Medically uncontrolled pain&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Maximilian Niyazi, Prof. Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Depatment of Radiation Oncology, University Hospital, LMU Munich</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Georg Beyer, Dr.</last_name>
+    <phone>+4989440072391</phone>
+    <email>Georg.Beyer@med.uni-muenchen.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ulrike Pflugradt</last_name>
+    <email>Ulrike.Pflugradt@med.uni-muenchen.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University Hospital of Heidelberg, Dep. of Radiation Oncology</name>
+      <address>
+        <city>Heidelberg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Juliane Hörner-Rieber, PD Dr.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital of Zurich</name>
+      <address>
+        <city>Zürich</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Matthias Guckenberger, Prof. Dr.</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 16, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 9, 2021</study_first_posted>
+  <last_update_submitted>October 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 9, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ludwig-Maximilians - University of Munich</investigator_affiliation>
+    <investigator_full_name>Prof. Dr. med. Dipl.-Phys. Maximilian Niyazi</investigator_full_name>
+    <investigator_title>Vice Chair</investigator_title>
+  </responsible_party>
+  <keyword>metastatic pancreatic cancer</keyword>
+  <keyword>SBRT</keyword>
+  <keyword>MR linac</keyword>
+  <keyword>chemotherapy</keyword>
+  <keyword>pain control</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pancreatic Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

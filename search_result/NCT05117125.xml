@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3384">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05117125</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-00219</org_study_id>
+    <nct_id>NCT05117125</nct_id>
+  </id_info>
+  <brief_title>Biomarkers for Ventilator-associated Pneumonia</brief_title>
+  <acronym>VAPmarkers</acronym>
+  <official_title>Biomarkers for Prediction of and Diagnosis of Ventilator-associated Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Region Skane</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Lund University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Region Skane</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate different peptide biomarkers, variations in the&#xD;
+      microbiome and patterns in the bacterial transcriptome as prognostic or diagnostic biomarkers&#xD;
+      of VAP.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 15, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in HBP concentration over time</measure>
+    <time_frame>Day 1, 3 and in selected patients day 7 and 14. In patients with VAP also VAP day 1, 3 and 7.</time_frame>
+    <description>Change in concentration (ng/ml) compared to baseline.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in IL-26 over time</measure>
+    <time_frame>Day 1, 3 and in selected patients day 7 and 14. In patients with VAP also VAP day 1, 3 and 7.</time_frame>
+    <description>Change in concentration (ng/ml) compared to baseline.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>HBP at VAP diagnosis</measure>
+    <time_frame>VAP day 1 compared to No VAP day 3</time_frame>
+    <description>Concentration at VAP day 1, compared to day 3 in patients with no VAP. ROC curves, specificity and sensitivity as diagnostic biomarker.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IL-26 at VAP diagnosis</measure>
+    <time_frame>VAP day 1 compared to No VAP day 3</time_frame>
+    <description>Concentration at VAP day 1, compared to day 3 in patients with no VAP. ROC curves, specificity and sensitivity as diagnostic biomarker.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Diversity of microbiome</measure>
+    <time_frame>Day 1 and 3, and VAP day 1.</time_frame>
+    <description>Changes in alpha and beta diversity as prognostic biomarker for VAP. Cases that develop VAP are compared to cases with no VAP.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bacterial transcriptome patterns</measure>
+    <time_frame>VAP day 1</time_frame>
+    <description>Patterns in the bacterial gene expression that predict antibiotic drug treatment failure.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Diagnostic certainty of VAP</measure>
+    <time_frame>At VAP day 1</time_frame>
+    <description>A scale from 0-100 of the diagnostic certainty by ICU physicians and nurses</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in CRP concentration</measure>
+    <time_frame>Day 1, 3 and in selected patients day 7 and 14. In patients with VAP also VAP day 1, 3 and 7.</time_frame>
+    <description>Compare cases with VAP to No VAP</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Differential blood cell counts</measure>
+    <time_frame>Day 1, 3 and in selected patients day 7 and 14. In patients with VAP also VAP day 1, 3 and 7.</time_frame>
+    <description>Compare cases with VAP to No VAP</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in PCT concentration</measure>
+    <time_frame>Day 1, 3 and in selected patients day 7 and 14. In patients with VAP also VAP day 1, 3 and 7.</time_frame>
+    <description>Compare cases with VAP to No VAP</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in lactate concentration</measure>
+    <time_frame>Day 1, 3 and in selected patients day 7 and 14. In patients with VAP also VAP day 1, 3 and 7.</time_frame>
+    <description>Compare cases with VAP to No VAP</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Routine bacterial culture results</measure>
+    <time_frame>When mini-BAL is collected</time_frame>
+    <description>Results from cultures at the clinical microbiology laboratory. Results will be correlated to bacterial species identification in mini-BAL.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Acute Physiology And Chronic Health Evaluation II (APACHE II)</measure>
+    <time_frame>Day 1, 3 and in selected patients day 7 and 14. In patients with VAP also VAP day 1, 3 and 7.</time_frame>
+    <description>Compare score between cases with VAP and no VAP.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Sequential Organ Failure Assessment (SOFA)</measure>
+    <time_frame>Day 1, 3 and in selected patients day 7 and 14. In patients with VAP also VAP day 1, 3 and 7.</time_frame>
+    <description>Compare score between cases with VAP and no VAP.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Simplified Acute Physiology Score III (Saps3)</measure>
+    <time_frame>Day 1, 3 and in selected patients day 7 and 14. In patients with VAP also VAP day 1, 3 and 7.</time_frame>
+    <description>Compare score between cases with VAP and no VAP.</description>
+  </other_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Pneumonia, Ventilator-Associated</condition>
+  <arm_group>
+    <arm_group_label>VAP</arm_group_label>
+    <description>Enrolled participants that fully meet the criteria of VAP.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Suspect VAP</arm_group_label>
+    <description>Enrolled participants that develop signs of VAP but lack some variable, for instace new radiographic infiltrate or microbiological finding compatible with VAP.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No VAP</arm_group_label>
+    <description>Enrolled participants that do not develop VAP.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Heparin-binding protein</intervention_name>
+    <description>Evaluation of the specificity and sensitivity of HBP as diagnostic biomarker for VAP.</description>
+    <arm_group_label>No VAP</arm_group_label>
+    <arm_group_label>Suspect VAP</arm_group_label>
+    <arm_group_label>VAP</arm_group_label>
+    <other_name>HBP</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Interleukin-26</intervention_name>
+    <description>Evaluation of the specificity and sensitivity of IL-26 as diagnostic biomarker for VAP.</description>
+    <arm_group_label>No VAP</arm_group_label>
+    <arm_group_label>Suspect VAP</arm_group_label>
+    <arm_group_label>VAP</arm_group_label>
+    <other_name>IL-26</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Microbiome</intervention_name>
+    <description>Evaluation of the specificity and sensitivity of the lung microbiome as prognostic biomarker for VAP.</description>
+    <arm_group_label>No VAP</arm_group_label>
+    <arm_group_label>Suspect VAP</arm_group_label>
+    <arm_group_label>VAP</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Bacterial transcriptome</intervention_name>
+    <description>Evaluation of the specificity and sensitivity of the bacterial transcriptome as prognostic biomarker for treatment failure of VAP.</description>
+    <arm_group_label>VAP</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Proteome</intervention_name>
+    <description>Evaluation of the specificity and sensitivity of the proteome in mini-BAL as biomarker for VAP.</description>
+    <arm_group_label>No VAP</arm_group_label>
+    <arm_group_label>Suspect VAP</arm_group_label>
+    <arm_group_label>VAP</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Mini-BAL Plasma Protected specimen brushes&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        General intensive care unit population.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Admission to an intensive care unit&#xD;
+&#xD;
+          -  Intubation within last 24 hours&#xD;
+&#xD;
+          -  Anticipated mechanical ventilation of at least 48 hours&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  FiO2 above 80%&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Magnus Paulsson, PhD MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Skane University Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Fredrik Sjövall, PhD MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Skane University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Magnus Paulsson, PhD MD</last_name>
+    <phone>+46461775431</phone>
+    <email>magnus.paulsson@med.lu.se</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Skåne University Hospital, Dept. of Infectious diseases</name>
+      <address>
+        <city>Lund</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Magnus Paulsson, MD PhD</last_name>
+      <phone>+4646175431</phone>
+      <email>magnus.paulsson@med.lu.se</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Skåne university Hospital, ICU</name>
+      <address>
+        <city>Malmö</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fredrik Sjövall, PhD MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Karolinska University Hospital, ICU</name>
+      <address>
+        <city>Solna</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Johan Petersson, PhD MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 31, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 11, 2021</study_first_posted>
+  <last_update_submitted>October 31, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 31, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>VAP</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Pneumonia, Ventilator-Associated</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heparin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data that underlie the results reported in this article will be shared with investigators after deidentification.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>IPD will be available from 6 months to 5 years after publication.</ipd_time_frame>
+    <ipd_access_criteria>Approval of the relevant ethical board</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

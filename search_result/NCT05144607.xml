@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1271">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05144607</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AVAP-NG 2219</org_study_id>
+    <nct_id>NCT05144607</nct_id>
+  </id_info>
+  <brief_title>Impact of the Display of Inspiratory Muscle Pressure Curves Estimated by Artificial Intelligence on the Ability of Health Care Professionals to Correctly Identify Patient-ventilator Asynchronies - Pmus Study</brief_title>
+  <acronym>Pmus</acronym>
+  <official_title>Impact of the Display of Inspiratory Muscle Pressure Curves Estimated by Artificial Intelligence on the Ability of Health Care Professionals to Correctly Identify Patient-ventilator Asynchronies - Pmus Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital Sirio-Libanes</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospital Sirio-Libanes</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patient-ventilator asynchronies can occur as a result of a mismatch between neural (patient)&#xD;
+      and ventilator inspiratory and expiratory phases. Typically, asynchronies are detected by&#xD;
+      visual inspection of ventilator waveforms. Sensitivity of this visual analysis, even when&#xD;
+      performed by experts in the field, is low, around 28% in one landmark publication. Processing&#xD;
+      the same ventilator waveforms by an artificial intelligence algorithm can produce inspiratory&#xD;
+      muscle pressure estimations (Pmus). The impact of the display of Pmus together with the other&#xD;
+      ventilator waveforms on the ability of health-care professionals to identify asynchronies has&#xD;
+      not been tested so far. OBJECTIVES: To compare the sensitivity and specificity of the&#xD;
+      detection of patient-ventilator asynchrony by health professionals through visual inspection&#xD;
+      of the ventilator waveforms (conventional group) with the sensitivity and specificity of&#xD;
+      health professionals who have available, in addition to these ventilator waveforms, also the&#xD;
+      estimated inspiratory muscle pressure curve (Pmus group). METHODS: Participantes will analyze&#xD;
+      49 consecutive different scenarios of 1 minute of mechanical ventilation generated in a&#xD;
+      simulator. A video with the 49 scenarios was produced by recording the ventilator screen in&#xD;
+      high resolution to guarantee that all participants visualize the exact same waveforms.&#xD;
+      Intensive care unit physicians and respiratory therapist will be invited to participate and&#xD;
+      after the inclusion will be randomized to one of two groups: 1) the control group will&#xD;
+      inspect pressure and flow curves and 2) the Pmus group will inspect pressure, flow, and Pmus&#xD;
+      curves. Before the start of the study, all participants will have a 30-min training session&#xD;
+      to homogenize their concepts on the definitions of the different types of asynchrony.&#xD;
+      Subsequently, the participants will be randomized to the conventional group or Pmus group.&#xD;
+      Participants will be designated to watch different sessions, in groups of at most 20&#xD;
+      individuals, according to their randomization. In these sessions, recorded ventilator&#xD;
+      waveforms will be projected to a large screen for 30 seconds. A still image containing a few&#xD;
+      ventilatory cycles will remain visible for another 30 seconds when participants will have to&#xD;
+      choose which asynchrony (if any) they can see on the screen. Sessions of the Pmus group will&#xD;
+      display, in addition to pressure and flow, the estimated muscle pressure curves. The main&#xD;
+      outcome is the asynchrony detection rate (sensitivity). The investigators will also compare&#xD;
+      specificity, positive and negative predictive values for asynchrony detection. Statistical&#xD;
+      significance will be set at an alpha level of 0.05. The sample size was estimated in 98&#xD;
+      participants based on the expectation of a 10 percentage points difference in the sensitivity&#xD;
+      between groups.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      INTRODUCTION Invasive mechanical ventilation (IMV) is instituted to promote an adequate gas&#xD;
+      exchange, a reduction in the respiratory work and patient comfort. This can be offered in the&#xD;
+      absence of patient effort through controlled modalities, in which the ventilator is the only&#xD;
+      respiratory cycle control system, or in the presence of effort through assisted modalities,&#xD;
+      in which the patient's respiratory cycle control is under ventilator influence.&#xD;
+&#xD;
+      Recent data suggest that, during IMV, the diaphragm is subject to injury characterized by&#xD;
+      damage into its fiber structure and function, known as ventilator-induced diaphragmatic&#xD;
+      dysfunction (VIDD). This may be due to excessive reduction or lack of load imposed on the&#xD;
+      musculature, an excessive overload of the respiratory musculature, or eccentric contraction&#xD;
+      of the diaphragm characterized by diaphragmatic contraction during the expiratory phase of&#xD;
+      the ventilator. VIDD covers from atrophy to rupture and remodeling of the muscle fiber&#xD;
+      starting in a matter of hours in the controlled modalities and being more tenuous in the&#xD;
+      assisted modalities, where muscle contraction is necessary. Its presence was associated with&#xD;
+      worse outcomes such as the increase in IMV days and mortality in the unit intensive care&#xD;
+      (ICU).&#xD;
+&#xD;
+      Currently, in order to reduce the risks inherent to VIDD and provide better outcomes for the&#xD;
+      patient, the use of partial ventilatory support as early as possible through assisted&#xD;
+      modalities is recommended. For this, there must be a synchronous interaction between the&#xD;
+      pressure provided by the patient's respiratory musculature (Pmus) and the pressure provided&#xD;
+      by the ventilator (Pvent).&#xD;
+&#xD;
+      Patient-ventilator asynchrony occurs when there is a mismatch between the patient and the&#xD;
+      ventilator in terms of respiratory cycle time or due to an imbalance between patient demand&#xD;
+      and ventilator supply. Minor asynchronies are inherent to system delays and considered&#xD;
+      unavoidable. On the other hand, major asynchronies, considered avoidable can be associated&#xD;
+      with poor ICU outcomes and are characterized by a mismatch between the patient's neural&#xD;
+      inspiratory and expiratory times with the ventilator's mechanical insufflation and expiration&#xD;
+      times. In the literature were described as risk factors for its development the increase or&#xD;
+      reduction of the respiratory system elastance, the presence of expiratory flow limitation,&#xD;
+      auto-PEEP, respiratory muscle weakness, hypoxemia, respiratory or metabolic alkalosis,&#xD;
+      excessive use of sedation, in addition to the use of high support levels and high tidal&#xD;
+      volumes.&#xD;
+&#xD;
+      The occurrence of asynchrony is considered frequent. It is estimated that all patients on&#xD;
+      mechanical ventilation present some type of asynchrony in up to 40% of respiratory cycles. In&#xD;
+      general, they can be characterized by occurring in situations of excessive ventilatory&#xD;
+      assistance and/or low respiratory drive and in situations of insufficient ventilatory&#xD;
+      assistance and/or increased respiratory drive.&#xD;
+&#xD;
+      Among the asynchronies present in situations of excessive ventilatory assistance and/or low&#xD;
+      respiratory drive are described: ineffective effort, auto-triggering, delayed cycling and&#xD;
+      reverse triggering. Ineffective effort is trigger-related and described as an inspiratory&#xD;
+      effort performed by the patient not followed by pressurization by the ventilator. As the&#xD;
+      previous asynchrony, auto-triggering is also related to triggering and described as&#xD;
+      pressurizing the ventilator without patient effort. Delayed cycling occurs when the duration&#xD;
+      of pressurization performed by the ventilator is greater than the duration of the effort&#xD;
+      performed by the patient. Finally, reverse trigger is defined by the patient's inspiratory&#xD;
+      effort secondary to system pressurization, with a fixed delay.&#xD;
+&#xD;
+      In situations of insufficient ventilatory assistance and/or increased respiratory drive,&#xD;
+      double triggering and premature cycling are described. Premature cycling occurs when the&#xD;
+      ventilator's pressurization time is less than the patient's neural inspiratory time. In the&#xD;
+      extreme, this asynchrony can lead to double triggering, characterized by two pressurizations&#xD;
+      offered by the ventilator during a single patient effort.&#xD;
+&#xD;
+      Although different types of asynchronies are described with clear definitions in relation to&#xD;
+      Pmus and Pvent interaction, their correct identification is considered challenging, and their&#xD;
+      misinterpretation can lead to inadequate adjustments of ventilatory parameters resulting in&#xD;
+      perpetuation of the sedative cycle, diaphragmatic dysfunction and IMV. So far, the analysis&#xD;
+      of bedside ventilator waveforms, the signal from diaphragm electrical activity (Eadi), the&#xD;
+      use of the esophageal and/or transdiaphragmatic pressure signal have been proposed as a way&#xD;
+      of detecting asynchrony.&#xD;
+&#xD;
+      Simultaneous analysis of airway flow and pressure curves over time during ventilatory support&#xD;
+      was proposed to assess patient-ventilator synchrony, with the advantage of being&#xD;
+      non-invasive, available and viable in clinical practice. However, the use of this analysis&#xD;
+      requires expertise, is not automated and is associated with failure to identify types and&#xD;
+      frequency of asynchrony.&#xD;
+&#xD;
+      The use of Eadi, as it portrays diaphragmatic activity, is considered reliable in relation to&#xD;
+      the time and intensity of activation of this muscle. However, it requires the passage of a&#xD;
+      specific nasogastric catheter, placed in the correct position and an appropriate ventilator&#xD;
+      for reading, in addition to not detecting the action of other respiratory muscles.&#xD;
+&#xD;
+      Esophageal and/or transdiaphragmatic pressure is considered the current gold standard in&#xD;
+      estimating effort. Requires a specific catheter correctly located, in addition to an&#xD;
+      appropriate monitor and system calibration.&#xD;
+&#xD;
+      The presence of asynchrony was associated with increased mechanical ventilation time,&#xD;
+      morbidity, reduced hospital discharge rate and IMV free time in the survival analysis, when&#xD;
+      compared to synchronous patients with the ventilator. Therefore, its correct detection is&#xD;
+      necessary to optimize ventilatory adjustments and provide a better outcome for patients in&#xD;
+      the ICU. Recently, the use of software has been proposed with the advantage of being a&#xD;
+      real-time, automatic and continuous analysis. However these need further studies.&#xD;
+&#xD;
+      Justification The patient-ventilator interaction is the result of two different pressure&#xD;
+      systems, the Pmus performed by the patient through the activation of the respiratory muscles&#xD;
+      and the pressure provided by the mechanical ventilator (Pvent). The tracings, provided by the&#xD;
+      mechanical ventilator, of pressure and flow are considered a graphical representation of the&#xD;
+      interaction between Pmus and Pvent, and can exemplify the control of the respiratory cycle by&#xD;
+      the patient under the influence of the ventilator. The use of these to identify asynchrony,&#xD;
+      despite being visual and suitable for a logical interpretation, in clinical practice, proved&#xD;
+      to be dependent on characteristics inherent to the observer, such as length of experience and&#xD;
+      the presence of previous training. The average sensitivity to correctly identify asynchrony&#xD;
+      using this interpretation technique was described as 28%, even considering only experienced&#xD;
+      professionals.&#xD;
+&#xD;
+      The FlexiMag Max ventilator (Magnamed, São Paulo, Brazil) provides in its interface&#xD;
+      non-invasively estimated Pmus waveforms through an artificial intelligence algorithm. The&#xD;
+      Pmus estimate, as it represents the effort performed by the patient both in time and in&#xD;
+      intensity, when viewed simultaneously with the other waveforms displayed by the ventilator,&#xD;
+      should provide a more representative graphic portrait of the patient-ventilator interaction.&#xD;
+      However, the impact of using Pmus estimation on the observer's ability to correctly identify&#xD;
+      asynchrony has not been studied so far.&#xD;
+&#xD;
+      Hypothesis The display of the estimated muscle pressure waveform performed by the patient,&#xD;
+      simultaneously with the pressure, volume and airway flow waveforms over time, will help&#xD;
+      healthcare professionals in intensive care units to identify patient-ventilator asynchrony.&#xD;
+&#xD;
+      Objective Primary Objective Compare the mean sensitivity and specificity of the detection of&#xD;
+      patient-ventilator asynchrony by health professionals through visual inspection of the&#xD;
+      pressure and flow tracings (conventional group) with the mean sensitivity and specificity of&#xD;
+      the health professionals they have, in addition to these two tracings, also the estimated&#xD;
+      inspiratory muscle pressure waveform (Pmus group).&#xD;
+&#xD;
+      Secondary Objective Determine whether there is heterogeneity of effect with respect to length&#xD;
+      of experience in intensive care (more or less than five years).&#xD;
+&#xD;
+      Methods&#xD;
+&#xD;
+      Design Prospective, cluster-randomized study.&#xD;
+&#xD;
+      Location Teaching and Research Institute (IEP) of the Sírio-Libanês Hospital.&#xD;
+&#xD;
+      Subjects Physiotherapists and Physicians.&#xD;
+&#xD;
+      Sample For each participant, a sensitivity value defined as the relative frequency of correct&#xD;
+      answers for all studied asynchronies will be calculated. After that, the average sensitivity&#xD;
+      (or average hit percentage) as the average of all participants in each group will apply. The&#xD;
+      sample size was defined based on a previous study, which had a mean sensitivity (or mean&#xD;
+      percentage of correct answers) of 28.0% with a standard deviation of 15%. In order to have an&#xD;
+      increase in the mean sensitivity of participants from 28 to 38% in the correct detection of&#xD;
+      asynchrony, with a power of 90% and a two-tailed significance level of 0.05, it will be&#xD;
+      necessary to include 49 participants per group, totaling 98 participants. The sample&#xD;
+      calculation statistics site was used (http://calculoamostral.bauru.usp.br/calculoamostral/).&#xD;
+&#xD;
+      Inclusion Criteria Physicians and physiotherapists working in an intensive care unit.&#xD;
+&#xD;
+      Exclusion Criteria Volunteers who do not respond to the asynchrony questions questionnaire&#xD;
+      will be excluded from the project.&#xD;
+&#xD;
+      Randomization Individuals invited to participate in the study, after obtaining the informed&#xD;
+      consent form, will be stratified by the period of experience in intensive care to be randomly&#xD;
+      distributed by clusters in the Pmus or conventional group.&#xD;
+&#xD;
+      According to a previous study, experienced professionals with experience in intensive care&#xD;
+      and mechanical ventilation management for more than 5 years will be considered.&#xD;
+&#xD;
+      Materials&#xD;
+&#xD;
+      ASL 5000 simulator FlexiMag Max mechanical ventilator (Magnamed, São Paulo, Brazil)&#xD;
+      Auditorium of the Institute of Teaching and Research with a screen to enlarge the monitor&#xD;
+      image Response printout per tracing Pens&#xD;
+&#xD;
+      Collected Variables The answers to the 49 questions displayed per participant will be&#xD;
+      collected as a variable, which will be considered right or wrong according to the standard&#xD;
+      answer elaborated by scenario.&#xD;
+&#xD;
+      Study Protocol The study will consist of a preparatory phase, to level participants in&#xD;
+      defining the different types of asynchronies through preliminary training. In this, a class&#xD;
+      on the subject will be given, designed for the study in question, synchronously using the&#xD;
+      Zoom ® tool. The class will be held at 6 different times, with a maximum of 20 participants&#xD;
+      per session, to allow at the end of each session to clarify doubts with the experts present&#xD;
+      who will be made available.&#xD;
+&#xD;
+      Upon completion of this step, participants will be cluster-randomized to the conventional&#xD;
+      group or Pmus group. Randomization will be stratified by length of experience in intensive&#xD;
+      care (less or more than five years). In the conventional group, two tracings will be&#xD;
+      displayed (pressure and flow) while in the Pmus group, three tracings will be displayed&#xD;
+      (pressure, flow and muscle pressure estimated through artificial intelligence algorithm).&#xD;
+&#xD;
+      Both groups will be exposed to the same simulated asynchrony scenarios using an active&#xD;
+      mechanical ventilation simulator (ASL 5000, Ingmar, USA). A total of 49 scenarios will&#xD;
+      include synchronous, ineffective effort, auto-triggering, double-triggering,&#xD;
+      reverse-triggering, premature cycling, and late cycling situations. Groups of a maximum of 10&#xD;
+      simultaneous participants will view the simulation of 49 scenarios in real time projected on&#xD;
+      the screen of an auditorium. Each scenario will be visible for one minute. At the end of this&#xD;
+      period, each participant must choose an alternative among the 7 available options that best&#xD;
+      signal the situation observed.&#xD;
+&#xD;
+      Scenario The scenarios will be performed simulating the patient-ventilator interaction using&#xD;
+      the active servo lung 5000 (ASL 5000, IngMar Medical, Pittisburgh, Pennsylvania) connected to&#xD;
+      the FlexiMag Max mechanical ventilator (Magmamed, São Paulo, Brazil).&#xD;
+&#xD;
+      The ASL 5000 will play the role of the patient in the interaction, as this, through the&#xD;
+      digital control of a piston, allows the simulation of different levels of patient efforts&#xD;
+      under different mechanical conditions of the respiratory system. The 49 proposed scenarios&#xD;
+      will be elaborated through the combination of effortlessness, low and high effort under the&#xD;
+      condition of normal, restrictive and obstructive respiratory mechanics, defined by the&#xD;
+      combination of resistance and compliance of the respiratory system.&#xD;
+&#xD;
+      The role of the ventilator in the interaction will be played by the FlexiMag Max adjusted in&#xD;
+      the assist-controlled ventilation modes for volume and pressure and in the spontaneous&#xD;
+      pressure support mode.&#xD;
+&#xD;
+      The interaction will include synchronous and asynchronous tracings. Asynchronies will be&#xD;
+      simulated based on descriptions previously published in the literature, as shown in the table&#xD;
+      below.&#xD;
+&#xD;
+      Types of asynchronies Definition Ineffective effort. Presence of effort (Pmus) without&#xD;
+      ventilator triggering&#xD;
+&#xD;
+      Double triggering. Two ventilator cycles triggered by a single effort&#xD;
+&#xD;
+      Auto triggering. None patient effort (Pmus) with ventilator triggering&#xD;
+&#xD;
+      Reverse triggering. Pmus follows the controlled (or auto-triggered) cycle with a fixed&#xD;
+      frequency and delay. May or may not generate double cycle&#xD;
+&#xD;
+      Premature cycling. Inspiratory time too short compared to the patient, defined as cycling to&#xD;
+      the expiratory phase before peak Pmus.&#xD;
+&#xD;
+      Delayed cycling. Inspiratory time too long in relation to the patient: defined as cycling to&#xD;
+      the expiratory phase after the end of the effort (Pmus).&#xD;
+&#xD;
+      Statistical analysis&#xD;
+&#xD;
+      Usual descriptive analysis will be performed. Variables with normal distribution will be&#xD;
+      described using mean and standard deviation and compared between groups using the Student t&#xD;
+      test. Variables with non-normal distribution will be described as median and interquartile&#xD;
+      range and will be compared between groups using the Mann-Whitney test. Categorical variables&#xD;
+      will be described as absolute and relative frequency and compared using the chi-square test.&#xD;
+      Data normality will be verified by the Shapiro-Wilk test. For each participant, means of&#xD;
+      sensitivity, specificity, positive predictive value and negative predictive value of&#xD;
+      asynchrony detection will be calculated. The means of these variables will be compared&#xD;
+      between the participants of the conventional group and the Pmus group using the t test, or&#xD;
+      the Mann-Whitney test as indicated. It will be verified whether there is heterogeneity of&#xD;
+      effect regarding previous experience in intensive care.&#xD;
+&#xD;
+      The level of statistical significance will be set at 0.05 two-tailed. The R 3.3.2 software&#xD;
+      (www.r-project.org) will be used. The collected data will be stored in google forms - without&#xD;
+      identification.&#xD;
+&#xD;
+      Expected results If the hypothesis is confirmed, a superiority in the Pmus group compared to&#xD;
+      the conventional group is expected, with a difference of 10 percentage points in the mean&#xD;
+      sensitivity, in correctly identifying the different types of patient-ventilator asynchrony&#xD;
+      per participant.&#xD;
+&#xD;
+      Ethical aspects The study will be submitted to the Ethics Committee of the institution where&#xD;
+      it will be carried out. Participants will be included in the study after signing an informed&#xD;
+      consent form. The study will be entirely simulation-based and will not involve patient&#xD;
+      participation.&#xD;
+&#xD;
+      Risks and benefits A possible risk for research participants would be the breach of secrecy&#xD;
+      and confidentiality in relation to the data collected, but the project team will act to&#xD;
+      guarantee the security and confidentiality of the information. Also, if the volunteer may&#xD;
+      feel uncomfortable answering questions about asynchrony, the project team will do their best&#xD;
+      to avoid this.&#xD;
+&#xD;
+      Participation in this study will provide the participant with knowledge about the current&#xD;
+      definitions of patient-ventilator asynchrony. The data obtained may benefit professionals in&#xD;
+      clinical practice and, consequently, patients who need invasive mechanical ventilatory&#xD;
+      support.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 24, 2021</start_date>
+  <completion_date type="Actual">October 6, 2021</completion_date>
+  <primary_completion_date type="Actual">September 29, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants will be randomized to onw of two groups: control group or Pmus group. The control group will watch recorded ventilator waveforms (pressure and flow), and the Pmus group will watch, in addition to pressure and flow, estimated muscle pressure curves based on artificial intelligence. For each of 49 scenarios recorded from simulated conditions using the ASL-5000 simulator, participants will have to select among multiple choices if there was patient-ventilator asynchrony.</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Ability of ICU health care professionals to detect patient-ventilator asynchrony</measure>
+    <time_frame>Imediately after the completion of the test sessions</time_frame>
+    <description>The mean sensitivity to detect asynchronies, calculated for each healthcare professional, will be compared between the groups.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Other measures of diagnostic ability</measure>
+    <time_frame>Imediately after the completion of the test sessions</time_frame>
+    <description>Specificity, positive and negative predictive values</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">105</enrollment>
+  <condition>Mechanical Ventilation Complication</condition>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Detection of patient-ventilator asynchronies through visual inspection of pressure and flow waveforms.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pmus group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Detection of patient-ventilator asynchronies through visual inspection of estimated inspiratory muscle pressure curves, in addition to pressure and flow waveforms.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Muscle Pressure curve (Pmus)</intervention_name>
+    <description>The intervention will be the display of an additional curve - the estimated inspiratory muscle pressure waveform generated using an artificial intelligence algorithm.</description>
+    <arm_group_label>Pmus group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthcare professionals (physicians and respiratory therapists) who work in intensive&#xD;
+             care units&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  refusal to participate&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eduardo LV Costa</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Sirio-Libanes</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hospital Sirio Libanes</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>01308-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <reference>
+    <citation>Kondili E, Prinianakis G, Alexopoulou C, Vakouti E, Klimathianaki M, Georgopoulos D. Respiratory load compensation during mechanical ventilation--proportional assist ventilation with load-adjustable gain factors versus pressure support. Intensive Care Med. 2006 May;32(5):692-9. Epub 2006 Mar 8.</citation>
+    <PMID>16523329</PMID>
+  </reference>
+  <reference>
+    <citation>Tobin MJ, Laghi F, Jubran A. Narrative review: ventilator-induced respiratory muscle weakness. Ann Intern Med. 2010 Aug 17;153(4):240-5. doi: 10.7326/0003-4819-153-4-201008170-00006. Review.</citation>
+    <PMID>20713792</PMID>
+  </reference>
+  <reference>
+    <citation>Powers SK, Kavazis AN, Levine S. Prolonged mechanical ventilation alters diaphragmatic structure and function. Crit Care Med. 2009 Oct;37(10 Suppl):S347-53. doi: 10.1097/CCM.0b013e3181b6e760. Review.</citation>
+    <PMID>20046120</PMID>
+  </reference>
+  <reference>
+    <citation>Jubran A. Critical illness and mechanical ventilation: effects on the diaphragm. Respir Care. 2006 Sep;51(9):1054-61; discussion 1062-4. Review.</citation>
+    <PMID>16934168</PMID>
+  </reference>
+  <reference>
+    <citation>Laghi F, Tobin MJ. Disorders of the respiratory muscles. Am J Respir Crit Care Med. 2003 Jul 1;168(1):10-48. Review.</citation>
+    <PMID>12826594</PMID>
+  </reference>
+  <reference>
+    <citation>Vassilakopoulos T, Petrof BJ. Ventilator-induced diaphragmatic dysfunction. Am J Respir Crit Care Med. 2004 Feb 1;169(3):336-41. Review.</citation>
+    <PMID>14739134</PMID>
+  </reference>
+  <reference>
+    <citation>Goligher EC, Brochard LJ, Reid WD, Fan E, Saarela O, Slutsky AS, Kavanagh BP, Rubenfeld GD, Ferguson ND. Diaphragmatic myotrauma: a mediator of prolonged ventilation and poor patient outcomes in acute respiratory failure. Lancet Respir Med. 2019 Jan;7(1):90-98. doi: 10.1016/S2213-2600(18)30366-7. Epub 2018 Nov 16. Review.</citation>
+    <PMID>30455078</PMID>
+  </reference>
+  <reference>
+    <citation>Levine S, Nguyen T, Taylor N, Friscia ME, Budak MT, Rothenberg P, Zhu J, Sachdeva R, Sonnad S, Kaiser LR, Rubinstein NA, Powers SK, Shrager JB. Rapid disuse atrophy of diaphragm fibers in mechanically ventilated humans. N Engl J Med. 2008 Mar 27;358(13):1327-35. doi: 10.1056/NEJMoa070447.</citation>
+    <PMID>18367735</PMID>
+  </reference>
+  <reference>
+    <citation>Demoule A, Molinari N, Jung B, Prodanovic H, Chanques G, Matecki S, Mayaux J, Similowski T, Jaber S. Patterns of diaphragm function in critically ill patients receiving prolonged mechanical ventilation: a prospective longitudinal study. Ann Intensive Care. 2016 Dec;6(1):75. doi: 10.1186/s13613-016-0179-8. Epub 2016 Aug 5.</citation>
+    <PMID>27492005</PMID>
+  </reference>
+  <reference>
+    <citation>Dres M, Rittayamai N, Brochard L. Monitoring patient-ventilator asynchrony. Curr Opin Crit Care. 2016 Jun;22(3):246-53. doi: 10.1097/MCC.0000000000000307. Review.</citation>
+    <PMID>27070802</PMID>
+  </reference>
+  <reference>
+    <citation>Thille AW, Rodriguez P, Cabello B, Lellouche F, Brochard L. Patient-ventilator asynchrony during assisted mechanical ventilation. Intensive Care Med. 2006 Oct;32(10):1515-22. Epub 2006 Aug 1.</citation>
+    <PMID>16896854</PMID>
+  </reference>
+  <reference>
+    <citation>Nava S, Bruschi C, Fracchia C, Braschi A, Rubini F. Patient-ventilator interaction and inspiratory effort during pressure support ventilation in patients with different pathologies. Eur Respir J. 1997 Jan;10(1):177-83.</citation>
+    <PMID>9032512</PMID>
+  </reference>
+  <reference>
+    <citation>Pohlman MC, McCallister KE, Schweickert WD, Pohlman AS, Nigos CP, Krishnan JA, Charbeneau JT, Gehlbach BK, Kress JP, Hall JB. Excessive tidal volume from breath stacking during lung-protective ventilation for acute lung injury. Crit Care Med. 2008 Nov;36(11):3019-23. doi: 10.1097/CCM.0b013e31818b308b.</citation>
+    <PMID>18824913</PMID>
+  </reference>
+  <reference>
+    <citation>Pham T, Telias I, Piraino T, Yoshida T, Brochard LJ. Asynchrony Consequences and Management. Crit Care Clin. 2018 Jul;34(3):325-341. doi: 10.1016/j.ccc.2018.03.008. Review.</citation>
+    <PMID>29907268</PMID>
+  </reference>
+  <reference>
+    <citation>Sottile PD, Albers D, Smith BJ, Moss MM. Ventilator dyssynchrony - Detection, pathophysiology, and clinical relevance: A Narrative review. Ann Thorac Med. 2020 Oct-Dec;15(4):190-198. doi: 10.4103/atm.ATM_63_20. Epub 2020 Oct 10. Review.</citation>
+    <PMID>33381233</PMID>
+  </reference>
+  <reference>
+    <citation>Mellott KG, Grap MJ, Munro CL, Sessler CN, Wetzel PA, Nilsestuen JO, Ketchum JM. Patient ventilator asynchrony in critically ill adults: frequency and types. Heart Lung. 2014 May-Jun;43(3):231-43. doi: 10.1016/j.hrtlng.2014.02.002.</citation>
+    <PMID>24794784</PMID>
+  </reference>
+  <reference>
+    <citation>Fabry B, Guttmann J, Eberhard L, Bauer T, Haberthür C, Wolff G. An analysis of desynchronization between the spontaneously breathing patient and ventilator during inspiratory pressure support. Chest. 1995 May;107(5):1387-94.</citation>
+    <PMID>7750336</PMID>
+  </reference>
+  <reference>
+    <citation>Holanda MA, Vasconcelos RDS, Ferreira JC, Pinheiro BV. Patient-ventilator asynchrony. J Bras Pneumol. 2018 Jul-Aug;44(4):321-333. doi: 10.1590/S1806-37562017000000185. Epub 2018 Jul 6. Review. English, Portuguese. Erratum in: J Bras Pneumol. 2018 Sep 03;:.</citation>
+    <PMID>30020347</PMID>
+  </reference>
+  <reference>
+    <citation>Murias G, Lucangelo U, Blanch L. Patient-ventilator asynchrony. Curr Opin Crit Care. 2016 Feb;22(1):53-9. doi: 10.1097/MCC.0000000000000270. Review.</citation>
+    <PMID>26627539</PMID>
+  </reference>
+  <reference>
+    <citation>Colombo D, Cammarota G, Alemani M, Carenzo L, Barra FL, Vaschetto R, Slutsky AS, Della Corte F, Navalesi P. Efficacy of ventilator waveforms observation in detecting patient-ventilator asynchrony. Crit Care Med. 2011 Nov;39(11):2452-7. doi: 10.1097/CCM.0b013e318225753c.</citation>
+    <PMID>21705886</PMID>
+  </reference>
+  <reference>
+    <citation>Gilstrap D, MacIntyre N. Patient-ventilator interactions. Implications for clinical management. Am J Respir Crit Care Med. 2013 Nov 1;188(9):1058-68. doi: 10.1164/rccm.201212-2214CI. Review.</citation>
+    <PMID>24070493</PMID>
+  </reference>
+  <reference>
+    <citation>Chatburn RL, Mireles-Cabodevila E. 2019 Year in Review: Patient-Ventilator Synchrony. Respir Care. 2020 Apr;65(4):558-572. doi: 10.4187/respcare.07635. Review.</citation>
+    <PMID>32213603</PMID>
+  </reference>
+  <reference>
+    <citation>Schreiber A, Bertoni M, Goligher EC. Avoiding Respiratory and Peripheral Muscle Injury During Mechanical Ventilation: Diaphragm-Protective Ventilation and Early Mobilization. Crit Care Clin. 2018 Jul;34(3):357-381. doi: 10.1016/j.ccc.2018.03.005. Review.</citation>
+    <PMID>29907270</PMID>
+  </reference>
+  <reference>
+    <citation>Sinderby C, Liu S, Colombo D, Camarotta G, Slutsky AS, Navalesi P, Beck J. An automated and standardized neural index to quantify patient-ventilator interaction. Crit Care. 2013 Oct 16;17(5):R239. doi: 10.1186/cc13063.</citation>
+    <PMID>24131701</PMID>
+  </reference>
+  <reference>
+    <citation>Chappell HW. Nurses' commitment makes a difference in discharge planning. Interview by Nancy Prewitt. Ky Nurse. 1989 May-Jun;37(3):13-4.</citation>
+    <PMID>2733426</PMID>
+  </reference>
+  <reference>
+    <citation>Akoumianaki E, Maggiore SM, Valenza F, Bellani G, Jubran A, Loring SH, Pelosi P, Talmor D, Grasso S, Chiumello D, Guérin C, Patroniti N, Ranieri VM, Gattinoni L, Nava S, Terragni PP, Pesenti A, Tobin M, Mancebo J, Brochard L; PLUG Working Group (Acute Respiratory Failure Section of the European Society of Intensive Care Medicine). The application of esophageal pressure measurement in patients with respiratory failure. Am J Respir Crit Care Med. 2014 Mar 1;189(5):520-31. doi: 10.1164/rccm.201312-2193CI. Review.</citation>
+    <PMID>24467647</PMID>
+  </reference>
+  <reference>
+    <citation>de Wit M, Miller KB, Green DA, Ostman HE, Gennings C, Epstein SK. Ineffective triggering predicts increased duration of mechanical ventilation. Crit Care Med. 2009 Oct;37(10):2740-5.</citation>
+    <PMID>19886000</PMID>
+  </reference>
+  <reference>
+    <citation>Blanch L, Villagra A, Sales B, Montanya J, Lucangelo U, Luján M, García-Esquirol O, Chacón E, Estruga A, Oliva JC, Hernández-Abadia A, Albaiceta GM, Fernández-Mondejar E, Fernández R, Lopez-Aguilar J, Villar J, Murias G, Kacmarek RM. Asynchronies during mechanical ventilation are associated with mortality. Intensive Care Med. 2015 Apr;41(4):633-41. doi: 10.1007/s00134-015-3692-6. Epub 2015 Feb 19.</citation>
+    <PMID>25693449</PMID>
+  </reference>
+  <reference>
+    <citation>Blanch L, Sales B, Montanya J, Lucangelo U, Garcia-Esquirol O, Villagra A, Chacon E, Estruga A, Borelli M, Burgueño MJ, Oliva JC, Fernandez R, Villar J, Kacmarek R, Murias G. Validation of the Better Care® system to detect ineffective efforts during expiration in mechanically ventilated patients: a pilot study. Intensive Care Med. 2012 May;38(5):772-80. doi: 10.1007/s00134-012-2493-4. Erratum in: Intensive Care Med. 2013 Feb;39(2):341.</citation>
+    <PMID>22297667</PMID>
+  </reference>
+  <reference>
+    <citation>Kondili E, Prinianakis G, Georgopoulos D. Patient-ventilator interaction. Br J Anaesth. 2003 Jul;91(1):106-19. Review.</citation>
+    <PMID>12821570</PMID>
+  </reference>
+  <reference>
+    <citation>Ramirez II, Arellano DH, Adasme RS, Landeros JM, Salinas FA, Vargas AG, Vasquez FJ, Lobos IA, Oyarzun ML, Restrepo RD. Ability of ICU Health-Care Professionals to Identify Patient-Ventilator Asynchrony Using Waveform Analysis. Respir Care. 2017 Feb;62(2):144-149. doi: 10.4187/respcare.04750. Epub 2016 Oct 25.</citation>
+    <PMID>28108684</PMID>
+  </reference>
+  <reference>
+    <citation>Parthasarathy S, Jubran A, Tobin MJ. Assessment of neural inspiratory time in ventilator-supported patients. Am J Respir Crit Care Med. 2000 Aug;162(2 Pt 1):546-52.</citation>
+    <PMID>10934085</PMID>
+  </reference>
+  <reference>
+    <citation>Bellani G, Mauri T, Coppadoro A, Grasselli G, Patroniti N, Spadaro S, Sala V, Foti G, Pesenti A. Estimation of patient's inspiratory effort from the electrical activity of the diaphragm. Crit Care Med. 2013 Jun;41(6):1483-91. doi: 10.1097/CCM.0b013e31827caba0.</citation>
+    <PMID>23478659</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 3, 2021</study_first_posted>
+  <last_update_submitted>November 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Aspiration</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

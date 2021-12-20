@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5566">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05088759</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021P000749</org_study_id>
+    <nct_id>NCT05088759</nct_id>
+  </id_info>
+  <brief_title>Randomized Controlled Trial of Alert-Based Computerized Decision Support for Optimizing Low-Density Lipoprotein Management</brief_title>
+  <acronym>LDL-ALERT</acronym>
+  <official_title>Randomized Controlled Trial of Alert-Based Computerized Decision Support for Optimizing Low-Density Lipoprotein Management (LDL-ALERT)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Brigham and Women's Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A 400-patient U.S.-based single-center Quality Improvement Initiative in the form of a&#xD;
+      randomized controlled trial focused on the feasibility of implementation of this electronic&#xD;
+      alert-based CDS (EPIC BPA) based on LDL-C values. The 400 patients will be comprised of 200&#xD;
+      in the &quot;Hospitalized Patient Cohort&quot; and 200 in the &quot;Outpatient Clinic Cohort.&quot; The&#xD;
+      allocation ratio will be 1:1 for an electronic alert-based CDS (EPIC BPA) notification versus&#xD;
+      no notification.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Given the striking failure to achieve evidence-based and guideline-recommended low-density&#xD;
+      lipoprotein cholesterol (LDL-C) targets and widespread underutilization of effective&#xD;
+      LDL-lowering therapies, including ezetimibe and PCSK9 inhibitors, even among highest risk&#xD;
+      patients, a heavy, unmitigated burden of cardiovascular risk persists, is addressable, and&#xD;
+      demands novel strategies. An alert-based computerized decision support (CDS) strategy&#xD;
+      addressed successfully a similar unmet need in cardiovascular medicine: the failure to&#xD;
+      prescribe antithrombotic therapy in atrial fibrillation patients at high-risk for stroke&#xD;
+      (Piazza G, et al. Eur Heart J. 2020 Mar 7;41(10):1086-1096). This alert-based CDS strategy&#xD;
+      tripled appropriate antithrombotic prescriptions in this vulnerable patient population. The&#xD;
+      alert reduced the odds of myocardial infarction (MI) at 90 days by 87% (OR 0.13; 95% CI&#xD;
+      0.04-0.45) and cerebrovascular events or systemic embolism at 90 days by 88% (OR 0.12; 95% CI&#xD;
+      0.0-0.91). Alert-based CDS effectively overcame barriers to guideline-directed therapy,&#xD;
+      integrating numerous clinical trials and evidence-based clinical practice guidelines, failure&#xD;
+      to identify at-risk patients, and educational gaps in strategies for stroke prevention.&#xD;
+&#xD;
+      The crisis in the failure to achieve guideline-directed LDL-C targets demonstrates similar&#xD;
+      clinical obstacles, suggesting that a CDS approach could be effective for optimizing lipid&#xD;
+      management. The following single-center, 400-patient, randomized controlled trial of an EPIC&#xD;
+      Best Practice Advisory (BPA; alert-based computerized decision support tool) aims to increase&#xD;
+      guideline-directed utilization of appropriate LDL-lowering therapies in undertreated&#xD;
+      inpatients and outpatients with atherosclerotic cardiovascular disease (ASCVD), including&#xD;
+      those with recent acute coronary syndrome (ACS). The study will evaluate this CDS&#xD;
+      intervention in both patient populations in parallel to gain insight into the impact of&#xD;
+      different settings on this approach and to better position implementation of this strategy in&#xD;
+      our own health systems and other clinical settings.&#xD;
+&#xD;
+      Study Design: A 400-patient U.S.-based single-center Quality Improvement Initiative in the&#xD;
+      form of a randomized controlled trial focused on the feasibility of implementation of this&#xD;
+      electronic alert-based CDS (EPIC BPA) based on LDL-C values. The 400 patients will be&#xD;
+      comprised of 200 in the &quot;Hospitalized Patient Cohort&quot; and 200 in the &quot;Outpatient Clinic&#xD;
+      Cohort.&quot; The allocation ratio will be 1:1 for an electronic alert-based CDS (EPIC BPA)&#xD;
+      notification versus no notification.&#xD;
+&#xD;
+      Study Population: Patients eligible for enrollment will be drawn from two populations with&#xD;
+      atherosclerotic cardiovascular disease (ASCVD), including those with recent acute coronary&#xD;
+      syndrome (ACS): hospitalized patients (inpatients) and clinic patients (outpatients).&#xD;
+&#xD;
+      Inpatient Cohort: All patients ≥ 18 years old and admitted to the BWH Cardiovascular Medicine&#xD;
+      Service with a diagnosis (primary or secondary), medical history entry, or problem list entry&#xD;
+      of ASCVD (acute coronary syndromes, a history of MI, stable or unstable angina, coronary or&#xD;
+      other arterial revascularization, stroke, transient ischemic attack, or peripheral arterial&#xD;
+      disease) will be identified by the EPIC BPA. Those with a most recent (within 1 year) or&#xD;
+      current LDL-C value greater than 80 mg/dL (allowing for a 10% difference between goal LDL-C&#xD;
+      and current measurement) who are on a statin but not on ezetimibe and/or PCSK9 inhibitor will&#xD;
+      be potentially eligible for randomization. Any patients with no recent LDL-C measurement&#xD;
+      within the year prior to randomization will have an alert issued to their providers with&#xD;
+      recommendation for checking a lipid panel, which would be standard-of-care.&#xD;
+&#xD;
+      Outpatient Cohort: All patients ≥ 18 years old and seen in the BWH Watkins Cardiovascular&#xD;
+      Medicine Clinic with a diagnosis (primary of secondary) or problem list entry of ASCVD will&#xD;
+      be identified by the EPIC BPA. Those with a most recent (within 1 year) or current LDL-C&#xD;
+      value greater than 80 mg/dL (allowing for a 10% difference between goal LDL-C and current&#xD;
+      measurement) who are on a statin but not on ezetimibe and/or PCSK9 inhibitor will be&#xD;
+      potentially eligible for randomization. Any patients with no recent LDL-C measurement within&#xD;
+      one year will have an alert issued to their providers with recommendation for checking a&#xD;
+      lipid panel, which would be standard-of-care.&#xD;
+&#xD;
+      Intervention: The study team will devise a program to run within the EPIC Electronic Health&#xD;
+      Record (EHR) that will identify patients with ASCVD who are hospitalized on the BWH&#xD;
+      Cardiovascular Medicine Service or seen in the BWH Watkins Cardiovascular Medicine Clinic and&#xD;
+      have a most recent (within 1 year) or current LDL-C value greater than 80 mg/dL and are on a&#xD;
+      statin but not an PCSK9 inhibitor. In these patients who subsequently randomly assigned to&#xD;
+      the alert-based CDS strategy, an on-screen electronic alert will prompt the responsible&#xD;
+      inpatient provider (inpatient cohort) or the cardiologist of record for the clinic visit&#xD;
+      (outpatient cohort) as follows:&#xD;
+&#xD;
+        1. All patients whose LDL-C is not less than 70 mg/dL and not taking a maximally tolerated&#xD;
+           statin dose will prompt a recommendation for statin intensification&#xD;
+&#xD;
+        2. All patients whose LDL-C is within 20% of 70 mg/dL and who are on a maximally tolerated&#xD;
+           statin dose but not on ezetimibe or PCSK9 inhibitor will receive a prompt for adding&#xD;
+           ezetimibe&#xD;
+&#xD;
+        3. All patients whose LDL-C is greater than 20% of goal, and on a maximally tolerated&#xD;
+           statin (±ezetimibe) but not on PCSK9 inhibitor will receive a prompt for initiating&#xD;
+           PCSK9 inhibitor&#xD;
+&#xD;
+      The alert-based CDS will consist of an on-screen electronic dialogue box that will notify the&#xD;
+      clinician that the patient is at increased risk for cardiovascular events and is not at LDL-C&#xD;
+      goal according to current evidence-based clinical practice guidelines. The clinician will&#xD;
+      have the opportunity to proceed to an order template through which ezetimibe or a PCSK9&#xD;
+      inhibitor can be prescribed. The clinician could also elect to learn more about current&#xD;
+      evidence-based clinical practice guideline recommendations for LDL targets. Finally, the&#xD;
+      clinician could elect to proceed without ordering more intensive lipid-lowering therapy or&#xD;
+      reading the guidelines but would have to provide a rationale for not prescribing ezetimibe or&#xD;
+      a PCSK9 inhibitor.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 8, 2021</start_date>
+  <completion_date type="Anticipated">December 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>U.S.-based, single-center, randomized controlled trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>frequency of prescription of appropriate LDL-lowering therapy</measure>
+    <time_frame>90 days</time_frame>
+    <description>frequency of prescription of appropriate LDL-lowering therapy, including statin intensification or addition of ezetimibe or PCSK9 inhibitors at 90 days in hospitalized and clinic patients with ASCVD, including recent ACS, and a most recent (within 1 year) or current LDL-C value greater than 80 mg/dL who are on a statin.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in LDL-C level at next follow-up laboratory test</measure>
+    <time_frame>90 days</time_frame>
+    <description>Change in LDL-C level at next follow-up laboratory test (at least three months after the identification of the qualifying LDL-C measurement) in hospitalized and clinic patients with ASCVD, including recent ACS, and a most recent (within 1 year) or current LDL value greater than 80 mg/dL who are on a statin.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Hyperlipemia, Mixed</condition>
+  <condition>ASCVD</condition>
+  <arm_group>
+    <arm_group_label>Alert</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>an on-screen electronic alert will prompt the responsible inpatient provider (inpatient cohort) or the cardiologist of record for the clinic visit (outpatient cohort) as follows:&#xD;
+All patients whose LDL-C is not less than 70 mg/dL and not taking a maximally tolerated statin dose will prompt a recommendation for statin intensification&#xD;
+All patients whose LDL-C is within 20% of 70 mg/dL and who are on a maximally tolerated statin dose but not on ezetimibe or PCSK9 inhibitor will receive a prompt for adding ezetimibe&#xD;
+All patients whose LDL-C is greater than 20% of goal, and on a maximally tolerated statin (±ezetimibe) but not on PCSK9 inhibitor will receive a prompt for initiating PCSK9 inhibitor</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No Alert</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>No notification will be issues</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Alert</intervention_name>
+    <description>The alert-based CDS will consist of an on-screen electronic dialogue box that will notify the clinician that the patient is at increased risk for cardiovascular events and is not at LDL-C goal according to current evidence-based clinical practice guidelines. The clinician will have the opportunity to proceed to an order template through which ezetimibe or a PCSK9 inhibitor can be prescribed. The clinician could also elect to learn more about current evidence-based clinical practice guideline recommendations for LDL targets. Finally, the clinician could elect to proceed without ordering more intensive lipid-lowering therapy or reading the guidelines but would have to provide a rationale for not prescribing ezetimibe or a PCSK9 inhibitor.</description>
+    <arm_group_label>Alert</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion:&#xD;
+&#xD;
+          -  patients ≥ 18 years old AND&#xD;
+&#xD;
+          -  admitted to the BWH Cardiovascular Medicine Service with a diagnosis (primary or&#xD;
+             secondary), medical history entry, or problem list entry of ASCVD (acute coronary&#xD;
+             syndromes, a history of MI, stable or unstable angina, coronary or other arterial&#xD;
+             revascularization, stroke, transient ischemic attack, or peripheral arterial disease)&#xD;
+             AND&#xD;
+&#xD;
+          -  most recent (within 1 year) or current LDL-C value greater than 80 mg/dL AND&#xD;
+&#xD;
+          -  on a statin but not on ezetimibe and/or PCSK9 inhibitor will be potentially eligible&#xD;
+             for randomization&#xD;
+&#xD;
+        Exclusion:&#xD;
+&#xD;
+        -already receiving PCSK9 inhibitor therapy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Gregory Piazza, MD, MS</last_name>
+    <phone>6177326984</phone>
+    <email>gpiazza@bwh.harvard.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gregory Piazza, MD, MS</last_name>
+      <phone>617-732-6984</phone>
+      <email>gpiazza@bwh.harvard.edu</email>
+    </contact>
+    <contact_backup>
+      <phone_ext>Piazza</phone_ext>
+      <email>gpiazza@bwh.harvard.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Gregory Piazza, MD, MS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Samuel Goldhaber, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ron Blankstein, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jorge Plutzky, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 22, 2021</study_first_posted>
+  <last_update_submitted>October 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Brigham and Women's Hospital</investigator_affiliation>
+    <investigator_full_name>Samuel Z.Goldhaber, MD</investigator_full_name>
+    <investigator_title>Director, Thrombosis Research Group</investigator_title>
+  </responsible_party>
+  <keyword>hyperlipidemia</keyword>
+  <keyword>cholesterol</keyword>
+  <keyword>lipid-lowering</keyword>
+  <keyword>decision support</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hyperlipoproteinemia Type V</mesh_term>
+    <mesh_term>Hyperlipidemias</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

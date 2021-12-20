@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1733">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05138601</url>
+  </required_header>
+  <id_info>
+    <org_study_id>00147392</org_study_id>
+    <nct_id>NCT05138601</nct_id>
+  </id_info>
+  <brief_title>Remote Monitoring and Virtual Collaborative Care For Hypertension Control to Prevent Cognitive Decline Phase II</brief_title>
+  <acronym>vCCC 2</acronym>
+  <official_title>Remote Monitoring and Virtual Collaborative Care For Hypertension Control to Prevent Cognitive Decline Phase II</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Kansas Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Utah</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Missouri-Columbia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Kansas Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized, controlled, pragmatic trial designed as a &quot;type I hybrid&#xD;
+      effectiveness-implementation trial&quot; that tests a hypertension program integrating a virtual&#xD;
+      Collaborative Care Clinic (vCCC), home blood pressure monitoring, and telehealth for lowering&#xD;
+      blood pressure (BP) in two health systems.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study tests a hypertension program integrating a virtual Collaborative Care Clinic&#xD;
+      (vCCC), home blood pressure monitoring, and telehealth for lowering blood pressure (BP) in&#xD;
+      two health systems (University of Kansas Health System [UKHS] and the University of Utah&#xD;
+      Health [UUtah]). The vCCC is staffed by clinical pharmacists who remotely monitor home BP and&#xD;
+      use telehealth to work with patients to lower systolic blood pressure (SBP) to &lt;130 mmHg, as&#xD;
+      recommended by the current American College of Cardiology/American Heart Association&#xD;
+      (ACC/AHA) guidelines. Eligible patients with uncontrolled hypertension (HTN) are identified&#xD;
+      automatically through the electronic health record (EHR) during visits to their Primary Care&#xD;
+      Provider (PCP) and referred for enrollment into the vCCC.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2021</start_date>
+  <completion_date type="Anticipated">August 2024</completion_date>
+  <primary_completion_date type="Anticipated">August 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Systolic Blood Pressure (SBP) Control At 24 Months</measure>
+    <time_frame>24 months.</time_frame>
+    <description>Our primary outcome is achieving SBP control (&lt;130 mmHg). Blood pressure measures will be collected in a dashboard system and will be integrated into the common data model table for final analysis. Investigators will utilize the Benjamini-Hochberg approach to control for multiple testing in our primary outcome.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive Measures</measure>
+    <time_frame>0 months, 12 months, and 24 months</time_frame>
+    <description>Investigators will use composite z score obtained by averaging standardized z scores of individual NP test scores and use z scores of individual tests to determine changes in a single test that may be obscured with the measurement of a global score. The tests are Montreal Cognitive Assessment (MoCA) Blind, Rey Auditory Verbal Learning Test (RAVLT), Number Span Forwards and Backwards (NSFB), Oral Trail Making Test (OTMT), Category Fluency, Verbal Fluency, Rey Auditory Verbal Naming Test Delayed Recall and Recognition, and Verbal Naming Test (VNT). MoCA Blind has 22 possible points, with19 or above normal. NSFB gives 2 scores, total number of correct trials and longest sequence repeated correctly with higher score indicating better working memory. The category fluency has 2 possible scores with a higher number of unique names indicating a better semantic memory. For the Verbal Fluency test the score reflects the number of unique responses with a higher score indicating better memory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Major Adverse Cardiovascular Events (MACE)</measure>
+    <time_frame>24 months</time_frame>
+    <description>Data from the electronic health record (EHR) will be extracted. MACE will be identified by will be identified by International Statistical Classification of Diseases and Related Health Problems (ICD) and Current Procedural Terminology (CPT) codes for hospitalization due to myocardial infarction (MI), nonfatal stroke, coronary revascularization, and heart failure, which will be identified by combining observations from EHR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Atherosclerotic Cardiovascular Disease Risk (ASCVD)</measure>
+    <time_frame>24 months</time_frame>
+    <description>Data from the EHR will be extracted. (ASCVD) score will be estimated by age, sex, race, BP, total cholesterol, HDL cholesterol, history of diabetes, smoking status, HTN treatment, statin and aspirin therapy. ASCVD score is given as a percentage. A 0 to 4.9% risk is considered low risk, 5 to 7.4% is considered borderline, a 7.5 to 20% risk is considered intermediate, and a score above 20% is considered high.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health Care Resource Utilization: Charges Per Patient</measure>
+    <time_frame>2 years</time_frame>
+    <description>Health utilization outcome measurement will be ascertained mainly by CMS claims data. The utilization outcome measurement will include charges per patient (measured as total and average dollar amount of charges).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>2 years</time_frame>
+    <description>All-cause mortality, as a composite endpoint, will be obtained from Common Data Model DEATH table and be ascertained by linked Medicare Beneficiary Summary File available from Centers for Medicare and Medicaid Services (CMS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Systolic Blood Pressure (SBP) Control At 12 Months</measure>
+    <time_frame>12 Months</time_frame>
+    <description>Our primary outcome is achieving SBP control (&lt;130 mmHg). Blood pressure measures will be collected in a dashboard system and will be integrated into the common data model table for final analysis. Investigators will utilize the Benjamini-Hochberg approach to control for multiple testing in our primary outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health utilization outcome measurement: Carrier Claims</measure>
+    <time_frame>2 years</time_frame>
+    <description>Health utilization outcome measurement will be ascertained mainly by CMS claims data. The utilization outcome measurement will include healthcare-facility-metrics, such as carrier (physician Part B) claims (measured as total and average counts of distinct claims)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health utilization outcome measurement: facility claims</measure>
+    <time_frame>2 years</time_frame>
+    <description>Health utilization outcome measurement will be ascertained mainly by CMS claims data. The utilization outcome measurement will include outpatient, inpatient, skilled nursing facility claims (measured as total and average counts of distinct claims).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health utilization outcome measurement: coronary care claims</measure>
+    <time_frame>2 years</time_frame>
+    <description>Health utilization outcome measurement will be ascertained mainly by CMS claims data. The utilization outcome measurement will include component-of-care metrics, such as coronary care claims (measured as total and average counts of distinct claims)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health utilization outcome measurement: coronary care expenditures</measure>
+    <time_frame>2 years</time_frame>
+    <description>Health utilization outcome measurement will be ascertained mainly by CMS claims data. The utilization outcome measurement will include component-of-care metrics, such as coronary care expenditures (measured as total and average dollar amount of charges) per patient</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health utilization outcome measurement: coronary care unit days</measure>
+    <time_frame>2 years</time_frame>
+    <description>Health utilization outcome measurement will be ascertained mainly by CMS claims data. The utilization outcome measurement will include component-of-care metrics, such as coronary care unit days (measured as total length of stay in coronary care unit).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health utilization outcome measurement: intensive care unit (ICU) days</measure>
+    <time_frame>2 years</time_frame>
+    <description>Health utilization outcome measurement will be ascertained mainly by CMS claims data. The utilization outcome measurement will include component-of-care metrics, such as ICU days (measured as total length of ICU stay) per patient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health utilization outcome measurement: general drug claims</measure>
+    <time_frame>2 years</time_frame>
+    <description>Health utilization outcome measurement will be ascertained mainly by CMS claims data. The utilization outcome measurement will include component-of-care metrics such as general drugs and/or IV therapy claims (measured as total and average counts of distinct claims) per patient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health utilization outcome measurement: durable medical equipment Medicare payments</measure>
+    <time_frame>2 years</time_frame>
+    <description>Health utilization outcome measurement will be ascertained mainly by CMS claims data. The utilization outcome measurement will include component-of-care metrics such as durable medical equipment Medicare payments (measured as total and average dollar amount of charges) per patient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health utilization outcome measurement: imaging and laboratory events</measure>
+    <time_frame>2 years</time_frame>
+    <description>Health utilization outcome measurement will be ascertained mainly by CMS claims data. The utilization outcome measurement will include component-of-care metrics such as imaging and laboratory events (measured as total and average counts of distinct claims suggesting imaging and laboratory events).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health utilization outcome measurement: imaging and laboratory expenditures</measure>
+    <time_frame>2 years</time_frame>
+    <description>Health utilization outcome measurement will be ascertained mainly by CMS claims data. The utilization outcome measurement will include component-of-care metrics such as imaging and laboratory expenditures (measured as total and average dollar amount of charges) per patient.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Hypertension</condition>
+  <arm_group>
+    <arm_group_label>Usual Care with Education</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The participant will be provided with educational material and a home BP monitor. Control participants will continue to see their physicians for their usual care for BP management (their BP data will not be reviewed by pharmacists and the patients will not have support from vCCC pharmacists)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Virtual Collaborative Care Clinic</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will partake in the virtual collaborative care clinic</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Virtual Collaborative Care Clinic</intervention_name>
+    <description>Trained clinical pharmacists will monitor BP, prescribe and adjust medications and monitor for side effects of medications under the license of, and in communication with, the patient's physician.</description>
+    <arm_group_label>Virtual Collaborative Care Clinic</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 65 and older&#xD;
+&#xD;
+          -  Active patient in participating primary care clinic&#xD;
+&#xD;
+          -  Access to compatible &quot;smartphone&quot; or device (i.e., Android, Kindle or Apple with&#xD;
+             internet connectivity or mobile network)&#xD;
+&#xD;
+          -  Elevated BP as defined by&#xD;
+&#xD;
+          -  SBP &gt;140 at current visit AND documented history of hypertension OR SBP &gt; 140 at&#xD;
+             current visit and at another visit in last 18 months OR SBP &gt;160 at current visit&#xD;
+&#xD;
+          -  Sufficiently fluent in English to participate in study procedures&#xD;
+&#xD;
+          -  Adequate hearing to complete study procedures&#xD;
+&#xD;
+          -  Able to give their own signed consent&#xD;
+&#xD;
+          -  Health insurance coverage by Medicare&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Clinically significant illness that may affect safety or completion per their treating&#xD;
+             PCP or study physician&#xD;
+&#xD;
+          -  Needing interpreter for clinic visits (through Electronic Health Record)&#xD;
+&#xD;
+          -  Currently in hospice care&#xD;
+&#xD;
+          -  Currently receiving chemotherapy&#xD;
+&#xD;
+          -  Unable to take accurate BP measurement, either due to inability to follow protocol to&#xD;
+             check BP or due to medical conditions such as lymphedema or dialysis access on both&#xD;
+             arms.&#xD;
+&#xD;
+          -  Currently participating in another intervention trial&#xD;
+&#xD;
+          -  End stage kidney disease on dialysis&#xD;
+&#xD;
+          -  Diagnosis of dementia (i.e., dementia, Alzheimer's disease, vascular dementia,&#xD;
+             dementia with Lewy bodies, frontotemporal dementia)&#xD;
+&#xD;
+          -  Chronic active disease with expected life expectancy &lt; 2 years as determined by the&#xD;
+             study team&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jeffrey Burns, MD, MS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Kansas Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alexandra Dahlgren</last_name>
+    <phone>(913) 945-7668</phone>
+    <email>adahlgren@kumc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Heidi Anderson</last_name>
+    <email>handerson8@kumc.edu</email>
+  </overall_contact_backup>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>September 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 1, 2021</study_first_posted>
+  <last_update_submitted>November 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypertension</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

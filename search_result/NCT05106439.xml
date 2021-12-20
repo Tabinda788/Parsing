@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4206">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05106439</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HUM00033029.20</org_study_id>
+    <nct_id>NCT05106439</nct_id>
+  </id_info>
+  <brief_title>Intern Health Study: 2020 Cohort Micro-Randomized Trial</brief_title>
+  <official_title>Intern Health Study: 2020 Cohort Micro-Randomized Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Michigan</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Michigan</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to evaluate the efficacy of gamified competition (delivered through&#xD;
+      a smartphone) for improving the physical activity and sleep of medical interns.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Due to their high-stress workloads, medical interns tend to have lower sleep and decreased&#xD;
+      physical activity. The goal of this study is to evaluate the efficacy of gamified competition&#xD;
+      (delivered through a smartphone) for improving the physical activity and sleep of medical&#xD;
+      interns. During the study, they are teamed up by programs and institutions and competes with&#xD;
+      other teams, which aim to motivate them to have more physical activity and sleep duration&#xD;
+      during their internship year.&#xD;
+&#xD;
+      The primary aim of this study is to investigate whether introducing competition mechanisms&#xD;
+      into mobile health (mHealth) interventions can improve a medical intern's activity-related&#xD;
+      behavioral outcomes: daily step counts and sleep duration. The first secondary aim is to&#xD;
+      assess the time-varying competition effect on their behavioral outcomes. The second secondary&#xD;
+      aim is to evaluate how social cooperation (competing within the same institution or program)&#xD;
+      moderates the effect of competition on behavioral outcomes. The first exploratory aim is to&#xD;
+      assess the competition effect on study engagement and the second exploratory aim is to&#xD;
+      evaluate the competition effect on mental outcome, mood score.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 1, 2020</start_date>
+  <completion_date type="Actual">June 30, 2021</completion_date>
+  <primary_completion_date type="Actual">June 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomization scheme</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Average daily step count</measure>
+    <time_frame>7 days</time_frame>
+    <description>Participants' daily step counts are recorded through a Fitbit or an apple watch. High step counts are considered a positive outcome as it indicates more physical activity.&#xD;
+For teams randomized into competition arm and randomized to compete on step count, their average daily step count is compared with the average step count of the opponent team.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Average daily sleep minutes</measure>
+    <time_frame>7 days</time_frame>
+    <description>Participant's nightly sleep duration (in minutes) is recorded through a Fitbit or an apple watch. High sleep duration is considered a positive outcome.&#xD;
+For teams randomized into competition arm and randomized to compete on sleep duration, their average daily sleep minutes is compared with the average sleep minutes of the opponent team.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Average daily mood score</measure>
+    <time_frame>7 days</time_frame>
+    <description>Through the study mobile app, participants enter a mood score (scale 1-10) every day of the study. 1 corresponds to lowest mood and 10 corresponds to highest mood</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">2286</enrollment>
+  <condition>Telemedicine</condition>
+  <arm_group>
+    <arm_group_label>Competition arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Programs with at least five interns were grouped into program-based teams. Interns within the same residency institution in programs that did not meet this criterion were grouped into institution-based teams, with a minimum of five participants per team.&#xD;
+For each week, an eligible team is randomized to either competition or non-competition group with 50/50 chance. For those randomized to competition arm, teams were assigned an opponent team according to a weekly equally randomly selected rule from three options: 1. total randomization, by which the opponent team was assigned regardless of institution and specialty; 2. within-institution randomization, by which two competing teams were from the same institution; 3. within-specialty randomization, by which two paired teams were from the same specialty. For each pair of competing teams, there was a 50/50 chance that they would compete on average daily step counts or average daily sleep minutes.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non-competition group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>For each week, an eligible team is randomized to either competition or non-competition group with 50/50 chance.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Intern Health Study competition-related mobile notification</intervention_name>
+    <description>Participants will receive three types of push notifications: 1. Alert of competition type (steps or sleep) and opponent (Sunday 9pm), 2. Competition score status update (Wednesday 9pm, Saturday 11am), and 3. Competition final results (Monday 12pm).</description>
+    <arm_group_label>Competition arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Intern Health Study mobile app</intervention_name>
+    <description>The Intern Health Study mobile app is able to conduct a daily mood survey. It also aggregates and visualizes historical data on intern mood, activity, and sleep.</description>
+    <arm_group_label>Competition arm</arm_group_label>
+    <arm_group_label>Non-competition group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Intern Health Study mobile app competition scoreboard and history</intervention_name>
+    <description>Participant can view their current competition scoreboard and competition history at any time via the study app.</description>
+    <arm_group_label>Competition arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Medical intern during the 2020-2021 internship year&#xD;
+&#xD;
+          -  Downloaded app, completed consent and filled out baseline survey prior to June 16th,&#xD;
+             2020&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  None&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Srijan Sen, M.D., Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Michigan</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Michigan, Ann Arbor</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 3, 2021</study_first_posted>
+  <last_update_submitted>October 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Michigan</investigator_affiliation>
+    <investigator_full_name>Srijan Sen</investigator_full_name>
+    <investigator_title>Research Professor</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>De-identified genomic and survey information (baseline survey, plus quarterly survey which contains the PHQ-9) will be shared with the National Institute for Mental Health (NIMH).</ipd_description>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Data will be made available 12 months after the end of the trial. It will be made available indefinitely after that date.</ipd_time_frame>
+    <ipd_access_criteria>The data will be shared directly with the NIMH. NIMH will apply their criteria for qualified researchers and analyses.</ipd_access_criteria>
+    <ipd_url>https://www.openicpsr.org/openicpsr/project/129225/version/V1/view</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

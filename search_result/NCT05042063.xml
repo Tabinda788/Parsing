@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="9156">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05042063</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PI_2021/72</org_study_id>
+    <nct_id>NCT05042063</nct_id>
+  </id_info>
+  <brief_title>Acoustic Cough Monitoring for the Management of Patients With Known Respiratory Disease</brief_title>
+  <official_title>Acoustic Cough Monitoring for the Management of Patients With Known Respiratory Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Clinica Universidad de Navarra, Universidad de Navarra</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Centre de Recherche du Centre Hospitalier de l'Université de Montréal</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hyfe, Inc</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Clinica Universidad de Navarra, Universidad de Navarra</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study pretends to evaluate the potential use of Hyfe Cough Tracker (Hyfe) to screen for,&#xD;
+      diagnose, and support the clinical management of patients with respiratory diseases, while&#xD;
+      enriching a dataset of disease-specific annotated coughs, for further refinement of similar&#xD;
+      systems.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an observational study that will take place in the two campuses of the Clínica&#xD;
+      Universidad de Navarra, located in Pamplona and Madrid (Spain).&#xD;
+&#xD;
+      An Artificial-Intelligence system (AI) that detects and records explosive putative cough&#xD;
+      sounds and identifies human cough based on acoustic characteristics will be used to&#xD;
+      automatically monitor cough. Potential participants either attending the outpatient clinic or&#xD;
+      hospitalised with a complaint of cough will be invited by their treating physician, or a&#xD;
+      member of the research team, and included in the study by part of the research team. A&#xD;
+      researcher will instruct participants on how to install and use Hyfe Cough Tracker in their&#xD;
+      smartphones. Participants will be monitored for 30 days (outpatients) or until discharged&#xD;
+      from the hospital (inpatients). Participants will be asked to complete a daily, online,&#xD;
+      standardised 100 mm visual analogue scale (VAS) to register changes in the subjective&#xD;
+      intensity of their cough, while using Hyfe to objectively monitor changes in its frequency.&#xD;
+&#xD;
+      In parallel, a dataset of annotated cough sounds will be constructed and retrospectively used&#xD;
+      to assess differences in acoustic patterns of cough, and to evaluate the performance of the&#xD;
+      system detecting them.&#xD;
+&#xD;
+      A first subgroup of participants will be recruited outside the clinical setting and asked to&#xD;
+      provide a series of elicited sounds, including coughs, which will then be used to determine&#xD;
+      the system's performance accurately discriminating coughs from non-cough sounds, and compared&#xD;
+      to trained human listeners.&#xD;
+&#xD;
+      A second subgroup of participants will be will be instructed to use Hyfe, and the related&#xD;
+      Hyfe Air wearable device continuously for a period between 6 and 24 hours, while they record&#xD;
+      themselves using a MP3 recorder connected to a lapel microphone. This group will be used to&#xD;
+      evaluate the performance of Hyfe and Hyfe Air in a real-life setting, with spontaneous&#xD;
+      coughs.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 15, 2021</start_date>
+  <completion_date type="Anticipated">September 15, 2026</completion_date>
+  <primary_completion_date type="Anticipated">April 15, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Correlation between subjective perception of cough and objective frequency</measure>
+    <time_frame>6 months.</time_frame>
+    <description>The daily VAS score of participants will be compared to the cough frequency registered by the cough surveillance system. These data will be used to fit a linear regression model to compare self-reported VAS scores to daily cough frequency and calculate a correlation coefficient (r).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Sensitivity of the system discriminating coughs</measure>
+    <time_frame>6 months.</time_frame>
+    <description>The sensitivity of Hyfe for the discrimination of coughs from other explosive sounds will be compared to that of trained human listeners. Sensitivity will be reported as the proportion of sounds correctly identified as coughs (true positives), from the total cough sounds produced (true positives + false negatives).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Specificity of the system discriminating coughs</measure>
+    <time_frame>6 months.</time_frame>
+    <description>The specificity of Hyfe for the discrimination of coughs from other explosive sounds will be compared to that of trained human listeners. Specificity will be defined as the proportion of non-cough sounds correctly identified by the system (true negatives) from the total non-cough sounds produced (true negatives + false positives)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive predictive value (PPV) of the system discriminating coughs</measure>
+    <time_frame>6 months.</time_frame>
+    <description>The PPV of Hyfe for the discrimination of coughs from other explosive sounds will be compared to that of trained human listeners. PPV will be defined as the proportion of cough sounds correctly identified by the system (true positives) from the total sounds labelled as coughs (true positives + false positives).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Negative predictive value (NPV) of the system discriminating coughs</measure>
+    <time_frame>6 months.</time_frame>
+    <description>The NPV of Hyfe for the discrimination of coughs from other explosive sounds will be compared to that of trained human listeners. NPV will be defined as the proportion of non-cough sounds correctly identified by the system (true negatives) from the total of sounds labelled as non-coughs (true negatives+ false negatives).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Construction of an annotated cough dataset</measure>
+    <time_frame>5 years.</time_frame>
+    <description>Cough registries of participants with an etiologic diagnosis will be annotated and stored to create a dataset that can be used for further algorithm training and refinement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sensitivity of the system differentiating coughs caused by different conditions</measure>
+    <time_frame>5 years.</time_frame>
+    <description>The records obtained from participants for which an etiologic diagnosis is reached before the end of the study will be analysed to detect differential acoustic patterns, which will in turn be used to train the system's convolutional neural network to perform respiratory disease cough classification. The performance of this system will be retrospectively evaluated by determining its sensitivity for the diagnosis of different respiratory conditions, compared to clinical diagnoses made by a physician. Sensitivity will be defined as the proportion of participants in which Hyfe reaches a correct diagnoses based on cough acoustic patterns (true positives) from the total number of participants diagnosed with a certain condition (true positives + false negatives).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Specificity of the system differentiating coughs caused by different conditions</measure>
+    <time_frame>5 years.</time_frame>
+    <description>The records obtained from participants for which an etiologic diagnosis is reached before the end of the study will be analysed to detect differential acoustic patterns, which will in turn be used to train the system's convolutional neural network to perform respiratory disease cough classification. The performance of this system will be retrospectively evaluated by determining its specificity for the diagnosis of different respiratory conditions, compared to clinical diagnoses made by a physician. Specificity will be defined as the proportion of participants in which Hyfe correctly identifies the absence of acoustic cough patterns associated to a certain disease (true negatives), from the total of participants without that specific condition (true negatives+ false positives).</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Cough</condition>
+  <condition>COPD</condition>
+  <condition>GERD</condition>
+  <condition>Asthma</condition>
+  <condition>Tuberculosis</condition>
+  <condition>Non-Tuberculous Mycobacterial Pneumonia</condition>
+  <condition>COVID-19 Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>Participants with cough as a symptom</arm_group_label>
+    <description>This group will be composed of patients at the Clínica Universidad de Navarra that complain of having cough as a remarkable symptom.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Validation subgroup 1</arm_group_label>
+    <description>This subgroup will be composed by both, patients belonging to the main study group, as well as voluntaries, who will be asked to provide a series of elicited cough and non-cough sounds for validation purposes.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Validation subgroup 2</arm_group_label>
+    <description>This subgroup will be composed by inpatients admitted to the Clínica Universidad de Navarra with a diagnosis of respiratory disease, or presenting cough as a symptom, as well as healthy individuals. This group will be monitored with Hyfe Cough Tracker and Hyfe Air for a variable period of 6-24 hours, while they are recorded with a MP3 recorder connected to a lapel microphone.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Hyfe Cough Tracker</intervention_name>
+    <description>Hyfe Cough Tracker is a digital acoustic surveillance system that uses an artificial intelligence system to discriminate cough from non-cough sounds. Hyfe is an AI-enabled mobile app that records short snippets (&lt;0.5 seconds) of putative cough explosive sounds and then classifies them as cough or non-cough using a convolutional neural network (CNN) model. Briefly, the acoustic characteristics of recorded sounds are converted into an image file, which is then processed by an algorithm trained to identify graphical differences in images. This creates an adjustable prediction score, with values above it, resulting in a sound being classified as &quot;cough&quot;, and those below being classified as &quot;non-cough.</description>
+    <arm_group_label>Participants with cough as a symptom</arm_group_label>
+    <arm_group_label>Validation subgroup 1</arm_group_label>
+    <arm_group_label>Validation subgroup 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Hyfe Air</intervention_name>
+    <description>Hyfe Air is a wearable device with an incorporated wireless lapel microphone. The device´s recordings can be run through the same cough-detection algorithm used by Hyfe Cough Tracker, while its results are directly stored in a remote database and are not displayed to participants.</description>
+    <arm_group_label>Validation subgroup 2</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Voice records of participants taking part in the validation sub-studies.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        For the main study group, the population are patients with respiratory disease treated in&#xD;
+        the Clínica Universidad de Navarra (Pamplona and Madrid campuses).&#xD;
+&#xD;
+        Since the validation sub-study 1 only requires elicited sounds, a group of participants&#xD;
+        from a previous study will be directly invited to participate. For the validation sub-study&#xD;
+        2, participants will include both, inpatients admitted to the Clínica Universidad de&#xD;
+        Navarra and presenting cough, and healthy individuals directly invited to participate by&#xD;
+        the study team.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        For participants in the main study group&#xD;
+&#xD;
+          -  Outpatient or inpatients at the Clinical Universidad de Navarra with a complaint of&#xD;
+             cough.&#xD;
+&#xD;
+          -  The patient or his/her legal representative, have given consent to participate in the&#xD;
+             study.&#xD;
+&#xD;
+        For participants in the sub-study groups:&#xD;
+&#xD;
+          -  Being 18 years or older.&#xD;
+&#xD;
+          -  Providing consent for the sub-study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Inability to accept the privacy policy and terms of use of Hyfe.&#xD;
+&#xD;
+          -  Lack of access to a Wi-Fi network at the site of residence (for the main study group).&#xD;
+&#xD;
+          -  Unwillingness to regularly use the cough-surveillance system throughout the monitoring&#xD;
+             period&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>5 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Carlos Chaccour, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Clinica Universidad de Navarra</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Carlos Chaccour, MD, PhD</last_name>
+    <phone>+34948255400</phone>
+    <email>cchaccour@unav.es</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Juan Gabaldon, MD, MSc</last_name>
+    <email>jgabaldonfi@unav.es</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Clinica Universidad de Navarra</name>
+      <address>
+        <city>Pamplona</city>
+        <state>Navarra</state>
+        <zip>31008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carlos Chaccour, MD</last_name>
+      <email>carlos.chaccour@isglobal.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Juan Gabaldon, MD</last_name>
+      <email>jgabaldonfi@unav.es</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <reference>
+    <citation>Barton A, Gaydecki P, Holt K, Smith JA. Data reduction for cough studies using distribution of audio frequency content. Cough. 2012 Dec 12;8(1):12. doi: 10.1186/1745-9974-8-12.</citation>
+    <PMID>23231789</PMID>
+  </reference>
+  <reference>
+    <citation>Boulet LP, Coeytaux RR, McCrory DC, French CT, Chang AB, Birring SS, Smith J, Diekemper RL, Rubin B, Irwin RS; CHEST Expert Cough Panel. Tools for assessing outcomes in studies of chronic cough: CHEST guideline and expert panel report. Chest. 2015 Mar;147(3):804-814. doi: 10.1378/chest.14-2506.</citation>
+    <PMID>25522203</PMID>
+  </reference>
+  <reference>
+    <citation>Bujang MA, Adnan TH. Requirements for Minimum Sample Size for Sensitivity and Specificity Analysis. J Clin Diagn Res. 2016 Oct;10(10):YE01-YE06. Epub 2016 Oct 1. Review.</citation>
+    <PMID>27891446</PMID>
+  </reference>
+  <reference>
+    <citation>Decalmer SC, Webster D, Kelsall AA, McGuinness K, Woodcock AA, Smith JA. Chronic cough: how do cough reflex sensitivity and subjective assessments correlate with objective cough counts during ambulatory monitoring? Thorax. 2007 Apr;62(4):329-34. Epub 2006 Nov 13.</citation>
+    <PMID>17101736</PMID>
+  </reference>
+  <reference>
+    <citation>Gabaldon-Figueira JC, Brew J, Doré DH, Umashankar N, Chaccour J, Orrillo V, Tsang LY, Blavia I, Fernández-Montero A, Bartolomé J, Grandjean Lapierre S, Chaccour C. Digital acoustic surveillance for early detection of respiratory disease outbreaks in Spain: a protocol for an observational study. BMJ Open. 2021 Jul 2;11(7):e051278. doi: 10.1136/bmjopen-2021-051278.</citation>
+    <PMID>34215614</PMID>
+  </reference>
+  <reference>
+    <citation>Hall JI, Lozano M, Estrada-Petrocelli L, Birring S, Turner R. The present and future of cough counting tools. J Thorac Dis. 2020 Sep;12(9):5207-5223. doi: 10.21037/jtd-2020-icc-003. Review.</citation>
+    <PMID>33145097</PMID>
+  </reference>
+  <reference>
+    <citation>Matos S, Birring SS, Pavord ID, Evans DH. An automated system for 24-h monitoring of cough frequency: the leicester cough monitor. IEEE Trans Biomed Eng. 2007 Aug;54(8):1472-9.</citation>
+    <PMID>17694868</PMID>
+  </reference>
+  <reference>
+    <citation>Park SC, Kang MJ, Han CH, Lee SM, Kim CJ, Lee JM, Kang YA. Prevalence, incidence, and mortality of nontuberculous mycobacterial infection in Korea: a nationwide population-based study. BMC Pulm Med. 2019 Aug 1;19(1):140. doi: 10.1186/s12890-019-0901-z.</citation>
+    <PMID>31370826</PMID>
+  </reference>
+  <reference>
+    <citation>Porter P, Abeyratne U, Swarnkar V, Tan J, Ng TW, Brisbane JM, Speldewinde D, Choveaux J, Sharan R, Kosasih K, Della P. A prospective multicentre study testing the diagnostic accuracy of an automated cough sound centred analytic system for the identification of common respiratory disorders in children. Respir Res. 2019 Jun 6;20(1):81. doi: 10.1186/s12931-019-1046-6.</citation>
+    <PMID>31167662</PMID>
+  </reference>
+  <reference>
+    <citation>Ragonnet R, Trauer JM, Geard N, Scott N, McBryde ES. Profiling Mycobacterium tuberculosis transmission and the resulting disease burden in the five highest tuberculosis burden countries. BMC Med. 2019 Nov 22;17(1):208. doi: 10.1186/s12916-019-1452-0.</citation>
+    <PMID>31752895</PMID>
+  </reference>
+  <reference>
+    <citation>Sharan RV, Abeyratne UR, Swarnkar VR, Claxton S, Hukins C, Porter P. Predicting spirometry readings using cough sound features and regression. Physiol Meas. 2018 Sep 5;39(9):095001. doi: 10.1088/1361-6579/aad948.</citation>
+    <PMID>30091716</PMID>
+  </reference>
+  <reference>
+    <citation>Song WJ, Chang YS, Faruqi S, Kang MK, Kim JY, Kang MG, Kim S, Jo EJ, Lee SE, Kim MH, Plevkova J, Park HW, Cho SH, Morice AH. Defining Chronic Cough: A Systematic Review of the Epidemiological Literature. Allergy Asthma Immunol Res. 2016 Mar;8(2):146-55. doi: 10.4168/aair.2016.8.2.146. Epub 2015 Sep 18.</citation>
+    <PMID>26739408</PMID>
+  </reference>
+  <reference>
+    <citation>Turner RD. Cough in pulmonary tuberculosis: Existing knowledge and general insights. Pulm Pharmacol Ther. 2019 Apr;55:89-94. doi: 10.1016/j.pupt.2019.01.008. Epub 2019 Feb 1. Review.</citation>
+    <PMID>30716411</PMID>
+  </reference>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 13, 2021</study_first_posted>
+  <last_update_submitted>November 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Tuberculosis</mesh_term>
+    <mesh_term>Cough</mesh_term>
+    <mesh_term>Respiration Disorders</mesh_term>
+    <mesh_term>Respiratory Tract Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Datasets with anonymized IPD, including cough registries and VAS scores will be shared at the end of the study.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Data will become available at the completion of the study (2026) and will remain available from that moment onward.</ipd_time_frame>
+    <ipd_access_criteria>Upon request to researchers</ipd_access_criteria>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 4, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/63/NCT05042063/Prot_SAP_002.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>October 4, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/63/NCT05042063/ICF_003.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

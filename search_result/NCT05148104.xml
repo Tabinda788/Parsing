@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1002">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05148104</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Bullseye Glenoid</org_study_id>
+    <nct_id>NCT05148104</nct_id>
+  </id_info>
+  <brief_title>Intra-Operative Evaluation of the Glenoid Implant Position With Structured Light</brief_title>
+  <official_title>Intra-operative Evaluation of the Glenoid Implant Position With Structured Light</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sunnybrook Health Sciences Centre</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sunnybrook Health Sciences Centre</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Positioning of the glenoid component is one of the most challenging steps in shoulder&#xD;
+      replacement surgery. Prosthesis longevity and functional outcomes are considered highly&#xD;
+      dependent on accurate positioning. Currently, there are no adequate means to verify the&#xD;
+      position of the glenoid component during surgery which is a significant impediment to&#xD;
+      accurate positioning. We propose a non-interventional study to validate a novel technology&#xD;
+      for verifying the position of the glenoid component during shoulder replacement surgery.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Positioning of the glenoid component is one of the most challenging steps in shoulder&#xD;
+      replacement surgery. In this study, we are testing a new method of checking the glenoid&#xD;
+      component position using an optical light 3D scanner for both total and reverse total&#xD;
+      shoulder replacements. Currently, the position of the glenoid component is verified by the&#xD;
+      operating surgeon visually and there is no routine imaging to verify the position of the&#xD;
+      glenoid component during surgery.&#xD;
+&#xD;
+      Participants in this study will have a 3D optical image of their glenoid bone taken during&#xD;
+      the surgical procedure. Taking this image will require less than 3 minutes and the image will&#xD;
+      only include their surgical wound (no facial features or other identifying features will be&#xD;
+      taken in the images). Two to six weeks after the surgery, the study participants will have CT&#xD;
+      scan of their replaced shoulder. This will allow the researchers to measure the accuracy of&#xD;
+      the new imaging system.&#xD;
+&#xD;
+      It is anticipated that about 14 people will participate in this study at Sunnybrook. The&#xD;
+      length of this study for participants is 6 weeks. The entire study is expected to take about&#xD;
+      1 year to complete and the results should be known 6 months after study completion.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 19, 2021</start_date>
+  <completion_date type="Anticipated">November 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Identify accuracy of the structured light computer vision system</measure>
+    <time_frame>Surgical timepoint</time_frame>
+    <description>The primary study outcome will be the accuracy of the structured light computer vision system. This will be quantified as the difference in predicted and actual position of the glenoid implant measured as version error (degrees), inclination error (degrees), and offset error (mm).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Operative delay for imaging (seconds)</measure>
+    <time_frame>Surgical timepoint</time_frame>
+    <description>seconds</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Computer vision system image processing time (seconds)</measure>
+    <time_frame>Surgical timepoint</time_frame>
+    <description>seconds</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intra-operative complications</measure>
+    <time_frame>Surgical timepoint</time_frame>
+    <description>from chart review</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Early post-operative complications (evaluated at 3 months follow-up from chart review)</measure>
+    <time_frame>3 months after surgery</time_frame>
+    <description>from chart review</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">14</enrollment>
+  <condition>Shoulder Arthropathy Associated With Other Conditions</condition>
+  <arm_group>
+    <arm_group_label>Patients receiving shoulder arthroplasty</arm_group_label>
+    <description>Patients receiving shoulder arthroplasty that have an intact glenoid prior to the procedure. Ideally the glenoid surface should be visible and intact during imaging.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        To be an eligible participant in this study, the patient must be about to undergo a total&#xD;
+        shoulder replacement.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Greater than 18 years of age.&#xD;
+&#xD;
+          -  Scheduled to undergo total shoulder arthroplasty surgery.&#xD;
+&#xD;
+          -  Scheduled pre-operative CT imaging of the shoulder and the surgical plan includes open&#xD;
+             exposure of the glenoid.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previous shoulder surgery involving the glenoid.&#xD;
+&#xD;
+          -  No clinically indicated pre-operative CT imaging.&#xD;
+&#xD;
+          -  Pregnancy (current or planned).&#xD;
+&#xD;
+          -  Current or planned participation in other research, or having a clinical condition&#xD;
+             that would result in cumulative annual radiation exposure exceeding the regulatory&#xD;
+             limit (30 mSv) from all sources.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robin R Richards, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Appointed Orthopaedic Surgeon</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Robin R Richards, MD</last_name>
+    <phone>416-480-5051</phone>
+    <email>robin.richards@sunnybrook.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Cari Whyne, PhD</last_name>
+    <phone>416-480-6100</phone>
+    <phone_ext>5056</phone_ext>
+    <email>cari.whyne@sunnybrook.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Sunnybrook Health Sciences Centre</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M4N 3M5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cari Whyne, PhD</last_name>
+      <phone>416-480-6100</phone>
+      <phone_ext>5056</phone_ext>
+      <email>cari.whyne@sunnybrook.ca</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 8, 2021</study_first_posted>
+  <last_update_submitted>November 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Sunnybrook Health Sciences Centre</investigator_affiliation>
+    <investigator_full_name>Dr. Robin Richards</investigator_full_name>
+    <investigator_title>Orthopaedic Surgeon, Division of Orthopaedic Surgery</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Joint Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,1690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1847">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05137119</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CT19029</org_study_id>
+    <nct_id>NCT05137119</nct_id>
+  </id_info>
+  <brief_title>Staphylococcus Aureus Network Adaptive Platform Trial</brief_title>
+  <acronym>SNAP</acronym>
+  <official_title>Staphylococcus Aureus Network Adaptive Platform Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Melbourne</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Menzies School of Health Research</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Berry Consultants</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sunnybrook Health Sciences Centre</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tan Tock Seng Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Telethon Kids Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Peter Doherty Institute for Infection and Immunity</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The University of Queensland</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Queensland University of Technology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Melbourne</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Staphylococcus aureus Network Adaptive Platform (SNAP) trial is an International&#xD;
+      Multi-Centered Randomised Adaptive Platform Clinical Trial to evaluate a range of&#xD;
+      interventions to reduce mortality for patients with Staphylococcus Aureus bacteraemia (SAB).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Infection of the bloodstream with the bacterium Staphylococcus aureus (Staphylococcus aureus&#xD;
+      bacteraemia, SAB) is a serious infection that results in 15-30% of affected patients dying&#xD;
+      within three months of acquiring the infection. Treatment of this infection requires patients&#xD;
+      to be hospitalised, treated with prolonged antibiotics through an intravenous line, and&#xD;
+      carefully examined for the occurrence of complications associated with this condition. At&#xD;
+      present, there are many treatment options in current use, with no clear agreement as to which&#xD;
+      of these is best. The SNAP trial aims to identify which treatment options for SAB results in&#xD;
+      the fewest patients dying within the first 90 days after an infection.&#xD;
+&#xD;
+      In contrast to a conventional clinical trial, the SNAP trial will examine multiple different&#xD;
+      treatment options at once. Patients will be randomly assigned to different concurrent&#xD;
+      treatment options currently considered acceptable in routine medical care, but as the trial&#xD;
+      progresses, more patients will be assigned to treatments that appear to have better outcomes&#xD;
+      than those with worse outcomes. The trial will adapt to accumulating trial evidence, on a&#xD;
+      regular basis, by removing treatment options found to be inferior, incorporating new&#xD;
+      treatment options, and ensuring that all patients in the trial receive the best treatments&#xD;
+      once they have been identified. Over time, we hope to determine the best combination of&#xD;
+      treatment options for patients with SAB.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2021</start_date>
+  <completion_date type="Anticipated">December 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2025</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <intervention_model_description>Participants enrolled into the study have the option of deciding whether to be randomised in one or more (if available) treatment domains concurrently, if they meet the eligibility criteria.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>This is an open-label study</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>All-cause mortality at 90 days after platform entry</measure>
+    <time_frame>From randomisation (day 1) until day 90</time_frame>
+    <description>The primary endpoint for all cells and domains will be all-cause mortality at 90 days after platform entry.&#xD;
+The primary endpoint will be determined through a search of hospital databases for a record of a participant's death, or follow-up contact with the participant's community healthcare provider, or follow-up contact with the patient or their nominated carer, or linkage with death registries.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality at 14, 28 and 42 days after platform entry</measure>
+    <time_frame>From randomisation (day 1) until day 14, 28, and 42</time_frame>
+    <description>Determined through a search of hospital databases for a record of a participant's death, or follow-up contact with the participant's community healthcare provider, or follow-up contact with the patient or their nominated carer, or linkage with death registries.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of survival censored at 90 days after platform entry</measure>
+    <time_frame>From randomisation (day 1) until day 90</time_frame>
+    <description>Determined through a search of hospital databases for a record of a participant's death, or follow-up contact with the participant's community healthcare provider, or follow-up contact with the patient or their nominated carer, or linkage with death registries.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay of acute index inpatient hospitalisation for those surviving until hospital discharge (excluding HITH/COPAT/OPAT/rehab) truncated at 90 days after platform entry.</measure>
+    <time_frame>From randomisation (day 1) until day 90</time_frame>
+    <description>Acute index hospitalisation is defined as a continuous admission to an inpatient healthcare facility where the patient was recruited.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay of total index hospitalisation for those surviving until hospital discharge (including HITH/COPAT/OPAT/rehab) truncated at 90 days after platform entry.</measure>
+    <time_frame>From randomisation (day 1) until day 90</time_frame>
+    <description>Total index hospitalisation is defined as a continuous admission to any healthcare facility, including rehabilitation hospitals, and hospital-in-the-home or outpatient parenteral antimicrobial therapy services.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to being discharged alive from the total index hospitalisation (including HITH/COPAT/OPAT/rehab) truncated at 90 days after platform entry</measure>
+    <time_frame>From randomisation (day 1) until day 90</time_frame>
+    <description>and all deaths within 90 days will be considered '90 days'</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Microbiological treatment failure defined as positive sterile site culture for S. aureus [of the same silo as the index isolate between 14 and 90 days after platform entry).</measure>
+    <time_frame>From randomisation (day 1) until day 90</time_frame>
+    <description>A sterile site means any sites deep to the skin and skin structures, including deep visceral and musculoskeletal abscesses that have been obtained in a sterile manner.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diagnosis of new foci between 14 and 90 days after platform entry.</measure>
+    <time_frame>From randomisation (day 1) until day 90</time_frame>
+    <description>The presence of new foci will be determined by the site investigator and can incorporate clinical, radiological, microbiological and pathological findings.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C. difficile diarrhoea as determined by a clinical laboratory in the 90 days following platform entry for participants ≥2 years of age.</measure>
+    <time_frame>From randomisation (day 1) until day 90</time_frame>
+    <description>This means a stool submitted to a clinical laboratory has tested positive for C. difficile toxin or toxin gene.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with Serious adverse reactions (SARs) in the 90 days following platform entry</measure>
+    <time_frame>From randomisation (day 1) until day 90</time_frame>
+    <description>SARs defined only as events that are attributable to one or more study interventions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health economic costs as detailed in the cost utility analysis appendix.</measure>
+    <time_frame>From randomisation (day 1) until day 90</time_frame>
+    <description>Including hospital length of stay, readmissions, and patient employment status.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who have returned to their usual level of function at day 90.</measure>
+    <time_frame>From randomisation (day 1) until day 90</time_frame>
+    <description>Determined by whether the modified functional bloodstream infection score (FBIS) remained the same or improved between baseline and 90 days after platform entry.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Desirability of outcome ranking 1 (modified Antibiotic Resistance Leadership Group version)</measure>
+    <time_frame>From randomisation (day 1) until day 90</time_frame>
+    <description>unable to insert modified ARLG table</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Desirability of outcome ranking 2 (SNAP version)</measure>
+    <time_frame>From randomisation (day 1) until day 90</time_frame>
+    <description>unable to insert SNAP DOOR table</description>
+  </secondary_outcome>
+  <number_of_arms>10</number_of_arms>
+  <enrollment type="Anticipated">6000</enrollment>
+  <condition>Staphylococcus Aureus Bacteremia</condition>
+  <arm_group>
+    <arm_group_label>Methicillin-resistant staphylococcus aureus (MRSA) - Standard Therapy Arm (backbone therapy)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Vancomycin or Daptomycin - Standard Therapy Arm&#xD;
+Either intravenous vancomycin dosed as per Australian Therapeutic Guidelines: This includes a loading dose of 25 mg/kg (up to 3000mg) if considered appropriate by the treating clinician, initial maintenance dosing at 15-20 mg/kg q12h, with subsequent adjustment to maintain area under the concentration-time curve (AUC) of 400 to 600 mg.hr/L OR trough levels at 10-20 mg/L, and the initial level taken 48-72 hours after the initiation of the first dose. Daptomycin 8-10mg/kg per day intravenously. The choice of vancomycin or daptomycin will be at the clinician's discretion. Dosing will be based on renal function.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Methicillin-resistant staphylococcus aureus (MRSA) - Standard + B-Lactam Arm (backbone therapy)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Vancomycin or Daptomycin (Standard Therapy) + Beta-Lactam (β-lactam) Arm&#xD;
+In addition to standard treatment an intravenous β-lactam will be added for the first 7 calendar days following randomisation (day 1 being the day of randomisation - hence patients will receive 6-7 days of β-lactam). This β-lactam will be intravenous cefazolin 2g every 8 hours. For patients with renal impairment the intravenous cefazolin administration doses will be adjusted.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Methicillin-susceptible staphylococcus aureus (MSSA) - Standard Therapy Arm (backbone therapy)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Flucloxacillin or cloxacillin - Standard Therapy Arm&#xD;
+Either intravenous flucloxacillin/cloxacillin 2g every 4 or 6 hours. The minimum protocol duration of allocated study treatment is 14 days for those not allocated to early oral switch, and 5 days for those allocated to early oral switch. For patients with renal impairment or critical illness the intravenous flucloxacillin administration dose will be adjusted.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Methicillin-susceptible staphylococcus aureus (MSSA) - Interventional Arm (backbone therapy)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cefazolin - Interventional Arm&#xD;
+Intravenous cefazolin 2g every 6 or 8 hours. The minimum protocol duration of allocated study treatment is 14 days for those not allocated to early oral switch, and 5 days for those allocated to early oral switch. For patients with renal impairment or critical illness the intravenous cefazolin administration dose will be adjusted.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Penicillin-susceptible staphylococcus aureus (PSSA) - Standard Therapy Arm (backbone therapy)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Flucloxacillin or cloxacillin - Standard Therapy Arm&#xD;
+Either intravenous flucloxacillin/cloxacillin 2g every 4 or 6 hours. The minimum protocol duration of allocated study treatment is 14 days for those not allocated to early oral switch, and 5 days for those allocated to early oral switch. For patients with renal impairment or critical illness the intravenous flucloxacillin administration dose will be adjusted.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Penicillin-susceptible staphylococcus aureus (PSSA) - Interventional Arm (backbone therapy)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Benzylpenicillin - Interventional Arm&#xD;
+Intravenous benzylpenicillin 1.8g (3 million units) every 4 or 6 hours. The minimum protocol duration of allocated study treatment is 14 days for those not allocated to early oral switch, and 5 days for those allocated to early oral switch. For patients with critical illness the intravenous benzylpenicillin administration doses will be adjusted.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No adjunctive treatment in combination with MRSA or MSSA or PSSA backbone therapy arm</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>No adjunctive therapy + backbone therapy arm for MRSA or MSSA or PSSA&#xD;
+Participants with either MRSA or MSSA or PSSA will have no adjunctive therapy in combination with their backbone therapy arm.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Adjunctive treatment in combination with MRSA or MSSA or PSSA backbone therapy arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Adjunctive therapy + backbone therapy arm for MRSA or MSSA or PSSA Intravenous clindamycin (or lincomycin) 600mg every 8 hours for 5 days. No dosage adjustment is needed to renal impairment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Continue intravenous antibiotic therapies (backbone +/- adjunctive therapy) - standard of care arm</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Backbone therapy arm for MRSA or MSSA or PSSA +/- adjunctive therapy will continue on intravenous antibiotic treatment for the length of time as per usual standard of care.&#xD;
+Participants eligibility is assessed at Day 7 (+/- 2 days) if eligible will be randomised if not eligible then eligibility will be assess again at Day 14(+/- 2 days). If eligibility is not met at day 14 then participant is excluded from this domain.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Switch to oral antibiotics at trial day 7 (+/- 2 days) or Day 14 (+/- 2 days) if eligible.</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Switch from intravenous backbone antibiotic for MRSA or MSSA or PSSA to oral antibiotics at the treating clinicians discretion on trial Day 7 (+/- 2 days) or trial Day 14 (+/- 2 days).&#xD;
+Participants eligibility is assessed at Day 7 (+/- 2 days). If eligible will be randomised, if not eligible then eligibility will be assessed again at Day 14 (+/- 2 days). If eligibility is not met at day 14 then participant is excluded from this domain.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cefazolin</intervention_name>
+    <description>Cefazolin</description>
+    <arm_group_label>Methicillin-resistant staphylococcus aureus (MRSA) - Standard + B-Lactam Arm (backbone therapy)</arm_group_label>
+    <arm_group_label>Methicillin-susceptible staphylococcus aureus (MSSA) - Interventional Arm (backbone therapy)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Penicillin</intervention_name>
+    <description>benzylpenicillin</description>
+    <arm_group_label>Penicillin-susceptible staphylococcus aureus (PSSA) - Interventional Arm (backbone therapy)</arm_group_label>
+    <other_name>Benzylpenicillin</other_name>
+    <other_name>Penicillin G</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Clindamycin</intervention_name>
+    <description>Clindamycin</description>
+    <arm_group_label>Adjunctive treatment in combination with MRSA or MSSA or PSSA backbone therapy arm</arm_group_label>
+    <other_name>Lincomycin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vancomycin</intervention_name>
+    <description>Vancomycin or Daptomycin</description>
+    <arm_group_label>Methicillin-resistant staphylococcus aureus (MRSA) - Standard + B-Lactam Arm (backbone therapy)</arm_group_label>
+    <other_name>Daptomycin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Effectiveness of early switch to oral antibiotics</intervention_name>
+    <description>This involves testing a strategy rather than individual antibiotic agents</description>
+    <arm_group_label>Switch to oral antibiotics at trial day 7 (+/- 2 days) or Day 14 (+/- 2 days) if eligible.</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        PLATFORM Inclusion Criteria:&#xD;
+&#xD;
+        Patients must fulfil all of the following criteria to be eligible to enter the SNAP trial:&#xD;
+&#xD;
+        1. Staphylococcus aureus complex grown from ≥1 blood culture 2. Admitted to a participating&#xD;
+        hospital at the time of eligibility assessment&#xD;
+&#xD;
+        PLATFORM Exclusion Criteria:&#xD;
+&#xD;
+        Potentially eligible participants meeting any of the following criteria at the time of&#xD;
+        eligibility assessment for platform entry will be excluded from the trial:&#xD;
+&#xD;
+          1. Time of anticipated platform entry is greater than 72 hours post collection of the&#xD;
+             index blood culture&#xD;
+&#xD;
+             a) Where the time of culture collection is not recorded, the time of laboratory&#xD;
+             registration of the sample will be used as an alternative&#xD;
+&#xD;
+          2. Polymicrobial bacteraemia, defined as more than one organism (at species level) in the&#xD;
+             index blood cultures, excluding those organisms judged to be contaminants by either&#xD;
+             the microbiology laboratory or treating clinician&#xD;
+&#xD;
+          3. Patient currently being treated with a systemic antibacterial agent that cannot be&#xD;
+             ceased (unless antibiotic is listed in Table 1, which specifies allowed antibiotics&#xD;
+             with limited absorption from the gastrointestinal tract or negligible antimicrobial&#xD;
+             activity against S. aureus)&#xD;
+&#xD;
+          4. Known previous participation in SNAP&#xD;
+&#xD;
+          5. Known positive blood culture for S. aureus (of the same silo: PSSA, MSSA or MRSA)&#xD;
+             between 72 hours and 180 days prior to the time of eligibility assessment&#xD;
+&#xD;
+          6. Treating team deems enrolment in the study is not in the best interest of the patient&#xD;
+&#xD;
+          7. Treating team believes that death is imminent and inevitable&#xD;
+&#xD;
+          8. Patient is for end-of-life care and antibiotic treatment is considered not appropriate&#xD;
+&#xD;
+          9. Patient &lt;18 years of age and paediatric recruitment not approved at recruiting site&#xD;
+&#xD;
+        To be included in any of the following DOMAINS the participant must met eligible for the&#xD;
+        PLATFORM (as listed above)&#xD;
+&#xD;
+        ADJUNCTIVE TREATMENT DOMAIN&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. All participants that met the PLATFORM eligible are eligible to be included in this&#xD;
+             domain unless they meet any of the following exclusions listed.&#xD;
+&#xD;
+          2. Patients are eligible for this domain regardless of S. aureus susceptibility testing&#xD;
+             results to clindamycin.&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          1. Previous type 1 hypersensitivity reaction to lincosamides&#xD;
+&#xD;
+          2. Currently receiving clindamycin (lincomycin) or linezolid which cannot be ceased or&#xD;
+             substituted&#xD;
+&#xD;
+          3. Necrotising fasciitis&#xD;
+&#xD;
+          4. Current C. difficile associated diarrhoea (any severity) or severe diarrhoea from any&#xD;
+             cause&#xD;
+&#xD;
+          5. Known CDAD (C.Difficile Associated Diarrhoea) in the past 3 months, or CDAD relapse in&#xD;
+             the past 12 months&#xD;
+&#xD;
+          6. At the time of domain eligibility assessment, more than 4 hours has elapsed since&#xD;
+             platform entry&#xD;
+&#xD;
+          7. Treating clinician deems enrolment in this domain is not in the best interest of the&#xD;
+             patient&#xD;
+&#xD;
+        PSSA, MSSA TREATMENT DOMAIN (backbone)&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. For PSSA silo: Index blood culture is penicillin-susceptible&#xD;
+&#xD;
+          2. For MSSA silo: Index blood culture isolate is methicillin-susceptible but penicillin&#xD;
+             resistant&#xD;
+&#xD;
+        Exclusion Criteria (PSSA &amp; MSSA):&#xD;
+&#xD;
+        1. &gt;72 hours have elapsed since the collection of the index blood culture (i.e. the time of&#xD;
+        collection of the first positive blood culture from the patient during this episode) 2.&#xD;
+        History of type I hypersensitivity reaction (i.e. anaphylaxis or angioedema) to any&#xD;
+        penicillin or cephalosporin 3. History of severe delayed reaction (e.g. allergic&#xD;
+        interstitial nephritis, cutaneous vasculitis, Stevens-Johnson, DRESS, etc.) to any&#xD;
+        penicillin or cephalosporin 4. PSSA silo: Non-severe rash to any penicillin (unless patient&#xD;
+        has been subsequently de-labelled; this criteria does not include criteria 2 and 3 above),&#xD;
+        or MSSA silo: Non-severe rash to cefazolin or any penicillin (unless patient has been&#xD;
+        subsequently de-labelled)&#xD;
+&#xD;
+          -  Nausea, diarrhoea, headache, and other non-specific symptoms are NOT allergies, they&#xD;
+             are drug intolerance, and they are not exclusion criteria. Similarly, a vague history&#xD;
+             of an allergy of unclear nature, or a family history of allergy are not exclusions.&#xD;
+&#xD;
+             5. Treating team deems enrolment in this domain is not in the best interest of the&#xD;
+             patient 6. Currently receiving maintenance dialysis (haemodialysis or peritoneal&#xD;
+             dialysis)&#xD;
+&#xD;
+          -  Acute renal replacement therapy (including CRRT, haemodialysis or peritoneal dialysis)&#xD;
+             are not exclusions. Such patients are eligible as long as appropriate vascular access&#xD;
+             is available or can be arranged.&#xD;
+&#xD;
+        MRSA TREATMENT DOMAIN (backbone)&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+        1. MRSA confirmed microbiologically&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Time to allocation reveal is &gt;72 hours from time of index blood culture collection&#xD;
+&#xD;
+          2. Severe allergy to any beta-lactam (including cefazolin)&#xD;
+&#xD;
+               1. Immediate severe allergy: Anaphylaxis/angioedema&#xD;
+&#xD;
+               2. Severe delayed allergy: Severe cutaneous adverse reaction (SCAR; including Steven&#xD;
+                  Johnson Syndrome, Toxic Epidermal Necrolysis, Drug Rash with Eosinophilia and&#xD;
+                  Systemic Symptoms (DRESS) and acute generalised exanthematous pustulosis (AGEP)),&#xD;
+                  severe drug induced liver injury, proven allergic interstitial nephritis,&#xD;
+                  immune-mediated haemolytic anaemia and other severe cytopenia.&#xD;
+&#xD;
+          3. Non-severe rash to cefazolin&#xD;
+&#xD;
+             a) Nausea, diarrhoea, headache and other non-specific symptoms are NOT allergies, they&#xD;
+             are drug intolerance, and they are not exclusion criteria. Similarly, a vague history&#xD;
+             of an allergy of unclear nature, or a family history of allergy are not exclusions.&#xD;
+&#xD;
+          4. Severe allergy or non-severe rash to both vancomycin AND daptomycin&#xD;
+&#xD;
+             a) Vancomycin infusion reaction (formerly known as &quot;red man syndrome&quot;) is due to&#xD;
+             direct histamine release and is not generally an allergy, and therefore is not&#xD;
+             considered an exclusion.&#xD;
+&#xD;
+          5. Treating team deems enrolment in the domain is not in the best interest of the patient&#xD;
+&#xD;
+        EARLY ORAL SWITCH DOMAIN&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+        Day 7 (+/- 2 days):&#xD;
+&#xD;
+          1. Clearance of SAB by platform Day 2: blood cultures negative for S. aureus from&#xD;
+             platform Day 2 onwards AND no known subsequent positive blood cultures&#xD;
+&#xD;
+          2. Afebrile (&lt;37.8°C) for the past 72 hours (at time of judging eligibility)&#xD;
+&#xD;
+          3. Primary focus is either line related (either central or peripheral IV cannula) or skin&#xD;
+             and soft tissue, AND source control achieved (for 'line-related' this means line&#xD;
+             removed; for 'skin and soft tissue' means site PI considers source control to have&#xD;
+             been achieved and any abscess more than 2cm diameter has been drained)&#xD;
+&#xD;
+          4. No evidence of metastatic foci (on clinical or radiological examination, but&#xD;
+             radiological imaging is not required to exclude metastatic foci if not clinically&#xD;
+             indicated)&#xD;
+&#xD;
+        Day 14 (+/- 2 days):&#xD;
+&#xD;
+          1. Clearance of SAB by platform Day 5: blood cultures negative for S. aureus from&#xD;
+             platform Day 5 (+/-1 day) AND no known subsequent positive blood cultures. If the most&#xD;
+             recent blood culture from Day 2-4 is negative for S. aureus, blood cultures do not&#xD;
+             need to be repeated on Day 5 to fulfil eligibility criteria (Day 5 blood cultures will&#xD;
+             be assumed to be negative in this situation)&#xD;
+&#xD;
+          2. Afebrile (&lt;37.8°C) for the past 72 hours (at time of judging eligibility)&#xD;
+&#xD;
+          3. Site Principal Investigator has determined that source control is adequate&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        When judging eligibility at platform Day 7 (+/- 2 days) and at Day 14 (+/- 2 days),&#xD;
+        exclusion criteria are:&#xD;
+&#xD;
+          1. Adherence to oral agents unlikely (as judged by site PI in consultation with the&#xD;
+             treating team)&#xD;
+&#xD;
+          2. Unreliable gastrointestinal absorption (e.g. vomiting, diarrhoea, nil by mouth,&#xD;
+             anatomical reasons)&#xD;
+&#xD;
+          3. There are no appropriate oral antibiotics due to contraindications, drug availability,&#xD;
+             or antibiotic resistance&#xD;
+&#xD;
+          4. Ongoing IV therapy unsuitable e.g. no IV access&#xD;
+&#xD;
+          5. Clinician deems not appropriate for early oral switch&#xD;
+&#xD;
+          6. Patient no longer willing to participate in domain&#xD;
+&#xD;
+             a) In the lead-up to judging eligibility, it may be helpful to discuss with the&#xD;
+             patient the potential for continued IV treatment versus oral switch, to allow hospital&#xD;
+             discharge planning&#xD;
+&#xD;
+          7. Clinical team deems that sufficient duration of antibiotic therapy has already been&#xD;
+             provided&#xD;
+&#xD;
+        Exclusions when judging eligibility for early oral switch at trial Day 7 (+/- 2 days):&#xD;
+&#xD;
+          1. Presence of prosthetic cardiac valve, pacemaker or other intracardiac implant&#xD;
+&#xD;
+          2. Known presence of intravascular clot (excluding superficial peripheral IV line-related&#xD;
+             thrombophlebitis), graft or other intravascular prosthetic material&#xD;
+&#xD;
+          3. Intravascular/intracardiac infections (e.g. endocarditis, mycotic aneurysm)&#xD;
+&#xD;
+          4. Presence of other intracardiac abnormalities felt to put patient at increased risk of&#xD;
+             endocarditis (e.g., bicuspid aortic valve)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>A/Prof Steven Tong</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Melbourne</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Prof Joshua Davies</last_name>
+    <role>Study Chair</role>
+    <affiliation>Menzies School of Research</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jocelyn Mora</last_name>
+    <phone>+61 3 8344 0770</phone>
+    <email>jocelyn.mora@unimelb.edu.au</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Steven Tong</last_name>
+    <email>steven.tong@mh.org.au</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Canberra Hospital</name>
+      <address>
+        <city>Garran</city>
+        <state>Australia Capital Territory</state>
+        <zip>2605</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Heather Wilson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Blacktown Hospital</name>
+      <address>
+        <city>Blacktown</city>
+        <state>New South Wales</state>
+        <zip>2148</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Ravindra Dotel</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Prince Alfred Hospital</name>
+      <address>
+        <city>Camperdown</city>
+        <state>New South Wales</state>
+        <zip>2050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Sebastian VanHal</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Concord Repatriation and General Hospital</name>
+      <address>
+        <city>Concord</city>
+        <state>New South Wales</state>
+        <zip>2139</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Genevieve McKew</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Timothy Gray</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St Vincent's Hospital Sydney</name>
+      <address>
+        <city>Darlinghurst</city>
+        <state>New South Wales</state>
+        <zip>2010</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Gail Matthews</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nepean Hospital</name>
+      <address>
+        <city>Kingswood</city>
+        <state>New South Wales</state>
+        <zip>2747</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Archana Sud</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St George Hospital</name>
+      <address>
+        <city>Kogarah</city>
+        <state>New South Wales</state>
+        <zip>2217</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Richard Sullivan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Liverpool Hospital</name>
+      <address>
+        <city>Liverpool</city>
+        <state>New South Wales</state>
+        <zip>2170</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Hong Foo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>John Hunter Hospital</name>
+      <address>
+        <city>New Lambton Heights</city>
+        <state>New South Wales</state>
+        <zip>2305</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Joshua Davies</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Prince of Wales Hospital</name>
+      <address>
+        <city>Randwick</city>
+        <state>New South Wales</state>
+        <zip>2031</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Jeffrey Post</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sydney Children's Hospital</name>
+      <address>
+        <city>Randwick</city>
+        <state>New South Wales</state>
+        <zip>2031</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Brendan McMullan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Children's Hospital at Westmead</name>
+      <address>
+        <city>Westmead</city>
+        <state>New South Wales</state>
+        <zip>2145</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Philip Britton</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Westmead Hospital</name>
+      <address>
+        <city>Westmead</city>
+        <state>New South Wales</state>
+        <zip>2145</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Matthew O'Sullivan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wollongong Hospital</name>
+      <address>
+        <city>Wollongong</city>
+        <state>New South Wales</state>
+        <zip>2500</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Niladri Ghosh</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Darwin Hospital</name>
+      <address>
+        <city>Tiwi</city>
+        <state>Northern Territory</state>
+        <zip>0811</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Jane Davies</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Josh Francis</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Kate Proudmore</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sunshine Coast University Hospital</name>
+      <address>
+        <city>Birtinya</city>
+        <state>Queensland</state>
+        <zip>4575</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>David Sowden</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Shradha Subedi</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cairns Hospital</name>
+      <address>
+        <city>Cairns</city>
+        <state>Queensland</state>
+        <zip>4870</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Brisbane and Women's Hospital</name>
+      <address>
+        <city>Herston</city>
+        <state>Queensland</state>
+        <zip>4029</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>David Paterson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Logan Hospital</name>
+      <address>
+        <city>Meadowbrook</city>
+        <state>Queensland</state>
+        <zip>4131</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Vichitra Sukumaran</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Queensland Children's Hospital</name>
+      <address>
+        <city>South Brisbane</city>
+        <state>Queensland</state>
+        <zip>4101</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Clare Nourse</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gold Coast University Hospital</name>
+      <address>
+        <city>Southport</city>
+        <state>Queensland</state>
+        <zip>4215</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Katherine Garnham</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Alexandra Hospital</name>
+      <address>
+        <city>Woolloongabba</city>
+        <state>Queensland</state>
+        <zip>4102</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Andrew Henderson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Flinders Medical Centre</name>
+      <address>
+        <city>Bedford Park</city>
+        <state>South Australia</state>
+        <zip>5042</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Nicholas Anagnostou</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Women's and Children's Hospital</name>
+      <address>
+        <city>North Adelaide</city>
+        <state>South Australia</state>
+        <zip>5006</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Nan Vasilunas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Hobart Hospital</name>
+      <address>
+        <city>Hobart</city>
+        <state>Tasmaina</state>
+        <zip>7000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Peter Leung</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Launceston Hospital</name>
+      <address>
+        <city>Launceston</city>
+        <state>Tasmania</state>
+        <zip>7250</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Ali Trad</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ballarat Base Hospital</name>
+      <address>
+        <city>Ballarat</city>
+        <state>Victoria</state>
+        <zip>3350</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Robert Commons</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Bendigo Health</name>
+      <address>
+        <city>Bendigo</city>
+        <state>Victoria</state>
+        <zip>3550</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Andrew Mahony</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Box Hill Hospital</name>
+      <address>
+        <city>Box Hill</city>
+        <state>Victoria</state>
+        <zip>3128</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>LynLi Lim</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Stephen Guy</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Monash Medical Centre</name>
+      <address>
+        <city>Clayton</city>
+        <state>Victoria</state>
+        <zip>3168</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Ben Rogers</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Richard Doherty</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Western Health</name>
+      <address>
+        <city>Footscray</city>
+        <state>Victoria</state>
+        <zip>3011</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Adrian Tramontana, Dr</last_name>
+      <phone>0413 755 303</phone>
+      <email>adrian.tramontana@wh.org.au</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Frankston Hospital</name>
+      <address>
+        <city>Frankston</city>
+        <state>Victoria</state>
+        <zip>3199</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Kasha Singh</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Geelong Hospital</name>
+      <address>
+        <city>Geelong</city>
+        <state>Victoria</state>
+        <zip>3220</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Eugene Athan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Austin Hospital</name>
+      <address>
+        <city>Heidelberg</city>
+        <state>Victoria</state>
+        <zip>3084</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Natasha Holmes</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Alfred Hospital</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3004</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>James McMahon</last_name>
+    </contact>
+    <investigator>
+      <last_name>James McMahon</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Melbourne Hospital</name>
+      <address>
+        <city>Parkville</city>
+        <state>Victoria</state>
+        <zip>3050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Justin Denholm</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Children's Hospital Melbourne</name>
+      <address>
+        <city>Parkville</city>
+        <state>Victoria</state>
+        <zip>3052</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Amanda Gwee, A/Prof</last_name>
+      <phone>0434733861</phone>
+      <email>amanda.gwee@rch.org.au</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Goulburn Valley Health</name>
+      <address>
+        <city>Shepparton</city>
+        <state>Victoria</state>
+        <zip>3630</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Thomas Schulz, Dr</last_name>
+      <phone>0414562558</phone>
+      <email>thomas.schulz@mh.org.au</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>La Trobe Regional Hospital</name>
+      <address>
+        <city>Traralgon</city>
+        <state>Victoria</state>
+        <zip>3844</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Zaal Meher-Homji</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fiona Stanley Hospital</name>
+      <address>
+        <city>Murdoch</city>
+        <state>Western Australia</state>
+        <zip>6150</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Perth Children's Hospital</name>
+      <address>
+        <city>Nedlands</city>
+        <state>Western Australia</state>
+        <zip>6009</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Asha Bowen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Anita Campbell</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Perth Hospital</name>
+      <address>
+        <city>Perth</city>
+        <state>Western Australia</state>
+        <zip>6000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Owen Robinson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Calgary - Foothills Medical Center</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N4Z6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Ranjani Somayaji</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Alberta Hospital</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T6G2B7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Stephanie Smith</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Richmond General Hospital</name>
+      <address>
+        <city>Richmond</city>
+        <state>British Columbia</state>
+        <zip>V6X1A2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Clement Kwok</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Vancouver General Hospital</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V5Z1M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Jennifer Grant</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Health Sciences Centre Winnipeg</name>
+      <address>
+        <city>Winnipeg</city>
+        <state>Manitoba</state>
+        <zip>R3A1R9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Terry Wuerz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Eastern Health - Health Sciences Centre (Memorial University)</name>
+      <address>
+        <city>Saint John's</city>
+        <state>Newfoundland and Labrador</state>
+        <zip>A1B3V6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Peter Daley</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Health Network</name>
+      <address>
+        <city>East York</city>
+        <state>Ontario</state>
+        <zip>M5G2C4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Bryan Coburn</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hamilton Health Sciences Center</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L8P1A2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Dominik Mertz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kingston Health Sciences Centre</name>
+      <address>
+        <city>Kingston</city>
+        <state>Ontario</state>
+        <zip>K7L2V7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Gerald Evans</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ottawa Hospital</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1H8L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Derek MacFadden</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Unity Health</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M1L 1W1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Matthew Muller</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Kevin Schwarz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sunnybrook Health Sciences Centre</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M4N3M5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Nick Daneman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sinai Heath System</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G1X5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Jennie Johnstone</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Jewish General Hospital</name>
+      <address>
+        <city>Montréal</city>
+        <state>Quebec</state>
+        <zip>H3T1E2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Leighanne Parkes</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>McGill University Health Centre</name>
+      <address>
+        <city>Montréal</city>
+        <state>Quebec</state>
+        <zip>H4A3J1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Todd Lee</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Sherbrooke Health Centre- USHC/CHUS</name>
+      <address>
+        <city>Sherbrooke</city>
+        <state>Quebec</state>
+        <zip>J1H 5H3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Alex Carignan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rambam Health Care Campus</name>
+      <address>
+        <city>Haifa</city>
+        <zip>310960</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Mical Paul</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Beilinson Hospital</name>
+      <address>
+        <city>Petah tikva</city>
+        <zip>49100</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Dafna Yahav</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Auckland City Hospital</name>
+      <address>
+        <city>Grafton</city>
+        <state>Auckland</state>
+        <zip>1023</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Mark Hobbs</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Middlemore Hospital</name>
+      <address>
+        <city>Otahuhu</city>
+        <state>Auckland</state>
+        <zip>1640</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Genevieve Walls</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Rachel Webb</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Susan Morpeth</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>North Shore Hospital</name>
+      <address>
+        <city>Takapuna</city>
+        <state>Auckland</state>
+        <zip>0620</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Nick Gow</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Christchurch Hospital</name>
+      <address>
+        <city>Christchurch</city>
+        <state>Canterbury</state>
+        <zip>8011</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Sarah Metcalf</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hutt Valley Hospital</name>
+      <address>
+        <city>Boulcott</city>
+        <state>Lower Hutt</state>
+        <zip>5010</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Matthew Kelly</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nelson Hospital</name>
+      <address>
+        <city>Nelson South</city>
+        <state>Nelson</state>
+        <zip>7010</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Richard Everts</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dunedin Hospital</name>
+      <address>
+        <city>Dunedin</city>
+        <state>Otago</state>
+        <zip>9016</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Brendan Arnold</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wellington Hospital</name>
+      <address>
+        <city>Newtown</city>
+        <state>Wellington</state>
+        <zip>6021</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Max Bloomfield</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Waikato Hospital</name>
+      <address>
+        <city>Hamilton</city>
+        <zip>3240</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Paul Huggan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tauranga Hospital</name>
+      <address>
+        <city>Tauranga</city>
+        <zip>3112</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Kate Grimwade</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Whangarei Hospital</name>
+      <address>
+        <city>Whangarei</city>
+        <zip>0148</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>David Hammer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>National University Hospital</name>
+      <address>
+        <city>Singapore</city>
+        <zip>119228</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Singapore General Hospital</name>
+      <address>
+        <city>Singapore</city>
+        <zip>168753</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Shirin Kalimuddin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tan Tock Seng Hospital</name>
+      <address>
+        <city>Singapore</city>
+        <zip>308433</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>David Lye</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>Israel</country>
+    <country>New Zealand</country>
+    <country>Singapore</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>April 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 30, 2021</study_first_posted>
+  <last_update_submitted>November 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Methicillin-resistant Staphylococcus aureus (MRSA)</keyword>
+  <keyword>Methicillin-susceptible Staphylococcus aureus (MSSA)</keyword>
+  <keyword>Penicillin-susceptible Staphylococcus aureus (PSSA)</keyword>
+  <keyword>Staphylococcus aureus</keyword>
+  <keyword>S. aureus</keyword>
+  <keyword>Staph Aureus Bacteremia (SAB)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Staphylococcal Infections</mesh_term>
+    <mesh_term>Bacteremia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anti-Bacterial Agents</mesh_term>
+    <mesh_term>Vancomycin</mesh_term>
+    <mesh_term>Clindamycin</mesh_term>
+    <mesh_term>Cefazolin</mesh_term>
+    <mesh_term>Daptomycin</mesh_term>
+    <mesh_term>Penicillins</mesh_term>
+    <mesh_term>Penicillin G</mesh_term>
+    <mesh_term>Lincomycin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

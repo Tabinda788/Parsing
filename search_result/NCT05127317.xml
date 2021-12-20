@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2600">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05127317</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2017-KAEK-02082021</org_study_id>
+    <nct_id>NCT05127317</nct_id>
+  </id_info>
+  <brief_title>Mechanical Power in Pediatric Mechanical Ventilation</brief_title>
+  <official_title>Can Mechanical Power be Used as a Safety Precaution in Pediatric Patients?</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bozok University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bozok University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Mechanical power is the amount of energy transferred to the respiratory system of patients&#xD;
+      during each breath period. After overcoming the resistances required for respiration, the&#xD;
+      remaining energy may end up by damaging the lung parenchyma. Promising studies are showing&#xD;
+      that this amount of energy, which can be calculated mathematically, can be used as a single&#xD;
+      indicator instead of the limits used for barotrauma, volu-trauma, or atelecto-trauma in adult&#xD;
+      patients. However, the MP limit that should not be exceeded in pediatric patients is not yet&#xD;
+      clear. In this study, we present our MP calculations in pediatric anesthesia&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Mechanical ventilation is applied to millions of healthy and sick lungs every year in&#xD;
+      perioperative conditions and intensive care units. Meanwhile, the energy applied to the lungs&#xD;
+      by the ventilator during mechanical ventilation is usually used to overcome resistance in the&#xD;
+      chest wall and airways. Leftover energy is consumed by temperature, inflammation, and&#xD;
+      potentially lung tissue damage (1). The risk of ventilation-related damage increases in lungs&#xD;
+      with impaired homogeneity and ventilation-perfusion imbalance (1). As demonstrated by&#xD;
+      experimental and clinical studies, mechanical ventilation-induced lung injury (VILI) is&#xD;
+      associated with tidal volume, peak pressure, respiratory rate, and airflow. The physical&#xD;
+      force applied during ventilation TV increases exponentially with driving pressures (ΔPaw),&#xD;
+      flow (exponent = 2), and respiration rate (RR) (exponent = 1.4), and linearly with positive&#xD;
+      end-expiratory pressure (PEEP) (2). When the effects of these parameters are formulated, the&#xD;
+      energy applied to the lungs is revealed. This energy has been formulated as Joule/minute and&#xD;
+      has now taken its place as mechanical power (MP) in the literature. (2). A benefit of the MP&#xD;
+      calculation is that it is a single, easily calculated indicator parameter that can be used&#xD;
+      for the risks of barotrauma, volutrauma, or atelectotrauma associated with VILI. As shown in&#xD;
+      different publications, high MP values were associated with negative outcomes such as&#xD;
+      increased 30-day mortality in intensive care patients, increased length of stay in hospital&#xD;
+      and intensive care unit, and decreased number of ventilator-free days(3)(4). Cressoni et al.&#xD;
+      showed in their experimental study that MP values above 12 J/min in healthy pigs are&#xD;
+      associated with MV-related complications and this value can also be used as an alarm limit in&#xD;
+      humans(5). In addition, Costa et al found that 0.32 ± 0.14 J / min/ kg indexed MP(MP/Kg) was&#xD;
+      associated with increased mortality in ARDS patients(6). Some recent studies also support the&#xD;
+      conclusion that Mp calculation is beneficial(7)(8). For this reason, Gattinoni et al.&#xD;
+      suggests that MP limits and formula should be added to the mechanical ventilator software(2).&#xD;
+      However, studies on MP have often focused on ARDS and have been performed on intensive care&#xD;
+      patients or experimental animal models(9). Although MP is a promising safety limit with its&#xD;
+      easy computability, there are still questions about the formula and its usefulness. The&#xD;
+      success of the MP formula in perioperative situations and especially in pediatric patients&#xD;
+      has not been adequately tested. As far as we know, our study is one of the first publications&#xD;
+      to question the MP threshold in healthy pediatric cases.&#xD;
+&#xD;
+      In this study, our primary aim is to calculate the MP applied in pediatric cases who will&#xD;
+      undergo inguinal hernia surgery under general anesthesia.&#xD;
+&#xD;
+      Our other aims are the calculation of the mechanical power applied per kilogram and the other&#xD;
+      transferred energies, their comparison with the literature, and questioning the possible&#xD;
+      contribution of a mechanical power formula to safe mechanical ventilation in pediatric cases.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 10, 2021</start_date>
+  <completion_date type="Anticipated">January 10, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 10, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>median mechanical power</measure>
+    <time_frame>Measurements will be taken after half an hour of mechanical ventilation.</time_frame>
+    <description>mechanical force applied to the lungs during mechanical ventilation, calculated according to the formula</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>indexed mechanical power</measure>
+    <time_frame>Data will be obtained at the beginning of the operation and after half an hour of ventilation</time_frame>
+    <description>mechanical power and other mechanical ventilator parameters applied according to the weight of the patients</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">17</enrollment>
+  <condition>Mechanical Ventilation Complication</condition>
+  <condition>Aediatric Anesthesia</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Mechanical power</intervention_name>
+    <description>In our study, mechanical power (MP) will be calculated during mechanical ventilation in patients who will be operated under general anesthesia.&#xD;
+MP will be calculated with the simplified formula applied by Gattinoni et al. MPvcv: RR x Tv x (PIP-[(Pplat-PEEP)/2]) x 0.098(2) In pressure-controlled ventilation, the simplified MP formula of Becher et al. well be used.&#xD;
+MPpcv: RR x Tv x (ΔPinsp + PEEP) x 0.098 (11)&#xD;
+For MP calculated according to the weight of the patients; Indexed MP: MP /kg according to IBW. For the force applied to the lungs in each inspiration; Dynamic power (mJ/min): Vt x RR x [(Pplato+ tPEEP)/2]. For the driver power that provides the gas flow; Driving power (mJ/min): Vt x RR x [ (Pplat - tPEEP) / 2]. Calculating mechanical energy; Mechanical energy (mJ/kg): 0.098 x (V x kg ) x (PIP - [(P plateau- PEEP) / 2]) formulas were used</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients under the age of 18 who will undergo laparoscopic lower abdomen surgery under&#xD;
+        general anesthesia under elective conditions.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - To undergo laparoscopic lower abdomen surgery under general anesthesia under elective&#xD;
+        conditions under the age of 18&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        - Patients in both groups weill be excluded if they had uncorrected congenital heart&#xD;
+        disease, pre-existing lung or airway disease, conditions that may decrease chest wall&#xD;
+        compliance, chronic respiratory failure requiring long-term MV, and tracheostomy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ahmet YUKSEK, asst.prof</last_name>
+    <role>Study Chair</role>
+    <affiliation>Yozgat Bozok Universitesi</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ahmet YUKSEK, asst.prof</last_name>
+    <phone>05326580351</phone>
+    <email>mdayuksek@hotmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Bozok Univesity Hospital</name>
+      <address>
+        <city>Yozgat</city>
+        <zip>66001</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ahmet YUKSEK</last_name>
+      <phone>05326580351</phone>
+      <email>mdayuksek@hotmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <results_reference>
+    <citation>Kneyber MCJ. Driving Pressure and Mechanical Power: The Return of Physiology in Pediatric Mechanical Ventilation. Pediatr Crit Care Med. 2021 Oct 1;22(10):927-929. doi: 10.1097/PCC.0000000000002829.</citation>
+    <PMID>34605787</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Becher T, van der Staay M. Calculation of mechanical power for pressure-controlled ventilation: author's reply. Intensive Care Med. 2019 Oct;45(10):1498-1499. doi: 10.1007/s00134-019-05742-7. Epub 2019 Aug 20.</citation>
+    <PMID>31432217</PMID>
+  </results_reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 19, 2021</study_first_posted>
+  <last_update_submitted>November 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Bozok University</investigator_affiliation>
+    <investigator_full_name>Ahmet YUKSEK</investigator_full_name>
+    <investigator_title>Asst.Prof.Dr.</investigator_title>
+  </responsible_party>
+  <keyword>mechanical ventilation</keyword>
+  <keyword>pediatric anesthesia</keyword>
+  <keyword>mechanical power</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

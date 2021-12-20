@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2652">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05126641</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-004</org_study_id>
+    <secondary_id>4714175</secondary_id>
+    <secondary_id>921296</secondary_id>
+    <nct_id>NCT05126641</nct_id>
+  </id_info>
+  <brief_title>Analysis of Emergency Department Visits According to Incidence of Covid-19</brief_title>
+  <official_title>Analysis of Emergency Department Visits According to Incidence of Covid-19 in French Metropolis : a One-year Multicenter Observational Retrospective Study.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier de Roubaix</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University Hospital, Lille</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Centre Hospitalier de Roubaix</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      With lockdown, Emergency Departments (ED) visits decrease, principally for visits unrelated&#xD;
+      with Covid-19. In this study, the investigators aimed to find a correlation between ED visits&#xD;
+      and incidence rate of Covid-19 in a French metropolis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      All patients older than 18 years were included in 9 ED during 51 weeks. Patients transferred&#xD;
+      between the centers participating in the study were excluded.&#xD;
+&#xD;
+      The investigators count the number of visits per weeks, then the number of visits according&#xD;
+      to :&#xD;
+&#xD;
+        -  reason for consultation Covid-like (cough, fever or dyspnea),&#xD;
+&#xD;
+        -  reason for consultation with accordance to French Emergency Medicine Society (SFMU)&#xD;
+           reference&#xD;
+&#xD;
+        -  diagnosis with accordance to SFMU reference&#xD;
+&#xD;
+        -  orientation (home, medical unit, chirurgical unit, intensive care unit, psychiatric&#xD;
+           unit, death)&#xD;
+&#xD;
+      Pearson's correlation test compare incidence rate per week with this counts and admission&#xD;
+      rate.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 13, 2020</start_date>
+  <completion_date type="Actual">May 4, 2021</completion_date>
+  <primary_completion_date type="Actual">May 4, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>non-Covid-19 visit</measure>
+    <time_frame>51 weeks</time_frame>
+    <description>Count of non-Covid-19 visit per week</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Reason for visits</measure>
+    <time_frame>51 weeks</time_frame>
+    <description>Count of each reason for visits category according to SFMU reference</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Admission rate</measure>
+    <time_frame>51 weeks</time_frame>
+    <description>Admission rate per week</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diagnosis</measure>
+    <time_frame>51 weeks</time_frame>
+    <description>Count of each diagnostic category according to SFMU reference</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Orientation</measure>
+    <time_frame>51 weeks</time_frame>
+    <description>Count of each orientation (home, medical unit, chirurgical unit, intensive care unit, death, psychiatric unit, other)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Incidence rate of Covid 19</measure>
+    <time_frame>51 weeks</time_frame>
+    <description>Incidence rate of Covid 19 per week</description>
+  </other_outcome>
+  <enrollment type="Actual">400000</enrollment>
+  <condition>Emergency Service, Hospital</condition>
+  <condition>Epidemiology</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients visited one of 9 emergency department.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  patients over 18 years old&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  patient who are transferred between centers participating to the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Emergency Department, General Hospital</name>
+      <address>
+        <city>Armentières</city>
+        <state>Nord</state>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emergency Department, General Hospital</name>
+      <address>
+        <city>Hazebrouck</city>
+        <state>Nord</state>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emergency Department, University Hospital</name>
+      <address>
+        <city>Lille</city>
+        <state>Nord</state>
+        <zip>59000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emergency Department, GHICL Saint-Philibert</name>
+      <address>
+        <city>Lomme</city>
+        <state>Nord</state>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emergency Department, General Hospital</name>
+      <address>
+        <city>Roubaix</city>
+        <state>Nord</state>
+        <zip>59100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emergency Department, General Hospital</name>
+      <address>
+        <city>Seclin</city>
+        <state>Nord</state>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emergency Department, General Hospital</name>
+      <address>
+        <city>Tourcoing</city>
+        <state>Nord</state>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emergency Department, GHICL Saint-Vincent</name>
+      <address>
+        <city>Lille</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <reference>
+    <citation>Kain T, Fowler R. Preparing intensive care for the next pandemic influenza. Crit Care. 2019 Oct 30;23(1):337. doi: 10.1186/s13054-019-2616-1. Review.</citation>
+    <PMID>31665057</PMID>
+  </reference>
+  <reference>
+    <citation>Sivey P, McAllister R, Vally H, Burgess A, Kelly AM. Anatomy of a demand shock: Quantitative analysis of crowding in hospital emergency departments in Victoria, Australia during the 2009 influenza pandemic. PLoS One. 2019 Sep 24;14(9):e0222851. doi: 10.1371/journal.pone.0222851. eCollection 2019.</citation>
+    <PMID>31550288</PMID>
+  </reference>
+  <reference>
+    <citation>Lum ME, McMillan AJ, Brook CW, Lester R, Piers LS. Impact of pandemic (H1N1) 2009 influenza on critical care capacity in Victoria. Med J Aust. 2009 Nov 2;191(9):502-6.</citation>
+    <PMID>19883346</PMID>
+  </reference>
+  <reference>
+    <citation>Schanzer DL, Schwartz B. Impact of seasonal and pandemic influenza on emergency department visits, 2003-2010, Ontario, Canada. Acad Emerg Med. 2013 Apr;20(4):388-97. doi: 10.1111/acem.12111.</citation>
+    <PMID>23701347</PMID>
+  </reference>
+  <reference>
+    <citation>Yang L, Chan KH, Suen LK, Chan KP, Wang X, Cao P, He D, Peiris JS, Wong CM. Impact of the 2009 H1N1 Pandemic on Age-Specific Epidemic Curves of Other Respiratory Viruses: A Comparison of Pre-Pandemic, Pandemic and Post-Pandemic Periods in a Subtropical City. PLoS One. 2015 Apr 30;10(4):e0125447. doi: 10.1371/journal.pone.0125447. eCollection 2015. Erratum in: PLoS One. 2015;10(7):e0133946.</citation>
+    <PMID>25928217</PMID>
+  </reference>
+  <reference>
+    <citation>Kollek D. Response of a community hospital and its emergency department to the H1N1 pandemic influenza. Radiat Prot Dosimetry. 2010 Nov;142(1):12-6. doi: 10.1093/rpd/ncq271. Review.</citation>
+    <PMID>21041239</PMID>
+  </reference>
+  <reference>
+    <citation>Kuitunen I, Ponkilainen VT, Launonen AP, Reito A, Hevonkorpi TP, Paloneva J, Mattila VM. The effect of national lockdown due to COVID-19 on emergency department visits. Scand J Trauma Resusc Emerg Med. 2020 Dec 4;28(1):114. doi: 10.1186/s13049-020-00810-0.</citation>
+    <PMID>33276799</PMID>
+  </reference>
+  <reference>
+    <citation>Boserup B, McKenney M, Elkbuli A. The impact of the COVID-19 pandemic on emergency department visits and patient safety in the United States. Am J Emerg Med. 2020 Sep;38(9):1732-1736. doi: 10.1016/j.ajem.2020.06.007. Epub 2020 Jun 6.</citation>
+    <PMID>32738468</PMID>
+  </reference>
+  <reference>
+    <citation>Westgard BC, Morgan MW, Vazquez-Benitez G, Erickson LO, Zwank MD. An Analysis of Changes in Emergency Department Visits After a State Declaration During the Time of COVID-19. Ann Emerg Med. 2020 Nov;76(5):595-601. doi: 10.1016/j.annemergmed.2020.06.019. Epub 2020 Jun 11.</citation>
+    <PMID>33008651</PMID>
+  </reference>
+  <reference>
+    <citation>Kim HS, Cruz DS, Conrardy MJ, Gandhi KR, Seltzer JA, Loftus TM, Fant AL, McCarthy DM. Emergency Department Visits for Serious Diagnoses During the COVID-19 Pandemic. Acad Emerg Med. 2020 Sep;27(9):910-913. doi: 10.1111/acem.14099. Epub 2020 Aug 17.</citation>
+    <PMID>32737912</PMID>
+  </reference>
+  <reference>
+    <citation>Giannouchos TV, Biskupiak J, Moss MJ, Brixner D, Andreyeva E, Ukert B. Trends in outpatient emergency department visits during the COVID-19 pandemic at a large, urban, academic hospital system. Am J Emerg Med. 2021 Feb;40:20-26. doi: 10.1016/j.ajem.2020.12.009. Epub 2020 Dec 9.</citation>
+    <PMID>33338676</PMID>
+  </reference>
+  <reference>
+    <citation>Baugh JJ, White BA, McEvoy D, Yun BJ, Brown DFM, Raja AS, Dutta S. The cases not seen: Patterns of emergency department visits and procedures in the era of COVID-19. Am J Emerg Med. 2021 Aug;46:476-481. doi: 10.1016/j.ajem.2020.10.081. Epub 2020 Nov 5.</citation>
+    <PMID>33189517</PMID>
+  </reference>
+  <reference>
+    <citation>Friedman AB, Barfield D, David G, Diller T, Gunnarson C, Liu M, Vicidomina BV, Zhang R, Zhang Y, Nigam SC. Delayed emergencies: The composition and magnitude of non-respiratory emergency department visits during the COVID-19 pandemic. J Am Coll Emerg Physicians Open. 2021 Jan 14;2(1):e12349. doi: 10.1002/emp2.12349. eCollection 2021 Feb.</citation>
+    <PMID>33490998</PMID>
+  </reference>
+  <reference>
+    <citation>Casalino E, Choquet C, Bouzid D, Peyrony O, Curac S, Revue E, Fontaine JP, Plaisance P, Chauvin A, Ghazali DA. Analysis of Emergency Department Visits and Hospital Activity during Influenza Season, COVID-19 Epidemic, and Lockdown Periods in View of Managing a Future Disaster Risk: A Multicenter Observational Study. Int J Environ Res Public Health. 2020 Nov 10;17(22). pii: E8302. doi: 10.3390/ijerph17228302.</citation>
+    <PMID>33182696</PMID>
+  </reference>
+  <reference>
+    <citation>Wongtanasarasin W, Srisawang T, Yothiya W, Phinyo P. Impact of national lockdown towards emergency department visits and admission rates during the COVID-19 pandemic in Thailand: A hospital-based study. Emerg Med Australas. 2021 Apr;33(2):316-323. doi: 10.1111/1742-6723.13666. Epub 2020 Nov 2.</citation>
+    <PMID>33070468</PMID>
+  </reference>
+  <reference>
+    <citation>Çıkrıkçı Işık G, Çevik Y. Impact of COVID-19 pandemic on visits of an urban emergency department. Am J Emerg Med. 2021 Apr;42:78-82. doi: 10.1016/j.ajem.2021.01.011. Epub 2021 Jan 14.</citation>
+    <PMID>33493832</PMID>
+  </reference>
+  <reference>
+    <citation>Butt AA, Azad AM, Kartha AB, Masoodi NA, Bertollini R, Abou-Samra AB. Volume and Acuity of Emergency Department Visits Prior To and After COVID-19. J Emerg Med. 2020 Nov;59(5):730-734. doi: 10.1016/j.jemermed.2020.08.013. Epub 2020 Aug 7.</citation>
+    <PMID>32919838</PMID>
+  </reference>
+  <reference>
+    <citation>Delforge C. Analyse de l'évolution de la gravité des patients hospitalisés pour un autre motif au cours de la pandémie COVID-19 au Centre Hospitalier de Roubaix [Internet]. Université de Lille; 2020 [cité 28 mai 2021]. Disponible sur: https://pepite.univ-lille.fr/ori-oai-search/notice/view/univ-lille-30333</citation>
+  </reference>
+  <reference>
+    <citation>Référentiels SFMU - Motifs de recours [Internet]. 2010 [cité 27 mai 2021]. Disponible sur: https://www.sfmu.org/fr/vie-professionnelle/outils-professionnels/referentiels-sfmu/le-thesaurus-des-motifs-de-recours/ref_id/22</citation>
+  </reference>
+  <reference>
+    <citation>Référentiels SFMU - Thésaurus [Internet]. 2009 [cité 27 mai 2021]. Disponible sur: https://www.sfmu.org/fr/vie-professionnelle/outils-professionnels/referentiels-sfmu/le-thesaurus-de-medecine-d-urgence/ref_id/23</citation>
+  </reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>November 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 19, 2021</study_first_posted>
+  <last_update_submitted>November 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Non-Covid-19 visits</keyword>
+  <keyword>Emergency departments visits</keyword>
+  <keyword>Incidence of Covid-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Emergencies</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

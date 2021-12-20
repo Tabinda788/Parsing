@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5006">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05096039</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CLCZ696BUS29</org_study_id>
+    <nct_id>NCT05096039</nct_id>
+  </id_info>
+  <brief_title>Role of Sacubitril/Valsartan in Improving Provider Performance in Managing Heart Failure Under Medicare Alternative Payment Models</brief_title>
+  <official_title>Role of Sacubitril/Valsartan in Improving Provider Performance in Managing Heart Failure Under Medicare Alternative Payment Models</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study evaluated the association between sacubitril/valsartan utilization and HF&#xD;
+      patients' Part A &amp; B expenditures within the reimbursement framework of BPCI and MSSP, and&#xD;
+      identified BPCI/MSSP participants with the greatest potential for performance improvement&#xD;
+      (with respect to improving quality and efficiency of care for HF patients) through optimized&#xD;
+      utilization of sacubitril/valsartan.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This drug utilization study employed a retrospective cohort design using the 100% files of&#xD;
+      2015-2018 Medicare enrollment and Part A, B &amp; D claims data in conjunction with publicly&#xD;
+      available information on providers participating in Bundled Payments for Care Improvement&#xD;
+      (BPCI) and/or Medicare Shared Savings Program (MSSP).&#xD;
+&#xD;
+      BPCI Study Design The unit of analysis for addressing study objectives was a unique&#xD;
+      Congestive Heart Failure (CHF) episode of care, which encompassed an initial acute inpatient&#xD;
+      stay plus all Part A &amp; B covered medical services during the 90 days post hospital discharge.&#xD;
+      Episode index date was defined as the date of a beneficiary's initial acute hospital stay&#xD;
+      with a qualifying Medicare Severity-Diagnosis Related Group (MS-DRG) for CHF, triggering a&#xD;
+      CHF episode of care. Beneficiaries were followed longitudinally from episode index date&#xD;
+      through episode end date to measure their utilization of sacubitril/valsartan and Part A &amp; B&#xD;
+      expenditures during the CHF episode of care. A 12-month lookback period, based on when the&#xD;
+      episode was initiated, was utilized to capture beneficiaries' baseline characteristics. For&#xD;
+      example, episodes initiated on 2/1/2018 will have a 2/1/2017 to 1/31/2018 baseline lookback&#xD;
+      period. Balancing the need for data recency, all qualifying CHF episodes from 2016-2018 were&#xD;
+      included in the analysis. Given this is an episode-level analysis, a beneficiary may have&#xD;
+      contributed multiple CHF episodes to the data analysis. To account for potential&#xD;
+      within-subject clustering, a generalized linear model with a gamma distribution was applied&#xD;
+      for estimating the association between sacubitril/valsartan use and CHF episode costs.&#xD;
+&#xD;
+      MSSP Study Design The unit of analysis for addressing study objectives was a HF patient's&#xD;
+      Part A &amp; B expenditures within the MSSP. Given the most recent year of data available at the&#xD;
+      time the study was conducted was 2018, the study population included HF patients for whom the&#xD;
+      MSSP participants were accountable in 2018 per Centers for Medicare &amp; Medicaid Services (CMS)&#xD;
+      assignment. These beneficiaries' utilization of sacubitril/valsartan and annual Part A &amp; B&#xD;
+      expenditures was measured from January 1, 2018 - December 31, 2018. Data from CY 2017 was&#xD;
+      leveraged for capturing these patients' baseline characteristics.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 10, 2020</start_date>
+  <completion_date type="Actual">September 30, 2020</completion_date>
+  <primary_completion_date type="Actual">September 30, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Bundled Payments for Care Improvement (BPCI) Congestive Heart Failure (CHF) episode costs</measure>
+    <time_frame>90 days following the episode index date (episode index date differed by patient depending on when they were admitted to the hospital (triggering a HF clinical episode), ranging from Jan. 1, 2016 through Oct. 1, 2018)</time_frame>
+    <description>BPCI CHF episode costs defined as the sum of expenditures for Part A &amp; B covered medical services during the CHF episode</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Medicare Shared Savings Program (MSSP) beneficiary annual Medicare</measure>
+    <time_frame>Baseline (Calender Year 2017) and Calender Year 2018 (01/01/2018 to 31/12/2018)</time_frame>
+    <description>MSSP beneficiary annual Medicare Part A &amp; B expenditures defined as the sum of all Part A &amp; B expenditures within the calendar year (CY)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Outpatient utilization of sacubitril/valsartan during 90-day post-discharge period of the CHF episode</measure>
+    <time_frame>90 days following the episode index date (episode index date differed by patient depending on when they were admitted to the hospital (triggering a HF clinical episode), ranging from Jan. 1, 2016 through Oct. 1, 2018)</time_frame>
+    <description>yes/no binary variable</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference in actual Congestive Heart Failure (CHF) episode costs vs. benchmark CHF episode costs</measure>
+    <time_frame>90 days following the episode index date (episode index date differed by patient depending on when they were admitted to the hospital (triggering a HF clinical episode), ranging from Jan. 1, 2016 through Oct. 1, 2018)</time_frame>
+    <description>A benchmark was created to assess performance and determine savings for the BPCI. Difference in actual Congestive Heart Failure (CHF) episode costs vs. benchmark CHF episode costs were reported</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Outpatient utilization of sacubitril/valsartan among Medicare Shared Savings Program (MSSP) Heart Failure (HF) patients</measure>
+    <time_frame>Baseline (Calender Year 2017) and Calender Year 2018 (01/01/2018 to 31/12/2018)</time_frame>
+    <description>yes/no binary variable</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference in actual HF patient annual Medicare Part A &amp; B expenditures vs. benchmark HF patient annual Medicare Part A &amp; B expenditures</measure>
+    <time_frame>Baseline (Calender Year 2017) and Calender Year 2018 (01/01/2018 to 31/12/2018)</time_frame>
+    <description>A benchmark was created to assess performance and determine savings for the MSSP. Difference in actual HF patient annual Medicare Part A &amp; B expenditures vs. benchmark HF patient annual Medicare Part A &amp; B expenditures were reported</description>
+  </secondary_outcome>
+  <number_of_groups>6</number_of_groups>
+  <enrollment type="Actual">1614719</enrollment>
+  <condition>Heart Failure</condition>
+  <arm_group>
+    <arm_group_label>Treatment Group 1 (use of sacubitril/valsartan)</arm_group_label>
+    <description>Beneficiaries with one or more prescription claim with an NDC for sacubitril/valsartan during the 90-day episode window (for BPCA) and CY2018 (for MSSP). Patients who met these criteria were assigned a value of '1'; patients that did not meet these criteria were assigned a value of '0'</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Group 2 (use of ACEI or ARB and no use of sacubitril/valsartan)</arm_group_label>
+    <description>Beneficiaries with one or more prescription claim with an NDC for any ACEI/ARB and no prescription claims for sacubitril/valsartan during the 90-day episode window (for BPCA) and CY2018 (for MSSP). Patients who met these criteria were assigned a value of '1'; patients that did not meet these criteria were assigned a value of '0'</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Group 3 (no use of ACEI, ARB, or sacubitril/valsartan)</arm_group_label>
+    <description>Beneficiaries who did not qualify for Group 1 or Group 2 were assigned a value of '1'; patients that did not meet this criteria were assigned a value of '0'</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort Group 1 (Overall cohort)</arm_group_label>
+    <description>The beneficiaries who met the inclusion criteria and were divided into the three treatment groups were considered Cohort Group 1 or the &quot;overall cohort.&quot;</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort Group 2 (subgroup 1)</arm_group_label>
+    <description>Patients with evidence of systolic HF defined as: having at least 2 medical claims (on different dates) with an ICD-9/-10 diagnosis code for systolic HF in any position during the lookback period and/or during the entire 90-day episode window (for BPCA) and CY2017 and/or CY2018 (for MSSP). Patients who met these criteria were assigned a value of '1'; patients that did not meet these criteria were assigned a value of '0'</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort Group 3 (subgroup 2)</arm_group_label>
+    <description>Patients with evidence of Heart Failure Reduced Ejection Fraction (HFrEF) identified based on a published algorithm</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sacubitril/valsartan</intervention_name>
+    <description>Beneficiaries with one or more prescription claim with an NDC for sacubitril/valsartan (from the PDE file) during the 90-day episode window. Patients who met these criteria were assigned a value of '1'; patients that did not meet these criteria were assigned a value of '0'</description>
+    <arm_group_label>Treatment Group 1 (use of sacubitril/valsartan)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ACEI or ARB and no sacubitril/valsartan</intervention_name>
+    <description>Beneficiaries with one or more prescription claim with an NDC for any ACEI/ARB and no prescription claims for sacubitril/valsartan during the 90-day episode window. Patients who met these criteria were assigned a value of '1'; patients that did not meet these criteria were assigned a value of '0'</description>
+    <arm_group_label>Treatment Group 2 (use of ACEI or ARB and no use of sacubitril/valsartan)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult Medicare FFS beneficiaries diagnosed with HF and who received care from a BPCI or&#xD;
+        MSSP participant&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ≥18 years old during year of index date with valid gender and geographic information&#xD;
+&#xD;
+          -  Continuous enrollment (CE) in the health plan with medical and pharmacy benefits for&#xD;
+             ≥6 months (180ii days) before the index date (pre-index period)&#xD;
+&#xD;
+          -  CE with medical and pharmacy benefits for ≥18 months (540ii days) beginning on the&#xD;
+             index date (post-index period)&#xD;
+&#xD;
+          -  All patients had uniform 6-month pre-index and 18-month post-index periods&#xD;
+&#xD;
+          -  ≥1 medical claim with an MS diagnosis codeiii in any position during the pre-or&#xD;
+             post-index periods&#xD;
+&#xD;
+          -  ≥1 claim for fingolimod after the index date (i.e., from index date +1 to 539 days&#xD;
+             post-index)&#xD;
+&#xD;
+          -  By requiring ≥1 medical claim with an MS diagnosis code and ≥2 claims with an NDC for&#xD;
+             fingolimod, the inclusion criteria essentially incorporated the preferred/overall best&#xD;
+             performing MS case-finding definition validated by Culpepper et al. The criteria for&#xD;
+             that definition required at least 3 separate encounters from any of the following:&#xD;
+             MS-related ambulatory visits, MS-related inpatient stays, and DMT claims during a&#xD;
+             12-month period. Slightly higher accuracy was found when a 24-month period was used.&#xD;
+&#xD;
+        Exclusion criteria&#xD;
+&#xD;
+        ≥1 pharmacy or medical claim for any MS DMT during the pre-index period&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <role>Study Director</role>
+    <affiliation>Novartis Pharmaceuticals</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Novartis Pharmaceuticals</name>
+      <address>
+        <city>East Hanover</city>
+        <state>New Jersey</state>
+        <zip>07936</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.novctrd.com/ctrdweb/trialresult/trialresults/pdf?trialResultId=17867</url>
+    <description>Results for CLCZ696BUS29 from the Novartis Clinical Trials Website</description>
+  </link>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>September 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 27, 2021</study_first_posted>
+  <last_update_submitted>December 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Heart failure,</keyword>
+  <keyword>Medicare,</keyword>
+  <keyword>Alternative Payment Models,</keyword>
+  <keyword>HFrEF,</keyword>
+  <keyword>Healthcare Expenditures</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Failure</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Valsartan</mesh_term>
+    <mesh_term>Sacubitril and valsartan sodium hydrate drug combination</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

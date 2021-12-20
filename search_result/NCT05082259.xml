@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="6066">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05082259</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CCR5199</org_study_id>
+    <nct_id>NCT05082259</nct_id>
+  </id_info>
+  <brief_title>ASTEROID: A Trial of ASTX660 in Combination With Pembrolizumab</brief_title>
+  <acronym>ASTEROID</acronym>
+  <official_title>ASTEROID:A Phase I Trial of ASTX660 in Combination With Pembrolizumab in Patients With Solid Tumours: Utilizing Triple IAP Blockade as a Strategy to Maximize Immunogenic Cell Death and the Generation of an Efficient Adaptive Immune Response</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Institute of Cancer Research, United Kingdom</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Astex Pharmaceuticals, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Merck Sharp &amp; Dohme Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Cancer Research UK</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Institute of Cancer Research, United Kingdom</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multi-centre Phase I dose finding and proof-of-concept study of the combination of&#xD;
+      ASTX660 together with Pembrolizumab with expansion cohorts testing preliminary efficacy in&#xD;
+      immune-refractory cancers, triple negative breast cancer (TNBC), cervical cancer, and&#xD;
+      glioblastoma.&#xD;
+&#xD;
+      In contrast to the existing studies combining first-generation cIAP1/2 selective Smac&#xD;
+      mimetics with immune check point inhibitors, the ASTEROID Phase I clinical trial will be the&#xD;
+      first trial utilising triple cIAP1/2 and XIAP blockade by ASTX660 as a strategy to maximise&#xD;
+      immunogenic cell death and the generation of an efficient adaptive immune response. ASTX660&#xD;
+      is not simply being used to repeat the data already being acquired with other first&#xD;
+      generation Smac mimetics. In contrast, we will investigate more in depth the mechanisms by&#xD;
+      which ASTX660 elicits its therapeutic effects both on tumour and on the host immune system.&#xD;
+      This will be critical to determine the best strategy to pursue in future later stage tumour&#xD;
+      specific trials of IAP antagonists in combination with immunotherapy, and to ensure&#xD;
+      appropriate molecular stratification biomarkers for the greatest benefit to patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2021</start_date>
+  <completion_date type="Anticipated">March 16, 2026</completion_date>
+  <primary_completion_date type="Anticipated">March 16, 2026</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Determination of MTD and RP2D</measure>
+    <time_frame>12 months</time_frame>
+    <description>To determine the Maximum Tolerated Dose (MTD) of ASTX660 in combination with Pembrolizumab based on dose-limiting toxicities (DLTs) up to 6 weeks from start of treatment and the RP2D.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety and tolerability</measure>
+    <time_frame>12 months</time_frame>
+    <description>To determine the frequency, severity and causality of each adverse event to the combination of ASTX660 and Pembrolizumab according to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) Version 5.0.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Preliminary anti-tumour activity evaluation (in Part B)</measure>
+    <time_frame>24 months</time_frame>
+    <description>Assessment of disease response by imRECIST criteria, clinical benefit rate, best changes in tumour size, progression-free survival and duration of response.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Preliminary anti-tumour activity evaluation (in Part A)</measure>
+    <time_frame>12 months</time_frame>
+    <description>Assessment of disease response by imRECIST criteria, clinical benefit rate, best changes in tumour size, progression-free survival and duration of response.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of ASTX660</measure>
+    <time_frame>12 months</time_frame>
+    <description>Determination of the plasma levels of ASTX660 in Part A of the study, using validated assays</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics-1</measure>
+    <time_frame>18 months</time_frame>
+    <description>Determination of changes in immune cell population (using FACS) and host immune cell cytokine profile with single agent ASTX660 and the combination of ASTX660 and Pembrolizumab</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics-2</measure>
+    <time_frame>36 months</time_frame>
+    <description>Determination of changes in the tumour microenvironment including changes in tumour infiltrating lymphocytes (TILs), myeloid derived suppressor cells (MDSCs) and other immune cells.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics-3</measure>
+    <time_frame>36 months</time_frame>
+    <description>Determination of changes in exploratory biomarkers including but not limited to immune transcriptome profile changes, PD-L1 expression and tumour lysate cytokine profiling in pre- and post-treatment tumour biopsies.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics-4</measure>
+    <time_frame>36 months</time_frame>
+    <description>To evaluate the effect of ASTX660 on the tumour microenvironment including the evaluation of inflammatory cytokines downstream of NF-kB in paired tumour biopsies.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Patient Reported Outcomes - Quality of Life</measure>
+    <time_frame>36 months</time_frame>
+    <description>To evaluate changes in patient reported outcomes from baseline using the EORTCQLQ-C30</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>60 months</time_frame>
+    <description>To estimate the overall survival (OS) in patients receiving the combination of pembrolizumab and ASTX660.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">48</enrollment>
+  <condition>Advanced Cancer</condition>
+  <condition>Cervical Cancer</condition>
+  <condition>Triple Negative Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Part A-Escalation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Increasing doses of ASTX660 in combination with a fixed dose of pembrolizumab to establish the maximum tolerated dose (MTD) of ASTX660 and Pembrolizumab when given in combination in patients with advanced solid tumours.&#xD;
+escalating doses of ASTX660 will be investigated in combination with a fixed dose of Pembrolizumab (200mg). ASTX660 administration will follow a 7 day on / 14 day off pattern (ie dosing for 7 consecutive days leading up to administration of the immune check-point inhibitors). Therefore in Cycle 1, ASTX660 will be given alone from Day 1 to Day 7, followed by a 14 day break, then taken again in Cycle 2 . Each cycle will run for a period of 21 days, with ASTX660 taken always on Days 1 to 7 and Pembrolizumab given always on Day 8.&#xD;
+Up to 4 dose levels of ASTX660 will be explored.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B-Expansion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in Part B will be treated at the RP2D as determined by the SRC after the initial dose escalation (Part A) has been completed. The treatment schedule will be the same as that for Part A, i.e. each cycle will be 21 days-long. Pembrolizumab will always be administered on D8 of every cycle. ASTX660 will be taken daily on Days 1-7.&#xD;
+Part B will be split into 3 cohorts; Cohort B1, Cohort B2 and Cohort B3.&#xD;
+Cohort B1: Patients with Immune-checkpoint refractory tumours Cohort B2: Patients with PD-L1 positive Cervical Cancer Cohort B3: Patients with Triple Negative Breast Cancer</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ASTX660</intervention_name>
+    <description>ASTX660 will be supplied as capsules. Each hydroxylpropyl methylcellulose (HPMC) capsule contains either 30 mg or 90 mg of ASTX600 free-base equivalents, suitable for oral administration. Bottles are labelled with the capsule strength (ie, 30 mg or 90 mg) and are further distinguished by different-colored labels. Each bottle contains 14 capsules and an oxygen-absorber (not to be consumed).</description>
+    <arm_group_label>Part A-Escalation</arm_group_label>
+    <arm_group_label>Part B-Expansion</arm_group_label>
+    <other_name>Tolinapant</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pembrolizumab</intervention_name>
+    <description>Pembrolizumab Solution for Infusion 100 mg/vial is a liquid drug product supplied as a clear to opalescent solution, essentially free of visible particles, in Type I glass vials and manufactured using the fully formulated drug substance with L-histidine as buffering agent, polysorbate 80 as surfactant, and sucrose as stabilizer/tonicity modifier.&#xD;
+Pembrolizumab Solution for Infusion can be further diluted with normal saline or 5% dextrose in the concentration range of 1 to 10 mg/mL in IV containers made of polyvinyl chloride (PVC) or non-PVC material.</description>
+    <arm_group_label>Part A-Escalation</arm_group_label>
+    <arm_group_label>Part B-Expansion</arm_group_label>
+    <other_name>MK-3475</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - 1. PART A: Patients with histologically or cytologically confirmed malignant advanced&#xD;
+        solid tumours, refractory to conventional treatment, or for which no conventional therapy&#xD;
+        exists or is declined by the patient.&#xD;
+&#xD;
+        PART B1: Patients with histologically or cytologically confirmed malignant advanced solid&#xD;
+        tumours, refractory to immune checkpoint inhibitors and for which no conventional therapy&#xD;
+        exists or is declined by the patient.&#xD;
+&#xD;
+        PART B2: Patients with histologically or cytologically confirmed cervical cancer,&#xD;
+        refractory to conventional treatment, or for which no conventional therapy exists or is&#xD;
+        declined by the patient.&#xD;
+&#xD;
+        PART B3: Patients with histologically or cytologically confirmed triple negative breast&#xD;
+        cancer, refractory to conventional treatment, or for which no conventional therapy exists&#xD;
+        or is declined by the patient.&#xD;
+&#xD;
+        For Immune Checkpoint inhibitor refractory tumours, participants must have progressed on&#xD;
+        treatment with an anti-PD-1/L1 mAb administered either as monotherapy or in combination&#xD;
+        with other checkpoint inhibitors or other therapies. PD-1 treatment progression is defined&#xD;
+        by meeting all of the following criteria:&#xD;
+&#xD;
+          1. Has received at least 2 doses of an approved anti-PD-1/PD-L1 mAb.&#xD;
+&#xD;
+          2. Has demonstrated disease progression after anti-PD-1/PD-L1 as defined by RECIST v1.1.&#xD;
+             The initial evidence of PD is to be confirmed by a second assessment no less than 4&#xD;
+             weeks from the date of the first documented disease progression, in the absence of&#xD;
+             rapid clinical progression (as defined in c below).&#xD;
+&#xD;
+          3. Progressive disease has been documented within 12 weeks from the last dose of&#xD;
+             anti-PD-1/PD-L1 mAb.&#xD;
+&#xD;
+        i) Progressive disease is determined according to iRECIST. ii) This determination is made&#xD;
+        by the investigator. Once disease progression is confirmed, the initial date of disease&#xD;
+        progression documentation will be considered the date of disease progression.&#xD;
+&#xD;
+        2. Parts A, B1, B2 and B3: Measurable disease as assessed by imRECIST. 3. All patients with&#xD;
+        advanced solid tumours must be willing and able to have fresh paired tissue biopsies for&#xD;
+        biomarker analysis.&#xD;
+&#xD;
+        4. Life expectancy of at least 12 weeks. 5. World Health Organisation (WHO) performance&#xD;
+        status of 0 or 1. 6. Haematological and biochemical indices within the ranges shown below.&#xD;
+        These measurements must be performed within one week (Day -7 to Day 1) prior to the&#xD;
+        patient's first dose of IMP.&#xD;
+&#xD;
+        Laboratory Test Value required Haemoglobin (Hb)&#xD;
+&#xD;
+        ≥ 9.0 g/dL Absolute neutrophil count&#xD;
+&#xD;
+          -  1.5 x 109/L Lymphocyte count &gt;0.5 x 109/L Platelet count&#xD;
+&#xD;
+          -  100 x 109/L Total Serum bilirubin&#xD;
+&#xD;
+               -  1.5 x upper limit of normal (ULN) Alanine aminotransferase (ALT)&#xD;
+&#xD;
+               -  2.5 x (ULN) unless raised due to known metastatic liver disease in which case ≤ 5&#xD;
+                  x ULN is permissible Aspartate aminotransferase (AST)&#xD;
+&#xD;
+               -  2.5 x (ULN) unless raised due to to known metastatic liver disease in which case&#xD;
+                  ≤ 5 x ULN is permissible&#xD;
+&#xD;
+        Either:&#xD;
+&#xD;
+        Calculated creatinine clearance&#xD;
+&#xD;
+        Or:&#xD;
+&#xD;
+        Creatinine ≥ 50 mL/min (uncorrected value) Or &lt; 1.5 x upper limit of normal (ULN) Albumin&#xD;
+        &gt;28 g/L LDH &lt;3 x ULN Amylase&#xD;
+&#xD;
+        ≤ ULN Lipase&#xD;
+&#xD;
+        ≤ ULN&#xD;
+&#xD;
+        7. 18 years or over 8. Written (signed and dated) informed consent and be capable of&#xD;
+        co-operating with treatment and follow-up 9. Female patients with reproductive potential&#xD;
+        must have a negative urine or serum pregnancy test performed within 72 hours of first dose&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  1. Radiotherapy (except for palliative reasons), endocrine therapy, immunotherapy&#xD;
+             including Pembrolizumab or chemotherapy during the previous four weeks (six weeks for&#xD;
+             nitrosoureas, Mitomycin-C) and four weeks for investigational medicinal products,&#xD;
+             except for hormonal therapy with luteinizing hormone-releasing hormone (LHRH)&#xD;
+             analogues for medical castration in patients with castrate resistant prostate cancer&#xD;
+             or ovarian suppression in pre- or peri-menopausal women with endocrine-driven breast&#xD;
+             cancer, which are permitted, and bisphosphonates or RANK ligand antagonists that are&#xD;
+             permitted for the management of bone metastases.&#xD;
+&#xD;
+        Current malignancies of other types, with the exception of adequately treated cone biopsied&#xD;
+        in situ carcinoma of the cervix uteri and basal or squamous cell carcinoma of the skin.&#xD;
+        Cancer survivors, who have undergone potentially curative therapy for a prior malignancy,&#xD;
+        have no evidence of that disease for five years or more and are deemed at negligible risk&#xD;
+        for recurrence, are eligible for the trial.&#xD;
+&#xD;
+        3. Ongoing Grade 2 or greater toxicities of previous treatments. Exceptions to this are&#xD;
+        alopecia 4. Ability to become pregnant (or already pregnant or lactating). However, those&#xD;
+        female patients who have a negative serum or urine pregnancy test before enrolment and&#xD;
+        agree to use two highly effective forms of contraception (oral, injected or implanted&#xD;
+        hormonal contraception and condom, have an intra-uterine device and condom, diaphragm with&#xD;
+        spermicidal gel and condom) for four weeks before entering the trial, during the trial and&#xD;
+        for six months afterwards are considered eligible. NB. Abstinence is only considered to be&#xD;
+        an acceptable method of contraception when this is in line with the preferred and usual&#xD;
+        lifestyle of the subject. Periodic abstinence (e.g., calendar, ovulation, symptothermal,&#xD;
+        post-ovulation methods) and withdrawal are not acceptable methods of contraception 5. Male&#xD;
+        patients with partners of child-bearing potential (unless they agree to take measures not&#xD;
+        to father children by using one form of highly effective contraception [condom plus&#xD;
+        spermicide] and not to donate sperm during the trial and for six months afterwards). Men&#xD;
+        with pregnant or lactating partners should be advised to use barrier method contraception&#xD;
+        (for example, condom plus spermicidal gel) to prevent exposure to the foetus or neonate.&#xD;
+&#xD;
+        6.&#xD;
+&#xD;
+        Known untreated or active central nervous system (CNS) metastases (progressing or requiring&#xD;
+        corticosteroids for symptomatic control). Patients with a history of treated CNS metastases&#xD;
+        are eligible, provided they meet all of the following criteria:&#xD;
+&#xD;
+          -  Evaluable or measurable disease outside the CNS is present.&#xD;
+&#xD;
+          -  Radiographic demonstration of improvement upon the completion of CNS-directed therapy&#xD;
+             at least 4 weeks after completion of CNS directed therapy and no evidence of interim&#xD;
+             progression between the completion of CNS-directed therapy and the baseline disease&#xD;
+             assessment.&#xD;
+&#xD;
+          -  Not requiring corticosteroids. 7. Major surgery within four weeks of the first dose of&#xD;
+             study treatment. 8. History of malabsorption syndrome or other condition that would&#xD;
+             interfere with enteral absorption.&#xD;
+&#xD;
+        At high medical risk because of non-malignant systemic disease including active&#xD;
+        uncontrolled infection.&#xD;
+&#xD;
+        10. History of (non-infectious) pneumonitis/interstitial lung disease that required&#xD;
+        steroids, or current pneumonitis/interstitial lung disease.&#xD;
+&#xD;
+        11. Known to be serologically positive for hepatitis B, hepatitis C or human&#xD;
+        immunodeficiency virus (HIV).&#xD;
+&#xD;
+        12. Has an active autoimmune disease that has required systemic treatment in past 3 months&#xD;
+        (i.e. with use of disease modifying agents, corticosteroids or immunosuppressive drugs).&#xD;
+        Replacement therapy (e.g., thyroxine, insulin, or physiologic corticosteroid replacement&#xD;
+        therapy for adrenal or pituitary insufficiency, etc.) is not considered a form of systemic&#xD;
+        treatment. Patients with Sjogren's syndrome will not be excluded from the study. In&#xD;
+        addition, patients that experienced a Grade 3 or higher immune-related AE on treatment with&#xD;
+        immunotherapy will be excluded from the study. Patients that have experience a prior G2&#xD;
+        immune-related AE on treatment will need case-by-case discussion with the CI. Patients with&#xD;
+        inactive autoimmune disease which has previously required systemic therapy, may be&#xD;
+        considered on a case-by-case basis after discussion with the sponsor.&#xD;
+&#xD;
+        13. Has a diagnosis of immunodeficiency or is receiving systemic steroid therapy or any&#xD;
+        other form of immunosuppressive therapy within 14 days prior to the first dose of trial&#xD;
+        treatment. The use of physiologic doses of corticosteroids may be approved after&#xD;
+        consultation with the chief Investigator. Stable use (i.e., no change in dose within 1&#xD;
+        month prior to Day 1 of Cycle 1) of inhaled corticosteroids is allowed.&#xD;
+&#xD;
+        14. Has received a live vaccine within 30 days of planned start of study therapy. Note: The&#xD;
+        killed virus vaccines used for seasonal influenza vaccines for injection are allowed;&#xD;
+        however intranasal influenza vaccines (e.g. FluMist®) are live attenuated vaccines and are&#xD;
+        not allowed.&#xD;
+&#xD;
+        15.&#xD;
+&#xD;
+        Any of the following cardiac criteria:&#xD;
+&#xD;
+          1. Mean resting corrected QT interval (QTcF) &gt; 470 msec obtained from 3 consecutive&#xD;
+             electrocardiograms (ECGs) within 5 minutes of each other. Known congenital QT syndrome&#xD;
+             or history of torsades de pointes.&#xD;
+&#xD;
+          2. Left ventricular ejection fraction of &lt;50% on echocardiogram.&#xD;
+&#xD;
+          3. Any clinically significant abnormalities in rhythm, conduction or morphology of&#xD;
+             resting ECG, e.g. complete left bundle branch block, third degree heart block.&#xD;
+             Controlled atrial fibrillation is allowed.&#xD;
+&#xD;
+          4. Experience of any of the following procedures or conditions in the preceding 6 months:&#xD;
+             coronary artery bypass graft, angioplasty, vascular stent, myocardial infarction,&#xD;
+             angina pectoris, congestive heart failure New York Heart Association [NYHA Grade 2 or&#xD;
+             above], severe valvular disease, uncontrolled hypertension despite optimal therapy.&#xD;
+&#xD;
+             16. Prior bone marrow transplant or have had extensive radiotherapy to greater than&#xD;
+             25% of bone marrow within eight weeks.&#xD;
+&#xD;
+             17. Participates or plans to participate in another interventional clinical trial,&#xD;
+             whilst taking part in this Phase I study of ASTX660 and Pembrolizumab. Participation&#xD;
+             in an observational trial would be acceptable.&#xD;
+&#xD;
+             18. Patients with prior exposure to an IAP antagonist (Smac mimetic) will be excluded&#xD;
+             from this study. Patients with prior exposure to immunotherapy (either CTLA-4,&#xD;
+             PD-1/PD-L1 inhibitor/cellular therapy) will be permitted to enrol as long as they did&#xD;
+             not experience any immune-adverse event toxicity while on their prior immunotherapy as&#xD;
+             described in exclusion criteria 12.&#xD;
+&#xD;
+             19. History or current evidence of any condition, therapy, or laboratory abnormality&#xD;
+             that might confound the results of the study, interfere with the patient's&#xD;
+             participation for the full duration of the study, or is not in the best interest of&#xD;
+             the patient to participate, in the Investigator's opinion.&#xD;
+&#xD;
+             20. Severe hypersensitivity (≥ Grade 3) to any of the IMPs and/or any of their&#xD;
+             excipients.&#xD;
+&#xD;
+             21. Known psychiatric or substance abuse disorders that would interfere with&#xD;
+             cooperation with the requirements of the trial.&#xD;
+&#xD;
+             22. History of an allogenic tissue/ solid organ transplant. 23. Symptoms of COVID-19&#xD;
+             and/or documented COVID-19 infection.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Juanita Lopez, MRCP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Royal Marsden Hospital NHS Foundation Trust</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Anna Zachariou, PhD</last_name>
+    <phone>02087224605</phone>
+    <email>asteroid@icr.ac.uk</email>
+  </overall_contact>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 18, 2021</study_first_posted>
+  <last_update_submitted>October 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Triple Negative Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pembrolizumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+
